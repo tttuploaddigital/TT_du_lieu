@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danh_sach_truyen>
+	<truyen ten="mister miracle (2017)" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Kiểu" kieu_truyen="Comic - đọc từ trái sang phải">
+		<ten_truyen>mister miracle (2017)</ten_truyen>
+		<ma_truyen>mister-miracle-2017</ma_truyen>
+        <tac_gia>Tom King, Mitch Gerads, Nick Derington</tac_gia>
+        <tinh_trang>Tiếp tục</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mister-miracle/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Đang cập nhật .</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mister-miracle-2017-viet.xml</file_xml>
+    </truyen>
+</danh_sach_truyen>

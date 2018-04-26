@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danh_sach_truyen>
+	<truyen ten="uratarou" tinh_trang_truyen="het" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Ecchi, Historical, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>uratarou</ten_truyen>
+		<ma_truyen>uratarou</ma_truyen>
+		<tac_gia>Nakayama Atsushi</tac_gia>
+		<tinh_trang>Kết thúc</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/44067/3/200.jpg</hinh_nho>
+		<gioi_thieu>Minamoto của Phương đông - Taira của phương tây - Nguyên binh Họp chiến, cả 2 gia tộc lớn và hùng mạnh nhất bấy giờ tranh giành địa vị và cuối cùng gia tộc Minamoto đã giành thắng lợi, đầy lùi gia tộc Taira. Một sinh mệnh mới được ra đời, Sinh mệnh mang trong mình dòng máu của gia tộc Taira, Chiyo Taira - Cô bé sẽ sống như thế nào khi tất cả mọi thứ đều thuộc về gia tộc minamoto và cả một quốc gia đang truy lùng cô? Cùng đón xem cuộc phiêu lưu của Chiyo Taira trong bộ Uratarou!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/uratarou-viet.xml</file_xml>
+	</truyen>
+	<truyen ten="lv999 no murabito" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Adventure, Fantasy, Martial arts, Shounen., Slice of life" nhan_kieu_truyen="Kiểu" kieu_truyen="Manga - đọc từ phải sang trái">
+		<ten_truyen>lv999 no murabito</ten_truyen>
+		<ma_truyen>lv999-no-murabito</ma_truyen>
+		<tac_gia>Hoshitsuki Koneko, Iwamoto Kenichi</tac_gia>
+		<tinh_trang>Tiếp tục</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/49930/1/200.jpg</hinh_nho>
+		<gioi_thieu>Một thế giới mà cấp độ quyết định tất cả, nghề nghiệp của mỗi người thì cũng đều được quyết định ngay từ khi sinh ra. Đấu sĩ, Chiến binh, Triệu hồi sư, Ẩn sĩ, Thợ săn, bla bla ... Những chức nghiệp này mạnh thì chả có gì đáng nói cả, thế còn một chức nghiệp mà ai cũng xem thường ... "Thường dân" thì sao? Các bạn đã bao giờ nghe đến anh nông dân tay không tát lệch mồm quái vật bao giờ chưa? Chưa thì giờ xem nè. Tóm lại thanh niên class "Thường dân" lv999 bá đạo đi lòng vòng bem quái, hết!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/lv999-no-murabito-viet.xml</file_xml>
+	</truyen>
+	<truyen ten="made in abyss" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Adventure, Fantasy, Sci-fi, Seinen" nhan_kieu_truyen="Kiểu" kieu_truyen="Manga - đọc từ phải sang trái">
+		<ten_truyen>made in abyss</ten_truyen>
+		<ma_truyen>made-in-abyss</ma_truyen>
+        <tac_gia>Tukushi Akihito</tac_gia>
+        <tinh_trang>Tiếp tục</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/37438/1/200.jpg</hinh_nho>
+        <gioi_thieu>Hệ thống hang động khổng lồ, nơi duy nhất trên thế giới còn chưa được khám phá hay còn được biết đến với cái tên, Abyss. Không ai biết được mê cung bí ẩn này sâu xuống bao nhiêu, có những quái vật cũng như di tích nào. Rất nhiều nhà thám hiểm đã dấn thân vào công cuộc thám hiểm nơi đâu. Qua thờii gian, những ai có đủ can đảm để bước xuống mê cung này thường được gọi bằng cái tên Thám hiểm gia hang động. Ở Oosu, thị trấn bên rìa Abyss, có một cô bé mồ côi tên là Rico, nuôi ước trở thành một thám hiểm gia hang động như mẹ cô mà giải được bí ẩn cả Abyss. Một ngày nọ khi đang khám phá những bí ẩn bên dưới Abyss, cô đã gặp được một cậu bé robot...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/made-in-abyss-viet.xml</file_xml>
+    </truyen>
+</danh_sach_truyen>
