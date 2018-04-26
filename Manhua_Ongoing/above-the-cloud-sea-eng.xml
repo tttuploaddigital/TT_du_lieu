@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="utf-8"?>
+<truyen>
+    <noi_dung>
+
+        <!-- https://mangapark.me/manga/above-the-cloud-sea -->
+
+		<!-- them -->
+
+		<!-- chap 27.2 -->
+		<chuong ten_chuong="chap 27.2"><hinh>http://file-image.mpcdn.net/41066/956237/1.jpg?1515688954</hinh></chuong>
+		<chuong ten_chuong="chap 27.2"><hinh>http://file-image.mpcdn.net/41066/956237/2.jpg?1515688954</hinh></chuong>
+		<chuong ten_chuong="chap 27.2"><hinh>http://file-image.mpcdn.net/41066/956237/3.jpg?1515688954</hinh></chuong>
+		<chuong ten_chuong="chap 27.2"><hinh>http://file-image.mpcdn.net/41066/956237/4.jpg?1515688954</hinh></chuong>
+		<chuong ten_chuong="chap 27.2"><hinh>http://file-image.mpcdn.net/41066/956237/5.jpg?1515688954</hinh></chuong>
+		<chuong ten_chuong="chap 27.2"><hinh>http://file-image.mpcdn.net/41066/956237/6.jpg?1515688954</hinh></chuong>
+		<chuong ten_chuong="chap 27.2"><hinh>http://file-image.mpcdn.net/41066/956237/7.jpg?1515688954</hinh></chuong>
+		<chuong ten_chuong="chap 27.2"><hinh>http://file-image.mpcdn.net/41066/956237/8.jpg?1515688954</hinh></chuong>
+		<chuong ten_chuong="chap 27.2"><hinh>http://file-image.mpcdn.net/41066/956237/9.jpg?1515688954</hinh></chuong>
+		<chuong ten_chuong="chap 27.2"><hinh>http://file-image.mpcdn.net/41066/956237/10.jpg?1515688954</hinh></chuong>
+
+		<!-- chap 27.1 -->
+		<chuong ten_chuong="chap 27.1"><hinh>http://file-image.mpcdn.net/41066/941348/1.jpg?1515688966</hinh></chuong>
+		<chuong ten_chuong="chap 27.1"><hinh>http://file-image.mpcdn.net/41066/941348/2.jpg?1515688966</hinh></chuong>
+		<chuong ten_chuong="chap 27.1"><hinh>http://file-image.mpcdn.net/41066/941348/3.jpg?1515688966</hinh></chuong>
+		<chuong ten_chuong="chap 27.1"><hinh>http://file-image.mpcdn.net/41066/941348/4.jpg?1515688966</hinh></chuong>
+		<chuong ten_chuong="chap 27.1"><hinh>http://file-image.mpcdn.net/41066/941348/5.jpg?1515688966</hinh></chuong>
+		<chuong ten_chuong="chap 27.1"><hinh>http://file-image.mpcdn.net/41066/941348/6.jpg?1515688966</hinh></chuong>
+		<chuong ten_chuong="chap 27.1"><hinh>http://file-image.mpcdn.net/41066/941348/7.jpg?1515688966</hinh></chuong>
+		<chuong ten_chuong="chap 27.1"><hinh>http://file-image.mpcdn.net/41066/941348/8.jpg?1515688966</hinh></chuong>
+		<chuong ten_chuong="chap 27.1"><hinh>http://file-image.mpcdn.net/41066/941348/9.jpg?1515688966</hinh></chuong>
+		<chuong ten_chuong="chap 27.1"><hinh>http://file-image.mpcdn.net/41066/941348/10.jpg?1515688966</hinh></chuong>
+
+		<!-- chap 26.3 -->
+		<chuong ten_chuong="chap 26.3"><hinh>http://file-image.mpcdn.net/41066/931894/1.jpg?1515688977</hinh></chuong>
+		<chuong ten_chuong="chap 26.3"><hinh>http://file-image.mpcdn.net/41066/931894/2.jpg?1515688977</hinh></chuong>
+		<chuong ten_chuong="chap 26.3"><hinh>http://file-image.mpcdn.net/41066/931894/3.jpg?1515688977</hinh></chuong>
+		<chuong ten_chuong="chap 26.3"><hinh>http://file-image.mpcdn.net/41066/931894/4.jpg?1515688977</hinh></chuong>
+		<chuong ten_chuong="chap 26.3"><hinh>http://file-image.mpcdn.net/41066/931894/5.jpg?1515688977</hinh></chuong>
+		<chuong ten_chuong="chap 26.3"><hinh>http://file-image.mpcdn.net/41066/931894/6.jpg?1515688977</hinh></chuong>
+		<chuong ten_chuong="chap 26.3"><hinh>http://file-image.mpcdn.net/41066/931894/7.jpg?1515688977</hinh></chuong>
+		<chuong ten_chuong="chap 26.3"><hinh>http://file-image.mpcdn.net/41066/931894/8.jpg?1515688977</hinh></chuong>
+		<chuong ten_chuong="chap 26.3"><hinh>http://file-image.mpcdn.net/41066/931894/9.jpg?1515688977</hinh></chuong>
+		<chuong ten_chuong="chap 26.3"><hinh>http://file-image.mpcdn.net/41066/931894/10.jpg?1515688977</hinh></chuong>
+
+		<!-- chap 26.2 -->
+		<chuong ten_chuong="chap 26.2"><hinh>http://file-image.mpcdn.net/41066/931893/1.jpg?1515688993</hinh></chuong>
+		<chuong ten_chuong="chap 26.2"><hinh>http://file-image.mpcdn.net/41066/931893/2.jpg?1515688993</hinh></chuong>
+		<chuong ten_chuong="chap 26.2"><hinh>http://file-image.mpcdn.net/41066/931893/3.jpg?1515688993</hinh></chuong>
+		<chuong ten_chuong="chap 26.2"><hinh>http://file-image.mpcdn.net/41066/931893/4.jpg?1515688993</hinh></chuong>
+		<chuong ten_chuong="chap 26.2"><hinh>http://file-image.mpcdn.net/41066/931893/5.jpg?1515688993</hinh></chuong>
+		<chuong ten_chuong="chap 26.2"><hinh>http://file-image.mpcdn.net/41066/931893/6.jpg?1515688993</hinh></chuong>
+		<chuong ten_chuong="chap 26.2"><hinh>http://file-image.mpcdn.net/41066/931893/7.jpg?1515688993</hinh></chuong>
+		<chuong ten_chuong="chap 26.2"><hinh>http://file-image.mpcdn.net/41066/931893/8.jpg?1515688993</hinh></chuong>
+
+		<!-- chap 26.1 -->
+		<chuong ten_chuong="chap 26.1"><hinh>http://file-image.mpcdn.net/41066/931892/1.jpg?1515689005</hinh></chuong>
+		<chuong ten_chuong="chap 26.1"><hinh>http://file-image.mpcdn.net/41066/931892/2.jpg?1515689005</hinh></chuong>
+		<chuong ten_chuong="chap 26.1"><hinh>http://file-image.mpcdn.net/41066/931892/3.jpg?1515689005</hinh></chuong>
+		<chuong ten_chuong="chap 26.1"><hinh>http://file-image.mpcdn.net/41066/931892/4.jpg?1515689005</hinh></chuong>
+		<chuong ten_chuong="chap 26.1"><hinh>http://file-image.mpcdn.net/41066/931892/5.jpg?1515689005</hinh></chuong>
+		<chuong ten_chuong="chap 26.1"><hinh>http://file-image.mpcdn.net/41066/931892/6.jpg?1515689005</hinh></chuong>
+		<chuong ten_chuong="chap 26.1"><hinh>http://file-image.mpcdn.net/41066/931892/7.jpg?1515689005</hinh></chuong>
+		<chuong ten_chuong="chap 26.1"><hinh>http://file-image.mpcdn.net/41066/931892/8.jpg?1515689005</hinh></chuong>
+
+		<!-- chap 25.3 -->
+		<chuong ten_chuong="chap 25.3"><hinh>http://file-image.mpcdn.net/41066/931942/1.jpg?1515689016</hinh></chuong>
+		<chuong ten_chuong="chap 25.3"><hinh>http://file-image.mpcdn.net/41066/931942/2.jpg?1515689016</hinh></chuong>
+		<chuong ten_chuong="chap 25.3"><hinh>http://file-image.mpcdn.net/41066/931942/3.jpg?1515689016</hinh></chuong>
+		<chuong ten_chuong="chap 25.3"><hinh>http://file-image.mpcdn.net/41066/931942/4.jpg?1515689016</hinh></chuong>
+		<chuong ten_chuong="chap 25.3"><hinh>http://file-image.mpcdn.net/41066/931942/5.jpg?1515689016</hinh></chuong>
+		<chuong ten_chuong="chap 25.3"><hinh>http://file-image.mpcdn.net/41066/931942/6.jpg?1515689016</hinh></chuong>
+		<chuong ten_chuong="chap 25.3"><hinh>http://file-image.mpcdn.net/41066/931942/7.jpg?1515689016</hinh></chuong>
+		<chuong ten_chuong="chap 25.3"><hinh>http://file-image.mpcdn.net/41066/931942/8.jpg?1515689016</hinh></chuong>
+		<chuong ten_chuong="chap 25.3"><hinh>http://file-image.mpcdn.net/41066/931942/9.jpg?1515689016</hinh></chuong>
+
+		<!-- chap 25.2 -->
+		<chuong ten_chuong="chap 25.2"><hinh>http://file-image.mpcdn.net/41066/931941/1.jpg?1515689027</hinh></chuong>
+		<chuong ten_chuong="chap 25.2"><hinh>http://file-image.mpcdn.net/41066/931941/2.jpg?1515689027</hinh></chuong>
+		<chuong ten_chuong="chap 25.2"><hinh>http://file-image.mpcdn.net/41066/931941/3.jpg?1515689027</hinh></chuong>
+		<chuong ten_chuong="chap 25.2"><hinh>http://file-image.mpcdn.net/41066/931941/4.jpg?1515689027</hinh></chuong>
+		<chuong ten_chuong="chap 25.2"><hinh>http://file-image.mpcdn.net/41066/931941/5.jpg?1515689027</hinh></chuong>
+		<chuong ten_chuong="chap 25.2"><hinh>http://file-image.mpcdn.net/41066/931941/6.jpg?1515689027</hinh></chuong>
+		<chuong ten_chuong="chap 25.2"><hinh>http://file-image.mpcdn.net/41066/931941/7.jpg?1515689027</hinh></chuong>
+		<chuong ten_chuong="chap 25.2"><hinh>http://file-image.mpcdn.net/41066/931941/8.jpg?1515689027</hinh></chuong>
+		<chuong ten_chuong="chap 25.2"><hinh>http://file-image.mpcdn.net/41066/931941/9.jpg?1515689027</hinh></chuong>
+		<chuong ten_chuong="chap 25.2"><hinh>http://file-image.mpcdn.net/41066/931941/10.jpg?1515689027</hinh></chuong>
+
+		<!-- chap 25.1 -->
+		<chuong ten_chuong="chap 25.1"><hinh>http://file-image.mpcdn.net/41066/931940/1.jpg?1515689038</hinh></chuong>
+		<chuong ten_chuong="chap 25.1"><hinh>http://file-image.mpcdn.net/41066/931940/2.jpg?1515689038</hinh></chuong>
+		<chuong ten_chuong="chap 25.1"><hinh>http://file-image.mpcdn.net/41066/931940/3.jpg?1515689038</hinh></chuong>
+		<chuong ten_chuong="chap 25.1"><hinh>http://file-image.mpcdn.net/41066/931940/4.jpg?1515689038</hinh></chuong>
+		<chuong ten_chuong="chap 25.1"><hinh>http://file-image.mpcdn.net/41066/931940/5.jpg?1515689038</hinh></chuong>
+		<chuong ten_chuong="chap 25.1"><hinh>http://file-image.mpcdn.net/41066/931940/6.jpg?1515689038</hinh></chuong>
+		<chuong ten_chuong="chap 25.1"><hinh>http://file-image.mpcdn.net/41066/931940/7.jpg?1515689038</hinh></chuong>
+		<chuong ten_chuong="chap 25.1"><hinh>http://file-image.mpcdn.net/41066/931940/8.jpg?1515689038</hinh></chuong>
+		<chuong ten_chuong="chap 25.1"><hinh>http://file-image.mpcdn.net/41066/931940/9.jpg?1515689038</hinh></chuong>
+		<chuong ten_chuong="chap 25.1"><hinh>http://file-image.mpcdn.net/41066/931940/10.jpg?1515689038</hinh></chuong>
+
+		<!-- chap 24.3 -->
+		<chuong ten_chuong="chap 24.3"><hinh>http://file-image.mpcdn.net/41066/930509/1.jpg?1515689055</hinh></chuong>
+		<chuong ten_chuong="chap 24.3"><hinh>http://file-image.mpcdn.net/41066/930509/2.jpg?1515689055</hinh></chuong>
+		<chuong ten_chuong="chap 24.3"><hinh>http://file-image.mpcdn.net/41066/930509/3.jpg?1515689055</hinh></chuong>
+		<chuong ten_chuong="chap 24.3"><hinh>http://file-image.mpcdn.net/41066/930509/4.jpg?1515689055</hinh></chuong>
+		<chuong ten_chuong="chap 24.3"><hinh>http://file-image.mpcdn.net/41066/930509/5.jpg?1515689055</hinh></chuong>
+		<chuong ten_chuong="chap 24.3"><hinh>http://file-image.mpcdn.net/41066/930509/6.jpg?1515689055</hinh></chuong>
+		<chuong ten_chuong="chap 24.3"><hinh>http://file-image.mpcdn.net/41066/930509/7.jpg?1515689055</hinh></chuong>
+		<chuong ten_chuong="chap 24.3"><hinh>http://file-image.mpcdn.net/41066/930509/8.jpg?1515689055</hinh></chuong>
+		<chuong ten_chuong="chap 24.3"><hinh>http://file-image.mpcdn.net/41066/930509/9.jpg?1515689055</hinh></chuong>
+		<chuong ten_chuong="chap 24.3"><hinh>http://file-image.mpcdn.net/41066/930509/10.jpg?1515689055</hinh></chuong>
+
+		<!-- chap 24.2 -->
+		<chuong ten_chuong="chap 24.2"><hinh>http://file-image.mpcdn.net/41066/930508/1.jpg?1515689066</hinh></chuong>
+		<chuong ten_chuong="chap 24.2"><hinh>http://file-image.mpcdn.net/41066/930508/2.jpg?1515689066</hinh></chuong>
+		<chuong ten_chuong="chap 24.2"><hinh>http://file-image.mpcdn.net/41066/930508/3.jpg?1515689066</hinh></chuong>
+		<chuong ten_chuong="chap 24.2"><hinh>http://file-image.mpcdn.net/41066/930508/4.jpg?1515689066</hinh></chuong>
+		<chuong ten_chuong="chap 24.2"><hinh>http://file-image.mpcdn.net/41066/930508/5.jpg?1515689066</hinh></chuong>
+		<chuong ten_chuong="chap 24.2"><hinh>http://file-image.mpcdn.net/41066/930508/6.jpg?1515689066</hinh></chuong>
+		<chuong ten_chuong="chap 24.2"><hinh>http://file-image.mpcdn.net/41066/930508/7.jpg?1515689066</hinh></chuong>
+		<chuong ten_chuong="chap 24.2"><hinh>http://file-image.mpcdn.net/41066/930508/8.jpg?1515689066</hinh></chuong>
+		<chuong ten_chuong="chap 24.2"><hinh>http://file-image.mpcdn.net/41066/930508/9.jpg?1515689066</hinh></chuong>
+		<chuong ten_chuong="chap 24.2"><hinh>http://file-image.mpcdn.net/41066/930508/10.jpg?1515689066</hinh></chuong>
+
+		<!-- chap 24.1 -->
+		<chuong ten_chuong="chap 24.1"><hinh>http://file-image.mpcdn.net/41066/930507/1.jpg?1515689078</hinh></chuong>
+		<chuong ten_chuong="chap 24.1"><hinh>http://file-image.mpcdn.net/41066/930507/2.jpg?1515689078</hinh></chuong>
+		<chuong ten_chuong="chap 24.1"><hinh>http://file-image.mpcdn.net/41066/930507/3.jpg?1515689078</hinh></chuong>
+		<chuong ten_chuong="chap 24.1"><hinh>http://file-image.mpcdn.net/41066/930507/4.jpg?1515689078</hinh></chuong>
+		<chuong ten_chuong="chap 24.1"><hinh>http://file-image.mpcdn.net/41066/930507/5.jpg?1515689078</hinh></chuong>
+		<chuong ten_chuong="chap 24.1"><hinh>http://file-image.mpcdn.net/41066/930507/6.jpg?1515689078</hinh></chuong>
+		<chuong ten_chuong="chap 24.1"><hinh>http://file-image.mpcdn.net/41066/930507/7.jpg?1515689078</hinh></chuong>
+		<chuong ten_chuong="chap 24.1"><hinh>http://file-image.mpcdn.net/41066/930507/8.jpg?1515689078</hinh></chuong>
+		<chuong ten_chuong="chap 24.1"><hinh>http://file-image.mpcdn.net/41066/930507/9.jpg?1515689078</hinh></chuong>
+		<chuong ten_chuong="chap 24.1"><hinh>http://file-image.mpcdn.net/41066/930507/10.jpg?1515689078</hinh></chuong>
+
+		<!-- chap 23.3 -->
+		<chuong ten_chuong="chap 23.3"><hinh>http://file-image.mpcdn.net/41066/929851/1.jpg?1515689090</hinh></chuong>
+		<chuong ten_chuong="chap 23.3"><hinh>http://file-image.mpcdn.net/41066/929851/2.jpg?1515689090</hinh></chuong>
+		<chuong ten_chuong="chap 23.3"><hinh>http://file-image.mpcdn.net/41066/929851/3.jpg?1515689090</hinh></chuong>
+		<chuong ten_chuong="chap 23.3"><hinh>http://file-image.mpcdn.net/41066/929851/4.jpg?1515689090</hinh></chuong>
+		<chuong ten_chuong="chap 23.3"><hinh>http://file-image.mpcdn.net/41066/929851/5.jpg?1515689090</hinh></chuong>
+		<chuong ten_chuong="chap 23.3"><hinh>http://file-image.mpcdn.net/41066/929851/6.jpg?1515689090</hinh></chuong>
+		<chuong ten_chuong="chap 23.3"><hinh>http://file-image.mpcdn.net/41066/929851/7.jpg?1515689090</hinh></chuong>
+		<chuong ten_chuong="chap 23.3"><hinh>http://file-image.mpcdn.net/41066/929851/8.jpg?1515689090</hinh></chuong>
+		<chuong ten_chuong="chap 23.3"><hinh>http://file-image.mpcdn.net/41066/929851/9.jpg?1515689090</hinh></chuong>
+		<chuong ten_chuong="chap 23.3"><hinh>http://file-image.mpcdn.net/41066/929851/10.jpg?1515689090</hinh></chuong>
+
+		<!-- chap 23.2 -->
+		<chuong ten_chuong="chap 23.2"><hinh>http://file-image.mpcdn.net/41066/929850/1.jpg?1515689103</hinh></chuong>
+		<chuong ten_chuong="chap 23.2"><hinh>http://file-image.mpcdn.net/41066/929850/2.jpg?1515689103</hinh></chuong>
+		<chuong ten_chuong="chap 23.2"><hinh>http://file-image.mpcdn.net/41066/929850/3.jpg?1515689103</hinh></chuong>
+		<chuong ten_chuong="chap 23.2"><hinh>http://file-image.mpcdn.net/41066/929850/4.jpg?1515689103</hinh></chuong>
+		<chuong ten_chuong="chap 23.2"><hinh>http://file-image.mpcdn.net/41066/929850/5.jpg?1515689103</hinh></chuong>
+		<chuong ten_chuong="chap 23.2"><hinh>http://file-image.mpcdn.net/41066/929850/6.jpg?1515689103</hinh></chuong>
+		<chuong ten_chuong="chap 23.2"><hinh>http://file-image.mpcdn.net/41066/929850/7.jpg?1515689103</hinh></chuong>
+		<chuong ten_chuong="chap 23.2"><hinh>http://file-image.mpcdn.net/41066/929850/8.jpg?1515689103</hinh></chuong>
+		<chuong ten_chuong="chap 23.2"><hinh>http://file-image.mpcdn.net/41066/929850/9.jpg?1515689103</hinh></chuong>
+		<chuong ten_chuong="chap 23.2"><hinh>http://file-image.mpcdn.net/41066/929850/10.jpg?1515689103</hinh></chuong>
+
+		<!-- chap 23.1 -->
+		<chuong ten_chuong="chap 23.1"><hinh>http://file-image.mpcdn.net/41066/929849/1.jpg?1515689118</hinh></chuong>
+		<chuong ten_chuong="chap 23.1"><hinh>http://file-image.mpcdn.net/41066/929849/2.jpg?1515689118</hinh></chuong>
+		<chuong ten_chuong="chap 23.1"><hinh>http://file-image.mpcdn.net/41066/929849/3.jpg?1515689118</hinh></chuong>
+		<chuong ten_chuong="chap 23.1"><hinh>http://file-image.mpcdn.net/41066/929849/4.jpg?1515689118</hinh></chuong>
+		<chuong ten_chuong="chap 23.1"><hinh>http://file-image.mpcdn.net/41066/929849/5.jpg?1515689118</hinh></chuong>
+		<chuong ten_chuong="chap 23.1"><hinh>http://file-image.mpcdn.net/41066/929849/6.jpg?1515689118</hinh></chuong>
+		<chuong ten_chuong="chap 23.1"><hinh>http://file-image.mpcdn.net/41066/929849/7.jpg?1515689118</hinh></chuong>
+		<chuong ten_chuong="chap 23.1"><hinh>http://file-image.mpcdn.net/41066/929849/8.jpg?1515689118</hinh></chuong>
+		<chuong ten_chuong="chap 23.1"><hinh>http://file-image.mpcdn.net/41066/929849/9.jpg?1515689118</hinh></chuong>
+		<chuong ten_chuong="chap 23.1"><hinh>http://file-image.mpcdn.net/41066/929849/10.jpg?1515689118</hinh></chuong>
+
+		<!-- chap 22.3 -->
+		<chuong ten_chuong="chap 22.3"><hinh>http://file-image.mpcdn.net/41066/928981/1.jpg?1515689131</hinh></chuong>
+		<chuong ten_chuong="chap 22.3"><hinh>http://file-image.mpcdn.net/41066/928981/2.jpg?1515689131</hinh></chuong>
+		<chuong ten_chuong="chap 22.3"><hinh>http://file-image.mpcdn.net/41066/928981/3.jpg?1515689131</hinh></chuong>
+		<chuong ten_chuong="chap 22.3"><hinh>http://file-image.mpcdn.net/41066/928981/4.jpg?1515689131</hinh></chuong>
+		<chuong ten_chuong="chap 22.3"><hinh>http://file-image.mpcdn.net/41066/928981/5.jpg?1515689131</hinh></chuong>
+		<chuong ten_chuong="chap 22.3"><hinh>http://file-image.mpcdn.net/41066/928981/6.jpg?1515689131</hinh></chuong>
+		<chuong ten_chuong="chap 22.3"><hinh>http://file-image.mpcdn.net/41066/928981/7.jpg?1515689131</hinh></chuong>
+		<chuong ten_chuong="chap 22.3"><hinh>http://file-image.mpcdn.net/41066/928981/8.jpg?1515689131</hinh></chuong>
+		<chuong ten_chuong="chap 22.3"><hinh>http://file-image.mpcdn.net/41066/928981/9.jpg?1515689131</hinh></chuong>
+
+		<!-- chap 22.2 -->
+		<chuong ten_chuong="chap 22.2"><hinh>http://file-image.mpcdn.net/41066/928980/1.jpg?1515689142</hinh></chuong>
+		<chuong ten_chuong="chap 22.2"><hinh>http://file-image.mpcdn.net/41066/928980/2.jpg?1515689142</hinh></chuong>
+		<chuong ten_chuong="chap 22.2"><hinh>http://file-image.mpcdn.net/41066/928980/3.jpg?1515689142</hinh></chuong>
+		<chuong ten_chuong="chap 22.2"><hinh>http://file-image.mpcdn.net/41066/928980/4.jpg?1515689142</hinh></chuong>
+		<chuong ten_chuong="chap 22.2"><hinh>http://file-image.mpcdn.net/41066/928980/5.jpg?1515689142</hinh></chuong>
+		<chuong ten_chuong="chap 22.2"><hinh>http://file-image.mpcdn.net/41066/928980/6.jpg?1515689142</hinh></chuong>
+		<chuong ten_chuong="chap 22.2"><hinh>http://file-image.mpcdn.net/41066/928980/7.jpg?1515689142</hinh></chuong>
+		<chuong ten_chuong="chap 22.2"><hinh>http://file-image.mpcdn.net/41066/928980/8.jpg?1515689142</hinh></chuong>
+		<chuong ten_chuong="chap 22.2"><hinh>http://file-image.mpcdn.net/41066/928980/9.jpg?1515689142</hinh></chuong>
+
+		<!-- chap 22.1 -->
+		<chuong ten_chuong="chap 22.1"><hinh>http://file-image.mpcdn.net/41066/928979/1.jpg?1515689153</hinh></chuong>
+		<chuong ten_chuong="chap 22.1"><hinh>http://file-image.mpcdn.net/41066/928979/2.jpg?1515689153</hinh></chuong>
+		<chuong ten_chuong="chap 22.1"><hinh>http://file-image.mpcdn.net/41066/928979/3.jpg?1515689153</hinh></chuong>
+		<chuong ten_chuong="chap 22.1"><hinh>http://file-image.mpcdn.net/41066/928979/4.jpg?1515689153</hinh></chuong>
+		<chuong ten_chuong="chap 22.1"><hinh>http://file-image.mpcdn.net/41066/928979/5.jpg?1515689153</hinh></chuong>
+		<chuong ten_chuong="chap 22.1"><hinh>http://file-image.mpcdn.net/41066/928979/6.jpg?1515689153</hinh></chuong>
+		<chuong ten_chuong="chap 22.1"><hinh>http://file-image.mpcdn.net/41066/928979/7.jpg?1515689153</hinh></chuong>
+		<chuong ten_chuong="chap 22.1"><hinh>http://file-image.mpcdn.net/41066/928979/8.jpg?1515689153</hinh></chuong>
+		<chuong ten_chuong="chap 22.1"><hinh>http://file-image.mpcdn.net/41066/928979/9.jpg?1515689153</hinh></chuong>
+
+		<!-- chap 21.3 -->
+		<chuong ten_chuong="chap 21.3"><hinh>http://file-image.mpcdn.net/41066/928737/1.jpg?1515689167</hinh></chuong>
+		<chuong ten_chuong="chap 21.3"><hinh>http://file-image.mpcdn.net/41066/928737/2.jpg?1515689167</hinh></chuong>
+		<chuong ten_chuong="chap 21.3"><hinh>http://file-image.mpcdn.net/41066/928737/3.jpg?1515689167</hinh></chuong>
+		<chuong ten_chuong="chap 21.3"><hinh>http://file-image.mpcdn.net/41066/928737/4.jpg?1515689167</hinh></chuong>
+		<chuong ten_chuong="chap 21.3"><hinh>http://file-image.mpcdn.net/41066/928737/5.jpg?1515689167</hinh></chuong>
+		<chuong ten_chuong="chap 21.3"><hinh>http://file-image.mpcdn.net/41066/928737/6.jpg?1515689167</hinh></chuong>
+		<chuong ten_chuong="chap 21.3"><hinh>http://file-image.mpcdn.net/41066/928737/7.jpg?1515689167</hinh></chuong>
+		<chuong ten_chuong="chap 21.3"><hinh>http://file-image.mpcdn.net/41066/928737/8.jpg?1515689167</hinh></chuong>
+
+		<!-- chap 21.2 -->
+		<chuong ten_chuong="chap 21.2"><hinh>http://file-image.mpcdn.net/41066/928736/1.jpg?1515689181</hinh></chuong>
+		<chuong ten_chuong="chap 21.2"><hinh>http://file-image.mpcdn.net/41066/928736/2.jpg?1515689181</hinh></chuong>
+		<chuong ten_chuong="chap 21.2"><hinh>http://file-image.mpcdn.net/41066/928736/3.jpg?1515689181</hinh></chuong>
+		<chuong ten_chuong="chap 21.2"><hinh>http://file-image.mpcdn.net/41066/928736/4.jpg?1515689181</hinh></chuong>
+		<chuong ten_chuong="chap 21.2"><hinh>http://file-image.mpcdn.net/41066/928736/5.jpg?1515689181</hinh></chuong>
+		<chuong ten_chuong="chap 21.2"><hinh>http://file-image.mpcdn.net/41066/928736/6.jpg?1515689181</hinh></chuong>
+		<chuong ten_chuong="chap 21.2"><hinh>http://file-image.mpcdn.net/41066/928736/7.jpg?1515689181</hinh></chuong>
+		<chuong ten_chuong="chap 21.2"><hinh>http://file-image.mpcdn.net/41066/928736/8.jpg?1515689181</hinh></chuong>
+		<chuong ten_chuong="chap 21.2"><hinh>http://file-image.mpcdn.net/41066/928736/9.jpg?1515689181</hinh></chuong>
+
+		<!-- chap 21.1 -->
+		<chuong ten_chuong="chap 21.1"><hinh>http://file-image.mpcdn.net/41066/928735/1.jpg?1515689192</hinh></chuong>
+		<chuong ten_chuong="chap 21.1"><hinh>http://file-image.mpcdn.net/41066/928735/2.jpg?1515689192</hinh></chuong>
+		<chuong ten_chuong="chap 21.1"><hinh>http://file-image.mpcdn.net/41066/928735/3.jpg?1515689192</hinh></chuong>
+		<chuong ten_chuong="chap 21.1"><hinh>http://file-image.mpcdn.net/41066/928735/4.jpg?1515689192</hinh></chuong>
+		<chuong ten_chuong="chap 21.1"><hinh>http://file-image.mpcdn.net/41066/928735/5.jpg?1515689192</hinh></chuong>
+		<chuong ten_chuong="chap 21.1"><hinh>http://file-image.mpcdn.net/41066/928735/6.jpg?1515689192</hinh></chuong>
+		<chuong ten_chuong="chap 21.1"><hinh>http://file-image.mpcdn.net/41066/928735/7.jpg?1515689192</hinh></chuong>
+		<chuong ten_chuong="chap 21.1"><hinh>http://file-image.mpcdn.net/41066/928735/8.jpg?1515689192</hinh></chuong>
+		<chuong ten_chuong="chap 21.1"><hinh>http://file-image.mpcdn.net/41066/928735/9.jpg?1515689192</hinh></chuong>
+
+		<!-- chap 20.3 -->
+		<chuong ten_chuong="chap 20.3"><hinh>http://file-image.mpcdn.net/41066/928734/1.jpg?1515689203</hinh></chuong>
+		<chuong ten_chuong="chap 20.3"><hinh>http://file-image.mpcdn.net/41066/928734/2.jpg?1515689203</hinh></chuong>
+		<chuong ten_chuong="chap 20.3"><hinh>http://file-image.mpcdn.net/41066/928734/3.jpg?1515689203</hinh></chuong>
+		<chuong ten_chuong="chap 20.3"><hinh>http://file-image.mpcdn.net/41066/928734/4.jpg?1515689203</hinh></chuong>
+		<chuong ten_chuong="chap 20.3"><hinh>http://file-image.mpcdn.net/41066/928734/5.jpg?1515689203</hinh></chuong>
+		<chuong ten_chuong="chap 20.3"><hinh>http://file-image.mpcdn.net/41066/928734/6.jpg?1515689203</hinh></chuong>
+		<chuong ten_chuong="chap 20.3"><hinh>http://file-image.mpcdn.net/41066/928734/7.jpg?1515689203</hinh></chuong>
+		<chuong ten_chuong="chap 20.3"><hinh>http://file-image.mpcdn.net/41066/928734/8.jpg?1515689203</hinh></chuong>
+		<chuong ten_chuong="chap 20.3"><hinh>http://file-image.mpcdn.net/41066/928734/9.jpg?1515689203</hinh></chuong>
+
+		<!-- chap 20.2 -->
+		<chuong ten_chuong="chap 20.2"><hinh>http://file-image.mpcdn.net/41066/928733/1.jpg?1515689214</hinh></chuong>
+		<chuong ten_chuong="chap 20.2"><hinh>http://file-image.mpcdn.net/41066/928733/2.jpg?1515689214</hinh></chuong>
+		<chuong ten_chuong="chap 20.2"><hinh>http://file-image.mpcdn.net/41066/928733/3.jpg?1515689214</hinh></chuong>
+		<chuong ten_chuong="chap 20.2"><hinh>http://file-image.mpcdn.net/41066/928733/4.jpg?1515689214</hinh></chuong>
+		<chuong ten_chuong="chap 20.2"><hinh>http://file-image.mpcdn.net/41066/928733/5.jpg?1515689214</hinh></chuong>
+		<chuong ten_chuong="chap 20.2"><hinh>http://file-image.mpcdn.net/41066/928733/6.jpg?1515689214</hinh></chuong>
+		<chuong ten_chuong="chap 20.2"><hinh>http://file-image.mpcdn.net/41066/928733/7.jpg?1515689214</hinh></chuong>
+		<chuong ten_chuong="chap 20.2"><hinh>http://file-image.mpcdn.net/41066/928733/8.jpg?1515689214</hinh></chuong>
+
+		<!-- chap 20.1 -->
+		<chuong ten_chuong="chap 20.1"><hinh>http://file-image.mpcdn.net/41066/928978/1.jpg?1515689229</hinh></chuong>
+		<chuong ten_chuong="chap 20.1"><hinh>http://file-image.mpcdn.net/41066/928978/2.jpg?1515689229</hinh></chuong>
+		<chuong ten_chuong="chap 20.1"><hinh>http://file-image.mpcdn.net/41066/928978/3.jpg?1515689229</hinh></chuong>
+		<chuong ten_chuong="chap 20.1"><hinh>http://file-image.mpcdn.net/41066/928978/4.jpg?1515689229</hinh></chuong>
+		<chuong ten_chuong="chap 20.1"><hinh>http://file-image.mpcdn.net/41066/928978/5.jpg?1515689229</hinh></chuong>
+		<chuong ten_chuong="chap 20.1"><hinh>http://file-image.mpcdn.net/41066/928978/6.jpg?1515689229</hinh></chuong>
+		<chuong ten_chuong="chap 20.1"><hinh>http://file-image.mpcdn.net/41066/928978/7.jpg?1515689229</hinh></chuong>
+		<chuong ten_chuong="chap 20.1"><hinh>http://file-image.mpcdn.net/41066/928978/8.jpg?1515689229</hinh></chuong>
+
+		<!-- chap 19.3 -->
+		<chuong ten_chuong="chap 19.3"><hinh>http://file-image.mpcdn.net/41066/927369/1.jpg?1515689241</hinh></chuong>
+		<chuong ten_chuong="chap 19.3"><hinh>http://file-image.mpcdn.net/41066/927369/2.jpg?1515689241</hinh></chuong>
+		<chuong ten_chuong="chap 19.3"><hinh>http://file-image.mpcdn.net/41066/927369/3.jpg?1515689241</hinh></chuong>
+		<chuong ten_chuong="chap 19.3"><hinh>http://file-image.mpcdn.net/41066/927369/4.jpg?1515689241</hinh></chuong>
+		<chuong ten_chuong="chap 19.3"><hinh>http://file-image.mpcdn.net/41066/927369/5.jpg?1515689241</hinh></chuong>
+		<chuong ten_chuong="chap 19.3"><hinh>http://file-image.mpcdn.net/41066/927369/6.jpg?1515689241</hinh></chuong>
+		<chuong ten_chuong="chap 19.3"><hinh>http://file-image.mpcdn.net/41066/927369/7.jpg?1515689241</hinh></chuong>
+		<chuong ten_chuong="chap 19.3"><hinh>http://file-image.mpcdn.net/41066/927369/8.jpg?1515689241</hinh></chuong>
+
+		<!-- chap 19.2 -->
+		<chuong ten_chuong="chap 19.2"><hinh>http://file-image.mpcdn.net/41066/927368/1.jpg?1515689252</hinh></chuong>
+		<chuong ten_chuong="chap 19.2"><hinh>http://file-image.mpcdn.net/41066/927368/2.jpg?1515689252</hinh></chuong>
+		<chuong ten_chuong="chap 19.2"><hinh>http://file-image.mpcdn.net/41066/927368/3.jpg?1515689252</hinh></chuong>
+		<chuong ten_chuong="chap 19.2"><hinh>http://file-image.mpcdn.net/41066/927368/4.jpg?1515689252</hinh></chuong>
+		<chuong ten_chuong="chap 19.2"><hinh>http://file-image.mpcdn.net/41066/927368/5.jpg?1515689252</hinh></chuong>
+		<chuong ten_chuong="chap 19.2"><hinh>http://file-image.mpcdn.net/41066/927368/6.jpg?1515689252</hinh></chuong>
+		<chuong ten_chuong="chap 19.2"><hinh>http://file-image.mpcdn.net/41066/927368/7.jpg?1515689252</hinh></chuong>
+		<chuong ten_chuong="chap 19.2"><hinh>http://file-image.mpcdn.net/41066/927368/8.jpg?1515689252</hinh></chuong>
+
+		<!-- chap 19.1 -->
+		<chuong ten_chuong="chap 19.1"><hinh>http://file-image.mpcdn.net/41066/927367/1.jpg?1515689263</hinh></chuong>
+		<chuong ten_chuong="chap 19.1"><hinh>http://file-image.mpcdn.net/41066/927367/2.jpg?1515689263</hinh></chuong>
+		<chuong ten_chuong="chap 19.1"><hinh>http://file-image.mpcdn.net/41066/927367/3.jpg?1515689263</hinh></chuong>
+		<chuong ten_chuong="chap 19.1"><hinh>http://file-image.mpcdn.net/41066/927367/4.jpg?1515689263</hinh></chuong>
+		<chuong ten_chuong="chap 19.1"><hinh>http://file-image.mpcdn.net/41066/927367/5.jpg?1515689263</hinh></chuong>
+		<chuong ten_chuong="chap 19.1"><hinh>http://file-image.mpcdn.net/41066/927367/6.jpg?1515689263</hinh></chuong>
+		<chuong ten_chuong="chap 19.1"><hinh>http://file-image.mpcdn.net/41066/927367/7.jpg?1515689263</hinh></chuong>
+		<chuong ten_chuong="chap 19.1"><hinh>http://file-image.mpcdn.net/41066/927367/8.jpg?1515689263</hinh></chuong>
+		<chuong ten_chuong="chap 19.1"><hinh>http://file-image.mpcdn.net/41066/927367/9.jpg?1515689263</hinh></chuong>
+
+		<!-- chap 18.3 -->
+		<chuong ten_chuong="chap 18.3"><hinh>http://file-image.mpcdn.net/41066/926915/1.jpg?1515689275</hinh></chuong>
+		<chuong ten_chuong="chap 18.3"><hinh>http://file-image.mpcdn.net/41066/926915/2.jpg?1515689275</hinh></chuong>
+		<chuong ten_chuong="chap 18.3"><hinh>http://file-image.mpcdn.net/41066/926915/3.jpg?1515689275</hinh></chuong>
+		<chuong ten_chuong="chap 18.3"><hinh>http://file-image.mpcdn.net/41066/926915/4.jpg?1515689275</hinh></chuong>
+		<chuong ten_chuong="chap 18.3"><hinh>http://file-image.mpcdn.net/41066/926915/5.jpg?1515689275</hinh></chuong>
+		<chuong ten_chuong="chap 18.3"><hinh>http://file-image.mpcdn.net/41066/926915/6.jpg?1515689275</hinh></chuong>
+		<chuong ten_chuong="chap 18.3"><hinh>http://file-image.mpcdn.net/41066/926915/7.jpg?1515689275</hinh></chuong>
+
+		<!-- chap 18.2 -->
+		<chuong ten_chuong="chap 18.2"><hinh>http://file-image.mpcdn.net/41066/926914/1.jpg?1515689289</hinh></chuong>
+		<chuong ten_chuong="chap 18.2"><hinh>http://file-image.mpcdn.net/41066/926914/2.jpg?1515689289</hinh></chuong>
+		<chuong ten_chuong="chap 18.2"><hinh>http://file-image.mpcdn.net/41066/926914/3.jpg?1515689289</hinh></chuong>
+		<chuong ten_chuong="chap 18.2"><hinh>http://file-image.mpcdn.net/41066/926914/4.jpg?1515689289</hinh></chuong>
+		<chuong ten_chuong="chap 18.2"><hinh>http://file-image.mpcdn.net/41066/926914/5.jpg?1515689289</hinh></chuong>
+		<chuong ten_chuong="chap 18.2"><hinh>http://file-image.mpcdn.net/41066/926914/6.jpg?1515689289</hinh></chuong>
+		<chuong ten_chuong="chap 18.2"><hinh>http://file-image.mpcdn.net/41066/926914/7.jpg?1515689289</hinh></chuong>
+		<chuong ten_chuong="chap 18.2"><hinh>http://file-image.mpcdn.net/41066/926914/8.jpg?1515689289</hinh></chuong>
+		<chuong ten_chuong="chap 18.2"><hinh>http://file-image.mpcdn.net/41066/926914/9.jpg?1515689289</hinh></chuong>
+
+		<!-- chap 18.1 -->
+		<chuong ten_chuong="chap 18.1"><hinh>http://file-image.mpcdn.net/41066/926913/1.jpg?1515689301</hinh></chuong>
+		<chuong ten_chuong="chap 18.1"><hinh>http://file-image.mpcdn.net/41066/926913/2.jpg?1515689301</hinh></chuong>
+		<chuong ten_chuong="chap 18.1"><hinh>http://file-image.mpcdn.net/41066/926913/3.jpg?1515689301</hinh></chuong>
+		<chuong ten_chuong="chap 18.1"><hinh>http://file-image.mpcdn.net/41066/926913/4.jpg?1515689301</hinh></chuong>
+		<chuong ten_chuong="chap 18.1"><hinh>http://file-image.mpcdn.net/41066/926913/5.jpg?1515689301</hinh></chuong>
+		<chuong ten_chuong="chap 18.1"><hinh>http://file-image.mpcdn.net/41066/926913/6.jpg?1515689301</hinh></chuong>
+		<chuong ten_chuong="chap 18.1"><hinh>http://file-image.mpcdn.net/41066/926913/7.jpg?1515689301</hinh></chuong>
+		<chuong ten_chuong="chap 18.1"><hinh>http://file-image.mpcdn.net/41066/926913/8.jpg?1515689301</hinh></chuong>
+
+		<!-- chap 17.3 -->
+		<chuong ten_chuong="chap 17.3"><hinh>http://file-image.mpcdn.net/41066/926912/1.jpg?1515689312</hinh></chuong>
+		<chuong ten_chuong="chap 17.3"><hinh>http://file-image.mpcdn.net/41066/926912/2.jpg?1515689312</hinh></chuong>
+		<chuong ten_chuong="chap 17.3"><hinh>http://file-image.mpcdn.net/41066/926912/3.jpg?1515689312</hinh></chuong>
+		<chuong ten_chuong="chap 17.3"><hinh>http://file-image.mpcdn.net/41066/926912/4.jpg?1515689312</hinh></chuong>
+		<chuong ten_chuong="chap 17.3"><hinh>http://file-image.mpcdn.net/41066/926912/5.jpg?1515689312</hinh></chuong>
+		<chuong ten_chuong="chap 17.3"><hinh>http://file-image.mpcdn.net/41066/926912/6.jpg?1515689312</hinh></chuong>
+		<chuong ten_chuong="chap 17.3"><hinh>http://file-image.mpcdn.net/41066/926912/7.jpg?1515689312</hinh></chuong>
+		<chuong ten_chuong="chap 17.3"><hinh>http://file-image.mpcdn.net/41066/926912/8.jpg?1515689312</hinh></chuong>
+		<chuong ten_chuong="chap 17.3"><hinh>http://file-image.mpcdn.net/41066/926912/9.jpg?1515689312</hinh></chuong>
+
+		<!-- chap 17.2 -->
+		<chuong ten_chuong="chap 17.2"><hinh>http://file-image.mpcdn.net/41066/926911/1.jpg?1515689323</hinh></chuong>
+		<chuong ten_chuong="chap 17.2"><hinh>http://file-image.mpcdn.net/41066/926911/2.jpg?1515689323</hinh></chuong>
+		<chuong ten_chuong="chap 17.2"><hinh>http://file-image.mpcdn.net/41066/926911/3.jpg?1515689323</hinh></chuong>
+		<chuong ten_chuong="chap 17.2"><hinh>http://file-image.mpcdn.net/41066/926911/4.jpg?1515689323</hinh></chuong>
+		<chuong ten_chuong="chap 17.2"><hinh>http://file-image.mpcdn.net/41066/926911/5.jpg?1515689323</hinh></chuong>
+		<chuong ten_chuong="chap 17.2"><hinh>http://file-image.mpcdn.net/41066/926911/6.jpg?1515689323</hinh></chuong>
+		<chuong ten_chuong="chap 17.2"><hinh>http://file-image.mpcdn.net/41066/926911/7.jpg?1515689323</hinh></chuong>
+		<chuong ten_chuong="chap 17.2"><hinh>http://file-image.mpcdn.net/41066/926911/8.jpg?1515689323</hinh></chuong>
+		<chuong ten_chuong="chap 17.2"><hinh>http://file-image.mpcdn.net/41066/926911/9.jpg?1515689323</hinh></chuong>
+
+		<!-- chap 17.1 -->
+		<chuong ten_chuong="chap 17.1"><hinh>http://file-image.mpcdn.net/41066/926910/1.jpg?1515689333</hinh></chuong>
+		<chuong ten_chuong="chap 17.1"><hinh>http://file-image.mpcdn.net/41066/926910/2.jpg?1515689333</hinh></chuong>
+		<chuong ten_chuong="chap 17.1"><hinh>http://file-image.mpcdn.net/41066/926910/3.jpg?1515689333</hinh></chuong>
+		<chuong ten_chuong="chap 17.1"><hinh>http://file-image.mpcdn.net/41066/926910/4.jpg?1515689333</hinh></chuong>
+		<chuong ten_chuong="chap 17.1"><hinh>http://file-image.mpcdn.net/41066/926910/5.jpg?1515689333</hinh></chuong>
+		<chuong ten_chuong="chap 17.1"><hinh>http://file-image.mpcdn.net/41066/926910/6.jpg?1515689333</hinh></chuong>
+		<chuong ten_chuong="chap 17.1"><hinh>http://file-image.mpcdn.net/41066/926910/7.jpg?1515689333</hinh></chuong>
+		<chuong ten_chuong="chap 17.1"><hinh>http://file-image.mpcdn.net/41066/926910/8.jpg?1515689333</hinh></chuong>
+		<chuong ten_chuong="chap 17.1"><hinh>http://file-image.mpcdn.net/41066/926910/9.jpg?1515689333</hinh></chuong>
+		<chuong ten_chuong="chap 17.1"><hinh>http://file-image.mpcdn.net/41066/926910/10.jpg?1515689333</hinh></chuong>
+
+		<!-- chap 16.3 -->
+		<chuong ten_chuong="chap 16.3"><hinh>http://file-image.mpcdn.net/41066/926353/1.jpg?1515689349</hinh></chuong>
+		<chuong ten_chuong="chap 16.3"><hinh>http://file-image.mpcdn.net/41066/926353/2.jpg?1515689349</hinh></chuong>
+		<chuong ten_chuong="chap 16.3"><hinh>http://file-image.mpcdn.net/41066/926353/3.jpg?1515689349</hinh></chuong>
+		<chuong ten_chuong="chap 16.3"><hinh>http://file-image.mpcdn.net/41066/926353/4.jpg?1515689349</hinh></chuong>
+		<chuong ten_chuong="chap 16.3"><hinh>http://file-image.mpcdn.net/41066/926353/5.jpg?1515689349</hinh></chuong>
+		<chuong ten_chuong="chap 16.3"><hinh>http://file-image.mpcdn.net/41066/926353/6.jpg?1515689349</hinh></chuong>
+		<chuong ten_chuong="chap 16.3"><hinh>http://file-image.mpcdn.net/41066/926353/7.jpg?1515689349</hinh></chuong>
+		<chuong ten_chuong="chap 16.3"><hinh>http://file-image.mpcdn.net/41066/926353/8.jpg?1515689349</hinh></chuong>
+
+		<!-- chap 16.2 -->
+		<chuong ten_chuong="chap 16.2"><hinh>http://file-image.mpcdn.net/41066/926240/1.jpg?1515689362</hinh></chuong>
+		<chuong ten_chuong="chap 16.2"><hinh>http://file-image.mpcdn.net/41066/926240/2.jpg?1515689362</hinh></chuong>
+		<chuong ten_chuong="chap 16.2"><hinh>http://file-image.mpcdn.net/41066/926240/3.jpg?1515689362</hinh></chuong>
+		<chuong ten_chuong="chap 16.2"><hinh>http://file-image.mpcdn.net/41066/926240/4.jpg?1515689362</hinh></chuong>
+		<chuong ten_chuong="chap 16.2"><hinh>http://file-image.mpcdn.net/41066/926240/5.jpg?1515689362</hinh></chuong>
+		<chuong ten_chuong="chap 16.2"><hinh>http://file-image.mpcdn.net/41066/926240/6.jpg?1515689362</hinh></chuong>
+		<chuong ten_chuong="chap 16.2"><hinh>http://file-image.mpcdn.net/41066/926240/7.jpg?1515689362</hinh></chuong>
+		<chuong ten_chuong="chap 16.2"><hinh>http://file-image.mpcdn.net/41066/926240/8.jpg?1515689362</hinh></chuong>
+
+		<!-- chap 16.1 -->
+		<chuong ten_chuong="chap 16.1"><hinh>http://file-image.mpcdn.net/41066/926239/1.jpg?1515689380</hinh></chuong>
+		<chuong ten_chuong="chap 16.1"><hinh>http://file-image.mpcdn.net/41066/926239/2.jpg?1515689380</hinh></chuong>
+		<chuong ten_chuong="chap 16.1"><hinh>http://file-image.mpcdn.net/41066/926239/3.jpg?1515689380</hinh></chuong>
+		<chuong ten_chuong="chap 16.1"><hinh>http://file-image.mpcdn.net/41066/926239/4.jpg?1515689380</hinh></chuong>
+		<chuong ten_chuong="chap 16.1"><hinh>http://file-image.mpcdn.net/41066/926239/5.jpg?1515689380</hinh></chuong>
+		<chuong ten_chuong="chap 16.1"><hinh>http://file-image.mpcdn.net/41066/926239/6.jpg?1515689380</hinh></chuong>
+		<chuong ten_chuong="chap 16.1"><hinh>http://file-image.mpcdn.net/41066/926239/7.jpg?1515689380</hinh></chuong>
+
+		<!-- chap 15.3 -->
+		<chuong ten_chuong="chap 15.3"><hinh>http://file-image.mpcdn.net/41066/925568/1.jpg?1515689392</hinh></chuong>
+		<chuong ten_chuong="chap 15.3"><hinh>http://file-image.mpcdn.net/41066/925568/2.jpg?1515689392</hinh></chuong>
+		<chuong ten_chuong="chap 15.3"><hinh>http://file-image.mpcdn.net/41066/925568/3.jpg?1515689392</hinh></chuong>
+		<chuong ten_chuong="chap 15.3"><hinh>http://file-image.mpcdn.net/41066/925568/4.jpg?1515689392</hinh></chuong>
+		<chuong ten_chuong="chap 15.3"><hinh>http://file-image.mpcdn.net/41066/925568/5.jpg?1515689392</hinh></chuong>
+		<chuong ten_chuong="chap 15.3"><hinh>http://file-image.mpcdn.net/41066/925568/6.jpg?1515689392</hinh></chuong>
+		<chuong ten_chuong="chap 15.3"><hinh>http://file-image.mpcdn.net/41066/925568/7.jpg?1515689392</hinh></chuong>
+		<chuong ten_chuong="chap 15.3"><hinh>http://file-image.mpcdn.net/41066/925568/8.jpg?1515689392</hinh></chuong>
+
+		<!-- chap 15.2 -->
+		<chuong ten_chuong="chap 15.2"><hinh>http://file-image.mpcdn.net/41066/925567/1.jpg?1515689406</hinh></chuong>
+		<chuong ten_chuong="chap 15.2"><hinh>http://file-image.mpcdn.net/41066/925567/2.jpg?1515689406</hinh></chuong>
+		<chuong ten_chuong="chap 15.2"><hinh>http://file-image.mpcdn.net/41066/925567/3.jpg?1515689406</hinh></chuong>
+		<chuong ten_chuong="chap 15.2"><hinh>http://file-image.mpcdn.net/41066/925567/4.jpg?1515689406</hinh></chuong>
+		<chuong ten_chuong="chap 15.2"><hinh>http://file-image.mpcdn.net/41066/925567/5.jpg?1515689406</hinh></chuong>
+		<chuong ten_chuong="chap 15.2"><hinh>http://file-image.mpcdn.net/41066/925567/6.jpg?1515689406</hinh></chuong>
+		<chuong ten_chuong="chap 15.2"><hinh>http://file-image.mpcdn.net/41066/925567/7.jpg?1515689406</hinh></chuong>
+		<chuong ten_chuong="chap 15.2"><hinh>http://file-image.mpcdn.net/41066/925567/8.jpg?1515689406</hinh></chuong>
+		<chuong ten_chuong="chap 15.2"><hinh>http://file-image.mpcdn.net/41066/925567/9.jpg?1515689406</hinh></chuong>
+
+		<!-- chap 15.1 -->
+		<chuong ten_chuong="chap 15.1"><hinh>http://file-image.mpcdn.net/41066/925566/1.jpg?1515689421</hinh></chuong>
+		<chuong ten_chuong="chap 15.1"><hinh>http://file-image.mpcdn.net/41066/925566/2.jpg?1515689421</hinh></chuong>
+		<chuong ten_chuong="chap 15.1"><hinh>http://file-image.mpcdn.net/41066/925566/3.jpg?1515689421</hinh></chuong>
+		<chuong ten_chuong="chap 15.1"><hinh>http://file-image.mpcdn.net/41066/925566/4.jpg?1515689421</hinh></chuong>
+		<chuong ten_chuong="chap 15.1"><hinh>http://file-image.mpcdn.net/41066/925566/5.jpg?1515689421</hinh></chuong>
+		<chuong ten_chuong="chap 15.1"><hinh>http://file-image.mpcdn.net/41066/925566/6.jpg?1515689421</hinh></chuong>
+		<chuong ten_chuong="chap 15.1"><hinh>http://file-image.mpcdn.net/41066/925566/7.jpg?1515689421</hinh></chuong>
+		<chuong ten_chuong="chap 15.1"><hinh>http://file-image.mpcdn.net/41066/925566/8.jpg?1515689421</hinh></chuong>
+		<chuong ten_chuong="chap 15.1"><hinh>http://file-image.mpcdn.net/41066/925566/9.jpg?1515689421</hinh></chuong>
+
+		<!-- chap 14.3 -->
+		<chuong ten_chuong="chap 14.3"><hinh>http://file-image.mpcdn.net/41066/925274/1.jpg?1515689432</hinh></chuong>
+		<chuong ten_chuong="chap 14.3"><hinh>http://file-image.mpcdn.net/41066/925274/2.jpg?1515689432</hinh></chuong>
+		<chuong ten_chuong="chap 14.3"><hinh>http://file-image.mpcdn.net/41066/925274/3.jpg?1515689432</hinh></chuong>
+		<chuong ten_chuong="chap 14.3"><hinh>http://file-image.mpcdn.net/41066/925274/4.jpg?1515689432</hinh></chuong>
+		<chuong ten_chuong="chap 14.3"><hinh>http://file-image.mpcdn.net/41066/925274/5.jpg?1515689432</hinh></chuong>
+		<chuong ten_chuong="chap 14.3"><hinh>http://file-image.mpcdn.net/41066/925274/6.jpg?1515689432</hinh></chuong>
+		<chuong ten_chuong="chap 14.3"><hinh>http://file-image.mpcdn.net/41066/925274/7.jpg?1515689432</hinh></chuong>
+		<chuong ten_chuong="chap 14.3"><hinh>http://file-image.mpcdn.net/41066/925274/8.jpg?1515689432</hinh></chuong>
+		<chuong ten_chuong="chap 14.3"><hinh>http://file-image.mpcdn.net/41066/925274/9.jpg?1515689432</hinh></chuong>
+
+		<!-- chap 14.2 -->
+		<chuong ten_chuong="chap 14.2"><hinh>http://file-image.mpcdn.net/41066/925273/1.jpg?1515689448</hinh></chuong>
+		<chuong ten_chuong="chap 14.2"><hinh>http://file-image.mpcdn.net/41066/925273/2.jpg?1515689448</hinh></chuong>
+		<chuong ten_chuong="chap 14.2"><hinh>http://file-image.mpcdn.net/41066/925273/3.jpg?1515689448</hinh></chuong>
+		<chuong ten_chuong="chap 14.2"><hinh>http://file-image.mpcdn.net/41066/925273/4.jpg?1515689448</hinh></chuong>
+		<chuong ten_chuong="chap 14.2"><hinh>http://file-image.mpcdn.net/41066/925273/5.jpg?1515689448</hinh></chuong>
+		<chuong ten_chuong="chap 14.2"><hinh>http://file-image.mpcdn.net/41066/925273/6.jpg?1515689448</hinh></chuong>
+		<chuong ten_chuong="chap 14.2"><hinh>http://file-image.mpcdn.net/41066/925273/7.jpg?1515689448</hinh></chuong>
+		<chuong ten_chuong="chap 14.2"><hinh>http://file-image.mpcdn.net/41066/925273/8.jpg?1515689448</hinh></chuong>
+		<chuong ten_chuong="chap 14.2"><hinh>http://file-image.mpcdn.net/41066/925273/9.jpg?1515689448</hinh></chuong>
+
+		<!-- chap 14.1 -->
+		<chuong ten_chuong="chap 14.1"><hinh>http://file-image.mpcdn.net/41066/925272/1.jpg?1515689459</hinh></chuong>
+		<chuong ten_chuong="chap 14.1"><hinh>http://file-image.mpcdn.net/41066/925272/2.jpg?1515689459</hinh></chuong>
+		<chuong ten_chuong="chap 14.1"><hinh>http://file-image.mpcdn.net/41066/925272/3.jpg?1515689459</hinh></chuong>
+		<chuong ten_chuong="chap 14.1"><hinh>http://file-image.mpcdn.net/41066/925272/4.jpg?1515689459</hinh></chuong>
+		<chuong ten_chuong="chap 14.1"><hinh>http://file-image.mpcdn.net/41066/925272/5.jpg?1515689459</hinh></chuong>
+		<chuong ten_chuong="chap 14.1"><hinh>http://file-image.mpcdn.net/41066/925272/6.jpg?1515689459</hinh></chuong>
+		<chuong ten_chuong="chap 14.1"><hinh>http://file-image.mpcdn.net/41066/925272/7.jpg?1515689459</hinh></chuong>
+		<chuong ten_chuong="chap 14.1"><hinh>http://file-image.mpcdn.net/41066/925272/8.jpg?1515689459</hinh></chuong>
+		<chuong ten_chuong="chap 14.1"><hinh>http://file-image.mpcdn.net/41066/925272/9.jpg?1515689459</hinh></chuong>
+
+		<!-- chap 13.3 -->
+		<chuong ten_chuong="chap 13.3"><hinh>http://file-image.mpcdn.net/41066/924991/1.jpg?1515689474</hinh></chuong>
+		<chuong ten_chuong="chap 13.3"><hinh>http://file-image.mpcdn.net/41066/924991/2.jpg?1515689474</hinh></chuong>
+		<chuong ten_chuong="chap 13.3"><hinh>http://file-image.mpcdn.net/41066/924991/3.jpg?1515689474</hinh></chuong>
+		<chuong ten_chuong="chap 13.3"><hinh>http://file-image.mpcdn.net/41066/924991/4.jpg?1515689474</hinh></chuong>
+		<chuong ten_chuong="chap 13.3"><hinh>http://file-image.mpcdn.net/41066/924991/5.jpg?1515689474</hinh></chuong>
+		<chuong ten_chuong="chap 13.3"><hinh>http://file-image.mpcdn.net/41066/924991/6.jpg?1515689474</hinh></chuong>
+		<chuong ten_chuong="chap 13.3"><hinh>http://file-image.mpcdn.net/41066/924991/7.jpg?1515689474</hinh></chuong>
+		<chuong ten_chuong="chap 13.3"><hinh>http://file-image.mpcdn.net/41066/924991/8.jpg?1515689474</hinh></chuong>
+		<chuong ten_chuong="chap 13.3"><hinh>http://file-image.mpcdn.net/41066/924991/9.jpg?1515689474</hinh></chuong>
+		<chuong ten_chuong="chap 13.3"><hinh>http://file-image.mpcdn.net/41066/924991/10.jpg?1515689474</hinh></chuong>
+
+		<!-- chap 13.2 -->
+		<chuong ten_chuong="chap 13.2"><hinh>http://file-image.mpcdn.net/41066/924990/1.jpg?1515689486</hinh></chuong>
+		<chuong ten_chuong="chap 13.2"><hinh>http://file-image.mpcdn.net/41066/924990/2.jpg?1515689486</hinh></chuong>
+		<chuong ten_chuong="chap 13.2"><hinh>http://file-image.mpcdn.net/41066/924990/3.jpg?1515689486</hinh></chuong>
+		<chuong ten_chuong="chap 13.2"><hinh>http://file-image.mpcdn.net/41066/924990/4.jpg?1515689486</hinh></chuong>
+		<chuong ten_chuong="chap 13.2"><hinh>http://file-image.mpcdn.net/41066/924990/5.jpg?1515689486</hinh></chuong>
+		<chuong ten_chuong="chap 13.2"><hinh>http://file-image.mpcdn.net/41066/924990/6.jpg?1515689486</hinh></chuong>
+		<chuong ten_chuong="chap 13.2"><hinh>http://file-image.mpcdn.net/41066/924990/7.jpg?1515689486</hinh></chuong>
+		<chuong ten_chuong="chap 13.2"><hinh>http://file-image.mpcdn.net/41066/924990/8.jpg?1515689486</hinh></chuong>
+		<chuong ten_chuong="chap 13.2"><hinh>http://file-image.mpcdn.net/41066/924990/9.jpg?1515689486</hinh></chuong>
+
+		<!-- chap 13.1 -->
+		<chuong ten_chuong="chap 13.1"><hinh>http://file-image.mpcdn.net/41066/924989/1.jpg?1515689498</hinh></chuong>
+		<chuong ten_chuong="chap 13.1"><hinh>http://file-image.mpcdn.net/41066/924989/2.jpg?1515689498</hinh></chuong>
+		<chuong ten_chuong="chap 13.1"><hinh>http://file-image.mpcdn.net/41066/924989/3.jpg?1515689498</hinh></chuong>
+		<chuong ten_chuong="chap 13.1"><hinh>http://file-image.mpcdn.net/41066/924989/4.jpg?1515689498</hinh></chuong>
+		<chuong ten_chuong="chap 13.1"><hinh>http://file-image.mpcdn.net/41066/924989/5.jpg?1515689498</hinh></chuong>
+		<chuong ten_chuong="chap 13.1"><hinh>http://file-image.mpcdn.net/41066/924989/6.jpg?1515689498</hinh></chuong>
+		<chuong ten_chuong="chap 13.1"><hinh>http://file-image.mpcdn.net/41066/924989/7.jpg?1515689498</hinh></chuong>
+		<chuong ten_chuong="chap 13.1"><hinh>http://file-image.mpcdn.net/41066/924989/8.jpg?1515689498</hinh></chuong>
+		<chuong ten_chuong="chap 13.1"><hinh>http://file-image.mpcdn.net/41066/924989/9.jpg?1515689498</hinh></chuong>
+		<chuong ten_chuong="chap 13.1"><hinh>http://file-image.mpcdn.net/41066/924989/10.jpg?1515689498</hinh></chuong>
+
+		<!-- chap 12.3 -->
+		<chuong ten_chuong="chap 12.3"><hinh>http://file-image.mpcdn.net/41066/924988/1.jpg?1515689509</hinh></chuong>
+		<chuong ten_chuong="chap 12.3"><hinh>http://file-image.mpcdn.net/41066/924988/2.jpg?1515689509</hinh></chuong>
+		<chuong ten_chuong="chap 12.3"><hinh>http://file-image.mpcdn.net/41066/924988/3.jpg?1515689509</hinh></chuong>
+		<chuong ten_chuong="chap 12.3"><hinh>http://file-image.mpcdn.net/41066/924988/4.jpg?1515689509</hinh></chuong>
+		<chuong ten_chuong="chap 12.3"><hinh>http://file-image.mpcdn.net/41066/924988/5.jpg?1515689509</hinh></chuong>
+		<chuong ten_chuong="chap 12.3"><hinh>http://file-image.mpcdn.net/41066/924988/6.jpg?1515689509</hinh></chuong>
+		<chuong ten_chuong="chap 12.3"><hinh>http://file-image.mpcdn.net/41066/924988/7.jpg?1515689509</hinh></chuong>
+		<chuong ten_chuong="chap 12.3"><hinh>http://file-image.mpcdn.net/41066/924988/8.jpg?1515689509</hinh></chuong>
+		<chuong ten_chuong="chap 12.3"><hinh>http://file-image.mpcdn.net/41066/924988/9.jpg?1515689509</hinh></chuong>
+		<chuong ten_chuong="chap 12.3"><hinh>http://file-image.mpcdn.net/41066/924988/10.jpg?1515689509</hinh></chuong>
+
+		<!-- chap 12.2 -->
+		<chuong ten_chuong="chap 12.2"><hinh>http://file-image.mpcdn.net/41066/924987/1.jpg?1515689520</hinh></chuong>
+		<chuong ten_chuong="chap 12.2"><hinh>http://file-image.mpcdn.net/41066/924987/2.jpg?1515689520</hinh></chuong>
+		<chuong ten_chuong="chap 12.2"><hinh>http://file-image.mpcdn.net/41066/924987/3.jpg?1515689520</hinh></chuong>
+		<chuong ten_chuong="chap 12.2"><hinh>http://file-image.mpcdn.net/41066/924987/4.jpg?1515689520</hinh></chuong>
+		<chuong ten_chuong="chap 12.2"><hinh>http://file-image.mpcdn.net/41066/924987/5.jpg?1515689520</hinh></chuong>
+		<chuong ten_chuong="chap 12.2"><hinh>http://file-image.mpcdn.net/41066/924987/6.jpg?1515689520</hinh></chuong>
+		<chuong ten_chuong="chap 12.2"><hinh>http://file-image.mpcdn.net/41066/924987/7.jpg?1515689520</hinh></chuong>
+		<chuong ten_chuong="chap 12.2"><hinh>http://file-image.mpcdn.net/41066/924987/8.jpg?1515689520</hinh></chuong>
+		<chuong ten_chuong="chap 12.2"><hinh>http://file-image.mpcdn.net/41066/924987/9.jpg?1515689520</hinh></chuong>
+
+		<!-- chap 12.1 -->
+		<chuong ten_chuong="chap 12.1"><hinh>http://file-image.mpcdn.net/41066/924981/1.jpg?1515689536</hinh></chuong>
+		<chuong ten_chuong="chap 12.1"><hinh>http://file-image.mpcdn.net/41066/924981/2.jpg?1515689536</hinh></chuong>
+		<chuong ten_chuong="chap 12.1"><hinh>http://file-image.mpcdn.net/41066/924981/3.jpg?1515689536</hinh></chuong>
+		<chuong ten_chuong="chap 12.1"><hinh>http://file-image.mpcdn.net/41066/924981/4.jpg?1515689536</hinh></chuong>
+		<chuong ten_chuong="chap 12.1"><hinh>http://file-image.mpcdn.net/41066/924981/5.jpg?1515689536</hinh></chuong>
+		<chuong ten_chuong="chap 12.1"><hinh>http://file-image.mpcdn.net/41066/924981/6.jpg?1515689536</hinh></chuong>
+		<chuong ten_chuong="chap 12.1"><hinh>http://file-image.mpcdn.net/41066/924981/7.jpg?1515689536</hinh></chuong>
+		<chuong ten_chuong="chap 12.1"><hinh>http://file-image.mpcdn.net/41066/924981/8.jpg?1515689536</hinh></chuong>
+		<chuong ten_chuong="chap 12.1"><hinh>http://file-image.mpcdn.net/41066/924981/9.jpg?1515689536</hinh></chuong>
+		<chuong ten_chuong="chap 12.1"><hinh>http://file-image.mpcdn.net/41066/924981/10.jpg?1515689536</hinh></chuong>
+
+		<!-- chap 11.3 -->
+		<chuong ten_chuong="chap 11.3"><hinh>http://file-image.mpcdn.net/41066/924980/1.jpg?1515689547</hinh></chuong>
+		<chuong ten_chuong="chap 11.3"><hinh>http://file-image.mpcdn.net/41066/924980/2.jpg?1515689547</hinh></chuong>
+		<chuong ten_chuong="chap 11.3"><hinh>http://file-image.mpcdn.net/41066/924980/3.jpg?1515689547</hinh></chuong>
+		<chuong ten_chuong="chap 11.3"><hinh>http://file-image.mpcdn.net/41066/924980/4.jpg?1515689547</hinh></chuong>
+		<chuong ten_chuong="chap 11.3"><hinh>http://file-image.mpcdn.net/41066/924980/5.jpg?1515689547</hinh></chuong>
+		<chuong ten_chuong="chap 11.3"><hinh>http://file-image.mpcdn.net/41066/924980/6.jpg?1515689547</hinh></chuong>
+		<chuong ten_chuong="chap 11.3"><hinh>http://file-image.mpcdn.net/41066/924980/7.jpg?1515689547</hinh></chuong>
+		<chuong ten_chuong="chap 11.3"><hinh>http://file-image.mpcdn.net/41066/924980/8.jpg?1515689547</hinh></chuong>
+		<chuong ten_chuong="chap 11.3"><hinh>http://file-image.mpcdn.net/41066/924980/9.jpg?1515689547</hinh></chuong>
+		<chuong ten_chuong="chap 11.3"><hinh>http://file-image.mpcdn.net/41066/924980/10.jpg?1515689547</hinh></chuong>
+
+		<!-- chap 11.2 -->
+		<chuong ten_chuong="chap 11.2"><hinh>http://file-image.mpcdn.net/41066/924979/1.jpg?1515689558</hinh></chuong>
+		<chuong ten_chuong="chap 11.2"><hinh>http://file-image.mpcdn.net/41066/924979/2.jpg?1515689558</hinh></chuong>
+		<chuong ten_chuong="chap 11.2"><hinh>http://file-image.mpcdn.net/41066/924979/3.jpg?1515689558</hinh></chuong>
+		<chuong ten_chuong="chap 11.2"><hinh>http://file-image.mpcdn.net/41066/924979/4.jpg?1515689558</hinh></chuong>
+		<chuong ten_chuong="chap 11.2"><hinh>http://file-image.mpcdn.net/41066/924979/5.jpg?1515689558</hinh></chuong>
+		<chuong ten_chuong="chap 11.2"><hinh>http://file-image.mpcdn.net/41066/924979/6.jpg?1515689558</hinh></chuong>
+		<chuong ten_chuong="chap 11.2"><hinh>http://file-image.mpcdn.net/41066/924979/7.jpg?1515689558</hinh></chuong>
+		<chuong ten_chuong="chap 11.2"><hinh>http://file-image.mpcdn.net/41066/924979/8.jpg?1515689558</hinh></chuong>
+		<chuong ten_chuong="chap 11.2"><hinh>http://file-image.mpcdn.net/41066/924979/9.jpg?1515689558</hinh></chuong>
+		<chuong ten_chuong="chap 11.2"><hinh>http://file-image.mpcdn.net/41066/924979/10.jpg?1515689558</hinh></chuong>
+
+		<!-- chap 11.1 -->
+		<chuong ten_chuong="chap 11.1"><hinh>http://file-image.mpcdn.net/41066/924978/1.jpg?1515689570</hinh></chuong>
+		<chuong ten_chuong="chap 11.1"><hinh>http://file-image.mpcdn.net/41066/924978/2.jpg?1515689570</hinh></chuong>
+		<chuong ten_chuong="chap 11.1"><hinh>http://file-image.mpcdn.net/41066/924978/3.jpg?1515689570</hinh></chuong>
+		<chuong ten_chuong="chap 11.1"><hinh>http://file-image.mpcdn.net/41066/924978/4.jpg?1515689570</hinh></chuong>
+		<chuong ten_chuong="chap 11.1"><hinh>http://file-image.mpcdn.net/41066/924978/5.jpg?1515689570</hinh></chuong>
+		<chuong ten_chuong="chap 11.1"><hinh>http://file-image.mpcdn.net/41066/924978/6.jpg?1515689570</hinh></chuong>
+		<chuong ten_chuong="chap 11.1"><hinh>http://file-image.mpcdn.net/41066/924978/7.jpg?1515689570</hinh></chuong>
+		<chuong ten_chuong="chap 11.1"><hinh>http://file-image.mpcdn.net/41066/924978/8.jpg?1515689570</hinh></chuong>
+		<chuong ten_chuong="chap 11.1"><hinh>http://file-image.mpcdn.net/41066/924978/9.jpg?1515689570</hinh></chuong>
+		<chuong ten_chuong="chap 11.1"><hinh>http://file-image.mpcdn.net/41066/924978/10.jpg?1515689570</hinh></chuong>
+
+		<!-- chap 10.3 -->
+		<chuong ten_chuong="chap 10.3"><hinh>http://file-image.mpcdn.net/41066/924977/1.jpg?1515689581</hinh></chuong>
+		<chuong ten_chuong="chap 10.3"><hinh>http://file-image.mpcdn.net/41066/924977/2.jpg?1515689581</hinh></chuong>
+		<chuong ten_chuong="chap 10.3"><hinh>http://file-image.mpcdn.net/41066/924977/3.jpg?1515689581</hinh></chuong>
+		<chuong ten_chuong="chap 10.3"><hinh>http://file-image.mpcdn.net/41066/924977/4.jpg?1515689581</hinh></chuong>
+		<chuong ten_chuong="chap 10.3"><hinh>http://file-image.mpcdn.net/41066/924977/5.jpg?1515689581</hinh></chuong>
+		<chuong ten_chuong="chap 10.3"><hinh>http://file-image.mpcdn.net/41066/924977/6.jpg?1515689581</hinh></chuong>
+		<chuong ten_chuong="chap 10.3"><hinh>http://file-image.mpcdn.net/41066/924977/7.jpg?1515689581</hinh></chuong>
+		<chuong ten_chuong="chap 10.3"><hinh>http://file-image.mpcdn.net/41066/924977/8.jpg?1515689581</hinh></chuong>
+		<chuong ten_chuong="chap 10.3"><hinh>http://file-image.mpcdn.net/41066/924977/9.jpg?1515689581</hinh></chuong>
+		<chuong ten_chuong="chap 10.3"><hinh>http://file-image.mpcdn.net/41066/924977/10.jpg?1515689581</hinh></chuong>
+
+		<!-- chap 10.2 -->
+		<chuong ten_chuong="chap 10.2"><hinh>http://file-image.mpcdn.net/41066/924976/1.jpg?1515689596</hinh></chuong>
+		<chuong ten_chuong="chap 10.2"><hinh>http://file-image.mpcdn.net/41066/924976/2.jpg?1515689596</hinh></chuong>
+		<chuong ten_chuong="chap 10.2"><hinh>http://file-image.mpcdn.net/41066/924976/3.jpg?1515689596</hinh></chuong>
+		<chuong ten_chuong="chap 10.2"><hinh>http://file-image.mpcdn.net/41066/924976/4.jpg?1515689596</hinh></chuong>
+		<chuong ten_chuong="chap 10.2"><hinh>http://file-image.mpcdn.net/41066/924976/5.jpg?1515689596</hinh></chuong>
+		<chuong ten_chuong="chap 10.2"><hinh>http://file-image.mpcdn.net/41066/924976/6.jpg?1515689596</hinh></chuong>
+		<chuong ten_chuong="chap 10.2"><hinh>http://file-image.mpcdn.net/41066/924976/7.jpg?1515689596</hinh></chuong>
+		<chuong ten_chuong="chap 10.2"><hinh>http://file-image.mpcdn.net/41066/924976/8.jpg?1515689596</hinh></chuong>
+		<chuong ten_chuong="chap 10.2"><hinh>http://file-image.mpcdn.net/41066/924976/9.jpg?1515689596</hinh></chuong>
+		<chuong ten_chuong="chap 10.2"><hinh>http://file-image.mpcdn.net/41066/924976/10.jpg?1515689596</hinh></chuong>
+
+		<!-- chap 10.1 -->
+		<chuong ten_chuong="chap 10.1"><hinh>http://file-image.mpcdn.net/41066/924975/1.jpg?1515689608</hinh></chuong>
+		<chuong ten_chuong="chap 10.1"><hinh>http://file-image.mpcdn.net/41066/924975/2.jpg?1515689608</hinh></chuong>
+		<chuong ten_chuong="chap 10.1"><hinh>http://file-image.mpcdn.net/41066/924975/3.jpg?1515689608</hinh></chuong>
+		<chuong ten_chuong="chap 10.1"><hinh>http://file-image.mpcdn.net/41066/924975/4.jpg?1515689608</hinh></chuong>
+		<chuong ten_chuong="chap 10.1"><hinh>http://file-image.mpcdn.net/41066/924975/5.jpg?1515689608</hinh></chuong>
+		<chuong ten_chuong="chap 10.1"><hinh>http://file-image.mpcdn.net/41066/924975/6.jpg?1515689608</hinh></chuong>
+		<chuong ten_chuong="chap 10.1"><hinh>http://file-image.mpcdn.net/41066/924975/7.jpg?1515689608</hinh></chuong>
+		<chuong ten_chuong="chap 10.1"><hinh>http://file-image.mpcdn.net/41066/924975/8.jpg?1515689608</hinh></chuong>
+		<chuong ten_chuong="chap 10.1"><hinh>http://file-image.mpcdn.net/41066/924975/9.jpg?1515689608</hinh></chuong>
+
+		<!-- chap 9.3 -->
+		<chuong ten_chuong="chap 9.3"><hinh>http://file-image.mpcdn.net/41066/924974/1.jpg?1515689621</hinh></chuong>
+		<chuong ten_chuong="chap 9.3"><hinh>http://file-image.mpcdn.net/41066/924974/2.jpg?1515689621</hinh></chuong>
+		<chuong ten_chuong="chap 9.3"><hinh>http://file-image.mpcdn.net/41066/924974/3.jpg?1515689621</hinh></chuong>
+		<chuong ten_chuong="chap 9.3"><hinh>http://file-image.mpcdn.net/41066/924974/4.jpg?1515689621</hinh></chuong>
+		<chuong ten_chuong="chap 9.3"><hinh>http://file-image.mpcdn.net/41066/924974/5.jpg?1515689621</hinh></chuong>
+		<chuong ten_chuong="chap 9.3"><hinh>http://file-image.mpcdn.net/41066/924974/6.jpg?1515689621</hinh></chuong>
+		<chuong ten_chuong="chap 9.3"><hinh>http://file-image.mpcdn.net/41066/924974/7.jpg?1515689621</hinh></chuong>
+		<chuong ten_chuong="chap 9.3"><hinh>http://file-image.mpcdn.net/41066/924974/8.jpg?1515689621</hinh></chuong>
+		<chuong ten_chuong="chap 9.3"><hinh>http://file-image.mpcdn.net/41066/924974/9.jpg?1515689621</hinh></chuong>
+
+		<!-- chap 9.2 -->
+		<chuong ten_chuong="chap 9.2"><hinh>http://file-image.mpcdn.net/41066/924973/1.jpg?1515689632</hinh></chuong>
+		<chuong ten_chuong="chap 9.2"><hinh>http://file-image.mpcdn.net/41066/924973/2.jpg?1515689632</hinh></chuong>
+		<chuong ten_chuong="chap 9.2"><hinh>http://file-image.mpcdn.net/41066/924973/3.jpg?1515689632</hinh></chuong>
+		<chuong ten_chuong="chap 9.2"><hinh>http://file-image.mpcdn.net/41066/924973/4.jpg?1515689632</hinh></chuong>
+		<chuong ten_chuong="chap 9.2"><hinh>http://file-image.mpcdn.net/41066/924973/5.jpg?1515689632</hinh></chuong>
+		<chuong ten_chuong="chap 9.2"><hinh>http://file-image.mpcdn.net/41066/924973/6.jpg?1515689632</hinh></chuong>
+		<chuong ten_chuong="chap 9.2"><hinh>http://file-image.mpcdn.net/41066/924973/7.jpg?1515689632</hinh></chuong>
+		<chuong ten_chuong="chap 9.2"><hinh>http://file-image.mpcdn.net/41066/924973/8.jpg?1515689632</hinh></chuong>
+		<chuong ten_chuong="chap 9.2"><hinh>http://file-image.mpcdn.net/41066/924973/9.jpg?1515689632</hinh></chuong>
+		<chuong ten_chuong="chap 9.2"><hinh>http://file-image.mpcdn.net/41066/924973/10.jpg?1515689632</hinh></chuong>
+
+		<!-- chap 9.1 -->
+		<chuong ten_chuong="chap 9.1"><hinh>http://file-image.mpcdn.net/41066/924972/1.jpg?1515689646</hinh></chuong>
+		<chuong ten_chuong="chap 9.1"><hinh>http://file-image.mpcdn.net/41066/924972/2.jpg?1515689646</hinh></chuong>
+		<chuong ten_chuong="chap 9.1"><hinh>http://file-image.mpcdn.net/41066/924972/3.jpg?1515689646</hinh></chuong>
+		<chuong ten_chuong="chap 9.1"><hinh>http://file-image.mpcdn.net/41066/924972/4.jpg?1515689646</hinh></chuong>
+		<chuong ten_chuong="chap 9.1"><hinh>http://file-image.mpcdn.net/41066/924972/5.jpg?1515689646</hinh></chuong>
+		<chuong ten_chuong="chap 9.1"><hinh>http://file-image.mpcdn.net/41066/924972/6.jpg?1515689646</hinh></chuong>
+		<chuong ten_chuong="chap 9.1"><hinh>http://file-image.mpcdn.net/41066/924972/7.jpg?1515689646</hinh></chuong>
+		<chuong ten_chuong="chap 9.1"><hinh>http://file-image.mpcdn.net/41066/924972/8.jpg?1515689646</hinh></chuong>
+		<chuong ten_chuong="chap 9.1"><hinh>http://file-image.mpcdn.net/41066/924972/9.jpg?1515689646</hinh></chuong>
+		<chuong ten_chuong="chap 9.1"><hinh>http://file-image.mpcdn.net/41066/924972/10.jpg?1515689646</hinh></chuong>
+
+		<!-- chap 8.3 -->
+		<chuong ten_chuong="chap 8.3"><hinh>http://file-image.mpcdn.net/41066/924028/1.jpg?1515689658</hinh></chuong>
+		<chuong ten_chuong="chap 8.3"><hinh>http://file-image.mpcdn.net/41066/924028/2.jpg?1515689658</hinh></chuong>
+		<chuong ten_chuong="chap 8.3"><hinh>http://file-image.mpcdn.net/41066/924028/3.jpg?1515689658</hinh></chuong>
+		<chuong ten_chuong="chap 8.3"><hinh>http://file-image.mpcdn.net/41066/924028/4.jpg?1515689658</hinh></chuong>
+		<chuong ten_chuong="chap 8.3"><hinh>http://file-image.mpcdn.net/41066/924028/5.jpg?1515689658</hinh></chuong>
+		<chuong ten_chuong="chap 8.3"><hinh>http://file-image.mpcdn.net/41066/924028/6.jpg?1515689658</hinh></chuong>
+		<chuong ten_chuong="chap 8.3"><hinh>http://file-image.mpcdn.net/41066/924028/7.jpg?1515689658</hinh></chuong>
+		<chuong ten_chuong="chap 8.3"><hinh>http://file-image.mpcdn.net/41066/924028/8.jpg?1515689658</hinh></chuong>
+
+		<!-- chap 8.2 -->
+		<chuong ten_chuong="chap 8.2"><hinh>http://file-image.mpcdn.net/41066/924027/1.jpg?1515689669</hinh></chuong>
+		<chuong ten_chuong="chap 8.2"><hinh>http://file-image.mpcdn.net/41066/924027/2.jpg?1515689669</hinh></chuong>
+		<chuong ten_chuong="chap 8.2"><hinh>http://file-image.mpcdn.net/41066/924027/3.jpg?1515689669</hinh></chuong>
+		<chuong ten_chuong="chap 8.2"><hinh>http://file-image.mpcdn.net/41066/924027/4.jpg?1515689669</hinh></chuong>
+		<chuong ten_chuong="chap 8.2"><hinh>http://file-image.mpcdn.net/41066/924027/5.jpg?1515689669</hinh></chuong>
+		<chuong ten_chuong="chap 8.2"><hinh>http://file-image.mpcdn.net/41066/924027/6.jpg?1515689669</hinh></chuong>
+		<chuong ten_chuong="chap 8.2"><hinh>http://file-image.mpcdn.net/41066/924027/7.jpg?1515689669</hinh></chuong>
+		<chuong ten_chuong="chap 8.2"><hinh>http://file-image.mpcdn.net/41066/924027/8.jpg?1515689669</hinh></chuong>
+		<chuong ten_chuong="chap 8.2"><hinh>http://file-image.mpcdn.net/41066/924027/9.jpg?1515689669</hinh></chuong>
+
+		<!-- chap 8.1 -->
+		<chuong ten_chuong="chap 8.1"><hinh>http://file-image.mpcdn.net/41066/924026/1.jpg?1515689680</hinh></chuong>
+		<chuong ten_chuong="chap 8.1"><hinh>http://file-image.mpcdn.net/41066/924026/2.jpg?1515689680</hinh></chuong>
+		<chuong ten_chuong="chap 8.1"><hinh>http://file-image.mpcdn.net/41066/924026/3.jpg?1515689680</hinh></chuong>
+		<chuong ten_chuong="chap 8.1"><hinh>http://file-image.mpcdn.net/41066/924026/4.jpg?1515689680</hinh></chuong>
+		<chuong ten_chuong="chap 8.1"><hinh>http://file-image.mpcdn.net/41066/924026/5.jpg?1515689680</hinh></chuong>
+		<chuong ten_chuong="chap 8.1"><hinh>http://file-image.mpcdn.net/41066/924026/6.jpg?1515689680</hinh></chuong>
+		<chuong ten_chuong="chap 8.1"><hinh>http://file-image.mpcdn.net/41066/924026/7.jpg?1515689680</hinh></chuong>
+		<chuong ten_chuong="chap 8.1"><hinh>http://file-image.mpcdn.net/41066/924026/8.jpg?1515689680</hinh></chuong>
+		<chuong ten_chuong="chap 8.1"><hinh>http://file-image.mpcdn.net/41066/924026/9.jpg?1515689680</hinh></chuong>
+
+		<!-- chap 7.3 -->
+		<chuong ten_chuong="chap 7.3"><hinh>http://file-image.mpcdn.net/41066/923614/1.jpg?1515689691</hinh></chuong>
+		<chuong ten_chuong="chap 7.3"><hinh>http://file-image.mpcdn.net/41066/923614/2.jpg?1515689691</hinh></chuong>
+		<chuong ten_chuong="chap 7.3"><hinh>http://file-image.mpcdn.net/41066/923614/3.jpg?1515689691</hinh></chuong>
+		<chuong ten_chuong="chap 7.3"><hinh>http://file-image.mpcdn.net/41066/923614/4.jpg?1515689691</hinh></chuong>
+		<chuong ten_chuong="chap 7.3"><hinh>http://file-image.mpcdn.net/41066/923614/5.jpg?1515689691</hinh></chuong>
+		<chuong ten_chuong="chap 7.3"><hinh>http://file-image.mpcdn.net/41066/923614/6.jpg?1515689691</hinh></chuong>
+		<chuong ten_chuong="chap 7.3"><hinh>http://file-image.mpcdn.net/41066/923614/7.jpg?1515689691</hinh></chuong>
+		<chuong ten_chuong="chap 7.3"><hinh>http://file-image.mpcdn.net/41066/923614/8.jpg?1515689691</hinh></chuong>
+
+		<!-- chap 7.2 -->
+		<chuong ten_chuong="chap 7.2"><hinh>http://file-image.mpcdn.net/41066/923613/1.jpg?1515689702</hinh></chuong>
+		<chuong ten_chuong="chap 7.2"><hinh>http://file-image.mpcdn.net/41066/923613/2.jpg?1515689702</hinh></chuong>
+		<chuong ten_chuong="chap 7.2"><hinh>http://file-image.mpcdn.net/41066/923613/3.jpg?1515689702</hinh></chuong>
+		<chuong ten_chuong="chap 7.2"><hinh>http://file-image.mpcdn.net/41066/923613/4.jpg?1515689702</hinh></chuong>
+		<chuong ten_chuong="chap 7.2"><hinh>http://file-image.mpcdn.net/41066/923613/5.jpg?1515689702</hinh></chuong>
+		<chuong ten_chuong="chap 7.2"><hinh>http://file-image.mpcdn.net/41066/923613/6.jpg?1515689702</hinh></chuong>
+		<chuong ten_chuong="chap 7.2"><hinh>http://file-image.mpcdn.net/41066/923613/7.jpg?1515689702</hinh></chuong>
+		<chuong ten_chuong="chap 7.2"><hinh>http://file-image.mpcdn.net/41066/923613/8.jpg?1515689702</hinh></chuong>
+		<chuong ten_chuong="chap 7.2"><hinh>http://file-image.mpcdn.net/41066/923613/9.jpg?1515689702</hinh></chuong>
+
+		<!-- chap 7.1 -->
+		<chuong ten_chuong="chap 7.1"><hinh>http://file-image.mpcdn.net/41066/923612/1.jpg?1515689717</hinh></chuong>
+		<chuong ten_chuong="chap 7.1"><hinh>http://file-image.mpcdn.net/41066/923612/2.jpg?1515689717</hinh></chuong>
+		<chuong ten_chuong="chap 7.1"><hinh>http://file-image.mpcdn.net/41066/923612/3.jpg?1515689717</hinh></chuong>
+		<chuong ten_chuong="chap 7.1"><hinh>http://file-image.mpcdn.net/41066/923612/4.jpg?1515689717</hinh></chuong>
+		<chuong ten_chuong="chap 7.1"><hinh>http://file-image.mpcdn.net/41066/923612/5.jpg?1515689717</hinh></chuong>
+		<chuong ten_chuong="chap 7.1"><hinh>http://file-image.mpcdn.net/41066/923612/6.jpg?1515689717</hinh></chuong>
+		<chuong ten_chuong="chap 7.1"><hinh>http://file-image.mpcdn.net/41066/923612/7.jpg?1515689717</hinh></chuong>
+		<chuong ten_chuong="chap 7.1"><hinh>http://file-image.mpcdn.net/41066/923612/8.jpg?1515689717</hinh></chuong>
+
+		<!-- chap 6.3 -->
+		<chuong ten_chuong="chap 6.3"><hinh>http://file-image.mpcdn.net/41066/922812/1.jpg?1515689730</hinh></chuong>
+		<chuong ten_chuong="chap 6.3"><hinh>http://file-image.mpcdn.net/41066/922812/2.jpg?1515689730</hinh></chuong>
+		<chuong ten_chuong="chap 6.3"><hinh>http://file-image.mpcdn.net/41066/922812/3.jpg?1515689730</hinh></chuong>
+		<chuong ten_chuong="chap 6.3"><hinh>http://file-image.mpcdn.net/41066/922812/4.jpg?1515689730</hinh></chuong>
+		<chuong ten_chuong="chap 6.3"><hinh>http://file-image.mpcdn.net/41066/922812/5.jpg?1515689730</hinh></chuong>
+		<chuong ten_chuong="chap 6.3"><hinh>http://file-image.mpcdn.net/41066/922812/6.jpg?1515689730</hinh></chuong>
+		<chuong ten_chuong="chap 6.3"><hinh>http://file-image.mpcdn.net/41066/922812/7.jpg?1515689730</hinh></chuong>
+		<chuong ten_chuong="chap 6.3"><hinh>http://file-image.mpcdn.net/41066/922812/8.jpg?1515689730</hinh></chuong>
+		<chuong ten_chuong="chap 6.3"><hinh>http://file-image.mpcdn.net/41066/922812/9.jpg?1515689730</hinh></chuong>
+
+		<!-- chap 6.2 -->
+		<chuong ten_chuong="chap 6.2"><hinh>http://file-image.mpcdn.net/41066/922811/1.jpg?1515689741</hinh></chuong>
+		<chuong ten_chuong="chap 6.2"><hinh>http://file-image.mpcdn.net/41066/922811/2.jpg?1515689741</hinh></chuong>
+		<chuong ten_chuong="chap 6.2"><hinh>http://file-image.mpcdn.net/41066/922811/3.jpg?1515689741</hinh></chuong>
+		<chuong ten_chuong="chap 6.2"><hinh>http://file-image.mpcdn.net/41066/922811/4.jpg?1515689741</hinh></chuong>
+		<chuong ten_chuong="chap 6.2"><hinh>http://file-image.mpcdn.net/41066/922811/5.jpg?1515689741</hinh></chuong>
+		<chuong ten_chuong="chap 6.2"><hinh>http://file-image.mpcdn.net/41066/922811/6.jpg?1515689741</hinh></chuong>
+		<chuong ten_chuong="chap 6.2"><hinh>http://file-image.mpcdn.net/41066/922811/7.jpg?1515689741</hinh></chuong>
+		<chuong ten_chuong="chap 6.2"><hinh>http://file-image.mpcdn.net/41066/922811/8.jpg?1515689741</hinh></chuong>
+		<chuong ten_chuong="chap 6.2"><hinh>http://file-image.mpcdn.net/41066/922811/9.jpg?1515689741</hinh></chuong>
+
+		<!-- chap 6.1 -->
+		<chuong ten_chuong="chap 6.1"><hinh>http://file-image.mpcdn.net/41066/922810/1.jpg?1515689754</hinh></chuong>
+		<chuong ten_chuong="chap 6.1"><hinh>http://file-image.mpcdn.net/41066/922810/2.jpg?1515689754</hinh></chuong>
+		<chuong ten_chuong="chap 6.1"><hinh>http://file-image.mpcdn.net/41066/922810/3.jpg?1515689754</hinh></chuong>
+		<chuong ten_chuong="chap 6.1"><hinh>http://file-image.mpcdn.net/41066/922810/4.jpg?1515689754</hinh></chuong>
+		<chuong ten_chuong="chap 6.1"><hinh>http://file-image.mpcdn.net/41066/922810/5.jpg?1515689754</hinh></chuong>
+		<chuong ten_chuong="chap 6.1"><hinh>http://file-image.mpcdn.net/41066/922810/6.jpg?1515689754</hinh></chuong>
+		<chuong ten_chuong="chap 6.1"><hinh>http://file-image.mpcdn.net/41066/922810/7.jpg?1515689754</hinh></chuong>
+		<chuong ten_chuong="chap 6.1"><hinh>http://file-image.mpcdn.net/41066/922810/8.jpg?1515689754</hinh></chuong>
+		<chuong ten_chuong="chap 6.1"><hinh>http://file-image.mpcdn.net/41066/922810/9.jpg?1515689754</hinh></chuong>
+
+		<!-- chap 5.4 -->
+		<chuong ten_chuong="chap 5.4"><hinh>http://file-image.mpcdn.net/41066/922809/1.jpg?1515689768</hinh></chuong>
+		<chuong ten_chuong="chap 5.4"><hinh>http://file-image.mpcdn.net/41066/922809/2.jpg?1515689768</hinh></chuong>
+		<chuong ten_chuong="chap 5.4"><hinh>http://file-image.mpcdn.net/41066/922809/3.jpg?1515689768</hinh></chuong>
+		<chuong ten_chuong="chap 5.4"><hinh>http://file-image.mpcdn.net/41066/922809/4.jpg?1515689768</hinh></chuong>
+		<chuong ten_chuong="chap 5.4"><hinh>http://file-image.mpcdn.net/41066/922809/5.jpg?1515689768</hinh></chuong>
+		<chuong ten_chuong="chap 5.4"><hinh>http://file-image.mpcdn.net/41066/922809/6.jpg?1515689768</hinh></chuong>
+		<chuong ten_chuong="chap 5.4"><hinh>http://file-image.mpcdn.net/41066/922809/7.jpg?1515689768</hinh></chuong>
+		<chuong ten_chuong="chap 5.4"><hinh>http://file-image.mpcdn.net/41066/922809/8.jpg?1515689768</hinh></chuong>
+		<chuong ten_chuong="chap 5.4"><hinh>http://file-image.mpcdn.net/41066/922809/9.jpg?1515689768</hinh></chuong>
+
+		<!-- chap 5.3 -->
+		<chuong ten_chuong="chap 5.3"><hinh>http://file-image.mpcdn.net/41066/922264/1.jpg?1515689780</hinh></chuong>
+		<chuong ten_chuong="chap 5.3"><hinh>http://file-image.mpcdn.net/41066/922264/2.jpg?1515689780</hinh></chuong>
+		<chuong ten_chuong="chap 5.3"><hinh>http://file-image.mpcdn.net/41066/922264/3.jpg?1515689780</hinh></chuong>
+		<chuong ten_chuong="chap 5.3"><hinh>http://file-image.mpcdn.net/41066/922264/4.jpg?1515689780</hinh></chuong>
+		<chuong ten_chuong="chap 5.3"><hinh>http://file-image.mpcdn.net/41066/922264/5.jpg?1515689780</hinh></chuong>
+		<chuong ten_chuong="chap 5.3"><hinh>http://file-image.mpcdn.net/41066/922264/6.jpg?1515689780</hinh></chuong>
+		<chuong ten_chuong="chap 5.3"><hinh>http://file-image.mpcdn.net/41066/922264/7.jpg?1515689780</hinh></chuong>
+		<chuong ten_chuong="chap 5.3"><hinh>http://file-image.mpcdn.net/41066/922264/8.jpg?1515689780</hinh></chuong>
+		<chuong ten_chuong="chap 5.3"><hinh>http://file-image.mpcdn.net/41066/922264/9.jpg?1515689780</hinh></chuong>
+
+		<!-- chap 5.2 -->
+		<chuong ten_chuong="chap 5.2"><hinh>http://file-image.mpcdn.net/41066/922263/1.jpg?1515689792</hinh></chuong>
+		<chuong ten_chuong="chap 5.2"><hinh>http://file-image.mpcdn.net/41066/922263/2.jpg?1515689792</hinh></chuong>
+		<chuong ten_chuong="chap 5.2"><hinh>http://file-image.mpcdn.net/41066/922263/3.jpg?1515689792</hinh></chuong>
+		<chuong ten_chuong="chap 5.2"><hinh>http://file-image.mpcdn.net/41066/922263/4.jpg?1515689792</hinh></chuong>
+		<chuong ten_chuong="chap 5.2"><hinh>http://file-image.mpcdn.net/41066/922263/5.jpg?1515689792</hinh></chuong>
+		<chuong ten_chuong="chap 5.2"><hinh>http://file-image.mpcdn.net/41066/922263/6.jpg?1515689792</hinh></chuong>
+		<chuong ten_chuong="chap 5.2"><hinh>http://file-image.mpcdn.net/41066/922263/7.jpg?1515689792</hinh></chuong>
+		<chuong ten_chuong="chap 5.2"><hinh>http://file-image.mpcdn.net/41066/922263/8.jpg?1515689792</hinh></chuong>
+
+		<!-- chap 5.1 -->
+		<chuong ten_chuong="chap 5.1"><hinh>http://file-image.mpcdn.net/41066/921701/1.jpg?1515689803</hinh></chuong>
+		<chuong ten_chuong="chap 5.1"><hinh>http://file-image.mpcdn.net/41066/921701/2.jpg?1515689803</hinh></chuong>
+		<chuong ten_chuong="chap 5.1"><hinh>http://file-image.mpcdn.net/41066/921701/3.jpg?1515689803</hinh></chuong>
+		<chuong ten_chuong="chap 5.1"><hinh>http://file-image.mpcdn.net/41066/921701/4.jpg?1515689803</hinh></chuong>
+		<chuong ten_chuong="chap 5.1"><hinh>http://file-image.mpcdn.net/41066/921701/5.jpg?1515689803</hinh></chuong>
+		<chuong ten_chuong="chap 5.1"><hinh>http://file-image.mpcdn.net/41066/921701/6.jpg?1515689803</hinh></chuong>
+		<chuong ten_chuong="chap 5.1"><hinh>http://file-image.mpcdn.net/41066/921701/7.jpg?1515689803</hinh></chuong>
+		<chuong ten_chuong="chap 5.1"><hinh>http://file-image.mpcdn.net/41066/921701/8.jpg?1515689803</hinh></chuong>
+		<chuong ten_chuong="chap 5.1"><hinh>http://file-image.mpcdn.net/41066/921701/9.jpg?1515689803</hinh></chuong>
+
+		<!-- chap 4.3 -->
+		<chuong ten_chuong="chap 4.3"><hinh>http://file-image.mpcdn.net/41066/919790/1.jpg?1515689814</hinh></chuong>
+		<chuong ten_chuong="chap 4.3"><hinh>http://file-image.mpcdn.net/41066/919790/2.jpg?1515689814</hinh></chuong>
+		<chuong ten_chuong="chap 4.3"><hinh>http://file-image.mpcdn.net/41066/919790/3.jpg?1515689814</hinh></chuong>
+		<chuong ten_chuong="chap 4.3"><hinh>http://file-image.mpcdn.net/41066/919790/4.jpg?1515689814</hinh></chuong>
+		<chuong ten_chuong="chap 4.3"><hinh>http://file-image.mpcdn.net/41066/919790/5.jpg?1515689814</hinh></chuong>
+		<chuong ten_chuong="chap 4.3"><hinh>http://file-image.mpcdn.net/41066/919790/6.jpg?1515689814</hinh></chuong>
+		<chuong ten_chuong="chap 4.3"><hinh>http://file-image.mpcdn.net/41066/919790/7.jpg?1515689814</hinh></chuong>
+		<chuong ten_chuong="chap 4.3"><hinh>http://file-image.mpcdn.net/41066/919790/8.jpg?1515689814</hinh></chuong>
+
+		<!-- chap 4.2 -->
+		<chuong ten_chuong="chap 4.2"><hinh>http://file-image.mpcdn.net/41066/919789/1.jpg?1515689829</hinh></chuong>
+		<chuong ten_chuong="chap 4.2"><hinh>http://file-image.mpcdn.net/41066/919789/2.jpg?1515689829</hinh></chuong>
+		<chuong ten_chuong="chap 4.2"><hinh>http://file-image.mpcdn.net/41066/919789/3.jpg?1515689829</hinh></chuong>
+		<chuong ten_chuong="chap 4.2"><hinh>http://file-image.mpcdn.net/41066/919789/4.jpg?1515689829</hinh></chuong>
+		<chuong ten_chuong="chap 4.2"><hinh>http://file-image.mpcdn.net/41066/919789/5.jpg?1515689829</hinh></chuong>
+		<chuong ten_chuong="chap 4.2"><hinh>http://file-image.mpcdn.net/41066/919789/6.jpg?1515689829</hinh></chuong>
+		<chuong ten_chuong="chap 4.2"><hinh>http://file-image.mpcdn.net/41066/919789/7.jpg?1515689829</hinh></chuong>
+		<chuong ten_chuong="chap 4.2"><hinh>http://file-image.mpcdn.net/41066/919789/8.jpg?1515689829</hinh></chuong>
+		<chuong ten_chuong="chap 4.2"><hinh>http://file-image.mpcdn.net/41066/919789/9.jpg?1515689829</hinh></chuong>
+
+		<!-- chap 4.1 -->
+		<chuong ten_chuong="chap 4.1"><hinh>http://file-image.mpcdn.net/41066/919025/1.jpg?1515689842</hinh></chuong>
+		<chuong ten_chuong="chap 4.1"><hinh>http://file-image.mpcdn.net/41066/919025/2.jpg?1515689842</hinh></chuong>
+		<chuong ten_chuong="chap 4.1"><hinh>http://file-image.mpcdn.net/41066/919025/3.jpg?1515689842</hinh></chuong>
+		<chuong ten_chuong="chap 4.1"><hinh>http://file-image.mpcdn.net/41066/919025/4.jpg?1515689842</hinh></chuong>
+		<chuong ten_chuong="chap 4.1"><hinh>http://file-image.mpcdn.net/41066/919025/5.jpg?1515689842</hinh></chuong>
+		<chuong ten_chuong="chap 4.1"><hinh>http://file-image.mpcdn.net/41066/919025/6.jpg?1515689842</hinh></chuong>
+		<chuong ten_chuong="chap 4.1"><hinh>http://file-image.mpcdn.net/41066/919025/7.jpg?1515689842</hinh></chuong>
+		<chuong ten_chuong="chap 4.1"><hinh>http://file-image.mpcdn.net/41066/919025/8.jpg?1515689842</hinh></chuong>
+		<chuong ten_chuong="chap 4.1"><hinh>http://file-image.mpcdn.net/41066/919025/9.jpg?1515689842</hinh></chuong>
+		<chuong ten_chuong="chap 4.1"><hinh>http://file-image.mpcdn.net/41066/919025/10.jpg?1515689842</hinh></chuong>
+
+		<!-- chap 3.3 -->
+		<chuong ten_chuong="chap 3.3"><hinh>http://file-image.mpcdn.net/41066/919024/1.jpg?1515689853</hinh></chuong>
+		<chuong ten_chuong="chap 3.3"><hinh>http://file-image.mpcdn.net/41066/919024/2.jpg?1515689853</hinh></chuong>
+		<chuong ten_chuong="chap 3.3"><hinh>http://file-image.mpcdn.net/41066/919024/3.jpg?1515689853</hinh></chuong>
+		<chuong ten_chuong="chap 3.3"><hinh>http://file-image.mpcdn.net/41066/919024/4.jpg?1515689853</hinh></chuong>
+		<chuong ten_chuong="chap 3.3"><hinh>http://file-image.mpcdn.net/41066/919024/5.jpg?1515689853</hinh></chuong>
+		<chuong ten_chuong="chap 3.3"><hinh>http://file-image.mpcdn.net/41066/919024/6.jpg?1515689853</hinh></chuong>
+		<chuong ten_chuong="chap 3.3"><hinh>http://file-image.mpcdn.net/41066/919024/7.jpg?1515689853</hinh></chuong>
+		<chuong ten_chuong="chap 3.3"><hinh>http://file-image.mpcdn.net/41066/919024/8.jpg?1515689853</hinh></chuong>
+		<chuong ten_chuong="chap 3.3"><hinh>http://file-image.mpcdn.net/41066/919024/9.jpg?1515689853</hinh></chuong>
+
+		<!-- chap 3.2 -->
+		<chuong ten_chuong="chap 3.2"><hinh>http://file-image.mpcdn.net/41066/919023/1.jpg?1515689864</hinh></chuong>
+		<chuong ten_chuong="chap 3.2"><hinh>http://file-image.mpcdn.net/41066/919023/2.jpg?1515689864</hinh></chuong>
+		<chuong ten_chuong="chap 3.2"><hinh>http://file-image.mpcdn.net/41066/919023/3.jpg?1515689864</hinh></chuong>
+		<chuong ten_chuong="chap 3.2"><hinh>http://file-image.mpcdn.net/41066/919023/4.jpg?1515689864</hinh></chuong>
+		<chuong ten_chuong="chap 3.2"><hinh>http://file-image.mpcdn.net/41066/919023/5.jpg?1515689864</hinh></chuong>
+		<chuong ten_chuong="chap 3.2"><hinh>http://file-image.mpcdn.net/41066/919023/6.jpg?1515689864</hinh></chuong>
+		<chuong ten_chuong="chap 3.2"><hinh>http://file-image.mpcdn.net/41066/919023/7.jpg?1515689864</hinh></chuong>
+		<chuong ten_chuong="chap 3.2"><hinh>http://file-image.mpcdn.net/41066/919023/8.jpg?1515689864</hinh></chuong>
+		<chuong ten_chuong="chap 3.2"><hinh>http://file-image.mpcdn.net/41066/919023/9.jpg?1515689864</hinh></chuong>
+		<chuong ten_chuong="chap 3.2"><hinh>http://file-image.mpcdn.net/41066/919023/10.jpg?1515689864</hinh></chuong>
+
+		<!-- chap 3.1 -->
+		<chuong ten_chuong="chap 3.1"><hinh>http://file-image.mpcdn.net/41066/919022/1.jpg?1515689876</hinh></chuong>
+		<chuong ten_chuong="chap 3.1"><hinh>http://file-image.mpcdn.net/41066/919022/2.jpg?1515689876</hinh></chuong>
+		<chuong ten_chuong="chap 3.1"><hinh>http://file-image.mpcdn.net/41066/919022/3.jpg?1515689876</hinh></chuong>
+		<chuong ten_chuong="chap 3.1"><hinh>http://file-image.mpcdn.net/41066/919022/4.jpg?1515689876</hinh></chuong>
+		<chuong ten_chuong="chap 3.1"><hinh>http://file-image.mpcdn.net/41066/919022/5.jpg?1515689876</hinh></chuong>
+		<chuong ten_chuong="chap 3.1"><hinh>http://file-image.mpcdn.net/41066/919022/6.jpg?1515689876</hinh></chuong>
+		<chuong ten_chuong="chap 3.1"><hinh>http://file-image.mpcdn.net/41066/919022/7.jpg?1515689876</hinh></chuong>
+		<chuong ten_chuong="chap 3.1"><hinh>http://file-image.mpcdn.net/41066/919022/8.jpg?1515689876</hinh></chuong>
+		<chuong ten_chuong="chap 3.1"><hinh>http://file-image.mpcdn.net/41066/919022/9.jpg?1515689876</hinh></chuong>
+		<chuong ten_chuong="chap 3.1"><hinh>http://file-image.mpcdn.net/41066/919022/10.jpg?1515689876</hinh></chuong>
+
+		<!-- chap 2.3 -->
+		<chuong ten_chuong="chap 2.3"><hinh>http://file-image.mpcdn.net/41066/917618/1.jpg?1515689891</hinh></chuong>
+		<chuong ten_chuong="chap 2.3"><hinh>http://file-image.mpcdn.net/41066/917618/2.jpg?1515689891</hinh></chuong>
+		<chuong ten_chuong="chap 2.3"><hinh>http://file-image.mpcdn.net/41066/917618/3.jpg?1515689891</hinh></chuong>
+		<chuong ten_chuong="chap 2.3"><hinh>http://file-image.mpcdn.net/41066/917618/4.jpg?1515689891</hinh></chuong>
+		<chuong ten_chuong="chap 2.3"><hinh>http://file-image.mpcdn.net/41066/917618/5.jpg?1515689891</hinh></chuong>
+		<chuong ten_chuong="chap 2.3"><hinh>http://file-image.mpcdn.net/41066/917618/6.jpg?1515689891</hinh></chuong>
+		<chuong ten_chuong="chap 2.3"><hinh>http://file-image.mpcdn.net/41066/917618/7.jpg?1515689891</hinh></chuong>
+		<chuong ten_chuong="chap 2.3"><hinh>http://file-image.mpcdn.net/41066/917618/8.jpg?1515689891</hinh></chuong>
+		<chuong ten_chuong="chap 2.3"><hinh>http://file-image.mpcdn.net/41066/917618/9.jpg?1515689891</hinh></chuong>
+		<chuong ten_chuong="chap 2.3"><hinh>http://file-image.mpcdn.net/41066/917618/10.jpg?1515689891</hinh></chuong>
+
+		<!-- chap 2.2 -->
+		<chuong ten_chuong="chap 2.2"><hinh>http://file-image.mpcdn.net/41066/917617/1.jpg?1515689903</hinh></chuong>
+		<chuong ten_chuong="chap 2.2"><hinh>http://file-image.mpcdn.net/41066/917617/2.jpg?1515689903</hinh></chuong>
+		<chuong ten_chuong="chap 2.2"><hinh>http://file-image.mpcdn.net/41066/917617/3.jpg?1515689903</hinh></chuong>
+		<chuong ten_chuong="chap 2.2"><hinh>http://file-image.mpcdn.net/41066/917617/4.jpg?1515689903</hinh></chuong>
+		<chuong ten_chuong="chap 2.2"><hinh>http://file-image.mpcdn.net/41066/917617/5.jpg?1515689903</hinh></chuong>
+		<chuong ten_chuong="chap 2.2"><hinh>http://file-image.mpcdn.net/41066/917617/6.jpg?1515689903</hinh></chuong>
+		<chuong ten_chuong="chap 2.2"><hinh>http://file-image.mpcdn.net/41066/917617/7.jpg?1515689903</hinh></chuong>
+		<chuong ten_chuong="chap 2.2"><hinh>http://file-image.mpcdn.net/41066/917617/8.jpg?1515689903</hinh></chuong>
+		<chuong ten_chuong="chap 2.2"><hinh>http://file-image.mpcdn.net/41066/917617/9.jpg?1515689903</hinh></chuong>
+		<chuong ten_chuong="chap 2.2"><hinh>http://file-image.mpcdn.net/41066/917617/10.jpg?1515689903</hinh></chuong>
+
+		<!-- chap 2.1 -->
+		<chuong ten_chuong="chap 2.1"><hinh>http://file-image.mpcdn.net/41066/917616/1.jpg?1515689914</hinh></chuong>
+		<chuong ten_chuong="chap 2.1"><hinh>http://file-image.mpcdn.net/41066/917616/2.jpg?1515689914</hinh></chuong>
+		<chuong ten_chuong="chap 2.1"><hinh>http://file-image.mpcdn.net/41066/917616/3.jpg?1515689914</hinh></chuong>
+		<chuong ten_chuong="chap 2.1"><hinh>http://file-image.mpcdn.net/41066/917616/4.jpg?1515689914</hinh></chuong>
+		<chuong ten_chuong="chap 2.1"><hinh>http://file-image.mpcdn.net/41066/917616/5.jpg?1515689914</hinh></chuong>
+		<chuong ten_chuong="chap 2.1"><hinh>http://file-image.mpcdn.net/41066/917616/6.jpg?1515689914</hinh></chuong>
+		<chuong ten_chuong="chap 2.1"><hinh>http://file-image.mpcdn.net/41066/917616/7.jpg?1515689914</hinh></chuong>
+		<chuong ten_chuong="chap 2.1"><hinh>http://file-image.mpcdn.net/41066/917616/8.jpg?1515689914</hinh></chuong>
+		<chuong ten_chuong="chap 2.1"><hinh>http://file-image.mpcdn.net/41066/917616/9.jpg?1515689914</hinh></chuong>
+		<chuong ten_chuong="chap 2.1"><hinh>http://file-image.mpcdn.net/41066/917616/10.jpg?1515689914</hinh></chuong>
+
+		<!-- chap 1.3 -->
+		<chuong ten_chuong="chap 1.3"><hinh>http://file-image.mpcdn.net/41066/917181/1.jpg?1515689925</hinh></chuong>
+		<chuong ten_chuong="chap 1.3"><hinh>http://file-image.mpcdn.net/41066/917181/2.jpg?1515689925</hinh></chuong>
+		<chuong ten_chuong="chap 1.3"><hinh>http://file-image.mpcdn.net/41066/917181/3.jpg?1515689925</hinh></chuong>
+		<chuong ten_chuong="chap 1.3"><hinh>http://file-image.mpcdn.net/41066/917181/4.jpg?1515689925</hinh></chuong>
+		<chuong ten_chuong="chap 1.3"><hinh>http://file-image.mpcdn.net/41066/917181/5.jpg?1515689925</hinh></chuong>
+		<chuong ten_chuong="chap 1.3"><hinh>http://file-image.mpcdn.net/41066/917181/6.jpg?1515689925</hinh></chuong>
+		<chuong ten_chuong="chap 1.3"><hinh>http://file-image.mpcdn.net/41066/917181/7.jpg?1515689925</hinh></chuong>
+		<chuong ten_chuong="chap 1.3"><hinh>http://file-image.mpcdn.net/41066/917181/8.jpg?1515689925</hinh></chuong>
+		<chuong ten_chuong="chap 1.3"><hinh>http://file-image.mpcdn.net/41066/917181/9.jpg?1515689925</hinh></chuong>
+
+		<!-- chap 1.2 -->
+		<chuong ten_chuong="chap 1.2"><hinh>http://file-image.mpcdn.net/41066/917180/1.jpg?1515689937</hinh></chuong>
+		<chuong ten_chuong="chap 1.2"><hinh>http://file-image.mpcdn.net/41066/917180/2.jpg?1515689937</hinh></chuong>
+		<chuong ten_chuong="chap 1.2"><hinh>http://file-image.mpcdn.net/41066/917180/3.jpg?1515689937</hinh></chuong>
+		<chuong ten_chuong="chap 1.2"><hinh>http://file-image.mpcdn.net/41066/917180/4.jpg?1515689937</hinh></chuong>
+		<chuong ten_chuong="chap 1.2"><hinh>http://file-image.mpcdn.net/41066/917180/5.jpg?1515689937</hinh></chuong>
+		<chuong ten_chuong="chap 1.2"><hinh>http://file-image.mpcdn.net/41066/917180/6.jpg?1515689937</hinh></chuong>
+		<chuong ten_chuong="chap 1.2"><hinh>http://file-image.mpcdn.net/41066/917180/7.jpg?1515689937</hinh></chuong>
+		<chuong ten_chuong="chap 1.2"><hinh>http://file-image.mpcdn.net/41066/917180/8.jpg?1515689937</hinh></chuong>
+		<chuong ten_chuong="chap 1.2"><hinh>http://file-image.mpcdn.net/41066/917180/9.jpg?1515689937</hinh></chuong>
+		<chuong ten_chuong="chap 1.2"><hinh>http://file-image.mpcdn.net/41066/917180/10.jpg?1515689937</hinh></chuong>
+
+		<!-- chap 1.1 -->
+		<chuong ten_chuong="chap 1.1"><hinh>http://file-image.mpcdn.net/41066/919019/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1.1"><hinh>http://file-image.mpcdn.net/41066/919019/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1.1"><hinh>http://file-image.mpcdn.net/41066/919019/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1.1"><hinh>http://file-image.mpcdn.net/41066/919019/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1.1"><hinh>http://file-image.mpcdn.net/41066/919019/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1.1"><hinh>http://file-image.mpcdn.net/41066/919019/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1.1"><hinh>http://file-image.mpcdn.net/41066/919019/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1.1"><hinh>http://file-image.mpcdn.net/41066/919019/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1.1"><hinh>http://file-image.mpcdn.net/41066/919019/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1.1"><hinh>http://file-image.mpcdn.net/41066/919019/10.jpg</hinh></chuong>
+
+    </noi_dung>
+</truyen>
