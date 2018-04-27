@@ -495,6 +495,15 @@ This manga upload for Alisha from United Kingdom via request manga on Windows st
 		<gioi_thieu>Update ...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/arrogance-and-romance-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="asagao to kase-san." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo ai, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>asagao to kase-san.</ten_truyen>
+		<ma_truyen>asagao-to-kase-san</ma_truyen>
+		<tac_gia>Takashima Hiromi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/872/3/200.jpg</hinh_nho>
+		<gioi_thieu>Yamada is the plant appointee; tending the school's garden of flowers on her own. She isn't the slightest bit athletic, she's actually quite clumsy. However, that doesn't stop her from having feelings for the star athlete in the class next-door, Kase-san. Slightly shy, Yamada is reluctant about her feelings for the enthusiastic Kase-san. Slowly but surely, the pair are helping each other to grow in confidence for both themselves and their budding relationship, each blush and brush of the hand at a time.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/asagao-to-kase-san-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="assassin's creed: uprising" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>assassin's creed: uprising</ten_truyen>
 		<ma_truyen>assassin-s-creed-uprising</ma_truyen>
