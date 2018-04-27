@@ -2,9 +2,33 @@
 <truyen>
     <noi_dung>
 
-        <!-- http://viewcomic.com/star-wars-adventures-008-2018/ -->
+        <!-- http://viewcomic.com/star-wars-adventures-009-2018/ -->
 
 		<!-- them -->
+
+		<!-- issue 9 -->
+		<chuong ten_chuong="issue 9"><hinh>http://4.bp.blogspot.com/-amdS5n5_iWQ/WteF3bEuxHI/AAAAAAABhWQ/5d1D5AHsBOIOKa-E3nUffGax88Q5Ood9QCLcBGAs/s1600/076_0000.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://3.bp.blogspot.com/-wX3vmjQd2ZY/WteF3zw251I/AAAAAAABhWU/uDvwuLi9KZwjNYAdc58eUSOoZ4UitA-BgCLcBGAs/s1600/076_0001.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://4.bp.blogspot.com/-jGE71dYuwwg/WteF4DoWw_I/AAAAAAABhWY/3KDVx33AjJMoOxImczj-xlAGXAbvt7qWQCLcBGAs/s1600/076_0002.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://1.bp.blogspot.com/-O48rUSZCWR0/WteF4c-BQYI/AAAAAAABhWc/anl_13u0meAKoWxcQAy4r8UZtc2zVz1FQCLcBGAs/s1600/076_0003.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://4.bp.blogspot.com/-StF-TrdItaU/WteF465ouMI/AAAAAAABhWg/AvNndNTTBIAXDycEruaEu4P3xdvydN7kwCLcBGAs/s1600/076_0004.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://2.bp.blogspot.com/-tmZlsoPkdxo/WteF5QtN82I/AAAAAAABhWk/25nDqxcrzJoKbdI7yY_N-2XJVAb5AyM3wCLcBGAs/s1600/076_0005.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://4.bp.blogspot.com/-Zlv-sMh9DCM/WteF5h-0wuI/AAAAAAABhWo/bMFv3kj9R4QKIJP8homfhBOWTxVwNUhfQCLcBGAs/s1600/076_0006.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://1.bp.blogspot.com/-vV7wrcDMChU/WteF6AbVN2I/AAAAAAABhWw/PSjCRGLcj_IgADELqnHPAHix60upmc45ACLcBGAs/s1600/076_0007.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://2.bp.blogspot.com/-lEOIlW65dTQ/WteF6Pt_8wI/AAAAAAABhWs/ZnJzlQ61K5Yf4rAkXO6Mh-U9IgZ3A6avgCLcBGAs/s1600/076_0008.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://1.bp.blogspot.com/-EYQXa_Lm0NU/WteF6qFJX6I/AAAAAAABhW0/exnUw2zjizE9SmJNqY-lk6wyQ8ZQxi9FQCLcBGAs/s1600/076_0009.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://4.bp.blogspot.com/-HDtgSocLQss/WteF7NNbiAI/AAAAAAABhW4/E9Ezcw4cYtswuHC5TA53dZMsGiv7TKvXgCLcBGAs/s1600/076_0010.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://4.bp.blogspot.com/-LVdXt1VGzOE/WteF7LHR_rI/AAAAAAABhW8/mllKSVMa3UAGjpfKdu3_h9Sa4Beq41NSgCLcBGAs/s1600/076_0011.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://1.bp.blogspot.com/-Z-27XWYDxMQ/WteF7jnEgUI/AAAAAAABhXA/nRgvAzoeY6gERE2GO3Am9prDarMSY6F4wCLcBGAs/s1600/076_0012.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://3.bp.blogspot.com/-ZLctYRQZvkc/WteF8AGJn-I/AAAAAAABhXE/mncXqcAmQWUqGbYDh1FIJMXYN7XGqqY4wCLcBGAs/s1600/076_0013.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://2.bp.blogspot.com/-0VW5IEZ53S4/WteF8faLWaI/AAAAAAABhXI/rIfCXx0AZO0yOdDb-S4-mu3LSsrp081pACLcBGAs/s1600/076_0014.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://1.bp.blogspot.com/-FC0rCoWzRBE/WteF8nrC6-I/AAAAAAABhXM/Sh8jLeSRHYU0JUvD0F3Q_NGP2pMprvP1wCLcBGAs/s1600/076_0015.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://4.bp.blogspot.com/--o4GqZMrQFA/WteF9IsH5hI/AAAAAAABhXQ/jF7BG4TFZCcP4Sw-MhOaA_DxSsPYig5zwCLcBGAs/s1600/076_0016.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://3.bp.blogspot.com/-pBAg5VUrNvc/WteF9aNs15I/AAAAAAABhXU/c2NCnDiNyHo2bmD25W82wzdmlcurwoYDgCLcBGAs/s1600/076_0017.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://3.bp.blogspot.com/-qu4ML2PTyxo/WteF9gCKeGI/AAAAAAABhXY/r0GcVnx_nb8SmibQjT4T4kyz89gsIRnjgCLcBGAs/s1600/076_0018.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://1.bp.blogspot.com/-FDAtavKaars/WteF99LnbAI/AAAAAAABhXc/gYaBzpO-IFATIGjO6FNCFjHfDhjDDmpNACLcBGAs/s1600/076_0019.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://4.bp.blogspot.com/-MaOaHXkrK2E/WteF-ehg0MI/AAAAAAABhXg/JwasDjgpvMEcnqhVJeKso-GKbevdDWUowCLcBGAs/s1600/076_0020.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 9"><hinh>http://1.bp.blogspot.com/-fWawHuZigbA/WteF-tJdWAI/AAAAAAABhXk/xu21d6bKFPwEl8D8Z4EEkNmgQQSpp6xOQCLcBGAs/s1600/076_0021.jpg</hinh></chuong>
 
 		<!-- issue 8 -->
 		<chuong ten_chuong="issue 8"><hinh>http://4.bp.blogspot.com/-mp1kTw6i2GQ/Wru8T3ctpBI/AAAAAAABUYw/mFJhXqGFT-gTt4svyrTBt-pv8f5PqGSsgCLcBGAs/s1600/038_0000.jpg</hinh></chuong>
