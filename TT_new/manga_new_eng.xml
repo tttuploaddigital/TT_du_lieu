@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="asagao to kase-san." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo ai, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>asagao to kase-san.</ten_truyen>
+		<ma_truyen>asagao-to-kase-san</ma_truyen>
+		<tac_gia>Takashima Hiromi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/872/3/200.jpg</hinh_nho>
+		<gioi_thieu>Yamada is the plant appointee; tending the school's garden of flowers on her own. She isn't the slightest bit athletic, she's actually quite clumsy. However, that doesn't stop her from having feelings for the star athlete in the class next-door, Kase-san. Slightly shy, Yamada is reluctant about her feelings for the enthusiastic Kase-san. Slowly but surely, the pair are helping each other to grow in confidence for both themselves and their budding relationship, each blush and brush of the hand at a time.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/asagao-to-kase-san-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tomodachi o tsukurou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4 koma, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>tomodachi o tsukurou</ten_truyen>
+		<ma_truyen>tomodachi-o-tsukurou</ma_truyen>
+		<tac_gia>Shouma Keito</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/42149/1/200.jpg</hinh_nho>
+		<gioi_thieu>The lonely high school girl - Misuzu, with the perverted young man - Shoutaro's cooperation (obstruction), take up the challenge of making friends together!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomodachi-o-tsukurou-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="ten prism" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4 koma, Comedy, School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>ten prism</ten_truyen>
+		<ma_truyen>ten-prism</ma_truyen>
+		<tac_gia>Minamori Minamo</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/10968/2/200.jpg</hinh_nho>
+		<gioi_thieu>The story revolves around Tsunashi, the child of royalty who was left behind in the lost kingdom of Karan. He is expected by those around him to awaken his great powers that sleep within him in order to revive the kingdom - but rather than fighting, Tsunan enjoys playing in the world of books. However, he must become serious soon, as a new army is threatening to invade Karan.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ten-prism-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="waratte! sotomura-san" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4 koma, Comedy, School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>waratte! sotomura-san</ten_truyen>
 		<ma_truyen>waratte-sotomura-san</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/28269/2/200.jpg</hinh_nho>
 		<gioi_thieu>A Cinderella story with a twist! Esther Mayfield is a normal sixteen year old girl in 19th Century London. Except, ever since she was a little girl, she could see 'ghosts'. She lives in a small part of town and sells flowers to earn a living. She thought that she would continue to live like this forever. Until, one day, a handsome young Count appears in front of her. And he wants Esther to be his bride? Is he really the Prince Charming she has been waiting for?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kuro-hakushaku-wa-hoshi-o-mederu-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mob psycho 100" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Psychological, School life, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>mob psycho 100</ten_truyen>
-		<ma_truyen>mob-psycho-100</ma_truyen>
-		<tac_gia>One</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/24660/7/200.jpg</hinh_nho>
-		<gioi_thieu>Kageyama Shigeo (a.k.a. "Mob") is a 8th grader with psychic abilities. He could bend spoons and lift objects with his mind from a young age, but he slowly began to withhold from using his abilities in public due to the negative attention he kept receiving. Now, the only thing he wants is to become friends with a girl in his class, Tsubomi. With his psychic "mentor" (who has no psychic powers), he continues his daily life, attempting to realize his purpose in life.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mob-psycho-100-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="12 beast" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Ecchi, Fantasy, Harem, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>12 beast</ten_truyen>
-		<ma_truyen>12-beast</ma_truyen>
-		<tac_gia>Okayado</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/138/5/200.jpg</hinh_nho>
-		<gioi_thieu>Three things you should know about Touga Eita, second-year high school student and heir to the Touga-style ninjutsu dojo: First, he really, really loves video games. Second, when given a choice between heroics and saving his own skin, he will always choose the latter. Third, he's never so much as kissed a girl. All this changes when a voluptuous girl with wings and taloned feet named Aero appears and calls on Eita to help save her people-the harpies of Re-Verse-from the merciless onslaught of giant robot monsters known as Gigas. Eita will follow his newfound harpy friend into a whole new world, filled with monster girls and fantastical creatures beyond his wildest dreams.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/12-beast-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="sayounara ryuusei, konnichiwa jinsei" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Harem, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>sayounara ryuusei, konnichiwa jinsei</ten_truyen>
-		<ma_truyen>sayounara-ryuusei-konnichiwa-jinsei</ma_truyen>
-		<tac_gia>Tomofuji Yuu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/41503/1/200.jpg</hinh_nho>
-		<gioi_thieu>The oldest and strongest Dragon grew tired of living choose to die when the Heroes come for his life. When the Dragon's soul is waiting to drift toward the Sea of Soul, that is when its noticed its has been reborn into a Human baby. The Dragon then decide to live it's life as a Human to the fullest, and regained his will to live. The Dragon was born into the child of a farmer lives his live in the frontier possessing enormous amount of power due to his soul being a Dragon's. He then encounter the Demon of the Lamia race, fairies, Black Rose, and later enter the Magic Academy. The man whose soul is of a Dragon lives his life in joy going to Magic Academy, spending time with an old friend, The Earth Goddess, meets beautiful girls, strong classmates, the Dragon King and the Queen of Vampires.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sayounara-ryuusei-konnichiwa-jinsei-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
