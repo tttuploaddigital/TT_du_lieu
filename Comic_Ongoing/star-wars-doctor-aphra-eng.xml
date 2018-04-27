@@ -2,10 +2,32 @@
 <truyen>
     <noi_dung>
 
-        <!-- http://readcomics.website/comic/star-wars-doctor-aphra-2016 -->
-		<!-- http://viewcomic.com/star-wars-doctor-aphra-018-2018/ -->
+		<!-- http://viewcomic.com/star-wars-doctor-aphra-019-2018/ -->
 
 		<!-- them -->
+
+		<!-- issue 19 -->
+		<chuong ten_chuong="issue 19"><hinh>http://1.bp.blogspot.com/-kY3zu40zuKc/WuDGtF_4qFI/AAAAAAABk3k/qvFhsVKICzoJvzXVSqpvHR7EmdOysuV7ACLcBGAs/s1600/015_0000.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://2.bp.blogspot.com/-SNO70YgkX4A/WuDGtYcMjDI/AAAAAAABk3o/RsyL-AarK2MET7NVjIDj6yuMpXd9_KlwgCLcBGAs/s1600/015_0001.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://4.bp.blogspot.com/-pgKp-l306JQ/WuDGuLWWLhI/AAAAAAABk3s/42l7CpTo2mY7i0PQfBGeEx0uQbP7pLrHACLcBGAs/s1600/015_0002.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://4.bp.blogspot.com/-OFN0IuHu8-8/WuDGvP3H-zI/AAAAAAABk30/Q013pTM1pGMXT5Z36aHyQo-eKc9O2ar5ACLcBGAs/s1600/015_0003.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://3.bp.blogspot.com/-MClHLC4nmfs/WuDGvMmuw2I/AAAAAAABk3w/IetK3QyLmU0ht9nvp1hTAqWwY3M-4p1cgCLcBGAs/s1600/015_0004.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://1.bp.blogspot.com/-tdUXmYvkj38/WuDGvRC13WI/AAAAAAABk34/cTbYuKBGxiov_Ao4UH3Zpd0TEj2Vj4pswCLcBGAs/s1600/015_0005.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://3.bp.blogspot.com/-fzUpZsFYLao/WuDGwRpl1mI/AAAAAAABk38/SOTWhwoLB9coz_z6v0quz4VXzFUPTajqgCLcBGAs/s1600/015_0006.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://3.bp.blogspot.com/-g9oU0xwd1KY/WuDGxN2hfzI/AAAAAAABk4A/ojnTYqduOpsWHyGOWSoWBAEYHixlcv13ACLcBGAs/s1600/015_0007.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://1.bp.blogspot.com/-sAuDqSZIbts/WuDGxTmTxoI/AAAAAAABk4E/k1rE_odx1W8S-q2IhzMmCSyNzKiUfAJ_wCLcBGAs/s1600/015_0008.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://3.bp.blogspot.com/-7YFTKvYjlnw/WuDGxuuOwyI/AAAAAAABk4I/z8nG2hSdCUwtwe0imRVDFIBeGe0BOFOXACLcBGAs/s1600/015_0009.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://2.bp.blogspot.com/-Al3tpTlKVdU/WuDGyN50ZcI/AAAAAAABk4M/ceyagH2H86IFqbSY-6FeWDjDtd0xJJaXwCLcBGAs/s1600/015_0010.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://2.bp.blogspot.com/-W2clEeicH9Y/WuDGyTA4Y0I/AAAAAAABk4Q/_PdtKIide54F8j5pOsAxfwf6kOD7BC_4QCLcBGAs/s1600/015_0011.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://1.bp.blogspot.com/-7vWy9UP2HWI/WuDGyyUFzKI/AAAAAAABk4U/7Hj_Xa47bqU9LrlOGZ5r8FsjYw51t4uFgCLcBGAs/s1600/015_0012.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://3.bp.blogspot.com/-IpwcQMNt44Q/WuDGz4aVUFI/AAAAAAABk4Y/QxcNVcTVZ3M12nDg1FeCqThSzj0D7Ha0ACLcBGAs/s1600/015_0013.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://2.bp.blogspot.com/-9A1NbJiVBx0/WuDG0OqWxII/AAAAAAABk4c/7nGHfOPw_-gxvnd3P1TXY6e9em2cfkSuQCLcBGAs/s1600/015_0014.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://1.bp.blogspot.com/-XCCJyb1-Koo/WuDG0VSkXpI/AAAAAAABk4g/nL4jyMJceiUkxZz4h9L6avSYIH-iD5VcACLcBGAs/s1600/015_0015.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://2.bp.blogspot.com/-roN-n7UIcSA/WuDG03QsARI/AAAAAAABk4k/qrzbBi7GvEgHrfyGs9sgH7nJ2yjmXEDbwCLcBGAs/s1600/015_0016.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://4.bp.blogspot.com/-2cq6A6Muxsw/WuDG1MA3PLI/AAAAAAABk4o/ZPaKx2FcrmIe3x-conVW2ZF8w-wa1370QCLcBGAs/s1600/015_0017.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://2.bp.blogspot.com/-KzTKm_V-3sM/WuDG1dMi0_I/AAAAAAABk4s/VUszu2t9ZB8ZbeOo7gT_si8daO6pKzgfwCLcBGAs/s1600/015_0018.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://4.bp.blogspot.com/--QO7pcrCl0Y/WuDG2CVHfTI/AAAAAAABk4w/6-Vs_ik0O8EpuvCHSp_HefGFIFivMKrfgCLcBGAs/s1600/015_0019.jpg</hinh></chuong>
+		<chuong ten_chuong="issue 19"><hinh>http://2.bp.blogspot.com/-l7NMwDenGSE/WuDG2dIpXYI/AAAAAAABk40/btsljdBDUKArbt5RXI6c-53iyNZev5ahwCLcBGAs/s1600/015_0020.jpg</hinh></chuong>
 
 		<!-- issue 18 -->
 		<chuong ten_chuong="issue 18"><hinh>http://2.bp.blogspot.com/-cPnqWeLtytY/Wru8LwBzXXI/AAAAAAABUXY/vZX1UHJlABs9TLDNOruJjkEWoLB6g7qwwCLcBGAs/s1600/037_0000.jpg</hinh></chuong>
