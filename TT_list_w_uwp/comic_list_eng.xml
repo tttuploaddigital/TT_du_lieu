@@ -198,6 +198,15 @@
         <gioi_thieu>Batgirl and Black Canary are together again, working a case that strikes right at the heart of their partnership! Someone's uncovered the greatest secret Barbara Gordon ever kept: her time as Oracle, the most powerful hacker on the planet. And not only do they know her secret, they're using her name to sell dangerous information to criminals! Now one of those deals has brought some major heat to Gotham City...Helena Bertinelli is out of Spyral, wearing the hood of the Huntress, and making mafia blood run in the streets! Everything you thought was hidden will be revealed if the Oracle has their way...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batgirl-and-the-birds-of-prey-eng.xml</file_xml>
     </truyen>
+	<truyen ten="batman and the signal" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>batman and the signal</ten_truyen>
+		<ma_truyen>batman-and-the-signal</ma_truyen>
+        <tac_gia>Tony Patrick, Scott Snyder, Cully Hamner, Laura Martin</tac_gia>
+        <tinh_trang>Comic_Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-and-the-signal/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Batman may own the night, but with new villains emerging during the day he needs an ally to defend the city when he can't. Only one teen is up to the challenge, Duke Thomas. After months of training, he's ready to step out of the shadow of the bat to become his own kind of hero. Meet Gotham City's newest protector: The Signal! Spinning out of adventures in ALL-STAR BATMAN and WE ARE ROBIN, comics superstar Scott Snyder and newcomer Tony Patrick take our young hero to new heights in this exciting miniseries with artwork by Cully Hamner.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/batman-and-the-signal-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="batman (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Psychological, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>batman (2016)</ten_truyen>
 		<ma_truyen>batman-2016</ma_truyen>
@@ -1062,6 +1071,15 @@
         <gioi_thieu>Criminal mastermind Malady has recruited a team of down on their luck physicians to provide medical aid for the world's worst bad guys. Led by the brilliant Ethan Sharp, the blackmailed doctors struggle to uphold their own ethical codes (or lack thereof) in violent and confusing battlefields. And when one doctor goes rogue, the rest learn a terrifying lesson from Malady.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/medisin-eng.xml</file_xml>
     </truyen>
+	<truyen ten="mera: queen of atlantis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>mera: queen of atlantis</ten_truyen>
+		<ma_truyen>mera-queen-of-atlantis</ma_truyen>
+        <tac_gia>Dan Abnett, Lan Medina, Richard Friend, Veronica Gandini</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mera-queen-of-atlantis/1_medium.jpg</hinh_nho>
+        <gioi_thieu>From the pages of AQUAMAN comes a brand-new adventure starring Mera, in her own title for the first time ever! As the brutal Atlantean Civil War rages, Mera must keep the peace between the surface world and Atlantis as its newly anointed queen in exile. But when Aquaman's brother Orm, a.k.a. Ocean Master, learns of his homeland's fate, he'll stop at nothing to return to Atlantis as its king and savior!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mera-queen-of-atlantis-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="mighty man (2017)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>mighty man (2017)</ten_truyen>
 		<ma_truyen>mighty-man-2017</ma_truyen>
@@ -1376,6 +1394,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/she-hulk-(2017)/159_medium.jpg</hinh_nho>
         <gioi_thieu>The LEADER is back and he's using his gamma-enhanced super-intelligence to strike at She-Hulk! But how do you hurt an almost indestructible She-Hulk? By turning Jen against HERSELF!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/she-hulk-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="sheena: queen of the jungle (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fanservice, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>sheena: queen of the jungle (2017)</ten_truyen>
+		<ma_truyen>sheena-queen-of-the-jungle-2017</ma_truyen>
+        <tac_gia>Marguerite Bennett, Christina Trujillo, Moritat</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/sheena-queen-of-the-jungle-(2017)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In this riveting relaunch, the guardian of the jungle, SHEENA, pursues a mysterious invader that has come to spy on the Amazon's most ancient secrets... Following the path of the trespasser, she encounters a forbidden ruin in which even more deadly dangers lie in wait and begins an adventure that will take her beyond her wildest imaginings!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sheena-queen-of-the-jungle-2017-eng.xml</file_xml>
     </truyen>
 	<truyen ten="sideways" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>sideways</ten_truyen>
