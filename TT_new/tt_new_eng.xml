@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="batman and the signal" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>batman and the signal</ten_truyen>
+		<ma_truyen>batman-and-the-signal</ma_truyen>
+        <tac_gia>Tony Patrick, Scott Snyder, Cully Hamner, Laura Martin</tac_gia>
+        <tinh_trang>Comic_Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-and-the-signal/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Batman may own the night, but with new villains emerging during the day he needs an ally to defend the city when he can't. Only one teen is up to the challenge, Duke Thomas. After months of training, he's ready to step out of the shadow of the bat to become his own kind of hero. Meet Gotham City's newest protector: The Signal! Spinning out of adventures in ALL-STAR BATMAN and WE ARE ROBIN, comics superstar Scott Snyder and newcomer Tony Patrick take our young hero to new heights in this exciting miniseries with artwork by Cully Hamner.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/batman-and-the-signal-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="sheena: queen of the jungle (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fanservice, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>sheena: queen of the jungle (2017)</ten_truyen>
+		<ma_truyen>sheena-queen-of-the-jungle-2017</ma_truyen>
+        <tac_gia>Marguerite Bennett, Christina Trujillo, Moritat</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/sheena-queen-of-the-jungle-(2017)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In this riveting relaunch, the guardian of the jungle, SHEENA, pursues a mysterious invader that has come to spy on the Amazon's most ancient secrets... Following the path of the trespasser, she encounters a forbidden ruin in which even more deadly dangers lie in wait and begins an adventure that will take her beyond her wildest imaginings!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sheena-queen-of-the-jungle-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="mera: queen of atlantis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>mera: queen of atlantis</ten_truyen>
+		<ma_truyen>mera-queen-of-atlantis</ma_truyen>
+        <tac_gia>Dan Abnett, Lan Medina, Richard Friend, Veronica Gandini</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mera-queen-of-atlantis/1_medium.jpg</hinh_nho>
+        <gioi_thieu>From the pages of AQUAMAN comes a brand-new adventure starring Mera, in her own title for the first time ever! As the brutal Atlantean Civil War rages, Mera must keep the peace between the surface world and Atlantis as its newly anointed queen in exile. But when Aquaman's brother Orm, a.k.a. Ocean Master, learns of his homeland's fate, he'll stop at nothing to return to Atlantis as its king and savior!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mera-queen-of-atlantis-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="asagao to kase-san." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo ai, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>asagao to kase-san.</ten_truyen>
 		<ma_truyen>asagao-to-kase-san</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/27304/5/200.jpg</hinh_nho>
 		<gioi_thieu>Itsuki and Hayato, two brothers who grew up in a village nestled deep in the mountains, set out to hunt down a wolf that has been attacking the livestock of the village. Itsuki is about to go in for the kill when a gigantic beast appears out of nowhere, snatching up the wolf in its jaws and sucking the life out of it. The beast that stared Itsuki down was a gargantuan, blood-sucking vampire deer? Will the two brothers be able to return to the village alive?! Find out in this blood-filled action-packed story by extraordinary mangaka Kaishaku!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/aka-akatoretachi-no-monogatari-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="her pet" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shoujo ai, Slice of life, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
-		<ten_truyen>her pet</ten_truyen>
-		<ma_truyen>her-pet</ma_truyen>
-		<tac_gia>Pito</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42780/1/200.jpg</hinh_nho>
-		<gioi_thieu>Gayoon decides to enroll into a high school far away from home just to be closer to Soha, her middle school heroine and idol. Gayoon finds out about Soha's loss and decides to help her by filling the role of Soha's once true friend - Happy, Soha's pet dog.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/her-pet-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="wizardly tower" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
-		<ten_truyen>wizardly tower</ten_truyen>
-		<ma_truyen>wizardly-tower</ma_truyen>
-		<tac_gia>Sung San Young, Park Seung Bum</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/39985/1/200.jpg</hinh_nho>
-		<gioi_thieu>Hani, the working woman with no interest in dating and who brags about her best trait of not being in debt Has an accident with her best friend's younger brother! The development of a youthful romance in an era where chivarly/courtship is dead The story of Hani's turbulent romance</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/wizardly-tower-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="refrain love" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Mature, Romance, Seinen, Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
-		<ten_truyen>refrain love</ten_truyen>
-		<ma_truyen>refrain-love</ma_truyen>
-		<tac_gia>Lee Chang Soo, Lee Hyun-seok</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/39103/1/200.jpg</hinh_nho>
-		<gioi_thieu>For Park Ki-Yoong, someone who's reached the peak of his sex drive, having an orgasm was the best joy of his life. After serving his compulsory military service, for two years, he is now about to be discharged from his duty, and into the civilian world. As the saying goes, patience will persevere, Park Ki-Yoong desperately aims to enjoy the free night with the girl he loves, whom awaits outside ut, what's this dream? Whenever he has an orgasm, the time rewinds. Will he ever be able to shift himself away from the time rift?</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/refrain-love-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

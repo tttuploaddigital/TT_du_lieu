@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="batman and the signal" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>batman and the signal</ten_truyen>
+		<ma_truyen>batman-and-the-signal</ma_truyen>
+        <tac_gia>Tony Patrick, Scott Snyder, Cully Hamner, Laura Martin</tac_gia>
+        <tinh_trang>Comic_Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-and-the-signal/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Batman may own the night, but with new villains emerging during the day he needs an ally to defend the city when he can't. Only one teen is up to the challenge, Duke Thomas. After months of training, he's ready to step out of the shadow of the bat to become his own kind of hero. Meet Gotham City's newest protector: The Signal! Spinning out of adventures in ALL-STAR BATMAN and WE ARE ROBIN, comics superstar Scott Snyder and newcomer Tony Patrick take our young hero to new heights in this exciting miniseries with artwork by Cully Hamner.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/batman-and-the-signal-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="sheena: queen of the jungle (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fanservice, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>sheena: queen of the jungle (2017)</ten_truyen>
+		<ma_truyen>sheena-queen-of-the-jungle-2017</ma_truyen>
+        <tac_gia>Marguerite Bennett, Christina Trujillo, Moritat</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/sheena-queen-of-the-jungle-(2017)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In this riveting relaunch, the guardian of the jungle, SHEENA, pursues a mysterious invader that has come to spy on the Amazon's most ancient secrets... Following the path of the trespasser, she encounters a forbidden ruin in which even more deadly dangers lie in wait and begins an adventure that will take her beyond her wildest imaginings!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sheena-queen-of-the-jungle-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="mera: queen of atlantis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>mera: queen of atlantis</ten_truyen>
+		<ma_truyen>mera-queen-of-atlantis</ma_truyen>
+        <tac_gia>Dan Abnett, Lan Medina, Richard Friend, Veronica Gandini</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mera-queen-of-atlantis/1_medium.jpg</hinh_nho>
+        <gioi_thieu>From the pages of AQUAMAN comes a brand-new adventure starring Mera, in her own title for the first time ever! As the brutal Atlantean Civil War rages, Mera must keep the peace between the surface world and Atlantis as its newly anointed queen in exile. But when Aquaman's brother Orm, a.k.a. Ocean Master, learns of his homeland's fate, he'll stop at nothing to return to Atlantis as its king and savior!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mera-queen-of-atlantis-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="captain america (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>captain america (2017)</ten_truyen>
 		<ma_truyen>captain-america-2017</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/j/jessica-jones/1_medium.jpg</hinh_nho>
         <gioi_thieu>She is back after a decade! A lot has changed in the Marvel Universe and there are still many secrets hiding in the shadows. Secrets only a special woman like Jessica Jones can hope to uncover. Discover the haunting secrets from Jessica's past in this blistering new series. Alias Investigations is open for business.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/jessica-jones-2016-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="marvel two-in-one (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>marvel two-in-one (2017)</ten_truyen>
-		<ma_truyen>marvel-two-in-one-2017</ma_truyen>
-        <tac_gia>Chip Zdarsky, Jim Cheung</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-two-in-one/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE FOUR ARE NO MORE, SO TWO MUST DO! Something is very wrong with THE HUMAN TORCH and only THE THING can help him! It's the Marvel Universe reunion you've all been waiting for (well, HALF of it, at least!). Plus: What monumental secret has DOOM been hiding since the end of SECRET WARS, and how will it completely change the lives of Johnny Storm and Ben Grimm?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-two-in-one-2017-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-o manowar (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>x-o manowar (2017)</ten_truyen>
-		<ma_truyen>x-o-manowar-2017</ma_truyen>
-        <tac_gia>Matt Kindt, Thomas Giorello</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-o-manowar-(2017)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>"Born under the oppressive thumb of the Roman Empire, Aric of Dacia learned warfare at an early age. It was amid such violence that he was abducted by an alien race. Forced into slavery, he survived where others perished. His escape would come from bonding with a weapon of immeasurable power: the X-O Manowar armor. With it, he returned to Earth... only to find himself stranded in the modern day. But that was a lifetime ago. Now, far from home on a strange and primitive new world, Aric has begun a new life. Liberated from his past, he tends to his crops. Free from war. Free from violence. Free from the armor. But the machinery of death marches his way once again. Conscripted into an alien army and thrown into an unforgiving conflict, the fury inside him finds voice as he is forced to embrace the armor once more. With it, he will decimate armies, topple empires and incite interplanetary warfare as he rises from SOLDIER to GENERAL to EMPEROR to VISIGOTH. They wanted a weapon. He will give them war!"</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-o-manowar-2017-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the demon: hell is earth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>the demon: hell is earth</ten_truyen>
-		<ma_truyen>the-demon-hell-is-earth</ma_truyen>
-        <tac_gia>Andrew Constant, Philip Tan, Brad Walker, Andrew Hennessy</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-demon-hell-is-earth/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Jason Blood and Etrigan: the best of enemies, destined to spend eternity bound together. When a haunting vision leads Jason to Death Valley, a supernatural weapon is unleashed, radically transforming not only the land, but also Blood... and the Demon. The worst, though, is yet to come, as hell begins to make its way into our world. Don't miss the start of this horrifying miniseries, where Etrigan and Blood's relationship will be changed forever!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-demon-hell-is-earth-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
