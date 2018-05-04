@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="caterpillar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Martial arts, Mature, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>caterpillar</ten_truyen>
+		<ma_truyen>caterpillar</ma_truyen>
+		<tac_gia>Murata Shinya, Sayazaki Isuka, Hakozaki Isuka, Hayami Tokisada</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/28919/2/200.jpg</hinh_nho>
+		<gioi_thieu>Possessing both flexibility and tenacity, Imomushi (Japanese for Caterpillar) is an assassin that does not kill anyone but those who are assigned to her. She seems to have had something happen between her and her older sister in the past, however. A new spin-off story from the same author of Arachnid, this story looks at the inner workings of a top assassin within The Organization itself.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/caterpillar-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="gabriel dropout" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>gabriel dropout</ten_truyen>
+		<ma_truyen>gabriel-dropout</ma_truyen>
+		<tac_gia>Ukami</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/38919/2/200.jpg</hinh_nho>
+		<gioi_thieu>A school comedy involving the lazy angel Gabriel and her friends.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gabriel-dropout-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kyou no yuiko-san" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Seinen, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>kyou no yuiko-san</ten_truyen>
+		<ma_truyen>kyou-no-yuiko-san</ma_truyen>
+		<tac_gia>Hidekawa Kenshin</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/37/2/200.jpg</hinh_nho>
+		<gioi_thieu>The story of the protagonist, Tomoya, and his everyday life with his girlfriend Yuiko-san.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/kyou-no-yuiko-san-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="asagao to kase-san." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo ai, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>asagao to kase-san.</ten_truyen>
 		<ma_truyen>asagao-to-kase-san</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/3185/2/200.jpg</hinh_nho>
 		<gioi_thieu>When he was a child, Murakami was infatuated with a girl he called Kuroneko. She insisted on knowing about aliens and having met them, but no one believed her, even young Murakami was skeptical. One day, she decides to show him the aliens, but an accident occurs and Kuroneko dies while Murakami is left seriously wounded in the hospital. Years go by and Murakami obsesses on finding proof of the existence of aliens because of a promise he had made with Kuroneko. Then, one day, a new transfer student comes to his class, who not only looks a lot like Kuroneko but is named Kuroha Neko. And even though she insists on never having met Murakami before, the girl has superhuman strength and seems to even be able to predict the future! How will Murakami's life change now that he has been saved by this mysterious girl that claims to be a magician?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/gokukoku-no-brynhildr-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="isekai maou to shoukan shoujo dorei majutsu" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>isekai maou to shoukan shoujo dorei majutsu</ten_truyen>
-		<ma_truyen>isekai-maou-to-shoukan-shoujo-dorei-majutsu</ma_truyen>
-		<tac_gia>Murasaki Yukiya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/34933/3/200.jpg</hinh_nho>
-		<gioi_thieu>In regards to the MMORPG Cross Reverie, Sakamoto Takuma boasted an overwhelming strength that was enough for him to be called the Demon King by the other players. One day, he gets summoned to another world with his appearance in the game. There, there are two people that insist, "I am the real summon master." Takuma gets slave-turning magic used for summoned beasts cast on him by the girls - However, the peculiar ability {Magic Reflection} was invoked! The ones that were turned to slaves were the girls! Takuma was bewildered. He's the strongest magician but, he doesn't have any communication skills. Panicking, the first words that came out were the ones that he used inside the game role playing the Demon King!? "I'm amazing you say? Of course I am. I am Diablo... The one feared as the Demon King!" This is the story the Demon King (acting) that would soon inspire the world and his other world adventure that he plunges through with his absolute strength, raise the curtain!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-maou-to-shoukan-shoujo-dorei-majutsu-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="dungeon ni deai o motomeru no wa machigatte iru darou ka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>dungeon ni deai o motomeru no wa machigatte iru darou ka</ten_truyen>
-		<ma_truyen>dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka</ma_truyen>
-		<tac_gia>Oomori Fujino, Kunieda</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/23265/12/200.jpg</hinh_nho>
-		<gioi_thieu>Bell Cranel is just trying to find his way in the world. Of course, in his case, the "world" is an enormous dungeon filled with monsters below a city run by gods and goddesses with way too much time on their hands. He's got big dreams but not much more when a roll on the random encounter die brings him face-to-face with the girl of his dreams-but what's an amateur adventurer got to offer a brilliant swordswoman? And what if the lonely goddess who sponsors his solo adventuring gets jealous?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kuro hakushaku wa hoshi o mederu" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>kuro hakushaku wa hoshi o mederu</ten_truyen>
-		<ma_truyen>kuro-hakushaku-wa-hoshi-o-mederu</ma_truyen>
-		<tac_gia>Oto Hisamu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/28269/2/200.jpg</hinh_nho>
-		<gioi_thieu>A Cinderella story with a twist! Esther Mayfield is a normal sixteen year old girl in 19th Century London. Except, ever since she was a little girl, she could see 'ghosts'. She lives in a small part of town and sells flowers to earn a living. She thought that she would continue to live like this forever. Until, one day, a handsome young Count appears in front of her. And he wants Esther to be his bride? Is he really the Prince Charming she has been waiting for?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kuro-hakushaku-wa-hoshi-o-mederu-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
