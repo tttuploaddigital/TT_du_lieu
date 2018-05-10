@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="peter parker: the spectacular spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>peter parker: the spectacular spider-man</ten_truyen>
+		<ma_truyen>peter-parker-the-spectacular-spider-man</ma_truyen>
+        <tac_gia>Chip Zdarsky, Adam Kubert</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/peter-parker-the-spectacular-spider-man/1_medium.jpg</hinh_nho>
+        <gioi_thieu>SPIDER-MAN RETURNS TO THE FRIENDLY NEIGHBORHOOD! The webslinging, wallcrawling wonder returns to New York City in the all-new PETER PARKER: THE SPECTACULAR SPIDER-MAN. A companion series to the best-selling Amazing Spider-Man series, Peter Parker is going back-to-basics for big heroics in the Big Apple. Featuring adversaries old and new, be there as Spider-Man returns to his friendly neighborhood for his never ending battle against crime and the dreaded "Parker Luck".</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/peter-parker-the-spectacular-spider-man-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the immortal men" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>the immortal men</ten_truyen>
+		<ma_truyen>the-immortal-men</ma_truyen>
+        <tac_gia>James Tynion IV, Ryan Benjamin, Jim Lee</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-immortal-men/1_medium.jpg</hinh_nho>
+        <gioi_thieu>There is a secret history to the DC Universe of heroes who have protected humanity from the shadows since the dawn of time…and who can live forever. Enter the Immortal Men! The team, headed by the Immortal Man, has waged a secret war against the House of Conquest for countless years—but Conquest has dealt a devastating blow. When their base of operations, known as the Campus, is savagely attacked, the Immortal Men must seek out their last hope—an emerging metahuman known as Caden Park! Caden’s emerging powers may be able to ensure the Immortal Men’s survival—but will Conquest get to him first?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-immortal-men-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="you are deadpool" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>you are deadpool</ten_truyen>
+		<ma_truyen>you-are-deadpool</ma_truyen>
+        <tac_gia>Al Ewing, Salvador Espin, Rahzzah</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/y/you-are-deadpool/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DID YOU EVER WANT TO BE DEADPOOL??? Now's your chance! This series is not JUST the most amazing comic book you've ever read... it's also a role-playing adventure! YOU decide what choices Deadpool makes!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/you-are-deadpool-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="caterpillar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Martial arts, Mature, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>caterpillar</ten_truyen>
 		<ma_truyen>caterpillar</ma_truyen>
@@ -243,31 +270,4 @@
 		<gioi_thieu>I like you. But, I kept on thinking that I should hate him. I like you. But, you look like a different guy to me. I like you. But, you told me that I'm like 'your younger sister'. I like you. But, you kissed that person in front of me. Numerous 'red threads' intertwine. Brewing a few romances. This is the willfully unrestrained, youth idol drama of 7 guys and girls.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/akaiito-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="suicide squad: hell to pay" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>suicide squad: hell to pay</ten_truyen>
-		<ma_truyen>suicide-squad-hell-to-pay</ma_truyen>
-        <tac_gia>Jeff Parker, Matthew Dow Smith</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-hell-to-pay/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Amanda Waller has her "Get Out of Hell Free" card, but why did she go to such lengths to acquire it?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-hell-to-pay-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="old man hawkeye" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>old man hawkeye</ten_truyen>
-		<ma_truyen>old-man-hawkeye</ma_truyen>
-        <tac_gia>Ethan Sacks, Marco Checchetto</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-hawkeye/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The super heroes have fallen. The country has been divided into territories controlled by super villains. Among the wastelands lives CLINT BARTON - one of the few Avengers to survive. But it's been 45 years, and he's no Avenger. Trying to eke out a living anyway he can, the former HAWKEYE is confronted with a startling discovery: the sharpshooter is going blind. With time running short, Clint realizes there's one last thing he wants to see: revenge for his fallen comrades-in-arms. Rising-star writer ETHAN SACKS and superstar artist MARCO CHECCHETTO take you back to the Wastelands in a story set five years before the original classic OLD MAN LOGAN.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-hawkeye-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="raven  " tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Magic, Superhero, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>raven  </ten_truyen>
-		<ma_truyen>raven</ma_truyen>
-        <tac_gia>Alisson Borges, Marv Wolfman</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/raven/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In a tale set between TEEN TITANS #24 and TEEN TITANS: REBIRTH #1, Raven takes a break from the team and moves to San Francisco to stay with her estranged aunt and face her most perilous challenge yet: high school! As Raven discovers more about her human side, one of her classmates goes missing under mysterious circumstances, and she must face an evil like none she's known before!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/raven-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

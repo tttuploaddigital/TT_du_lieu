@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="peter parker: the spectacular spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>peter parker: the spectacular spider-man</ten_truyen>
+		<ma_truyen>peter-parker-the-spectacular-spider-man</ma_truyen>
+        <tac_gia>Chip Zdarsky, Adam Kubert</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/peter-parker-the-spectacular-spider-man/1_medium.jpg</hinh_nho>
+        <gioi_thieu>SPIDER-MAN RETURNS TO THE FRIENDLY NEIGHBORHOOD! The webslinging, wallcrawling wonder returns to New York City in the all-new PETER PARKER: THE SPECTACULAR SPIDER-MAN. A companion series to the best-selling Amazing Spider-Man series, Peter Parker is going back-to-basics for big heroics in the Big Apple. Featuring adversaries old and new, be there as Spider-Man returns to his friendly neighborhood for his never ending battle against crime and the dreaded "Parker Luck".</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/peter-parker-the-spectacular-spider-man-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the immortal men" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>the immortal men</ten_truyen>
+		<ma_truyen>the-immortal-men</ma_truyen>
+        <tac_gia>James Tynion IV, Ryan Benjamin, Jim Lee</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-immortal-men/1_medium.jpg</hinh_nho>
+        <gioi_thieu>There is a secret history to the DC Universe of heroes who have protected humanity from the shadows since the dawn of time…and who can live forever. Enter the Immortal Men! The team, headed by the Immortal Man, has waged a secret war against the House of Conquest for countless years—but Conquest has dealt a devastating blow. When their base of operations, known as the Campus, is savagely attacked, the Immortal Men must seek out their last hope—an emerging metahuman known as Caden Park! Caden’s emerging powers may be able to ensure the Immortal Men’s survival—but will Conquest get to him first?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-immortal-men-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="you are deadpool" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>you are deadpool</ten_truyen>
+		<ma_truyen>you-are-deadpool</ma_truyen>
+        <tac_gia>Al Ewing, Salvador Espin, Rahzzah</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/y/you-are-deadpool/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DID YOU EVER WANT TO BE DEADPOOL??? Now's your chance! This series is not JUST the most amazing comic book you've ever read... it's also a role-playing adventure! YOU decide what choices Deadpool makes!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/you-are-deadpool-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="batman and the signal" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>batman and the signal</ten_truyen>
 		<ma_truyen>batman-and-the-signal</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/i/iron-fist-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>THE GAUNTLET STARTS HERE! K'un Lun is in ruins. The chi fueling Danny's fists is wavering. Is there a future for the Iron Fist? Danny Rand pushes himself to the breaking point, finding fights to prove his worth. But a bigger fight than he can handle may have found him...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/iron-fist-2017-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="street fighter vs darkstalkers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Martial arts, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>street fighter vs darkstalkers</ten_truyen>
-		<ma_truyen>street-fighter-vs-darkstalkers</ma_truyen>
-        <tac_gia>Matt Moylan, Hanzo Steinbach, Edwing Huang</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/street-fighter-vs-darkstalkers/0_medium.jpg</hinh_nho>
-        <gioi_thieu>Two classic Capcom fighting franchises collide as the martial artists of Street Fighter are haunted by the mad monsters of Darkstalkers! The crossover chaos all starts in this special prelude issue!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/street-fighter-vs-darkstalkers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="captain marvel (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>captain marvel (2016)</ten_truyen>
-		<ma_truyen>captain-marvel-2016</ma_truyen>
-        <tac_gia>Kris Anka, Michele Fazekas, Tara Butters</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-marvel-(2016)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Face front, true believers! The Captain has made her return and oh, how mighty it is. It's a bold new frontier for Carol Danvers as she soars to new heights in her greatest mission yet--leader of the all-new Alpha Flight space program. Yup, Alpha Flight. As earth's first line of defense, Carol and her team aim to protect the planet from extraterrestrial threats. But can Carol be a soldier and a diplomat? Especially when an unknown enemy emerges that Carol can't quite punch. The superstar team behind Marvel's Agent Carter television series, Tara Butters and Michele Fazekas, make their comics debut alongside the awesomely-talented Kris Anka.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-marvel-2016-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="jessica jones (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Crime, Fantasy, Mystery, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>jessica jones (2016)</ten_truyen>
-		<ma_truyen>jessica-jones-2016</ma_truyen>
-        <tac_gia>Brian Michael Bendis, Michael Gaydos, David Mack</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/jessica-jones/1_medium.jpg</hinh_nho>
-        <gioi_thieu>She is back after a decade! A lot has changed in the Marvel Universe and there are still many secrets hiding in the shadows. Secrets only a special woman like Jessica Jones can hope to uncover. Discover the haunting secrets from Jessica's past in this blistering new series. Alias Investigations is open for business.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/jessica-jones-2016-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
