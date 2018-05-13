@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="mad chimera world" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Horror, Mature, Sci-fi, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>mad chimera world</ten_truyen>
+		<ma_truyen>mad-chimera-world</ma_truyen>
+		<tac_gia>Kishimoto Seishi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/cc/7a/cc7ab330db52883e1c4189f82833e6938513b1d9_34470_200_310.jpg</hinh_nho>
+		<gioi_thieu>Set in a ruined world overrun with chimerical creatures where the female creatures eat the males. Two creatures explore the land: Usagi, the elder sister, protects her brother Mitsuki, a curious chronicler who is able to read the books in their secret hiding place to know that the world was once different.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mad-chimera-world-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="gun x clover" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Harem, Martial arts, Mature, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>gun x clover</ten_truyen>
+		<ma_truyen>gun-x-clover</ma_truyen>
+		<tac_gia>Yamaguchi Mikoto, D.p</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/3274/8/200.jpg</hinh_nho>
+		<gioi_thieu>Mikado High School trains the best students to be the best mercenary bodyguards. But Morito Hayama, a merc escort student with no rank whatsoever, is suddenly assigned to guard a person so highly valued that no escort has ever survived before. Will his subject survive the experience? Will HE survive?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gun-x-clover-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="bokura wa bara no ko" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Sci-fi, Shoujo., Slice of life, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>bokura wa bara no ko</ten_truyen>
+		<ma_truyen>bokura-wa-bara-no-ko</ma_truyen>
+		<tac_gia>Minamori Koyomi</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/28348/1/200.jpg</hinh_nho>
+		<gioi_thieu>Yukinari was abandoned as an infant, but fortunately a loving family adopted him. Perhaps because of this, he has an affinity for helpless, abandoned creatures and goes out of his way to help them. One night, Yukinari and his friends witness a falling star hit the ground and rush to the spot where it hit, only to find a child cradled in the meteorite, surrounded by a field of roses?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/bokura-wa-bara-no-ko-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="peter parker: the spectacular spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>peter parker: the spectacular spider-man</ten_truyen>
 		<ma_truyen>peter-parker-the-spectacular-spider-man</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>SCOTT LANG's life is a bit of a mess. But when he got out of jail (yeah, jail), he swore he'd to turn it all around. Go straight. Show his daughter and ex-wife he's worthy of being a role model. But when a "last score" lands him in HANK PYM's size-changing suit, Scott finds himself in a brand-new role: as the ANT-MAN! Hank needs someone with Scott's skills to stop DARREN CROSS from weaponizing his size-changing technology, and it's going to take the team of Scott, Hank and HOPE (daughter of the original WASP) to save the day! The adventure doesn't get any bigger (smaller?!) than this! See Scott's first mission as the ANT-MAN, and how HOPE VAN DYNE became the WASP in this adaptation of the original hit film before this summer's feature MARVEL'S ANT-MAN AND THE WASP!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/marvel-s-ant-man-and-the-wasp-eng.xml</file_xml>
     </truyen>
-	<truyen ten="boku to kimi to de niji ni naru" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>boku to kimi to de niji ni naru</ten_truyen>
-		<ma_truyen>boku-to-kimi-to-de-niji-ni-naru</ma_truyen>
-		<tac_gia>Fujisawa Shizuki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/1382/1/200.jpg</hinh_nho>
-		<gioi_thieu>Because she loved the word "wisdom", Rui hated the words "waste" and "fuzzy". One day, a guy named Shou appeared on her life. And thank to that encounter, Rui will suddenly change... And that's the beginning of a "rainbow school daze" between that super dry girl and that careless guy.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-to-kimi-to-de-niji-ni-naru-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ane no onaka o fukuramaseru wa boku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>ane no onaka o fukuramaseru wa boku</ten_truyen>
-		<ma_truyen>ane-no-onaka-o-fukuramaseru-wa-boku</ma_truyen>
-		<tac_gia>Sakai Onta, Onda Chiro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42784/2/200.jpg</hinh_nho>
-		<gioi_thieu>This is the story of a pair of step-siblings who are now living alone together. The high-school-age older sister, Kyoko, is pretty wild (and is even into pro-wrestling), while the elementary-school-age little brother is a fairly serious kid. He is often embarrassed by her teasing. The two of them pass their daily life together, every day cooking for one another.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ane-no-onaka-o-fukuramaseru-wa-boku-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="akaiito" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>akaiito</ten_truyen>
-		<ma_truyen>akaiito</ma_truyen>
-		<tac_gia>Miyasaka Kaho</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/475/3/200.jpg</hinh_nho>
-		<gioi_thieu>I like you. But, I kept on thinking that I should hate him. I like you. But, you look like a different guy to me. I like you. But, you told me that I'm like 'your younger sister'. I like you. But, you kissed that person in front of me. Numerous 'red threads' intertwine. Brewing a few romances. This is the willfully unrestrained, youth idol drama of 7 guys and girls.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/akaiito-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>

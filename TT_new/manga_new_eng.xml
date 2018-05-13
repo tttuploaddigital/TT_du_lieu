@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="mad chimera world" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Horror, Mature, Sci-fi, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>mad chimera world</ten_truyen>
+		<ma_truyen>mad-chimera-world</ma_truyen>
+		<tac_gia>Kishimoto Seishi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/cc/7a/cc7ab330db52883e1c4189f82833e6938513b1d9_34470_200_310.jpg</hinh_nho>
+		<gioi_thieu>Set in a ruined world overrun with chimerical creatures where the female creatures eat the males. Two creatures explore the land: Usagi, the elder sister, protects her brother Mitsuki, a curious chronicler who is able to read the books in their secret hiding place to know that the world was once different.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mad-chimera-world-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="gun x clover" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Harem, Martial arts, Mature, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>gun x clover</ten_truyen>
+		<ma_truyen>gun-x-clover</ma_truyen>
+		<tac_gia>Yamaguchi Mikoto, D.p</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/3274/8/200.jpg</hinh_nho>
+		<gioi_thieu>Mikado High School trains the best students to be the best mercenary bodyguards. But Morito Hayama, a merc escort student with no rank whatsoever, is suddenly assigned to guard a person so highly valued that no escort has ever survived before. Will his subject survive the experience? Will HE survive?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gun-x-clover-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="bokura wa bara no ko" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Sci-fi, Shoujo., Slice of life, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>bokura wa bara no ko</ten_truyen>
+		<ma_truyen>bokura-wa-bara-no-ko</ma_truyen>
+		<tac_gia>Minamori Koyomi</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/28348/1/200.jpg</hinh_nho>
+		<gioi_thieu>Yukinari was abandoned as an infant, but fortunately a loving family adopted him. Perhaps because of this, he has an affinity for helpless, abandoned creatures and goes out of his way to help them. One night, Yukinari and his friends witness a falling star hit the ground and rush to the spot where it hit, only to find a child cradled in the meteorite, surrounded by a field of roses?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/bokura-wa-bara-no-ko-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="caterpillar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Martial arts, Mature, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>caterpillar</ten_truyen>
 		<ma_truyen>caterpillar</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/32389/4/200.jpg</hinh_nho>
 		<gioi_thieu>"To Love, or not to Love" Juliet Percia and Inudzuka Romeo are archenemies. They lead two high-school dormitories from to two rivalling countries. Both factions are dead set on defeating the other to gain control over the island they have to share. Beneath the feuding exterior, however, Percia and Inudzuka long for love and peace for their budding relationship...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kushuku-gakkou-no-alice-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kenja no mago" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>kenja no mago</ten_truyen>
-		<ma_truyen>kenja-no-mago</ma_truyen>
-		<tac_gia>Yoshioka Tsuyoshi, Ogata Shunsuke</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/41420/2/200.jpg</hinh_nho>
-		<gioi_thieu>A young man who had surely died in an accident, was reborn in another world as a baby! After that, he was picked up by the patriot hero "Sage" Merlin Wolford and was given the name Shin. He was raised as a grandson by Merlin and soaked up Merlin's teachings earning him some shocking power however, when he became 15 his grandfather Merlin said: "I forgot to teach him common sense".</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kenja-no-mago-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="renai metro" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Josei, Mature, Romance, Shoujo., Slice of life, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>renai metro</ten_truyen>
-		<ma_truyen>renai-metro</ma_truyen>
-		<tac_gia>Yamaguchi Nene</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/36292/1/200.jpg</hinh_nho>
-		<gioi_thieu>Nozomi has been in love with her senpai for years. She tries to get into the same university as he to confess her feeling, only to find him in a relationship with another girl. To make matters worst, she's being pushed by a guy named Atsushi, the younger brother of the girlfriend of her unrequited love, to confess quickly so the couple would break up.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/renai-metro-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gokukoku no brynhildr" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, Harem, Mature, Romance, School life, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>gokukoku no brynhildr</ten_truyen>
-		<ma_truyen>gokukoku-no-brynhildr</ma_truyen>
-		<tac_gia>Okamoto Lynn</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3185/2/200.jpg</hinh_nho>
-		<gioi_thieu>When he was a child, Murakami was infatuated with a girl he called Kuroneko. She insisted on knowing about aliens and having met them, but no one believed her, even young Murakami was skeptical. One day, she decides to show him the aliens, but an accident occurs and Kuroneko dies while Murakami is left seriously wounded in the hospital. Years go by and Murakami obsesses on finding proof of the existence of aliens because of a promise he had made with Kuroneko. Then, one day, a new transfer student comes to his class, who not only looks a lot like Kuroneko but is named Kuroha Neko. And even though she insists on never having met Murakami before, the girl has superhuman strength and seems to even be able to predict the future! How will Murakami's life change now that he has been saved by this mysterious girl that claims to be a magician?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/gokukoku-no-brynhildr-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
