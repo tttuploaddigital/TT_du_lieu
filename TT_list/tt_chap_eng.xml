@@ -10,7 +10,7 @@
 		<ten_truyen>mad chimera world</ten_truyen>
 		<ma_truyen>mad-chimera-world</ma_truyen>
         <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/cc/7a/cc7ab330db52883e1c4189f82833e6938513b1d9_34470_200_310.jpg</hinh_nho>	
-		<chap_moi>chap 9</chap_moi>
+		<chap_moi>chap 12</chap_moi>
 	</truyen>
 	<truyen ten="gun x clover" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Harem, Martial arts, Mature, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>gun x clover</ten_truyen>
@@ -36,4 +36,10 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-immortal-men/1_medium.jpg</hinh_nho>		
 		<chap_moi>issue 2</chap_moi>
     </truyen>
+	<truyen ten="mad chimera world" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Horror, Mature, Sci-fi, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>mad chimera world</ten_truyen>
+		<ma_truyen>mad-chimera-world</ma_truyen>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/cc/7a/cc7ab330db52883e1c4189f82833e6938513b1d9_34470_200_310.jpg</hinh_nho>	
+		<chap_moi>chap 9</chap_moi>
+	</truyen>
 </danh_sach_truyen>
