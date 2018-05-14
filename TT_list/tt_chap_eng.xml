@@ -4,7 +4,6 @@
 		<ten_truyen>dungeon meshi</ten_truyen>
 		<ma_truyen>dungeon-meshi</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-meshi-eng.xml</file_xml>
 		<chap_moi>chap 43</chap_moi>
     </truyen>
 	<truyen ten="mad chimera world" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Horror, Mature, Sci-fi, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
@@ -29,13 +28,12 @@
 		<ten_truyen>peter parker: the spectacular spider-man</ten_truyen>
 		<ma_truyen>peter-parker-the-spectacular-spider-man</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/p/peter-parker-the-spectacular-spider-man/1_medium.jpg</hinh_nho>	
-		<chap_moi>chap 6</chap_moi>
+		<chap_moi>issue 304</chap_moi>
     </truyen>
 	<truyen ten="the immortal men" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>the immortal men</ten_truyen>
 		<ma_truyen>the-immortal-men</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-immortal-men/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-immortal-men-eng.xml</file_xml>		
-		<chap_moi>chap 5</chap_moi>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-immortal-men/1_medium.jpg</hinh_nho>		
+		<chap_moi>issue 2</chap_moi>
     </truyen>
 </danh_sach_truyen>
