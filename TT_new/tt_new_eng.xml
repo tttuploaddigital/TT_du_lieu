@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="star wars: the last jedi adaptation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>star wars: the last jedi adaptation</ten_truyen>
+		<ma_truyen>star-wars-the-last-jedi-adaptation</ma_truyen>
+        <tac_gia>Gary Whitta, Michael Walsh</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-the-last-jedi-adaptation/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Resistance has found Luke Skywalker! But the First Order is hot on their tail... and they are out for blood. Join writer Gary Whitta (ROGUE ONE: A STAR WARS STORY) and artist Michael Walsh (STAR WARS ANNUAL, HAWKEYE and THE VISION) as they take on the adventures of Force prodigy Rey, ace pilot Poe Dameron, and ex-First Order recruit Finn from the hit blockbuster STAR WARS: THE LAST JEDI – featuring never-before-seen scenes of your favorite characters!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-the-last-jedi-adaptation-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the wicked righteous" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>the wicked righteous</ten_truyen>
+		<ma_truyen>the-wicked-righteous</ma_truyen>
+        <tac_gia>Terry Mayo, Chris Hall, Lucas Romero, Brandon DeStefano</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-wicked-righteous/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Biological warfare has decimated the earth's population, leaving two distinct groups of survivors in its wake. In San Diego, four teenage brothers rescue a young girl from a brutal gang of psychopaths and spark a chain of events that attracts an onslaught of unspeakable evil. This is the world of the Wicked and the Righteous... and the children will lead them all.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-wicked-righteous-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the spider king" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>the spider king</ten_truyen>
+		<ma_truyen>the-spider-king</ma_truyen>
+        <tac_gia>Josh Vann, Simone D'Armini</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-spider-king/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When a fleet of spaceships crashes into northern Europe in 956 AD, a group of unlikely Viking heroes are the last line of defense against a brutal intergalactic warlord. Equal parts science fiction and fantasy, The Spider King follows the adventures of Viking warriors as they defend their world against alien invaders armed with futuristic technology and impossible weapons.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-spider-king-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="mad chimera world" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Horror, Mature, Sci-fi, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>mad chimera world</ten_truyen>
 		<ma_truyen>mad-chimera-world</ma_truyen>
@@ -243,31 +270,4 @@
 		<gioi_thieu>Nitta Shin finds himself saddled with a sudden, crushing debt. His loan agent tells him he can escape repayment if he keeps a particular woman company. He gradually learns that this arrangement might not be as easy as he once thought.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/velvet-kiss-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="rise of the black panther" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>rise of the black panther</ten_truyen>
-		<ma_truyen>rise-of-the-black-panther</ma_truyen>
-        <tac_gia>Ta-Nehisi Coates, Evan Narcisse, Paul Renaud, Brian Stelfreeze</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/rise-of-the-black-panther-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Just in time for the highly anticipated film, witness the early years of the man who will come to rule one of the most scientifically advanced countries in the world! Wakanda has always kept itself isolated from Western society, but that's all about to change. Young T'Challa knows he is destined to become king, but when his father is brutally murdered by outsiders, he'll find himself taking up a mantle he may not be ready for. Experience never-before-seen drama from the reign of T'Chaka, the king whose death changes a nation's history forever. Learn about the mother T'Challa never knew. See how the world learns about this wondrous nation for the first time. Will the power of the Black Panther be enough to keep his country safe? Journalist Evan Narcisse makes his comics debut alongside acclaimed writer Ta-Nehisi Coates as they chronicle T'Challa's rise to the throne - and to the Panther legacy that made him an Avenger.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rise-of-the-black-panther-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="agent 47: birth of the hitman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Spy, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>agent 47: birth of the hitman</ten_truyen>
-		<ma_truyen>agent-47-birth-of-the-hitman</ma_truyen>
-        <tac_gia>Christopher Sebela, Ariel Medel, Jonathan Lau</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/agent-47-birth-of-the-hitman/1_medium.jpg</hinh_nho>
-        <gioi_thieu>47 and his handler, Diana Burnwood, are a team responsible for some of the most ruthless, efficient and untraceable assassinations across the globe. But before they were operatives of the shadowy International Contracts Association, 47 and Burnwood were on their own separate paths in life streets lined with blood, bullets and revenge. As 14-year-old Diana begins a mission to track down the people who killed her parents, the one responsible, 47, is struggling to free himself and his brother, 6, from the mysterious Institute which has bred them as killers since they were kids. With a story that stretches from the heartland of America to the Berlin Wall, Lone Wolves will trace the birth of the legendary Hitman and the secret past of the woman behind him who pulls the string and knows just how hard taking a life truly is.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/agent-47-birth-of-the-hitman-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="marvel's ant-man and the wasp prelude" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>marvel's ant-man and the wasp prelude</ten_truyen>
-		<ma_truyen>marvel-s-ant-man-and-the-wasp</ma_truyen>
-        <tac_gia>Will Corona Pilgrim, Chris Allen</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvels-ant-man-and-the-wasp-prelude/1_medium.jpg</hinh_nho>
-        <gioi_thieu>SCOTT LANG's life is a bit of a mess. But when he got out of jail (yeah, jail), he swore he'd to turn it all around. Go straight. Show his daughter and ex-wife he's worthy of being a role model. But when a "last score" lands him in HANK PYM's size-changing suit, Scott finds himself in a brand-new role: as the ANT-MAN! Hank needs someone with Scott's skills to stop DARREN CROSS from weaponizing his size-changing technology, and it's going to take the team of Scott, Hank and HOPE (daughter of the original WASP) to save the day! The adventure doesn't get any bigger (smaller?!) than this! See Scott's first mission as the ANT-MAN, and how HOPE VAN DYNE became the WASP in this adaptation of the original hit film before this summer's feature MARVEL'S ANT-MAN AND THE WASP!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/marvel-s-ant-man-and-the-wasp-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

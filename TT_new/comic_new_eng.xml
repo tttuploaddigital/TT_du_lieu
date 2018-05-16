@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="star wars: the last jedi adaptation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>star wars: the last jedi adaptation</ten_truyen>
+		<ma_truyen>star-wars-the-last-jedi-adaptation</ma_truyen>
+        <tac_gia>Gary Whitta, Michael Walsh</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-the-last-jedi-adaptation/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Resistance has found Luke Skywalker! But the First Order is hot on their tail... and they are out for blood. Join writer Gary Whitta (ROGUE ONE: A STAR WARS STORY) and artist Michael Walsh (STAR WARS ANNUAL, HAWKEYE and THE VISION) as they take on the adventures of Force prodigy Rey, ace pilot Poe Dameron, and ex-First Order recruit Finn from the hit blockbuster STAR WARS: THE LAST JEDI – featuring never-before-seen scenes of your favorite characters!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-the-last-jedi-adaptation-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the wicked righteous" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>the wicked righteous</ten_truyen>
+		<ma_truyen>the-wicked-righteous</ma_truyen>
+        <tac_gia>Terry Mayo, Chris Hall, Lucas Romero, Brandon DeStefano</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-wicked-righteous/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Biological warfare has decimated the earth's population, leaving two distinct groups of survivors in its wake. In San Diego, four teenage brothers rescue a young girl from a brutal gang of psychopaths and spark a chain of events that attracts an onslaught of unspeakable evil. This is the world of the Wicked and the Righteous... and the children will lead them all.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-wicked-righteous-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the spider king" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>the spider king</ten_truyen>
+		<ma_truyen>the-spider-king</ma_truyen>
+        <tac_gia>Josh Vann, Simone D'Armini</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-spider-king/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When a fleet of spaceships crashes into northern Europe in 956 AD, a group of unlikely Viking heroes are the last line of defense against a brutal intergalactic warlord. Equal parts science fiction and fantasy, The Spider King follows the adventures of Viking warriors as they defend their world against alien invaders armed with futuristic technology and impossible weapons.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-spider-king-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="peter parker: the spectacular spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>peter parker: the spectacular spider-man</ten_truyen>
 		<ma_truyen>peter-parker-the-spectacular-spider-man</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/c/chasing-hitler/1_medium.jpg</hinh_nho>
         <gioi_thieu>As WWII draws to an end and the Allies surround Berlin, Adolf Hitler realizes that all is lost. Or is it? Two allied service men are tasked with verifying Hitler's death. When they can't the chase begins.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/chasing-hitler-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="rogue and gambit" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>rogue and gambit</ten_truyen>
-		<ma_truyen>rogue-and-gambit</ma_truyen>
-        <tac_gia>Kelly Thompson, Pere Prez, Kris Anka</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/rogue--gambit-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Everybody's favorite X-couple is reunited! And boy, are they not happy about that... Kitty Pryde must send Rogue and Gambit on an undercover mission to find a group of kidnapped mutants. What they discover on this mission will shock them. But will it also bring them closer together...? It's a high-stakes adventure caper that only the two hottest X-Men can deliver!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rogue-and-gambit-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="black lightning: cold dead hands" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>black lightning: cold dead hands</ten_truyen>
-		<ma_truyen>black-lightning-cold-dead-hands</ma_truyen>
-        <tac_gia>Tony Isabella, Clayton Henry, Pete Pantazis, Mark Morales, Tomeu Morey</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/black-lightning-cold-dead-hands/1_medium.jpg</hinh_nho>
-        <gioi_thieu>All-new mini-series by original creator Tony Isabella teamed with superstar artist Clayton Henry! Black Lightning is back and things are not the same! In his home town of Cleveland, high school teacher Jefferson Pierce is a role model for his students. As Black Lightning, he's fighting to keep them safe, even as his city's streets are invaded by local gangs with deadly super-weapons. And wait until you see who their supplier is! Real-world issues in a super-hero world! Expect the unexpected!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-lightning-cold-dead-hands-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="iron fist (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Martial arts, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>iron fist (2017)</ten_truyen>
-		<ma_truyen>iron-fist-2017</ma_truyen>
-        <tac_gia>Ed Brisson, Mike Perkins, Jeff Dekai</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/iron-fist-(2017)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE GAUNTLET STARTS HERE! K'un Lun is in ruins. The chi fueling Danny's fists is wavering. Is there a future for the Iron Fist? Danny Rand pushes himself to the breaking point, finding fights to prove his worth. But a bigger fight than he can handle may have found him...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/iron-fist-2017-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
