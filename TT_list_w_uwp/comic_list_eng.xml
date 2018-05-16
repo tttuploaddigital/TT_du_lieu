@@ -756,14 +756,14 @@
         <gioi_thieu>Harley's entire story, from her origins to her most recent comic arcs, are delivered in such a way that the reader is lucky to understand half the characters that make appearances in the book. While the introductions are meant to be as fun as possible, with Harley's commentary on each of her newfound family members, there's just not enough time or reason for them to be introduced all at once as they are. After all, most of them disappear once the zombies show up.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
     </truyen>
-	<truyen ten="haunted horror" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery, Pulp, Psychological, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="haunted horror" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery, Pulp, Psychological, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>haunted horror</ten_truyen>
 		<ma_truyen>haunted-horror</ma_truyen>
         <tac_gia>Ken Rice, Angelo Torres</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
+        <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/h/haunted-horrors/1_medium.jpg</hinh_nho>
         <gioi_thieu>Back from the opened grave are more masterpieces of the macabre from the horror comics of the 1950s. Genius horror artists of the known and unknown variety poured their tortured souls into these comics. The best and least seen stories have been chosen with the help of top horror comic collectors and all lovingly restored and presented in full-creepy color. You will be thrilled, chilled and maybe even a little sickened by the over-the-top ghouls and gore in this latest addition to the Chilling Archives of Horror!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/haunted-horror-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/haunted-horror-eng.xml</file_xml>
     </truyen>
 	<truyen ten="hawkeye (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>hawkeye (2016)</ten_truyen>
@@ -1557,6 +1557,15 @@
         <gioi_thieu>Because you demanded it! Following the blockbuster finale of the critically acclaimed Darth Vader series, the fan-favorite character begins an all-new journey! Following her time in the clutches of the Dark Lord of the Sith, Doctor Aphra has barely escaped with her life. If Vader ever learns of her survival, he'll hunt her to the ends of the galaxy. But for now, it's time to return to what she does best. With the droids 0-0-0 and BT-1 in tow, she's off in search of rare artifacts from the galactic center to the Outer Rim and everywhere in between.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-doctor-aphra-eng.xml</file_xml>
     </truyen>
+	<truyen ten="star wars: the last jedi adaptation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>star wars: the last jedi adaptation</ten_truyen>
+		<ma_truyen>star-wars-the-last-jedi-adaptation</ma_truyen>
+        <tac_gia>Gary Whitta, Michael Walsh</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-the-last-jedi-adaptation/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Resistance has found Luke Skywalker! But the First Order is hot on their tail... and they are out for blood. Join writer Gary Whitta (ROGUE ONE: A STAR WARS STORY) and artist Michael Walsh (STAR WARS ANNUAL, HAWKEYE and THE VISION) as they take on the adventures of Force prodigy Rey, ace pilot Poe Dameron, and ex-First Order recruit Finn from the hit blockbuster STAR WARS: THE LAST JEDI – featuring never-before-seen scenes of your favorite characters!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-the-last-jedi-adaptation-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="star wars: thrawn" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>star wars: thrawn</ten_truyen>
 		<ma_truyen>star-wars-thrawn</ma_truyen>
@@ -1800,6 +1809,15 @@
         <gioi_thieu>FRANK CASTLE LOSES CONTROL! A by-the-numbers drug bust is about to take Frank Castle by surprise…and he HATES surprises. The horrible fallout threatens to send The Punisher into the heart of darkness, but Castle won't make that journey alone: A DEA agent is on his trail and attempting to get into his head…but what horrors will she find there, and will she survive the experience?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-punisher-2016-eng.xml</file_xml>
     </truyen>
+	<truyen ten="the spider king" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>the spider king</ten_truyen>
+		<ma_truyen>the-spider-king</ma_truyen>
+        <tac_gia>Josh Vann, Simone D'Armini</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-spider-king/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When a fleet of spaceships crashes into northern Europe in 956 AD, a group of unlikely Viking heroes are the last line of defense against a brutal intergalactic warlord. Equal parts science fiction and fantasy, The Spider King follows the adventures of Viking warriors as they defend their world against alien invaders armed with futuristic technology and impossible weapons.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-spider-king-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="the totally awesome hulk" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>the totally awesome hulk</ten_truyen>
 		<ma_truyen>the-totally-awesome-hulk</ma_truyen>
@@ -1826,6 +1844,15 @@
         <hinh_nho>https://i.imgur.com/mzAZMYZ.jpg</hinh_nho>
         <gioi_thieu>When Robert Kirkman kept bugging Brian K. Vaughan to let him publish a deluxe hardcover, The Cloudburst Edition, of the digital comic The Private Eye, Brian 'joked that Image could have The Private Eye if Panel Syndicate could have The Walking Dead... but much to [their] surprise, Robert actually agreed to that insane deal.'</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-walking-dead-the-alien-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the wicked righteous" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>the wicked righteous</ten_truyen>
+		<ma_truyen>the-wicked-righteous</ma_truyen>
+        <tac_gia>Terry Mayo, Chris Hall, Lucas Romero, Brandon DeStefano</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-wicked-righteous/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Biological warfare has decimated the earth's population, leaving two distinct groups of survivors in its wake. In San Diego, four teenage brothers rescue a young girl from a brutal gang of psychopaths and spark a chain of events that attracts an onslaught of unspeakable evil. This is the world of the Wicked and the Righteous... and the children will lead them all.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-wicked-righteous-eng.xml</file_xml>
     </truyen>
 	<truyen ten="the wild storm" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>the wild storm</ten_truyen>
