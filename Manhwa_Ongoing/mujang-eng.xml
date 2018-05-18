@@ -3,9 +3,25 @@
     <noi_dung>
 
         <!-- https://mangapark.me/manga/mujang-kim-chul-hyun -->
-		<!-- thieu chap 224 -->
 
 		<!-- them -->
+
+		<!-- chap 229 -->
+		<chuong ten_chuong="chap 229"><hinh>http://file-comic-4n1.anyacg.co/images/78/50/7850e87a5fbc5a8e8506b49ee99231fc89851942_105633_700_1987.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 229"><hinh>http://file-comic-4n1.anyacg.co/images/e1/38/e138e713bb88e1a41e577ee294ca8b4ee5e43204_393165_700_7024.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 229"><hinh>http://file-comic-4n1.anyacg.co/images/80/22/802236e45e2dfe942d73e99d0a531df214f2390e_352288_700_5261.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 229"><hinh>http://file-comic-4n1.anyacg.co/images/13/cd/13cdd61f290e3d9f9a2dcc184e431e8c95dd43d4_275299_700_5328.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 229"><hinh>http://file-comic-4n1.anyacg.co/images/fa/b4/fab473c1edf60c75d3b34b15640ac437ddffde5b_365471_700_5701.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 229"><hinh>http://file-comic-4n1.anyacg.co/images/87/75/8775b494d3e22e3d72bc3562a0dc1951e2930f88_318314_700_4575.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 229"><hinh>http://file-comic-4n1.anyacg.co/images/f2/e5/f2e5c09664d2f23cb1a59282951850ef59672842_243197_700_4306.jpg</hinh></chuong>
+
+		<!-- chap 228 -->
+		<chuong ten_chuong="chap 228"><hinh>http://file-comic-4n1.anyacg.co/images/c8/35/c83507c2b2d060560c411964a982c1748f01e87d_105720_700_1987.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 228"><hinh>http://file-comic-4n1.anyacg.co/images/31/10/311099c3c0319edb8b2a0e2e26bb78f3fe53ca69_439531_700_6638.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 228"><hinh>http://file-comic-4n1.anyacg.co/images/15/da/15da83d19636001c682917015bd9242b219436de_371298_700_5591.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 228"><hinh>http://file-comic-4n1.anyacg.co/images/0c/04/0c0460862a39b7cce3704005c91753022f8e8312_348470_700_5749.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 228"><hinh>http://file-comic-4n1.anyacg.co/images/e7/05/e705d9e84814bf9dd797e6742b941b9bc24c9490_326386_700_5515.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 228"><hinh>http://file-comic-4n1.anyacg.co/images/b2/cf/b2cfd308c50f77abb83538b581a562d3cbc2e3fe_396962_700_6631.jpg</hinh></chuong>
 
 		<!-- chap 227 -->
 		<chuong ten_chuong="chap 227"><hinh>http://file-comic-4n1.anyacg.co/images/69/fd/69fd858d1001b8fb392fb97e7b83892cd13dbdc8_105615_700_1987.jpg</hinh></chuong>
@@ -31,6 +47,16 @@
 		<chuong ten_chuong="chap 225"><hinh>http://file-comic-4n1.anyacg.co/images/28/60/2860331e9bea9e4c171a46aa96114a9439e38bd7_196840_700_4166.jpg</hinh></chuong>
 		<chuong ten_chuong="chap 225"><hinh>http://file-comic-4n1.anyacg.co/images/27/f5/27f5dd2b145b016dc1865b3d029535df5ff96de4_264334_700_5841.jpg</hinh></chuong>
 		<chuong ten_chuong="chap 225"><hinh>http://file-comic-4n1.anyacg.co/images/2d/08/2d08ad48fc56ca69a4ce73a0449f18c91c9dec5b_366341_700_7194.jpg</hinh></chuong>
+
+		<!-- chap 224 -->
+		<chuong ten_chuong="chap 224"><hinh>http://file-comic-4n1.anyacg.co/images/38/c4/38c4fec36640d29b3c3bebb1ead102b11290a5c1_93215_700_1618.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 224"><hinh>http://file-comic-4n1.anyacg.co/images/70/bc/70bc76a5c5280fdf4f72414c9f66196be4dba34e_312022_700_6672.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 224"><hinh>http://file-comic-4n1.anyacg.co/images/b1/e9/b1e9852ee24af8e76579192c080cfe3353380217_288782_700_6586.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 224"><hinh>http://file-comic-4n1.anyacg.co/images/b7/1d/b71df017def888dec550f5f5a9c07c0072768421_238627_700_6120.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 224"><hinh>http://file-comic-4n1.anyacg.co/images/5b/f3/5bf360269926a387b777e3839531b6a5f85d6e29_224571_700_5878.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 224"><hinh>http://file-comic-4n1.anyacg.co/images/65/24/65245ac490fe964e29cfc0d35129886e68e074df_210983_700_5550.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 224"><hinh>http://file-comic-4n1.anyacg.co/images/c6/71/c6712c3d290f78f535bf573bc23c9327c638708f_210297_700_4800.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 224"><hinh>http://file-comic-4n1.anyacg.co/images/db/82/db820b64e14aac023e9532a3b47f82512b5061e3_109635_700_2969.jpg</hinh></chuong>
 
 		<!-- chap 223 -->
 		<chuong ten_chuong="chap 223"><hinh>http://file-comic-4n1.anyacg.co/images/28/eb/28eb1391ed8b439a42d9321a7e719d65dc5f4f09_93301_700_1618.jpg</hinh></chuong>
