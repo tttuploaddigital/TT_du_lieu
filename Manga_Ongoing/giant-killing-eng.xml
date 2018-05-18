@@ -3,9 +3,32 @@
     <noi_dung>
 
         <!-- http://mangapark.me/manga/giant-killing -->
-		<!-- thieu chap 238 239 240 248 -->
+		<!-- thieu chap 239 240 248 -->
 
 		<!-- them -->
+
+		<!-- chap 251 -->
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/c5/fe/c5feec95d555f2aa3f74949e02c0dec9f85c4e5d_91336_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/30/69/3069f128002077c090b80ae8179e7b2bccb3d013_291603_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/7b/bc/7bbcc0f4e62f5d403d1ece555638719d875743a4_268336_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/f7/02/f702ef9cebf0b47f8ce7e1c183b01226ff3fc88c_280706_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/de/c6/dec63523e2ee350096ad98f713a035fce92a2e47_246695_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/67/13/6713a5a97bf308e9ee044376b171b96569ba4859_260790_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/81/41/8141e51e0eac30ab0a9206cca07371d988787061_383667_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/9e/41/9e419459f9ff841fc5263f42b92a9e6fba879dd8_278349_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/a3/b2/a3b2dfcbd700204b7a55f9805a945871aa3409e8_267048_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/3d/f7/3df7706075bbf1c4134ed0ac3f25c514f934bab4_301848_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/91/21/9121b3b3a5df9df1bac9330d2e9ea7aeaaadf4ee_249122_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/b6/b5/b6b54a1c51c23101077af51501a941ad4a95b981_283522_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/d8/8b/d88b404808038af5098bb1b84ed6e088e6c8129a_250567_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/79/21/7921fe7cedd61e784d06d0851a6c38061285e850_273011_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/83/2d/832df0191f2b0a7d203dec2b0126cc5ab82008af_279978_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/7d/9e/7d9efa124991d977bb7f9928bc94674ed907aad9_308033_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/98/b5/98b50b9007f0b6bfdfe6edb6baefbc85a6597b5b_303326_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/e8/6d/e86de738c7a4ecb35295853c2e3e85ee8b5ff1dd_307288_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/e1/bc/e1bc7aad30fbcc2943754070338bfcfadc232069_298452_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/43/5b/435bf22005cf81dcfcc8156c516ceced7b17c8e5_272644_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 251"><hinh>http://file-comic-4n1.anyacg.co/images/f0/89/f08912c780cb3f222a69a787f4a7b8e9068f06db_35346_870_1262.jpg</hinh></chuong>
 
 		<!-- chap 250 -->
 		<chuong ten_chuong="chap 250"><hinh>http://file-comic-4.anyacg.co/images/c9/ab/c9ab40ee57f9d95cd5ee29a1aa530561ff4c2a19_348129_870_1352.jpg</hinh></chuong>
@@ -230,21 +253,99 @@
 		<chuong ten_chuong="chap 241"><hinh>http://file-comic-4.anyacg.co/images/1e/4c/1e4c4ba268bd3e407808d13a16fe009f52a0d8f1_25916_870_1262.jpg</hinh></chuong>
 		<chuong ten_chuong="chap 241"><hinh>http://file-comic-4.anyacg.co/images/a0/4c/a04c51f4215aa9492de5dc40a36b825f14cc5d95_13666_870_1262.jpg</hinh></chuong>
 
+		<!-- chap 238 -->
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/76/ed/76ed4cbfd46f2a3dcf25ffb040d92aa6470d2586_238534_870_1352.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/a1/72/a1726217e7ae6eef71ed36ea3416dc494ae2ac82_500139_1738_748.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/43/66/4366ee89251eee5eaf5a9cde5e3969c3e2d763ca_222070_1740_1171.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/07/c8/07c839607765edf500875960f9bd1d535fd5c11d_6743_869_1260.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/9a/c5/9ac585a57037c77d0e66debf1e5c3d382ee3795f_120878_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/5f/9a/5f9a6fa9d5cc9f89eee2e4374331eff08c3e2d31_176531_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/53/6c/536c171d665612057cc9098bc6d0fe71e81ac572_284596_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/e4/41/e44144bfddfcf53c31d1a86e8ae0ef8193c5b959_286439_869_1260.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/30/a7/30a772b505f41cff49e28d3fbad1c7ffa4ff7538_267069_869_1260.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/ed/d9/edd99eb835add31cd181ed74396691293f7e8654_254470_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/2a/65/2a65386827a20c1c22e10b6290c1435b73fb2e4d_188630_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/b5/de/b5defa1d920519a02fce43342c9b85cac00203f4_254355_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/cb/69/cb69a62573dc29536ea9ff58a09db4be90df4e71_309464_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/51/e6/51e63beefe3456b728aa9d2001fe903ff4039301_273179_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/33/08/3308c2005ba47cdf525314876191549fafb78cde_246579_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/2f/16/2f16d0ab0a6d91c529548114a7ad0b9d34412bcc_222989_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/36/d4/36d4e9ec591c49983f9cedceb95cb25486b3c478_282367_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/32/ca/32ca71508c0936084f7d62eb99dbe71145ed7f3a_244539_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/dd/5c/dd5cadcc964e0e40b18373fffadccefff3679695_226838_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/93/e6/93e62ed2448b75a1f2bdd746a9b70b128e6fb788_232282_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/4b/fb/4bfb45592f8da589e969a2a076a7a43be673e6e8_235504_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/28/ae/28aeb220e8b23e379ee06301319a1eaf6c247e5a_309609_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/14/4d/144dbda8662b8a895be9610f9abd88d089900ccb_229823_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/16/d2/16d270dc3b99d3b25a329bf2c3e05a54db587614_250428_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/a6/fd/a6fdcf400f1e868e66659925c25a54c37620f6ba_250184_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/cc/45/cc45bf86b29d45dd7af54b32353cc9cb48a22d91_187178_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/50/92/50929f4f42c9ad76775e7deb8c9ab9231c08dd1f_13965_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/a0/4c/a04c51f4215aa9492de5dc40a36b825f14cc5d95_13666_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/17/6f/176f0f6fbf464129485080b9253095b6d7932e2f_238469_870_1352.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/51/11/5111b5b22a0783ce240a4d8c3ff726dcb82da80f_267205_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/ea/5d/ea5d0b2423a60bbdd8ffa9a9777a7c887e89f97d_254653_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/6a/8c/6a8c94f1573abe10cfc20e2de7f15561dcfe158f_227827_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/59/c1/59c1c82488745246bc60c77b002c9ffd4f66971c_283496_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/05/f5/05f57b3e45646ca43cbecbd986b446892ee0f7a5_286978_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/5d/74/5d74f2cd746496cf02cc7e08fc882f343eefa638_243923_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/46/9d/469dff7a8379472fd42f44c4202ba347ef2cfdfd_299117_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/c9/dc/c9dcfc6a791d2a47fc9a5ee5912973742514753e_302925_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/b4/c8/b4c889c4341e77549a51188e752dc0bcaa0f1695_306242_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/83/17/831758d3986a6611a3cc4e5394a07b49a36ab508_278773_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/29/08/2908230c37ad99daefc6b503ec2153705075c7fa_340096_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/31/c4/31c465f66c725c49fe540dd542099b76c25ad3e8_251139_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/ba/37/ba375a741eb87fbe62e1206616d4f82c3a1302ab_175696_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/1b/1c/1b1cbe5a1e53fbe057cee068bd36a9370f9bc52e_287097_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/13/be/13be524619590bebc1e861f9f8cf693ab7b7c6c2_267667_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/ce/da/ceda7a5fde173d2fdd55b0ed4c6f8ac2127399f7_293029_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/4f/92/4f92172ac4430f1fe4cdfea4b8b1ce0781e5b27e_235016_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/67/c7/67c758d8488e26c60f3bf78cd65a54279c3d3999_228038_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/72/9c/729c4fcbc5ba5c86b9074d214a228ba46d3a8d39_273078_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/ff/62/ff6282debb3aa3dcf04edd24d2384c78678939e1_207831_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/fb/96/fb9676efaf63a9b6f86ad3b54028c2c5e83b52ee_23449_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/a0/4c/a04c51f4215aa9492de5dc40a36b825f14cc5d95_13666_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/e3/d0/e3d049ce84b9dc69c752ab3984180abec27b559e_238600_870_1352.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/3f/c8/3fc89d4de739c082c9b6c337d855751b6b06a0ee_295841_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/59/c0/59c0dd88f461aa8a8d89a4d4c2cde385a9f94080_324418_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/4f/1b/4f1b3eb263bd2a049eff13b9198683f5896ef649_332527_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/17/a0/17a0b0ecf2e69da5c650b12c89115d2400262540_263505_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/37/36/37364b215d316a32fdd5d6cc2b306540f5cf2959_237400_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/f0/3e/f03ec4b90d13fd80df003626929c065cd66b5e8d_254632_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/95/d8/95d8bd318ce1af4f8b36c7285babe645d96e047a_283795_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/4d/ad/4dada2839f2e88dcea6c531ab7aba2faa1b93411_251396_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/fe/11/fe11b9a5ce2f906014ba180d8b2eda27d5e34b92_311879_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/d3/62/d3629d69c69cd23738283ad0ab8572bf0be369b4_251796_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/52/6d/526dfef0995b74d0bd1f46b73c0f49b391683181_279973_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/9b/8c/9b8c42912258027dc69cbbd025d16a6a2562433f_282719_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/9d/12/9d127a5fa1321486eacf08864d2074e57f370fd0_191617_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/76/38/763853510fe70f7ac4abec3fbd071b268b0be7ce_346577_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/ad/5b/ad5b283abc3bbfb8119f81618b0354704bf2875b_305701_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/6b/52/6b521cda6befe7dc509309e939786d3e2354d334_270677_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/3e/c0/3ec0a17211179ad14e762c45391862ff855245a5_294110_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/63/1d/631db5af352b12f6c5ffc33fd52722fb5cbbb962_290516_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/93/70/937083b5dc7d88b056fb20894be2ca604c56cf6a_218702_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/97/83/9783b080da989009fd2095938dff406f1e16a31f_285645_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/6f/6d/6f6d2065d4f936835bfa529471733fe5167d110d_263110_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/57/09/570933a1a11f47873839cfa9617e1ea782e3ebb5_244929_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/ef/97/ef9721b3f37bc872c19f59e9f37e1af2aec15974_58040_870_1262.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 238"><hinh>http://file-comic-4.anyacg.co/images/a0/4c/a04c51f4215aa9492de5dc40a36b825f14cc5d95_13666_870_1262.jpg</hinh></chuong>
+
 		<!-- chap 237.5 -->
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/1.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/2.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/3.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/4.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/5.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/6.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/7.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/8.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/9.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/10.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/11.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/12.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/13.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 237.5"><hinh>http://file-image.mpcdn.net/3073/1118732/14.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/cc/84/cc8431f88b3dd1339d602f7438ad8ff36fe075fa_203707_800_1244.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/20/b2/20b20fa3a7754c8ef4071e4b12753b886101a830_155550_800_1161.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/a5/e6/a5e6419e3d352dc27eeb16e664318ca89a212d90_180645_800_1161.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/42/78/4278691368275198a8c827a879e264b85e17a3fa_168672_800_1161.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/4e/13/4e139b77b863a8bfe4ea91c696ce20e1f78fc332_199325_800_1161.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/79/8e/798ec6c7e04ded003953ac1bfd713d7d892eaf82_205795_800_1161.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/45/a4/45a4d9c8625ac0025b07083baff1c85724e666e8_262549_800_1161.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/80/a7/80a7a28fbc5f2a151d5c8ad4213bfbc2b140562b_211529_800_1161.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/99/a2/99a22b6778fcdd5074c557bd6773c0ab67501857_196114_800_1161.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/01/22/0122469b8b534c0d7e866ea34ef0bc1e7948c620_201298_800_1161.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/1a/40/1a40856c9dba319bff7b175f256484a12ca6ba8c_194185_800_1161.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/c4/08/c408257c6f8754baf120d72128b4f13ae36b8ca4_201859_800_1161.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/15/f4/15f466e1885a5275acf4b86e4ba2ff31294ab841_147708_800_1161.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 237.5"><hinh>http://file-comic-4.anyacg.co/images/55/e0/55e020377d5c5f686867dcb9bce6ed064546cd41_17586_800_1161.jpg</hinh></chuong>
 
 		<!-- chap 237 -->
 		<chuong ten_chuong="chap 237"><hinh>http://file-image.mpcdn.net/3073/1118731/1.jpg</hinh></chuong>
