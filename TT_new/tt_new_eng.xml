@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="xingkong club" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Gender bender, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manhua - read from right to left">
+		<ten_truyen>xingkong club</ten_truyen>
+		<ma_truyen>xingkong club</ma_truyen>
+		<tac_gia>Xuemao</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/38725/1/200.jpg</hinh_nho>
+		<gioi_thieu>The curse of twelve stars, a girl who plays piano with a dream of becoming a chef, because of an odd job that she pretends to be a boy. What's waiting for Yue Hui is a mysterious mansion and 12 boys who have the curse of 12 stars which fall upon each of them. What's awaiting her? Where are her and the boys' destiny leading to? A love song for 1000 years, the legend of 12 beautiful stars, everything is in?Starry Night Club?</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/xingkong-club-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="soul contract" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua - read from right to left">
+		<ten_truyen>soul contract</ten_truyen>
+		<ma_truyen>soul contract</ma_truyen>
+		<tac_gia>Ping Zi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/43071/1/200.jpg</hinh_nho>
+		<gioi_thieu>Poverty-strikened Yang Jinghua dies in an accident. The moment he wakes up, he seems ten years younger. At first, Yang Jinghua thought he was reborn. However a white-haired, rich and handsome man, named Duanmu Xi, reveals the truth. In order to stay in the world, Yang Jinghua must become Duanmu Xi's soul image and therefore, creates a soul contract that binds both their souls.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/soul-contract-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="cupid's chocolates" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Harem, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manhua - read from right to left">
+		<ten_truyen>cupid's chocolates</ten_truyen>
+		<ma_truyen>cupid-s-chocolates</ma_truyen>
+		<tac_gia>Vivian</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/37299/1/200.jpg</hinh_nho>
+		<gioi_thieu>Jiang Hao, a normal, high school student who is extremely scared of getting into trouble suddenly becomes the Harem King of his school and gets confessed to by a bunch of beautiful girls! The worst thing is, Jiang hao doesn't know any of the girls who confessed to him! What on earth is happening? This is a manga that shouldn't be missed by fans of the harem genre!</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/cupid-s-chocolates-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="star wars: the last jedi adaptation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>star wars: the last jedi adaptation</ten_truyen>
 		<ma_truyen>star-wars-the-last-jedi-adaptation</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>A NEW CAN'T-MISS ONGOING SERIES! From acclaimed writer Christos Gage (Netflix's Daredevil) and superstar artist Tomas Giorello (X-O MANOWAR), the United Kingdom's most dreaded intelligence operative delves into the cold, calculating world of espionage and international intrigue!nFor nearly a century, MI-6, the most elite branch of Britain's clandestine intelligence service, has honed a ruthlessly effective, top-secret division - THE NINJA PROGRAMME - into one of its nation's most finely wielded weapons. Tasked as the first and last line of defense for queen and country, this small shadow army of agents and assassins has produced a succession of notable assets, including NINJA-A, the Queen's silent weapon of World War I; NINJA-E, the globe-trotting secret agent that pulled the Cold War back from the brink of Armageddon; and, most recently, NINJA-K, aka Colin King, a brash but fearless instrument of lethality that has saved the world from madmen and terror at every turn. But now... an unknown enemy is hunting and killing members of THE NINJA PROGRAMME one by one and NINJAK is next on the list.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ninja-k-eng.xml</file_xml>
     </truyen>
-	<truyen ten="waratte! sotomura-san" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4 koma, Comedy, School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>waratte! sotomura-san</ten_truyen>
-		<ma_truyen>waratte-sotomura-san</ma_truyen>
-		<tac_gia>Minamori Minamo</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/10968/2/200.jpg</hinh_nho>
-		<gioi_thieu>Sotomura is a high-school girl widely regarded as a delinquent, feared and avoided by many of the school body. From her light-brown hair down to her long skirt and harsh manner of speaking, she completely seems the part. But after Sotomura rescues a girl named Haruno from some bullies, Haruno decides to try to get to know her better. Haruno is surprised to find out that Sotomura isn't a delinquent at all and is, in fact, just a very socially awkward girl that's bad with words and wants to make friends. She enjoys cooking, handicrafts, and hitting the supermarket sales. She also loves cute and fancy things, but she tries to hide that fact because she feels they don't suit her looks. Haruno's first step in helping Sotomura is to try to teach her how to smile, because whenever she tries, it ends up as a scary grin. Thus begins the story of Sotomura's attempts to make new friends.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/waratte-sotomura-san-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="biorg trinity" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>biorg trinity</ten_truyen>
-		<ma_truyen>biorg-trinity</ma_truyen>
-		<tac_gia>Maijou Outarou, Oh! Great</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/1195/4/200.jpg</hinh_nho>
-		<gioi_thieu>Biorg Trinity follows Fujii, a high-school student who is in love with Enomoto Fumiho. He lives in a world where people are touched by a rare "illness" called the Biorg Bug. One day Fujii catches the bug which makes holes in the shape of hearts on his hands. What will happen to him now?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/biorg-trinity-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="velvet kiss" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Drama, Ecchi, Harem, Mature, Romance, Seinen, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>velvet kiss</ten_truyen>
-		<ma_truyen>velvet-kiss</ma_truyen>
-		<tac_gia>Harumi Chihiro</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/10850/1/200.jpg</hinh_nho>
-		<gioi_thieu>Nitta Shin finds himself saddled with a sudden, crushing debt. His loan agent tells him he can escape repayment if he keeps a particular woman company. He gradually learns that this arrangement might not be as easy as he once thought.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/velvet-kiss-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
