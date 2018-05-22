@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="drug candy" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, Seinen, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
+		<ten_truyen>drug candy</ten_truyen>
+		<ma_truyen>drug-candy</ma_truyen>
+		<tac_gia>Lee Hyun-min</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/35906/1/200.jpg</hinh_nho>
+		<gioi_thieu>Marriage is in shambles. But still their pride stops them from seeking each other. Thats when both drift out to get the taste of some 'Drugcandy' (adultery). A tale of two people exploring out of their relationship.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/drug-candy-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="red string" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, Romance, School life, Shounen., Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
+		<ten_truyen>red string</ten_truyen>
+		<ma_truyen>red-string</ma_truyen>
+		<tac_gia>Dong Bi</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27501/3/200.jpg</hinh_nho>
+		<gioi_thieu>The story of a boy and girl whose lives were one day entwined by red string. Literally.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/red-string-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="she is young" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Mature, Romance, Seinen, Smut, Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
+		<ten_truyen>she is young</ten_truyen>
+		<ma_truyen>she-is-young</ma_truyen>
+		<tac_gia>Donggulgom, Js</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/35625/1/200.jpg</hinh_nho>
+		<gioi_thieu>19 years old she vs 31 years old she. Is she two individuals? The childhood version of her came beyond time to meet her boyfriend. The current girlfriend and young girlfriend faces confusion and bewilderment?</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/she-is-young-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="xingkong club" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Gender bender, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manhua - read from right to left">
 		<ten_truyen>xingkong club</ten_truyen>
-		<ma_truyen>xingkong club</ma_truyen>
+		<ma_truyen>xingkong-club</ma_truyen>
 		<tac_gia>Xuemao</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
 		<hinh_nho>https://file-thumb.mpcdn.net/38725/1/200.jpg</hinh_nho>
@@ -11,7 +38,7 @@
 	</truyen>
 	<truyen ten="soul contract" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua - read from right to left">
 		<ten_truyen>soul contract</ten_truyen>
-		<ma_truyen>soul contract</ma_truyen>
+		<ma_truyen>soul-contract</ma_truyen>
 		<tac_gia>Ping Zi</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
 		<hinh_nho>https://file-thumb.mpcdn.net/43071/1/200.jpg</hinh_nho>
@@ -243,31 +270,4 @@
 		<gioi_thieu>Top student Wang Fei has always dreamt about becoming a Judge, a pillar of light and justice for the people! However fate isn't on his side and he ends up going to a high school for delinquents. How is he going to survive? Will he rise to the top or be gobbled up in the chaos of the hell that is Shiji High School?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/the-strongest-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="captain america (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>captain america (2017)</ten_truyen>
-		<ma_truyen>captain-america-2017</ma_truyen>
-        <tac_gia>Mark Waid, Chris Samnee</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-america-(2017)/695_medium.jpg</hinh_nho>
-        <gioi_thieu>HOME OF THE BRAVE begins - and Steve Rogers is back in action in the red-white-and-blue! Steve begins a journey across America to restore his tarnished reputation - and the dangers he encounters along the way are unlike any he`s faced before!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-america-2017-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="venomized" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>venomized</ten_truyen>
-		<ma_truyen>venomized</ma_truyen>
-        <tac_gia>Cullen Bunn, Iban Coello</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/v/venomized/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The story that began in VENOMVERSE reaches its epic conclusion with VENOMIZED! The POISONS, a species that hungers for super-powered symbiotes and their hosts, have picked their next target... THE MARVEL UNIVERSE ITSELF! Their first objective? Put every superhuman in a Klyntar symbiote - and CONSUME THEM! But with VENOM and the X-MEN still missing after the events of "Poison-X," the planet and its heroes are defenseless!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venomized-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="ninja-k" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>ninja-k</ten_truyen>
-		<ma_truyen>ninja-k</ma_truyen>
-        <tac_gia>Christos N. Gage, Tomas Giorello</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/ninja-k-(2017)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A NEW CAN'T-MISS ONGOING SERIES! From acclaimed writer Christos Gage (Netflix's Daredevil) and superstar artist Tomas Giorello (X-O MANOWAR), the United Kingdom's most dreaded intelligence operative delves into the cold, calculating world of espionage and international intrigue!nFor nearly a century, MI-6, the most elite branch of Britain's clandestine intelligence service, has honed a ruthlessly effective, top-secret division - THE NINJA PROGRAMME - into one of its nation's most finely wielded weapons. Tasked as the first and last line of defense for queen and country, this small shadow army of agents and assassins has produced a succession of notable assets, including NINJA-A, the Queen's silent weapon of World War I; NINJA-E, the globe-trotting secret agent that pulled the Cold War back from the brink of Armageddon; and, most recently, NINJA-K, aka Colin King, a brash but fearless instrument of lethality that has saved the world from madmen and terror at every turn. But now... an unknown enemy is hunting and killing members of THE NINJA PROGRAMME one by one and NINJAK is next on the list.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ninja-k-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
