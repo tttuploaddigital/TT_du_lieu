@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="spirit migration" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Mystery, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>spirit migration</ten_truyen>
+		<ma_truyen>spirit-migration</ma_truyen>
+		<tac_gia>Hero Tennki, Akane Kotetsu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/29864/5/200.jpg</hinh_nho>
+		<gioi_thieu>A spirit was floating in another world's dungeon, missing its memories. Eventually "he" learned to possess other creatures and using the bodies of the beasts in the dungeon, made his way to the outside world. Dragging a young female knight, a pretty young lady, and even a beautiful mercenary into the mix, our protagonist begins his great adventure in this world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/spirit-migration-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tsuyokute new saga" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>tsuyokute new saga</ten_truyen>
+		<ma_truyen>tsuyokute-new-saga</ma_truyen>
+		<tac_gia>Abe Masayuki, Miura Jun</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
+		<gioi_thieu>The Demon King led his army of demons to wipe out the human race. The Hero, Kail, and his allies attacked the Demon King's castle to defeat the Demon King. The Demon King is slain, but at what cost? Kail lost all of his allies throughout the war. Friends, family, lovers, comrades. All dead, and he is dying. As Kail's life ebbs away in the Demon King's chamber, he notices a strange gem that the Demon King had coveted and approaches this relic to grab it; after an intense light glows, he is sent years into the past. After recovering from the initial shock, now in his younger body, he decides to avoid making the same mistakes of his first time through these years and to become stronger.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="mahouka koukou no rettousei - tsuioku hen" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mystery, Romance, School life, Sci-fi, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>mahouka koukou no rettousei - tsuioku hen</ten_truyen>
+		<ma_truyen>mahouka-koukou-no-rettousei-tsuioku-hen</ma_truyen>
+		<tac_gia>Satou Tsutomu, Ikawa Waki</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27000/3/200.jpg</hinh_nho>
+		<gioi_thieu>"Three years ago, he had the same posture. Three years ago, he had stood behind Miyuki. Yes.... Compared to three years ago, it had changed." Set three years prior to the present time, Tsuioku Hen tells the events that would change Miyuki's world drastically, as well as the events that led Tatsuya to become what he is now.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mahouka-koukou-no-rettousei-tsuioku-hen-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="drug candy" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, Seinen, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
 		<ten_truyen>drug candy</ten_truyen>
 		<ma_truyen>drug-candy</ma_truyen>
