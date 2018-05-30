@@ -1521,13 +1521,4 @@ Manga này được upload dành cho Grace đến từ Vương quốc Anh thông
 		<gioi_thieu>Koragashi, một chàng trai trẻ hành nghề tâm linh năng lực giả, có tiền sử bị hất hũi từ nhỏ, do có khả năng nhìn thấy vong linh của người đã khuất. Một ngày, khi đang tiếp tục rong rũi đầu đường xó chợ, cậu nhận được lời đề nghị trừ tà cho nhà khách Yuragi và từ đó, mọi chuyện bắt đầu...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuragi-sou-no-yuuna-san-viet.xml</file_xml>
 	</truyen>
-	<truyen ten="all-star batman" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Kiểu" kieu_truyen="Comic - đọc từ trái sang phải">
-		<ten_truyen>all-star batman</ten_truyen>
-		<ma_truyen>all-star-batman</ma_truyen>
-        <tac_gia>Declan Shalvey, Danny Miki, John Romita Jr., Scott Snyder</tac_gia>
-		<tinh_trang>Tiếp tục</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/all-star-batman/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Đang cập nhật</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/all-star-batman-viet.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
