@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<truyen ten="uratarou" tinh_trang_truyen="het" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Ecchi, Historical, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="uratarou" tinh_trang_truyen="het" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Ecchi, Historical, Seinen" nhan_kieu_truyen="Kiểu" kieu_truyen="Manga - đọc từ phải sang trái">
 		<ten_truyen>uratarou</ten_truyen>
 		<ma_truyen>uratarou</ma_truyen>
 		<tac_gia>Nakayama Atsushi</tac_gia>
@@ -15,7 +15,7 @@
 		<tac_gia>Hoshitsuki Koneko, Iwamoto Kenichi</tac_gia>
 		<tinh_trang>Tiếp tục</tinh_trang>
         <hinh_nho>https://file-thumb.mpcdn.net/49930/1/200.jpg</hinh_nho>
-		<gioi_thieu>Một thế giới mà cấp độ quyết định tất cả, nghề nghiệp của mỗi người thì cũng đều được quyết định ngay từ khi sinh ra. Đấu sĩ, Chiến binh, Triệu hồi sư, Ẩn sĩ, Thợ săn, bla bla ... Những chức nghiệp này mạnh thì chả có gì đáng nói cả, thế còn một chức nghiệp mà ai cũng xem thường ... "Thường dân" thì sao? Các bạn đã bao giờ nghe đến anh nông dân tay không tát lệch mồm quái vật bao giờ chưa? Chưa thì giờ xem nè. Tóm lại thanh niên class "Thường dân" lv999 bá đạo đi lòng vòng bem quái, hết!</gioi_thieu>
+		<gioi_thieu>Một thế giới mà cấp độ quyết định tất cả, nghề nghiệp của mỗi người thì cũng đều được quyết định ngay từ khi sinh ra. Đấu sĩ, Chiến binh, Triệu hồi sư, Ẩn sĩ, Thợ săn, bla bla ... Những chức nghiệp này mạnh thì chả có gì đáng nói cả, thế còn một chức nghiệp mà ai cũng xem thường ... 'Thường dân' thì sao? Các bạn đã bao giờ nghe đến anh nông dân tay không tát lệch mồm quái vật bao giờ chưa? Chưa thì giờ xem nè. Tóm lại thanh niên class 'Thường dân' lv999 bá đạo đi lòng vòng bem quái, hết!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/lv999-no-murabito-viet.xml</file_xml>
 	</truyen>
 	<truyen ten="made in abyss" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Adventure, Fantasy, Sci-fi, Seinen" nhan_kieu_truyen="Kiểu" kieu_truyen="Manga - đọc từ phải sang trái">
