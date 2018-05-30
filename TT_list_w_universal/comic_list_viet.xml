@@ -54,7 +54,7 @@
         <gioi_thieu>Trọng tâm chính của bộ truyện này sẽ xoay quanh gia đình Rhodes. Một gia đình đầm ấm, khi mà 2 vợ chồng vẫn sống trong hạnh phúc cùng với 2 cậu con trai. Thế nhưng định mệnh đẩy đưa khiến cho gia đình của họ phải tan vỡ, khi mà cậu con trai út Mikey đã mất tích trong rừng ngay vào ngày sinh nhật của cậu. Đối với gia đình Rhodes, mất đi đứa con trai đã là điều đau thương nhất từng xảy ra trong đời họ. Thế nhưng, họ chưa hề chuẩn bị tinh thần rằng, chuyện gì sẽ xảy ra khi cậu con trai mất tích của họ đột nhiên trở về.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/birthright-viet.xml</file_xml>
     </truyen>
-	<truyen ten="cyborg (2016)" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Adventure, Life sucks, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - đọc từ trái sang phải">
+	<truyen ten="cyborg (2016)" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Adventure, Life sucks, Sci-fi, Superhero' nhan_kieu_truyen='Type' kieu_truyen="Comic - đọc từ trái sang phải">
 		<ten_truyen>cyborg (2016)</ten_truyen>
 		<ma_truyen>cyborg-2016</ma_truyen>
         <tac_gia>Will Conrad, John Semper Jr., Paul Pelletier</tac_gia>
@@ -186,7 +186,7 @@
         <tac_gia>Tim Seeley, Javier Fernandez, Chris Sotomayor</tac_gia>
 		<tinh_trang>Tiếp tục</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/n/nightwing-(2016)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>"HƠN CẢ BATMAN" Chương Một: Batman dạy Nightwing mọi điều anh biết -- nhưng nếu mọi thứ ông dạy đều sai thì sao? Khi Dick bị mắc kẹt với người thầy mới, người thử thách mọi kiến thức Batman đã truyền cho anh, Nightwing phải đập vỡ lí tưởng công lý của chính mình để đấu tranh cho lẽ phải. Tác giả Tim Seeley (GRAYSON, BATMAN and ROBIN ETERNAL) đưa Nightwing vào một cuộc thám hiểm mới cùng với họa sĩ tài năng Javier Fernandez (RED HOOD/ARSENAL).</gioi_thieu>
+        <gioi_thieu>'HƠN CẢ BATMAN' Chương Một: Batman dạy Nightwing mọi điều anh biết -- nhưng nếu mọi thứ ông dạy đều sai thì sao? Khi Dick bị mắc kẹt với người thầy mới, người thử thách mọi kiến thức Batman đã truyền cho anh, Nightwing phải đập vỡ lí tưởng công lý của chính mình để đấu tranh cho lẽ phải. Tác giả Tim Seeley (GRAYSON, BATMAN and ROBIN ETERNAL) đưa Nightwing vào một cuộc thám hiểm mới cùng với họa sĩ tài năng Javier Fernandez (RED HOOD/ARSENAL).</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nightwing-2016-viet.xml</file_xml>
     </truyen>
 	<truyen ten="red hood and the outlaws (2016)" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Adventure, Crime, Psychological, Superhero" nhan_kieu_truyen="Kiểu" kieu_truyen="Comic - đọc từ trái sang phải">
