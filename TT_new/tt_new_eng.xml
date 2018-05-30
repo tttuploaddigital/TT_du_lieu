@@ -270,4 +270,13 @@
 		<gioi_thieu>Sweaty woman is beautiful! Martial arts, swimming, cycling, athletics, health, sticky... The girls of exercise and sexy Sports</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/sports-girl-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="a.d.: after death" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Psychological, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>a.d.: after death</ten_truyen>
+		<ma_truyen>a-d-after-death</ma_truyen>
+        <tac_gia>Scott Snyder, Jeff Lemire</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/ad-after-death/1_medium.jpg</hinh_nho>
+        <gioi_thieu>WHAT IF WE FOUND A CURE FOR DEATH? Two of comics' most acclaimed creators, SCOTT SNYDER (WYTCHES, Batman, American Vampire) and JEFF LEMIRE (DESCENDER, Moon Knight, Sweet Tooth) unite to create a three-part epic like no other, set in a future where a genetic cure for death has been found. Years after the discovery, one man starts to question everything, leading him on a mind-bending journey that will bring him face-to-face with his past and his own mortality. A unique combination of comics, prose, and illustration, A.D.: AFTER DEATH will be serialized monthly as three oversized prestige format books written by SNYDER and fully painted by LEMIRE.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/a-d-after-death-eng.xml</file_xml>
+    </truyen>
 </danh_sach_truyen>

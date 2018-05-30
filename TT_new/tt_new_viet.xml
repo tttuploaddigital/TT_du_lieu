@@ -36,4 +36,13 @@
         <gioi_thieu>Hệ thống hang động khổng lồ, nơi duy nhất trên thế giới còn chưa được khám phá hay còn được biết đến với cái tên, Abyss. Không ai biết được mê cung bí ẩn này sâu xuống bao nhiêu, có những quái vật cũng như di tích nào. Rất nhiều nhà thám hiểm đã dấn thân vào công cuộc thám hiểm nơi đâu. Qua thờii gian, những ai có đủ can đảm để bước xuống mê cung này thường được gọi bằng cái tên Thám hiểm gia hang động. Ở Oosu, thị trấn bên rìa Abyss, có một cô bé mồ côi tên là Rico, nuôi ước trở thành một thám hiểm gia hang động như mẹ cô mà giải được bí ẩn cả Abyss. Một ngày nọ khi đang khám phá những bí ẩn bên dưới Abyss, cô đã gặp được một cậu bé robot...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/made-in-abyss-viet.xml</file_xml>
     </truyen>
+	<truyen ten="all-star batman" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Kiểu" kieu_truyen="Comic - đọc từ trái sang phải">
+		<ten_truyen>all-star batman</ten_truyen>
+		<ma_truyen>all-star-batman</ma_truyen>
+        <tac_gia>Declan Shalvey, Danny Miki, John Romita Jr., Scott Snyder</tac_gia>
+		<tinh_trang>Tiếp tục</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/all-star-batman/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Đang cập nhật</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/all-star-batman-viet.xml</file_xml>
+    </truyen>
 </danh_sach_truyen>
