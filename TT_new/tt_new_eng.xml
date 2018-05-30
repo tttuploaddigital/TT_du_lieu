@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="raven: daughter of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>raven: daughter of darkness</ten_truyen>
+		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
+        <tac_gia>Marv Wolfman, Pop Mhan, Lovern Kindzierski</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
+        <gioi_thieu>n this all-new miniseries, Raven faces a new, otherworldly menace that is all too grounded in reality. Plus, Raven's personal life is in an uproar as her mother and aunt struggle for the soul of a Titan! It's up to Baron Winters of the Night Force to intercede on her behalf as she embarks on the adventure called 'The Girls With the Anime Eyes'!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="kill or be killed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Psychological, Thriller" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>kill or be killed</ten_truyen>
+		<ma_truyen>kill-or-be-killed</ma_truyen>
+        <tac_gia>Ed Brubaker, Elizabeth Breitweiser, Sean Phillips</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/k/kill-or-be-killed/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The bestselling team of ED BRUBAKER and SEAN PHILLIPS (THE FADE OUT, CRIMINAL, FATALE) launch their new monthly series: KILL OR BE KILLED, the twisted story of a young man who is forced to kill bad people, and how he struggles to keep his secret as it slowly ruins his life and the lives of his friends and loved ones. Both a thriller and a deconstruction of vigilantism, KILL OR BE KILLED is unlike anything BRUBAKER and PHILLIPS have ever done.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kill-or-be-killed-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="justice league: no justice" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>justice league: no justice</ten_truyen>
+		<ma_truyen>justice-league-no-justice</ma_truyen>
+        <tac_gia>Scott Snyder, James Tynion IV, Joshua Williamson, Francis Manapul</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-no-justice/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DARK NIGHTS: METAL left the DCU transformed in ways both terrifying and wondrous and only the Justice League is strong enough to face the threats to come... or are they? Four giant beings comprised of the universe's major energies—Mystery, Wonder, Wisdom and Entropy-who sustain their life force by devouring planets are on their way to destroy the planet of Colu. The only way to take down this unimaginable threat is for the superhero teams of Earth to forget everything they thought they knew and form new alliances. What secrets of the cosmos will Superman, Martian Manhunter and Team Mystery discover? Will Zatanna, Wonder Woman and Team Wonder awaken alien magic they cannot put back to sleep? What can Harley Quinn possibly have to teach the rest of Team Wisdom? And most importantly... why the heck is Beast Boy on Team Entropy with Lobo and Batman? Find out all this and much more in the most exciting, bombastic event of summer 2018!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/justice-league-no-justice-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="spirit migration" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Mystery, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>spirit migration</ten_truyen>
 		<ma_truyen>spirit-migration</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/27177/1/200.jpg</hinh_nho>
 		<gioi_thieu>The story revolves around Tsunashi, the child of royalty who was left behind in the lost kingdom of Karan. He is expected by those around him to awaken his great powers that sleep within him in order to revive the kingdom - but rather than fighting, Tsunan enjoys playing in the world of books. However, he must become serious soon, as a new army is threatening to invade Karan.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ten-prism-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="why did you come to my home" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Romance, Slice of life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
-		<ten_truyen>why did you come to my home</ten_truyen>
-		<ma_truyen>why-did-you-come-to-my-home</ma_truyen>
-		<tac_gia>Lee Yun-hee</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42412/1/200.jpg</hinh_nho>
-		<gioi_thieu>The unfamiliar guy who appeared in front of Suh Jaehee, the office worker with a busy life. Remove prejudices against him!</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/why-did-you-come-to-my-home-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mujang" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Historical, Martial arts, Shounen., Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
-		<ten_truyen>mujang</ten_truyen>
-		<ma_truyen>mujang</ma_truyen>
-		<tac_gia>Kim Chul Hyun</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/37779/1/200.jpg</hinh_nho>
-		<gioi_thieu>Set during the Goryeo military regime, a hero that arises from a slave to be reborn as a general.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/mujang-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="sports girl" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Comedy, Ecchi, Harem, Mature, Shounen., Sports, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
-		<ten_truyen>sports girl</ten_truyen>
-		<ma_truyen>sports-girl</ma_truyen>
-		<tac_gia>Chance, Gamang</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/35853/1/200.jpg</hinh_nho>
-		<gioi_thieu>Sweaty woman is beautiful! Martial arts, swimming, cycling, athletics, health, sticky... The girls of exercise and sexy Sports</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/sports-girl-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
