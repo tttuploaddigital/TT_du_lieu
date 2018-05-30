@@ -981,6 +981,15 @@
         <gioi_thieu>The first major event storyline of DC's Rebirth era begins with a day Amanda Waller always knew would come: the Justice League discovers the existence of the Suicide Squad! This government-sponsored black-ops team of super-villains with bombs implanted in their brains is obviously a deal-breaker for Earth's paragons of truth and justice! But you can bet that the Wall and her Task Force X won't go down without the fight to end all fights as this weekly series gets underway!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/justice-league-vs-suicide-squad-eng.xml</file_xml>
     </truyen>
+	<truyen ten="justice league: no justice" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>justice league: no justice</ten_truyen>
+		<ma_truyen>justice-league-no-justice</ma_truyen>
+        <tac_gia>Scott Snyder, James Tynion IV, Joshua Williamson, Francis Manapul</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-no-justice/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DARK NIGHTS: METAL left the DCU transformed in ways both terrifying and wondrous and only the Justice League is strong enough to face the threats to come... or are they? Four giant beings comprised of the universe's major energies—Mystery, Wonder, Wisdom and Entropy-who sustain their life force by devouring planets are on their way to destroy the planet of Colu. The only way to take down this unimaginable threat is for the superhero teams of Earth to forget everything they thought they knew and form new alliances. What secrets of the cosmos will Superman, Martian Manhunter and Team Mystery discover? Will Zatanna, Wonder Woman and Team Wonder awaken alien magic they cannot put back to sleep? What can Harley Quinn possibly have to teach the rest of Team Wisdom? And most importantly... why the heck is Beast Boy on Team Entropy with Lobo and Batman? Find out all this and much more in the most exciting, bombastic event of summer 2018!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/justice-league-no-justice-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="keyser soze: scorched earth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Political, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>keyser soze: scorched earth</ten_truyen>
 		<ma_truyen>keyser-soze-scorched-earth</ma_truyen>
@@ -989,6 +998,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/k/keyser-soze-scorched-earth/1_medium.jpg</hinh_nho>
         <gioi_thieu>Before he was a name on special agent Dave Kujan's wall, Keyser Soze was a watchword in the criminal underworld, the ultimate boogeyman. In this prequel to the hit film The Usual Suspects, set against the backdrop of the Iran-Contra hearings, find out how Soze earned his reputation and how he first came to the attention of the U.S. Government.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/keyser-soze-scorched-earth-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="kill or be killed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Psychological, Thriller" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>kill or be killed</ten_truyen>
+		<ma_truyen>kill-or-be-killed</ma_truyen>
+        <tac_gia>Ed Brubaker, Elizabeth Breitweiser, Sean Phillips</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/k/kill-or-be-killed/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The bestselling team of ED BRUBAKER and SEAN PHILLIPS (THE FADE OUT, CRIMINAL, FATALE) launch their new monthly series: KILL OR BE KILLED, the twisted story of a young man who is forced to kill bad people, and how he struggles to keep his secret as it slowly ruins his life and the lives of his friends and loved ones. Both a thriller and a deconstruction of vigilantism, KILL OR BE KILLED is unlike anything BRUBAKER and PHILLIPS have ever done.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kill-or-be-killed-eng.xml</file_xml>
     </truyen>
 	<truyen ten="killer instinct (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>killer instinct (2017)</ten_truyen>
@@ -1259,6 +1277,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/r/raven/1_medium.jpg</hinh_nho>
         <gioi_thieu>In a tale set between TEEN TITANS #24 and TEEN TITANS: REBIRTH #1, Raven takes a break from the team and moves to San Francisco to stay with her estranged aunt and face her most perilous challenge yet: high school! As Raven discovers more about her human side, one of her classmates goes missing under mysterious circumstances, and she must face an evil like none she's known before!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/raven-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="raven: daughter of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>raven: daughter of darkness</ten_truyen>
+		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
+        <tac_gia>Marv Wolfman, Pop Mhan, Lovern Kindzierski</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
+        <gioi_thieu>n this all-new miniseries, Raven faces a new, otherworldly menace that is all too grounded in reality. Plus, Raven's personal life is in an uproar as her mother and aunt struggle for the soul of a Titan! It's up to Baron Winters of the Night Force to intercede on her behalf as she embarks on the adventure called 'The Girls With the Anime Eyes'!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
     </truyen>
 	<truyen ten="red hood and the outlaws (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Psychological, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>red hood and the outlaws (2016)</ten_truyen>
