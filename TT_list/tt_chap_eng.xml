@@ -37,16 +37,16 @@
 		<chap_moi>issue 2</chap_moi>
     </truyen>
 	<truyen>
-		<ten_truyen>mad chimera world</ten_truyen>
-		<ma_truyen>mad-chimera-world</ma_truyen>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/cc/7a/cc7ab330db52883e1c4189f82833e6938513b1d9_34470_200_310.jpg</hinh_nho>	
-		<chap_moi>chap 9</chap_moi>
-	</truyen>
-	<truyen>
 		<ten_truyen>gun x clover</ten_truyen>
 		<ma_truyen>gun-x-clover</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/3274/8/200.jpg</hinh_nho>
 		<chap_moi>chap 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mad chimera world</ten_truyen>
+		<ma_truyen>mad-chimera-world</ma_truyen>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/cc/7a/cc7ab330db52883e1c4189f82833e6938513b1d9_34470_200_310.jpg</hinh_nho>	
+		<chap_moi>chap 9</chap_moi>
 	</truyen>
 	<truyen>
 		<ten_truyen>the immortal men</ten_truyen>
