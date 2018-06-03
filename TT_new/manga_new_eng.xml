@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="yomekura" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>yomekura</ten_truyen>
+		<ma_truyen>yomekura</ma_truyen>
+		<tac_gia>Chiaki Tarou</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/43502/1/200.jpg</hinh_nho>
+		<gioi_thieu>Before she died, Taga Reiji's mother made arrangements to ensure her son would not be alone. What Taga did not know about these 'arrangements' was that he would be enrolled into a special class at the school his mother founded where prospective fiance candidates would all vie for his hand in marriage. How will Taga's new life of constantly being surrounded by girls unfold and will he be able to choose just one?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yomekura-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="back street girls - washira idol hajimemashita." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Gender bender, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>back street girls - washira idol hajimemashita.</ten_truyen>
+		<ma_truyen>back-street-girls-washira-idol-hajimemashita</ma_truyen>
+		<tac_gia>Jasmine Gyuh</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/42569/2/200.jpg</hinh_nho>
+		<gioi_thieu>A group of 3 yakuza failed their boss for the last time. After messing up an important job, the boss gives them 2 choices: Honorably committing suicide, or go to Thailand to get a sex reassignment surgery in order to becomes 'female' idols. After a gruesome year long training to become idols, they successfully debut, with overwhelming popularity, much to their dismay. This is where their tragedy truly begins.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/back-street-girls-washira-idol-hajimemashita-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="erotic fairy tales: the little mermaid" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Josei, Mature, Romance, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>erotic fairy tales: the little mermaid</ten_truyen>
+		<ma_truyen>erotic-fairy-tales-the-little-mermaid</ma_truyen>
+		<tac_gia>Takano Yumi</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/23077/2/200.jpg</hinh_nho>
+		<gioi_thieu>Lotte has always been fascinated by the surface world, but mermaids are forbidden to ever have contact with humans. One day, she finds a handsome young man adrift in a shipwreck and takes him to shore. More obsessed with the surface than ever, Lotte jumps at the chance to become human when a demon named J offers her a magic potion. But there's more to J's potion-and his intentions-than meets the eye...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/erotic-fairy-tales-the-little-mermaid-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="spirit migration" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Mystery, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>spirit migration</ten_truyen>
 		<ma_truyen>spirit-migration</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/35341/1/200.jpg</hinh_nho>
 		<gioi_thieu>Hazuki Kanon is your average female High-School Delinquent. She is often late and skips class in the nurse office, occassionally talking to the male nurse BJ (Kuronada Jun). Tamaki Daiji likes to film stuff that captivates him the instant he encounters it, disregarding consequences. His friend Kihou Tomoka tries to snap him out of it, whenever she sees him stuck while he is late for something else. One day Kanon catches his interest while she stands on the roof of the opposite building. After asking Tomoka, he decides to head to the infirmary where Kanon sleeps occasionally. Kanon wakes up to some strange guy filming her. He even has the audacity to call her 'thumb-suckling while sleeping' cute and captivating. So she decides to let him keep the footage if he promises to keep her secret.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hazuki-kanon-wa-amakunai-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="seishun buta yarou wa bunny girl senpai no yume o minai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>seishun buta yarou wa bunny girl senpai no yume o minai</ten_truyen>
-		<ma_truyen>seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-o-minai</ma_truyen>
-		<tac_gia>Kamoshida Hajime, Nanamiya Tsugumi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42856/2/200.jpg</hinh_nho>
-		<gioi_thieu>'Hey, shall we kiss?' She who was teasing me with these seductive words temporarily disappeared before my eyes. There could not be a bunny girl inhabiting a library. Azusagawa Sakuta faced a scene that toppled common sense-he encountered a bunny girl, and she is nowhere a normal bunny girl. She is Sakurajima Mai senpai, a student studying at the same school as Sakuta and a retired yet renowned actress. It was said that starting from a few days ago, those around her could no longer see her anymore, and she came to the library just to confirm this. Is this related to the hit topic on the internet, the unimaginable phenomenon known as 'the puberty syndrome'? Sakuta, wanting to know the reasons behind and get closer to Mai, decided to solve the puzzle. However, the situation then developed in an unexpected way-? In the city surrounded by the skies and the seas, the romance story of I and she began. The brand new romantic comedy presented by the Sakurasou combo.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-o-minai-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="sabaku no harem" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Fantasy, Harem, Historical, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>sabaku no harem</ten_truyen>
-		<ma_truyen>sabaku-no-harem</ma_truyen>
-		<tac_gia>Yumeki Mitsuru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/25716/3/200.jpg</hinh_nho>
-		<gioi_thieu>Mishe a strong willed girl raised from poverty has caught Prince Kallum's attention. Attention as in, 'you will become one of my concubines', thus begins Mishe's adventures into Prince Kallum's world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sabaku-no-harem-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="danberu nan kiro moteru?" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>danberu nan kiro moteru?</ten_truyen>
-		<ma_truyen>danberu-nan-kiro-moteru</ma_truyen>
-		<tac_gia>Sandrovich Yabako, Maam</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43182/1/200.jpg</hinh_nho>
-		<gioi_thieu>Sakura Hibiki is your average High-school girl, with a voracious appetite. Noticing her clothes tightening in lieu of her slowly expanding waist line she decides to look into enrolling in the nearby Silverman-Gym. There she runs into a girl from her grade named Souryuuin Akemi, who is also the Student Council President at her school. Akemi, who has a muscle fetish tries to get Hibiki to enroll in the Gym despite its high ratio of Macho-Men (which Akemi dislikes). Thankfully a beautiful Trainer named Machio appears and unknowingly convinces her to enroll and start her quest to a great body.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/danberu-nan-kiro-moteru-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
