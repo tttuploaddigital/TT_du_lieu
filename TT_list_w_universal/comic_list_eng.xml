@@ -9,6 +9,15 @@
         <gioi_thieu>WHAT IF WE FOUND A CURE FOR DEATH? Two of comics' most acclaimed creators, SCOTT SNYDER (WYTCHES, Batman, American Vampire) and JEFF LEMIRE (DESCENDER, Moon Knight, Sweet Tooth) unite to create a three-part epic like no other, set in a future where a genetic cure for death has been found. Years after the discovery, one man starts to question everything, leading him on a mind-bending journey that will bring him face-to-face with his past and his own mortality. A unique combination of comics, prose, and illustration, A.D.: AFTER DEATH will be serialized monthly as three oversized prestige format books written by SNYDER and fully painted by LEMIRE.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/a-d-after-death-eng.xml</file_xml>
     </truyen>
+	<truyen ten="abbott" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>abbott</ten_truyen>
+		<ma_truyen>abbott</ma_truyen>
+        <tac_gia>Saladin Ahmed, Sami Kivela, Jason Wordie, Taj Tenfold</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/abbott/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Hugo Award-nominated novelist Saladin Ahmed (Black Bolt) and artist Sami Kivela (Beautiful Canvas) present one woman's search for the truth that destroyed her family. Hard-nosed, chain-smoking tabloid reporter Elena Abbott investigates a series of grisly crimes that the police have ignored. Crimes she knows to be the work of dark occult forces. Forces that took her husband from her. Forces she has sworn to destroy.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/abbott-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="accell" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>accell</ten_truyen>
 		<ma_truyen>accell</ma_truyen>
@@ -1026,6 +1035,15 @@
         <gioi_thieu>King Kong is back! The giant ape who first appeared on the silver screen in 1933 (and survived inferior remakes in 1976 and 2005) will star in a six issue Boom Studios miniseries by writer James Asmus and artist Carlos Magno. Kong of Skull Island is a prequel to Merian C. Cooper's original novel and is grounded in Joe DeVito's prose story, Skull Island. It tells a new story about two giant apes clashing, even as two different civilizations must learn to live together on Skull Island, long before Carl Denham and Ann Darrow arrive.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/kong-of-skull-island-eng.xml</file_xml>
     </truyen>
+	<truyen ten="legenderry red sonja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Steampunk, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>legenderry red sonja</ten_truyen>
+		<ma_truyen>legenderry-red-sonja</ma_truyen>
+        <tac_gia>Marc Andreyko, Igor Lima</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/l/legenderry-red-sonja-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The last we saw of Red Sonja of the Legenderry world, she was living the pirate's life aboard her ship, The Nautilus. But times have changed. As she tries to rebuild her life once again, she must save the Big City from two houses divided and the star crossed love bringing them to the brink of war!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/legenderry-red-sonja-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="lobo/road runner special" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>lobo/road runner special</ten_truyen>
 		<ma_truyen>lobo-road-runner-special</ma_truyen>
@@ -1284,7 +1302,7 @@
         <tac_gia>Marv Wolfman, Pop Mhan, Lovern Kindzierski</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
-        <gioi_thieu>n this all-new miniseries, Raven faces a new, otherworldly menace that is all too grounded in reality. Plus, Raven's personal life is in an uproar as her mother and aunt struggle for the soul of a Titan! It's up to Baron Winters of the Night Force to intercede on her behalf as she embarks on the adventure called 'The Girls With the Anime Eyes'!</gioi_thieu>
+        <gioi_thieu>In this all-new miniseries, Raven faces a new, otherworldly menace that is all too grounded in reality. Plus, Raven's personal life is in an uproar as her mother and aunt struggle for the soul of a Titan! It's up to Baron Winters of the Night Force to intercede on her behalf as she embarks on the adventure called 'The Girls With the Anime Eyes'!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
     </truyen>
 	<truyen ten="red hood and the outlaws (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Psychological, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
@@ -1799,6 +1817,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-mighty-thor-(2015)/1_medium.jpg</hinh_nho>
         <gioi_thieu>When DR. JANE FOSTER lifts the mystic hammer Mjolnir, she is transformed into the Goddess of Thunder, THE MIGHTY THOR! Her enemies are many, as Asgard descends further into chaos and war threatens to spread throughout the Ten Realms. Yet her greatest battle will be against a far more personal foe: the cancer that is killing her mortal form.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-mighty-thor-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the musketeers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>the musketeers</ten_truyen>
+		<ma_truyen>the-musketeers</ma_truyen>
+        <tac_gia>Terry Kavanagh, Daniel Maine, Bryan Valenza</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/musketeers/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A new team is introduced to the Grimm Universe! A group of super-powered beings calling themselves the Musketeers has emerged in Philadelphia. Using their powers to help those in trouble - as well as giving themselves a lifestyle befitting champions - the line between hero and villain is easily blurred. While the team sees their actions as justified, the city's police force has their own ideas... ones that will see the Musketeers locked away.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-musketeers-eng.xml</file_xml>
     </truyen>
 	<truyen ten="the odyssey of the amazons" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>the odyssey of the amazons</ten_truyen>
