@@ -1,12 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="legenderry red sonja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Steampunk, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>legenderry red sonja</ten_truyen>
+		<ma_truyen>legenderry-red-sonja</ma_truyen>
+        <tac_gia>Marc Andreyko, Igor Lima</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/l/legenderry-red-sonja-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The last we saw of Red Sonja of the Legenderry world, she was living the pirate's life aboard her ship, The Nautilus. But times have changed. As she tries to rebuild her life once again, she must save the Big City from two houses divided and the star crossed love bringing them to the brink of war!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/legenderry-red-sonja-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the musketeers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>the musketeers</ten_truyen>
+		<ma_truyen>the-musketeers</ma_truyen>
+        <tac_gia>Terry Kavanagh, Daniel Maine, Bryan Valenza</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/musketeers/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A new team is introduced to the Grimm Universe! A group of super-powered beings calling themselves the Musketeers has emerged in Philadelphia. Using their powers to help those in trouble - as well as giving themselves a lifestyle befitting champions - the line between hero and villain is easily blurred. While the team sees their actions as justified, the city's police force has their own ideas... ones that will see the Musketeers locked away.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-musketeers-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="abbott" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>abbott</ten_truyen>
+		<ma_truyen>abbott</ma_truyen>
+        <tac_gia>Saladin Ahmed, Sami Kivela, Jason Wordie, Taj Tenfold</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/abbott/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Hugo Award-nominated novelist Saladin Ahmed (Black Bolt) and artist Sami Kivela (Beautiful Canvas) present one woman's search for the truth that destroyed her family. Hard-nosed, chain-smoking tabloid reporter Elena Abbott investigates a series of grisly crimes that the police have ignored. Crimes she knows to be the work of dark occult forces. Forces that took her husband from her. Forces she has sworn to destroy.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/abbott-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="raven: daughter of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>raven: daughter of darkness</ten_truyen>
 		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
         <tac_gia>Marv Wolfman, Pop Mhan, Lovern Kindzierski</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
-        <gioi_thieu>n this all-new miniseries, Raven faces a new, otherworldly menace that is all too grounded in reality. Plus, Raven's personal life is in an uproar as her mother and aunt struggle for the soul of a Titan! It's up to Baron Winters of the Night Force to intercede on her behalf as she embarks on the adventure called 'The Girls With the Anime Eyes'!</gioi_thieu>
+        <gioi_thieu>In this all-new miniseries, Raven faces a new, otherworldly menace that is all too grounded in reality. Plus, Raven's personal life is in an uproar as her mother and aunt struggle for the soul of a Titan! It's up to Baron Winters of the Night Force to intercede on her behalf as she embarks on the adventure called 'The Girls With the Anime Eyes'!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
     </truyen>
 	<truyen ten="kill or be killed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Psychological, Thriller" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/f/falcon-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>In the wake of SECRET EMPIRE, Sam Wilson has laid down the shield and taken to the sky once again! Reborn and recommitted, THE FALCON takes flight on a personal mission to reconnect with the American people and train his new partner THE PATRIOT. But when a gang war overtakes the streets of Chicago, Sam finds himself stuck in the middle of a situation far more dangerous than he could've imagined one with its roots in an unexpected corner of the Marvel Universe!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/falcon-2017-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="batman: sins of the father" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>batman: sins of the father</ten_truyen>
-		<ma_truyen>batman-sins-of-the-father</ma_truyen>
-        <tac_gia>Christos N. Gage, Raffaele Ienco, Guy Major</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-sins-of-the-father/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Based on the acclaimed videogame series from Telltale Games, this new digital-first comic tells the story of events between the first and second seasons. Someone is killing people associated with Arkham Asylum during the time Thomas Wayne was forcibly committing people there. Suspicion falls on the families suing Bruce Wayne to pay for the harm caused by his father. Batman has other ideas, but his investigation leads to him becoming the target of a deadly assassin.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-sins-of-the-father-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-men: red" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>x-men: red</ten_truyen>
-		<ma_truyen>x-men-red</ma_truyen>
-        <tac_gia>Tom Taylor, Mahmud Asrar, Travis Charset</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-red-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE FIRST SENSATIONAL ARC OF AN ALL-NEW TEAM OF X-MEN STARTS HERE! JEAN GREY is back! Returned to a world she doesn't recognize, the First Lady of the X-MEN gathers an unlikely team - NIGHTCRAWLER, NAMOR and LAURA KINNEY (A.K.A. ALL-NEW WOLVERINE) - to face an evil that threatens to tear down XAVIER's dream by any means necessary!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-men-red-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="harley and ivy meet betty and veronica" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Crossover, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>harley and ivy meet betty and veronica</ten_truyen>
-		<ma_truyen>harley-and-ivy-meet-betty-and-veronica</ma_truyen>
-        <tac_gia>Marc Andreyko, Paul Dini, Laura Braga, Amanda Conner, Paul Mounts</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/harley--ivy-meet-betty-and-veronica/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Free college tuition for all Riverdale residents?! That's the plan-after the town drains the wetlands that lie between it and Gotham City and then builds a new campus. The only snag? A certain botany-obsessed super-villain. When Poison Ivy enlists her bestie, Harley, to kidnap both Veronica Lodge, daughter of Riverdale's most important citizen, and her friend Betty, she's counting on some assistance-and the mayhem that ensues will probably work as well! DC Comics and Archie are proud to present the adventure of a lifetime for all these best pals. Their hijinks are brought to you by the real-life team-up of Paul Dini (HARLEY QUINN) and Marc Andreyko (WONDER WOMAN '77), with art by Laura Braga (DC BOMBSHELLS)!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/harley-and-ivy-meet-betty-and-veronica-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
