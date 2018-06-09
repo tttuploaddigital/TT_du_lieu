@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="taboo-tattoo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Ecchi, Martial arts, Mystery, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>taboo-tattoo</ten_truyen>
+		<ma_truyen>taboo-tattoo</ma_truyen>
+		<tac_gia>Shinjirou</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9742/2/200.jpg</hinh_nho>
+		<gioi_thieu>Seigi, a martial arts trained middle schooler, often feels driven to protect the weaker people around him. One day, he defends a homeless man against some punks, and the man gives him a strange tattoo on his palm in return. The tattoo is a secret weapon produced in the arms race between America and the Serinistan Kingdom. Seigi finds himself in over his head when a powerful girl, using the same secret weapon, violently pursues him in order to retrieve it. His skill at martial arts may not be enough to keep him alive, but will he be able to learn how to trigger the power of his tattoo in time?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/taboo-tattoo-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="onideka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>onideka</ten_truyen>
+		<ma_truyen>onideka</ma_truyen>
+		<tac_gia>Yatera Keita</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/43458/2/200.jpg</hinh_nho>
+		<gioi_thieu>Kiryuin Hanasei is the idol of her school. But when she suddenly becomes a giantess, she is forced to return to her old ways in order to protect her city.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onideka-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tohai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>tohai</ten_truyen>
+		<ma_truyen>tohai</ma_truyen>
+		<tac_gia>Shinasaka Koji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/38140/1/200.jpg</hinh_nho>
+		<gioi_thieu>Not a lot of people know that one of the most talented and ruthless Mahjong players in the city is a young high school boy. Kei is a teenager of few words, but his observation skills, unwavering will and experience in the game allows him to survive in a world full of powerful, rich and dangerous characters. Kei is currently hiding a girl named Amina who has entered the country illegally and protecting her from being deported. He spends his days sleeping through class and his nights playing high-stakes Mahjong, waiting for when a worthy opponent arrives.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tohai-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="yomekura" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>yomekura</ten_truyen>
 		<ma_truyen>yomekura</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/7554/4/200.jpg</hinh_nho>
 		<gioi_thieu>Set in Central Asia in a rural town near the Caspian Sea during the early 19th century, the story revolves around a young woman, Amir, who arrives from a distant village across the mountains to marry Karluk, a boy eight years her junior. The story unfolds among details of everyday family and community life. However, the peaceful atmosphere is disturbed when Amir's family demands to take her back to their village. Note: Won the 7th annual Manga Taishou Award in 2014 and the intergenerations prize at the Angouleme International Comics Festival in 2012.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/otoyomegatari-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mahou tsukai no yome" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Romance, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>mahou tsukai no yome</ten_truyen>
-		<ma_truyen>mahou-tsukai-no-yome</ma_truyen>
-		<tac_gia>Yamazaki Kore</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/25056/8/200.jpg</hinh_nho>
-		<gioi_thieu>With her mother dead and father long gone, Chise Hatori has spent her childhood being passed unwanted from relative to relative, until she finally makes her unfortunate way to a strange and improbable auction block. Offered as a 'sleigh beggy' to the highest bidder, Chise is purchased by the (literally) boneheaded Elias Ainsworth, who promises to take her on as his apprentice. Elias is a mage, and his world is one of dragons and faeries - but before Chise can begin to get accustomed to all that nonsense, Elias drops another bombshell. Apparently Chise isn't just intended to be his apprentice - she will also be his bride. Nominated for the 8th Manga Taisho Award.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-tsukai-no-yome-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="black bullet" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Horror, Romance, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>black bullet</ten_truyen>
-		<ma_truyen>black-bullet</ma_truyen>
-		<tac_gia>Kanzaki Shiden, Morino Hon</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/1226/2/200.jpg</hinh_nho>
-		<gioi_thieu>In near future, mankind has been defeated by the viral parasites named 'Gastrea.' They have been exiled into a small territory and live in despair, side by side with terror. In this world trapped in darkness Rentaro, a boy living near Tokyo and a member of the 'Civil Security'-an organization specializing in fighting against the Gastrea-is used to accomplishing dangerous tasks. His partner is Enju, a precocious young girl. They fight using their peculiar powers until one day, they receive a special assignment from the government. This top secret mission is to prevent the destruction of Tokyo. Set in a near future, this thrilling heroic-action story starts now.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/black-bullet-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="hazuki kanon wa amakunai." tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4-koma, Comedy, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>hazuki kanon wa amakunai.</ten_truyen>
-		<ma_truyen>hazuki-kanon-wa-amakunai</ma_truyen>
-		<tac_gia>Kobashiko</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/35341/1/200.jpg</hinh_nho>
-		<gioi_thieu>Hazuki Kanon is your average female High-School Delinquent. She is often late and skips class in the nurse office, occassionally talking to the male nurse BJ (Kuronada Jun). Tamaki Daiji likes to film stuff that captivates him the instant he encounters it, disregarding consequences. His friend Kihou Tomoka tries to snap him out of it, whenever she sees him stuck while he is late for something else. One day Kanon catches his interest while she stands on the roof of the opposite building. After asking Tomoka, he decides to head to the infirmary where Kanon sleeps occasionally. Kanon wakes up to some strange guy filming her. He even has the audacity to call her 'thumb-suckling while sleeping' cute and captivating. So she decides to let him keep the footage if he promises to keep her secret.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hazuki-kanon-wa-amakunai-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="taboo-tattoo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Ecchi, Martial arts, Mystery, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>taboo-tattoo</ten_truyen>
+		<ma_truyen>taboo-tattoo</ma_truyen>
+		<tac_gia>Shinjirou</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9742/2/200.jpg</hinh_nho>
+		<gioi_thieu>Seigi, a martial arts trained middle schooler, often feels driven to protect the weaker people around him. One day, he defends a homeless man against some punks, and the man gives him a strange tattoo on his palm in return. The tattoo is a secret weapon produced in the arms race between America and the Serinistan Kingdom. Seigi finds himself in over his head when a powerful girl, using the same secret weapon, violently pursues him in order to retrieve it. His skill at martial arts may not be enough to keep him alive, but will he be able to learn how to trigger the power of his tattoo in time?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/taboo-tattoo-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="onideka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>onideka</ten_truyen>
+		<ma_truyen>onideka</ma_truyen>
+		<tac_gia>Yatera Keita</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/43458/2/200.jpg</hinh_nho>
+		<gioi_thieu>Kiryuin Hanasei is the idol of her school. But when she suddenly becomes a giantess, she is forced to return to her old ways in order to protect her city.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onideka-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tohai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>tohai</ten_truyen>
+		<ma_truyen>tohai</ma_truyen>
+		<tac_gia>Shinasaka Koji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/38140/1/200.jpg</hinh_nho>
+		<gioi_thieu>Not a lot of people know that one of the most talented and ruthless Mahjong players in the city is a young high school boy. Kei is a teenager of few words, but his observation skills, unwavering will and experience in the game allows him to survive in a world full of powerful, rich and dangerous characters. Kei is currently hiding a girl named Amina who has entered the country illegally and protecting her from being deported. He spends his days sleeping through class and his nights playing high-stakes Mahjong, waiting for when a worthy opponent arrives.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tohai-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="legenderry red sonja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Steampunk, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>legenderry red sonja</ten_truyen>
 		<ma_truyen>legenderry-red-sonja</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>DID YOU EVER WANT TO BE DEADPOOL??? Now's your chance! This series is not JUST the most amazing comic book you've ever read... it's also a role-playing adventure! YOU decide what choices Deadpool makes!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/you-are-deadpool-eng.xml</file_xml>
     </truyen>
-	<truyen ten="caterpillar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Martial arts, Mature, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>caterpillar</ten_truyen>
-		<ma_truyen>caterpillar</ma_truyen>
-		<tac_gia>Murata Shinya, Sayazaki Isuka, Hakozaki Isuka, Hayami Tokisada</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/28919/2/200.jpg</hinh_nho>
-		<gioi_thieu>Possessing both flexibility and tenacity, Imomushi (Japanese for Caterpillar) is an assassin that does not kill anyone but those who are assigned to her. She seems to have had something happen between her and her older sister in the past, however. A new spin-off story from the same author of Arachnid, this story looks at the inner workings of a top assassin within The Organization itself.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/caterpillar-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gabriel dropout" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>gabriel dropout</ten_truyen>
-		<ma_truyen>gabriel-dropout</ma_truyen>
-		<tac_gia>Ukami</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/38919/2/200.jpg</hinh_nho>
-		<gioi_thieu>A school comedy involving the lazy angel Gabriel and her friends.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gabriel-dropout-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kyou no yuiko-san" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Seinen, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>kyou no yuiko-san</ten_truyen>
-		<ma_truyen>kyou-no-yuiko-san</ma_truyen>
-		<tac_gia>Hidekawa Kenshin</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/37/2/200.jpg</hinh_nho>
-		<gioi_thieu>The story of the protagonist, Tomoya, and his everyday life with his girlfriend Yuiko-san.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/kyou-no-yuiko-san-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
