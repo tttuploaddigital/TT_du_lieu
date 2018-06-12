@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="medieval spawn and witchblade" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>medieval spawn and witchblade</ten_truyen>
+		<ma_truyen>medieval-spawn-and-witchblade</ma_truyen>
+        <tac_gia>Brian Haberlin, Brian Holguin</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/medieval-spawn--witchblade-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Fan favorites Spawn and Witchblade team together for the first time in TWO DECADES!! In this issue: A village is besieged by a dark force-then Spawn emerges from out of the shadows to save them all. Is he their savior... or their destroyer?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/medieval-spawn-and-witchblade-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="red sonja / tarzan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>red sonja / tarzan</ten_truyen>
+		<ma_truyen>red-sonja-tarzan</ma_truyen>
+        <tac_gia>Gail Simon, Walter Geovani</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/red-sonjatarzan/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The She-Devil with a Sword meets the Lord of the Jungle! Eson Duul is an evil man. The mere mention of his name makes powerful quake with fear. He has no regard for life, including that of man. But he may finally have met his match when he finds himself up against Red Sonja and Tarzan! Gail Simone (Birds of Prey, Red Sonja) and Walter Geovani (Red Sonja, Clean Room) reunite to bring us the crossover event featuring two of fiction's greatest heroes side by side at last!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-sonja-tarzan-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="shade, the changing woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>shade, the changing woman</ten_truyen>
+		<ma_truyen>shade-the-changing-woman</ma_truyen>
+        <tac_gia>Cecil Castellucci, Jamie Coe, Marley Zarcone, Kelly Fitzpatrick</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shade-the-changing-woman/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Shade has shed her alien identity. She's stepped out of her original Earth body and into another one. Now, free of the burdens of any past life, and finally on her own, she sets out to see more of her new home. But how does she cope when the madness takes all the human emotions she was forced to confront in the Milk Wars and turns them into a bouillabaisse of memory and confusion? And to make it even more challenging, Shade must also face her namesake, the original Changing Man.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shade-the-changing-woman-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="legenderry red sonja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Steampunk, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>legenderry red sonja</ten_truyen>
 		<ma_truyen>legenderry-red-sonja</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-accell/1_medium.jpg</hinh_nho>
         <gioi_thieu>Daniel DosSantos is a young man living at the speed of life. After gaining powers from exposure to an extraterrestrial object, DosSantos became the rapid action superhero called Accell, the first of a new public kind of self-appointed crime fighter. Unfortunately, there are consequences to moving faster than sound. Accell is about to learn that danger exists on the flipside of having superpowers and will have to grow up quickly to survive.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/accell-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="star wars: thrawn" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>star wars: thrawn</ten_truyen>
-		<ma_truyen>star-wars-thrawn</ma_truyen>
-        <tac_gia>Jody Houser, Luke Ross, Paul Renaud</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-thrawn/1_medium.jpg</hinh_nho>
-        <gioi_thieu>One of the most cunning and ruthless minds in all of the Star Wars, Grand Admiral Thrawn is back with his own six-issue miniseries! Written by Jody Houser (ROGUE ONE ADAPTATION) and drawn by Luke Ross (STAR WARS: DARTH MAUL, STAR WARS: THE FORCE AWAKENS ADAPTATION), follow the comic adaptation of Timothy Zahn's New York Times best-selling novel about Thrawn's rise in the Imperial ranks, on his way to becoming one of the most feared military tacticians in the galaxy far, far away.!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-thrawn-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="ben reilly: scarlet spider" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>ben reilly: scarlet spider</ten_truyen>
-		<ma_truyen>ben-reilly-scarlet-spider</ma_truyen>
-        <tac_gia>Peter David, Mark Bagley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/ben-reilly-the-scarlet-spider/1_medium.jpg</hinh_nho>
-        <gioi_thieu>One of the most controversial characters in comics has returned and the controversy has only BEGUN! In the aftermath of THE CLONE CONSPIRACY, Ben has a new take on life... and he's not the same Scarlet Spider he was before. Come witness what will be the most talked about comic of the year!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ben-reilly-scarlet-spider-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="falcon (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>falcon (2017)</ten_truyen>
-		<ma_truyen>falcon-2017</ma_truyen>
-        <tac_gia>Rodney Barnes, Joshua Cassara, Jesus Saiz</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/falcon-(2017)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In the wake of SECRET EMPIRE, Sam Wilson has laid down the shield and taken to the sky once again! Reborn and recommitted, THE FALCON takes flight on a personal mission to reconnect with the American people and train his new partner THE PATRIOT. But when a gang war overtakes the streets of Chicago, Sam finds himself stuck in the middle of a situation far more dangerous than he could've imagined one with its roots in an unexpected corner of the Marvel Universe!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/falcon-2017-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

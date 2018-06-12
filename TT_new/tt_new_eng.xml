@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="medieval spawn and witchblade" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>medieval spawn and witchblade</ten_truyen>
+		<ma_truyen>medieval-spawn-and-witchblade</ma_truyen>
+        <tac_gia>Brian Haberlin, Brian Holguin</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/medieval-spawn--witchblade-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Fan favorites Spawn and Witchblade team together for the first time in TWO DECADES!! In this issue: A village is besieged by a dark force-then Spawn emerges from out of the shadows to save them all. Is he their savior... or their destroyer?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/medieval-spawn-and-witchblade-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="red sonja / tarzan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>red sonja / tarzan</ten_truyen>
+		<ma_truyen>red-sonja-tarzan</ma_truyen>
+        <tac_gia>Gail Simon, Walter Geovani</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/red-sonjatarzan/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The She-Devil with a Sword meets the Lord of the Jungle! Eson Duul is an evil man. The mere mention of his name makes powerful quake with fear. He has no regard for life, including that of man. But he may finally have met his match when he finds himself up against Red Sonja and Tarzan! Gail Simone (Birds of Prey, Red Sonja) and Walter Geovani (Red Sonja, Clean Room) reunite to bring us the crossover event featuring two of fiction's greatest heroes side by side at last!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-sonja-tarzan-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="shade, the changing woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+		<ten_truyen>shade, the changing woman</ten_truyen>
+		<ma_truyen>shade-the-changing-woman</ma_truyen>
+        <tac_gia>Cecil Castellucci, Jamie Coe, Marley Zarcone, Kelly Fitzpatrick</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shade-the-changing-woman/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Shade has shed her alien identity. She's stepped out of her original Earth body and into another one. Now, free of the burdens of any past life, and finally on her own, she sets out to see more of her new home. But how does she cope when the madness takes all the human emotions she was forced to confront in the Milk Wars and turns them into a bouillabaisse of memory and confusion? And to make it even more challenging, Shade must also face her namesake, the original Changing Man.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shade-the-changing-woman-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="taboo-tattoo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Ecchi, Martial arts, Mystery, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>taboo-tattoo</ten_truyen>
 		<ma_truyen>taboo-tattoo</ma_truyen>
@@ -243,31 +270,4 @@
 		<gioi_thieu>Yukinari was abandoned as an infant, but fortunately a loving family adopted him. Perhaps because of this, he has an affinity for helpless, abandoned creatures and goes out of his way to help them. One night, Yukinari and his friends witness a falling star hit the ground and rush to the spot where it hit, only to find a child cradled in the meteorite, surrounded by a field of roses?!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/bokura-wa-bara-no-ko-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="peter parker: the spectacular spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>peter parker: the spectacular spider-man</ten_truyen>
-		<ma_truyen>peter-parker-the-spectacular-spider-man</ma_truyen>
-        <tac_gia>Chip Zdarsky, Adam Kubert</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/peter-parker-the-spectacular-spider-man/1_medium.jpg</hinh_nho>
-        <gioi_thieu>SPIDER-MAN RETURNS TO THE FRIENDLY NEIGHBORHOOD! The webslinging, wallcrawling wonder returns to New York City in the all-new PETER PARKER: THE SPECTACULAR SPIDER-MAN. A companion series to the best-selling Amazing Spider-Man series, Peter Parker is going back-to-basics for big heroics in the Big Apple. Featuring adversaries old and new, be there as Spider-Man returns to his friendly neighborhood for his never ending battle against crime and the dreaded 'Parker Luck'.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/peter-parker-the-spectacular-spider-man-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the immortal men" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>the immortal men</ten_truyen>
-		<ma_truyen>the-immortal-men</ma_truyen>
-        <tac_gia>James Tynion IV, Ryan Benjamin, Jim Lee</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-immortal-men/1_medium.jpg</hinh_nho>
-        <gioi_thieu>There is a secret history to the DC Universe of heroes who have protected humanity from the shadows since the dawn of time... and who can live forever. Enter the Immortal Men! The team, headed by the Immortal Man, has waged a secret war against the House of Conquest for countless years-but Conquest has dealt a devastating blow. When their base of operations, known as the Campus, is savagely attacked, the Immortal Men must seek out their last hope-an emerging metahuman known as Caden Park! Caden's emerging powers may be able to ensure the Immortal Men's survival-but will Conquest get to him first?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-immortal-men-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="you are deadpool" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>you are deadpool</ten_truyen>
-		<ma_truyen>you-are-deadpool</ma_truyen>
-        <tac_gia>Al Ewing, Salvador Espin, Rahzzah</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/y/you-are-deadpool/1_medium.jpg</hinh_nho>
-        <gioi_thieu>DID YOU EVER WANT TO BE DEADPOOL??? Now's your chance! This series is not JUST the most amazing comic book you've ever read... it's also a role-playing adventure! YOU decide what choices Deadpool makes!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/you-are-deadpool-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
