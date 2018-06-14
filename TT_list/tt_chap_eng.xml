@@ -60,4 +60,16 @@
         <hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
 		<chap_moi>chap 42</chap_moi>
     </truyen>
+	<truyen>
+		<ten_truyen>peter parker: the spectacular spider-man</ten_truyen>
+		<ma_truyen>peter-parker-the-spectacular-spider-man</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/peter-parker-the-spectacular-spider-man/1_medium.jpg</hinh_nho>	
+		<chap_moi>issue 304</chap_moi>
+    </truyen>
+	<truyen>
+		<ten_truyen>bokura wa bara no ko</ten_truyen>
+		<ma_truyen>bokura-wa-bara-no-ko</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28348/1/200.jpg</hinh_nho>	
+		<chap_moi>chap 7</chap_moi>
+	</truyen>
 </danh_sach_truyen>
