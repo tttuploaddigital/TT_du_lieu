@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="zui wu dao" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua - read from right to left">
+		<ten_truyen>zui wu dao</ten_truyen>
+		<ma_truyen>zui-wu-dao</ma_truyen>
+		<tac_gia>Han Yan</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/33544/2/200.jpg</hinh_nho>
+		<gioi_thieu>In a world of martial arts, a young boy named Wu was unable to practice martial arts due to his special body. Will he accept his fate and live his life bullied and looked down by others, or will he rise and become a master?</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/zui-wu-dao-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="guarding" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua - read from right to left">
+		<ten_truyen>guarding</ten_truyen>
+		<ma_truyen>guarding</ma_truyen>
+		<tac_gia>Buddy</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/33407/1/200.jpg</hinh_nho>
+		<gioi_thieu>Lin Xiaoyou, childhood friend of Xi Yu, died at the age of 14, but her spirit refused to pass onto the afterlife. Instead, she stuck around and became Yu's 'guardian angel' due to a promise she made to him. Under Xiaoyou's constant guarding, Yu hasn't had a single girlfriend even though he's already 24. Being in a proper relationship has become his goal in life, but such a simple wish brings about a series of terrifying incidents. Is Xiaoyou really a 'guardian angel', or is she actually an 'evil spirit'?!</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/guarding-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="chunqing yatou huolala" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Shoujo., Smut" nhan_kieu_truyen="Type" kieu_truyen="Manhua - read from right to left">
+		<ten_truyen>chunqing yatou huolala</ten_truyen>
+		<ma_truyen>chunqing-yatou-huolala</ma_truyen>
+		<tac_gia>San Fu Animation</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/33239/1/200.jpg</hinh_nho>
+		<gioi_thieu>After a night of drinking, she accidentally slept with the insidious Underworld Emperor. What to do? Run! Two years later, she's the elevator lady at China's number one business, but is always harassed by a good-looking colleague...</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/chunqing-yatou-huolala-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="medieval spawn and witchblade" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
 		<ten_truyen>medieval spawn and witchblade</ten_truyen>
 		<ma_truyen>medieval-spawn-and-witchblade</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>When a fleet of spaceships crashes into northern Europe in 956 AD, a group of unlikely Viking heroes are the last line of defense against a brutal intergalactic warlord. Equal parts science fiction and fantasy, The Spider King follows the adventures of Viking warriors as they defend their world against alien invaders armed with futuristic technology and impossible weapons.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-spider-king-eng.xml</file_xml>
     </truyen>
-	<truyen ten="mad chimera world" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Horror, Mature, Sci-fi, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>mad chimera world</ten_truyen>
-		<ma_truyen>mad-chimera-world</ma_truyen>
-		<tac_gia>Kishimoto Seishi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/cc/7a/cc7ab330db52883e1c4189f82833e6938513b1d9_34470_200_310.jpg</hinh_nho>
-		<gioi_thieu>Set in a ruined world overrun with chimerical creatures where the female creatures eat the males. Two creatures explore the land: Usagi, the elder sister, protects her brother Mitsuki, a curious chronicler who is able to read the books in their secret hiding place to know that the world was once different.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mad-chimera-world-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gun x clover" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Harem, Martial arts, Mature, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>gun x clover</ten_truyen>
-		<ma_truyen>gun-x-clover</ma_truyen>
-		<tac_gia>Yamaguchi Mikoto, D.p</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3274/8/200.jpg</hinh_nho>
-		<gioi_thieu>Mikado High School trains the best students to be the best mercenary bodyguards. But Morito Hayama, a merc escort student with no rank whatsoever, is suddenly assigned to guard a person so highly valued that no escort has ever survived before. Will his subject survive the experience? Will HE survive?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gun-x-clover-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="bokura wa bara no ko" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Sci-fi, Shoujo., Slice of life, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>bokura wa bara no ko</ten_truyen>
-		<ma_truyen>bokura-wa-bara-no-ko</ma_truyen>
-		<tac_gia>Minamori Koyomi</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/28348/1/200.jpg</hinh_nho>
-		<gioi_thieu>Yukinari was abandoned as an infant, but fortunately a loving family adopted him. Perhaps because of this, he has an affinity for helpless, abandoned creatures and goes out of his way to help them. One night, Yukinari and his friends witness a falling star hit the ground and rush to the spot where it hit, only to find a child cradled in the meteorite, surrounded by a field of roses?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/bokura-wa-bara-no-ko-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
