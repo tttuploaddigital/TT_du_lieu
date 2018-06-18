@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<!--
 	<truyen ten="ragna crimson" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>ragna crimson</ten_truyen>
 		<ma_truyen>ragna-crimson</ma_truyen>
@@ -27,6 +28,7 @@
 		<gioi_thieu>The hero (me, Junpei Manaka!) sneaks up to the roof to see the sunset. When he opens the door, he startles a mysterious beauty. She panics and runs away, but not before Junpei has caught sight of her adorable strawberry print panties... in EXTREME close-up. With that vision forever burned into his memory, Junpei embarks on a quest to find the girl, and the panties, of his dreams!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ichigo-100-eng.xml</file_xml>
 	</truyen>
+	-->
 	<truyen ten="guarding" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua - read from right to left">
 		<ten_truyen>guarding</ten_truyen>
 		<ma_truyen>guarding</ma_truyen>
