@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="ragna crimson" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>ragna crimson</ten_truyen>
+		<ma_truyen>ragna-crimson</ma_truyen>
+		<tac_gia>Kobayashi Daiki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/49622/1/200.jpg</hinh_nho>
+		<gioi_thieu>Ragna is a dragon hunter along with his partner, the strongest dragon hunter Leo. He didn't have much talent at hunting dragons but he had decided to entrust his whole life for her. However he was shown the feel of true despair by his future self on what would happen if he stays weak as he is now. With that, it seems that the reaper of the dragons had now appeared earlier than the original history, but will it be enough to change future?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ragna-crimson-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="silver spoon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>silver spoon</ten_truyen>
+		<ma_truyen>silver-spoon</ma_truyen>
+		<tac_gia>Arakawa Hiromu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/38842/1/200.jpg</hinh_nho>
+		<gioi_thieu>Yugo Hachiken aspires to live separated from his family, so he takes the initiative by enrolling in an agriculture school. He thinks, with his talent in studying, no problems will arise no matter what kind of school he attends. He is quickly proven wrong. Raised as a city boy, he is forced to uncover the inconvenient truth about agricultural life. Enjoy the story of Hachiken, as he tries to keep up with his new friends, farmers' heirs, who are already accustomed to harsh world of farming. The story of a sweat, tear, and mud-stained youth begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/silver-spoon-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="ichigo 100%" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>ichigo 100%</ten_truyen>
+		<ma_truyen>ichigo-100</ma_truyen>
+		<tac_gia>Kawashita Mizuki</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://i.imgur.com/msPWICD.jpg</hinh_nho>
+		<gioi_thieu>The hero (me, Junpei Manaka!) sneaks up to the roof to see the sunset. When he opens the door, he startles a mysterious beauty. She panics and runs away, but not before Junpei has caught sight of her adorable strawberry print panties... in EXTREME close-up. With that vision forever burned into his memory, Junpei embarks on a quest to find the girl, and the panties, of his dreams!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ichigo-100-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="taboo-tattoo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Ecchi, Martial arts, Mystery, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
 		<ten_truyen>taboo-tattoo</ten_truyen>
 		<ma_truyen>taboo-tattoo</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/27304/5/200.jpg</hinh_nho>
 		<gioi_thieu>Itsuki and Hayato, two brothers who grew up in a village nestled deep in the mountains, set out to hunt down a wolf that has been attacking the livestock of the village. Itsuki is about to go in for the kill when a gigantic beast appears out of nowhere, snatching up the wolf in its jaws and sucking the life out of it. The beast that stared Itsuki down was a gargantuan, blood-sucking vampire deer? Will the two brothers be able to return to the village alive?! Find out in this blood-filled action-packed story by extraordinary mangaka Kaishaku!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/aka-akatoretachi-no-monogatari-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="urami koi, koi, urami koi." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Romance, Shounen., Supernatural, Suspense, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>urami koi, koi, urami koi.</ten_truyen>
-		<ma_truyen>urami-koi-koi-urami-koi</ma_truyen>
-		<tac_gia>Akitaka</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27916/3/200.jpg</hinh_nho>
-		<gioi_thieu>The Twelve City, a land governed by the leaders of the families who bear in their names the Chinese zodiac. In a city where youkai and humans coexist, the cat youkai who holds a grudge against the Rat Family appears in front of Nekuni Kyouichi, the head of the Rat Family. It's a malice-covered Hateful cat who is aiming for his life. But that youkai is Nekogasaki Natsuho, who's also extremely anxious around other people... Just like the saying 'Curiosity killed the cat' goes, will these feelings also kill the cat?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/urami-koi-koi-urami-koi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="seshiji o pin! to - shikakou kyougi dance-bu e youkoso" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>seshiji o pin! to - shikakou kyougi dance-bu e youkoso</ten_truyen>
-		<ma_truyen>seshiji-o-pin-to-shikakou-kyougi-dance-bu-e-youkoso</ma_truyen>
-		<tac_gia>Yokota Takuma</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/33171/7/200.jpg</hinh_nho>
-		<gioi_thieu>Masaharu Tsuchiya has just become a freshman in high school and he's looking to make a change in his life. He wants to be more active and more involved in school life, since the only club he was a part of in middle school he just coasted through. He'd also like to get over his lack of social skills when it comes to women. However, in his future, he'll soon be tossed into a strange and magical world full of dancing after he witnesses his school's competitive dance club in action...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/seshiji-o-pin-to-shikakou-kyougi-dance-bu-e-youkoso-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="otoyomegatari" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Historical, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
-		<ten_truyen>otoyomegatari</ten_truyen>
-		<ma_truyen>otoyomegatari</ma_truyen>
-		<tac_gia>Mori Kaoru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/7554/4/200.jpg</hinh_nho>
-		<gioi_thieu>Set in Central Asia in a rural town near the Caspian Sea during the early 19th century, the story revolves around a young woman, Amir, who arrives from a distant village across the mountains to marry Karluk, a boy eight years her junior. The story unfolds among details of everyday family and community life. However, the peaceful atmosphere is disturbed when Amir's family demands to take her back to their village. Note: Won the 7th annual Manga Taishou Award in 2014 and the intergenerations prize at the Angouleme International Comics Festival in 2012.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/otoyomegatari-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

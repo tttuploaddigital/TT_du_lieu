@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="ragna crimson" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>ragna crimson</ten_truyen>
+		<ma_truyen>ragna-crimson</ma_truyen>
+		<tac_gia>Kobayashi Daiki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/49622/1/200.jpg</hinh_nho>
+		<gioi_thieu>Ragna is a dragon hunter along with his partner, the strongest dragon hunter Leo. He didn't have much talent at hunting dragons but he had decided to entrust his whole life for her. However he was shown the feel of true despair by his future self on what would happen if he stays weak as he is now. With that, it seems that the reaper of the dragons had now appeared earlier than the original history, but will it be enough to change future?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ragna-crimson-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="silver spoon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>silver spoon</ten_truyen>
+		<ma_truyen>silver-spoon</ma_truyen>
+		<tac_gia>Arakawa Hiromu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/38842/1/200.jpg</hinh_nho>
+		<gioi_thieu>Yugo Hachiken aspires to live separated from his family, so he takes the initiative by enrolling in an agriculture school. He thinks, with his talent in studying, no problems will arise no matter what kind of school he attends. He is quickly proven wrong. Raised as a city boy, he is forced to uncover the inconvenient truth about agricultural life. Enjoy the story of Hachiken, as he tries to keep up with his new friends, farmers' heirs, who are already accustomed to harsh world of farming. The story of a sweat, tear, and mud-stained youth begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/silver-spoon-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="ichigo 100%" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+		<ten_truyen>ichigo 100%</ten_truyen>
+		<ma_truyen>ichigo-100</ma_truyen>
+		<tac_gia>Kawashita Mizuki</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://i.imgur.com/msPWICD.jpg</hinh_nho>
+		<gioi_thieu>The hero (me, Junpei Manaka!) sneaks up to the roof to see the sunset. When he opens the door, he startles a mysterious beauty. She panics and runs away, but not before Junpei has caught sight of her adorable strawberry print panties... in EXTREME close-up. With that vision forever burned into his memory, Junpei embarks on a quest to find the girl, and the panties, of his dreams!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ichigo-100-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="guarding" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua - read from right to left">
 		<ten_truyen>guarding</ten_truyen>
 		<ma_truyen>guarding</ma_truyen>
@@ -243,31 +270,4 @@
 		<gioi_thieu>Jiang Hao, a normal, high school student who is extremely scared of getting into trouble suddenly becomes the Harem King of his school and gets confessed to by a bunch of beautiful girls! The worst thing is, Jiang hao doesn't know any of the girls who confessed to him! What on earth is happening? This is a manga that shouldn't be missed by fans of the harem genre!</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/cupid-s-chocolates-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="star wars: the last jedi adaptation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>star wars: the last jedi adaptation</ten_truyen>
-		<ma_truyen>star-wars-the-last-jedi-adaptation</ma_truyen>
-        <tac_gia>Gary Whitta, Michael Walsh</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-the-last-jedi-adaptation/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Resistance has found Luke Skywalker! But the First Order is hot on their tail... and they are out for blood. Join writer Gary Whitta (ROGUE ONE: A STAR WARS STORY) and artist Michael Walsh (STAR WARS ANNUAL, HAWKEYE and THE VISION) as they take on the adventures of Force prodigy Rey, ace pilot Poe Dameron, and ex-First Order recruit Finn from the hit blockbuster STAR WARS: THE LAST JEDI - featuring never-before-seen scenes of your favorite characters!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-the-last-jedi-adaptation-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the wicked righteous" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>the wicked righteous</ten_truyen>
-		<ma_truyen>the-wicked-righteous</ma_truyen>
-        <tac_gia>Terry Mayo, Chris Hall, Lucas Romero, Brandon DeStefano</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-wicked-righteous/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Biological warfare has decimated the earth's population, leaving two distinct groups of survivors in its wake. In San Diego, four teenage brothers rescue a young girl from a brutal gang of psychopaths and spark a chain of events that attracts an onslaught of unspeakable evil. This is the world of the Wicked and the Righteous... and the children will lead them all.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-wicked-righteous-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the spider king" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>the spider king</ten_truyen>
-		<ma_truyen>the-spider-king</ma_truyen>
-        <tac_gia>Josh Vann, Simone D'Armini</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-spider-king/1_medium.jpg</hinh_nho>
-        <gioi_thieu>When a fleet of spaceships crashes into northern Europe in 956 AD, a group of unlikely Viking heroes are the last line of defense against a brutal intergalactic warlord. Equal parts science fiction and fantasy, The Spider King follows the adventures of Viking warriors as they defend their world against alien invaders armed with futuristic technology and impossible weapons.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-spider-king-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
