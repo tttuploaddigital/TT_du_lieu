@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<!--
-	<truyen ten="ragna crimson" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="ragna crimson" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ragna crimson</ten_truyen>
 		<ma_truyen>ragna-crimson</ma_truyen>
 		<tac_gia>Kobayashi Daiki</tac_gia>
@@ -10,7 +9,7 @@
 		<gioi_thieu>Ragna is a dragon hunter along with his partner, the strongest dragon hunter Leo. He didn't have much talent at hunting dragons but he had decided to entrust his whole life for her. However he was shown the feel of true despair by his future self on what would happen if he stays weak as he is now. With that, it seems that the reaper of the dragons had now appeared earlier than the original history, but will it be enough to change future?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ragna-crimson-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="silver spoon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="silver spoon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>silver spoon</ten_truyen>
 		<ma_truyen>silver-spoon</ma_truyen>
 		<tac_gia>Arakawa Hiromu</tac_gia>
@@ -19,7 +18,7 @@
 		<gioi_thieu>Yugo Hachiken aspires to live separated from his family, so he takes the initiative by enrolling in an agriculture school. He thinks, with his talent in studying, no problems will arise no matter what kind of school he attends. He is quickly proven wrong. Raised as a city boy, he is forced to uncover the inconvenient truth about agricultural life. Enjoy the story of Hachiken, as he tries to keep up with his new friends, farmers' heirs, who are already accustomed to harsh world of farming. The story of a sweat, tear, and mud-stained youth begins!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/silver-spoon-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="ichigo 100%" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="ichigo 100%" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ichigo 100%</ten_truyen>
 		<ma_truyen>ichigo-100</ma_truyen>
 		<tac_gia>Kawashita Mizuki</tac_gia>
@@ -28,8 +27,7 @@
 		<gioi_thieu>The hero (me, Junpei Manaka!) sneaks up to the roof to see the sunset. When he opens the door, he startles a mysterious beauty. She panics and runs away, but not before Junpei has caught sight of her adorable strawberry print panties... in EXTREME close-up. With that vision forever burned into his memory, Junpei embarks on a quest to find the girl, and the panties, of his dreams!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ichigo-100-eng.xml</file_xml>
 	</truyen>
-	-->
-	<truyen ten="my wives" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
+	<truyen ten="my wives" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>my wives</ten_truyen>
 		<ma_truyen>my-wives</ma_truyen>
 		<tac_gia>Yang Pah, Mojo</tac_gia>
@@ -38,7 +36,7 @@
 		<gioi_thieu>One man has three wives? What's the deal with this greedy guy?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/my-wives-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="epic of gilgamesh" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Historical, Martial arts, Mystery, Romance, Supernatural, Tragedy, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
+	<truyen ten="epic of gilgamesh" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Historical, Martial arts, Mystery, Romance, Supernatural, Tragedy, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>epic of gilgamesh</ten_truyen>
 		<ma_truyen>epic-of-gilgamesh</ma_truyen>
 		<tac_gia>Hwan Daeng</tac_gia>
@@ -47,7 +45,7 @@
 		<gioi_thieu>Trainee Knight Trudia gets kicked out of the knight squad because of her hot headedness. In midst of trying to find out where she'll go next she finds an old man that's in danger. She runs over there without hesitation in order to save him only to meet a man that'll change her fate forever...! A story of a dying girl and an undying man trying their hardest to live!</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/epic-of-gilgamesh-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="devil's bride" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Historical, Romance, Supernatural, Yaoi" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
+	<truyen ten="devil's bride" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Historical, Romance, Supernatural, Yaoi" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>devil's bride</ten_truyen>
 		<ma_truyen>devil-s-bride</ma_truyen>
 		<tac_gia>Kim Se-young</tac_gia>
@@ -56,7 +54,7 @@
 		<gioi_thieu>After many years of living alone in a deep forest, the devil has gotten lonely. He decides to buy himself a human bride to cure his loneliness as well as help him shed his devil identity. But when his new, beautiful young bride dies suddenly after only a few blissful days, the devil decides this time to build himself a bride. First on his list of items to acquire for the construction of his perfect mate: eyes...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/devil-s-bride-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="guarding" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua - read from right to left">
+	<truyen ten="guarding" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>guarding</ten_truyen>
 		<ma_truyen>guarding</ma_truyen>
 		<tac_gia>Buddy</tac_gia>
@@ -65,7 +63,7 @@
 		<gioi_thieu>Lin Xiaoyou, childhood friend of Xi Yu, died at the age of 14, but her spirit refused to pass onto the afterlife. Instead, she stuck around and became Yu's 'guardian angel' due to a promise she made to him. Under Xiaoyou's constant guarding, Yu hasn't had a single girlfriend even though he's already 24. Being in a proper relationship has become his goal in life, but such a simple wish brings about a series of terrifying incidents. Is Xiaoyou really a 'guardian angel', or is she actually an 'evil spirit'?!</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/guarding-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="chunqing yatou huolala" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Shoujo., Smut" nhan_kieu_truyen="Type" kieu_truyen="Manhua - read from right to left">
+	<truyen ten="chunqing yatou huolala" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Shoujo., Smut" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>chunqing yatou huolala</ten_truyen>
 		<ma_truyen>chunqing-yatou-huolala</ma_truyen>
 		<tac_gia>San Fu Animation</tac_gia>
@@ -74,7 +72,7 @@
 		<gioi_thieu>After a night of drinking, she accidentally slept with the insidious Underworld Emperor. What to do? Run! Two years later, she's the elevator lady at China's number one business, but is always harassed by a good-looking colleague...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/chunqing-yatou-huolala-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="zui wu dao" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua - read from right to left">
+	<truyen ten="zui wu dao" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>zui wu dao</ten_truyen>
 		<ma_truyen>zui-wu-dao</ma_truyen>
 		<tac_gia>Han Yan</tac_gia>
@@ -83,7 +81,7 @@
 		<gioi_thieu>In a world of martial arts, a young boy named Wu was unable to practice martial arts due to his special body. Will he accept his fate and live his life bullied and looked down by others, or will he rise and become a master?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Completed/zui-wu-dao-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="medieval spawn and witchblade" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="medieval spawn and witchblade" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>medieval spawn and witchblade</ten_truyen>
 		<ma_truyen>medieval-spawn-and-witchblade</ma_truyen>
         <tac_gia>Brian Haberlin, Brian Holguin</tac_gia>
@@ -92,7 +90,7 @@
         <gioi_thieu>Fan favorites Spawn and Witchblade team together for the first time in TWO DECADES!! In this issue: A village is besieged by a dark force-then Spawn emerges from out of the shadows to save them all. Is he their savior... or their destroyer?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/medieval-spawn-and-witchblade-eng.xml</file_xml>
     </truyen>
-	<truyen ten="red sonja / tarzan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="red sonja / tarzan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>red sonja / tarzan</ten_truyen>
 		<ma_truyen>red-sonja-tarzan</ma_truyen>
         <tac_gia>Gail Simon, Walter Geovani</tac_gia>
@@ -101,7 +99,7 @@
         <gioi_thieu>The She-Devil with a Sword meets the Lord of the Jungle! Eson Duul is an evil man. The mere mention of his name makes powerful quake with fear. He has no regard for life, including that of man. But he may finally have met his match when he finds himself up against Red Sonja and Tarzan! Gail Simone (Birds of Prey, Red Sonja) and Walter Geovani (Red Sonja, Clean Room) reunite to bring us the crossover event featuring two of fiction's greatest heroes side by side at last!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-sonja-tarzan-eng.xml</file_xml>
     </truyen>
-	<truyen ten="shade, the changing woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="shade, the changing woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>shade, the changing woman</ten_truyen>
 		<ma_truyen>shade-the-changing-woman</ma_truyen>
         <tac_gia>Cecil Castellucci, Jamie Coe, Marley Zarcone, Kelly Fitzpatrick</tac_gia>
@@ -110,7 +108,7 @@
         <gioi_thieu>Shade has shed her alien identity. She's stepped out of her original Earth body and into another one. Now, free of the burdens of any past life, and finally on her own, she sets out to see more of her new home. But how does she cope when the madness takes all the human emotions she was forced to confront in the Milk Wars and turns them into a bouillabaisse of memory and confusion? And to make it even more challenging, Shade must also face her namesake, the original Changing Man.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shade-the-changing-woman-eng.xml</file_xml>
     </truyen>
-	<truyen ten="taboo-tattoo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Ecchi, Martial arts, Mystery, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="taboo-tattoo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Ecchi, Martial arts, Mystery, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>taboo-tattoo</ten_truyen>
 		<ma_truyen>taboo-tattoo</ma_truyen>
 		<tac_gia>Shinjirou</tac_gia>
@@ -119,7 +117,7 @@
 		<gioi_thieu>Seigi, a martial arts trained middle schooler, often feels driven to protect the weaker people around him. One day, he defends a homeless man against some punks, and the man gives him a strange tattoo on his palm in return. The tattoo is a secret weapon produced in the arms race between America and the Serinistan Kingdom. Seigi finds himself in over his head when a powerful girl, using the same secret weapon, violently pursues him in order to retrieve it. His skill at martial arts may not be enough to keep him alive, but will he be able to learn how to trigger the power of his tattoo in time?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/taboo-tattoo-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="onideka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="onideka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>onideka</ten_truyen>
 		<ma_truyen>onideka</ma_truyen>
 		<tac_gia>Yatera Keita</tac_gia>
@@ -128,7 +126,7 @@
 		<gioi_thieu>Kiryuin Hanasei is the idol of her school. But when she suddenly becomes a giantess, she is forced to return to her old ways in order to protect her city.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onideka-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="tohai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="tohai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>tohai</ten_truyen>
 		<ma_truyen>tohai</ma_truyen>
 		<tac_gia>Shinasaka Koji</tac_gia>
@@ -137,7 +135,7 @@
 		<gioi_thieu>Not a lot of people know that one of the most talented and ruthless Mahjong players in the city is a young high school boy. Kei is a teenager of few words, but his observation skills, unwavering will and experience in the game allows him to survive in a world full of powerful, rich and dangerous characters. Kei is currently hiding a girl named Amina who has entered the country illegally and protecting her from being deported. He spends his days sleeping through class and his nights playing high-stakes Mahjong, waiting for when a worthy opponent arrives.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tohai-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="legenderry red sonja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Steampunk, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="legenderry red sonja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Steampunk, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>legenderry red sonja</ten_truyen>
 		<ma_truyen>legenderry-red-sonja</ma_truyen>
         <tac_gia>Marc Andreyko, Igor Lima</tac_gia>
@@ -146,7 +144,7 @@
         <gioi_thieu>The last we saw of Red Sonja of the Legenderry world, she was living the pirate's life aboard her ship, The Nautilus. But times have changed. As she tries to rebuild her life once again, she must save the Big City from two houses divided and the star crossed love bringing them to the brink of war!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/legenderry-red-sonja-eng.xml</file_xml>
     </truyen>
-	<truyen ten="the musketeers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="the musketeers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the musketeers</ten_truyen>
 		<ma_truyen>the-musketeers</ma_truyen>
         <tac_gia>Terry Kavanagh, Daniel Maine, Bryan Valenza</tac_gia>
@@ -155,7 +153,7 @@
         <gioi_thieu>A new team is introduced to the Grimm Universe! A group of super-powered beings calling themselves the Musketeers has emerged in Philadelphia. Using their powers to help those in trouble - as well as giving themselves a lifestyle befitting champions - the line between hero and villain is easily blurred. While the team sees their actions as justified, the city's police force has their own ideas... ones that will see the Musketeers locked away.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-musketeers-eng.xml</file_xml>
     </truyen>
-	<truyen ten="abbott" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="abbott" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>abbott</ten_truyen>
 		<ma_truyen>abbott</ma_truyen>
         <tac_gia>Saladin Ahmed, Sami Kivela, Jason Wordie, Taj Tenfold</tac_gia>
@@ -164,7 +162,7 @@
         <gioi_thieu>Hugo Award-nominated novelist Saladin Ahmed (Black Bolt) and artist Sami Kivela (Beautiful Canvas) present one woman's search for the truth that destroyed her family. Hard-nosed, chain-smoking tabloid reporter Elena Abbott investigates a series of grisly crimes that the police have ignored. Crimes she knows to be the work of dark occult forces. Forces that took her husband from her. Forces she has sworn to destroy.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/abbott-eng.xml</file_xml>
     </truyen>
-	<truyen ten="yomekura" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="yomekura" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>yomekura</ten_truyen>
 		<ma_truyen>yomekura</ma_truyen>
 		<tac_gia>Chiaki Tarou</tac_gia>
@@ -173,7 +171,7 @@
 		<gioi_thieu>Before she died, Taga Reiji's mother made arrangements to ensure her son would not be alone. What Taga did not know about these 'arrangements' was that he would be enrolled into a special class at the school his mother founded where prospective fiance candidates would all vie for his hand in marriage. How will Taga's new life of constantly being surrounded by girls unfold and will he be able to choose just one?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yomekura-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="back street girls - washira idol hajimemashita." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Gender bender, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="back street girls - washira idol hajimemashita." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Gender bender, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>back street girls - washira idol hajimemashita.</ten_truyen>
 		<ma_truyen>back-street-girls-washira-idol-hajimemashita</ma_truyen>
 		<tac_gia>Jasmine Gyuh</tac_gia>
@@ -182,7 +180,7 @@
 		<gioi_thieu>A group of 3 yakuza failed their boss for the last time. After messing up an important job, the boss gives them 2 choices: Honorably committing suicide, or go to Thailand to get a sex reassignment surgery in order to becomes 'female' idols. After a gruesome year long training to become idols, they successfully debut, with overwhelming popularity, much to their dismay. This is where their tragedy truly begins.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/back-street-girls-washira-idol-hajimemashita-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="erotic fairy tales: the little mermaid" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Josei, Mature, Romance, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="erotic fairy tales: the little mermaid" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Josei, Mature, Romance, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>erotic fairy tales: the little mermaid</ten_truyen>
 		<ma_truyen>erotic-fairy-tales-the-little-mermaid</ma_truyen>
 		<tac_gia>Takano Yumi</tac_gia>
@@ -191,7 +189,7 @@
 		<gioi_thieu>Lotte has always been fascinated by the surface world, but mermaids are forbidden to ever have contact with humans. One day, she finds a handsome young man adrift in a shipwreck and takes him to shore. More obsessed with the surface than ever, Lotte jumps at the chance to become human when a demon named J offers her a magic potion. But there's more to J's potion-and his intentions-than meets the eye...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/erotic-fairy-tales-the-little-mermaid-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="raven: daughter of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="raven: daughter of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>raven: daughter of darkness</ten_truyen>
 		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
         <tac_gia>Marv Wolfman, Pop Mhan, Lovern Kindzierski</tac_gia>
@@ -200,7 +198,7 @@
         <gioi_thieu>In this all-new miniseries, Raven faces a new, otherworldly menace that is all too grounded in reality. Plus, Raven's personal life is in an uproar as her mother and aunt struggle for the soul of a Titan! It's up to Baron Winters of the Night Force to intercede on her behalf as she embarks on the adventure called 'The Girls With the Anime Eyes'!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
     </truyen>
-	<truyen ten="kill or be killed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Psychological, Thriller" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="kill or be killed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Psychological, Thriller" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>kill or be killed</ten_truyen>
 		<ma_truyen>kill-or-be-killed</ma_truyen>
         <tac_gia>Ed Brubaker, Elizabeth Breitweiser, Sean Phillips</tac_gia>
@@ -209,7 +207,7 @@
         <gioi_thieu>The bestselling team of ED BRUBAKER and SEAN PHILLIPS (THE FADE OUT, CRIMINAL, FATALE) launch their new monthly series: KILL OR BE KILLED, the twisted story of a young man who is forced to kill bad people, and how he struggles to keep his secret as it slowly ruins his life and the lives of his friends and loved ones. Both a thriller and a deconstruction of vigilantism, KILL OR BE KILLED is unlike anything BRUBAKER and PHILLIPS have ever done.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kill-or-be-killed-eng.xml</file_xml>
     </truyen>
-	<truyen ten="justice league: no justice" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="justice league: no justice" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>justice league: no justice</ten_truyen>
 		<ma_truyen>justice-league-no-justice</ma_truyen>
         <tac_gia>Scott Snyder, James Tynion IV, Joshua Williamson, Francis Manapul</tac_gia>
@@ -218,7 +216,7 @@
         <gioi_thieu>DARK NIGHTS: METAL left the DCU transformed in ways both terrifying and wondrous and only the Justice League is strong enough to face the threats to come... or are they? Four giant beings comprised of the universe's major energies-Mystery, Wonder, Wisdom and Entropy-who sustain their life force by devouring planets are on their way to destroy the planet of Colu. The only way to take down this unimaginable threat is for the superhero teams of Earth to forget everything they thought they knew and form new alliances. What secrets of the cosmos will Superman, Martian Manhunter and Team Mystery discover? Will Zatanna, Wonder Woman and Team Wonder awaken alien magic they cannot put back to sleep? What can Harley Quinn possibly have to teach the rest of Team Wisdom? And most importantly... why the heck is Beast Boy on Team Entropy with Lobo and Batman? Find out all this and much more in the most exciting, bombastic event of summer 2018!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/justice-league-no-justice-eng.xml</file_xml>
     </truyen>
-	<truyen ten="spirit migration" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Mystery, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="spirit migration" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Mystery, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>spirit migration</ten_truyen>
 		<ma_truyen>spirit-migration</ma_truyen>
 		<tac_gia>Hero Tennki, Akane Kotetsu</tac_gia>
@@ -227,7 +225,7 @@
 		<gioi_thieu>A spirit was floating in another world's dungeon, missing its memories. Eventually 'he' learned to possess other creatures and using the bodies of the beasts in the dungeon, made his way to the outside world. Dragging a young female knight, a pretty young lady, and even a beautiful mercenary into the mix, our protagonist begins his great adventure in this world.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/spirit-migration-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="tsuyokute new saga" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="tsuyokute new saga" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>tsuyokute new saga</ten_truyen>
 		<ma_truyen>tsuyokute-new-saga</ma_truyen>
 		<tac_gia>Abe Masayuki, Miura Jun</tac_gia>
@@ -236,7 +234,7 @@
 		<gioi_thieu>The Demon King led his army of demons to wipe out the human race. The Hero, Kail, and his allies attacked the Demon King's castle to defeat the Demon King. The Demon King is slain, but at what cost? Kail lost all of his allies throughout the war. Friends, family, lovers, comrades. All dead, and he is dying. As Kail's life ebbs away in the Demon King's chamber, he notices a strange gem that the Demon King had coveted and approaches this relic to grab it; after an intense light glows, he is sent years into the past. After recovering from the initial shock, now in his younger body, he decides to avoid making the same mistakes of his first time through these years and to become stronger.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="mahouka koukou no rettousei - tsuioku hen" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mystery, Romance, School life, Sci-fi, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="mahouka koukou no rettousei - tsuioku hen" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mystery, Romance, School life, Sci-fi, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>mahouka koukou no rettousei - tsuioku hen</ten_truyen>
 		<ma_truyen>mahouka-koukou-no-rettousei-tsuioku-hen</ma_truyen>
 		<tac_gia>Satou Tsutomu, Ikawa Waki</tac_gia>
@@ -245,7 +243,7 @@
 		<gioi_thieu>'Three years ago, he had the same posture. Three years ago, he had stood behind Miyuki. Yes.... Compared to three years ago, it had changed.' Set three years prior to the present time, Tsuioku Hen tells the events that would change Miyuki's world drastically, as well as the events that led Tatsuya to become what he is now.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mahouka-koukou-no-rettousei-tsuioku-hen-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="drug candy" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, Seinen, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
+	<truyen ten="drug candy" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, Seinen, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>drug candy</ten_truyen>
 		<ma_truyen>drug-candy</ma_truyen>
 		<tac_gia>Lee Hyun-min</tac_gia>
@@ -254,7 +252,7 @@
 		<gioi_thieu>Marriage is in shambles. But still their pride stops them from seeking each other. Thats when both drift out to get the taste of some 'Drugcandy' (adultery). A tale of two people exploring out of their relationship.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/drug-candy-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="red string" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, Romance, School life, Shounen., Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
+	<truyen ten="red string" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, Romance, School life, Shounen., Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>red string</ten_truyen>
 		<ma_truyen>red-string</ma_truyen>
 		<tac_gia>Dong Bi</tac_gia>
@@ -263,7 +261,7 @@
 		<gioi_thieu>The story of a boy and girl whose lives were one day entwined by red string. Literally.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/red-string-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="she is young" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Mature, Romance, Seinen, Smut, Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa - read from left to right">
+	<truyen ten="she is young" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Mature, Romance, Seinen, Smut, Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>she is young</ten_truyen>
 		<ma_truyen>she-is-young</ma_truyen>
 		<tac_gia>Donggulgom, Js</tac_gia>

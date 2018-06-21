@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<!--
-	<truyen ten="ragna crimson" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="ragna crimson" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ragna crimson</ten_truyen>
 		<ma_truyen>ragna-crimson</ma_truyen>
 		<tac_gia>Kobayashi Daiki</tac_gia>
@@ -10,7 +9,7 @@
 		<gioi_thieu>Ragna is a dragon hunter along with his partner, the strongest dragon hunter Leo. He didn't have much talent at hunting dragons but he had decided to entrust his whole life for her. However he was shown the feel of true despair by his future self on what would happen if he stays weak as he is now. With that, it seems that the reaper of the dragons had now appeared earlier than the original history, but will it be enough to change future?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ragna-crimson-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="silver spoon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="silver spoon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>silver spoon</ten_truyen>
 		<ma_truyen>silver-spoon</ma_truyen>
 		<tac_gia>Arakawa Hiromu</tac_gia>
@@ -19,7 +18,7 @@
 		<gioi_thieu>Yugo Hachiken aspires to live separated from his family, so he takes the initiative by enrolling in an agriculture school. He thinks, with his talent in studying, no problems will arise no matter what kind of school he attends. He is quickly proven wrong. Raised as a city boy, he is forced to uncover the inconvenient truth about agricultural life. Enjoy the story of Hachiken, as he tries to keep up with his new friends, farmers' heirs, who are already accustomed to harsh world of farming. The story of a sweat, tear, and mud-stained youth begins!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/silver-spoon-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="ichigo 100%" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="ichigo 100%" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ichigo 100%</ten_truyen>
 		<ma_truyen>ichigo-100</ma_truyen>
 		<tac_gia>Kawashita Mizuki</tac_gia>
@@ -28,8 +27,7 @@
 		<gioi_thieu>The hero (me, Junpei Manaka!) sneaks up to the roof to see the sunset. When he opens the door, he startles a mysterious beauty. She panics and runs away, but not before Junpei has caught sight of her adorable strawberry print panties... in EXTREME close-up. With that vision forever burned into his memory, Junpei embarks on a quest to find the girl, and the panties, of his dreams!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ichigo-100-eng.xml</file_xml>
 	</truyen>
-	-->
-	<truyen ten="taboo-tattoo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Ecchi, Martial arts, Mystery, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="taboo-tattoo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Ecchi, Martial arts, Mystery, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>taboo-tattoo</ten_truyen>
 		<ma_truyen>taboo-tattoo</ma_truyen>
 		<tac_gia>Shinjirou</tac_gia>
@@ -38,7 +36,7 @@
 		<gioi_thieu>Seigi, a martial arts trained middle schooler, often feels driven to protect the weaker people around him. One day, he defends a homeless man against some punks, and the man gives him a strange tattoo on his palm in return. The tattoo is a secret weapon produced in the arms race between America and the Serinistan Kingdom. Seigi finds himself in over his head when a powerful girl, using the same secret weapon, violently pursues him in order to retrieve it. His skill at martial arts may not be enough to keep him alive, but will he be able to learn how to trigger the power of his tattoo in time?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/taboo-tattoo-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="onideka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="onideka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>onideka</ten_truyen>
 		<ma_truyen>onideka</ma_truyen>
 		<tac_gia>Yatera Keita</tac_gia>
@@ -47,7 +45,7 @@
 		<gioi_thieu>Kiryuin Hanasei is the idol of her school. But when she suddenly becomes a giantess, she is forced to return to her old ways in order to protect her city.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onideka-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="tohai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="tohai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>tohai</ten_truyen>
 		<ma_truyen>tohai</ma_truyen>
 		<tac_gia>Shinasaka Koji</tac_gia>
@@ -56,7 +54,7 @@
 		<gioi_thieu>Not a lot of people know that one of the most talented and ruthless Mahjong players in the city is a young high school boy. Kei is a teenager of few words, but his observation skills, unwavering will and experience in the game allows him to survive in a world full of powerful, rich and dangerous characters. Kei is currently hiding a girl named Amina who has entered the country illegally and protecting her from being deported. He spends his days sleeping through class and his nights playing high-stakes Mahjong, waiting for when a worthy opponent arrives.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tohai-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="yomekura" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="yomekura" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>yomekura</ten_truyen>
 		<ma_truyen>yomekura</ma_truyen>
 		<tac_gia>Chiaki Tarou</tac_gia>
@@ -65,7 +63,7 @@
 		<gioi_thieu>Before she died, Taga Reiji's mother made arrangements to ensure her son would not be alone. What Taga did not know about these 'arrangements' was that he would be enrolled into a special class at the school his mother founded where prospective fiance candidates would all vie for his hand in marriage. How will Taga's new life of constantly being surrounded by girls unfold and will he be able to choose just one?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yomekura-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="back street girls - washira idol hajimemashita." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Gender bender, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="back street girls - washira idol hajimemashita." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Gender bender, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>back street girls - washira idol hajimemashita.</ten_truyen>
 		<ma_truyen>back-street-girls-washira-idol-hajimemashita</ma_truyen>
 		<tac_gia>Jasmine Gyuh</tac_gia>
@@ -74,7 +72,7 @@
 		<gioi_thieu>A group of 3 yakuza failed their boss for the last time. After messing up an important job, the boss gives them 2 choices: Honorably committing suicide, or go to Thailand to get a sex reassignment surgery in order to becomes 'female' idols. After a gruesome year long training to become idols, they successfully debut, with overwhelming popularity, much to their dismay. This is where their tragedy truly begins.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/back-street-girls-washira-idol-hajimemashita-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="erotic fairy tales: the little mermaid" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Josei, Mature, Romance, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="erotic fairy tales: the little mermaid" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Josei, Mature, Romance, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>erotic fairy tales: the little mermaid</ten_truyen>
 		<ma_truyen>erotic-fairy-tales-the-little-mermaid</ma_truyen>
 		<tac_gia>Takano Yumi</tac_gia>
@@ -83,7 +81,7 @@
 		<gioi_thieu>Lotte has always been fascinated by the surface world, but mermaids are forbidden to ever have contact with humans. One day, she finds a handsome young man adrift in a shipwreck and takes him to shore. More obsessed with the surface than ever, Lotte jumps at the chance to become human when a demon named J offers her a magic potion. But there's more to J's potion-and his intentions-than meets the eye...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/erotic-fairy-tales-the-little-mermaid-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="spirit migration" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Mystery, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="spirit migration" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Mystery, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>spirit migration</ten_truyen>
 		<ma_truyen>spirit-migration</ma_truyen>
 		<tac_gia>Hero Tennki, Akane Kotetsu</tac_gia>
@@ -92,7 +90,7 @@
 		<gioi_thieu>A spirit was floating in another world's dungeon, missing its memories. Eventually 'he' learned to possess other creatures and using the bodies of the beasts in the dungeon, made his way to the outside world. Dragging a young female knight, a pretty young lady, and even a beautiful mercenary into the mix, our protagonist begins his great adventure in this world.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/spirit-migration-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="tsuyokute new saga" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="tsuyokute new saga" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>tsuyokute new saga</ten_truyen>
 		<ma_truyen>tsuyokute-new-saga</ma_truyen>
 		<tac_gia>Abe Masayuki, Miura Jun</tac_gia>
@@ -101,7 +99,7 @@
 		<gioi_thieu>The Demon King led his army of demons to wipe out the human race. The Hero, Kail, and his allies attacked the Demon King's castle to defeat the Demon King. The Demon King is slain, but at what cost? Kail lost all of his allies throughout the war. Friends, family, lovers, comrades. All dead, and he is dying. As Kail's life ebbs away in the Demon King's chamber, he notices a strange gem that the Demon King had coveted and approaches this relic to grab it; after an intense light glows, he is sent years into the past. After recovering from the initial shock, now in his younger body, he decides to avoid making the same mistakes of his first time through these years and to become stronger.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="mahouka koukou no rettousei - tsuioku hen" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mystery, Romance, School life, Sci-fi, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="mahouka koukou no rettousei - tsuioku hen" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mystery, Romance, School life, Sci-fi, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>mahouka koukou no rettousei - tsuioku hen</ten_truyen>
 		<ma_truyen>mahouka-koukou-no-rettousei-tsuioku-hen</ma_truyen>
 		<tac_gia>Satou Tsutomu, Ikawa Waki</tac_gia>
@@ -110,7 +108,7 @@
 		<gioi_thieu>'Three years ago, he had the same posture. Three years ago, he had stood behind Miyuki. Yes.... Compared to three years ago, it had changed.' Set three years prior to the present time, Tsuioku Hen tells the events that would change Miyuki's world drastically, as well as the events that led Tatsuya to become what he is now.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mahouka-koukou-no-rettousei-tsuioku-hen-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="mad chimera world" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Horror, Mature, Sci-fi, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="mad chimera world" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Horror, Mature, Sci-fi, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>mad chimera world</ten_truyen>
 		<ma_truyen>mad-chimera-world</ma_truyen>
 		<tac_gia>Kishimoto Seishi</tac_gia>
@@ -119,7 +117,7 @@
 		<gioi_thieu>Set in a ruined world overrun with chimerical creatures where the female creatures eat the males. Two creatures explore the land: Usagi, the elder sister, protects her brother Mitsuki, a curious chronicler who is able to read the books in their secret hiding place to know that the world was once different.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mad-chimera-world-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="gun x clover" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Harem, Martial arts, Mature, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="gun x clover" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Harem, Martial arts, Mature, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>gun x clover</ten_truyen>
 		<ma_truyen>gun-x-clover</ma_truyen>
 		<tac_gia>Yamaguchi Mikoto, D.p</tac_gia>
@@ -128,7 +126,7 @@
 		<gioi_thieu>Mikado High School trains the best students to be the best mercenary bodyguards. But Morito Hayama, a merc escort student with no rank whatsoever, is suddenly assigned to guard a person so highly valued that no escort has ever survived before. Will his subject survive the experience? Will HE survive?!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gun-x-clover-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="bokura wa bara no ko" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Sci-fi, Shoujo., Slice of life, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="bokura wa bara no ko" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Sci-fi, Shoujo., Slice of life, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>bokura wa bara no ko</ten_truyen>
 		<ma_truyen>bokura-wa-bara-no-ko</ma_truyen>
 		<tac_gia>Minamori Koyomi</tac_gia>
@@ -137,7 +135,7 @@
 		<gioi_thieu>Yukinari was abandoned as an infant, but fortunately a loving family adopted him. Perhaps because of this, he has an affinity for helpless, abandoned creatures and goes out of his way to help them. One night, Yukinari and his friends witness a falling star hit the ground and rush to the spot where it hit, only to find a child cradled in the meteorite, surrounded by a field of roses?!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/bokura-wa-bara-no-ko-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="caterpillar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Martial arts, Mature, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="caterpillar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Martial arts, Mature, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>caterpillar</ten_truyen>
 		<ma_truyen>caterpillar</ma_truyen>
 		<tac_gia>Murata Shinya, Sayazaki Isuka, Hakozaki Isuka, Hayami Tokisada</tac_gia>
@@ -146,7 +144,7 @@
 		<gioi_thieu>Possessing both flexibility and tenacity, Imomushi (Japanese for Caterpillar) is an assassin that does not kill anyone but those who are assigned to her. She seems to have had something happen between her and her older sister in the past, however. A new spin-off story from the same author of Arachnid, this story looks at the inner workings of a top assassin within The Organization itself.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/caterpillar-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="gabriel dropout" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="gabriel dropout" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>gabriel dropout</ten_truyen>
 		<ma_truyen>gabriel-dropout</ma_truyen>
 		<tac_gia>Ukami</tac_gia>
@@ -155,7 +153,7 @@
 		<gioi_thieu>A school comedy involving the lazy angel Gabriel and her friends.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gabriel-dropout-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="kyou no yuiko-san" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Seinen, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="kyou no yuiko-san" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Seinen, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kyou no yuiko-san</ten_truyen>
 		<ma_truyen>kyou-no-yuiko-san</ma_truyen>
 		<tac_gia>Hidekawa Kenshin</tac_gia>
@@ -164,7 +162,7 @@
 		<gioi_thieu>The story of the protagonist, Tomoya, and his everyday life with his girlfriend Yuiko-san.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/kyou-no-yuiko-san-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="asagao to kase-san." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo ai, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="asagao to kase-san." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo ai, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>asagao to kase-san.</ten_truyen>
 		<ma_truyen>asagao-to-kase-san</ma_truyen>
 		<tac_gia>Takashima Hiromi</tac_gia>
@@ -173,7 +171,7 @@
 		<gioi_thieu>Yamada is the plant appointee; tending the school's garden of flowers on her own. She isn't the slightest bit athletic, she's actually quite clumsy. However, that doesn't stop her from having feelings for the star athlete in the class next-door, Kase-san. Slightly shy, Yamada is reluctant about her feelings for the enthusiastic Kase-san. Slowly but surely, the pair are helping each other to grow in confidence for both themselves and their budding relationship, each blush and brush of the hand at a time.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/asagao-to-kase-san-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="tomodachi o tsukurou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4 koma, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="tomodachi o tsukurou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4 koma, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>tomodachi o tsukurou</ten_truyen>
 		<ma_truyen>tomodachi-o-tsukurou</ma_truyen>
 		<tac_gia>Shouma Keito</tac_gia>
@@ -182,7 +180,7 @@
 		<gioi_thieu>The lonely high school girl - Misuzu, with the perverted young man - Shoutaro's cooperation (obstruction), take up the challenge of making friends together!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomodachi-o-tsukurou-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="ten prism" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Seinen, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="ten prism" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Seinen, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ten prism</ten_truyen>
 		<ma_truyen>ten-prism</ma_truyen>
 		<tac_gia>Soda Masahito</tac_gia>
@@ -191,7 +189,7 @@
 		<gioi_thieu>The story revolves around Tsunashi, the child of royalty who was left behind in the lost kingdom of Karan. He is expected by those around him to awaken his great powers that sleep within him in order to revive the kingdom - but rather than fighting, Tsunan enjoys playing in the world of books. However, he must become serious soon, as a new army is threatening to invade Karan.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ten-prism-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="waratte! sotomura-san" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4 koma, Comedy, School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="waratte! sotomura-san" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4 koma, Comedy, School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>waratte! sotomura-san</ten_truyen>
 		<ma_truyen>waratte-sotomura-san</ma_truyen>
 		<tac_gia>Minamori Minamo</tac_gia>
@@ -200,7 +198,7 @@
 		<gioi_thieu>Sotomura is a high-school girl widely regarded as a delinquent, feared and avoided by many of the school body. From her light-brown hair down to her long skirt and harsh manner of speaking, she completely seems the part. But after Sotomura rescues a girl named Haruno from some bullies, Haruno decides to try to get to know her better. Haruno is surprised to find out that Sotomura isn't a delinquent at all and is, in fact, just a very socially awkward girl that's bad with words and wants to make friends. She enjoys cooking, handicrafts, and hitting the supermarket sales. She also loves cute and fancy things, but she tries to hide that fact because she feels they don't suit her looks. Haruno's first step in helping Sotomura is to try to teach her how to smile, because whenever she tries, it ends up as a scary grin. Thus begins the story of Sotomura's attempts to make new friends.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/waratte-sotomura-san-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="biorg trinity" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="biorg trinity" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>biorg trinity</ten_truyen>
 		<ma_truyen>biorg-trinity</ma_truyen>
 		<tac_gia>Maijou Outarou, Oh! Great</tac_gia>
@@ -209,7 +207,7 @@
 		<gioi_thieu>Biorg Trinity follows Fujii, a high-school student who is in love with Enomoto Fumiho. He lives in a world where people are touched by a rare 'illness' called the Biorg Bug. One day Fujii catches the bug which makes holes in the shape of hearts on his hands. What will happen to him now?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/biorg-trinity-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="velvet kiss" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Drama, Ecchi, Harem, Mature, Romance, Seinen, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="velvet kiss" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Drama, Ecchi, Harem, Mature, Romance, Seinen, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>velvet kiss</ten_truyen>
 		<ma_truyen>velvet-kiss</ma_truyen>
 		<tac_gia>Harumi Chihiro</tac_gia>
@@ -218,7 +216,7 @@
 		<gioi_thieu>Nitta Shin finds himself saddled with a sudden, crushing debt. His loan agent tells him he can escape repayment if he keeps a particular woman company. He gradually learns that this arrangement might not be as easy as he once thought.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/velvet-kiss-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="boku to kimi to de niji ni naru" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="boku to kimi to de niji ni naru" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>boku to kimi to de niji ni naru</ten_truyen>
 		<ma_truyen>boku-to-kimi-to-de-niji-ni-naru</ma_truyen>
 		<tac_gia>Fujisawa Shizuki</tac_gia>
@@ -227,7 +225,7 @@
 		<gioi_thieu>Because she loved the word 'wisdom', Rui hated the words 'waste' and 'fuzzy'. One day, a guy named Shou appeared on her life. And thank to that encounter, Rui will suddenly change... And that's the beginning of a 'rainbow school daze' between that super dry girl and that careless guy.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-to-kimi-to-de-niji-ni-naru-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="ane no onaka o fukuramaseru wa boku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="ane no onaka o fukuramaseru wa boku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ane no onaka o fukuramaseru wa boku</ten_truyen>
 		<ma_truyen>ane-no-onaka-o-fukuramaseru-wa-boku</ma_truyen>
 		<tac_gia>Sakai Onta, Onda Chiro</tac_gia>
@@ -236,7 +234,7 @@
 		<gioi_thieu>This is the story of a pair of step-siblings who are now living alone together. The high-school-age older sister, Kyoko, is pretty wild (and is even into pro-wrestling), while the elementary-school-age little brother is a fairly serious kid. He is often embarrassed by her teasing. The two of them pass their daily life together, every day cooking for one another.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ane-no-onaka-o-fukuramaseru-wa-boku-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="akaiito" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="akaiito" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>akaiito</ten_truyen>
 		<ma_truyen>akaiito</ma_truyen>
 		<tac_gia>Miyasaka Kaho</tac_gia>
@@ -245,7 +243,7 @@
 		<gioi_thieu>I like you. But, I kept on thinking that I should hate him. I like you. But, you look like a different guy to me. I like you. But, you told me that I'm like 'your younger sister'. I like you. But, you kissed that person in front of me. Numerous 'red threads' intertwine. Brewing a few romances. This is the willfully unrestrained, youth idol drama of 7 guys and girls.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/akaiito-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="idol na kanojo to wotaku na boku to" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="idol na kanojo to wotaku na boku to" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>idol na kanojo to wotaku na boku to</ten_truyen>
 		<ma_truyen>idol-na-kanojo-to-wotaku-na-boku-to</ma_truyen>
 		<tac_gia>Kasuga Shun</tac_gia>
@@ -254,7 +252,7 @@
 		<gioi_thieu>She is a famous idol. On the other hand, I am just a nerd. We have to keep our relationship a secret.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/idol-na-kanojo-to-wotaku-na-boku-to-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="koneko-chan, kocchi ni oide" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Josei, Romance, Slice of life, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="koneko-chan, kocchi ni oide" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Josei, Romance, Slice of life, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>koneko-chan, kocchi ni oide</ten_truyen>
 		<ma_truyen>koneko-chan-kocchi-ni-oide</ma_truyen>
 		<tac_gia>Watabe Mihou</tac_gia>
@@ -263,7 +261,7 @@
 		<gioi_thieu>After Yuko graduated from junior college, she ended up running a shop. Though her career is going well, she hasn't had time to work on her love life. One day, she's out drinking with her best friend Mikan, bemoaning her lack of a boyfriend for a Christmas date. When she trips and hurts her leg, Mikan asks her little brother Leo (an 18-year-old) to see Yuko home safely. When they arrive at her apartment, though, Yuko makes a move on him and they end up sleeping together. The next morning, she realizes that she not only slept with her best friend's little brother, she actually took his virginity! Leo isn't satisfied with it being a one-night stand, and they start having a completely sexual relationship. Will she be able to keep this from Mikan, and is it possible their relationship may grow to something more?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koneko-chan-kocchi-ni-oide-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="aka akatoretachi no monogatari" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Ecchi, Mature, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga - read from right to left">
+	<truyen ten="aka akatoretachi no monogatari" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Ecchi, Mature, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>aka akatoretachi no monogatari</ten_truyen>
 		<ma_truyen>aka-akatoretachi-no-monogatari</ma_truyen>
 		<tac_gia>Kaishaku</tac_gia>
