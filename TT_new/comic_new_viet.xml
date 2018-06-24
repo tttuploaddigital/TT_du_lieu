@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<truyen ten="mister miracle (2017)" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Kiểu" kieu_truyen="Comic - đọc từ trái sang phải">
+	<truyen ten="mister miracle (2017)" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Kiểu" kieu_truyen="Comic">
 		<ten_truyen>mister miracle (2017)</ten_truyen>
 		<ma_truyen>mister-miracle-2017</ma_truyen>
         <tac_gia>Tom King, Mitch Gerads, Nick Derington</tac_gia>
