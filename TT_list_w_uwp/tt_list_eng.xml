@@ -1809,11 +1809,11 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>Two friends find themselves in a post-apocalyptic world: most humans have been turned into stone. They will have to manage to survive and get a cure for this phenomenon!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr-stone-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="dragon ball  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+	<truyen ten="dragon ball  " tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>dragon ball  </ten_truyen>
 		<ma_truyen>dragon-ball</ma_truyen>
 		<tac_gia>Toriyama Akira</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
+		<tinh_trang>Completed</tinh_trang>
 		<hinh_nho>https://file-thumb.mpcdn.net/2456/1/200.jpg</hinh_nho>
 		<gioi_thieu>Dragon Ball follows the adventures of Goku from his childhood through adulthood as he trains in martial arts and explores the world in search of the seven mystical orbs known as the Dragon Balls, which can summon a wish-granting dragon when gathered. Along his journey, Goku makes several friends and battles a wide variety of villains, many of whom also seek the Dragon Balls for their own desires.Along the way becoming the strongest warrior on the universe.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/dragon-ball-eng.xml</file_xml>
@@ -2727,6 +2727,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>A new infection has spread around the planet, that turns people into undead. The story begins a few minutes before the first recorded case, and shows the struggle of six young to survive this new world.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/infection-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="infinity countdown: champions" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity countdown: champions</ten_truyen>
+		<ma_truyen>infinity-countdown-champions</ma_truyen>
+        <tac_gia>Jim Zub, Emilio Laiso, Clayton Crain</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-countdown-champions/1_medium.jpg</hinh_nho>
+        <gioi_thieu>SPINNING OUT FROM THE FALLOUT OF THE BATTLE FOR THE POWER STONE IN THE PAGES OF INFINITY COUNTDOWN! The Champions head to space to save the Nova Corps and stop Warbringer, but other forces are moving against them... These young heroes are in for the fight of their lives!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-countdown-champions-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="infinity game" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, School life, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>infinity game</ten_truyen>
 		<ma_truyen>infinity-game</ma_truyen>
@@ -2891,6 +2900,15 @@ This manga upload for Rocío Yael from Argentina via request manga on Windows st
         <hinh_nho>https://comicbookroundup.com/img/covers/i/iron-fist-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>THE GAUNTLET STARTS HERE! K'un Lun is in ruins. The chi fueling Danny's fists is wavering. Is there a future for the Iron Fist? Danny Rand pushes himself to the breaking point, finding fights to prove his worth. But a bigger fight than he can handle may have found him...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/iron-fist-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="iron maiden: legacy of the beast" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>iron maiden: legacy of the beast</ten_truyen>
+		<ma_truyen>iron-maiden-legacy-of-the-beast</ma_truyen>
+        <tac_gia>Ian Edginton, Llexi Leon, Kevin West, Jason Gorder</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/iron-maiden-legacy-of-the-beast/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When dark forces conspire to corrupt the fabric of reality, Eddie's immortal soul is shattered and strewn across the cosmos, his unbound essence corrupting countless worlds! Now, a weakened, primal Eddie must journey across space and time to battle the twisted legions of The Beast, seek out the lost shards of his soul, and bring order to the realms. With each victory, and with the aid of old friends, Eddie will restore his fearsome powers as he draws ever closer to facing the Unholy foe behind his fall - and thwarting a plot to unravel all of Creation! The first official Iron Maiden comic series, based on the band's hit mobile role playing game, Iron Maiden: Legacy Of The Beast, where players battle as Eddie across the many worlds of Iron Maiden's discography, from the ancient sands of Powerslave to the far future of the Final Frontier.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/iron-maiden-legacy-of-the-beast-eng.xml</file_xml>
     </truyen>
 	<truyen ten="isekai maou to shoukan shoujo dorei majutsu" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>isekai maou to shoukan shoujo dorei majutsu</ten_truyen>
@@ -5597,6 +5615,15 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-belfry-(one-shot)/1_medium.jpg</hinh_nho>
         <gioi_thieu>When an airliner crashes in a remote jungle, everyone walks away unscathed only to find you can't escape the lush, brutal world of the Belfry. From Logan storyboard artist and Hugo Award-nominated writer/artist GABRIEL HARDMAN (INVISIBLE REPUBLIC, KINSKI, Star Wars Legacy), THE BELFRY is a self-contained one-shot that may just strip you of your humanity.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-belfry-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the brave and the bold: batman and wonder woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the brave and the bold: batman and wonder woman</ten_truyen>
+		<ma_truyen>the-brave-and-the-bold-batman-and-wonder-woman</ma_truyen>
+        <tac_gia>Liam Sharp</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-brave-and-the-bold-batman-and-wonder-woman/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Don't miss the start of a new, six-issue miniseries written and illustrated by Liam Sharp (WONDER WOMAN)! When a Celtic god's murder leads to a war between the fairy folk and a possible breach between worlds, Wonder Woman must find the murderer and keep the peace while Batman investigates strange occurrences in Gotham City. As Diana must turn to the World’s Greatest Detective for help, the two heroes quickly learn their cases may be connected.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-brave-and-the-bold-batman-and-wonder-woman-eng.xml</file_xml>
     </truyen>
 	<truyen ten="the breaker" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Martial arts, Romance, School life, Seinen, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>the breaker</ten_truyen>

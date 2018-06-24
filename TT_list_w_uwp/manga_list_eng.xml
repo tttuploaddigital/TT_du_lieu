@@ -801,11 +801,11 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>Two friends find themselves in a post-apocalyptic world: most humans have been turned into stone. They will have to manage to survive and get a cure for this phenomenon!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr-stone-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="dragon ball  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+	<truyen ten="dragon ball  " tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>dragon ball  </ten_truyen>
 		<ma_truyen>dragon-ball</ma_truyen>
 		<tac_gia>Toriyama Akira</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
+		<tinh_trang>Completed</tinh_trang>
 		<hinh_nho>https://file-thumb.mpcdn.net/2456/1/200.jpg</hinh_nho>
 		<gioi_thieu>Dragon Ball follows the adventures of Goku from his childhood through adulthood as he trains in martial arts and explores the world in search of the seven mystical orbs known as the Dragon Balls, which can summon a wish-granting dragon when gathered. Along his journey, Goku makes several friends and battles a wide variety of villains, many of whom also seek the Dragon Balls for their own desires.Along the way becoming the strongest warrior on the universe.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/dragon-ball-eng.xml</file_xml>
