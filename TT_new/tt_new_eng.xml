@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="the brave and the bold: batman and wonder woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the brave and the bold: batman and wonder woman</ten_truyen>
+		<ma_truyen>the-brave-and-the-bold-batman-and-wonder-woman</ma_truyen>
+        <tac_gia>Liam Sharp</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-brave-and-the-bold-batman-and-wonder-woman/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Don't miss the start of a new, six-issue miniseries written and illustrated by Liam Sharp (WONDER WOMAN)! When a Celtic god's murder leads to a war between the fairy folk and a possible breach between worlds, Wonder Woman must find the murderer and keep the peace while Batman investigates strange occurrences in Gotham City. As Diana must turn to the World’s Greatest Detective for help, the two heroes quickly learn their cases may be connected.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-brave-and-the-bold-batman-and-wonder-woman-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="infinity countdown: champions" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity countdown: champions</ten_truyen>
+		<ma_truyen>infinity-countdown-champions</ma_truyen>
+        <tac_gia>Jim Zub, Emilio Laiso, Clayton Crain</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-countdown-champions/1_medium.jpg</hinh_nho>
+        <gioi_thieu>SPINNING OUT FROM THE FALLOUT OF THE BATTLE FOR THE POWER STONE IN THE PAGES OF INFINITY COUNTDOWN! The Champions head to space to save the Nova Corps and stop Warbringer, but other forces are moving against them... These young heroes are in for the fight of their lives!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-countdown-champions-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="iron maiden: legacy of the beast" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>iron maiden: legacy of the beast</ten_truyen>
+		<ma_truyen>iron-maiden-legacy-of-the-beast</ma_truyen>
+        <tac_gia>Ian Edginton, Llexi Leon, Kevin West, Jason Gorder</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/iron-maiden-legacy-of-the-beast/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When dark forces conspire to corrupt the fabric of reality, Eddie's immortal soul is shattered and strewn across the cosmos, his unbound essence corrupting countless worlds! Now, a weakened, primal Eddie must journey across space and time to battle the twisted legions of The Beast, seek out the lost shards of his soul, and bring order to the realms. With each victory, and with the aid of old friends, Eddie will restore his fearsome powers as he draws ever closer to facing the Unholy foe behind his fall - and thwarting a plot to unravel all of Creation! The first official Iron Maiden comic series, based on the band's hit mobile role playing game, Iron Maiden: Legacy Of The Beast, where players battle as Eddie across the many worlds of Iron Maiden's discography, from the ancient sands of Powerslave to the far future of the Final Frontier.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/iron-maiden-legacy-of-the-beast-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="ragna crimson" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ragna crimson</ten_truyen>
 		<ma_truyen>ragna-crimson</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/27000/3/200.jpg</hinh_nho>
 		<gioi_thieu>'Three years ago, he had the same posture. Three years ago, he had stood behind Miyuki. Yes.... Compared to three years ago, it had changed.' Set three years prior to the present time, Tsuioku Hen tells the events that would change Miyuki's world drastically, as well as the events that led Tatsuya to become what he is now.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mahouka-koukou-no-rettousei-tsuioku-hen-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="drug candy" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, Seinen, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>drug candy</ten_truyen>
-		<ma_truyen>drug-candy</ma_truyen>
-		<tac_gia>Lee Hyun-min</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/35906/1/200.jpg</hinh_nho>
-		<gioi_thieu>Marriage is in shambles. But still their pride stops them from seeking each other. Thats when both drift out to get the taste of some 'Drugcandy' (adultery). A tale of two people exploring out of their relationship.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/drug-candy-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="red string" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, Romance, School life, Shounen., Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>red string</ten_truyen>
-		<ma_truyen>red-string</ma_truyen>
-		<tac_gia>Dong Bi</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27501/3/200.jpg</hinh_nho>
-		<gioi_thieu>The story of a boy and girl whose lives were one day entwined by red string. Literally.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/red-string-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="she is young" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Mature, Romance, Seinen, Smut, Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>she is young</ten_truyen>
-		<ma_truyen>she-is-young</ma_truyen>
-		<tac_gia>Donggulgom, Js</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/35625/1/200.jpg</hinh_nho>
-		<gioi_thieu>19 years old she vs 31 years old she. Is she two individuals? The childhood version of her came beyond time to meet her boyfriend. The current girlfriend and young girlfriend faces confusion and bewilderment?</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/she-is-young-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

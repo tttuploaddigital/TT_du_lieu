@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<truyen ten="medieval spawn and witchblade" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="the brave and the bold: batman and wonder woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the brave and the bold: batman and wonder woman</ten_truyen>
+		<ma_truyen>the-brave-and-the-bold-batman-and-wonder-woman</ma_truyen>
+        <tac_gia>Liam Sharp</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-brave-and-the-bold-batman-and-wonder-woman/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Don't miss the start of a new, six-issue miniseries written and illustrated by Liam Sharp (WONDER WOMAN)! When a Celtic god's murder leads to a war between the fairy folk and a possible breach between worlds, Wonder Woman must find the murderer and keep the peace while Batman investigates strange occurrences in Gotham City. As Diana must turn to the World’s Greatest Detective for help, the two heroes quickly learn their cases may be connected.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-brave-and-the-bold-batman-and-wonder-woman-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="infinity countdown: champions" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity countdown: champions</ten_truyen>
+		<ma_truyen>infinity-countdown-champions</ma_truyen>
+        <tac_gia>Jim Zub, Emilio Laiso, Clayton Crain</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-countdown-champions/1_medium.jpg</hinh_nho>
+        <gioi_thieu>SPINNING OUT FROM THE FALLOUT OF THE BATTLE FOR THE POWER STONE IN THE PAGES OF INFINITY COUNTDOWN! The Champions head to space to save the Nova Corps and stop Warbringer, but other forces are moving against them... These young heroes are in for the fight of their lives!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-countdown-champions-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="iron maiden: legacy of the beast" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>iron maiden: legacy of the beast</ten_truyen>
+		<ma_truyen>iron-maiden-legacy-of-the-beast</ma_truyen>
+        <tac_gia>Ian Edginton, Llexi Leon, Kevin West, Jason Gorder</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/iron-maiden-legacy-of-the-beast/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When dark forces conspire to corrupt the fabric of reality, Eddie's immortal soul is shattered and strewn across the cosmos, his unbound essence corrupting countless worlds! Now, a weakened, primal Eddie must journey across space and time to battle the twisted legions of The Beast, seek out the lost shards of his soul, and bring order to the realms. With each victory, and with the aid of old friends, Eddie will restore his fearsome powers as he draws ever closer to facing the Unholy foe behind his fall - and thwarting a plot to unravel all of Creation! The first official Iron Maiden comic series, based on the band's hit mobile role playing game, Iron Maiden: Legacy Of The Beast, where players battle as Eddie across the many worlds of Iron Maiden's discography, from the ancient sands of Powerslave to the far future of the Final Frontier.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/iron-maiden-legacy-of-the-beast-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="medieval spawn and witchblade" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>medieval spawn and witchblade</ten_truyen>
 		<ma_truyen>medieval-spawn-and-witchblade</ma_truyen>
         <tac_gia>Brian Haberlin, Brian Holguin</tac_gia>
@@ -9,7 +36,7 @@
         <gioi_thieu>Fan favorites Spawn and Witchblade team together for the first time in TWO DECADES!! In this issue: A village is besieged by a dark force-then Spawn emerges from out of the shadows to save them all. Is he their savior... or their destroyer?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/medieval-spawn-and-witchblade-eng.xml</file_xml>
     </truyen>
-	<truyen ten="red sonja / tarzan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="red sonja / tarzan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>red sonja / tarzan</ten_truyen>
 		<ma_truyen>red-sonja-tarzan</ma_truyen>
         <tac_gia>Gail Simon, Walter Geovani</tac_gia>
@@ -18,7 +45,7 @@
         <gioi_thieu>The She-Devil with a Sword meets the Lord of the Jungle! Eson Duul is an evil man. The mere mention of his name makes powerful quake with fear. He has no regard for life, including that of man. But he may finally have met his match when he finds himself up against Red Sonja and Tarzan! Gail Simone (Birds of Prey, Red Sonja) and Walter Geovani (Red Sonja, Clean Room) reunite to bring us the crossover event featuring two of fiction's greatest heroes side by side at last!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-sonja-tarzan-eng.xml</file_xml>
     </truyen>
-	<truyen ten="shade, the changing woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="shade, the changing woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>shade, the changing woman</ten_truyen>
 		<ma_truyen>shade-the-changing-woman</ma_truyen>
         <tac_gia>Cecil Castellucci, Jamie Coe, Marley Zarcone, Kelly Fitzpatrick</tac_gia>
@@ -27,7 +54,7 @@
         <gioi_thieu>Shade has shed her alien identity. She's stepped out of her original Earth body and into another one. Now, free of the burdens of any past life, and finally on her own, she sets out to see more of her new home. But how does she cope when the madness takes all the human emotions she was forced to confront in the Milk Wars and turns them into a bouillabaisse of memory and confusion? And to make it even more challenging, Shade must also face her namesake, the original Changing Man.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shade-the-changing-woman-eng.xml</file_xml>
     </truyen>
-	<truyen ten="legenderry red sonja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Steampunk, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="legenderry red sonja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Steampunk, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>legenderry red sonja</ten_truyen>
 		<ma_truyen>legenderry-red-sonja</ma_truyen>
         <tac_gia>Marc Andreyko, Igor Lima</tac_gia>
@@ -36,7 +63,7 @@
         <gioi_thieu>The last we saw of Red Sonja of the Legenderry world, she was living the pirate's life aboard her ship, The Nautilus. But times have changed. As she tries to rebuild her life once again, she must save the Big City from two houses divided and the star crossed love bringing them to the brink of war!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/legenderry-red-sonja-eng.xml</file_xml>
     </truyen>
-	<truyen ten="the musketeers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="the musketeers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the musketeers</ten_truyen>
 		<ma_truyen>the-musketeers</ma_truyen>
         <tac_gia>Terry Kavanagh, Daniel Maine, Bryan Valenza</tac_gia>
@@ -45,7 +72,7 @@
         <gioi_thieu>A new team is introduced to the Grimm Universe! A group of super-powered beings calling themselves the Musketeers has emerged in Philadelphia. Using their powers to help those in trouble - as well as giving themselves a lifestyle befitting champions - the line between hero and villain is easily blurred. While the team sees their actions as justified, the city's police force has their own ideas... ones that will see the Musketeers locked away.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-musketeers-eng.xml</file_xml>
     </truyen>
-	<truyen ten="abbott" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="abbott" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>abbott</ten_truyen>
 		<ma_truyen>abbott</ma_truyen>
         <tac_gia>Saladin Ahmed, Sami Kivela, Jason Wordie, Taj Tenfold</tac_gia>
@@ -54,7 +81,7 @@
         <gioi_thieu>Hugo Award-nominated novelist Saladin Ahmed (Black Bolt) and artist Sami Kivela (Beautiful Canvas) present one woman's search for the truth that destroyed her family. Hard-nosed, chain-smoking tabloid reporter Elena Abbott investigates a series of grisly crimes that the police have ignored. Crimes she knows to be the work of dark occult forces. Forces that took her husband from her. Forces she has sworn to destroy.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/abbott-eng.xml</file_xml>
     </truyen>
-	<truyen ten="raven: daughter of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="raven: daughter of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>raven: daughter of darkness</ten_truyen>
 		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
         <tac_gia>Marv Wolfman, Pop Mhan, Lovern Kindzierski</tac_gia>
@@ -63,7 +90,7 @@
         <gioi_thieu>In this all-new miniseries, Raven faces a new, otherworldly menace that is all too grounded in reality. Plus, Raven's personal life is in an uproar as her mother and aunt struggle for the soul of a Titan! It's up to Baron Winters of the Night Force to intercede on her behalf as she embarks on the adventure called 'The Girls With the Anime Eyes'!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
     </truyen>
-	<truyen ten="kill or be killed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Psychological, Thriller" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="kill or be killed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Psychological, Thriller" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>kill or be killed</ten_truyen>
 		<ma_truyen>kill-or-be-killed</ma_truyen>
         <tac_gia>Ed Brubaker, Elizabeth Breitweiser, Sean Phillips</tac_gia>
@@ -72,7 +99,7 @@
         <gioi_thieu>The bestselling team of ED BRUBAKER and SEAN PHILLIPS (THE FADE OUT, CRIMINAL, FATALE) launch their new monthly series: KILL OR BE KILLED, the twisted story of a young man who is forced to kill bad people, and how he struggles to keep his secret as it slowly ruins his life and the lives of his friends and loved ones. Both a thriller and a deconstruction of vigilantism, KILL OR BE KILLED is unlike anything BRUBAKER and PHILLIPS have ever done.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kill-or-be-killed-eng.xml</file_xml>
     </truyen>
-	<truyen ten="justice league: no justice" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="justice league: no justice" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>justice league: no justice</ten_truyen>
 		<ma_truyen>justice-league-no-justice</ma_truyen>
         <tac_gia>Scott Snyder, James Tynion IV, Joshua Williamson, Francis Manapul</tac_gia>
@@ -81,7 +108,7 @@
         <gioi_thieu>DARK NIGHTS: METAL left the DCU transformed in ways both terrifying and wondrous and only the Justice League is strong enough to face the threats to come... or are they? Four giant beings comprised of the universe's major energies-Mystery, Wonder, Wisdom and Entropy-who sustain their life force by devouring planets are on their way to destroy the planet of Colu. The only way to take down this unimaginable threat is for the superhero teams of Earth to forget everything they thought they knew and form new alliances. What secrets of the cosmos will Superman, Martian Manhunter and Team Mystery discover? Will Zatanna, Wonder Woman and Team Wonder awaken alien magic they cannot put back to sleep? What can Harley Quinn possibly have to teach the rest of Team Wisdom? And most importantly... why the heck is Beast Boy on Team Entropy with Lobo and Batman? Find out all this and much more in the most exciting, bombastic event of summer 2018!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/justice-league-no-justice-eng.xml</file_xml>
     </truyen>
-	<truyen ten="star wars: the last jedi adaptation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="star wars: the last jedi adaptation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>star wars: the last jedi adaptation</ten_truyen>
 		<ma_truyen>star-wars-the-last-jedi-adaptation</ma_truyen>
         <tac_gia>Gary Whitta, Michael Walsh</tac_gia>
@@ -90,7 +117,7 @@
         <gioi_thieu>The Resistance has found Luke Skywalker! But the First Order is hot on their tail... and they are out for blood. Join writer Gary Whitta (ROGUE ONE: A STAR WARS STORY) and artist Michael Walsh (STAR WARS ANNUAL, HAWKEYE and THE VISION) as they take on the adventures of Force prodigy Rey, ace pilot Poe Dameron, and ex-First Order recruit Finn from the hit blockbuster STAR WARS: THE LAST JEDI - featuring never-before-seen scenes of your favorite characters!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-the-last-jedi-adaptation-eng.xml</file_xml>
     </truyen>
-	<truyen ten="the wicked righteous" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="the wicked righteous" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the wicked righteous</ten_truyen>
 		<ma_truyen>the-wicked-righteous</ma_truyen>
         <tac_gia>Terry Mayo, Chris Hall, Lucas Romero, Brandon DeStefano</tac_gia>
@@ -99,7 +126,7 @@
         <gioi_thieu>Biological warfare has decimated the earth's population, leaving two distinct groups of survivors in its wake. In San Diego, four teenage brothers rescue a young girl from a brutal gang of psychopaths and spark a chain of events that attracts an onslaught of unspeakable evil. This is the world of the Wicked and the Righteous... and the children will lead them all.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-wicked-righteous-eng.xml</file_xml>
     </truyen>
-	<truyen ten="the spider king" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="the spider king" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the spider king</ten_truyen>
 		<ma_truyen>the-spider-king</ma_truyen>
         <tac_gia>Josh Vann, Simone D'Armini</tac_gia>
@@ -108,7 +135,7 @@
         <gioi_thieu>When a fleet of spaceships crashes into northern Europe in 956 AD, a group of unlikely Viking heroes are the last line of defense against a brutal intergalactic warlord. Equal parts science fiction and fantasy, The Spider King follows the adventures of Viking warriors as they defend their world against alien invaders armed with futuristic technology and impossible weapons.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-spider-king-eng.xml</file_xml>
     </truyen>
-	<truyen ten="peter parker: the spectacular spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="peter parker: the spectacular spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>peter parker: the spectacular spider-man</ten_truyen>
 		<ma_truyen>peter-parker-the-spectacular-spider-man</ma_truyen>
         <tac_gia>Chip Zdarsky, Adam Kubert</tac_gia>
@@ -117,7 +144,7 @@
         <gioi_thieu>SPIDER-MAN RETURNS TO THE FRIENDLY NEIGHBORHOOD! The webslinging, wallcrawling wonder returns to New York City in the all-new PETER PARKER: THE SPECTACULAR SPIDER-MAN. A companion series to the best-selling Amazing Spider-Man series, Peter Parker is going back-to-basics for big heroics in the Big Apple. Featuring adversaries old and new, be there as Spider-Man returns to his friendly neighborhood for his never ending battle against crime and the dreaded 'Parker Luck'.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/peter-parker-the-spectacular-spider-man-eng.xml</file_xml>
     </truyen>
-	<truyen ten="the immortal men" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="the immortal men" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the immortal men</ten_truyen>
 		<ma_truyen>the-immortal-men</ma_truyen>
         <tac_gia>James Tynion IV, Ryan Benjamin, Jim Lee</tac_gia>
@@ -126,7 +153,7 @@
         <gioi_thieu>There is a secret history to the DC Universe of heroes who have protected humanity from the shadows since the dawn of time... and who can live forever. Enter the Immortal Men! The team, headed by the Immortal Man, has waged a secret war against the House of Conquest for countless years-but Conquest has dealt a devastating blow. When their base of operations, known as the Campus, is savagely attacked, the Immortal Men must seek out their last hope-an emerging metahuman known as Caden Park! Caden's emerging powers may be able to ensure the Immortal Men's survival-but will Conquest get to him first?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-immortal-men-eng.xml</file_xml>
     </truyen>
-	<truyen ten="you are deadpool" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="you are deadpool" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>you are deadpool</ten_truyen>
 		<ma_truyen>you-are-deadpool</ma_truyen>
         <tac_gia>Al Ewing, Salvador Espin, Rahzzah</tac_gia>
@@ -135,7 +162,7 @@
         <gioi_thieu>DID YOU EVER WANT TO BE DEADPOOL??? Now's your chance! This series is not JUST the most amazing comic book you've ever read... it's also a role-playing adventure! YOU decide what choices Deadpool makes!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/you-are-deadpool-eng.xml</file_xml>
     </truyen>
-	<truyen ten="batman and the signal" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="batman and the signal" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batman and the signal</ten_truyen>
 		<ma_truyen>batman-and-the-signal</ma_truyen>
         <tac_gia>Tony Patrick, Scott Snyder, Cully Hamner, Laura Martin</tac_gia>
@@ -144,7 +171,7 @@
         <gioi_thieu>Batman may own the night, but with new villains emerging during the day he needs an ally to defend the city when he can't. Only one teen is up to the challenge, Duke Thomas. After months of training, he's ready to step out of the shadow of the bat to become his own kind of hero. Meet Gotham City's newest protector: The Signal! Spinning out of adventures in ALL-STAR BATMAN and WE ARE ROBIN, comics superstar Scott Snyder and newcomer Tony Patrick take our young hero to new heights in this exciting miniseries with artwork by Cully Hamner.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/batman-and-the-signal-eng.xml</file_xml>
     </truyen>
-	<truyen ten="sheena: queen of the jungle (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fanservice, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="sheena: queen of the jungle (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fanservice, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>sheena: queen of the jungle (2017)</ten_truyen>
 		<ma_truyen>sheena-queen-of-the-jungle-2017</ma_truyen>
         <tac_gia>Marguerite Bennett, Christina Trujillo, Moritat</tac_gia>
@@ -153,7 +180,7 @@
         <gioi_thieu>In this riveting relaunch, the guardian of the jungle, SHEENA, pursues a mysterious invader that has come to spy on the Amazon's most ancient secrets... Following the path of the trespasser, she encounters a forbidden ruin in which even more deadly dangers lie in wait and begins an adventure that will take her beyond her wildest imaginings!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sheena-queen-of-the-jungle-2017-eng.xml</file_xml>
     </truyen>
-	<truyen ten="mera: queen of atlantis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="mera: queen of atlantis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>mera: queen of atlantis</ten_truyen>
 		<ma_truyen>mera-queen-of-atlantis</ma_truyen>
         <tac_gia>Dan Abnett, Lan Medina, Richard Friend, Veronica Gandini</tac_gia>
@@ -162,7 +189,7 @@
         <gioi_thieu>From the pages of AQUAMAN comes a brand-new adventure starring Mera, in her own title for the first time ever! As the brutal Atlantean Civil War rages, Mera must keep the peace between the surface world and Atlantis as its newly anointed queen in exile. But when Aquaman's brother Orm, a.k.a. Ocean Master, learns of his homeland's fate, he'll stop at nothing to return to Atlantis as its king and savior!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mera-queen-of-atlantis-eng.xml</file_xml>
     </truyen>
-	<truyen ten="captain america (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="captain america (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>captain america (2017)</ten_truyen>
 		<ma_truyen>captain-america-2017</ma_truyen>
         <tac_gia>Mark Waid, Chris Samnee</tac_gia>
@@ -171,7 +198,7 @@
         <gioi_thieu>HOME OF THE BRAVE begins - and Steve Rogers is back in action in the red-white-and-blue! Steve begins a journey across America to restore his tarnished reputation - and the dangers he encounters along the way are unlike any he`s faced before!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-america-2017-eng.xml</file_xml>
     </truyen>
-	<truyen ten="venomized" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="venomized" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>venomized</ten_truyen>
 		<ma_truyen>venomized</ma_truyen>
         <tac_gia>Cullen Bunn, Iban Coello</tac_gia>
@@ -180,7 +207,7 @@
         <gioi_thieu>The story that began in VENOMVERSE reaches its epic conclusion with VENOMIZED! The POISONS, a species that hungers for super-powered symbiotes and their hosts, have picked their next target... THE MARVEL UNIVERSE ITSELF! Their first objective? Put every superhuman in a Klyntar symbiote - and CONSUME THEM! But with VENOM and the X-MEN still missing after the events of 'Poison-X,' the planet and its heroes are defenseless!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venomized-eng.xml</file_xml>
     </truyen>
-	<truyen ten="ninja-k" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="ninja-k" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>ninja-k</ten_truyen>
 		<ma_truyen>ninja-k</ma_truyen>
         <tac_gia>Christos N. Gage, Tomas Giorello</tac_gia>
@@ -189,7 +216,7 @@
         <gioi_thieu>A NEW CAN'T-MISS ONGOING SERIES! From acclaimed writer Christos Gage (Netflix's Daredevil) and superstar artist Tomas Giorello (X-O MANOWAR), the United Kingdom's most dreaded intelligence operative delves into the cold, calculating world of espionage and international intrigue!nFor nearly a century, MI-6, the most elite branch of Britain's clandestine intelligence service, has honed a ruthlessly effective, top-secret division - THE NINJA PROGRAMME - into one of its nation's most finely wielded weapons. Tasked as the first and last line of defense for queen and country, this small shadow army of agents and assassins has produced a succession of notable assets, including NINJA-A, the Queen's silent weapon of World War I; NINJA-E, the globe-trotting secret agent that pulled the Cold War back from the brink of Armageddon; and, most recently, NINJA-K, aka Colin King, a brash but fearless instrument of lethality that has saved the world from madmen and terror at every turn. But now... an unknown enemy is hunting and killing members of THE NINJA PROGRAMME one by one and NINJAK is next on the list.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ninja-k-eng.xml</file_xml>
     </truyen>
-	<truyen ten="rise of the black panther" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="rise of the black panther" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>rise of the black panther</ten_truyen>
 		<ma_truyen>rise-of-the-black-panther</ma_truyen>
         <tac_gia>Ta-Nehisi Coates, Evan Narcisse, Paul Renaud, Brian Stelfreeze</tac_gia>
@@ -198,7 +225,7 @@
         <gioi_thieu>Just in time for the highly anticipated film, witness the early years of the man who will come to rule one of the most scientifically advanced countries in the world! Wakanda has always kept itself isolated from Western society, but that's all about to change. Young T'Challa knows he is destined to become king, but when his father is brutally murdered by outsiders, he'll find himself taking up a mantle he may not be ready for. Experience never-before-seen drama from the reign of T'Chaka, the king whose death changes a nation's history forever. Learn about the mother T'Challa never knew. See how the world learns about this wondrous nation for the first time. Will the power of the Black Panther be enough to keep his country safe? Journalist Evan Narcisse makes his comics debut alongside acclaimed writer Ta-Nehisi Coates as they chronicle T'Challa's rise to the throne - and to the Panther legacy that made him an Avenger.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rise-of-the-black-panther-eng.xml</file_xml>
     </truyen>
-	<truyen ten="agent 47: birth of the hitman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Spy, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="agent 47: birth of the hitman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Spy, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>agent 47: birth of the hitman</ten_truyen>
 		<ma_truyen>agent-47-birth-of-the-hitman</ma_truyen>
         <tac_gia>Christopher Sebela, Ariel Medel, Jonathan Lau</tac_gia>
@@ -207,7 +234,7 @@
         <gioi_thieu>47 and his handler, Diana Burnwood, are a team responsible for some of the most ruthless, efficient and untraceable assassinations across the globe. But before they were operatives of the shadowy International Contracts Association, 47 and Burnwood were on their own separate paths in life streets lined with blood, bullets and revenge. As 14-year-old Diana begins a mission to track down the people who killed her parents, the one responsible, 47, is struggling to free himself and his brother, 6, from the mysterious Institute which has bred them as killers since they were kids. With a story that stretches from the heartland of America to the Berlin Wall, Lone Wolves will trace the birth of the legendary Hitman and the secret past of the woman behind him who pulls the string and knows just how hard taking a life truly is.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/agent-47-birth-of-the-hitman-eng.xml</file_xml>
     </truyen>
-	<truyen ten="marvel's ant-man and the wasp prelude" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="marvel's ant-man and the wasp prelude" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>marvel's ant-man and the wasp prelude</ten_truyen>
 		<ma_truyen>marvel-s-ant-man-and-the-wasp</ma_truyen>
         <tac_gia>Will Corona Pilgrim, Chris Allen</tac_gia>
@@ -216,7 +243,7 @@
         <gioi_thieu>SCOTT LANG's life is a bit of a mess. But when he got out of jail (yeah, jail), he swore he'd to turn it all around. Go straight. Show his daughter and ex-wife he's worthy of being a role model. But when a 'last score' lands him in HANK PYM's size-changing suit, Scott finds himself in a brand-new role: as the ANT-MAN! Hank needs someone with Scott's skills to stop DARREN CROSS from weaponizing his size-changing technology, and it's going to take the team of Scott, Hank and HOPE (daughter of the original WASP) to save the day! The adventure doesn't get any bigger (smaller?!) than this! See Scott's first mission as the ANT-MAN, and how HOPE VAN DYNE became the WASP in this adaptation of the original hit film before this summer's feature MARVEL'S ANT-MAN AND THE WASP!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/marvel-s-ant-man-and-the-wasp-eng.xml</file_xml>
     </truyen>
-	<truyen ten="suicide squad: hell to pay" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="suicide squad: hell to pay" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>suicide squad: hell to pay</ten_truyen>
 		<ma_truyen>suicide-squad-hell-to-pay</ma_truyen>
         <tac_gia>Jeff Parker, Matthew Dow Smith</tac_gia>
@@ -225,7 +252,7 @@
         <gioi_thieu>Amanda Waller has her 'Get Out of Hell Free' card, but why did she go to such lengths to acquire it?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-hell-to-pay-eng.xml</file_xml>
     </truyen>
-	<truyen ten="old man hawkeye" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="old man hawkeye" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>old man hawkeye</ten_truyen>
 		<ma_truyen>old-man-hawkeye</ma_truyen>
         <tac_gia>Ethan Sacks, Marco Checchetto</tac_gia>
@@ -234,7 +261,7 @@
         <gioi_thieu>The super heroes have fallen. The country has been divided into territories controlled by super villains. Among the wastelands lives CLINT BARTON - one of the few Avengers to survive. But it's been 45 years, and he's no Avenger. Trying to eke out a living anyway he can, the former HAWKEYE is confronted with a startling discovery: the sharpshooter is going blind. With time running short, Clint realizes there's one last thing he wants to see: revenge for his fallen comrades-in-arms. Rising-star writer ETHAN SACKS and superstar artist MARCO CHECCHETTO take you back to the Wastelands in a story set five years before the original classic OLD MAN LOGAN.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-hawkeye-eng.xml</file_xml>
     </truyen>
-	<truyen ten="raven  " tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Magic, Superhero, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
+	<truyen ten="raven  " tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Magic, Superhero, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>raven  </ten_truyen>
 		<ma_truyen>raven</ma_truyen>
         <tac_gia>Alisson Borges, Marv Wolfman</tac_gia>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/r/raven/1_medium.jpg</hinh_nho>
         <gioi_thieu>In a tale set between TEEN TITANS #24 and TEEN TITANS: REBIRTH #1, Raven takes a break from the team and moves to San Francisco to stay with her estranged aunt and face her most perilous challenge yet: high school! As Raven discovers more about her human side, one of her classmates goes missing under mysterious circumstances, and she must face an evil like none she's known before!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/raven-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="new mutants: dead souls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>new mutants: dead souls</ten_truyen>
-		<ma_truyen>new-mutants-dead-souls</ma_truyen>
-        <tac_gia>Matt Rosenberg, Adam Gorham, Ryan Stegman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/new-mutants-dead-souls/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THEY AREN'T JUST THE X-MEN IN TRAINING ANYMORE! The New Mutants are launching themselves headfirst into some of the creepiest corners of the Marvel Universe, going on the missions no one else will. But does the team know what they are really hunting for? And what are they willing to do to get it? The enigmatic MAGIK will lead her team of WOLFSBANE, RICTOR, BOOM-BOOM and STRONG GUY and bring them face-to-face with paranormal threats that they may not be prepared for, and that might just tear them apart! Rising-star writer Matthew Rosenberg (PHOENIX RESURRECTION) teams up with future superstars Adam Gorham and Michael Garland (ROCKET) to bring you the next chapter in the lives of Marvel's underdog team. Welcome to the new class of New Mutants - hope you make it out alive.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/new-mutants-dead-souls-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="sideways" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>sideways</ten_truyen>
-		<ma_truyen>sideways</ma_truyen>
-        <tac_gia>Dan Didio, Justin Jordan, Kenneth Rocafort, Dan Brown</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sideways/2_medium.jpg</hinh_nho>
-        <gioi_thieu>During the events of DARK NIGHTS: METAL, high school junior Derek James accidentally fell through a rift into the dark matter dimension! Now, as Sideways, he can create rifts in midair to leap through dimensions at will! But with that much power comes great liability and cracks are starting to form in the fabric of the space-time continuum...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sideways-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="accell" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic - read from left to right">
-		<ten_truyen>accell</ten_truyen>
-		<ma_truyen>accell</ma_truyen>
-        <tac_gia>Joe Casey, Robert Campanella, Damion Scott</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-accell/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Daniel DosSantos is a young man living at the speed of life. After gaining powers from exposure to an extraterrestrial object, DosSantos became the rapid action superhero called Accell, the first of a new public kind of self-appointed crime fighter. Unfortunately, there are consequences to moving faster than sound. Accell is about to learn that danger exists on the flipside of having superpowers and will have to grow up quickly to survive.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/accell-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
