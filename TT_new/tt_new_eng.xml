@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="isekai tensei soudouki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Drama, Fantasy, Harem, Romance" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>isekai tensei soudouki</ten_truyen>
+		<ma_truyen>isekai-tensei-soudouki</ma_truyen>
+		<tac_gia>Takami Ryousen, Honoji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/32865/2/200.jpg</hinh_nho>
+		<gioi_thieu>Balud Cornelius is the son of a noble of the Mauricia kingdom and inside him also dwell the souls of the niggardly warring states commander Oka Sadatoshi and animal ear otaku high schooler Oka Masaharu. With these 3 souls in a single body, he can exhibit extraordinary abilities when it comes to combat or managing the domain.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-tensei-soudouki-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="maou-jou de oyasumi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>maou-jou de oyasumi</ten_truyen>
+		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
+		<tac_gia>Kumanomata Kagiji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
+		<gioi_thieu>The princess of the human kingdom has been kidnapped by the demon king! But all she wants to do is get a good night's sleep!?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="sun-ken rock" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Drama, Ecchi, Martial arts, Mature, Psychological, Romance, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>sun-ken rock</ten_truyen>
+		<ma_truyen>sun-ken-rock</ma_truyen>
+		<tac_gia>Boichi</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9638/4/200.jpg</hinh_nho>
+		<gioi_thieu>Ken is a Japanese man, and Ken's love interest Yumin moves to Korea to become a police officer. He then decides to follow her to also become a police officer but instead ends up becoming the leader of a small Korean gang. What will happend to Ken?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/sun-ken-rock-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="the brave and the bold: batman and wonder woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the brave and the bold: batman and wonder woman</ten_truyen>
 		<ma_truyen>the-brave-and-the-bold-batman-and-wonder-woman</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>DARK NIGHTS: METAL left the DCU transformed in ways both terrifying and wondrous and only the Justice League is strong enough to face the threats to come... or are they? Four giant beings comprised of the universe's major energies-Mystery, Wonder, Wisdom and Entropy-who sustain their life force by devouring planets are on their way to destroy the planet of Colu. The only way to take down this unimaginable threat is for the superhero teams of Earth to forget everything they thought they knew and form new alliances. What secrets of the cosmos will Superman, Martian Manhunter and Team Mystery discover? Will Zatanna, Wonder Woman and Team Wonder awaken alien magic they cannot put back to sleep? What can Harley Quinn possibly have to teach the rest of Team Wisdom? And most importantly... why the heck is Beast Boy on Team Entropy with Lobo and Batman? Find out all this and much more in the most exciting, bombastic event of summer 2018!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/justice-league-no-justice-eng.xml</file_xml>
     </truyen>
-	<truyen ten="spirit migration" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Mystery, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>spirit migration</ten_truyen>
-		<ma_truyen>spirit-migration</ma_truyen>
-		<tac_gia>Hero Tennki, Akane Kotetsu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/29864/5/200.jpg</hinh_nho>
-		<gioi_thieu>A spirit was floating in another world's dungeon, missing its memories. Eventually 'he' learned to possess other creatures and using the bodies of the beasts in the dungeon, made his way to the outside world. Dragging a young female knight, a pretty young lady, and even a beautiful mercenary into the mix, our protagonist begins his great adventure in this world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/spirit-migration-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="tsuyokute new saga" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>tsuyokute new saga</ten_truyen>
-		<ma_truyen>tsuyokute-new-saga</ma_truyen>
-		<tac_gia>Abe Masayuki, Miura Jun</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
-		<gioi_thieu>The Demon King led his army of demons to wipe out the human race. The Hero, Kail, and his allies attacked the Demon King's castle to defeat the Demon King. The Demon King is slain, but at what cost? Kail lost all of his allies throughout the war. Friends, family, lovers, comrades. All dead, and he is dying. As Kail's life ebbs away in the Demon King's chamber, he notices a strange gem that the Demon King had coveted and approaches this relic to grab it; after an intense light glows, he is sent years into the past. After recovering from the initial shock, now in his younger body, he decides to avoid making the same mistakes of his first time through these years and to become stronger.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mahouka koukou no rettousei - tsuioku hen" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mystery, Romance, School life, Sci-fi, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>mahouka koukou no rettousei - tsuioku hen</ten_truyen>
-		<ma_truyen>mahouka-koukou-no-rettousei-tsuioku-hen</ma_truyen>
-		<tac_gia>Satou Tsutomu, Ikawa Waki</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27000/3/200.jpg</hinh_nho>
-		<gioi_thieu>'Three years ago, he had the same posture. Three years ago, he had stood behind Miyuki. Yes.... Compared to three years ago, it had changed.' Set three years prior to the present time, Tsuioku Hen tells the events that would change Miyuki's world drastically, as well as the events that led Tatsuya to become what he is now.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mahouka-koukou-no-rettousei-tsuioku-hen-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>

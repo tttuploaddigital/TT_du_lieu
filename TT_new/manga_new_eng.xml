@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="isekai tensei soudouki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Drama, Fantasy, Harem, Romance" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>isekai tensei soudouki</ten_truyen>
+		<ma_truyen>isekai-tensei-soudouki</ma_truyen>
+		<tac_gia>Takami Ryousen, Honoji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/32865/2/200.jpg</hinh_nho>
+		<gioi_thieu>Balud Cornelius is the son of a noble of the Mauricia kingdom and inside him also dwell the souls of the niggardly warring states commander Oka Sadatoshi and animal ear otaku high schooler Oka Masaharu. With these 3 souls in a single body, he can exhibit extraordinary abilities when it comes to combat or managing the domain.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-tensei-soudouki-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="maou-jou de oyasumi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>maou-jou de oyasumi</ten_truyen>
+		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
+		<tac_gia>Kumanomata Kagiji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
+		<gioi_thieu>The princess of the human kingdom has been kidnapped by the demon king! But all she wants to do is get a good night's sleep!?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="sun-ken rock" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Drama, Ecchi, Martial arts, Mature, Psychological, Romance, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>sun-ken rock</ten_truyen>
+		<ma_truyen>sun-ken-rock</ma_truyen>
+		<tac_gia>Boichi</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9638/4/200.jpg</hinh_nho>
+		<gioi_thieu>Ken is a Japanese man, and Ken's love interest Yumin moves to Korea to become a police officer. He then decides to follow her to also become a police officer but instead ends up becoming the leader of a small Korean gang. What will happend to Ken?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/sun-ken-rock-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="ragna crimson" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ragna crimson</ten_truyen>
 		<ma_truyen>ragna-crimson</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/475/3/200.jpg</hinh_nho>
 		<gioi_thieu>I like you. But, I kept on thinking that I should hate him. I like you. But, you look like a different guy to me. I like you. But, you told me that I'm like 'your younger sister'. I like you. But, you kissed that person in front of me. Numerous 'red threads' intertwine. Brewing a few romances. This is the willfully unrestrained, youth idol drama of 7 guys and girls.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/akaiito-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="idol na kanojo to wotaku na boku to" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>idol na kanojo to wotaku na boku to</ten_truyen>
-		<ma_truyen>idol-na-kanojo-to-wotaku-na-boku-to</ma_truyen>
-		<tac_gia>Kasuga Shun</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42688/2/200.jpg</hinh_nho>
-		<gioi_thieu>She is a famous idol. On the other hand, I am just a nerd. We have to keep our relationship a secret.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/idol-na-kanojo-to-wotaku-na-boku-to-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="koneko-chan, kocchi ni oide" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Josei, Romance, Slice of life, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>koneko-chan, kocchi ni oide</ten_truyen>
-		<ma_truyen>koneko-chan-kocchi-ni-oide</ma_truyen>
-		<tac_gia>Watabe Mihou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43102/2/200.jpg</hinh_nho>
-		<gioi_thieu>After Yuko graduated from junior college, she ended up running a shop. Though her career is going well, she hasn't had time to work on her love life. One day, she's out drinking with her best friend Mikan, bemoaning her lack of a boyfriend for a Christmas date. When she trips and hurts her leg, Mikan asks her little brother Leo (an 18-year-old) to see Yuko home safely. When they arrive at her apartment, though, Yuko makes a move on him and they end up sleeping together. The next morning, she realizes that she not only slept with her best friend's little brother, she actually took his virginity! Leo isn't satisfied with it being a one-night stand, and they start having a completely sexual relationship. Will she be able to keep this from Mikan, and is it possible their relationship may grow to something more?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koneko-chan-kocchi-ni-oide-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="aka akatoretachi no monogatari" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Ecchi, Mature, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>aka akatoretachi no monogatari</ten_truyen>
-		<ma_truyen>aka-akatoretachi-no-monogatari</ma_truyen>
-		<tac_gia>Kaishaku</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27304/5/200.jpg</hinh_nho>
-		<gioi_thieu>Itsuki and Hayato, two brothers who grew up in a village nestled deep in the mountains, set out to hunt down a wolf that has been attacking the livestock of the village. Itsuki is about to go in for the kill when a gigantic beast appears out of nowhere, snatching up the wolf in its jaws and sucking the life out of it. The beast that stared Itsuki down was a gargantuan, blood-sucking vampire deer? Will the two brothers be able to return to the village alive?! Find out in this blood-filled action-packed story by extraordinary mangaka Kaishaku!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/aka-akatoretachi-no-monogatari-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
