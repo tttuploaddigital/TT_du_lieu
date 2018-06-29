@@ -642,14 +642,14 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <gioi_thieu>Moritaka Mashiro (Saiko), with his superb drawing skill, is invited by his writing genius classmate Akito Takagi (Shujin) to tread the difficult path of the mangaka!! His sights are set on his naive yet earnest joint dream with Miho Azuki, who is aiming to become a voice actress!! Saiko and Shujin team up as writer and artist, aiming to be serialized in Weekly Shonen Jump, make a hit, and then release an anime. They bring their manuscripts into editors and set off on the road to becoming pro manga artists!! This is a new-age story of manga success!!</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/bakuman-eng.xml</file_xml>
     </truyen>
-	<truyen ten="bane: conquest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="bane: conquest" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>bane: conquest</ten_truyen>
 		<ma_truyen>bane-conquest</ma_truyen>
         <tac_gia>Chuck Dixon, Graham Nolan, Gregory Wright</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/bane-conquest/1_medium.jpg</hinh_nho>
         <gioi_thieu>The co-creators of Bane make a triumphant return to the character, with a twelve-issue series that will push him to the limit! Bane is seeking to create a global criminal empire with the help of his original gang, Bird, Trogg, and Zombie. The Man Who Broke The Bat moves beyond Gotham to find new cities to conquer and new enemies to crush. He won't stop until he stands at the top of the world of crime! For Bane, it's all about CONQUEST.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bane-conquest-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/bane-conquest-eng.xml</file_xml>
     </truyen>
 	<truyen ten="bankshot" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>bankshot</ten_truyen>
