@@ -171,14 +171,14 @@
         <gioi_thieu>“Untold Tales and Alternate Timelines,” part 1: BttF creator/screenwriter Bob Galereturns with all-new tales from the twisting and turning timeline that made Back to the Future a, well… TIMELESS pop-culture phenomenon! Take a trip back to 1985 and be there when Doc Brown and first meet, and then jump even farther back, to 1945, to witness Doc's involvement in the super-secret Manhattan Project.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/back-to-the-future-2015-eng.xml</file_xml>
     </truyen>
-	<truyen ten="bane: conquest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="bane: conquest" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>bane: conquest</ten_truyen>
 		<ma_truyen>bane-conquest</ma_truyen>
         <tac_gia>Chuck Dixon, Graham Nolan, Gregory Wright</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/bane-conquest/1_medium.jpg</hinh_nho>
         <gioi_thieu>The co-creators of Bane make a triumphant return to the character, with a twelve-issue series that will push him to the limit! Bane is seeking to create a global criminal empire with the help of his original gang, Bird, Trogg, and Zombie. The Man Who Broke The Bat moves beyond Gotham to find new cities to conquer and new enemies to crush. He won't stop until he stands at the top of the world of crime! For Bane, it's all about CONQUEST.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bane-conquest-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/bane-conquest-eng.xml</file_xml>
     </truyen>
 	<truyen ten="bankshot" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>bankshot</ten_truyen>
@@ -936,7 +936,7 @@
         <gioi_thieu>THE GAUNTLET STARTS HERE! K'un Lun is in ruins. The chi fueling Danny's fists is wavering. Is there a future for the Iron Fist? Danny Rand pushes himself to the breaking point, finding fights to prove his worth. But a bigger fight than he can handle may have found him...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/iron-fist-2017-eng.xml</file_xml>
     </truyen>
-	<truyen ten="iron maiden: legacy of the beast" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="iron maiden: legacy of the beast" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>iron maiden: legacy of the beast</ten_truyen>
 		<ma_truyen>iron-maiden-legacy-of-the-beast</ma_truyen>
         <tac_gia>Ian Edginton, Llexi Leon, Kevin West, Jason Gorder</tac_gia>
