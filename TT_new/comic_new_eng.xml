@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="deadpool: assassin" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>deadpool: assassin</ten_truyen>
+		<ma_truyen>deadpool-assassin</ma_truyen>
+        <tac_gia>Cullen Bunn, Mark Bagley</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-assassin/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Deadpool's quest to beat the rest continues, and this time he's squaring off against the Assassins Guild in the Big Easy! The Merc with the Mouth's healing factor will get put to the ultimate test when he's pitted against the knife-wielding speedster called HARVESTER! But even if he's lucky enough to survive that encounter, Deadpool's actions in this very comics mag will align more than one ne'er-do-well against him... and Harvester'll look like a walk in the park!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-assassin-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the terrifics" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the terrifics</ten_truyen>
+		<ma_truyen>the terrifics</ma_truyen>
+        <tac_gia>Jeff Lemire, Ivan Reis, Joe Prado, Marcelo Maiolo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-terrifics/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Bound together by fate, united by the spirit of exploration and hope for tomorrow, the Terrifics bound from the Dark Multiverse of Meta! When Mr. Terrific, Metamorpho, Plastic Man and Phantom Girl find themselves literally bound together by a tragic accident, our team of unlikely allies must rely on one another to make their way back home. But a startling revelation on their return trip brings them face to face with a new mystery: where in the universe is Tom Strong?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-terrifics-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="hunt for wolverine: mystery in madripoor" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hunt for wolverine: mystery in madripoor</ten_truyen>
+		<ma_truyen>hunt-for-wolverine-mystery-in-madripoor</ma_truyen>
+        <tac_gia>Jim Zub, Thony Silas, Greg Land</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hunt-for-wolverine-mystery-in-madripoor/1_medium.jpg</hinh_nho>
+        <gioi_thieu>WHAT MAYHEM HAS THE RETURN OF THE MUTANT WITH METAL CLAWS CAUSED IN MADRIPOOR? When Wolverine's former alter-ego Patch is sighted on the streets of Madripoor, the infamous island of ill-repute, Kitty Pryde pulls together a group of Logan's closest friends to try and find him: Storm, Rogue, Psylocke, Domino, and Jubilee. What they discover is a twisted cabal of crime and dark mysteries that will take these X-Men from the depths of Lowtown to the stars circling overhead in the Hunt For Wolverine.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hunt-for-wolverine-mystery-in-madripoor-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="the brave and the bold: batman and wonder woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the brave and the bold: batman and wonder woman</ten_truyen>
 		<ma_truyen>the-brave-and-the-bold-batman-and-wonder-woman</ma_truyen>
@@ -18,7 +45,7 @@
         <gioi_thieu>SPINNING OUT FROM THE FALLOUT OF THE BATTLE FOR THE POWER STONE IN THE PAGES OF INFINITY COUNTDOWN! The Champions head to space to save the Nova Corps and stop Warbringer, but other forces are moving against them... These young heroes are in for the fight of their lives!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-countdown-champions-eng.xml</file_xml>
     </truyen>
-	<truyen ten="iron maiden: legacy of the beast" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="iron maiden: legacy of the beast" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>iron maiden: legacy of the beast</ten_truyen>
 		<ma_truyen>iron-maiden-legacy-of-the-beast</ma_truyen>
         <tac_gia>Ian Edginton, Llexi Leon, Kevin West, Jason Gorder</tac_gia>
