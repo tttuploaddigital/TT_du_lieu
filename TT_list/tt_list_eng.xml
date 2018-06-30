@@ -1554,6 +1554,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>Frank Castle has an unstoppable will a powerful drive to punish those who do wrong, rooted in the tragic killing of his family. Wade Wilson has an unstoppable mouth an unthinking knack for annoying everyone around him, rooted in thinking he's funny. Both men, however, are among the deadliest on the planet.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/deadpool-vs-the-punisher-eng.xml</file_xml>
     </truyen>
+	<truyen ten="deadpool: assassin" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>deadpool: assassin</ten_truyen>
+		<ma_truyen>deadpool-assassin</ma_truyen>
+        <tac_gia>Cullen Bunn, Mark Bagley</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-assassin/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Deadpool's quest to beat the rest continues, and this time he's squaring off against the Assassins Guild in the Big Easy! The Merc with the Mouth's healing factor will get put to the ultimate test when he's pitted against the knife-wielding speedster called HARVESTER! But even if he's lucky enough to survive that encounter, Deadpool's actions in this very comics mag will align more than one ne'er-do-well against him... and Harvester'll look like a walk in the park!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-assassin-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="deadpool: back in black" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>deadpool: back in black</ten_truyen>
 		<ma_truyen>deadpool-back-in-black</ma_truyen>
@@ -2600,6 +2609,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <hinh_nho>https://comicbookroundup.com/img/covers/h/hulk-(2016)/1_medium.jpg</hinh_nho>
         <gioi_thieu>JENNIFER WALTERS has survived the Civil War...barely...and having risen from the rubble, she re-enters the world a different kind of hero. Fueled by a quiet rage, she is determined to move forward, to go on with her life, but the pain of the past and all she's lost is always there – an undercurrent, a pulse, waiting to quicken and trigger Jen's transformation into the one thing she doesn't have control over...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/hulk-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="hunt for wolverine: mystery in madripoor" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hunt for wolverine: mystery in madripoor</ten_truyen>
+		<ma_truyen>hunt-for-wolverine-mystery-in-madripoor</ma_truyen>
+        <tac_gia>Jim Zub, Thony Silas, Greg Land</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hunt-for-wolverine-mystery-in-madripoor/1_medium.jpg</hinh_nho>
+        <gioi_thieu>WHAT MAYHEM HAS THE RETURN OF THE MUTANT WITH METAL CLAWS CAUSED IN MADRIPOOR? When Wolverine's former alter-ego Patch is sighted on the streets of Madripoor, the infamous island of ill-repute, Kitty Pryde pulls together a group of Logan's closest friends to try and find him: Storm, Rogue, Psylocke, Domino, and Jubilee. What they discover is a twisted cabal of crime and dark mysteries that will take these X-Men from the depths of Lowtown to the stars circling overhead in the Hunt For Wolverine.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hunt-for-wolverine-mystery-in-madripoor-eng.xml</file_xml>
     </truyen>
 	<truyen ten="hunter x hunter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Martial arts, Psychological, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>hunter x hunter</ten_truyen>
@@ -5985,6 +6003,15 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
 		<gioi_thieu>A young Emperor is cast out of his Empire by his uncle, who seizes the throne for himself. The young Emperor sets out to become the strongest among the living, and take back what is rightfully his...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/the-sword-of-emperor-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="the terrifics" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the terrifics</ten_truyen>
+		<ma_truyen>the terrifics</ma_truyen>
+        <tac_gia>Jeff Lemire, Ivan Reis, Joe Prado, Marcelo Maiolo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-terrifics/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Bound together by fate, united by the spirit of exploration and hope for tomorrow, the Terrifics bound from the Dark Multiverse of Meta! When Mr. Terrific, Metamorpho, Plastic Man and Phantom Girl find themselves literally bound together by a tragic accident, our team of unlikely allies must rely on one another to make their way back home. But a startling revelation on their return trip brings them face to face with a new mystery: where in the universe is Tom Strong?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-terrifics-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="the third party" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Webtoons, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>the third party</ten_truyen>
 		<ma_truyen>the-third-party</ma_truyen>
