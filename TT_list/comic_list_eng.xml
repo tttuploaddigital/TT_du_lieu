@@ -648,7 +648,7 @@
         <gioi_thieu>The series that sets up the epic VENOM EVENT of 2017 STARTS HERE! Each issue introduces another major Venomized character that will feed into VENOMVERSE itself! THIS ISSUE, the young mutant clone designated X-23 collides with a cryogenic tube containing a strange alien symbiote during her frenzied escape from The Facility, . Bonding with the alien enhances her already considerable abilities, and aids in her escape, but it begins to alter her mind! On the run from the very people that made her, can X-23 hold it together or is she doomed to give in to Venom!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/edge-of-venomverse-eng.xml</file_xml>
     </truyen>
-	<truyen ten="everafter" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Drama, Mature, Political Thriller" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="everafter" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Drama, Mature, Political" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>everafter</ten_truyen>
 		<ma_truyen>everafter</ma_truyen>
         <tac_gia>Dave Justus, Matt Sturges, Travis Moore</tac_gia>
@@ -2124,14 +2124,14 @@
         <gioi_thieu>After a sleep of over a thousand years, Vampirella finds herself back among the land of the living, but in a world far different than the one she remembers, where hope is laced with fear and blood has a far different taste.  And speaking of taste, finding an appropriate outfit for the era leads our fanged fatale to a chance encounter that will garner her not one but two potential allies.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/vampirella-2017-eng.xml</file_xml>
     </truyen>	
-	<truyen ten="van helsing vs. werewolf" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>van helsing vs. werewolf</ten_truyen>
-		<ma_truyen>van-helsing-vs-werewolf</ma_truyen>
+	<truyen ten="van helsing vs. the werewolf" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>van helsing vs. the werewolf</ten_truyen>
+		<ma_truyen>van-helsing-vs-the-werewolf</ma_truyen>
         <tac_gia>Chuck Dixon, Allan Otero, Robby Bevard</tac_gia>
         <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/v/van-helsing-vs-the-werewolf/1_medium.jpg</hinh_nho>
         <gioi_thieu>A brutal werewolf attack on a high mountain ledge! A heist in the Forbidden City. An epic kung-fu brawl at the airport! A battle with a vampire at 35,000 feet! A horrific crash I the Himalayas! And that's only the start of the newest Liesel Van Helsing adventure! The legendary vampire killer is on a global hunt for the Sword of Heaven, the ultimate demon-killing weapon. This new limited series features the Zenescope premiere of writer Chuck Dixon (Batman, Punisher, Bane: Conquest).</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/van-helsing-vs-werewolf-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/van-helsing-vs-the-werewolf-eng.xml</file_xml>
     </truyen>
 	<truyen ten="venom (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>venom (2016)</ten_truyen>
