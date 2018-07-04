@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="uchuu kyoudai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Psychological, Sci-fi, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>uchuu kyoudai</ten_truyen>
+		<ma_truyen>uchuu-kyoudaii</ma_truyen>
+		<tac_gia>Koyama Chuuya</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/73/8/200.jpg</hinh_nho>
+		<gioi_thieu>One night in 2006, when they were young, the two brothers Mutta (born 1993) and Hibito (born 1996) saw what appeared to be a UFO heading for the moon. They decided that night to both become astronauts and travel out into space. In 2025, Hibito has become an astronaut, and he's going to go to the moon. Mutta ended up following a more traditional career path with an auto development company. However, Mutta just ruined his career through a violent altercation with his boss. Now, not only has he lost his job, he appears to be blacklisted in the entire industry. Maybe this is a rare opportunity for Mutta to once again chase his childhood dream and become an astronaut like his little brother! Nominated for the 2nd and 3rd Manga Taisho Award and won the 56th Shogakukan Manga Award and 35th Kodansha Manga Award in the General Category.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/uchuu-kyoudaii-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="saenai kanojo no sodatekata - koisuru metronome" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>saenai kanojo no sodatekata - koisuru metronome</ten_truyen>
+		<ma_truyen>saenai-kanojo-no-sodatekata-koisuru-metronome</ma_truyen>
+		<tac_gia>Maruto Fumiaki, Musha Sabu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27524/2/200.jpg</hinh_nho>
+		<gioi_thieu>Famed author Kasumigaoka Utaha had always struggled with her novel series, 'Koisuru Metronome' until she met Tomoyo Aki; her biggest fan who inspires her to give it a proper conclusion and later becomes her personal editor. Now with Tomoya's passion and Kasumigaoka's determination combined, the two work together on their latest series while also discovering their true feelings and finding parallels between themselves and the characters within Kasumigaoka's novels.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saenai-kanojo-no-sodatekata-koisuru-metronome-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="seikon no qwaser" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Harem, Mature, School life, Shounen., Supernatural, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>seikon no qwaser</ten_truyen>
+		<ma_truyen>seikon-no-qwaser</ma_truyen>
+		<tac_gia>Yoshino Hiroyuki, Satou Kenetsu</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/8688/5/200.jpg</hinh_nho>
+		<gioi_thieu>Balud Cornelius is the son of a noble of the Mauricia kingdom and inside him also dwell the souls of the niggardly warring states commander Oka Sadatoshi and animal ear otaku high schooler Oka Masaharu. With these 3 souls in a single body, he can exhibit extraordinary abilities when it comes to combat or managing the domain.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/seikon-no-qwaser-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="deadpool: assassin" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>deadpool: assassin</ten_truyen>
 		<ma_truyen>deadpool-assassin</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>Hugo Award-nominated novelist Saladin Ahmed (Black Bolt) and artist Sami Kivela (Beautiful Canvas) present one woman's search for the truth that destroyed her family. Hard-nosed, chain-smoking tabloid reporter Elena Abbott investigates a series of grisly crimes that the police have ignored. Crimes she knows to be the work of dark occult forces. Forces that took her husband from her. Forces she has sworn to destroy.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/abbott-eng.xml</file_xml>
     </truyen>
-	<truyen ten="yomekura" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>yomekura</ten_truyen>
-		<ma_truyen>yomekura</ma_truyen>
-		<tac_gia>Chiaki Tarou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43502/1/200.jpg</hinh_nho>
-		<gioi_thieu>Before she died, Taga Reiji's mother made arrangements to ensure her son would not be alone. What Taga did not know about these 'arrangements' was that he would be enrolled into a special class at the school his mother founded where prospective fiance candidates would all vie for his hand in marriage. How will Taga's new life of constantly being surrounded by girls unfold and will he be able to choose just one?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yomekura-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="back street girls - washira idol hajimemashita." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Gender bender, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>back street girls - washira idol hajimemashita.</ten_truyen>
-		<ma_truyen>back-street-girls-washira-idol-hajimemashita</ma_truyen>
-		<tac_gia>Jasmine Gyuh</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42569/2/200.jpg</hinh_nho>
-		<gioi_thieu>A group of 3 yakuza failed their boss for the last time. After messing up an important job, the boss gives them 2 choices: Honorably committing suicide, or go to Thailand to get a sex reassignment surgery in order to becomes 'female' idols. After a gruesome year long training to become idols, they successfully debut, with overwhelming popularity, much to their dismay. This is where their tragedy truly begins.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/back-street-girls-washira-idol-hajimemashita-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="erotic fairy tales: the little mermaid" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Josei, Mature, Romance, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>erotic fairy tales: the little mermaid</ten_truyen>
-		<ma_truyen>erotic-fairy-tales-the-little-mermaid</ma_truyen>
-		<tac_gia>Takano Yumi</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/23077/2/200.jpg</hinh_nho>
-		<gioi_thieu>Lotte has always been fascinated by the surface world, but mermaids are forbidden to ever have contact with humans. One day, she finds a handsome young man adrift in a shipwreck and takes him to shore. More obsessed with the surface than ever, Lotte jumps at the chance to become human when a demon named J offers her a magic potion. But there's more to J's potion-and his intentions-than meets the eye...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/erotic-fairy-tales-the-little-mermaid-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>

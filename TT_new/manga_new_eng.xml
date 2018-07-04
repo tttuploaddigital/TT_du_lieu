@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="uchuu kyoudai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Psychological, Sci-fi, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>uchuu kyoudai</ten_truyen>
+		<ma_truyen>uchuu-kyoudaii</ma_truyen>
+		<tac_gia>Koyama Chuuya</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/73/8/200.jpg</hinh_nho>
+		<gioi_thieu>One night in 2006, when they were young, the two brothers Mutta (born 1993) and Hibito (born 1996) saw what appeared to be a UFO heading for the moon. They decided that night to both become astronauts and travel out into space. In 2025, Hibito has become an astronaut, and he's going to go to the moon. Mutta ended up following a more traditional career path with an auto development company. However, Mutta just ruined his career through a violent altercation with his boss. Now, not only has he lost his job, he appears to be blacklisted in the entire industry. Maybe this is a rare opportunity for Mutta to once again chase his childhood dream and become an astronaut like his little brother! Nominated for the 2nd and 3rd Manga Taisho Award and won the 56th Shogakukan Manga Award and 35th Kodansha Manga Award in the General Category.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/uchuu-kyoudaii-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="saenai kanojo no sodatekata - koisuru metronome" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>saenai kanojo no sodatekata - koisuru metronome</ten_truyen>
+		<ma_truyen>saenai-kanojo-no-sodatekata-koisuru-metronome</ma_truyen>
+		<tac_gia>Maruto Fumiaki, Musha Sabu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27524/2/200.jpg</hinh_nho>
+		<gioi_thieu>Famed author Kasumigaoka Utaha had always struggled with her novel series, 'Koisuru Metronome' until she met Tomoyo Aki; her biggest fan who inspires her to give it a proper conclusion and later becomes her personal editor. Now with Tomoya's passion and Kasumigaoka's determination combined, the two work together on their latest series while also discovering their true feelings and finding parallels between themselves and the characters within Kasumigaoka's novels.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saenai-kanojo-no-sodatekata-koisuru-metronome-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="seikon no qwaser" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Harem, Mature, School life, Shounen., Supernatural, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>seikon no qwaser</ten_truyen>
+		<ma_truyen>seikon-no-qwaser</ma_truyen>
+		<tac_gia>Yoshino Hiroyuki, Satou Kenetsu</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/8688/5/200.jpg</hinh_nho>
+		<gioi_thieu>Balud Cornelius is the son of a noble of the Mauricia kingdom and inside him also dwell the souls of the niggardly warring states commander Oka Sadatoshi and animal ear otaku high schooler Oka Masaharu. With these 3 souls in a single body, he can exhibit extraordinary abilities when it comes to combat or managing the domain.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/seikon-no-qwaser-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="isekai tensei soudouki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Drama, Fantasy, Harem, Romance" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>isekai tensei soudouki</ten_truyen>
 		<ma_truyen>isekai-tensei-soudouki</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/10850/1/200.jpg</hinh_nho>
 		<gioi_thieu>Nitta Shin finds himself saddled with a sudden, crushing debt. His loan agent tells him he can escape repayment if he keeps a particular woman company. He gradually learns that this arrangement might not be as easy as he once thought.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/velvet-kiss-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="boku to kimi to de niji ni naru" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>boku to kimi to de niji ni naru</ten_truyen>
-		<ma_truyen>boku-to-kimi-to-de-niji-ni-naru</ma_truyen>
-		<tac_gia>Fujisawa Shizuki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/1382/1/200.jpg</hinh_nho>
-		<gioi_thieu>Because she loved the word 'wisdom', Rui hated the words 'waste' and 'fuzzy'. One day, a guy named Shou appeared on her life. And thank to that encounter, Rui will suddenly change... And that's the beginning of a 'rainbow school daze' between that super dry girl and that careless guy.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-to-kimi-to-de-niji-ni-naru-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ane no onaka o fukuramaseru wa boku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ane no onaka o fukuramaseru wa boku</ten_truyen>
-		<ma_truyen>ane-no-onaka-o-fukuramaseru-wa-boku</ma_truyen>
-		<tac_gia>Sakai Onta, Onda Chiro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42784/2/200.jpg</hinh_nho>
-		<gioi_thieu>This is the story of a pair of step-siblings who are now living alone together. The high-school-age older sister, Kyoko, is pretty wild (and is even into pro-wrestling), while the elementary-school-age little brother is a fairly serious kid. He is often embarrassed by her teasing. The two of them pass their daily life together, every day cooking for one another.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ane-no-onaka-o-fukuramaseru-wa-boku-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="akaiito" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>akaiito</ten_truyen>
-		<ma_truyen>akaiito</ma_truyen>
-		<tac_gia>Miyasaka Kaho</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/475/3/200.jpg</hinh_nho>
-		<gioi_thieu>I like you. But, I kept on thinking that I should hate him. I like you. But, you look like a different guy to me. I like you. But, you told me that I'm like 'your younger sister'. I like you. But, you kissed that person in front of me. Numerous 'red threads' intertwine. Brewing a few romances. This is the willfully unrestrained, youth idol drama of 7 guys and girls.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/akaiito-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
