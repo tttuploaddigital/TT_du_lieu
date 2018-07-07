@@ -211,7 +211,7 @@
 		<ten_truyen>batman and the signal</ten_truyen>
 		<ma_truyen>batman-and-the-signal</ma_truyen>
         <tac_gia>Tony Patrick, Scott Snyder, Cully Hamner, Laura Martin</tac_gia>
-        <tinh_trang>Comic_Completed</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-and-the-signal/1_medium.jpg</hinh_nho>
         <gioi_thieu>Batman may own the night, but with new villains emerging during the day he needs an ally to defend the city when he can't. Only one teen is up to the challenge, Duke Thomas. After months of training, he's ready to step out of the shadow of the bat to become his own kind of hero. Meet Gotham City's newest protector: The Signal! Spinning out of adventures in ALL-STAR BATMAN and WE ARE ROBIN, comics superstar Scott Snyder and newcomer Tony Patrick take our young hero to new heights in this exciting miniseries with artwork by Cully Hamner.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/batman-and-the-signal-eng.xml</file_xml>
@@ -512,6 +512,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/d/darkness-visible/1_medium.jpg</hinh_nho>
         <gioi_thieu>When the demons came, humanity reluctantly learned to share the world with another sentient race. Eighty years later, this uneasy co-existence has spawned an endless terrorist conflict. Detective Daniel Aston, charged with being the thin blue line between the two sides, is tested to the limit when a demon sets up house inside his soul. But to save his daughter, he'll pay any price—including genocide.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/darkness-visible-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dc nation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+        <tac_gia>Brian Michael Bendis, Tom King, Scott Snyder, James Tynion IV, Joshua Williamson, Jose Luis Garcia-Lopez, Jorge Jimenez, Clay Mann</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+        <gioi_thieu>DC Nation features three brand-new stories from a lineup of superstar talent that will appear only in this comic book and will not be reprinted in another comic book before each series' collected editions.-and each tale serves as a prelude to some of the biggest DC events of 2018!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dc-nation-eng.xml</file_xml>
     </truyen>
 	<truyen ten="dead drop" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>dead drop</ten_truyen>
@@ -836,6 +845,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/i/i-hate-fairyland/1_medium.jpg</hinh_nho>
         <gioi_thieu>In an adventure that ain't for the little kiddies, (unless you have super cool parents, then whatever), you'll meet Gert—a six year old girl who has been stuck in the magical world of Fairyland for thirty years and will hack and slash her way through anything to find her way back home. Join Gert and her giant battle-axe on a delightfully blood soaked journey to see who will survive the girl who HATES FAIRYLAND.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/i-hate-fairyland-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="immortal hulk" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>immortal hulk</ten_truyen>
+		<ma_truyen>immortal-hulk</ma_truyen>
+        <tac_gia>Al Ewing, Joe Bennett, Alex Ross</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
+        <gioi_thieu>HORROR HAS A NAME. You'd never notice the man. He doesn't like to be noticed. He's quiet. Calm. Never complains. If someone were to walk up and shoot him in the head... all he'd do is die. Until night falls. And someone else gets up again. The man's name is Banner. The horror is THE IMMORTAL HULK.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/immortal-hulk-eng.xml</file_xml>
     </truyen>
 	<truyen ten="infamous iron man" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>infamous iron man</ten_truyen>
@@ -1494,14 +1512,14 @@
         <gioi_thieu>Shade has shed her alien identity. She's stepped out of her original Earth body and into another one. Now, free of the burdens of any past life, and finally on her own, she sets out to see more of her new home. But how does she cope when the madness takes all the human emotions she was forced to confront in the Milk Wars and turns them into a bouillabaisse of memory and confusion? And to make it even more challenging, Shade must also face her namesake, the original Changing Man.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shade-the-changing-woman-eng.xml</file_xml>
     </truyen>
-	<truyen ten="shadows on the grave" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="shadows on the grave" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>shadows on the grave</ten_truyen>
 		<ma_truyen>shadows-on-the-grave</ma_truyen>
         <tac_gia>Richard Corben</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/shadows-on-the-grave/1_medium.jpg</hinh_nho>
         <gioi_thieu>The master of supernatural horror is back with bizarre tales of terror in his signature black-and-white style. Running through the entire series is the continuing story of Corben's new warrior character, Denaeus, reminiscent of his best-loved creation, Den from the classic Heavy Metal series.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shadows-on-the-grave-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/shadows-on-the-grave-eng.xml</file_xml>
     </truyen>
 	<truyen ten="she-hulk (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>she-hulk (2018)</ten_truyen>
@@ -1880,6 +1898,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/k/kamandi-challenge/1_medium.jpg</hinh_nho>
         <gioi_thieu>Prepare to take part in one of the greatest adventures from the infinite future of the DC Universe, and join the industry's top creative teams in a round-robin, no-holds-barred, storytelling extravaganza titled THE KAMANDI CHALLENGE! Born from the mind of Jack 'King' Kirby, the post apocalyptic Earth of Kamandi has been a fan favorite for decades, and now 14 intrepid teams of writers and artists build on this incredible foundation and take the title character on an epic quest to find his long-lost parents and travel to places seen and unseen in the DC Universe. Each issue will end with an unimaginable cliffhanger, and it's up to the next creative team to resolve it before creating their own. It's a challenge worthy of 'The King' himself! In this premiere issue, the Last Boy on Earth is dragged from his safe haven by a group of tigers, only to face the nightmarish threat of the ultimate weapon!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-kamandi-challenge-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the man of steel (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the man of steel (2018)</ten_truyen>
+		<ma_truyen>the-man-of-steel-2018</ma_truyen>
+        <tac_gia>Brian Michael Bendis, Jason Fabok, Ivan Reis</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/man-of-steel-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A new era begins for Superman as a threat from his earliest origins reemerges to destroy the Last Son of Krypton. As Superman struggles to come to grips with what has happened to his wife and son, he must also face a new threat that's determined to burn down Metropolis!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-man-of-steel-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="the mighty thor" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the mighty thor</ten_truyen>
