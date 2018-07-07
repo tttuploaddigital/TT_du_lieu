@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="dc nation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+        <tac_gia>Brian Michael Bendis, Tom King, Scott Snyder, James Tynion IV, Joshua Williamson, Jose Luis Garcia-Lopez, Jorge Jimenez, Clay Mann</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+        <gioi_thieu>DC Nation features three brand-new stories from a lineup of superstar talent that will appear only in this comic book and will not be reprinted in another comic book before each series' collected editions.-and each tale serves as a prelude to some of the biggest DC events of 2018!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dc-nation-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="immortal hulk" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>immortal hulk</ten_truyen>
+		<ma_truyen>immortal-hulk</ma_truyen>
+        <tac_gia>Al Ewing, Joe Bennett, Alex Ross</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
+        <gioi_thieu>HORROR HAS A NAME. You'd never notice the man. He doesn't like to be noticed. He's quiet. Calm. Never complains. If someone were to walk up and shoot him in the head... all he'd do is die. Until night falls. And someone else gets up again. The man's name is Banner. The horror is THE IMMORTAL HULK.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/immortal-hulk-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the man of steel (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the man of steel (2018)</ten_truyen>
+		<ma_truyen>the-man-of-steel-2018</ma_truyen>
+        <tac_gia>Brian Michael Bendis, Jason Fabok, Ivan Reis</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/man-of-steel-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A new era begins for Superman as a threat from his earliest origins reemerges to destroy the Last Son of Krypton. As Superman struggles to come to grips with what has happened to his wife and son, he must also face a new threat that's determined to burn down Metropolis!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-man-of-steel-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="uchuu kyoudai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Psychological, Sci-fi, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>uchuu kyoudai</ten_truyen>
 		<ma_truyen>uchuu-kyoudaii</ma_truyen>
@@ -243,31 +270,4 @@
 		<gioi_thieu>Not a lot of people know that one of the most talented and ruthless Mahjong players in the city is a young high school boy. Kei is a teenager of few words, but his observation skills, unwavering will and experience in the game allows him to survive in a world full of powerful, rich and dangerous characters. Kei is currently hiding a girl named Amina who has entered the country illegally and protecting her from being deported. He spends his days sleeping through class and his nights playing high-stakes Mahjong, waiting for when a worthy opponent arrives.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tohai-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="legenderry red sonja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Steampunk, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>legenderry red sonja</ten_truyen>
-		<ma_truyen>legenderry-red-sonja</ma_truyen>
-        <tac_gia>Marc Andreyko, Igor Lima</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/l/legenderry-red-sonja-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The last we saw of Red Sonja of the Legenderry world, she was living the pirate's life aboard her ship, The Nautilus. But times have changed. As she tries to rebuild her life once again, she must save the Big City from two houses divided and the star crossed love bringing them to the brink of war!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/legenderry-red-sonja-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the musketeers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the musketeers</ten_truyen>
-		<ma_truyen>the-musketeers</ma_truyen>
-        <tac_gia>Terry Kavanagh, Daniel Maine, Bryan Valenza</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/musketeers/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A new team is introduced to the Grimm Universe! A group of super-powered beings calling themselves the Musketeers has emerged in Philadelphia. Using their powers to help those in trouble - as well as giving themselves a lifestyle befitting champions - the line between hero and villain is easily blurred. While the team sees their actions as justified, the city's police force has their own ideas... ones that will see the Musketeers locked away.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-musketeers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="abbott" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>abbott</ten_truyen>
-		<ma_truyen>abbott</ma_truyen>
-        <tac_gia>Saladin Ahmed, Sami Kivela, Jason Wordie, Taj Tenfold</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/abbott/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Hugo Award-nominated novelist Saladin Ahmed (Black Bolt) and artist Sami Kivela (Beautiful Canvas) present one woman's search for the truth that destroyed her family. Hard-nosed, chain-smoking tabloid reporter Elena Abbott investigates a series of grisly crimes that the police have ignored. Crimes she knows to be the work of dark occult forces. Forces that took her husband from her. Forces she has sworn to destroy.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/abbott-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

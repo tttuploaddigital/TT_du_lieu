@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="dc nation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+        <tac_gia>Brian Michael Bendis, Tom King, Scott Snyder, James Tynion IV, Joshua Williamson, Jose Luis Garcia-Lopez, Jorge Jimenez, Clay Mann</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+        <gioi_thieu>DC Nation features three brand-new stories from a lineup of superstar talent that will appear only in this comic book and will not be reprinted in another comic book before each series' collected editions.-and each tale serves as a prelude to some of the biggest DC events of 2018!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dc-nation-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="immortal hulk" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>immortal hulk</ten_truyen>
+		<ma_truyen>immortal-hulk</ma_truyen>
+        <tac_gia>Al Ewing, Joe Bennett, Alex Ross</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
+        <gioi_thieu>HORROR HAS A NAME. You'd never notice the man. He doesn't like to be noticed. He's quiet. Calm. Never complains. If someone were to walk up and shoot him in the head... all he'd do is die. Until night falls. And someone else gets up again. The man's name is Banner. The horror is THE IMMORTAL HULK.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/immortal-hulk-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the man of steel (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the man of steel (2018)</ten_truyen>
+		<ma_truyen>the-man-of-steel-2018</ma_truyen>
+        <tac_gia>Brian Michael Bendis, Jason Fabok, Ivan Reis</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/man-of-steel-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A new era begins for Superman as a threat from his earliest origins reemerges to destroy the Last Son of Krypton. As Superman struggles to come to grips with what has happened to his wife and son, he must also face a new threat that's determined to burn down Metropolis!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-man-of-steel-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="deadpool: assassin" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>deadpool: assassin</ten_truyen>
 		<ma_truyen>deadpool-assassin</ma_truyen>
@@ -193,7 +220,7 @@
 		<ten_truyen>batman and the signal</ten_truyen>
 		<ma_truyen>batman-and-the-signal</ma_truyen>
         <tac_gia>Tony Patrick, Scott Snyder, Cully Hamner, Laura Martin</tac_gia>
-        <tinh_trang>Comic_Completed</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-and-the-signal/1_medium.jpg</hinh_nho>
         <gioi_thieu>Batman may own the night, but with new villains emerging during the day he needs an ally to defend the city when he can't. Only one teen is up to the challenge, Duke Thomas. After months of training, he's ready to step out of the shadow of the bat to become his own kind of hero. Meet Gotham City's newest protector: The Signal! Spinning out of adventures in ALL-STAR BATMAN and WE ARE ROBIN, comics superstar Scott Snyder and newcomer Tony Patrick take our young hero to new heights in this exciting miniseries with artwork by Cully Hamner.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/batman-and-the-signal-eng.xml</file_xml>
@@ -269,32 +296,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/m/marvels-ant-man-and-the-wasp-prelude/1_medium.jpg</hinh_nho>
         <gioi_thieu>SCOTT LANG's life is a bit of a mess. But when he got out of jail (yeah, jail), he swore he'd to turn it all around. Go straight. Show his daughter and ex-wife he's worthy of being a role model. But when a 'last score' lands him in HANK PYM's size-changing suit, Scott finds himself in a brand-new role: as the ANT-MAN! Hank needs someone with Scott's skills to stop DARREN CROSS from weaponizing his size-changing technology, and it's going to take the team of Scott, Hank and HOPE (daughter of the original WASP) to save the day! The adventure doesn't get any bigger (smaller?!) than this! See Scott's first mission as the ANT-MAN, and how HOPE VAN DYNE became the WASP in this adaptation of the original hit film before this summer's feature MARVEL'S ANT-MAN AND THE WASP!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/marvel-s-ant-man-and-the-wasp-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="suicide squad: hell to pay" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>suicide squad: hell to pay</ten_truyen>
-		<ma_truyen>suicide-squad-hell-to-pay</ma_truyen>
-        <tac_gia>Jeff Parker, Matthew Dow Smith</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-hell-to-pay/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Amanda Waller has her 'Get Out of Hell Free' card, but why did she go to such lengths to acquire it?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-hell-to-pay-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="old man hawkeye" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>old man hawkeye</ten_truyen>
-		<ma_truyen>old-man-hawkeye</ma_truyen>
-        <tac_gia>Ethan Sacks, Marco Checchetto</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-hawkeye/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The super heroes have fallen. The country has been divided into territories controlled by super villains. Among the wastelands lives CLINT BARTON - one of the few Avengers to survive. But it's been 45 years, and he's no Avenger. Trying to eke out a living anyway he can, the former HAWKEYE is confronted with a startling discovery: the sharpshooter is going blind. With time running short, Clint realizes there's one last thing he wants to see: revenge for his fallen comrades-in-arms. Rising-star writer ETHAN SACKS and superstar artist MARCO CHECCHETTO take you back to the Wastelands in a story set five years before the original classic OLD MAN LOGAN.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-hawkeye-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="raven  " tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Magic, Superhero, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>raven  </ten_truyen>
-		<ma_truyen>raven</ma_truyen>
-        <tac_gia>Alisson Borges, Marv Wolfman</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/raven/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In a tale set between TEEN TITANS #24 and TEEN TITANS: REBIRTH #1, Raven takes a break from the team and moves to San Francisco to stay with her estranged aunt and face her most perilous challenge yet: high school! As Raven discovers more about her human side, one of her classmates goes missing under mysterious circumstances, and she must face an evil like none she's known before!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/raven-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
