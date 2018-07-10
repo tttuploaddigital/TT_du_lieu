@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="xunyao jiwen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>xunyao jiwen</ten_truyen>
+		<ma_truyen>xunyao-jiwen</ma_truyen>
+		<tac_gia>La La Zhi, Nu Wang</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/38164/1/200.jpg</hinh_nho>
+		<gioi_thieu>In ancient times, all of the demons recorded in the Classic of Mountains and Seas really existed. They absorbed humankind's thoughts to become more powerful. As time passed, people gradually forgot about their existence. The demons that were forgotten were all faced with the fate of disappearing... there is a family that serves to guard and protect the only demon remaining in the world. As they painted and recorded, they were - the artists of the Classic of Mountains and Seas.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/xunyao-jiwen-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="mowang yu yongzhe yu sheng jian shendian" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>mowang yu yongzhe yu sheng jian shendian</ten_truyen>
+		<ma_truyen>mowang-yu-yongzhe-yu-sheng-jian-shendian</ma_truyen>
+		<tac_gia>A Yang, Nao Nao</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/32776/1/200.jpg</hinh_nho>
+		<gioi_thieu>The continent of RAIEO was once ravaged by the Demon King and the Demon Race, in the darkest of times a Brave Knight carried a Sacred Sword saved the continent. After 300 years of peace, with the Sacred Sword now gone and the Sacred Sword Temple being occupied by the Demon Race, the continent of RAIEO is once again at war. Thus, our protagonist together with his donkey and a mysterious girl embark on a journey to stop the Demon King and the Demon Race.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/mowang-yu-yongzhe-yu-sheng-jian-shendian-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="adonis next door" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Shoujo., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>adonis next door</ten_truyen>
+		<ma_truyen>adonis-next-door</ma_truyen>
+		<tac_gia>Mao Si Er, San Fu Animation</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/37252/1/200.jpg</hinh_nho>
+		<gioi_thieu>Su Shuang Shuang comes home one day to find that someone has moved into the apartment next to hers. When curiosity gets the best of her and she goes in to meet her neighbour, a handsome guys comes out of the shower? And he calls the police?</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/adonis-next-door-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="dc nation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>dc nation</ten_truyen>
 		<ma_truyen>dc-nation</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>Shade has shed her alien identity. She's stepped out of her original Earth body and into another one. Now, free of the burdens of any past life, and finally on her own, she sets out to see more of her new home. But how does she cope when the madness takes all the human emotions she was forced to confront in the Milk Wars and turns them into a bouillabaisse of memory and confusion? And to make it even more challenging, Shade must also face her namesake, the original Changing Man.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shade-the-changing-woman-eng.xml</file_xml>
     </truyen>
-	<truyen ten="taboo-tattoo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Ecchi, Martial arts, Mystery, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>taboo-tattoo</ten_truyen>
-		<ma_truyen>taboo-tattoo</ma_truyen>
-		<tac_gia>Shinjirou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9742/2/200.jpg</hinh_nho>
-		<gioi_thieu>Seigi, a martial arts trained middle schooler, often feels driven to protect the weaker people around him. One day, he defends a homeless man against some punks, and the man gives him a strange tattoo on his palm in return. The tattoo is a secret weapon produced in the arms race between America and the Serinistan Kingdom. Seigi finds himself in over his head when a powerful girl, using the same secret weapon, violently pursues him in order to retrieve it. His skill at martial arts may not be enough to keep him alive, but will he be able to learn how to trigger the power of his tattoo in time?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/taboo-tattoo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="onideka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>onideka</ten_truyen>
-		<ma_truyen>onideka</ma_truyen>
-		<tac_gia>Yatera Keita</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43458/2/200.jpg</hinh_nho>
-		<gioi_thieu>Kiryuin Hanasei is the idol of her school. But when she suddenly becomes a giantess, she is forced to return to her old ways in order to protect her city.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onideka-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="tohai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>tohai</ten_truyen>
-		<ma_truyen>tohai</ma_truyen>
-		<tac_gia>Shinasaka Koji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/38140/1/200.jpg</hinh_nho>
-		<gioi_thieu>Not a lot of people know that one of the most talented and ruthless Mahjong players in the city is a young high school boy. Kei is a teenager of few words, but his observation skills, unwavering will and experience in the game allows him to survive in a world full of powerful, rich and dangerous characters. Kei is currently hiding a girl named Amina who has entered the country illegally and protecting her from being deported. He spends his days sleeping through class and his nights playing high-stakes Mahjong, waiting for when a worthy opponent arrives.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tohai-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
