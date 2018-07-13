@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="teenage mutant ninja turtles: urban legends" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Martial arts, Movies - tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>teenage mutant ninja turtles: urban legends</ten_truyen>
+		<ma_truyen>teenage-mutant-ninja-turtles-urban-legends</ma_truyen>
+        <tac_gia>Gary Carlson, Frank Fosco</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-urban-legends/1_medium.jpg</hinh_nho>
+        <gioi_thieu>This is it, fans! You demanded it, and IDW Publishing listened! The entire Image Comics TMNT run (a.k.a TMNT Volume 3) reproduced for the first time ever in full, four-color glory! Join creators Gary Carlson and Frank Fosco as they take the Heroes in a Half-Shell on some of their most amazing and dangerous and bizarre adventures ever... culminating in three brand-new issues by Carlson and Fosco to properly close out this long-beloved storyline at last! In this premiere issue, the TMNT and Master Splinter are attacked in their lair by a group of cyborgs led by the female ninja called Pimiko. Before the attack is over, one family member will fall... and one will be lost! Don't miss your chance to get in on the ground floor of the entire TMNT Image experience!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teenage-mutant-ninja-turtles-urban-legends-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="jasmine: crown of kings" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>jasmine: crown of kings</ten_truyen>
+		<ma_truyen>jasmine-crown-of-kings</ma_truyen>
+        <tac_gia>Howard Mackie, Deivis Goetten</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/jasmine-crown-of-kings/1_medium.jpg</hinh_nho>
+        <gioi_thieu>New Series Starts Here! When a fiery explosion erupts in the ancient city of Petra, Jasmine races against the terrorist group THE FORTY THIEVES to prevent the shattered pieces of the Crown of Kings, an object that haunts her past from being reunited and unleashing an unearthly power on the world and all that she holds dear.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/jasmine-crown-of-kings-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="aliens: dust to dust" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>aliens: dust to dust</ten_truyen>
+		<ma_truyen>aliens-dust-to-dust</ma_truyen>
+        <tac_gia>Gabriel Hardman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/aliens-dust-to-dust/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Trono colony on LV-871 is under attack. Emergency evacuations are ordered. Evac shuttles are taking off. All twelve-year-old Maxon and his mom have to do is make it to the spaceport. Except between them and it are... Aliens! A terrifying coming-of-age story by master storyteller Gabriel Hardman.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/aliens-dust-to-dust-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="robocop: citizens arrest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>robocop: citizens arrest</ten_truyen>
 		<ma_truyen>robocop-citizens-arrest</ma_truyen>
@@ -242,23 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/32865/2/200.jpg</hinh_nho>
 		<gioi_thieu>Balud Cornelius is the son of a noble of the Mauricia kingdom and inside him also dwell the souls of the niggardly warring states commander Oka Sadatoshi and animal ear otaku high schooler Oka Masaharu. With these 3 souls in a single body, he can exhibit extraordinary abilities when it comes to combat or managing the domain.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-tensei-soudouki-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="maou-jou de oyasumi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>maou-jou de oyasumi</ten_truyen>
-		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
-		<tac_gia>Kumanomata Kagiji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
-		<gioi_thieu>The princess of the human kingdom has been kidnapped by the demon king! But all she wants to do is get a good night's sleep!?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="sun-ken rock" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Drama, Ecchi, Martial arts, Mature, Psychological, Romance, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>sun-ken rock</ten_truyen>
-		<ma_truyen>sun-ken-rock</ma_truyen>
-		<tac_gia>Boichi</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9638/4/200.jpg</hinh_nho>
-		<gioi_thieu>Ken is a Japanese man, and Ken's love interest Yumin moves to Korea to become a police officer. He then decides to follow her to also become a police officer but instead ends up becoming the leader of a small Korean gang. What will happend to Ken?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/sun-ken-rock-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
