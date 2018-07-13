@@ -2295,7 +2295,7 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>A young man set forth to avenge his master, a once powerful martial artist who was betrayed by his own men and barely escaped with his life. Armed with his master's supreme martial art techniques, he is ready to bring terror and wreak havoc among the murim. But before he even got started, he learns that the ones who had betrayed his master are already dead... Erm, so what happens now?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/gosu-eng.xml</file_xml>
     </truyen>
-	<truyen ten="gou - himetachi no sengoku" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Historical, Romance, Shoujo" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+	<truyen ten="gou - himetachi no sengoku" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Historical, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>gou - himetachi no sengoku</ten_truyen>
 		<ma_truyen>gou-himetachi-no-sengoku</ma_truyen>
 		<tac_gia>Tabuchi Kumiko, Akatsuki Kaori</tac_gia>
