@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="plastic man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>plastic man (2018)</ten_truyen>
+		<ma_truyen>plastic-man-2018</ma_truyen>
+        <tac_gia>Gail Simone, Adriana Melo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/plastic-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Meet Eel O'Brian: a petty thug, thief and con artist who runs a strip club. Hey, he's also dead, at least according to the gang that tossed him out like last week's garbage. Literally. Don't worry, though he bounced back from all that, and now he's trying to make a new life for himself, but the effort is stretching him pretty thin.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/plastic-man-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="domino (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>domino (2018)</ten_truyen>
+		<ma_truyen>domino-2018</ma_truyen>
+        <tac_gia>Gail Simone, David Baldeon, Greg Land</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/domino-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Impossible curves. Impossible shots. Impossible targets. Marvel's #1 soldier of fortune is back in an explosive new ongoing series! The product of a failed super-soldier program, Neena Thurman always made her own luck as the sharpshooting mercenary known as Domino… but what happens when her own powers betray her? The hunter becomes the hunted as every mercenary in the game smells blood in the water! Plus: A pair of beloved Marvel characters return!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/domino-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="robocop: citizens arrest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>robocop: citizens arrest</ten_truyen>
+		<ma_truyen>robocop-citizens-arrest</ma_truyen>
+        <tac_gia>Brian Wood, Jorge Coelho</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robocop-citizens-arrest/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Brian Wood, the visionary writer behind DMZ and Briggs Land, and Jorge Coelho (Venom, Rocket Raccoon) present a provocative vision of a future where justice is crowdsourced... and lethal. It's been decades since the RoboCop program first began. Corporations have taken over the schools and the government and law enforcement is the biggest private contract of all. Traditional police forces no longer exist as all citizens are encouraged—and rewarded-to spy on their neighbors. There is only one authority on the streets: ROBOCOP.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robocop-citizens-arrest-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dejah thoris (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dejah thoris (2018)</ten_truyen>
+		<ma_truyen>dejah-thoris-2018</ma_truyen>
+        <tac_gia>Amy Chu, Pasquale Qualano</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The untold story of the Red Martian princess! After learning of the legendary Gardens of Mars from her grandfather, Dejah Thoris, Princess of Helium, sets off on a dangerous scientific expedition to save her dying planet. But things don't go the way she planned when she encounters a mysterious Green Martian prisoner... A prequel to Edgar Rice Burroughs' beloved book A Princess of Mars.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dejah-thoris-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dejah thoris (2016)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Graphic novels, Mythology, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dejah thoris (2016)</ten_truyen>
+		<ma_truyen>dejah-thoris-2016</ma_truyen>
+        <tac_gia>Frank J. Barbiere, Francesco Manna, Morgan Hickman, Erica Schultz, Nen</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Prepare yourself for Dejah Thoris as you've never seen her before! A shocking conspiracy unravels in Helium as Dejah's father has gone missing. In the wake of assuming the throne, Dejah learns secret information from her past that will have resounding effects on the kingdom - and her life! Join Frank J. Barbiere (The Howling Commandos of SHIELD, The Precinct) and Francesco Manna (Vampirella #100) as Dejah discovers a secret past that will have her leaving Helium for an all-new adventure on her own!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/dejah-thoris-2016-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="world customize creator" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Romance, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>world customize creator</ten_truyen>
 		<ma_truyen>world-customize-creator</ma_truyen>
@@ -225,49 +270,4 @@
         <gioi_thieu>When dark forces conspire to corrupt the fabric of reality, Eddie's immortal soul is shattered and strewn across the cosmos, his unbound essence corrupting countless worlds! Now, a weakened, primal Eddie must journey across space and time to battle the twisted legions of The Beast, seek out the lost shards of his soul, and bring order to the realms. With each victory, and with the aid of old friends, Eddie will restore his fearsome powers as he draws ever closer to facing the Unholy foe behind his fall - and thwarting a plot to unravel all of Creation! The first official Iron Maiden comic series, based on the band's hit mobile role playing game, Iron Maiden: Legacy Of The Beast, where players battle as Eddie across the many worlds of Iron Maiden's discography, from the ancient sands of Powerslave to the far future of the Final Frontier.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/iron-maiden-legacy-of-the-beast-eng.xml</file_xml>
     </truyen>
-	<truyen ten="ragna crimson" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ragna crimson</ten_truyen>
-		<ma_truyen>ragna-crimson</ma_truyen>
-		<tac_gia>Kobayashi Daiki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/49622/1/200.jpg</hinh_nho>
-		<gioi_thieu>Ragna is a dragon hunter along with his partner, the strongest dragon hunter Leo. He didn't have much talent at hunting dragons but he had decided to entrust his whole life for her. However he was shown the feel of true despair by his future self on what would happen if he stays weak as he is now. With that, it seems that the reaper of the dragons had now appeared earlier than the original history, but will it be enough to change future?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ragna-crimson-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="silver spoon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>silver spoon</ten_truyen>
-		<ma_truyen>silver-spoon</ma_truyen>
-		<tac_gia>Arakawa Hiromu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/38842/1/200.jpg</hinh_nho>
-		<gioi_thieu>Yugo Hachiken aspires to live separated from his family, so he takes the initiative by enrolling in an agriculture school. He thinks, with his talent in studying, no problems will arise no matter what kind of school he attends. He is quickly proven wrong. Raised as a city boy, he is forced to uncover the inconvenient truth about agricultural life. Enjoy the story of Hachiken, as he tries to keep up with his new friends, farmers' heirs, who are already accustomed to harsh world of farming. The story of a sweat, tear, and mud-stained youth begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/silver-spoon-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ichigo 100%" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ichigo 100%</ten_truyen>
-		<ma_truyen>ichigo-100</ma_truyen>
-		<tac_gia>Kawashita Mizuki</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://i.imgur.com/msPWICD.jpg</hinh_nho>
-		<gioi_thieu>The hero (me, Junpei Manaka!) sneaks up to the roof to see the sunset. When he opens the door, he startles a mysterious beauty. She panics and runs away, but not before Junpei has caught sight of her adorable strawberry print panties... in EXTREME close-up. With that vision forever burned into his memory, Junpei embarks on a quest to find the girl, and the panties, of his dreams!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ichigo-100-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="my wives" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>my wives</ten_truyen>
-		<ma_truyen>my-wives</ma_truyen>
-		<tac_gia>Yang Pah, Mojo</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/40829/1/200.jpg</hinh_nho>
-		<gioi_thieu>One man has three wives? What's the deal with this greedy guy?</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/my-wives-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="epic of gilgamesh" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Historical, Martial arts, Mystery, Romance, Supernatural, Tragedy, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>epic of gilgamesh</ten_truyen>
-		<ma_truyen>epic-of-gilgamesh</ma_truyen>
-		<tac_gia>Hwan Daeng</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/40471/1/200.jpg</hinh_nho>
-		<gioi_thieu>Trainee Knight Trudia gets kicked out of the knight squad because of her hot headedness. In midst of trying to find out where she'll go next she finds an old man that's in danger. She runs over there without hesitation in order to save him only to meet a man that'll change her fate forever...! A story of a dying girl and an undying man trying their hardest to live!</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/epic-of-gilgamesh-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>

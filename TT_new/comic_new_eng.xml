@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="plastic man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>plastic man (2018)</ten_truyen>
+		<ma_truyen>plastic-man-2018</ma_truyen>
+        <tac_gia>Gail Simone, Adriana Melo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/plastic-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Meet Eel O'Brian: a petty thug, thief and con artist who runs a strip club. Hey, he's also dead, at least according to the gang that tossed him out like last week's garbage. Literally. Don't worry, though he bounced back from all that, and now he's trying to make a new life for himself, but the effort is stretching him pretty thin.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/plastic-man-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="domino (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>domino (2018)</ten_truyen>
+		<ma_truyen>domino-2018</ma_truyen>
+        <tac_gia>Gail Simone, David Baldeon, Greg Land</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/domino-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Impossible curves. Impossible shots. Impossible targets. Marvel's #1 soldier of fortune is back in an explosive new ongoing series! The product of a failed super-soldier program, Neena Thurman always made her own luck as the sharpshooting mercenary known as Domino… but what happens when her own powers betray her? The hunter becomes the hunted as every mercenary in the game smells blood in the water! Plus: A pair of beloved Marvel characters return!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/domino-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="robocop: citizens arrest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>robocop: citizens arrest</ten_truyen>
+		<ma_truyen>robocop-citizens-arrest</ma_truyen>
+        <tac_gia>Brian Wood, Jorge Coelho</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robocop-citizens-arrest/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Brian Wood, the visionary writer behind DMZ and Briggs Land, and Jorge Coelho (Venom, Rocket Raccoon) present a provocative vision of a future where justice is crowdsourced... and lethal. It's been decades since the RoboCop program first began. Corporations have taken over the schools and the government and law enforcement is the biggest private contract of all. Traditional police forces no longer exist as all citizens are encouraged—and rewarded-to spy on their neighbors. There is only one authority on the streets: ROBOCOP.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robocop-citizens-arrest-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dejah thoris (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dejah thoris (2018)</ten_truyen>
+		<ma_truyen>dejah-thoris-2018</ma_truyen>
+        <tac_gia>Amy Chu, Pasquale Qualano</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The untold story of the Red Martian princess! After learning of the legendary Gardens of Mars from her grandfather, Dejah Thoris, Princess of Helium, sets off on a dangerous scientific expedition to save her dying planet. But things don't go the way she planned when she encounters a mysterious Green Martian prisoner... A prequel to Edgar Rice Burroughs' beloved book A Princess of Mars.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dejah-thoris-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dejah thoris (2016)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Graphic novels, Mythology, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dejah thoris (2016)</ten_truyen>
+		<ma_truyen>dejah-thoris-2016</ma_truyen>
+        <tac_gia>Frank J. Barbiere, Francesco Manna, Morgan Hickman, Erica Schultz, Nen</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Prepare yourself for Dejah Thoris as you've never seen her before! A shocking conspiracy unravels in Helium as Dejah's father has gone missing. In the wake of assuming the throne, Dejah learns secret information from her past that will have resounding effects on the kingdom - and her life! Join Frank J. Barbiere (The Howling Commandos of SHIELD, The Precinct) and Francesco Manna (Vampirella #100) as Dejah discovers a secret past that will have her leaving Helium for an all-new adventure on her own!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/dejah-thoris-2016-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="dc nation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>dc nation</ten_truyen>
 		<ma_truyen>dc-nation</ma_truyen>
@@ -251,50 +296,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-america-(2017)/695_medium.jpg</hinh_nho>
         <gioi_thieu>HOME OF THE BRAVE begins - and Steve Rogers is back in action in the red-white-and-blue! Steve begins a journey across America to restore his tarnished reputation - and the dangers he encounters along the way are unlike any he`s faced before!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-america-2017-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="venomized" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>venomized</ten_truyen>
-		<ma_truyen>venomized</ma_truyen>
-        <tac_gia>Cullen Bunn, Iban Coello</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/v/venomized/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The story that began in VENOMVERSE reaches its epic conclusion with VENOMIZED! The POISONS, a species that hungers for super-powered symbiotes and their hosts, have picked their next target... THE MARVEL UNIVERSE ITSELF! Their first objective? Put every superhuman in a Klyntar symbiote - and CONSUME THEM! But with VENOM and the X-MEN still missing after the events of 'Poison-X,' the planet and its heroes are defenseless!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venomized-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="ninja-k" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>ninja-k</ten_truyen>
-		<ma_truyen>ninja-k</ma_truyen>
-        <tac_gia>Christos N. Gage, Tomas Giorello</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/ninja-k-(2017)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A NEW CAN'T-MISS ONGOING SERIES! From acclaimed writer Christos Gage (Netflix's Daredevil) and superstar artist Tomas Giorello (X-O MANOWAR), the United Kingdom's most dreaded intelligence operative delves into the cold, calculating world of espionage and international intrigue!nFor nearly a century, MI-6, the most elite branch of Britain's clandestine intelligence service, has honed a ruthlessly effective, top-secret division - THE NINJA PROGRAMME - into one of its nation's most finely wielded weapons. Tasked as the first and last line of defense for queen and country, this small shadow army of agents and assassins has produced a succession of notable assets, including NINJA-A, the Queen's silent weapon of World War I; NINJA-E, the globe-trotting secret agent that pulled the Cold War back from the brink of Armageddon; and, most recently, NINJA-K, aka Colin King, a brash but fearless instrument of lethality that has saved the world from madmen and terror at every turn. But now... an unknown enemy is hunting and killing members of THE NINJA PROGRAMME one by one and NINJAK is next on the list.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ninja-k-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="rise of the black panther" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>rise of the black panther</ten_truyen>
-		<ma_truyen>rise-of-the-black-panther</ma_truyen>
-        <tac_gia>Ta-Nehisi Coates, Evan Narcisse, Paul Renaud, Brian Stelfreeze</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/rise-of-the-black-panther-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Just in time for the highly anticipated film, witness the early years of the man who will come to rule one of the most scientifically advanced countries in the world! Wakanda has always kept itself isolated from Western society, but that's all about to change. Young T'Challa knows he is destined to become king, but when his father is brutally murdered by outsiders, he'll find himself taking up a mantle he may not be ready for. Experience never-before-seen drama from the reign of T'Chaka, the king whose death changes a nation's history forever. Learn about the mother T'Challa never knew. See how the world learns about this wondrous nation for the first time. Will the power of the Black Panther be enough to keep his country safe? Journalist Evan Narcisse makes his comics debut alongside acclaimed writer Ta-Nehisi Coates as they chronicle T'Challa's rise to the throne - and to the Panther legacy that made him an Avenger.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rise-of-the-black-panther-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="agent 47: birth of the hitman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Spy, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>agent 47: birth of the hitman</ten_truyen>
-		<ma_truyen>agent-47-birth-of-the-hitman</ma_truyen>
-        <tac_gia>Christopher Sebela, Ariel Medel, Jonathan Lau</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/agent-47-birth-of-the-hitman/1_medium.jpg</hinh_nho>
-        <gioi_thieu>47 and his handler, Diana Burnwood, are a team responsible for some of the most ruthless, efficient and untraceable assassinations across the globe. But before they were operatives of the shadowy International Contracts Association, 47 and Burnwood were on their own separate paths in life streets lined with blood, bullets and revenge. As 14-year-old Diana begins a mission to track down the people who killed her parents, the one responsible, 47, is struggling to free himself and his brother, 6, from the mysterious Institute which has bred them as killers since they were kids. With a story that stretches from the heartland of America to the Berlin Wall, Lone Wolves will trace the birth of the legendary Hitman and the secret past of the woman behind him who pulls the string and knows just how hard taking a life truly is.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/agent-47-birth-of-the-hitman-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="marvel's ant-man and the wasp prelude" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>marvel's ant-man and the wasp prelude</ten_truyen>
-		<ma_truyen>marvel-s-ant-man-and-the-wasp</ma_truyen>
-        <tac_gia>Will Corona Pilgrim, Chris Allen</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvels-ant-man-and-the-wasp-prelude/1_medium.jpg</hinh_nho>
-        <gioi_thieu>SCOTT LANG's life is a bit of a mess. But when he got out of jail (yeah, jail), he swore he'd to turn it all around. Go straight. Show his daughter and ex-wife he's worthy of being a role model. But when a 'last score' lands him in HANK PYM's size-changing suit, Scott finds himself in a brand-new role: as the ANT-MAN! Hank needs someone with Scott's skills to stop DARREN CROSS from weaponizing his size-changing technology, and it's going to take the team of Scott, Hank and HOPE (daughter of the original WASP) to save the day! The adventure doesn't get any bigger (smaller?!) than this! See Scott's first mission as the ANT-MAN, and how HOPE VAN DYNE became the WASP in this adaptation of the original hit film before this summer's feature MARVEL'S ANT-MAN AND THE WASP!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/marvel-s-ant-man-and-the-wasp-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
