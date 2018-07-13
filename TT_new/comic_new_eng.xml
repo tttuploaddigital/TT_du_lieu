@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="robocop: citizens arrest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>robocop: citizens arrest</ten_truyen>
+		<ma_truyen>robocop-citizens-arrest</ma_truyen>
+        <tac_gia>Brian Wood, Jorge Coelho</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robocop-citizens-arrest/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Brian Wood, the visionary writer behind DMZ and Briggs Land, and Jorge Coelho (Venom, Rocket Raccoon) present a provocative vision of a future where justice is crowdsourced... and lethal. It's been decades since the RoboCop program first began. Corporations have taken over the schools and the government and law enforcement is the biggest private contract of all. Traditional police forces no longer exist as all citizens are encouraged-and rewarded-to spy on their neighbors. There is only one authority on the streets: ROBOCOP.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robocop-citizens-arrest-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="xena: warrior princess (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Movies - tv" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>xena: warrior princess (2018)</ten_truyen>
+		<ma_truyen>xena-warrior-princess-2018</ma_truyen>
+        <tac_gia>Meredith Finch, Vicente Cifuentes</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/xena-warrior-princess(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The path to redemption is never easy, and the journey of a warrior princess seeking to wash the blood of innocents from her hands is no exception. Xena travels to Athens, to plead for redemption in the temple of Eleos. But some things can never be forgiven and the shadows of past sins are long. Will Xena find redemption or betrayal waiting for her in the temple of the gods? The power, the passion, the danger... her courage would change the world. Xena: Warrior Princess.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/xena-warrior-princess-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="monstress" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>monstress</ten_truyen>
+		<ma_truyen>monstress</ma_truyen>
+        <tac_gia>Marjorie Liu, Sana Takeda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/monstress/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Steampunk meets Kaiju in this original fantasy epic for mature readers, as young Maika risks everything to control her psychic link with a monster of tremendous power, placing her in the center of a devastating war between human and otherworldly forces.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/monstress-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="plastic man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>plastic man (2018)</ten_truyen>
 		<ma_truyen>plastic-man-2018</ma_truyen>
@@ -18,17 +45,6 @@
         <gioi_thieu>Impossible curves. Impossible shots. Impossible targets. Marvel's #1 soldier of fortune is back in an explosive new ongoing series! The product of a failed super-soldier program, Neena Thurman always made her own luck as the sharpshooting mercenary known as Domino... but what happens when her own powers betray her? The hunter becomes the hunted as every mercenary in the game smells blood in the water! Plus: A pair of beloved Marvel characters return!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/domino-2018-eng.xml</file_xml>
     </truyen>
-	<!--
-	<truyen ten="robocop: citizens arrest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>robocop: citizens arrest</ten_truyen>
-		<ma_truyen>robocop-citizens-arrest</ma_truyen>
-        <tac_gia>Brian Wood, Jorge Coelho</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/robocop-citizens-arrest/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Brian Wood, the visionary writer behind DMZ and Briggs Land, and Jorge Coelho (Venom, Rocket Raccoon) present a provocative vision of a future where justice is crowdsourced... and lethal. It's been decades since the RoboCop program first began. Corporations have taken over the schools and the government and law enforcement is the biggest private contract of all. Traditional police forces no longer exist as all citizens are encouraged-and rewarded-to spy on their neighbors. There is only one authority on the streets: ROBOCOP.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robocop-citizens-arrest-eng.xml</file_xml>
-    </truyen>
-	-->
 	<truyen ten="dejah thoris (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>dejah thoris (2018)</ten_truyen>
 		<ma_truyen>dejah-thoris-2018</ma_truyen>
@@ -271,32 +287,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-and-the-signal/1_medium.jpg</hinh_nho>
         <gioi_thieu>Batman may own the night, but with new villains emerging during the day he needs an ally to defend the city when he can't. Only one teen is up to the challenge, Duke Thomas. After months of training, he's ready to step out of the shadow of the bat to become his own kind of hero. Meet Gotham City's newest protector: The Signal! Spinning out of adventures in ALL-STAR BATMAN and WE ARE ROBIN, comics superstar Scott Snyder and newcomer Tony Patrick take our young hero to new heights in this exciting miniseries with artwork by Cully Hamner.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/batman-and-the-signal-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="sheena: queen of the jungle (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fanservice, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>sheena: queen of the jungle (2017)</ten_truyen>
-		<ma_truyen>sheena-queen-of-the-jungle-2017</ma_truyen>
-        <tac_gia>Marguerite Bennett, Christina Trujillo, Moritat</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sheena-queen-of-the-jungle-(2017)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In this riveting relaunch, the guardian of the jungle, SHEENA, pursues a mysterious invader that has come to spy on the Amazon's most ancient secrets... Following the path of the trespasser, she encounters a forbidden ruin in which even more deadly dangers lie in wait and begins an adventure that will take her beyond her wildest imaginings!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sheena-queen-of-the-jungle-2017-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="mera: queen of atlantis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>mera: queen of atlantis</ten_truyen>
-		<ma_truyen>mera-queen-of-atlantis</ma_truyen>
-        <tac_gia>Dan Abnett, Lan Medina, Richard Friend, Veronica Gandini</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/mera-queen-of-atlantis/1_medium.jpg</hinh_nho>
-        <gioi_thieu>From the pages of AQUAMAN comes a brand-new adventure starring Mera, in her own title for the first time ever! As the brutal Atlantean Civil War rages, Mera must keep the peace between the surface world and Atlantis as its newly anointed queen in exile. But when Aquaman's brother Orm, a.k.a. Ocean Master, learns of his homeland's fate, he'll stop at nothing to return to Atlantis as its king and savior!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mera-queen-of-atlantis-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="captain america (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>captain america (2017)</ten_truyen>
-		<ma_truyen>captain-america-2017</ma_truyen>
-        <tac_gia>Mark Waid, Chris Samnee</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-america-(2017)/695_medium.jpg</hinh_nho>
-        <gioi_thieu>HOME OF THE BRAVE begins - and Steve Rogers is back in action in the red-white-and-blue! Steve begins a journey across America to restore his tarnished reputation - and the dangers he encounters along the way are unlike any he`s faced before!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-america-2017-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
