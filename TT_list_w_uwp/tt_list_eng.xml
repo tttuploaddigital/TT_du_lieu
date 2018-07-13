@@ -3999,6 +3999,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <gioi_thieu>'Once upon a time, this world was ruled by beasts. Human no longer sit on top of the foodchain, they are the monsters' prey. However, Those who would stand up against the monsters gathered together and they continued to battle against the monsters in order to survive against their rule. Since then, hundreds of years have passed... and now the 'fight' against the monsters has become the 'hunt' for the monsters.'</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/monster-x-monster-eng.xml</file_xml>
     </truyen>
+	<truyen ten="monstress" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>monstress</ten_truyen>
+		<ma_truyen>monstress</ma_truyen>
+        <tac_gia>Marjorie Liu, Sana Takeda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/monstress/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Steampunk meets Kaiju in this original fantasy epic for mature readers, as young Maika risks everything to control her psychic link with a monster of tremendous power, placing her in the center of a devastating war between human and otherworldly forces.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/monstress-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="moon  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>moon  </ten_truyen>
 		<ma_truyen>moon</ma_truyen>
@@ -4779,7 +4788,6 @@ This manga upload for Sie Per from Vietnam via request manga on website winphone
 		<gioi_thieu>Shimonone Takara, a young weird healthy boy, always wanted to become a so called 'Stranger'. 'Strangers' are people, who are able to use an extraordinary power, which 'normal' people can't use. One day, a woman named Aria approaches Takara. She belongs to the organization, which is responsible for managing the 'Strangers', because sometimes those Strangers become a serious threat to humanity. What does she want from him? Will Takara succesfully become a 'Stranger'?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/rising-x-rydeen-eng.xml</file_xml>
 	</truyen>
-	<!--
 	<truyen ten="robocop: citizens arrest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>robocop: citizens arrest</ten_truyen>
 		<ma_truyen>robocop-citizens-arrest</ma_truyen>
@@ -4789,7 +4797,6 @@ This manga upload for Sie Per from Vietnam via request manga on website winphone
         <gioi_thieu>Brian Wood, the visionary writer behind DMZ and Briggs Land, and Jorge Coelho (Venom, Rocket Raccoon) present a provocative vision of a future where justice is crowdsourced... and lethal. It's been decades since the RoboCop program first began. Corporations have taken over the schools and the government and law enforcement is the biggest private contract of all. Traditional police forces no longer exist as all citizens are encouraged-and rewarded-to spy on their neighbors. There is only one authority on the streets: ROBOCOP.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robocop-citizens-arrest-eng.xml</file_xml>
     </truyen>
-	-->
 	<truyen ten="robyn hood: the hunt" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>robyn hood: the hunt</ten_truyen>
 		<ma_truyen>robyn-hood-the-hunt</ma_truyen>
@@ -7015,6 +7022,15 @@ This comic upload for Jitender Kumar via request comic by send email to tttdigit
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-o-manowar-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>'Born under the oppressive thumb of the Roman Empire, Aric of Dacia learned warfare at an early age. It was amid such violence that he was abducted by an alien race. Forced into slavery, he survived where others perished. His escape would come from bonding with a weapon of immeasurable power: the X-O Manowar armor. With it, he returned to Earth... only to find himself stranded in the modern day. But that was a lifetime ago. Now, far from home on a strange and primitive new world, Aric has begun a new life. Liberated from his past, he tends to his crops. Free from war. Free from violence. Free from the armor. But the machinery of death marches his way once again. Conscripted into an alien army and thrown into an unforgiving conflict, the fury inside him finds voice as he is forced to embrace the armor once more. With it, he will decimate armies, topple empires and incite interplanetary warfare as he rises from SOLDIER to GENERAL to EMPEROR to VISIGOTH. They wanted a weapon. He will give them war!'</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-o-manowar-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="xena: warrior princess (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Movies - tv" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>xena: warrior princess (2018)</ten_truyen>
+		<ma_truyen>xena-warrior-princess-2018</ma_truyen>
+        <tac_gia>Meredith Finch, Vicente Cifuentes</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/xena-warrior-princess(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The path to redemption is never easy, and the journey of a warrior princess seeking to wash the blood of innocents from her hands is no exception. Xena travels to Athens, to plead for redemption in the temple of Eleos. But some things can never be forgiven and the shadows of past sins are long. Will Xena find redemption or betrayal waiting for her in the temple of the gods? The power, the passion, the danger... her courage would change the world. Xena: Warrior Princess.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/xena-warrior-princess-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="xian ni" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Martial arts, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>xian ni</ten_truyen>

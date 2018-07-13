@@ -1242,6 +1242,15 @@
         <gioi_thieu>From the team behind THE SHERIFF OF BABYLON and the Hugo Award-nominated writer of Vision comes a unique new take on one of Jack Kirby's most beloved New Gods. Scott Free is the greatest escape artist that ever lived. So great that he escaped Granny Goodness' gruesome orphanage and the dangers of Apokolips to travel across galaxies and set up a new life on Earth with his wife, the former female fury known as Big Barda. Using the stage alter ego of Mister Miracle, he has made a career for himself showing off his acrobatic escape techniques. He even caught the attention of the Justice League, which counted him among its ranks. You might say Scott Free has everything...so why isn't it enough? Mister Miracle has mastered every illusion, achieved every stunt, pulled off every trick-except one. He has never escaped death. Is it even possible? Our hero is going to have to kill himself if he wants to find out. Written by Tom King (BATMAN) and illustrated by Mitch Gerads (The Punisher), this is a MISTER MIRACLE unlike any you've read before.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mister-miracle-2017-eng.xml</file_xml>
     </truyen>
+	<truyen ten="monstress" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>monstress</ten_truyen>
+		<ma_truyen>monstress</ma_truyen>
+        <tac_gia>Marjorie Liu, Sana Takeda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/monstress/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Steampunk meets Kaiju in this original fantasy epic for mature readers, as young Maika risks everything to control her psychic link with a monster of tremendous power, placing her in the center of a devastating war between human and otherworldly forces.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/monstress-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="moon girl and devil dinosaur" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>moon girl and devil dinosaur</ten_truyen>
 		<ma_truyen>moon-girl-and-devil-dinosaur</ma_truyen>
@@ -1431,7 +1440,6 @@
         <gioi_thieu>Just in time for the highly anticipated film, witness the early years of the man who will come to rule one of the most scientifically advanced countries in the world! Wakanda has always kept itself isolated from Western society, but that's all about to change. Young T'Challa knows he is destined to become king, but when his father is brutally murdered by outsiders, he'll find himself taking up a mantle he may not be ready for. Experience never-before-seen drama from the reign of T'Chaka, the king whose death changes a nation's history forever. Learn about the mother T'Challa never knew. See how the world learns about this wondrous nation for the first time. Will the power of the Black Panther be enough to keep his country safe? Journalist Evan Narcisse makes his comics debut alongside acclaimed writer Ta-Nehisi Coates as they chronicle T'Challa's rise to the throne - and to the Panther legacy that made him an Avenger.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rise-of-the-black-panther-eng.xml</file_xml>
     </truyen>
-	<!--
 	<truyen ten="robocop: citizens arrest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>robocop: citizens arrest</ten_truyen>
 		<ma_truyen>robocop-citizens-arrest</ma_truyen>
@@ -1441,7 +1449,6 @@
         <gioi_thieu>Brian Wood, the visionary writer behind DMZ and Briggs Land, and Jorge Coelho (Venom, Rocket Raccoon) present a provocative vision of a future where justice is crowdsourced... and lethal. It's been decades since the RoboCop program first began. Corporations have taken over the schools and the government and law enforcement is the biggest private contract of all. Traditional police forces no longer exist as all citizens are encouraged-and rewarded-to spy on their neighbors. There is only one authority on the streets: ROBOCOP.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robocop-citizens-arrest-eng.xml</file_xml>
     </truyen>
-	-->
 	<truyen ten="robyn hood: the hunt" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>robyn hood: the hunt</ten_truyen>
 		<ma_truyen>robyn-hood-the-hunt</ma_truyen>
@@ -2362,6 +2369,15 @@ This comic upload for Jitender Kumar via request comic by send email to tttdigit
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-o-manowar-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>'Born under the oppressive thumb of the Roman Empire, Aric of Dacia learned warfare at an early age. It was amid such violence that he was abducted by an alien race. Forced into slavery, he survived where others perished. His escape would come from bonding with a weapon of immeasurable power: the X-O Manowar armor. With it, he returned to Earth... only to find himself stranded in the modern day. But that was a lifetime ago. Now, far from home on a strange and primitive new world, Aric has begun a new life. Liberated from his past, he tends to his crops. Free from war. Free from violence. Free from the armor. But the machinery of death marches his way once again. Conscripted into an alien army and thrown into an unforgiving conflict, the fury inside him finds voice as he is forced to embrace the armor once more. With it, he will decimate armies, topple empires and incite interplanetary warfare as he rises from SOLDIER to GENERAL to EMPEROR to VISIGOTH. They wanted a weapon. He will give them war!'</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-o-manowar-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="xena: warrior princess (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Movies - tv" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>xena: warrior princess (2018)</ten_truyen>
+		<ma_truyen>xena-warrior-princess-2018</ma_truyen>
+        <tac_gia>Meredith Finch, Vicente Cifuentes</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/xena-warrior-princess(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The path to redemption is never easy, and the journey of a warrior princess seeking to wash the blood of innocents from her hands is no exception. Xena travels to Athens, to plead for redemption in the temple of Eleos. But some things can never be forgiven and the shadows of past sins are long. Will Xena find redemption or betrayal waiting for her in the temple of the gods? The power, the passion, the danger... her courage would change the world. Xena: Warrior Princess.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/xena-warrior-princess-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="you are deadpool" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>you are deadpool</ten_truyen>
