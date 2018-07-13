@@ -4779,6 +4779,7 @@ This manga upload for Sie Per from Vietnam via request manga on website winphone
 		<gioi_thieu>Shimonone Takara, a young weird healthy boy, always wanted to become a so called 'Stranger'. 'Strangers' are people, who are able to use an extraordinary power, which 'normal' people can't use. One day, a woman named Aria approaches Takara. She belongs to the organization, which is responsible for managing the 'Strangers', because sometimes those Strangers become a serious threat to humanity. What does she want from him? Will Takara succesfully become a 'Stranger'?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/rising-x-rydeen-eng.xml</file_xml>
 	</truyen>
+	<!--
 	<truyen ten="robocop: citizens arrest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>robocop: citizens arrest</ten_truyen>
 		<ma_truyen>robocop-citizens-arrest</ma_truyen>
@@ -4788,6 +4789,7 @@ This manga upload for Sie Per from Vietnam via request manga on website winphone
         <gioi_thieu>Brian Wood, the visionary writer behind DMZ and Briggs Land, and Jorge Coelho (Venom, Rocket Raccoon) present a provocative vision of a future where justice is crowdsourced... and lethal. It's been decades since the RoboCop program first began. Corporations have taken over the schools and the government and law enforcement is the biggest private contract of all. Traditional police forces no longer exist as all citizens are encouraged-and rewarded-to spy on their neighbors. There is only one authority on the streets: ROBOCOP.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robocop-citizens-arrest-eng.xml</file_xml>
     </truyen>
+	-->
 	<truyen ten="robyn hood: the hunt" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>robyn hood: the hunt</ten_truyen>
 		<ma_truyen>robyn-hood-the-hunt</ma_truyen>
