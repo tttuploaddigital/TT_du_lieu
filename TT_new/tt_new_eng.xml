@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="the curse of brimstone" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the curse of brimstone</ten_truyen>
+		<ma_truyen>the-curse-of-brimstone</ma_truyen>
+        <tac_gia>Justin Jordan, Philip Tan</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-curse-of-brimstone/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Joe Chamberlain would do anything to save his small, forgotten town-even make a deal with the devil. But things get worse, and Joe finds himself cursed with the power of BRIMSTONE. With the power of fire and destruction coursing through his hands, Joe must now track down and destroy the demon he made his deal with before the power he now wields destroys the town he was trying to save.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-curse-of-brimstone-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="cloak and dagger (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>cloak and dagger (2018)</ten_truyen>
+		<ma_truyen>cloak-and-dagger-2018</ma_truyen>
+        <tac_gia>Dennis Hopeless, David Messina</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/cloak-and-dagger-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>For years, Tyrone Johnson and Tandy Bowen were the super hero duo called CLOAK AND DAGGER - waging a citywide war on drugs, organized crime and corporate greed. In recent years, their crusade has taken them across the globe, fighting alongside Spider-Man, The X-Men and even The Avengers, and though they've drifted apart, a dangerous threat from their past has resurfaced - one that will force Cloak and Dagger to reunite and come to terms with their truest feelings for one another and the past they share!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cloak-and-dagger-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="halo: collateral damage" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>halo: collateral damage</ten_truyen>
+		<ma_truyen>halo-collateral-damage</ma_truyen>
+        <tac_gia>Alex Irvine, Dave Crosland, Leionard O'Grady</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/halo-collateral-damage/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Master Chief and Blue Team are deployed by the UNSC to Alpha Corvi II, a precarious human colony world, seeking to halt the Covenant's efforts to uncover something hidden below the planet's surface. The Spartan strike team quickly finds out that they will have to rely on each other and a small cadre of human rebels in order to survive and complete their mission.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/halo-collateral-damage-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="kiss/army of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Movies - tv, Music" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>kiss/army of darkness</ten_truyen>
 		<ma_truyen>kiss-army-of-darkness</ma_truyen>
@@ -243,58 +270,4 @@
 		<gioi_thieu>One man has three wives? What's the deal with this greedy guy?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/bagjwi-sayug-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="xunyao jiwen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>xunyao jiwen</ten_truyen>
-		<ma_truyen>xunyao-jiwen</ma_truyen>
-		<tac_gia>La La Zhi, Nu Wang</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-thumb.mpcdn.net/38164/1/200.jpg</hinh_nho>
-		<gioi_thieu>In ancient times, all of the demons recorded in the Classic of Mountains and Seas really existed. They absorbed humankind's thoughts to become more powerful. As time passed, people gradually forgot about their existence. The demons that were forgotten were all faced with the fate of disappearing... there is a family that serves to guard and protect the only demon remaining in the world. As they painted and recorded, they were - the artists of the Classic of Mountains and Seas.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/xunyao-jiwen-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mowang yu yongzhe yu sheng jian shendian" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>mowang yu yongzhe yu sheng jian shendian</ten_truyen>
-		<ma_truyen>mowang-yu-yongzhe-yu-sheng-jian-shendian</ma_truyen>
-		<tac_gia>A Yang, Nao Nao</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-thumb.mpcdn.net/32776/1/200.jpg</hinh_nho>
-		<gioi_thieu>The continent of RAIEO was once ravaged by the Demon King and the Demon Race, in the darkest of times a Brave Knight carried a Sacred Sword saved the continent. After 300 years of peace, with the Sacred Sword now gone and the Sacred Sword Temple being occupied by the Demon Race, the continent of RAIEO is once again at war. Thus, our protagonist together with his donkey and a mysterious girl embark on a journey to stop the Demon King and the Demon Race.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/mowang-yu-yongzhe-yu-sheng-jian-shendian-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="adonis next door" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Shoujo., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>adonis next door</ten_truyen>
-		<ma_truyen>adonis-next-door</ma_truyen>
-		<tac_gia>Mao Si Er, San Fu Animation</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-thumb.mpcdn.net/37252/1/200.jpg</hinh_nho>
-		<gioi_thieu>Su Shuang Shuang comes home one day to find that someone has moved into the apartment next to hers. When curiosity gets the best of her and she goes in to meet her neighbour, a handsome guys comes out of the shower? And he calls the police?</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/adonis-next-door-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="dc nation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-        <tac_gia>Brian Michael Bendis, Tom King, Scott Snyder, James Tynion IV, Joshua Williamson, Jose Luis Garcia-Lopez, Jorge Jimenez, Clay Mann</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-        <gioi_thieu>DC Nation features three brand-new stories from a lineup of superstar talent that will appear only in this comic book and will not be reprinted in another comic book before each series' collected editions.-and each tale serves as a prelude to some of the biggest DC events of 2018!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dc-nation-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="immortal hulk" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>immortal hulk</ten_truyen>
-		<ma_truyen>immortal-hulk</ma_truyen>
-        <tac_gia>Al Ewing, Joe Bennett, Alex Ross</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
-        <gioi_thieu>HORROR HAS A NAME. You'd never notice the man. He doesn't like to be noticed. He's quiet. Calm. Never complains. If someone were to walk up and shoot him in the head... all he'd do is die. Until night falls. And someone else gets up again. The man's name is Banner. The horror is THE IMMORTAL HULK.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/immortal-hulk-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the man of steel (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the man of steel (2018)</ten_truyen>
-		<ma_truyen>the-man-of-steel-2018</ma_truyen>
-        <tac_gia>Brian Michael Bendis, Jason Fabok, Ivan Reis</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/man-of-steel-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A new era begins for Superman as a threat from his earliest origins reemerges to destroy the Last Son of Krypton. As Superman struggles to come to grips with what has happened to his wife and son, he must also face a new threat that's determined to burn down Metropolis!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-man-of-steel-2018-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

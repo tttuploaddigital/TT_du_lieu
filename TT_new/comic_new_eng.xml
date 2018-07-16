@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<!--
 	<truyen ten="the curse of brimstone" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the curse of brimstone</ten_truyen>
 		<ma_truyen>the-curse-of-brimstone</ma_truyen>
@@ -28,7 +27,6 @@
         <gioi_thieu>The Master Chief and Blue Team are deployed by the UNSC to Alpha Corvi II, a precarious human colony world, seeking to halt the Covenant's efforts to uncover something hidden below the planet's surface. The Spartan strike team quickly finds out that they will have to rely on each other and a small cadre of human rebels in order to survive and complete their mission.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/halo-collateral-damage-eng.xml</file_xml>
     </truyen>
-	-->
 	<truyen ten="kiss/army of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Movies - tv, Music" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>kiss/army of darkness</ten_truyen>
 		<ma_truyen>kiss-army-of-darkness</ma_truyen>
@@ -271,59 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/m/medieval-spawn--witchblade-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Fan favorites Spawn and Witchblade team together for the first time in TWO DECADES!! In this issue: A village is besieged by a dark force-then Spawn emerges from out of the shadows to save them all. Is he their savior... or their destroyer?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/medieval-spawn-and-witchblade-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="red sonja / tarzan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>red sonja / tarzan</ten_truyen>
-		<ma_truyen>red-sonja-tarzan</ma_truyen>
-        <tac_gia>Gail Simon, Walter Geovani</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/red-sonjatarzan/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The She-Devil with a Sword meets the Lord of the Jungle! Eson Duul is an evil man. The mere mention of his name makes powerful quake with fear. He has no regard for life, including that of man. But he may finally have met his match when he finds himself up against Red Sonja and Tarzan! Gail Simone (Birds of Prey, Red Sonja) and Walter Geovani (Red Sonja, Clean Room) reunite to bring us the crossover event featuring two of fiction's greatest heroes side by side at last!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-sonja-tarzan-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="shade, the changing woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>shade, the changing woman</ten_truyen>
-		<ma_truyen>shade-the-changing-woman</ma_truyen>
-        <tac_gia>Cecil Castellucci, Jamie Coe, Marley Zarcone, Kelly Fitzpatrick</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shade-the-changing-woman/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Shade has shed her alien identity. She's stepped out of her original Earth body and into another one. Now, free of the burdens of any past life, and finally on her own, she sets out to see more of her new home. But how does she cope when the madness takes all the human emotions she was forced to confront in the Milk Wars and turns them into a bouillabaisse of memory and confusion? And to make it even more challenging, Shade must also face her namesake, the original Changing Man.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shade-the-changing-woman-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="legenderry red sonja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Steampunk, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>legenderry red sonja</ten_truyen>
-		<ma_truyen>legenderry-red-sonja</ma_truyen>
-        <tac_gia>Marc Andreyko, Igor Lima</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/l/legenderry-red-sonja-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The last we saw of Red Sonja of the Legenderry world, she was living the pirate's life aboard her ship, The Nautilus. But times have changed. As she tries to rebuild her life once again, she must save the Big City from two houses divided and the star crossed love bringing them to the brink of war!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/legenderry-red-sonja-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the musketeers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the musketeers</ten_truyen>
-		<ma_truyen>the-musketeers</ma_truyen>
-        <tac_gia>Terry Kavanagh, Daniel Maine, Bryan Valenza</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/musketeers/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A new team is introduced to the Grimm Universe! A group of super-powered beings calling themselves the Musketeers has emerged in Philadelphia. Using their powers to help those in trouble - as well as giving themselves a lifestyle befitting champions - the line between hero and villain is easily blurred. While the team sees their actions as justified, the city's police force has their own ideas... ones that will see the Musketeers locked away.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-musketeers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="abbott" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>abbott</ten_truyen>
-		<ma_truyen>abbott</ma_truyen>
-        <tac_gia>Saladin Ahmed, Sami Kivela, Jason Wordie, Taj Tenfold</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/abbott/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Hugo Award-nominated novelist Saladin Ahmed (Black Bolt) and artist Sami Kivela (Beautiful Canvas) present one woman's search for the truth that destroyed her family. Hard-nosed, chain-smoking tabloid reporter Elena Abbott investigates a series of grisly crimes that the police have ignored. Crimes she knows to be the work of dark occult forces. Forces that took her husband from her. Forces she has sworn to destroy.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/abbott-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="raven: daughter of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>raven: daughter of darkness</ten_truyen>
-		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
-        <tac_gia>Marv Wolfman, Pop Mhan, Lovern Kindzierski</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In this all-new miniseries, Raven faces a new, otherworldly menace that is all too grounded in reality. Plus, Raven's personal life is in an uproar as her mother and aunt struggle for the soul of a Titan! It's up to Baron Winters of the Night Force to intercede on her behalf as she embarks on the adventure called 'The Girls With the Anime Eyes'!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
