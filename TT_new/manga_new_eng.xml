@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="gigant" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, School life, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>gigant</ten_truyen>
+		<ma_truyen>gigant</ma_truyen>
+		<tac_gia>Oku Hiroya</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/96/04/9604402428c74a40bce9f9d31ae89b5d05c4aa17_29170_200_310.jpg</hinh_nho>
+		<gioi_thieu>Yamada Yoko, a high school boy who has a movie producer father. One day, while out with friends to shoot a film that he plans to enter into a film festival, a poster of Papiko, an adult video actress with big breasts, catches his eye.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gigant-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="trinity blood" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Mystery, Romance, Sci-fi, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>trinity blood</ten_truyen>
+		<ma_truyen>trinity-blood</ma_truyen>
+		<tac_gia>Kyujyo Kiyo, Yoshida Sunao</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/10486/3/200.jpg</hinh_nho>
+		<gioi_thieu>The background is in the distant future, a post-apocalyptic world after the destruction brought about by Armageddon. The war between humans (Terran) and vampires (Methuselah) continues, as a struggle between two factions: the Vatican and the New Human Empire. Yet, amidst the bloodshed and violence, many desire a peaceful co-existence between the two species. However, standing between them and this goal is the Rosenkreuz Orden, a group of vampire extremists who manipulate the two sides and pit them against each other. To combat them, the Vatican special operations group 'AX,' led by Cardinal Caterina, must use everything they have - even a vampire who preys on the blood of other vampires.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/trinity-blood-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hajimete datteba!" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hajimete datteba!</ten_truyen>
+		<ma_truyen>hajimete-datteba</ma_truyen>
+		<tac_gia>Saki Kaori</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/3363/1/200.jpg</hinh_nho>
+		<gioi_thieu>There is first time at everything, and you don't know anything about it. Not about your partner, not about yourself and even how to advance in love. In a certain port city, energetic high schooler Kana, and firm high schooler Kouki live. Two of them experiencing first time at every thing they do. Author of 'Smash!', Saki Kaori presents, Hajimete Datte ba!. A heartful love story has now began.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hajimete-datteba-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="world customize creator" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Romance, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>world customize creator</ten_truyen>
 		<ma_truyen>world-customize-creator</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/38919/2/200.jpg</hinh_nho>
 		<gioi_thieu>A school comedy involving the lazy angel Gabriel and her friends.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gabriel-dropout-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kyou no yuiko-san" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Seinen, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kyou no yuiko-san</ten_truyen>
-		<ma_truyen>kyou-no-yuiko-san</ma_truyen>
-		<tac_gia>Hidekawa Kenshin</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/37/2/200.jpg</hinh_nho>
-		<gioi_thieu>The story of the protagonist, Tomoya, and his everyday life with his girlfriend Yuiko-san.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/kyou-no-yuiko-san-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="asagao to kase-san." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo ai, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>asagao to kase-san.</ten_truyen>
-		<ma_truyen>asagao-to-kase-san</ma_truyen>
-		<tac_gia>Takashima Hiromi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/872/3/200.jpg</hinh_nho>
-		<gioi_thieu>Yamada is the plant appointee; tending the school's garden of flowers on her own. She isn't the slightest bit athletic, she's actually quite clumsy. However, that doesn't stop her from having feelings for the star athlete in the class next-door, Kase-san. Slightly shy, Yamada is reluctant about her feelings for the enthusiastic Kase-san. Slowly but surely, the pair are helping each other to grow in confidence for both themselves and their budding relationship, each blush and brush of the hand at a time.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/asagao-to-kase-san-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="tomodachi o tsukurou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4 koma, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>tomodachi o tsukurou</ten_truyen>
-		<ma_truyen>tomodachi-o-tsukurou</ma_truyen>
-		<tac_gia>Shouma Keito</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42149/1/200.jpg</hinh_nho>
-		<gioi_thieu>The lonely high school girl - Misuzu, with the perverted young man - Shoutaro's cooperation (obstruction), take up the challenge of making friends together!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomodachi-o-tsukurou-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

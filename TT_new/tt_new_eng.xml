@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="gigant" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, School life, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>gigant</ten_truyen>
+		<ma_truyen>gigant</ma_truyen>
+		<tac_gia>Oku Hiroya</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/96/04/9604402428c74a40bce9f9d31ae89b5d05c4aa17_29170_200_310.jpg</hinh_nho>
+		<gioi_thieu>Yamada Yoko, a high school boy who has a movie producer father. One day, while out with friends to shoot a film that he plans to enter into a film festival, a poster of Papiko, an adult video actress with big breasts, catches his eye.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gigant-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="trinity blood" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Mystery, Romance, Sci-fi, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>trinity blood</ten_truyen>
+		<ma_truyen>trinity-blood</ma_truyen>
+		<tac_gia>Kyujyo Kiyo, Yoshida Sunao</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/10486/3/200.jpg</hinh_nho>
+		<gioi_thieu>The background is in the distant future, a post-apocalyptic world after the destruction brought about by Armageddon. The war between humans (Terran) and vampires (Methuselah) continues, as a struggle between two factions: the Vatican and the New Human Empire. Yet, amidst the bloodshed and violence, many desire a peaceful co-existence between the two species. However, standing between them and this goal is the Rosenkreuz Orden, a group of vampire extremists who manipulate the two sides and pit them against each other. To combat them, the Vatican special operations group 'AX,' led by Cardinal Caterina, must use everything they have - even a vampire who preys on the blood of other vampires.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/trinity-blood-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hajimete datteba!" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hajimete datteba!</ten_truyen>
+		<ma_truyen>hajimete-datteba</ma_truyen>
+		<tac_gia>Saki Kaori</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/3363/1/200.jpg</hinh_nho>
+		<gioi_thieu>There is first time at everything, and you don't know anything about it. Not about your partner, not about yourself and even how to advance in love. In a certain port city, energetic high schooler Kana, and firm high schooler Kouki live. Two of them experiencing first time at every thing they do. Author of 'Smash!', Saki Kaori presents, Hajimete Datte ba!. A heartful love story has now began.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hajimete-datteba-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="teenage mutant ninja turtles: urban legends" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Martial arts, Movies - tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>teenage mutant ninja turtles: urban legends</ten_truyen>
 		<ma_truyen>teenage-mutant-ninja-turtles-urban-legends</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>Deadpool's quest to beat the rest continues, and this time he's squaring off against the Assassins Guild in the Big Easy! The Merc with the Mouth's healing factor will get put to the ultimate test when he's pitted against the knife-wielding speedster called HARVESTER! But even if he's lucky enough to survive that encounter, Deadpool's actions in this very comics mag will align more than one ne'er-do-well against him... and Harvester'll look like a walk in the park!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-assassin-eng.xml</file_xml>
     </truyen>
-	<truyen ten="the terrifics" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the terrifics</ten_truyen>
-		<ma_truyen>the terrifics</ma_truyen>
-        <tac_gia>Jeff Lemire, Ivan Reis, Joe Prado, Marcelo Maiolo</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-terrifics/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Bound together by fate, united by the spirit of exploration and hope for tomorrow, the Terrifics bound from the Dark Multiverse of Meta! When Mr. Terrific, Metamorpho, Plastic Man and Phantom Girl find themselves literally bound together by a tragic accident, our team of unlikely allies must rely on one another to make their way back home. But a startling revelation on their return trip brings them face to face with a new mystery: where in the universe is Tom Strong?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-terrifics-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hunt for wolverine: mystery in madripoor" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hunt for wolverine: mystery in madripoor</ten_truyen>
-		<ma_truyen>hunt-for-wolverine-mystery-in-madripoor</ma_truyen>
-        <tac_gia>Jim Zub, Thony Silas, Greg Land</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hunt-for-wolverine-mystery-in-madripoor/1_medium.jpg</hinh_nho>
-        <gioi_thieu>WHAT MAYHEM HAS THE RETURN OF THE MUTANT WITH METAL CLAWS CAUSED IN MADRIPOOR? When Wolverine's former alter-ego Patch is sighted on the streets of Madripoor, the infamous island of ill-repute, Kitty Pryde pulls together a group of Logan's closest friends to try and find him: Storm, Rogue, Psylocke, Domino, and Jubilee. What they discover is a twisted cabal of crime and dark mysteries that will take these X-Men from the depths of Lowtown to the stars circling overhead in the Hunt For Wolverine.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hunt-for-wolverine-mystery-in-madripoor-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="isekai tensei soudouki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Drama, Fantasy, Harem, Romance" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>isekai tensei soudouki</ten_truyen>
-		<ma_truyen>isekai-tensei-soudouki</ma_truyen>
-		<tac_gia>Takami Ryousen, Honoji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/32865/2/200.jpg</hinh_nho>
-		<gioi_thieu>Balud Cornelius is the son of a noble of the Mauricia kingdom and inside him also dwell the souls of the niggardly warring states commander Oka Sadatoshi and animal ear otaku high schooler Oka Masaharu. With these 3 souls in a single body, he can exhibit extraordinary abilities when it comes to combat or managing the domain.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-tensei-soudouki-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
