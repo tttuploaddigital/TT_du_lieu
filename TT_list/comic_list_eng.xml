@@ -450,14 +450,14 @@
         <gioi_thieu>Following the fallout of CIVIL WAR II, Avengers Ms. Marvel, Nova and Spider-Man strike out on their own — joined by Cyclops, Viv Vision and the Totally Awesome Hulk! Six young heroes determined to change the world — and they're only the beginning!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/champions-2016-eng.xml</file_xml>
     </truyen>
-	<truyen ten="charismagic (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="charismagic (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>charismagic (2018)</ten_truyen>
 		<ma_truyen>charismagic-2018</ma_truyen>
         <tac_gia>Vince Hernandez, Federico Blee, Mark Roslan, Joey Vazquez</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-urban-legends/1_medium.jpg</hinh_nho>
         <gioi_thieu>The forces of magic have returned-and this time no magical being is safe! Aspen's magical action-adventure series returns for its epic third volume! Las Vegas magician Hank Medley and his talking cat Sparkles attempt to put the pieces of their life back together, as society has taken a hardline approach to magic and its destructive results. Meanwhile, Sudana uncovers a more sinister plot brewing in the confines of a secret Government's facility in the Nevada desert, as a new form of magic is taking shape that will not only spell the end for mankind-but also magical beings everywhere! The age of the Magic Harvester has arrived!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/charismagic-2018-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/charismagic-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="charmed (2017)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>charmed (2017)</ten_truyen>
