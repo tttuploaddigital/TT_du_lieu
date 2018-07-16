@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="charismagic (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>charismagic (2018)</ten_truyen>
+		<ma_truyen>charismagic-2018</ma_truyen>
+        <tac_gia>Vince Hernandez, Federico Blee, Mark Roslan, Joey Vazquez</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-urban-legends/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The forces of magic have returned-and this time no magical being is safe! Aspen's magical action-adventure series returns for its epic third volume! Las Vegas magician Hank Medley and his talking cat Sparkles attempt to put the pieces of their life back together, as society has taken a hardline approach to magic and its destructive results. Meanwhile, Sudana uncovers a more sinister plot brewing in the confines of a secret Government's facility in the Nevada desert, as a new form of magic is taking shape that will not only spell the end for mankind-but also magical beings everywhere! The age of the Magic Harvester has arrived!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/charismagic-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="bloodshot salvation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>bloodshot salvation</ten_truyen>
+		<ma_truyen>bloodshot-salvation</ma_truyen>
+        <tac_gia>Jeff Lemire, Lewis Larosa</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/bloodshot-salvation/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Now: In the arms of his beloved girlfriend Magic, Bloodshot has finally found hope for the future... in the form the couple's unborn child. But when Magic's estranged family - a cruel and sadistic clan of white supremacist criminals re-emerge to lay claim to their lost daughter, Bloodshot will be pushed back to the brink of madness, mayhem, and warfare... Soon: Eight years from today, Bloodshot's daughter has inherited her father's incredible abilities. Hunted by a high-tech kill squad called Omen, Jessie must hone her powers... and learn how to survive before the world is swallowed whole by the darkness that now pervades America...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bloodshot-salvation-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="nancy drew (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>nancy drew (2018)</ten_truyen>
+		<ma_truyen>nancy-drew-2018</ma_truyen>
+        <tac_gia>Kelly Thompson, Jenn St-Onge</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/nancy-drew-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Nancy Drew is seventeen and good at everything... ESPECIALLY solving crimes. But her totally-in-control-and-obviously-running-perfectly-smooth-(but-not-really) life hits a snag when a mysterious message drags her back to the hometown she left behind. There she'll have to find out which of her friends are still her friends, which are enemies, and who exactly is trying to kill her... and (hopefully) stop them before they succeed. KELLY THOMPSON (Hawkeye, Star Wars, Rogue and Gambit) and JENN ST-ONGE (Giant Days, The Misfits) team up to present an all-new modern spin on a classic mystery icon!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nancy-drew-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="wasted space" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>wasted space</ten_truyen>
+		<ma_truyen>wasted-space</ma_truyen>
+        <tac_gia>Michael Moreci, Hayden Sherman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wasted-space/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Billy Bane is a prophet who got it all wrong, and the galaxy has been burning ever since. All he wants is to waste away in the darkest corner of space with his best pal Dust, a supercharged Fuq bot. But when a new prophet comes calling, Billy is summoned to save the galaxy he's at least partially responsible for destroying. Too bad he couldn't care less.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wasted-space-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="gigant" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, School life, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>gigant</ten_truyen>
 		<ma_truyen>gigant</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/m/man-of-steel-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>A new era begins for Superman as a threat from his earliest origins reemerges to destroy the Last Son of Krypton. As Superman struggles to come to grips with what has happened to his wife and son, he must also face a new threat that's determined to burn down Metropolis!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-man-of-steel-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="uchuu kyoudai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Psychological, Sci-fi, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>uchuu kyoudai</ten_truyen>
-		<ma_truyen>uchuu-kyoudaii</ma_truyen>
-		<tac_gia>Koyama Chuuya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/73/8/200.jpg</hinh_nho>
-		<gioi_thieu>One night in 2006, when they were young, the two brothers Mutta (born 1993) and Hibito (born 1996) saw what appeared to be a UFO heading for the moon. They decided that night to both become astronauts and travel out into space. In 2025, Hibito has become an astronaut, and he's going to go to the moon. Mutta ended up following a more traditional career path with an auto development company. However, Mutta just ruined his career through a violent altercation with his boss. Now, not only has he lost his job, he appears to be blacklisted in the entire industry. Maybe this is a rare opportunity for Mutta to once again chase his childhood dream and become an astronaut like his little brother! Nominated for the 2nd and 3rd Manga Taisho Award and won the 56th Shogakukan Manga Award and 35th Kodansha Manga Award in the General Category.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/uchuu-kyoudaii-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="saenai kanojo no sodatekata - koisuru metronome" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>saenai kanojo no sodatekata - koisuru metronome</ten_truyen>
-		<ma_truyen>saenai-kanojo-no-sodatekata-koisuru-metronome</ma_truyen>
-		<tac_gia>Maruto Fumiaki, Musha Sabu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27524/2/200.jpg</hinh_nho>
-		<gioi_thieu>Famed author Kasumigaoka Utaha had always struggled with her novel series, 'Koisuru Metronome' until she met Tomoyo Aki; her biggest fan who inspires her to give it a proper conclusion and later becomes her personal editor. Now with Tomoya's passion and Kasumigaoka's determination combined, the two work together on their latest series while also discovering their true feelings and finding parallels between themselves and the characters within Kasumigaoka's novels.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saenai-kanojo-no-sodatekata-koisuru-metronome-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="seikon no qwaser" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Harem, Mature, School life, Shounen., Supernatural, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>seikon no qwaser</ten_truyen>
-		<ma_truyen>seikon-no-qwaser</ma_truyen>
-		<tac_gia>Yoshino Hiroyuki, Satou Kenetsu</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/8688/5/200.jpg</hinh_nho>
-		<gioi_thieu>Balud Cornelius is the son of a noble of the Mauricia kingdom and inside him also dwell the souls of the niggardly warring states commander Oka Sadatoshi and animal ear otaku high schooler Oka Masaharu. With these 3 souls in a single body, he can exhibit extraordinary abilities when it comes to combat or managing the domain.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/seikon-no-qwaser-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="deadpool: assassin" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>deadpool: assassin</ten_truyen>
-		<ma_truyen>deadpool-assassin</ma_truyen>
-        <tac_gia>Cullen Bunn, Mark Bagley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-assassin/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Deadpool's quest to beat the rest continues, and this time he's squaring off against the Assassins Guild in the Big Easy! The Merc with the Mouth's healing factor will get put to the ultimate test when he's pitted against the knife-wielding speedster called HARVESTER! But even if he's lucky enough to survive that encounter, Deadpool's actions in this very comics mag will align more than one ne'er-do-well against him... and Harvester'll look like a walk in the park!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-assassin-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

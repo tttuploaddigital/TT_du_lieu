@@ -1,5 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<!--
+	<truyen ten="the curse of brimstone" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the curse of brimstone</ten_truyen>
+		<ma_truyen>the-curse-of-brimstone</ma_truyen>
+        <tac_gia>Justin Jordan, Philip Tan</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-curse-of-brimstone/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Joe Chamberlain would do anything to save his small, forgotten town-even make a deal with the devil. But things get worse, and Joe finds himself cursed with the power of BRIMSTONE. With the power of fire and destruction coursing through his hands, Joe must now track down and destroy the demon he made his deal with before the power he now wields destroys the town he was trying to save.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-curse-of-brimstone-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="cloak and dagger (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>cloak and dagger (2018)</ten_truyen>
+		<ma_truyen>cloak-and-dagger-2018</ma_truyen>
+        <tac_gia>Dennis Hopeless, David Messina</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/cloak-and-dagger-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>For years, Tyrone Johnson and Tandy Bowen were the super hero duo called CLOAK AND DAGGER - waging a citywide war on drugs, organized crime and corporate greed. In recent years, their crusade has taken them across the globe, fighting alongside Spider-Man, The X-Men and even The Avengers, and though they've drifted apart, a dangerous threat from their past has resurfaced - one that will force Cloak and Dagger to reunite and come to terms with their truest feelings for one another and the past they share!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cloak-and-dagger-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="halo: collateral damage" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>halo: collateral damage</ten_truyen>
+		<ma_truyen>halo-collateral-damage</ma_truyen>
+        <tac_gia>Alex Irvine, Dave Crosland, Leionard O'Grady</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/halo-collateral-damage/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Master Chief and Blue Team are deployed by the UNSC to Alpha Corvi II, a precarious human colony world, seeking to halt the Covenant's efforts to uncover something hidden below the planet's surface. The Spartan strike team quickly finds out that they will have to rely on each other and a small cadre of human rebels in order to survive and complete their mission.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/halo-collateral-damage-eng.xml</file_xml>
+    </truyen>
+	-->
+	<!--
+	<truyen ten="kiss/army of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Movies - tv, Music" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>kiss/army of darkness</ten_truyen>
+		<ma_truyen>kiss-army-of-darkness</ma_truyen>
+        <tac_gia>Chad Bowers, Chris Sims, Ruairi Coleman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/k/kissarmy-of-darkness/1_medium.jpg</hinh_nho>
+        <gioi_thieu>KISS is on top of the world and rocking faces until the night disciples of The Destroyer show up and the band disappears. With the tour canceled, a young Ash misses one of the most important events of his life that will change his destiny. Now the Chosen One has to get back on the right path and join the KISS ARMY OF DARKNESS!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kiss-army-of-darkness-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="world of tanks: citadel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>world of tanks: citadel</ten_truyen>
+		<ma_truyen>world-of-tanks-citadel</ma_truyen>
+        <tac_gia>Garth Ennis, PJ Holden</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/world-of-tanks-citadel/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Eastern Front, 1943: as the cataclysmic Battle of Kursk looms large, Captain Piotr Piotrowicz and his driver, Natalya 'Ginger' Pulkhova, prepare their unit for action- equipped with the worst tanks in the Russian inventory. On the opposite side, German tankers Karl Kraft and Freddie Stadler brace for the onslaught-well aware that failure here will put their Soviet enemy on the road to Berlin. Garth Ennis and PJ Holden present a second action-packed story of armored warfare, inspired by the phenomenally popular game World of Tanks.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/world-of-tanks-citadel-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="astonisher" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>astonisher</ten_truyen>
+		<ma_truyen>astonisher</ma_truyen>
+        <tac_gia>Alex de Campi, Jessica Kholinne, Pop Mhan</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-astonisher/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Magnus Atitarn, heir to the Atitarn Satellite Corp., tried to save the world with his experimental one-man spaceship and ended up a broken man. Now a celebrity joke suffering from post-traumatic stress disorder, Magnus has the power to travel inside the minds of superpowered people, where he discovers nightmares which threaten the entire human race. The strangest corners of the Catalyst Prime Universe are explored in this new series!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/astonisher-eng.xml</file_xml>
+    </truyen>
+	-->
+	<truyen ten="charismagic (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>charismagic (2018)</ten_truyen>
+		<ma_truyen>charismagic-2018</ma_truyen>
+        <tac_gia>Vince Hernandez, Federico Blee, Mark Roslan, Joey Vazquez</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-urban-legends/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The forces of magic have returned-and this time no magical being is safe! Aspen's magical action-adventure series returns for its epic third volume! Las Vegas magician Hank Medley and his talking cat Sparkles attempt to put the pieces of their life back together, as society has taken a hardline approach to magic and its destructive results. Meanwhile, Sudana uncovers a more sinister plot brewing in the confines of a secret Government's facility in the Nevada desert, as a new form of magic is taking shape that will not only spell the end for mankind-but also magical beings everywhere! The age of the Magic Harvester has arrived!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/charismagic-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="bloodshot salvation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>bloodshot salvation</ten_truyen>
+		<ma_truyen>bloodshot-salvation</ma_truyen>
+        <tac_gia>Jeff Lemire, Lewis Larosa</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/bloodshot-salvation/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Now: In the arms of his beloved girlfriend Magic, Bloodshot has finally found hope for the future... in the form the couple's unborn child. But when Magic's estranged family - a cruel and sadistic clan of white supremacist criminals re-emerge to lay claim to their lost daughter, Bloodshot will be pushed back to the brink of madness, mayhem, and warfare... Soon: Eight years from today, Bloodshot's daughter has inherited her father's incredible abilities. Hunted by a high-tech kill squad called Omen, Jessie must hone her powers... and learn how to survive before the world is swallowed whole by the darkness that now pervades America...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bloodshot-salvation-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="nancy drew (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>nancy drew (2018)</ten_truyen>
+		<ma_truyen>nancy-drew-2018</ma_truyen>
+        <tac_gia>Kelly Thompson, Jenn St-Onge</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/nancy-drew-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Nancy Drew is seventeen and good at everything... ESPECIALLY solving crimes. But her totally-in-control-and-obviously-running-perfectly-smooth-(but-not-really) life hits a snag when a mysterious message drags her back to the hometown she left behind. There she'll have to find out which of her friends are still her friends, which are enemies, and who exactly is trying to kill her... and (hopefully) stop them before they succeed. KELLY THOMPSON (Hawkeye, Star Wars, Rogue and Gambit) and JENN ST-ONGE (Giant Days, The Misfits) team up to present an all-new modern spin on a classic mystery icon!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nancy-drew-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="wasted space" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>wasted space</ten_truyen>
+		<ma_truyen>wasted-space</ma_truyen>
+        <tac_gia>Michael Moreci, Hayden Sherman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wasted-space/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Billy Bane is a prophet who got it all wrong, and the galaxy has been burning ever since. All he wants is to waste away in the darkest corner of space with his best pal Dust, a supercharged Fuq bot. But when a new prophet comes calling, Billy is summoned to save the galaxy he's at least partially responsible for destroying. Too bad he couldn't care less.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wasted-space-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="teenage mutant ninja turtles: urban legends" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Martial arts, Movies - tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>teenage mutant ninja turtles: urban legends</ten_truyen>
 		<ma_truyen>teenage-mutant-ninja-turtles-urban-legends</ma_truyen>
@@ -233,41 +327,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
         <gioi_thieu>In this all-new miniseries, Raven faces a new, otherworldly menace that is all too grounded in reality. Plus, Raven's personal life is in an uproar as her mother and aunt struggle for the soul of a Titan! It's up to Baron Winters of the Night Force to intercede on her behalf as she embarks on the adventure called 'The Girls With the Anime Eyes'!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="kill or be killed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Psychological, Thriller" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>kill or be killed</ten_truyen>
-		<ma_truyen>kill-or-be-killed</ma_truyen>
-        <tac_gia>Ed Brubaker, Elizabeth Breitweiser, Sean Phillips</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/k/kill-or-be-killed/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The bestselling team of ED BRUBAKER and SEAN PHILLIPS (THE FADE OUT, CRIMINAL, FATALE) launch their new monthly series: KILL OR BE KILLED, the twisted story of a young man who is forced to kill bad people, and how he struggles to keep his secret as it slowly ruins his life and the lives of his friends and loved ones. Both a thriller and a deconstruction of vigilantism, KILL OR BE KILLED is unlike anything BRUBAKER and PHILLIPS have ever done.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kill-or-be-killed-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="justice league: no justice" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>justice league: no justice</ten_truyen>
-		<ma_truyen>justice-league-no-justice</ma_truyen>
-        <tac_gia>Scott Snyder, James Tynion IV, Joshua Williamson, Francis Manapul</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-no-justice/1_medium.jpg</hinh_nho>
-        <gioi_thieu>DARK NIGHTS: METAL left the DCU transformed in ways both terrifying and wondrous and only the Justice League is strong enough to face the threats to come... or are they? Four giant beings comprised of the universe's major energies-Mystery, Wonder, Wisdom and Entropy-who sustain their life force by devouring planets are on their way to destroy the planet of Colu. The only way to take down this unimaginable threat is for the superhero teams of Earth to forget everything they thought they knew and form new alliances. What secrets of the cosmos will Superman, Martian Manhunter and Team Mystery discover? Will Zatanna, Wonder Woman and Team Wonder awaken alien magic they cannot put back to sleep? What can Harley Quinn possibly have to teach the rest of Team Wisdom? And most importantly... why the heck is Beast Boy on Team Entropy with Lobo and Batman? Find out all this and much more in the most exciting, bombastic event of summer 2018!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/justice-league-no-justice-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="star wars: the last jedi adaptation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>star wars: the last jedi adaptation</ten_truyen>
-		<ma_truyen>star-wars-the-last-jedi-adaptation</ma_truyen>
-        <tac_gia>Gary Whitta, Michael Walsh</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-the-last-jedi-adaptation/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Resistance has found Luke Skywalker! But the First Order is hot on their tail... and they are out for blood. Join writer Gary Whitta (ROGUE ONE: A STAR WARS STORY) and artist Michael Walsh (STAR WARS ANNUAL, HAWKEYE and THE VISION) as they take on the adventures of Force prodigy Rey, ace pilot Poe Dameron, and ex-First Order recruit Finn from the hit blockbuster STAR WARS: THE LAST JEDI - featuring never-before-seen scenes of your favorite characters!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-the-last-jedi-adaptation-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the wicked righteous" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the wicked righteous</ten_truyen>
-		<ma_truyen>the-wicked-righteous</ma_truyen>
-        <tac_gia>Terry Mayo, Chris Hall, Lucas Romero, Brandon DeStefano</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-wicked-righteous/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Biological warfare has decimated the earth's population, leaving two distinct groups of survivors in its wake. In San Diego, four teenage brothers rescue a young girl from a brutal gang of psychopaths and spark a chain of events that attracts an onslaught of unspeakable evil. This is the world of the Wicked and the Righteous... and the children will lead them all.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-wicked-righteous-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
