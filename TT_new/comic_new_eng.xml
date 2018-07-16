@@ -29,7 +29,6 @@
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/halo-collateral-damage-eng.xml</file_xml>
     </truyen>
 	-->
-	<!--
 	<truyen ten="kiss/army of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Movies - tv, Music" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>kiss/army of darkness</ten_truyen>
 		<ma_truyen>kiss-army-of-darkness</ma_truyen>
@@ -57,7 +56,6 @@
         <gioi_thieu>Magnus Atitarn, heir to the Atitarn Satellite Corp., tried to save the world with his experimental one-man spaceship and ended up a broken man. Now a celebrity joke suffering from post-traumatic stress disorder, Magnus has the power to travel inside the minds of superpowered people, where he discovers nightmares which threaten the entire human race. The strangest corners of the Catalyst Prime Universe are explored in this new series!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/astonisher-eng.xml</file_xml>
     </truyen>
-	-->
 	<truyen ten="charismagic (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>charismagic (2018)</ten_truyen>
 		<ma_truyen>charismagic-2018</ma_truyen>
