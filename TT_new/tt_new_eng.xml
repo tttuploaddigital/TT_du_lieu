@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="jirni (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>jirni (2018)</ten_truyen>
+		<ma_truyen>jirni-2018</ma_truyen>
+        <tac_gia>J.T. Krul, Michael Santamaria, John Starr</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/jirni-vol-3/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Aspen's popular fantasy adventure series, JIRNI, returns for an epic third volume! As Ara's quest to find her kidnapped mother continues, she finds solace in a remote village, but do they have their own demons to worry about? Meanwhile, Torinthal continues on his own search to unlock the mysteries of the D'jinn and their celestial origin. Don't miss out on the biggest quest for Ara yet! Created by New York Times Best-Selling author J.T. Krul (Michael Turner's Soulfire, Green Arrow) with art by newcomer Michael Santamaria, this next exciting chapter of Jirni will once again return readers to a land of untapped wonder!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/jirni-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="isola" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>isola</ten_truyen>
+		<ma_truyen>isola</ma_truyen>
+        <tac_gia>Brenden Fletcher, Karl Kerschl, MSASSYK</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/isola/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Childhood friends BRENDEN FLETCHER (MOTOR CRUSH) and Eisner Award-winning storyteller KARL KERSCHL (Gotham Academy) reunite on the comics page with a breathtaking fantasy adventure two decades in the making! The captain of the Royal Guard has fled the capital city with the Queen of Maar, suffering under the effects of an evil spell. Captain Rook's only hope of returning Queen Olwyn to her throne and saving the kingdom from impending war lies on an island half a world away-a place known in myth as Isola, land of the dead. Featuring lush color work by MSASSYK (Gotham Academy) and letters by ADITYA BIDIKAR (MOTOR CRUSH). Recommended for fans of Studio Ghibli and the work of Hayao Miyazaki.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/isola-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="die!die!die!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Horror, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>die!die!die!</ten_truyen>
+		<ma_truyen>die-die-die</ma_truyen>
+        <tac_gia>Chris Burnham, Robert Kirkman, Scott Gimple</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/diediedie/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Blood will flow, Bullets will fly and the mayhem will never end, Die!Die!Die! brings all the action you could ever want.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/die-die-die-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="getter robot devolution - uchuu saigo no 3-bunkan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mecha, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>getter robot devolution - uchuu saigo no 3-bunkan</ten_truyen>
 		<ma_truyen>getter-robot-devolution-uchuu-saigo-no-3-bunkan</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/26898/5/200.jpg</hinh_nho>
 		<gioi_thieu>Tagami Yusuke, led by a mysterious voice, is summoned to another world, 'Caltsio'. He was just a young video-game lover, but Fate decided to make him become the 'Evil God of Calamity' of this world, obtaining the ability to create and customize everything, Customize Creation.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-customize-creator-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="cross account" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>cross account</ten_truyen>
-		<ma_truyen>cross-account</ma_truyen>
-		<tac_gia>Date Tsunehiro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/50309/1/200.jpg</hinh_nho>
-		<gioi_thieu>A romantic comedy about a boy and his social media rage; a story of social media and the crossing fates of a young man and a young woman who were never supposed to meet.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/cross-account-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="king golf" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>king golf</ten_truyen>
-		<ma_truyen>king-golf</ma_truyen>
-		<tac_gia>Sasaki Takeshi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/5066/2/200.jpg</hinh_nho>
-		<gioi_thieu>In Teirin High School, you are either part of a gang or an elite sports player. Sousuke Youki, called 'the predator,' is an undefeated master at fighting. One morning, as he finishes up a fight, Kazumi, a prodigy amateur golf player, took a look at Sousuke, ignored him, and walked right by. Infuriated, Sousuke sets out to get revenge on Kazumi for dissing him but Sousuke's revenge takes a detour as he gets himself involved in playing golf by the thuggish golf coach. Will this delinquent break legends and become 'the King of Golf'? King Golf also won the 56th Shogakukan Manga Award in January 2011 in the boys category.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/king-golf-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gou - himetachi no sengoku" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Historical, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gou - himetachi no sengoku</ten_truyen>
-		<ma_truyen>gou-himetachi-no-sengoku</ma_truyen>
-		<tac_gia>Tabuchi Kumiko, Akatsuki Kaori</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3228/2/200.jpg</hinh_nho>
-		<gioi_thieu>The 50th NHK Taiga drama is Gou. The story focuses on the life of Gou, a wife of the second Tokugawa shogun Hidetada. Gou was the third daughter of the daimyo Azai Nagamasa, who was married to the sister of Oda Nobunaga. One of Gou's older sisters was the wife of Toyotomi Hideyoshi, while the other married the daimyo Kyogoku Takatsugu.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/gou-himetachi-no-sengoku-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
