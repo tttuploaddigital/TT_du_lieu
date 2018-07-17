@@ -2718,6 +2718,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>A mysterious illness is spreading rapidly through the halls of Fujimi High School. In a matter of hours, the campus is transformed from a place of learning into a hive of nightmares, as the infected students collapse and are reborn as flesh-hungry zombies! Only a handful of students escape the initial outbreak — among them Takashi Komuro and his childhood friend, Rei. He manages to protect Rei from the initial onslaught, but how long can Takashi and the other students hope to survive when the whole school – maybe the whole town — is out for their blood?!</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/highschool-of-the-dead-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="hillbilly" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Mythology, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hillbilly</ten_truyen>
+		<ma_truyen>hillbilly</ma_truyen>
+        <tac_gia>Eric Powell</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hillbilly/1_medium.jpg</hinh_nho>
+        <gioi_thieu>An Appalachian Mountain fantasy epic that tells the story of Rondel. A lonely figure who wanders the wooded hills among witches and magical creatures as a folktale hero to those who dwell in this gritty dream world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hillbilly-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="hinamatsuri" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Seinen, Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>hinamatsuri</ten_truyen>
 		<ma_truyen>hinamatsuri</ma_truyen>
@@ -4677,6 +4686,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>Wi-Lan is a poor girl that was born in a poor fisherman family. She yearned to go to that high standard private high school. When she received the entrance letter, she was so happy, but then she became the laughter of the whole school for being the poorest kid in the school. She was teased and pranked. Until a few weeks ago, a new student transfered to their school, San-Yue. Wi-Lan had a crush on him along with the rest of the girls. When she confessed to him, he ran off without saying anything. Apparently, he and his family are hiding a dark secret...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Completed/prince-bubble-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="prism stalker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>prism stalker</ten_truyen>
+		<ma_truyen>prism-stalker</ma_truyen>
+        <tac_gia>Sloane Long, Darius Ou</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/prism-stalker/1_medium.jpg</hinh_nho>
+        <gioi_thieu>For fans of Octavia Butler, Sailor Moon, and the biopunk horror of David Cronenberg comes PRISM STALKER, an ongoing sci-fi adventure series by SLOANE LEONG. Vep is a young refugee raised away from her devastated home planet as an indentured citizen in a foreign colony. She works tirelessly for her insectoid hosts, but there is no exit in sight in this viscous, dripping citynest. The eye of opportunity is closing. Her duty is to her family and her siblings, but what more can she do for them here? The answer appears faster than she is ready for.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/prism-stalker-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="proclaiming and loving" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Historical, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>proclaiming and loving</ten_truyen>
 		<ma_truyen>proclaiming-and-loving</ma_truyen>
@@ -6155,6 +6173,15 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <hinh_nho>https://comicbookroundup.com/img/covers/k/kamandi-challenge/1_medium.jpg</hinh_nho>
         <gioi_thieu>Prepare to take part in one of the greatest adventures from the infinite future of the DC Universe, and join the industry's top creative teams in a round-robin, no-holds-barred, storytelling extravaganza titled THE KAMANDI CHALLENGE! Born from the mind of Jack 'King' Kirby, the post apocalyptic Earth of Kamandi has been a fan favorite for decades, and now 14 intrepid teams of writers and artists build on this incredible foundation and take the title character on an epic quest to find his long-lost parents and travel to places seen and unseen in the DC Universe. Each issue will end with an unimaginable cliffhanger, and it's up to the next creative team to resolve it before creating their own. It's a challenge worthy of 'The King' himself! In this premiere issue, the Last Boy on Earth is dragged from his safe haven by a group of tigers, only to face the nightmarish threat of the ultimate weapon!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-kamandi-challenge-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the last siege" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Fantasy, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the last siege</ten_truyen>
+		<ma_truyen>the-last-siege</ma_truyen>
+        <tac_gia>Landry Q. Walker, Justin Greenwood, Nick Dragotta</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-last-siege/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A tale of blood, desperation, and loss. New York Times bestselling author LANDRY Q. WALKER joins artist JUSTIN GREENWOOD for an all-new ONGOING SERIES-THE LAST SIEGE! Spaghetti Western storytelling meets Game of Thrones atmosphere in this gritty medieval war story, as a mysterious stranger arrives at a castle overrun with brutal soldiers bent on usurping the throne of the rightful heir-an 11-year-old girl. An action-packed, genre-twisting epic, THE LAST SIEGE begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/jirni-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="the legendary moonlight sculptor" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Martial arts, Romance, Sci-fi, Seinen, Slice of life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>the legendary moonlight sculptor</ten_truyen>
