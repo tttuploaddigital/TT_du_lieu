@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="the unexpected" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the unexpected</ten_truyen>
+		<ma_truyen>the-unexpected</ma_truyen>
+        <tac_gia>Steve Orlando, Cary Nord, Ryan Sook, Mick Gray, Wade von Grawbadger</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-unexpected-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In the aftermath of DARK NIGHTS: METAL, the DC Universe has been forever changed as new heroes are called out of the shadows. Amid this all is Janet Fals...Firebrand! Once a paramedic dedicated to saving lives, she must now start a fight once every 24 hours to feed the Conflict Engine that's replaced her heart. But Janet's heart isn't just a curse-it's a beacon, drawing out both the mysterious Neon the Unknown and the seductive, malevolent Bad Samaritan. One of them wants to cut out her heart, the other wants to save it-but neither of them knows the true danger hidden within that will kick off a superhero manhunt ranging from Thanagar to the deepest heart of the Dark Multiverse!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-unexpected-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="judge dredd: under siege" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>judge dredd: under siege</ten_truyen>
+		<ma_truyen>judge-dredd-under-siege</ma_truyen>
+        <tac_gia>Mark Russell, Max Dunbar</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/judge-dredd-under-siege/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When all contact with the Patrick Swayze Block is lost, Dredd and Judge Beeny are tasked with investigating. As they battle lawlessness and rampant criminality, they discover a threat to the city that they must contain at all costs...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/judge-dredd-under-siege-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="sword daughter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>sword daughter</ten_truyen>
+		<ma_truyen>sword-daughter</ma_truyen>
+        <tac_gia>Brian Wood, Mack Chater, Lauren Affe</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/comic-books/reviews/dark-horse-comics/sword-daughter</hinh_nho>
+        <gioi_thieu>The Forty Swords came at night and murdered the entire village, save for two people: the infant Elsbeth and her grief-stricken father, Dag. Setting off on a revenge quest that will span the width of Viking Age Europe, they find the key to repairing their damaged relationship lies in the swords they carry. Created by Brian Wood (Northlanders, The Massive, DMZ) and Mack Chater (Briggs Land, Lazarus), Sword Daughter is a visually stunning, emotionally poignant story of parental guilt and acceptance of loss.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sword-daughter-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="brother nash" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>brother nash</ten_truyen>
+		<ma_truyen>brother-nash</ma_truyen>
+        <tac_gia>Bridgit Connell</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/brother-nash/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Werewolves! Truckers! Magic! Monstrous cicadas! The unquiet dead! It's all here... on the road! Nash is a haunted trucker who can see ghosts, can talk with spirits, senses evil, and hides a dark secret... When Nash takes on a mysterious hitchhiker heading for Tucson, he and his friends are dragged head first into his biggest and most dangerous adventure yet.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/brother-nash-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="eternity girl" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>eternity girl</ten_truyen>
 		<ma_truyen>eternity-girl</ma_truyen>
@@ -234,40 +270,4 @@
         <gioi_thieu>Childhood friends BRENDEN FLETCHER (MOTOR CRUSH) and Eisner Award-winning storyteller KARL KERSCHL (Gotham Academy) reunite on the comics page with a breathtaking fantasy adventure two decades in the making! The captain of the Royal Guard has fled the capital city with the Queen of Maar, suffering under the effects of an evil spell. Captain Rook's only hope of returning Queen Olwyn to her throne and saving the kingdom from impending war lies on an island half a world away-a place known in myth as Isola, land of the dead. Featuring lush color work by MSASSYK (Gotham Academy) and letters by ADITYA BIDIKAR (MOTOR CRUSH). Recommended for fans of Studio Ghibli and the work of Hayao Miyazaki.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/isola-eng.xml</file_xml>
     </truyen>
-	<truyen ten="die!die!die!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Horror, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>die!die!die!</ten_truyen>
-		<ma_truyen>diediedie</ma_truyen>
-        <tac_gia>Chris Burnham, Robert Kirkman, Scott Gimple</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/diediedie/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Blood will flow, Bullets will fly and the mayhem will never end, Die!Die!Die! brings all the action you could ever want.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/diediedie-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="getter robot devolution - uchuu saigo no 3-bunkan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mecha, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>getter robot devolution - uchuu saigo no 3-bunkan</ten_truyen>
-		<ma_truyen>getter-robot-devolution-uchuu-saigo-no-3-bunkan</ma_truyen>
-		<tac_gia>Ishikawa Ken, Shimizu Eiichi, Shimoguchi Tomohiro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/38781/1/200.jpg</hinh_nho>
-		<gioi_thieu>Three young pilots connected by the Getter Rays (Ryoma Nagare, Hayato Jin, and Musashi Tomoe) are recruited by Dr. Saotome to fight the Devolved beings appearing from spatial distortions using the only weapon that can face these monsters, the Getter Robo. The Saotome Institute however holds a dangerous secret, a fragment of the being called Emperor which connects the Getter and its pilots to parallel worlds, including the presence of people from those worlds such as an older Hayato and Dr. Shikishima.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/getter-robot-devolution-uchuu-saigo-no-3-bunkan-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="rain  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>rain  </ten_truyen>
-		<ma_truyen>rain</ma_truyen>
-		<tac_gia>Yoshino Takumi, Sumikawa Megumi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>http://www.mangadeep.com/wp-content/manga/cover/tbn/rain_200x0.jpg</hinh_nho>
-		<gioi_thieu>The small country Sunkwoll is in a tight spot because it's under attack of the great country Zarmine. But the general, Rain, who's reputed to be an exceptionally gifted swordsman, is against the war and won't enter the battle. But how is one supposed to wage a war like this anyway?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/rain-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kimi to kore kara" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, Shounen ai, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kimi to kore kara</ten_truyen>
-		<ma_truyen>kimi-to-kore-kara</ma_truyen>
-		<tac_gia>Yamamoto Kotetsuko</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/28219/3/200.jpg</hinh_nho>
-		<gioi_thieu>Here starts the Konya spinoff series, focusing more on Gorou and Verde! There's plenty of Endou and Rikiya as well, but this story will spend more time telling the story of these heretofore side characters. The story takes place immediately after the last Konya chapter, so you can think of this as Chapter 20, just less focus on Endo/Rikiya and more on Gorou/Verde.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/kimi-to-kore-kara-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>

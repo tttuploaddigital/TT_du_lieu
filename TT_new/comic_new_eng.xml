@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="the unexpected" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the unexpected</ten_truyen>
+		<ma_truyen>the-unexpected</ma_truyen>
+        <tac_gia>Steve Orlando, Cary Nord, Ryan Sook, Mick Gray, Wade von Grawbadger</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-unexpected-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In the aftermath of DARK NIGHTS: METAL, the DC Universe has been forever changed as new heroes are called out of the shadows. Amid this all is Janet Fals...Firebrand! Once a paramedic dedicated to saving lives, she must now start a fight once every 24 hours to feed the Conflict Engine that's replaced her heart. But Janet's heart isn't just a curse-it's a beacon, drawing out both the mysterious Neon the Unknown and the seductive, malevolent Bad Samaritan. One of them wants to cut out her heart, the other wants to save it-but neither of them knows the true danger hidden within that will kick off a superhero manhunt ranging from Thanagar to the deepest heart of the Dark Multiverse!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-unexpected-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="judge dredd: under siege" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>judge dredd: under siege</ten_truyen>
+		<ma_truyen>judge-dredd-under-siege</ma_truyen>
+        <tac_gia>Mark Russell, Max Dunbar</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/judge-dredd-under-siege/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When all contact with the Patrick Swayze Block is lost, Dredd and Judge Beeny are tasked with investigating. As they battle lawlessness and rampant criminality, they discover a threat to the city that they must contain at all costs...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/judge-dredd-under-siege-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="sword daughter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>sword daughter</ten_truyen>
+		<ma_truyen>sword-daughter</ma_truyen>
+        <tac_gia>Brian Wood, Mack Chater, Lauren Affe</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/comic-books/reviews/dark-horse-comics/sword-daughter</hinh_nho>
+        <gioi_thieu>The Forty Swords came at night and murdered the entire village, save for two people: the infant Elsbeth and her grief-stricken father, Dag. Setting off on a revenge quest that will span the width of Viking Age Europe, they find the key to repairing their damaged relationship lies in the swords they carry. Created by Brian Wood (Northlanders, The Massive, DMZ) and Mack Chater (Briggs Land, Lazarus), Sword Daughter is a visually stunning, emotionally poignant story of parental guilt and acceptance of loss.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sword-daughter-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="brother nash" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>brother nash</ten_truyen>
+		<ma_truyen>brother-nash</ma_truyen>
+        <tac_gia>Bridgit Connell</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/brother-nash/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Werewolves! Truckers! Magic! Monstrous cicadas! The unquiet dead! It's all here... on the road! Nash is a haunted trucker who can see ghosts, can talk with spirits, senses evil, and hides a dark secret... When Nash takes on a mysterious hitchhiker heading for Tucson, he and his friends are dragged head first into his biggest and most dangerous adventure yet.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/brother-nash-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="eternity girl" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>eternity girl</ten_truyen>
 		<ma_truyen>eternity-girl</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/w/world-of-tanks-citadel/1_medium.jpg</hinh_nho>
         <gioi_thieu>The Eastern Front, 1943: as the cataclysmic Battle of Kursk looms large, Captain Piotr Piotrowicz and his driver, Natalya 'Ginger' Pulkhova, prepare their unit for action- equipped with the worst tanks in the Russian inventory. On the opposite side, German tankers Karl Kraft and Freddie Stadler brace for the onslaught-well aware that failure here will put their Soviet enemy on the road to Berlin. Garth Ennis and PJ Holden present a second action-packed story of armored warfare, inspired by the phenomenally popular game World of Tanks.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/world-of-tanks-citadel-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="astonisher" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>astonisher</ten_truyen>
-		<ma_truyen>astonisher</ma_truyen>
-        <tac_gia>Alex de Campi, Jessica Kholinne, Pop Mhan</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-astonisher/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Magnus Atitarn, heir to the Atitarn Satellite Corp., tried to save the world with his experimental one-man spaceship and ended up a broken man. Now a celebrity joke suffering from post-traumatic stress disorder, Magnus has the power to travel inside the minds of superpowered people, where he discovers nightmares which threaten the entire human race. The strangest corners of the Catalyst Prime Universe are explored in this new series!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/astonisher-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="charismagic (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>charismagic (2018)</ten_truyen>
-		<ma_truyen>charismagic-2018</ma_truyen>
-        <tac_gia>Vince Hernandez, Federico Blee, Mark Roslan, Joey Vazquez</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/charismagic-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The forces of magic have returned-and this time no magical being is safe! Aspen's magical action-adventure series returns for its epic third volume! Las Vegas magician Hank Medley and his talking cat Sparkles attempt to put the pieces of their life back together, as society has taken a hardline approach to magic and its destructive results. Meanwhile, Sudana uncovers a more sinister plot brewing in the confines of a secret Government's facility in the Nevada desert, as a new form of magic is taking shape that will not only spell the end for mankind-but also magical beings everywhere! The age of the Magic Harvester has arrived!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/charismagic-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="bloodshot salvation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>bloodshot salvation</ten_truyen>
-		<ma_truyen>bloodshot-salvation</ma_truyen>
-        <tac_gia>Jeff Lemire, Lewis Larosa</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/bloodshot-salvation/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Now: In the arms of his beloved girlfriend Magic, Bloodshot has finally found hope for the future... in the form the couple's unborn child. But when Magic's estranged family - a cruel and sadistic clan of white supremacist criminals re-emerge to lay claim to their lost daughter, Bloodshot will be pushed back to the brink of madness, mayhem, and warfare... Soon: Eight years from today, Bloodshot's daughter has inherited her father's incredible abilities. Hunted by a high-tech kill squad called Omen, Jessie must hone her powers... and learn how to survive before the world is swallowed whole by the darkness that now pervades America...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bloodshot-salvation-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="nancy drew (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>nancy drew (2018)</ten_truyen>
-		<ma_truyen>nancy-drew-2018</ma_truyen>
-        <tac_gia>Kelly Thompson, Jenn St-Onge</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/nancy-drew-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Nancy Drew is seventeen and good at everything... ESPECIALLY solving crimes. But her totally-in-control-and-obviously-running-perfectly-smooth-(but-not-really) life hits a snag when a mysterious message drags her back to the hometown she left behind. There she'll have to find out which of her friends are still her friends, which are enemies, and who exactly is trying to kill her... and (hopefully) stop them before they succeed. KELLY THOMPSON (Hawkeye, Star Wars, Rogue and Gambit) and JENN ST-ONGE (Giant Days, The Misfits) team up to present an all-new modern spin on a classic mystery icon!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nancy-drew-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
