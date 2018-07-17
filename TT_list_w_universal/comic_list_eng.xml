@@ -702,6 +702,15 @@
         <gioi_thieu>Prepare yourself for Dejah Thoris as you've never seen her before! A shocking conspiracy unravels in Helium as Dejah's father has gone missing. In the wake of assuming the throne, Dejah learns secret information from her past that will have resounding effects on the kingdom - and her life! Join Frank J. Barbiere (The Howling Commandos of SHIELD, The Precinct) and Francesco Manna (Vampirella #100) as Dejah discovers a secret past that will have her leaving Helium for an all-new adventure on her own!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/dejah-thoris-2016-eng.xml</file_xml>
     </truyen>
+	<truyen ten="delta 13" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>delta 13</ten_truyen>
+		<ma_truyen>delta-13</ma_truyen>
+        <tac_gia>Steve Niles, Nat Jones</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/delta-13/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Who knows what mysteries lie deep in the asteroid belt? When a mysterious, huge, and previously undiscovered asteroid looms over their ship, a small crew of blue-collar workers discovers a terrifying threat unlike anything they've ever seen. Now, the crew must escape the asteroid, but even if they do, will they be able to escape each other and anything they bring back with them?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/delta-13-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="die!die!die!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Horror, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>die!die!die!</ten_truyen>
 		<ma_truyen>diediedie</ma_truyen>
@@ -1557,6 +1566,15 @@
         <gioi_thieu>For fans of Octavia Butler, Sailor Moon, and the biopunk horror of David Cronenberg comes PRISM STALKER, an ongoing sci-fi adventure series by SLOANE LEONG. Vep is a young refugee raised away from her devastated home planet as an indentured citizen in a foreign colony. She works tirelessly for her insectoid hosts, but there is no exit in sight in this viscous, dripping citynest. The eye of opportunity is closing. Her duty is to her family and her siblings, but what more can she do for them here? The answer appears faster than she is ready for.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/prism-stalker-eng.xml</file_xml>
     </truyen>
+	<truyen ten="pumpkinhead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror, Movies - tv, Mythology" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>pumpkinhead</ten_truyen>
+		<ma_truyen>pumpkinhead</ma_truyen>
+        <tac_gia>Cullen Bunn, Blacky Shepherd, Kyle Strahm</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/pumpkinhead/1_medium.jpg</hinh_nho>
+        <gioi_thieu>For thirty years, the demon of vengeance has been still, its corpse buried in a pumpkin patch graveyard in the hills. But when a reckless driver accidentally kills a pair of children, the creature is called up once more. This time, though, the monster's intended target is protected by a cruel backwoods crime family. They hatch their own supernatural plans for dealing with Pumpkinhead. For each of man's sins, a special demon exists, and when seven infernal creatures roam the hills and the hollows, no one-guilty or otherwise-is safe.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pumpkinhead-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="rat queens (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>rat queens (2017)</ten_truyen>
 		<ma_truyen>rat-queens-2017</ma_truyen>
@@ -2133,6 +2151,15 @@
         <gioi_thieu>John Constantine's lost weekend in New York City was fun, but London's where his heart is-only a pissed-off demon and a curse on his soul stand in his way. Even Constantine's questionable ethics are pushed to the limit when he puts eight million souls on the line to get what he wants...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-hellblazer-eng.xml</file_xml>
     </truyen>
+	<truyen ten="the highest house" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the highest house</ten_truyen>
+		<ma_truyen>the-highest-house</ma_truyen>
+        <tac_gia>Mike Carey, Peter Gross</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-highest-house/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The creators behind The Unwritten, Mike Carey and Peter Gross, invite you into The Highest House, the story of a slave boy named Moth, who makes friends with a powerful entity called Obsidian that promises advancement and happiness. Clearly, Obsidian has a hidden agenda, but Moth has ambitions and plans of his own...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-highest-house-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="the immortal men" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the immortal men</ten_truyen>
 		<ma_truyen>the-immortal-men</ma_truyen>
@@ -2285,6 +2312,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/w/wild-storm/1_medium.jpg</hinh_nho>
         <gioi_thieu>A troubled woman, barred by her employer from continuing her research, walks miserably through New York City. It takes her a moment to notice that everybody else is looking up. A man has been thrown from the upper floor of the Halo skyscraper. And that woman-Angela Spica, sick from the transhuman implants she's buried in her own body-is the only person who can save him. What she doesn't know is that the act of saving that one man will tip over a vast and secret house of cards that encloses the entire world, if not the inner solar system. This is how the Wild Storm begins, and it may destroy covert power structures, secret space programs and even all of human history.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-wild-storm-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="thief of thieves" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Drama, Life sucks, Psychological" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>thief of thieves</ten_truyen>
+		<ma_truyen>thief-of-thieves</ma_truyen>
+        <tac_gia>Nick Spencer, Robert Kirkman, Shawn Martinbrough</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Thief_of_Thieves.jpg/200px-Thief_of_Thieves.jpg</hinh_nho>
+        <gioi_thieu>Conrad Paulson lives a secret double life as master thief Redmond. There is nothing he can't steal, nothing he can't have... except for the life he left behind. Now, with a grown son he hardly knows, and an ex-wife he never stopped loving, Conrad must try to piece together what's left of his life, before the FBI finally catch up to him... but it appears they are the least of his worries.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thief-of-thieves-eng.xml</file_xml>
     </truyen>
 	<truyen ten="thor vs. hulk: champions of the universe" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>thor vs. hulk: champions of the universe</ten_truyen>
