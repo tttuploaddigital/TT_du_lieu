@@ -405,6 +405,15 @@
         <gioi_thieu>Broken Trinity brings together the Witchblade, The Darkness and Angelus once more, but this time the stakes are even higher as a new artifact is discovered, forever upsetting the balance of power. By the conclusion of the crossover, a major new player will be introduced into the Top Cow Universe, while at least one established character will be gone forever. The team of Marz and Sejic that dazzled you with First Born and their ongoing adventures on Witchblade is back to change the face of the Top Cow Universe one more time. Also featuring part one of a stunning triptych variant cover by Luke Ross (Indiana Jones, Green Lantern Corps).</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/broken-trinity-eng.xml</file_xml>
     </truyen>
+	<truyen ten="brother nash" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>brother nash</ten_truyen>
+		<ma_truyen>brother-nash</ma_truyen>
+        <tac_gia>Bridgit Connell</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/brother-nash/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Werewolves! Truckers! Magic! Monstrous cicadas! The unquiet dead! It's all here... on the road! Nash is a haunted trucker who can see ghosts, can talk with spirits, senses evil, and hides a dark secret... When Nash takes on a mysterious hitchhiker heading for Tucson, he and his friends are dragged head first into his biggest and most dangerous adventure yet.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/brother-nash-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="cable (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>cable (2017)</ten_truyen>
 		<ma_truyen>cable-2017</ma_truyen>
@@ -1196,6 +1205,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/j/jirni-vol-3/1_medium.jpg</hinh_nho>
         <gioi_thieu>Aspen's popular fantasy adventure series, JIRNI, returns for an epic third volume! As Ara's quest to find her kidnapped mother continues, she finds solace in a remote village, but do they have their own demons to worry about? Meanwhile, Torinthal continues on his own search to unlock the mysteries of the D'jinn and their celestial origin. Don't miss out on the biggest quest for Ara yet! Created by New York Times Best-Selling author J.T. Krul (Michael Turner's Soulfire, Green Arrow) with art by newcomer Michael Santamaria, this next exciting chapter of Jirni will once again return readers to a land of untapped wonder!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/jirni-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="judge dredd: under siege" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>judge dredd: under siege</ten_truyen>
+		<ma_truyen>judge-dredd-under-siege</ma_truyen>
+        <tac_gia>Mark Russell, Max Dunbar</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/judge-dredd-under-siege/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When all contact with the Patrick Swayze Block is lost, Dredd and Judge Beeny are tasked with investigating. As they battle lawlessness and rampant criminality, they discover a threat to the city that they must contain at all costs...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/judge-dredd-under-siege-eng.xml</file_xml>
     </truyen>
 	<truyen ten="justice league (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>justice league (2016)</ten_truyen>
@@ -2070,6 +2088,15 @@
         <gioi_thieu>Lois Lane takes flight! Now powered up with the abilities of Superman, Lois pledges to carry on the super-legacy as Superwoman! There's only one problem: Lois' new powers are killing her, and neither she nor her friend and confidant Lana Lang know what to do about it. Will Lois even survive long enough to learn the deadly secret of Ultra Woman?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superwoman-2016-eng.xml</file_xml>
     </truyen>
+	<truyen ten="sword daughter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>sword daughter</ten_truyen>
+		<ma_truyen>sword-daughter</ma_truyen>
+        <tac_gia>Brian Wood, Mack Chater, Lauren Affe</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/comic-books/reviews/dark-horse-comics/sword-daughter</hinh_nho>
+        <gioi_thieu>The Forty Swords came at night and murdered the entire village, save for two people: the infant Elsbeth and her grief-stricken father, Dag. Setting off on a revenge quest that will span the width of Viking Age Europe, they find the key to repairing their damaged relationship lies in the swords they carry. Created by Brian Wood (Northlanders, The Massive, DMZ) and Mack Chater (Briggs Land, Lazarus), Sword Daughter is a visually stunning, emotionally poignant story of parental guilt and acceptance of loss.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sword-daughter-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="teen titans (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>teen titans (2016)</ten_truyen>
 		<ma_truyen>teen-titans-2016</ma_truyen>
@@ -2312,6 +2339,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-totally-awesome-hulk/1_medium.jpg</hinh_nho>
         <gioi_thieu>There's a brand new Hulk in town, and his name is Amadeus Cho! Get ready for the craziest Hulk story of the millennium as a kid genius decides he's gonna be the best Hulk ever- and just possibly brings the entire Marvel Universe crashing down into chaos! Totally awesome beach day! Massive monster mayhem! She-Hulk and Lady Hellbender! Massive heart and ridiculous action brought to you by Planet Hulk writer Greg Pak and superstar artist Frank Cho! Is it possible for us to fit in one more exclamation point? Yes!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-totally-awesome-hulk-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the unexpected" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the unexpected</ten_truyen>
+		<ma_truyen>the-unexpected</ma_truyen>
+        <tac_gia>Steve Orlando, Cary Nord, Ryan Sook, Mick Gray, Wade von Grawbadger</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-unexpected-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In the aftermath of DARK NIGHTS: METAL, the DC Universe has been forever changed as new heroes are called out of the shadows. Amid this all is Janet Fals...Firebrand! Once a paramedic dedicated to saving lives, she must now start a fight once every 24 hours to feed the Conflict Engine that's replaced her heart. But Janet's heart isn't just a curse-it's a beacon, drawing out both the mysterious Neon the Unknown and the seductive, malevolent Bad Samaritan. One of them wants to cut out her heart, the other wants to save it-but neither of them knows the true danger hidden within that will kick off a superhero manhunt ranging from Thanagar to the deepest heart of the Dark Multiverse!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-unexpected-eng.xml</file_xml>
     </truyen>
 	<truyen ten="the walking dead  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Graphic novels, Horror, Mystery, Psychological, Sci-fi, Zombies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the walking dead  </ten_truyen>
