@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="thief of thieves" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Drama, Life sucks, Psychological" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>thief of thieves</ten_truyen>
+		<ma_truyen>thief-of-thieves</ma_truyen>
+        <tac_gia>Nick Spencer, Robert Kirkman, Shawn Martinbrough</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Thief_of_Thieves.jpg/200px-Thief_of_Thieves.jpg</hinh_nho>
+        <gioi_thieu>Conrad Paulson lives a secret double life as master thief Redmond. There is nothing he can't steal, nothing he can't have... except for the life he left behind. Now, with a grown son he hardly knows, and an ex-wife he never stopped loving, Conrad must try to piece together what's left of his life, before the FBI finally catch up to him... but it appears they are the least of his worries.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thief-of-thieves-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="pumpkinhead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror, Movies - tv, Mythology" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>pumpkinhead</ten_truyen>
+		<ma_truyen>pumpkinhead</ma_truyen>
+        <tac_gia>Cullen Bunn, Blacky Shepherd, Kyle Strahm</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/pumpkinhead/1_medium.jpg</hinh_nho>
+        <gioi_thieu>For thirty years, the demon of vengeance has been still, its corpse buried in a pumpkin patch graveyard in the hills. But when a reckless driver accidentally kills a pair of children, the creature is called up once more. This time, though, the monster's intended target is protected by a cruel backwoods crime family. They hatch their own supernatural plans for dealing with Pumpkinhead. For each of man's sins, a special demon exists, and when seven infernal creatures roam the hills and the hollows, no one-guilty or otherwise-is safe.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pumpkinhead-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the highest house" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the highest house</ten_truyen>
+		<ma_truyen>the-highest-house</ma_truyen>
+        <tac_gia>Mike Carey, Peter Gross</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-highest-house/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The creators behind The Unwritten, Mike Carey and Peter Gross, invite you into The Highest House, the story of a slave boy named Moth, who makes friends with a powerful entity called Obsidian that promises advancement and happiness. Clearly, Obsidian has a hidden agenda, but Moth has ambitions and plans of his own...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-highest-house-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="delta 13" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>delta 13</ten_truyen>
+		<ma_truyen>delta-13</ma_truyen>
+        <tac_gia>Steve Niles, Nat Jones</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/delta-13/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Who knows what mysteries lie deep in the asteroid belt? When a mysterious, huge, and previously undiscovered asteroid looms over their ship, a small crew of blue-collar workers discovers a terrifying threat unlike anything they've ever seen. Now, the crew must escape the asteroid, but even if they do, will they be able to escape each other and anything they bring back with them?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/delta-13-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="exlibrium" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>exlibrium</ten_truyen>
 		<ma_truyen>exlibrium</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/a/aliens-dust-to-dust/1_medium.jpg</hinh_nho>
         <gioi_thieu>The Trono colony on LV-871 is under attack. Emergency evacuations are ordered. Evac shuttles are taking off. All twelve-year-old Maxon and his mom have to do is make it to the spaceport. Except between them and it are... Aliens! A terrifying coming-of-age story by master storyteller Gabriel Hardman.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/aliens-dust-to-dust-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="robocop: citizens arrest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>robocop: citizens arrest</ten_truyen>
-		<ma_truyen>robocop-citizens-arrest</ma_truyen>
-        <tac_gia>Brian Wood, Jorge Coelho</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/robocop-citizens-arrest/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Brian Wood, the visionary writer behind DMZ and Briggs Land, and Jorge Coelho (Venom, Rocket Raccoon) present a provocative vision of a future where justice is crowdsourced... and lethal. It's been decades since the RoboCop program first began. Corporations have taken over the schools and the government and law enforcement is the biggest private contract of all. Traditional police forces no longer exist as all citizens are encouraged-and rewarded-to spy on their neighbors. There is only one authority on the streets: ROBOCOP.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robocop-citizens-arrest-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="xena: warrior princess (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Movies - tv" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>xena: warrior princess (2018)</ten_truyen>
-		<ma_truyen>xena-warrior-princess-2018</ma_truyen>
-        <tac_gia>Meredith Finch, Vicente Cifuentes</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/xena-warrior-princess(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The path to redemption is never easy, and the journey of a warrior princess seeking to wash the blood of innocents from her hands is no exception. Xena travels to Athens, to plead for redemption in the temple of Eleos. But some things can never be forgiven and the shadows of past sins are long. Will Xena find redemption or betrayal waiting for her in the temple of the gods? The power, the passion, the danger... her courage would change the world. Xena: Warrior Princess.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/xena-warrior-princess-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="monstress" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>monstress</ten_truyen>
-		<ma_truyen>monstress</ma_truyen>
-        <tac_gia>Marjorie Liu, Sana Takeda</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/monstress/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Steampunk meets Kaiju in this original fantasy epic for mature readers, as young Maika risks everything to control her psychic link with a monster of tremendous power, placing her in the center of a devastating war between human and otherworldly forces.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/monstress-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="plastic man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>plastic man (2018)</ten_truyen>
-		<ma_truyen>plastic-man-2018</ma_truyen>
-        <tac_gia>Gail Simone, Adriana Melo</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/plastic-man-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Meet Eel O'Brian: a petty thug, thief and con artist who runs a strip club. Hey, he's also dead, at least according to the gang that tossed him out like last week's garbage. Literally. Don't worry, though he bounced back from all that, and now he's trying to make a new life for himself, but the effort is stretching him pretty thin.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/plastic-man-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="thief of thieves" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Drama, Life sucks, Psychological" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>thief of thieves</ten_truyen>
+		<ma_truyen>thief-of-thieves</ma_truyen>
+        <tac_gia>Nick Spencer, Robert Kirkman, Shawn Martinbrough</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Thief_of_Thieves.jpg/200px-Thief_of_Thieves.jpg</hinh_nho>
+        <gioi_thieu>Conrad Paulson lives a secret double life as master thief Redmond. There is nothing he can't steal, nothing he can't have... except for the life he left behind. Now, with a grown son he hardly knows, and an ex-wife he never stopped loving, Conrad must try to piece together what's left of his life, before the FBI finally catch up to him... but it appears they are the least of his worries.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thief-of-thieves-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="pumpkinhead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror, Movies - tv, Mythology" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>pumpkinhead</ten_truyen>
+		<ma_truyen>pumpkinhead</ma_truyen>
+        <tac_gia>Cullen Bunn, Blacky Shepherd, Kyle Strahm</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/pumpkinhead/1_medium.jpg</hinh_nho>
+        <gioi_thieu>For thirty years, the demon of vengeance has been still, its corpse buried in a pumpkin patch graveyard in the hills. But when a reckless driver accidentally kills a pair of children, the creature is called up once more. This time, though, the monster's intended target is protected by a cruel backwoods crime family. They hatch their own supernatural plans for dealing with Pumpkinhead. For each of man's sins, a special demon exists, and when seven infernal creatures roam the hills and the hollows, no one-guilty or otherwise-is safe.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pumpkinhead-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the highest house" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the highest house</ten_truyen>
+		<ma_truyen>the-highest-house</ma_truyen>
+        <tac_gia>Mike Carey, Peter Gross</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-highest-house/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The creators behind The Unwritten, Mike Carey and Peter Gross, invite you into The Highest House, the story of a slave boy named Moth, who makes friends with a powerful entity called Obsidian that promises advancement and happiness. Clearly, Obsidian has a hidden agenda, but Moth has ambitions and plans of his own...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-highest-house-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="delta 13" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>delta 13</ten_truyen>
+		<ma_truyen>delta-13</ma_truyen>
+        <tac_gia>Steve Niles, Nat Jones</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/delta-13/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Who knows what mysteries lie deep in the asteroid belt? When a mysterious, huge, and previously undiscovered asteroid looms over their ship, a small crew of blue-collar workers discovers a terrifying threat unlike anything they've ever seen. Now, the crew must escape the asteroid, but even if they do, will they be able to escape each other and anything they bring back with them?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/delta-13-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="exlibrium" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>exlibrium</ten_truyen>
 		<ma_truyen>exlibrium</ma_truyen>
@@ -234,40 +270,4 @@
         <gioi_thieu>The forces of magic have returned-and this time no magical being is safe! Aspen's magical action-adventure series returns for its epic third volume! Las Vegas magician Hank Medley and his talking cat Sparkles attempt to put the pieces of their life back together, as society has taken a hardline approach to magic and its destructive results. Meanwhile, Sudana uncovers a more sinister plot brewing in the confines of a secret Government's facility in the Nevada desert, as a new form of magic is taking shape that will not only spell the end for mankind-but also magical beings everywhere! The age of the Magic Harvester has arrived!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/charismagic-2018-eng.xml</file_xml>
     </truyen>
-	<truyen ten="bloodshot salvation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>bloodshot salvation</ten_truyen>
-		<ma_truyen>bloodshot-salvation</ma_truyen>
-        <tac_gia>Jeff Lemire, Lewis Larosa</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/bloodshot-salvation/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Now: In the arms of his beloved girlfriend Magic, Bloodshot has finally found hope for the future... in the form the couple's unborn child. But when Magic's estranged family - a cruel and sadistic clan of white supremacist criminals re-emerge to lay claim to their lost daughter, Bloodshot will be pushed back to the brink of madness, mayhem, and warfare... Soon: Eight years from today, Bloodshot's daughter has inherited her father's incredible abilities. Hunted by a high-tech kill squad called Omen, Jessie must hone her powers... and learn how to survive before the world is swallowed whole by the darkness that now pervades America...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bloodshot-salvation-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="nancy drew (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>nancy drew (2018)</ten_truyen>
-		<ma_truyen>nancy-drew-2018</ma_truyen>
-        <tac_gia>Kelly Thompson, Jenn St-Onge</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/nancy-drew-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Nancy Drew is seventeen and good at everything... ESPECIALLY solving crimes. But her totally-in-control-and-obviously-running-perfectly-smooth-(but-not-really) life hits a snag when a mysterious message drags her back to the hometown she left behind. There she'll have to find out which of her friends are still her friends, which are enemies, and who exactly is trying to kill her... and (hopefully) stop them before they succeed. KELLY THOMPSON (Hawkeye, Star Wars, Rogue and Gambit) and JENN ST-ONGE (Giant Days, The Misfits) team up to present an all-new modern spin on a classic mystery icon!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nancy-drew-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="wasted space" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>wasted space</ten_truyen>
-		<ma_truyen>wasted-space</ma_truyen>
-        <tac_gia>Michael Moreci, Hayden Sherman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wasted-space/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Billy Bane is a prophet who got it all wrong, and the galaxy has been burning ever since. All he wants is to waste away in the darkest corner of space with his best pal Dust, a supercharged Fuq bot. But when a new prophet comes calling, Billy is summoned to save the galaxy he's at least partially responsible for destroying. Too bad he couldn't care less.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wasted-space-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="gigant" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, School life, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gigant</ten_truyen>
-		<ma_truyen>gigant</ma_truyen>
-		<tac_gia>Oku Hiroya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/96/04/9604402428c74a40bce9f9d31ae89b5d05c4aa17_29170_200_310.jpg</hinh_nho>
-		<gioi_thieu>Yamada Yoko, a high school boy who has a movie producer father. One day, while out with friends to shoot a film that he plans to enter into a film festival, a poster of Papiko, an adult video actress with big breasts, catches his eye.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gigant-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
