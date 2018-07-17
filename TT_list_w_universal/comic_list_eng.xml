@@ -695,12 +695,12 @@
     </truyen>
 	<truyen ten="die!die!die!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Horror, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>die!die!die!</ten_truyen>
-		<ma_truyen>die-die-die</ma_truyen>
+		<ma_truyen>diediedie</ma_truyen>
         <tac_gia>Chris Burnham, Robert Kirkman, Scott Gimple</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/d/diediedie/1_medium.jpg</hinh_nho>
         <gioi_thieu>Blood will flow, Bullets will fly and the mayhem will never end, Die!Die!Die! brings all the action you could ever want.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/die-die-die-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/diediedie-eng.xml</file_xml>
     </truyen>
 	<truyen ten="doctor strange (2015)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>doctor strange (2015)</ten_truyen>
