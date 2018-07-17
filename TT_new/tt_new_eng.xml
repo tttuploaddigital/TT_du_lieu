@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="eternity girl" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>eternity girl</ten_truyen>
+		<ma_truyen>eternity-girl</ma_truyen>
+        <tac_gia>Magdalene Visaggio, Sonny Liew, Chris Chuckry</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/eternity-girl/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Caroline Sharp has been a lot of things, including both a superhero and a super-spy. But now, with those days behind her and her powers proving unreliable, Caroline finds herself stuck in a life weighed down by her depression and an inability to change. You see, Caroline is going to live forever, and there is no escape to be had. The very act of living reminds her that, to the rest of existence, she is an anomaly. All of that could change, however, when her old foe, Madame Atom, comes to her with an intriguing offer. Madame Atom can give Caroline the power to end her life; she just has to destroy the rest of the world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/eternity-girl-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="oblivion song" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>oblivion song</ten_truyen>
+		<ma_truyen>oblivion-song</ma_truyen>
+        <tac_gia>Robert Kirkman, Lorenzo De Felici, Annalisa Leoni</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/oblivion-song/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A decade ago, 300,000 citizens of Philadelphia were suddenly lost in Oblivion. The government made every attempt to recover them, but after many years, they gave up. Nathan Cole...won't. He makes daily trips, risking his life to try and rescue those still living in the apocalyptic hellscape of Oblivion. But maybe...Nathan is looking for something else? Why can't he resist the siren call of the Oblivion Song?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oblivion-song-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="port of earth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>port of earth</ten_truyen>
+		<ma_truyen>port-of-earth</ma_truyen>
+        <tac_gia>Zachary Kaplan, Andrea Mutti</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/port-of-earth/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Imagine if aliens came to Earth not in war or peace, but with a business deal: open up a spaceport here on Earth in exchange for advanced technology. But when our alien visitors break Port restrictions and wreak havoc in our cities, it falls to the newly formed Earth Security Agents to hunt down and safely deport the dangerous rogue aliens back to the Port of Earth.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/port-of-earth-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="coda  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>coda  </ten_truyen>
+		<ma_truyen>coda</ma_truyen>
+        <tac_gia>Simon Spurrier, Matias Bergara, Michael Doig</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/coda/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Simon Spurrier (The Spire, Godshaper) and Matías Bergara (Cannibal, Supergirl) present a broken fantasy world that's perfect for fans of Mad Max and The Lord of the Rings. In the aftermath of an apocalypse which wiped out nearly all magic from a once-wondrous fantasy world, a former bard named Hum (a man of few words, so nicknamed because his standard reply is 'hm') seeks a way to save the soul of his wife with nothing but a foul-tempered mutant unicorn and his wits to protect him... but is unwillingly drawn into a brutal power struggle which will decide forever who rules the Weird Wasteland.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/coda-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="isuca" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Mature, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>isuca</ten_truyen>
 		<ma_truyen>isuca</ma_truyen>
@@ -234,40 +270,4 @@
 		<gioi_thieu>Here starts the Konya spinoff series, focusing more on Gorou and Verde! There's plenty of Endou and Rikiya as well, but this story will spend more time telling the story of these heretofore side characters. The story takes place immediately after the last Konya chapter, so you can think of this as Chapter 20, just less focus on Endo/Rikiya and more on Gorou/Verde.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/kimi-to-kore-kara-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="the curse of brimstone" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the curse of brimstone</ten_truyen>
-		<ma_truyen>the-curse-of-brimstone</ma_truyen>
-        <tac_gia>Justin Jordan, Philip Tan</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-curse-of-brimstone/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Joe Chamberlain would do anything to save his small, forgotten town-even make a deal with the devil. But things get worse, and Joe finds himself cursed with the power of BRIMSTONE. With the power of fire and destruction coursing through his hands, Joe must now track down and destroy the demon he made his deal with before the power he now wields destroys the town he was trying to save.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-curse-of-brimstone-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="cloak and dagger (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>cloak and dagger (2018)</ten_truyen>
-		<ma_truyen>cloak-and-dagger-2018</ma_truyen>
-        <tac_gia>Dennis Hopeless, David Messina</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/cloak-and-dagger-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>For years, Tyrone Johnson and Tandy Bowen were the super hero duo called CLOAK AND DAGGER - waging a citywide war on drugs, organized crime and corporate greed. In recent years, their crusade has taken them across the globe, fighting alongside Spider-Man, The X-Men and even The Avengers, and though they've drifted apart, a dangerous threat from their past has resurfaced - one that will force Cloak and Dagger to reunite and come to terms with their truest feelings for one another and the past they share!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cloak-and-dagger-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="halo: collateral damage" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>halo: collateral damage</ten_truyen>
-		<ma_truyen>halo-collateral-damage</ma_truyen>
-        <tac_gia>Alex Irvine, Dave Crosland, Leionard O'Grady</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/halo-collateral-damage/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Master Chief and Blue Team are deployed by the UNSC to Alpha Corvi II, a precarious human colony world, seeking to halt the Covenant's efforts to uncover something hidden below the planet's surface. The Spartan strike team quickly finds out that they will have to rely on each other and a small cadre of human rebels in order to survive and complete their mission.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/halo-collateral-damage-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="kiss/army of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Movies - tv, Music" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>kiss/army of darkness</ten_truyen>
-		<ma_truyen>kiss-army-of-darkness</ma_truyen>
-        <tac_gia>Chad Bowers, Chris Sims, Ruairi Coleman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/k/kissarmy-of-darkness/1_medium.jpg</hinh_nho>
-        <gioi_thieu>KISS is on top of the world and rocking faces until the night disciples of The Destroyer show up and the band disappears. With the tour canceled, a young Ash misses one of the most important events of his life that will change his destiny. Now the Chosen One has to get back on the right path and join the KISS ARMY OF DARKNESS!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kiss-army-of-darkness-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
