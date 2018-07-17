@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="star trek: discovery: succession" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>star trek: discovery: succession</ten_truyen>
+		<ma_truyen>star-trek-discovery-succession</ma_truyen>
+        <tac_gia>Kirsten Beyer, Mike Johnston, Angel Hernandez</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-trek-discovery-succession/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In this, the second Discovery miniseries from IDW Publishing, your favorite characters from the hit CBS All Access series dive into an adventure tied directly into the second half of the first season!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-trek-discovery-succession-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="ghostbusters: crossing over" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Horror, Movies - tv, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>ghostbusters: crossing over</ten_truyen>
+		<ma_truyen>ghostbusters-crossing-over</ma_truyen>
+        <tac_gia>Erik Burnham, Dan Schoening</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/ghostbusters-crossing-over/1_medium.jpg</hinh_nho>
+        <gioi_thieu>For a while now, the original Ghostbusters have had access to an interdimensional portal that has given them all-new ways to research the paranormal and consult with Ghostbusters throughout the multiverse... but they haven't shared this tech with any of those other Ghostbusters, and some don't think that's fair. That's why, after a chance meeting, Jillian Holtzmann and Ron Alexander have decided to right this wrong and cobble together their own working portal... which unintentionally unleashes the contents of the Ghostbusters' Containment Unit! That's a lot of ghosts, and it's going to take a lot of Ghostbusters to recapture them. In fact, it's going to take ALL of them. Crossing Over starts here!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ghostbusters-crossing-over-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="paradiso" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>paradiso</ten_truyen>
+		<ma_truyen>paradiso</ma_truyen>
+        <tac_gia>Ram V, Dearbhla Kelly, Dev Pramanik, Christian Ward</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/paradiso/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Midnight Event forever changed the world. Now, centuries later, Jack Kryznan arrives on the outskirts of Paradiso City, haunted by fragments of childhood memories and in possession of a mysterious device one with the power to change the destiny of this living breathing metropolis, the people who dwell within, and the guardians who strive for and against it.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/paradiso-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="prism stalker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>prism stalker</ten_truyen>
 		<ma_truyen>prism-stalker</ma_truyen>
@@ -16,7 +43,7 @@
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-last-siege/1_medium.jpg</hinh_nho>
         <gioi_thieu>A tale of blood, desperation, and loss. New York Times bestselling author LANDRY Q. WALKER joins artist JUSTIN GREENWOOD for an all-new ONGOING SERIES-THE LAST SIEGE! Spaghetti Western storytelling meets Game of Thrones atmosphere in this gritty medieval war story, as a mysterious stranger arrives at a castle overrun with brutal soldiers bent on usurping the throne of the rightful heir-an 11-year-old girl. An action-packed, genre-twisting epic, THE LAST SIEGE begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/jirni-2018-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-last-siege-eng.xml</file_xml>
     </truyen>
 	<truyen ten="hillbilly" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Mythology, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>hillbilly</ten_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/x/xena-warrior-princess(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>The path to redemption is never easy, and the journey of a warrior princess seeking to wash the blood of innocents from her hands is no exception. Xena travels to Athens, to plead for redemption in the temple of Eleos. But some things can never be forgiven and the shadows of past sins are long. Will Xena find redemption or betrayal waiting for her in the temple of the gods? The power, the passion, the danger... her courage would change the world. Xena: Warrior Princess.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/xena-warrior-princess-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="monstress" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>monstress</ten_truyen>
-		<ma_truyen>monstress</ma_truyen>
-        <tac_gia>Marjorie Liu, Sana Takeda</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/monstress/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Steampunk meets Kaiju in this original fantasy epic for mature readers, as young Maika risks everything to control her psychic link with a monster of tremendous power, placing her in the center of a devastating war between human and otherworldly forces.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/monstress-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="plastic man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>plastic man (2018)</ten_truyen>
-		<ma_truyen>plastic-man-2018</ma_truyen>
-        <tac_gia>Gail Simone, Adriana Melo</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/plastic-man-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Meet Eel O'Brian: a petty thug, thief and con artist who runs a strip club. Hey, he's also dead, at least according to the gang that tossed him out like last week's garbage. Literally. Don't worry, though he bounced back from all that, and now he's trying to make a new life for himself, but the effort is stretching him pretty thin.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/plastic-man-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="domino (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>domino (2018)</ten_truyen>
-		<ma_truyen>domino-2018</ma_truyen>
-        <tac_gia>Gail Simone, David Baldeon, Greg Land</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/domino-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Impossible curves. Impossible shots. Impossible targets. Marvel's #1 soldier of fortune is back in an explosive new ongoing series! The product of a failed super-soldier program, Neena Thurman always made her own luck as the sharpshooting mercenary known as Domino... but what happens when her own powers betray her? The hunter becomes the hunted as every mercenary in the game smells blood in the water! Plus: A pair of beloved Marvel characters return!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/domino-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

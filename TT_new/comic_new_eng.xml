@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="star trek: discovery: succession" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>star trek: discovery: succession</ten_truyen>
+		<ma_truyen>star-trek-discovery-succession</ma_truyen>
+        <tac_gia>Kirsten Beyer, Mike Johnston, Angel Hernandez</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-trek-discovery-succession/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In this, the second Discovery miniseries from IDW Publishing, your favorite characters from the hit CBS All Access series dive into an adventure tied directly into the second half of the first season!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-trek-discovery-succession-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="ghostbusters: crossing over" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Horror, Movies - tv, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>ghostbusters: crossing over</ten_truyen>
+		<ma_truyen>ghostbusters-crossing-over</ma_truyen>
+        <tac_gia>Erik Burnham, Dan Schoening</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/ghostbusters-crossing-over/1_medium.jpg</hinh_nho>
+        <gioi_thieu>For a while now, the original Ghostbusters have had access to an interdimensional portal that has given them all-new ways to research the paranormal and consult with Ghostbusters throughout the multiverse... but they haven't shared this tech with any of those other Ghostbusters, and some don't think that's fair. That's why, after a chance meeting, Jillian Holtzmann and Ron Alexander have decided to right this wrong and cobble together their own working portal... which unintentionally unleashes the contents of the Ghostbusters' Containment Unit! That's a lot of ghosts, and it's going to take a lot of Ghostbusters to recapture them. In fact, it's going to take ALL of them. Crossing Over starts here!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ghostbusters-crossing-over-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="paradiso" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>paradiso</ten_truyen>
+		<ma_truyen>paradiso</ma_truyen>
+        <tac_gia>Ram V, Dearbhla Kelly, Dev Pramanik, Christian Ward</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/paradiso/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Midnight Event forever changed the world. Now, centuries later, Jack Kryznan arrives on the outskirts of Paradiso City, haunted by fragments of childhood memories and in possession of a mysterious device one with the power to change the destiny of this living breathing metropolis, the people who dwell within, and the guardians who strive for and against it.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/paradiso-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="prism stalker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>prism stalker</ten_truyen>
 		<ma_truyen>prism-stalker</ma_truyen>
@@ -16,7 +43,7 @@
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-last-siege/1_medium.jpg</hinh_nho>
         <gioi_thieu>A tale of blood, desperation, and loss. New York Times bestselling author LANDRY Q. WALKER joins artist JUSTIN GREENWOOD for an all-new ONGOING SERIES-THE LAST SIEGE! Spaghetti Western storytelling meets Game of Thrones atmosphere in this gritty medieval war story, as a mysterious stranger arrives at a castle overrun with brutal soldiers bent on usurping the throne of the rightful heir-an 11-year-old girl. An action-packed, genre-twisting epic, THE LAST SIEGE begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/jirni-2018-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-last-siege-eng.xml</file_xml>
     </truyen>
 	<truyen ten="hillbilly" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Mythology, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>hillbilly</ten_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
         <gioi_thieu>DC Nation features three brand-new stories from a lineup of superstar talent that will appear only in this comic book and will not be reprinted in another comic book before each series' collected editions.-and each tale serves as a prelude to some of the biggest DC events of 2018!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dc-nation-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="immortal hulk" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>immortal hulk</ten_truyen>
-		<ma_truyen>immortal-hulk</ma_truyen>
-        <tac_gia>Al Ewing, Joe Bennett, Alex Ross</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
-        <gioi_thieu>HORROR HAS A NAME. You'd never notice the man. He doesn't like to be noticed. He's quiet. Calm. Never complains. If someone were to walk up and shoot him in the head... all he'd do is die. Until night falls. And someone else gets up again. The man's name is Banner. The horror is THE IMMORTAL HULK.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/immortal-hulk-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the man of steel (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the man of steel (2018)</ten_truyen>
-		<ma_truyen>the-man-of-steel-2018</ma_truyen>
-        <tac_gia>Brian Michael Bendis, Jason Fabok, Ivan Reis</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/man-of-steel-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A new era begins for Superman as a threat from his earliest origins reemerges to destroy the Last Son of Krypton. As Superman struggles to come to grips with what has happened to his wife and son, he must also face a new threat that's determined to burn down Metropolis!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-man-of-steel-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="deadpool: assassin" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>deadpool: assassin</ten_truyen>
-		<ma_truyen>deadpool-assassin</ma_truyen>
-        <tac_gia>Cullen Bunn, Mark Bagley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-assassin/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Deadpool's quest to beat the rest continues, and this time he's squaring off against the Assassins Guild in the Big Easy! The Merc with the Mouth's healing factor will get put to the ultimate test when he's pitted against the knife-wielding speedster called HARVESTER! But even if he's lucky enough to survive that encounter, Deadpool's actions in this very comics mag will align more than one ne'er-do-well against him... and Harvester'll look like a walk in the park!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-assassin-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
