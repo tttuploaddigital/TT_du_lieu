@@ -23,7 +23,7 @@
 		<ma_truyen>megami-no-libra</ma_truyen>
 		<tac_gia>Sakou Watari</tac_gia>
 		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/28219/3/200.jpg</hinh_nho>
+        <hinh_nho>https://file-thumb.mpcdn.net/28214/2/200.jpg</hinh_nho>
 		<gioi_thieu>Yuuki Tsumire was raised by her single mother, who always told her to keep smiling, no matter what hardships she endured. The two of them were a family, until Tsumire's mother died from illness. Tsumire soon learned that she had a family she knew nothing about: a cold, rich family that disowned her kindhearted mother when she became pregnant. Tsumire now must go live with this family, even though none of them seem to want her there. She doesn't have to switch schools, so she at least has her friends to help her through this difficult time. However, she doesn't have the heart to confide in her friends with even more problems, so she tries to keep it bottled up inside. To her surprise, the Yuuki family lawyer, a young man named Hino, soon becomes her emotional support in this difficult situation. However, Tsumire's reactions to him might mean that she wishes he were something more... Thanks go to tethysdust for the summary.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/megami-no-libra-eng.xml</file_xml>
 	</truyen>
@@ -269,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/j/jasmine-crown-of-kings/1_medium.jpg</hinh_nho>
         <gioi_thieu>New Series Starts Here! When a fiery explosion erupts in the ancient city of Petra, Jasmine races against the terrorist group THE FORTY THIEVES to prevent the shattered pieces of the Crown of Kings, an object that haunts her past from being reunited and unleashing an unearthly power on the world and all that she holds dear.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/jasmine-crown-of-kings-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="aliens: dust to dust" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>aliens: dust to dust</ten_truyen>
-		<ma_truyen>aliens-dust-to-dust</ma_truyen>
-        <tac_gia>Gabriel Hardman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/aliens-dust-to-dust/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Trono colony on LV-871 is under attack. Emergency evacuations are ordered. Evac shuttles are taking off. All twelve-year-old Maxon and his mom have to do is make it to the spaceport. Except between them and it are... Aliens! A terrifying coming-of-age story by master storyteller Gabriel Hardman.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/aliens-dust-to-dust-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="robocop: citizens arrest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>robocop: citizens arrest</ten_truyen>
-		<ma_truyen>robocop-citizens-arrest</ma_truyen>
-        <tac_gia>Brian Wood, Jorge Coelho</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/robocop-citizens-arrest/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Brian Wood, the visionary writer behind DMZ and Briggs Land, and Jorge Coelho (Venom, Rocket Raccoon) present a provocative vision of a future where justice is crowdsourced... and lethal. It's been decades since the RoboCop program first began. Corporations have taken over the schools and the government and law enforcement is the biggest private contract of all. Traditional police forces no longer exist as all citizens are encouraged-and rewarded-to spy on their neighbors. There is only one authority on the streets: ROBOCOP.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robocop-citizens-arrest-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="xena: warrior princess (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Movies - tv" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>xena: warrior princess (2018)</ten_truyen>
-		<ma_truyen>xena-warrior-princess-2018</ma_truyen>
-        <tac_gia>Meredith Finch, Vicente Cifuentes</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/xena-warrior-princess(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The path to redemption is never easy, and the journey of a warrior princess seeking to wash the blood of innocents from her hands is no exception. Xena travels to Athens, to plead for redemption in the temple of Eleos. But some things can never be forgiven and the shadows of past sins are long. Will Xena find redemption or betrayal waiting for her in the temple of the gods? The power, the passion, the danger... her courage would change the world. Xena: Warrior Princess.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/xena-warrior-princess-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
