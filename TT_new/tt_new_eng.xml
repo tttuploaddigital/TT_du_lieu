@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="isuca" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Mature, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>isuca</ten_truyen>
+		<ma_truyen>isuca</ma_truyen>
+		<tac_gia>Takahashi Osamu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/4307/2/200.jpg</hinh_nho>
+		<gioi_thieu>Shinichirou decides to look for a job in order to pay his rent, and his teacher suggests that he work for someone at their house, doing housekeeping. However, the person who hired him was Sakuya, a girl who is the 37th head of the Shimazu family, and her job is to exorcise and eliminate unwanted creatures. Shinichirou accidentally releases one of the creatures that Sakuya captures and they cooperate to catch it. A story of comedic creature hunting begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isuca-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="sugars" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>sugars</ten_truyen>
+		<ma_truyen>sugars</ma_truyen>
+		<tac_gia>Kurosaki Minori</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9565/1/200.jpg</hinh_nho>
+		<gioi_thieu>Rita Hoshiyama is a second year in middle school and claims to be a rock musician! However, her parents disagree and insist that Rita take up cooking and their family business. But when Sakuya-kun, her idol and family's new dishwasher, ask her to do a live performance the next day, she couldn't help but agree! The problem is, there's only two people in her band...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sugars-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="ookami shoujo to kuro ouji" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>ookami shoujo to kuro ouji</ten_truyen>
+		<ma_truyen>ookami-shoujo-to-kuro-ouji</ma_truyen>
+		<tac_gia>Hatta Ayuko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/7366/9/200.jpg</hinh_nho>
+		<gioi_thieu>Erika lied to her friends about having a boyfriend by showing a picture of an annonymous guy who turned out to be a a schoolmate of hers and was shortly recognized by her friends. Their conversations then was overheard by the guy, Sata Kyouya. Erika went to explain and proposed her idea of faking as lovers. However, Sata who gave off the nice-charming feelings guy turns out to be a black prince and used her reasons to blackmail her instead.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ookami-shoujo-to-kuro-ouji-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="thief of thieves" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Drama, Life sucks, Psychological" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>thief of thieves</ten_truyen>
 		<ma_truyen>thief-of-thieves</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/k/kissarmy-of-darkness/1_medium.jpg</hinh_nho>
         <gioi_thieu>KISS is on top of the world and rocking faces until the night disciples of The Destroyer show up and the band disappears. With the tour canceled, a young Ash misses one of the most important events of his life that will change his destiny. Now the Chosen One has to get back on the right path and join the KISS ARMY OF DARKNESS!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kiss-army-of-darkness-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="world of tanks: citadel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>world of tanks: citadel</ten_truyen>
-		<ma_truyen>world-of-tanks-citadel</ma_truyen>
-        <tac_gia>Garth Ennis, PJ Holden</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/world-of-tanks-citadel/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Eastern Front, 1943: as the cataclysmic Battle of Kursk looms large, Captain Piotr Piotrowicz and his driver, Natalya 'Ginger' Pulkhova, prepare their unit for action- equipped with the worst tanks in the Russian inventory. On the opposite side, German tankers Karl Kraft and Freddie Stadler brace for the onslaught-well aware that failure here will put their Soviet enemy on the road to Berlin. Garth Ennis and PJ Holden present a second action-packed story of armored warfare, inspired by the phenomenally popular game World of Tanks.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/world-of-tanks-citadel-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="astonisher" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>astonisher</ten_truyen>
-		<ma_truyen>astonisher</ma_truyen>
-        <tac_gia>Alex de Campi, Jessica Kholinne, Pop Mhan</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-astonisher/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Magnus Atitarn, heir to the Atitarn Satellite Corp., tried to save the world with his experimental one-man spaceship and ended up a broken man. Now a celebrity joke suffering from post-traumatic stress disorder, Magnus has the power to travel inside the minds of superpowered people, where he discovers nightmares which threaten the entire human race. The strangest corners of the Catalyst Prime Universe are explored in this new series!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/astonisher-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="charismagic (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>charismagic (2018)</ten_truyen>
-		<ma_truyen>charismagic-2018</ma_truyen>
-        <tac_gia>Vince Hernandez, Federico Blee, Mark Roslan, Joey Vazquez</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/charismagic-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The forces of magic have returned-and this time no magical being is safe! Aspen's magical action-adventure series returns for its epic third volume! Las Vegas magician Hank Medley and his talking cat Sparkles attempt to put the pieces of their life back together, as society has taken a hardline approach to magic and its destructive results. Meanwhile, Sudana uncovers a more sinister plot brewing in the confines of a secret Government's facility in the Nevada desert, as a new form of magic is taking shape that will not only spell the end for mankind-but also magical beings everywhere! The age of the Magic Harvester has arrived!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/charismagic-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
