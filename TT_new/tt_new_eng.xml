@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="exlibrium" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>exlibrium</ten_truyen>
+		<ma_truyen>exlibrium</ma_truyen>
+        <tac_gia>Natalia Devova, Denis Popov, Andrey Rodin</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/exlibrium/1_medium.jpg</hinh_nho>
+        <gioi_thieu>...And the door will open. 'Exlibrium' (from the Latin 'ex libris', 'of the books' and 'equilibrium', 'balance') - a magic seal that helps the mysterious order of sorcerers to guard the border between the real world and the world of fiction. For many centuries members of the order have been successfully preventing creatures from the works of art and lliterature from escaping into our world. But sometimes the order fails to do so and some of those characters manage to break the walls between realities...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/exlibrium-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dark ark" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dark ark</ten_truyen>
+		<ma_truyen>dark ark</ma_truyen>
+        <tac_gia>Cullen Bunn, Juan Doe, Ryane Hill</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dark-ark/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The wickedness of mankind has moved the Creator to destroy the world by way of the flood. Noah has been tasked with building an ark to save his family and the animals of the world. But this is not Noah's story. For darker powers have commanded the sorcerer Shrae to build his own ark and save the unnatural creatures of the world-such as the vampires, the dragons, the naga, and the manticore. But what will happen on a vessel crawling with monsters, where insidious intrigue and horrific violence are the rule of law?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dark-ark-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="throwaways" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Life sucks" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>throwaways</ten_truyen>
+		<ma_truyen>throwaways</ma_truyen>
+        <tac_gia>Caitlin Kittredge, Maiko Kuzunishi</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/throwaways/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Abby Palmer and Dean Logan are two broken people-Abby a vet with severe PTSD and Dean a burnout trying to escape the shadow of his infamous father-when they are thrust into a modern-day MK-ULTRA conspiracy… and discover they are both ULTRA's human experiments.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/throwaways-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="incognegro: renaissance" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Literature" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>incognegro: renaissance</ten_truyen>
+		<ma_truyen>incognegro-renaissance</ma_truyen>
+        <tac_gia>Mat Johnson, Warren Pleece</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/incognegro-renaissance/1_medium.jpg</hinh_nho>
+        <gioi_thieu>After a black writer is found dead at a scandalous interracial party in 1920s New York, Harlem's cub reporter Zane Pinchback is the only one determined to solve the murder. Zane must go 'incognegro' for the first time--using his light appearance to pass as a white man--to find the true killer, in this prequel miniseries to the critically acclaimed Vertigo graphic novel, now available in a special new 10th Anniversary Edition. With a cryptic manuscript as his only clue, and a mysterious and beautiful woman as the murder's only witness, Zane finds himself on the hunt through the dark and dangerous streets of 'roaring twenties' Harlem in search for justice. A page-turning thriller of racial divide, Incognegro: Renaissance explores segregation, secrets, and self-image as our race-bending protagonist penetrates a world where he feels stranger than ever before.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/incognegro-renaissance-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="konjiki no moji tsukai - yuusha yonin ni makikomareta unique cheat" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Harem, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>konjiki no moji tsukai - yuusha yonin ni makikomareta unique cheat</ten_truyen>
 		<ma_truyen>konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat</ma_truyen>
@@ -234,40 +270,4 @@
 		<gioi_thieu>Yamada Yoko, a high school boy who has a movie producer father. One day, while out with friends to shoot a film that he plans to enter into a film festival, a poster of Papiko, an adult video actress with big breasts, catches his eye.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gigant-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="trinity blood" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Mystery, Romance, Sci-fi, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>trinity blood</ten_truyen>
-		<ma_truyen>trinity-blood</ma_truyen>
-		<tac_gia>Kyujyo Kiyo, Yoshida Sunao</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/10486/3/200.jpg</hinh_nho>
-		<gioi_thieu>The background is in the distant future, a post-apocalyptic world after the destruction brought about by Armageddon. The war between humans (Terran) and vampires (Methuselah) continues, as a struggle between two factions: the Vatican and the New Human Empire. Yet, amidst the bloodshed and violence, many desire a peaceful co-existence between the two species. However, standing between them and this goal is the Rosenkreuz Orden, a group of vampire extremists who manipulate the two sides and pit them against each other. To combat them, the Vatican special operations group 'AX,' led by Cardinal Caterina, must use everything they have - even a vampire who preys on the blood of other vampires.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/trinity-blood-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="hajimete datteba!" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>hajimete datteba!</ten_truyen>
-		<ma_truyen>hajimete-datteba</ma_truyen>
-		<tac_gia>Saki Kaori</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3363/1/200.jpg</hinh_nho>
-		<gioi_thieu>There is first time at everything, and you don't know anything about it. Not about your partner, not about yourself and even how to advance in love. In a certain port city, energetic high schooler Kana, and firm high schooler Kouki live. Two of them experiencing first time at every thing they do. Author of 'Smash!', Saki Kaori presents, Hajimete Datte ba!. A heartful love story has now began.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hajimete-datteba-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="teenage mutant ninja turtles: urban legends" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Martial arts, Movies - tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>teenage mutant ninja turtles: urban legends</ten_truyen>
-		<ma_truyen>teenage-mutant-ninja-turtles-urban-legends</ma_truyen>
-        <tac_gia>Gary Carlson, Frank Fosco</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-urban-legends/1_medium.jpg</hinh_nho>
-        <gioi_thieu>This is it, fans! You demanded it, and IDW Publishing listened! The entire Image Comics TMNT run (a.k.a TMNT Volume 3) reproduced for the first time ever in full, four-color glory! Join creators Gary Carlson and Frank Fosco as they take the Heroes in a Half-Shell on some of their most amazing and dangerous and bizarre adventures ever... culminating in three brand-new issues by Carlson and Fosco to properly close out this long-beloved storyline at last! In this premiere issue, the TMNT and Master Splinter are attacked in their lair by a group of cyborgs led by the female ninja called Pimiko. Before the attack is over, one family member will fall... and one will be lost! Don't miss your chance to get in on the ground floor of the entire TMNT Image experience!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teenage-mutant-ninja-turtles-urban-legends-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="jasmine: crown of kings" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>jasmine: crown of kings</ten_truyen>
-		<ma_truyen>jasmine-crown-of-kings</ma_truyen>
-        <tac_gia>Howard Mackie, Deivis Goetten</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/jasmine-crown-of-kings/1_medium.jpg</hinh_nho>
-        <gioi_thieu>New Series Starts Here! When a fiery explosion erupts in the ancient city of Petra, Jasmine races against the terrorist group THE FORTY THIEVES to prevent the shattered pieces of the Crown of Kings, an object that haunts her past from being reunited and unleashing an unearthly power on the world and all that she holds dear.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/jasmine-crown-of-kings-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

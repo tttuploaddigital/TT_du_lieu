@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="exlibrium" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>exlibrium</ten_truyen>
+		<ma_truyen>exlibrium</ma_truyen>
+        <tac_gia>Natalia Devova, Denis Popov, Andrey Rodin</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/exlibrium/1_medium.jpg</hinh_nho>
+        <gioi_thieu>...And the door will open. 'Exlibrium' (from the Latin 'ex libris', 'of the books' and 'equilibrium', 'balance') - a magic seal that helps the mysterious order of sorcerers to guard the border between the real world and the world of fiction. For many centuries members of the order have been successfully preventing creatures from the works of art and lliterature from escaping into our world. But sometimes the order fails to do so and some of those characters manage to break the walls between realities...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/exlibrium-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dark ark" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dark ark</ten_truyen>
+		<ma_truyen>dark ark</ma_truyen>
+        <tac_gia>Cullen Bunn, Juan Doe, Ryane Hill</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dark-ark/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The wickedness of mankind has moved the Creator to destroy the world by way of the flood. Noah has been tasked with building an ark to save his family and the animals of the world. But this is not Noah's story. For darker powers have commanded the sorcerer Shrae to build his own ark and save the unnatural creatures of the world-such as the vampires, the dragons, the naga, and the manticore. But what will happen on a vessel crawling with monsters, where insidious intrigue and horrific violence are the rule of law?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dark-ark-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="throwaways" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Life sucks" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>throwaways</ten_truyen>
+		<ma_truyen>throwaways</ma_truyen>
+        <tac_gia>Caitlin Kittredge, Maiko Kuzunishi</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/throwaways/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Abby Palmer and Dean Logan are two broken people-Abby a vet with severe PTSD and Dean a burnout trying to escape the shadow of his infamous father-when they are thrust into a modern-day MK-ULTRA conspiracy… and discover they are both ULTRA's human experiments.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/throwaways-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="incognegro: renaissance" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Literature" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>incognegro: renaissance</ten_truyen>
+		<ma_truyen>incognegro-renaissance</ma_truyen>
+        <tac_gia>Mat Johnson, Warren Pleece</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/incognegro-renaissance/1_medium.jpg</hinh_nho>
+        <gioi_thieu>After a black writer is found dead at a scandalous interracial party in 1920s New York, Harlem's cub reporter Zane Pinchback is the only one determined to solve the murder. Zane must go 'incognegro' for the first time--using his light appearance to pass as a white man--to find the true killer, in this prequel miniseries to the critically acclaimed Vertigo graphic novel, now available in a special new 10th Anniversary Edition. With a cryptic manuscript as his only clue, and a mysterious and beautiful woman as the murder's only witness, Zane finds himself on the hunt through the dark and dangerous streets of 'roaring twenties' Harlem in search for justice. A page-turning thriller of racial divide, Incognegro: Renaissance explores segregation, secrets, and self-image as our race-bending protagonist penetrates a world where he feels stranger than ever before.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/incognegro-renaissance-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="star trek: discovery: succession" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>star trek: discovery: succession</ten_truyen>
 		<ma_truyen>star-trek-discovery-succession</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/p/plastic-man-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Meet Eel O'Brian: a petty thug, thief and con artist who runs a strip club. Hey, he's also dead, at least according to the gang that tossed him out like last week's garbage. Literally. Don't worry, though he bounced back from all that, and now he's trying to make a new life for himself, but the effort is stretching him pretty thin.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/plastic-man-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="domino (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>domino (2018)</ten_truyen>
-		<ma_truyen>domino-2018</ma_truyen>
-        <tac_gia>Gail Simone, David Baldeon, Greg Land</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/domino-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Impossible curves. Impossible shots. Impossible targets. Marvel's #1 soldier of fortune is back in an explosive new ongoing series! The product of a failed super-soldier program, Neena Thurman always made her own luck as the sharpshooting mercenary known as Domino... but what happens when her own powers betray her? The hunter becomes the hunted as every mercenary in the game smells blood in the water! Plus: A pair of beloved Marvel characters return!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/domino-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="dejah thoris (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>dejah thoris (2018)</ten_truyen>
-		<ma_truyen>dejah-thoris-2018</ma_truyen>
-        <tac_gia>Amy Chu, Pasquale Qualano</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The untold story of the Red Martian princess! After learning of the legendary Gardens of Mars from her grandfather, Dejah Thoris, Princess of Helium, sets off on a dangerous scientific expedition to save her dying planet. But things don't go the way she planned when she encounters a mysterious Green Martian prisoner... A prequel to Edgar Rice Burroughs' beloved book A Princess of Mars.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dejah-thoris-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="dejah thoris (2016)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Graphic novels, Mythology, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>dejah thoris (2016)</ten_truyen>
-		<ma_truyen>dejah-thoris-2016</ma_truyen>
-        <tac_gia>Frank J. Barbiere, Francesco Manna, Morgan Hickman, Erica Schultz, Nen</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Prepare yourself for Dejah Thoris as you've never seen her before! A shocking conspiracy unravels in Helium as Dejah's father has gone missing. In the wake of assuming the throne, Dejah learns secret information from her past that will have resounding effects on the kingdom - and her life! Join Frank J. Barbiere (The Howling Commandos of SHIELD, The Precinct) and Francesco Manna (Vampirella #100) as Dejah discovers a secret past that will have her leaving Helium for an all-new adventure on her own!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/dejah-thoris-2016-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="dc nation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-        <tac_gia>Brian Michael Bendis, Tom King, Scott Snyder, James Tynion IV, Joshua Williamson, Jose Luis Garcia-Lopez, Jorge Jimenez, Clay Mann</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-        <gioi_thieu>DC Nation features three brand-new stories from a lineup of superstar talent that will appear only in this comic book and will not be reprinted in another comic book before each series' collected editions.-and each tale serves as a prelude to some of the biggest DC events of 2018!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dc-nation-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
