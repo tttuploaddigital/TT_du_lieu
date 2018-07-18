@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<truyen ten="ore to kawazu-san no isekai hourouki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Horror, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ore to kawazu-san no isekai hourouki</ten_truyen>
-		<ma_truyen>ore-to-kawazu-san-no-isekai-hourouki</ma_truyen>
+	<truyen ten="black kanojo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Horror, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>black kanojo</ten_truyen>
+		<ma_truyen>black-kanojo</ma_truyen>
 		<tac_gia>Yoshihara Masahiko</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://file-thumb.mpcdn.net/43468/2/200.jpg</hinh_nho>
 		<gioi_thieu>Hoshino Teru, a mediocre middle school boy has a crush on Amamiya, his childhood friend. However, 'Micchan' stands between them, and brings chaos upon Teru's life.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ore-to-kawazu-san-no-isekai-hourouki-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-kanojo-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="black kanojo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>black kanojo</ten_truyen>
-		<ma_truyen>black-kanojo</ma_truyen>
+	<truyen ten="ore to kawazu-san no isekai hourouki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>ore to kawazu-san no isekai hourouki</ten_truyen>
+		<ma_truyen>ore-to-kawazu-san-no-isekai-hourouki</ma_truyen>
 		<tac_gia>Kuzumochi, Ryuu</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://file-thumb.mpcdn.net/27028/2/200.jpg</hinh_nho>
 		<gioi_thieu>Tarou was just an ordinary university student until a strange old magician summoned him to another world. Upon learning that his newly acquired magical power is 8 million (8 million more powerful than an average magician), he uses his abnormally powerful magic to revive the old man that caused all this... in the form of a frog. Thus begin the strange adventures of a boy with ridiculous magical power and Kawazu, the former strongest magician, now revived as a frog.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-kanojo-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ore-to-kawazu-san-no-isekai-hourouki-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="yuureitou" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Ecchi, Gender bender, Horror, Mature, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>yuureitou</ten_truyen>
