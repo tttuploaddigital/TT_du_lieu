@@ -1584,6 +1584,15 @@
         <gioi_thieu>The Midnight Event forever changed the world. Now, centuries later, Jack Kryznan arrives on the outskirts of Paradiso City, haunted by fragments of childhood memories and in possession of a mysterious device one with the power to change the destiny of this living breathing metropolis, the people who dwell within, and the guardians who strive for and against it.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/paradiso-eng.xml</file_xml>
     </truyen>
+	<truyen ten="pathfinder: spiral of bones" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>pathfinder: spiral of bones</ten_truyen>
+		<ma_truyen>pathfinder-spiral-of-bones</ma_truyen>
+        <tac_gia>Crystal Frasier, Rob McCreary, Diego Galindo, Tom Garcia</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/pathfinder-spiral-of-bones/1_medium.jpg</hinh_nho>
+        <gioi_thieu>As the Pathfinder plunge into the history and mysteries below Kaer Maga-the no-holds-barred 'City of Strangers'-Valeros plunges far deeper into the great beyond, defending his immortal soul in the courts of the dead! From Pathfinder author Crystal Frasier comes this scintillating tale of life, death, and what lingers when we're gone. Bonus: Starfinder backup story! Thousands of years in Pathfinder's future, the Starfinder Society spreads adventure across the solar system!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pathfinder-spiral-of-bones-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="peter parker: the spectacular spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>peter parker: the spectacular spider-man</ten_truyen>
 		<ma_truyen>peter-parker-the-spectacular-spider-man</ma_truyen>
@@ -2439,6 +2448,15 @@
         <gioi_thieu>GHOST STORIES! Optimus Prime returns to Cybertron only to be confronted by his rival for the Matrix, Pyra Magna! As Pyra's origin before she was part of Victorion—is finally revealed, Optimus relives his own past—the first time he met Bumblebee!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/transformers-annual-eng.xml</file_xml>
     </truyen>
+	<truyen ten="transformers: lost light" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>transformers: lost light</ten_truyen>
+		<ma_truyen>transformers-lost-light</ma_truyen>
+        <tac_gia>James Roberts, Jack Lawrence</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-lost-light/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Five years ago, Rodimus and a collection of traumatised, lovelorn and/or sarcastic Autobots set off on a quest to find Cyberutopia. So far, they've made a right hash of it. They've misplaced their map. They've lost their ship, the Lost Light, to a mutinous escapologist. Oh, and they're dead.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-lost-light-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="transformers: salvation" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>transformers: salvation</ten_truyen>
 		<ma_truyen>transformers-salvation</ma_truyen>
@@ -2447,6 +2465,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-salvation/1_medium.jpg</hinh_nho>
         <gioi_thieu>Exiled from civilization, the Dinobots are the last line of defense against the ultimate Cybertronian dinosaur—Trypticon! But how much are the Dinobots willing to sacrifice for a world that hates them?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/transformers-salvation-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="transformers: unicron" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>transformers: unicron</ten_truyen>
+		<ma_truyen>transformers-unicron</ma_truyen>
+        <tac_gia>John Barber, Alex Milne</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-unicron/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Not a whimper, nor a bang--the end comes with a squall of entropy shrieking from the ravenous maw of death itself. The message is clear: Unicron has arrived. The Transformers lock into a desperate bid to save Rom's homeworld from the world-killer--but why has Unicron chosen this world on his path to Cybertron... and Earth? The biggest story in the history of Transformers starts now: for Unicron's arrival can mean nothing less than the end of a universe.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-unicron-eng.xml</file_xml>
     </truyen>
 	<truyen ten="trinity (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>trinity (2016)</ten_truyen>
@@ -2618,6 +2645,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-x-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Decades ago, the Weapon X program produced the deadliest mutant killers on the planet. Now, with more research, more funding and more Adamantium at its disposal, the Weapon X program is creating new killers for old targets: Old Man Logan. Sabretooth. Lady Deathstrike. Weapon X isn't just experimenting on mutants anymore…it's eradicating them. All of them. Plus: Deadlier and more shadowy than ever, you won't believe who's taken the job as Director of Weapon X! Reuniting X-Men: Phoenix Endsong creative team GREG PAK (World War Hulk) and GREG LAND (Uncanny X-Men)!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weapon-x-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="weird love" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Romance" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>weird love</ten_truyen>
+		<ma_truyen>weird-love</ma_truyen>
+        <tac_gia>Various, Vinnie Colletta, Jose Luis Garcia-Lopez, Norman Nodel, Al Tewks, Ogden Whitney, Joe Gill</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/weird-love/1_medium.jpg</hinh_nho>
+        <gioi_thieu>From the people that bring you the acclaimed Haunted Horror comic comes a horror like no other... WEIRD Love! WEIRD Love presents the most sexy, bizarro, sick, twisted, politically incorrect, kinky 'romance' comics of the 1950s and beyond. No wonder the censors wanted this stuff banned! Sure to be must-have big-buzz comics!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weird-love-eng.xml</file_xml>
     </truyen>
 	<truyen ten="witchfinder: city of the dead" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Horror, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>witchfinder: city of the dead</ten_truyen>
