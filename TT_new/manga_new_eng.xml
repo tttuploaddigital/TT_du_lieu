@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="tsuki tsuki!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Harem, Romance, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>tsuki tsuki!</ten_truyen>
+		<ma_truyen>tsuki-tsuki</ma_truyen>
+		<tac_gia>Gotou Yuujin, Shibamine Takashi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/10552/3/200.jpg</hinh_nho>
+		<gioi_thieu>One day Shinobu wakes up just to find a naked blonde girl sleeping besides him. He has no memory whatsoever of her. Who is she? Why is she in his bed? Why is she naked? To make matters worse, his sister comes in and sees them. What will happen now?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuki-tsuki-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tokyo dted" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Drama, Mature, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>tokyo dted</ten_truyen>
+		<ma_truyen>tokyo-dted</ma_truyen>
+		<tac_gia>Kotani Yoko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/28351/3/200.jpg</hinh_nho>
+		<gioi_thieu>'When we enter high school, be sure to make me your own.' Tetsuo's childhood friend Kaede Shiraishi made that promise to him as a young girl before she moved away. Kaede never left Tetsuo's mind, and his dreams finally came true when they both reunited in high school. However, Tetsuo's older brother ended up making Kaede his own. Tetsuo couldn't stand hearing his brother interacting with his former crush in the next room day in and day out, so he decided to go to Tokyo, taking a 'certain secret' along with him. But... Set in the Shimokitazawa district in Tokyo, this youth drama will tug at your heartstrings as it depicts a young man who continues to mature through his many encounters.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tokyo-dted-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="aphorism" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>aphorism</ten_truyen>
+		<ma_truyen>aphorism</ma_truyen>
+		<tac_gia>Kujo Karuna</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/795/3/200.jpg</hinh_nho>
+		<gioi_thieu>Naraka High School is a seemingly normal school. However, unknown to the public is the cruel truth of what really goes on in the school's halls. Rather than studying, students are forced to struggle for their very survival. And the strong bonds of friendship may be the only difference between life and death.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/aphorism-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="isuca" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Mature, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>isuca</ten_truyen>
 		<ma_truyen>isuca</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/43458/2/200.jpg</hinh_nho>
 		<gioi_thieu>Kiryuin Hanasei is the idol of her school. But when she suddenly becomes a giantess, she is forced to return to her old ways in order to protect her city.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onideka-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="tohai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>tohai</ten_truyen>
-		<ma_truyen>tohai</ma_truyen>
-		<tac_gia>Shinasaka Koji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/38140/1/200.jpg</hinh_nho>
-		<gioi_thieu>Not a lot of people know that one of the most talented and ruthless Mahjong players in the city is a young high school boy. Kei is a teenager of few words, but his observation skills, unwavering will and experience in the game allows him to survive in a world full of powerful, rich and dangerous characters. Kei is currently hiding a girl named Amina who has entered the country illegally and protecting her from being deported. He spends his days sleeping through class and his nights playing high-stakes Mahjong, waiting for when a worthy opponent arrives.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tohai-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="yomekura" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>yomekura</ten_truyen>
-		<ma_truyen>yomekura</ma_truyen>
-		<tac_gia>Chiaki Tarou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43502/1/200.jpg</hinh_nho>
-		<gioi_thieu>Before she died, Taga Reiji's mother made arrangements to ensure her son would not be alone. What Taga did not know about these 'arrangements' was that he would be enrolled into a special class at the school his mother founded where prospective fiance candidates would all vie for his hand in marriage. How will Taga's new life of constantly being surrounded by girls unfold and will he be able to choose just one?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yomekura-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="back street girls - washira idol hajimemashita." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Gender bender, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>back street girls - washira idol hajimemashita.</ten_truyen>
-		<ma_truyen>back-street-girls-washira-idol-hajimemashita</ma_truyen>
-		<tac_gia>Jasmine Gyuh</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42569/2/200.jpg</hinh_nho>
-		<gioi_thieu>A group of 3 yakuza failed their boss for the last time. After messing up an important job, the boss gives them 2 choices: Honorably committing suicide, or go to Thailand to get a sex reassignment surgery in order to becomes 'female' idols. After a gruesome year long training to become idols, they successfully debut, with overwhelming popularity, much to their dismay. This is where their tragedy truly begins.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/back-street-girls-washira-idol-hajimemashita-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

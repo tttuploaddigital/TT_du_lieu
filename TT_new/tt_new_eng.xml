@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="tsuki tsuki!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Harem, Romance, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>tsuki tsuki!</ten_truyen>
+		<ma_truyen>tsuki-tsuki</ma_truyen>
+		<tac_gia>Gotou Yuujin, Shibamine Takashi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/10552/3/200.jpg</hinh_nho>
+		<gioi_thieu>One day Shinobu wakes up just to find a naked blonde girl sleeping besides him. He has no memory whatsoever of her. Who is she? Why is she in his bed? Why is she naked? To make matters worse, his sister comes in and sees them. What will happen now?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuki-tsuki-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tokyo dted" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Drama, Mature, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>tokyo dted</ten_truyen>
+		<ma_truyen>tokyo-dted</ma_truyen>
+		<tac_gia>Kotani Yoko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/28351/3/200.jpg</hinh_nho>
+		<gioi_thieu>'When we enter high school, be sure to make me your own.' Tetsuo's childhood friend Kaede Shiraishi made that promise to him as a young girl before she moved away. Kaede never left Tetsuo's mind, and his dreams finally came true when they both reunited in high school. However, Tetsuo's older brother ended up making Kaede his own. Tetsuo couldn't stand hearing his brother interacting with his former crush in the next room day in and day out, so he decided to go to Tokyo, taking a 'certain secret' along with him. But... Set in the Shimokitazawa district in Tokyo, this youth drama will tug at your heartstrings as it depicts a young man who continues to mature through his many encounters.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tokyo-dted-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="aphorism" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>aphorism</ten_truyen>
+		<ma_truyen>aphorism</ma_truyen>
+		<tac_gia>Kujo Karuna</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/795/3/200.jpg</hinh_nho>
+		<gioi_thieu>Naraka High School is a seemingly normal school. However, unknown to the public is the cruel truth of what really goes on in the school's halls. Rather than studying, students are forced to struggle for their very survival. And the strong bonds of friendship may be the only difference between life and death.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/aphorism-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="the unexpected" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the unexpected</ten_truyen>
 		<ma_truyen>the-unexpected</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-last-siege/1_medium.jpg</hinh_nho>
         <gioi_thieu>A tale of blood, desperation, and loss. New York Times bestselling author LANDRY Q. WALKER joins artist JUSTIN GREENWOOD for an all-new ONGOING SERIES-THE LAST SIEGE! Spaghetti Western storytelling meets Game of Thrones atmosphere in this gritty medieval war story, as a mysterious stranger arrives at a castle overrun with brutal soldiers bent on usurping the throne of the rightful heir-an 11-year-old girl. An action-packed, genre-twisting epic, THE LAST SIEGE begins!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-last-siege-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hillbilly" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Mythology, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hillbilly</ten_truyen>
-		<ma_truyen>hillbilly</ma_truyen>
-        <tac_gia>Eric Powell</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hillbilly/1_medium.jpg</hinh_nho>
-        <gioi_thieu>An Appalachian Mountain fantasy epic that tells the story of Rondel. A lonely figure who wanders the wooded hills among witches and magical creatures as a folktale hero to those who dwell in this gritty dream world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hillbilly-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="jirni (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>jirni (2018)</ten_truyen>
-		<ma_truyen>jirni-2018</ma_truyen>
-        <tac_gia>J.T. Krul, Michael Santamaria, John Starr</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/jirni-vol-3/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Aspen's popular fantasy adventure series, JIRNI, returns for an epic third volume! As Ara's quest to find her kidnapped mother continues, she finds solace in a remote village, but do they have their own demons to worry about? Meanwhile, Torinthal continues on his own search to unlock the mysteries of the D'jinn and their celestial origin. Don't miss out on the biggest quest for Ara yet! Created by New York Times Best-Selling author J.T. Krul (Michael Turner's Soulfire, Green Arrow) with art by newcomer Michael Santamaria, this next exciting chapter of Jirni will once again return readers to a land of untapped wonder!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/jirni-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="isola" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>isola</ten_truyen>
-		<ma_truyen>isola</ma_truyen>
-        <tac_gia>Brenden Fletcher, Karl Kerschl, MSASSYK</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/isola/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Childhood friends BRENDEN FLETCHER (MOTOR CRUSH) and Eisner Award-winning storyteller KARL KERSCHL (Gotham Academy) reunite on the comics page with a breathtaking fantasy adventure two decades in the making! The captain of the Royal Guard has fled the capital city with the Queen of Maar, suffering under the effects of an evil spell. Captain Rook's only hope of returning Queen Olwyn to her throne and saving the kingdom from impending war lies on an island half a world away-a place known in myth as Isola, land of the dead. Featuring lush color work by MSASSYK (Gotham Academy) and letters by ADITYA BIDIKAR (MOTOR CRUSH). Recommended for fans of Studio Ghibli and the work of Hayao Miyazaki.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/isola-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
