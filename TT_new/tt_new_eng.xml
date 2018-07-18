@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="robotech (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Mecha, Movies - tv, Romance, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>robotech (2017)</ten_truyen>
+		<ma_truyen>robotech-2017</ma_truyen>
+        <tac_gia>Brian Wood, Marco Turini, Marco Lesko, John Workman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robotech/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Not just another retelling of the Macross saga... the story continues as we bring Carl Macek's original vision full circle. Taking into account every iteration of the series, this new Robotech casts a fresh eye over classic characters like Rick Hunter, Lisa Hayes, Lynn Minmei, Roy Fokker, Claudia Grant, and Henry Gloval. Brian Wood and Marco Turini take us back to a Macross Island where 'nothing' can be taken for granted.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robotech-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="quantum and woody! (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>quantum and woody! (2017)</ten_truyen>
+		<ma_truyen>quantum-and-woody-2017</ma_truyen>
+        <tac_gia>Nick Spencer, Ryan Ottley</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/q/quantum-and-woody-(2017)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sometimes...you embrace your destiny. And sometimes... you and your trouble-making adopted brother find yourselves trapped in a scientific lab explosion that grants you $@&%ing awesome super-powers. As a result of their accident, Eric and Woody Henderson - aka Quantum and Woody – must 'klang' their wristbands together every 24 hours or both dissipate into nothingness. Which makes superhero-ing pretty awkward when you're not on speaking terms at the moment. See, Eric has been keeping a pretty big secret: He knows who Woody's birth father really is...and where he's been hiding all these years. With great power comes great sibling rivalry! This winter, you'll believe two men and one goat can split a one-bedroom apartment and still be a credible threat to evil and injustice everywhere when QUANTUM AND WOODY make headlines and take names!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quantum-and-woody-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the ballad of sang" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the ballad of sang</ten_truyen>
+		<ma_truyen>the-ballad-of-sang</ma_truyen>
+        <tac_gia>Ed Brisson, Alessandro Micelli, Shari Chankhamma</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-ballad-of-sang/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Kidnapped off the streets of the Philippines as an infant and trained as a child assassin, Sang has never had a childhood. All he's ever known is killing and the kindness of his master, Chen, the closest thing Sang has to a father. When Sang's enthusiasm botches a job, it brings the wrath of Don Minchella down on the pair, resulting in Chen's murder. Barely escaping with his own life -- and with Minchella's severed arm in tow -- Sang swears revenge, while every gang in the city mobilizes to return him to Minchella, dead or alive.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-ballad-of-sang-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="gideon falls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>gideon falls</ten_truyen>
+		<ma_truyen>gideon-falls</ma_truyen>
+        <tac_gia>Jeff Lemire, Andrea Sorrentino, Jock</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/gideon-falls/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A brand-new ongoing series from the acclaimed bestselling creative team of Old Man Logan and Green Arrow! The lives of a reclusive young man obsessed with a conspiracy in the city's trash, and a washed-up Catholic priest arriving in a small town full of dark secrets, become intertwined around the mysterious legend of The Black Barn, an otherworldly building that is alleged to have appeared in both the city and the small town, throughout history, bringing death and madness in its wake. Rural mystery and urban horror collide in this character-driven meditation on obsession, mental illness, and faith.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gideon-falls-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="black kanojo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Horror, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>black kanojo</ten_truyen>
 		<ma_truyen>black-kanojo</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Thief_of_Thieves.jpg/200px-Thief_of_Thieves.jpg</hinh_nho>
         <gioi_thieu>Conrad Paulson lives a secret double life as master thief Redmond. There is nothing he can't steal, nothing he can't have... except for the life he left behind. Now, with a grown son he hardly knows, and an ex-wife he never stopped loving, Conrad must try to piece together what's left of his life, before the FBI finally catch up to him... but it appears they are the least of his worries.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thief-of-thieves-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="pumpkinhead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror, Movies - tv, Mythology" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>pumpkinhead</ten_truyen>
-		<ma_truyen>pumpkinhead</ma_truyen>
-        <tac_gia>Cullen Bunn, Blacky Shepherd, Kyle Strahm</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/pumpkinhead/1_medium.jpg</hinh_nho>
-        <gioi_thieu>For thirty years, the demon of vengeance has been still, its corpse buried in a pumpkin patch graveyard in the hills. But when a reckless driver accidentally kills a pair of children, the creature is called up once more. This time, though, the monster's intended target is protected by a cruel backwoods crime family. They hatch their own supernatural plans for dealing with Pumpkinhead. For each of man's sins, a special demon exists, and when seven infernal creatures roam the hills and the hollows, no one-guilty or otherwise-is safe.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pumpkinhead-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the highest house" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the highest house</ten_truyen>
-		<ma_truyen>the-highest-house</ma_truyen>
-        <tac_gia>Mike Carey, Peter Gross</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-highest-house/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The creators behind The Unwritten, Mike Carey and Peter Gross, invite you into The Highest House, the story of a slave boy named Moth, who makes friends with a powerful entity called Obsidian that promises advancement and happiness. Clearly, Obsidian has a hidden agenda, but Moth has ambitions and plans of his own...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-highest-house-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="delta 13" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>delta 13</ten_truyen>
-		<ma_truyen>delta-13</ma_truyen>
-        <tac_gia>Steve Niles, Nat Jones</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/delta-13/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Who knows what mysteries lie deep in the asteroid belt? When a mysterious, huge, and previously undiscovered asteroid looms over their ship, a small crew of blue-collar workers discovers a terrifying threat unlike anything they've ever seen. Now, the crew must escape the asteroid, but even if they do, will they be able to escape each other and anything they bring back with them?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/delta-13-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="exlibrium" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>exlibrium</ten_truyen>
-		<ma_truyen>exlibrium</ma_truyen>
-        <tac_gia>Natalia Devova, Denis Popov, Andrey Rodin</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/exlibrium/1_medium.jpg</hinh_nho>
-        <gioi_thieu>...And the door will open. 'Exlibrium' (from the Latin 'ex libris', 'of the books' and 'equilibrium', 'balance') - a magic seal that helps the mysterious order of sorcerers to guard the border between the real world and the world of fiction. For many centuries members of the order have been successfully preventing creatures from the works of art and lliterature from escaping into our world. But sometimes the order fails to do so and some of those characters manage to break the walls between realities...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/exlibrium-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

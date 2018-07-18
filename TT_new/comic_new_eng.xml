@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="robotech (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Mecha, Movies - tv, Romance, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>robotech (2017)</ten_truyen>
+		<ma_truyen>robotech-2017</ma_truyen>
+        <tac_gia>Brian Wood, Marco Turini, Marco Lesko, John Workman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robotech/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Not just another retelling of the Macross saga... the story continues as we bring Carl Macek's original vision full circle. Taking into account every iteration of the series, this new Robotech casts a fresh eye over classic characters like Rick Hunter, Lisa Hayes, Lynn Minmei, Roy Fokker, Claudia Grant, and Henry Gloval. Brian Wood and Marco Turini take us back to a Macross Island where 'nothing' can be taken for granted.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robotech-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="quantum and woody! (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>quantum and woody! (2017)</ten_truyen>
+		<ma_truyen>quantum-and-woody-2017</ma_truyen>
+        <tac_gia>Nick Spencer, Ryan Ottley</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/q/quantum-and-woody-(2017)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sometimes...you embrace your destiny. And sometimes... you and your trouble-making adopted brother find yourselves trapped in a scientific lab explosion that grants you $@&%ing awesome super-powers. As a result of their accident, Eric and Woody Henderson - aka Quantum and Woody – must 'klang' their wristbands together every 24 hours or both dissipate into nothingness. Which makes superhero-ing pretty awkward when you're not on speaking terms at the moment. See, Eric has been keeping a pretty big secret: He knows who Woody's birth father really is...and where he's been hiding all these years. With great power comes great sibling rivalry! This winter, you'll believe two men and one goat can split a one-bedroom apartment and still be a credible threat to evil and injustice everywhere when QUANTUM AND WOODY make headlines and take names!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quantum-and-woody-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the ballad of sang" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the ballad of sang</ten_truyen>
+		<ma_truyen>the-ballad-of-sang</ma_truyen>
+        <tac_gia>Ed Brisson, Alessandro Micelli, Shari Chankhamma</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-ballad-of-sang/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Kidnapped off the streets of the Philippines as an infant and trained as a child assassin, Sang has never had a childhood. All he's ever known is killing and the kindness of his master, Chen, the closest thing Sang has to a father. When Sang's enthusiasm botches a job, it brings the wrath of Don Minchella down on the pair, resulting in Chen's murder. Barely escaping with his own life -- and with Minchella's severed arm in tow -- Sang swears revenge, while every gang in the city mobilizes to return him to Minchella, dead or alive.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-ballad-of-sang-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="gideon falls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>gideon falls</ten_truyen>
+		<ma_truyen>gideon-falls</ma_truyen>
+        <tac_gia>Jeff Lemire, Andrea Sorrentino, Jock</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/gideon-falls/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A brand-new ongoing series from the acclaimed bestselling creative team of Old Man Logan and Green Arrow! The lives of a reclusive young man obsessed with a conspiracy in the city's trash, and a washed-up Catholic priest arriving in a small town full of dark secrets, become intertwined around the mysterious legend of The Black Barn, an otherworldly building that is alleged to have appeared in both the city and the small town, throughout history, bringing death and madness in its wake. Rural mystery and urban horror collide in this character-driven meditation on obsession, mental illness, and faith.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gideon-falls-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="the amazing spider-man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
 		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/g/ghostbusters-crossing-over/1_medium.jpg</hinh_nho>
         <gioi_thieu>For a while now, the original Ghostbusters have had access to an interdimensional portal that has given them all-new ways to research the paranormal and consult with Ghostbusters throughout the multiverse... but they haven't shared this tech with any of those other Ghostbusters, and some don't think that's fair. That's why, after a chance meeting, Jillian Holtzmann and Ron Alexander have decided to right this wrong and cobble together their own working portal... which unintentionally unleashes the contents of the Ghostbusters' Containment Unit! That's a lot of ghosts, and it's going to take a lot of Ghostbusters to recapture them. In fact, it's going to take ALL of them. Crossing Over starts here!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ghostbusters-crossing-over-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="paradiso" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>paradiso</ten_truyen>
-		<ma_truyen>paradiso</ma_truyen>
-        <tac_gia>Ram V, Dearbhla Kelly, Dev Pramanik, Christian Ward</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/paradiso/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Midnight Event forever changed the world. Now, centuries later, Jack Kryznan arrives on the outskirts of Paradiso City, haunted by fragments of childhood memories and in possession of a mysterious device one with the power to change the destiny of this living breathing metropolis, the people who dwell within, and the guardians who strive for and against it.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/paradiso-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="prism stalker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>prism stalker</ten_truyen>
-		<ma_truyen>prism-stalker</ma_truyen>
-        <tac_gia>Sloane Long, Darius Ou</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/prism-stalker/1_medium.jpg</hinh_nho>
-        <gioi_thieu>For fans of Octavia Butler, Sailor Moon, and the biopunk horror of David Cronenberg comes PRISM STALKER, an ongoing sci-fi adventure series by SLOANE LEONG. Vep is a young refugee raised away from her devastated home planet as an indentured citizen in a foreign colony. She works tirelessly for her insectoid hosts, but there is no exit in sight in this viscous, dripping citynest. The eye of opportunity is closing. Her duty is to her family and her siblings, but what more can she do for them here? The answer appears faster than she is ready for.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/prism-stalker-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the last siege" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Fantasy, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the last siege</ten_truyen>
-		<ma_truyen>the-last-siege</ma_truyen>
-        <tac_gia>Landry Q. Walker, Justin Greenwood, Nick Dragotta</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-last-siege/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A tale of blood, desperation, and loss. New York Times bestselling author LANDRY Q. WALKER joins artist JUSTIN GREENWOOD for an all-new ONGOING SERIES-THE LAST SIEGE! Spaghetti Western storytelling meets Game of Thrones atmosphere in this gritty medieval war story, as a mysterious stranger arrives at a castle overrun with brutal soldiers bent on usurping the throne of the rightful heir-an 11-year-old girl. An action-packed, genre-twisting epic, THE LAST SIEGE begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-last-siege-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hillbilly" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Mythology, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hillbilly</ten_truyen>
-		<ma_truyen>hillbilly</ma_truyen>
-        <tac_gia>Eric Powell</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hillbilly/1_medium.jpg</hinh_nho>
-        <gioi_thieu>An Appalachian Mountain fantasy epic that tells the story of Rondel. A lonely figure who wanders the wooded hills among witches and magical creatures as a folktale hero to those who dwell in this gritty dream world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hillbilly-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
