@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="the amazing spider-man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
+		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
+        <tac_gia>Nick Spencer, Ryan Ottley</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>An alien invasion hits New York City and the only one who can stop it is... Spider-Man?! And if even that's not enough, you'll see a new roommate, new love interests – and a new villain!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="superman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>superman (2018)</ten_truyen>
+		<ma_truyen>superman-2018</ma_truyen>
+        <tac_gia>Brian Michael Bendis, Ivan Reis</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/superman-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A bold new chapter for the greatest superhero of all time begins here as the superstar team of writer Brian Michael Bendis and artist Ivan Reis begin their run on the all-new SUPERMAN! The fallout from the Man of Steel miniseries has Clark Kent looking at the world through new eyes... with new ideas about what Superman could and should do for the city of Metropolis and the planet Earth.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superman-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="tomb raider: inferno" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>tomb raider: inferno</ten_truyen>
+		<ma_truyen>tomb-raider-inferno</ma_truyen>
+        <tac_gia>Collin Kelly, Jackson Lazing, Phillip Sevy</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/tomb-raider-inferno/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Trinity is on high alert--they know Lara Croft is coming and now, under the shrewd command of a new officer, they're ready for any surprises, but Lara is steadfast in her quest to uncover their secrets. Though typically equally prepared, this time Lara may just find herself one step behind.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/tomb-raider-inferno-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="pestilence: a story of satan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>pestilence: a story of satan</ten_truyen>
+		<ma_truyen>pestilence-a-story-of-satan</ma_truyen>
+        <tac_gia>Frank Tieri, Oleg Okunev</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/pestilence-a-story-of-satan/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The year is 1353. The fugitive Roderick Helms has retreated to a life of hidden seclusion after failing to expose the Church's role in the Black Death. But something threatens to bring him back into action. Something that has risen which will threaten to transform the waning plague into a far more darker and sinister crisis. And that something is none other than Satan himself!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pestilence-a-story-of-satan-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="transformers: unicron" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>transformers: unicron</ten_truyen>
 		<ma_truyen>transformers-unicron</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/i/incognegro-renaissance/1_medium.jpg</hinh_nho>
         <gioi_thieu>After a black writer is found dead at a scandalous interracial party in 1920s New York, Harlem's cub reporter Zane Pinchback is the only one determined to solve the murder. Zane must go 'incognegro' for the first time--using his light appearance to pass as a white man--to find the true killer, in this prequel miniseries to the critically acclaimed Vertigo graphic novel, now available in a special new 10th Anniversary Edition. With a cryptic manuscript as his only clue, and a mysterious and beautiful woman as the murder's only witness, Zane finds himself on the hunt through the dark and dangerous streets of 'roaring twenties' Harlem in search for justice. A page-turning thriller of racial divide, Incognegro: Renaissance explores segregation, secrets, and self-image as our race-bending protagonist penetrates a world where he feels stranger than ever before.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/incognegro-renaissance-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="konjiki no moji tsukai - yuusha yonin ni makikomareta unique cheat" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Harem, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>konjiki no moji tsukai - yuusha yonin ni makikomareta unique cheat</ten_truyen>
-		<ma_truyen>konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat</ma_truyen>
-		<tac_gia>Tomoto Sui, Ozaki Yuusuke</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/29695/4/200.jpg</hinh_nho>
-		<gioi_thieu>There has been much conflict between the races of the 'Humas', the 'Gabranth', and the 'Evila'. To combat the 'Evila' race's Demon King, the kingdom summons five high school students from 21st century Japan who have the power of Heroes. However, only four out of five of those students had the status title of 'Hero'. Okamura Hiiro was summoned by accident since he sat near the other four students in class. Unlike them, he did not have the title of a 'Hero' but instead he had the title of 'Word Master' and 'Innocent Bystander'. Seeing through the 'Humas' kingdom's deceit and insanity, Hiiro decides that he has no wish to partake in their selfish war. Leaving the castle, Hiiro decides to join the Adventurer's Guild and does whatever he feels like. Who knows? Maybe there is some merit to being a 'Word Master' and an 'Innocent Bystander'.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gleipnir" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Ecchi, Fantasy, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gleipnir</ten_truyen>
-		<ma_truyen>gleipnir</ma_truyen>
-		<tac_gia>Takeda Sun</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/36253/3/200.jpg</hinh_nho>
-		<gioi_thieu>Shuichi Kagaya isn't human. He has an unnatural sense of smell, and can transform into an incredibly powerful beast... of sorts. He does all he can to avoid standing out and being discovered, but no good deed goes unpunished, and his decision to use his power to save a girl spells the end for his quiet life.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gleipnir-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="megami no libra" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>megami no libra</ten_truyen>
-		<ma_truyen>megami-no-libra</ma_truyen>
-		<tac_gia>Sakou Watari</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/28214/2/200.jpg</hinh_nho>
-		<gioi_thieu>Yuuki Tsumire was raised by her single mother, who always told her to keep smiling, no matter what hardships she endured. The two of them were a family, until Tsumire's mother died from illness. Tsumire soon learned that she had a family she knew nothing about: a cold, rich family that disowned her kindhearted mother when she became pregnant. Tsumire now must go live with this family, even though none of them seem to want her there. She doesn't have to switch schools, so she at least has her friends to help her through this difficult time. However, she doesn't have the heart to confide in her friends with even more problems, so she tries to keep it bottled up inside. To her surprise, the Yuuki family lawyer, a young man named Hino, soon becomes her emotional support in this difficult situation. However, Tsumire's reactions to him might mean that she wishes he were something more... Thanks go to tethysdust for the summary.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/megami-no-libra-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="star trek: discovery: succession" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>star trek: discovery: succession</ten_truyen>
-		<ma_truyen>star-trek-discovery-succession</ma_truyen>
-        <tac_gia>Kirsten Beyer, Mike Johnston, Angel Hernandez</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-trek-discovery-succession/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In this, the second Discovery miniseries from IDW Publishing, your favorite characters from the hit CBS All Access series dive into an adventure tied directly into the second half of the first season!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-trek-discovery-succession-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
