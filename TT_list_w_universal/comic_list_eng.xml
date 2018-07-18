@@ -540,6 +540,15 @@
         <gioi_thieu>Victor Stone was once a star athlete and brilliant student with a bright future. But after a tragic accident destroyed over half of his body, Victor was kept alive by merging flesh with advanced technology. Today he is the Justice League co-founder called Cyborg. But is the young hero a man…or a machine that merely believes it's a man?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cyborg-2016-eng.xml</file_xml>
     </truyen>
+	<truyen ten="damage (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>damage (2018)</ten_truyen>
+		<ma_truyen>damage-2018</ma_truyen>
+        <tac_gia>Robert Venditti, Tony Salvador Daniel, Danny Miki, Tomeu Morey</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Ethan 'Elvis' Avery just wanted to serve his country. Instead, he's been changed into a monster! Tasked as the government's own living, breathing, ticking time bomb, Ethan retains no control when the monster takes over. Cheaper than a nuclear warhead and twice as effective, Ethan fights to rein in the damage he unleashes when the beast inside him springs free for one hour a day. With everyone around him in danger, Ethan struggles to contain the DAMAGE he inflicts on the DC Universe.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/damage-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="daredevil (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>daredevil (2016)</ten_truyen>
 		<ma_truyen>daredevil-2016</ma_truyen>
@@ -1232,6 +1241,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2016)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Spinning out of the events of DC UNIVERSE: REBIRTH #1, a new day dawns for Earth's greatest heroes as they welcome three new members to the team, including…Superman? Who is this strange visitor from a dead world—and can he be trusted? Batman and Wonder Woman aren't so sure.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="justice league (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>justice league (2018)</ten_truyen>
+		<ma_truyen>justice-league-2018</ma_truyen>
+        <tac_gia>Scott Snyder, Jim Cheung, Mark Morales</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A brand-new era begins here! Comics legends Scott Snyder and Jim Cheung launch the Justice League into a cosmos-shaking mystery that will draw out their most terrible foes... in ways our heroes couldn't possibly imagine! In this debut issue, Martian Manhunter struggles to protect the team from an incoming threat that will shatter the world as they know it, while a familiar face strikes out on a dark path...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="justice league / power rangers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>justice league / power rangers</ten_truyen>
@@ -2511,6 +2529,15 @@
         <gioi_thieu>The death of a childhood friend sparks a series of events that lead Addison from teenage field hockey player to a murderer of criminals. There's no lack of targets for her in a city built on corruption, but payback doesn't come for free. Addison's reality begins to blur in the pursuit of vengeance and justice is used as justification to become a monster.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/tomboy-eng.xml</file_xml>
     </truyen>
+	<truyen ten="tony stark: iron man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>tony stark: iron man</ten_truyen>
+		<ma_truyen>tony-stark-iron-man</ma_truyen>
+        <tac_gia>Dan Slott, Valerio Schiti, Alexandro Lozano</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/tony-stark-iron-man/1_medium.jpg</hinh_nho>
+        <gioi_thieu>TAKE FLIGHT WITH DAN SLOTT and VALERIO SCHITI! From the cusp of tomorrow's dreams to the forefront of imagination, one man always soars on the cutting edge of adventure! You know his name. Tony Stark is Iron Man. And Iron Man... is an idea. Always changing. Always evolving. An idea without limit! Take wing with DAN SLOTT (AMAZING SPIDER-MAN) and VALERIO SCHITI (GUARDIANS OF THE GALAXY) as they propel the ultimate Self-Made Hero to new heights of inventiveness! Tony Stark is Iron Man. The future is now. Strap in!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/tony-stark-iron-man-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="transformers annual" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>transformers annual</ten_truyen>
 		<ma_truyen>transformers-annual</ma_truyen>
@@ -2774,6 +2801,15 @@ This comic upload for Jitender Kumar via request comic by send email to tttdigit
         <hinh_nho>https://comicbookroundup.com/img/covers/w/wynonna-earp-season-zero/1_medium.jpg</hinh_nho>
         <gioi_thieu>Outlaws. Mavericks. Werewolves. These are The Banditos, the gang Wynonna ran with in her wildest, pre-Black Badge days. Somebody, or something is killing them off, one by one. It's up to Wynonna to return to her roots, and find out why! Telling the never-before-seen story of Wynonna's outlaw past only hinted at on Syfy's Wynonna Earp TV series finally revealed here!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/wynonna-earp-season-zero-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="x-23 (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-23 (2018)</ten_truyen>
+		<ma_truyen>x-23-2018</ma_truyen>
+        <tac_gia>Mariko Tamaki, Juann Cabal, Mike Choi</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Cloned from a warrior, raised as a killer, Laura Kinney has gone through hell and come out the other side a hero. After a stint as the All-New Wolverine, she returns to her roots as X-23 to make sure no one ever has to go through the horrors she did. With her sister Gabby and their pet Jonathan in tow, X-23 forges her own destiny in this new series by Mariko Tamaki (HULK, HUNT FOR WOLVERINE: CLAWS OF A KILLER) and Juann Cabal (ALL-NEW WOLVERINE, ELEKTRA).</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="x-men: blue" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>x-men: blue</ten_truyen>
