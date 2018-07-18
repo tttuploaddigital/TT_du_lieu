@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="ore to kawazu-san no isekai hourouki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Horror, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>ore to kawazu-san no isekai hourouki</ten_truyen>
+		<ma_truyen>ore-to-kawazu-san-no-isekai-hourouki</ma_truyen>
+		<tac_gia>Yoshihara Masahiko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/43468/2/200.jpg</hinh_nho>
+		<gioi_thieu>Hoshino Teru, a mediocre middle school boy has a crush on Amamiya, his childhood friend. However, 'Micchan' stands between them, and brings chaos upon Teru's life.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ore-to-kawazu-san-no-isekai-hourouki-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="black kanojo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>black kanojo</ten_truyen>
+		<ma_truyen>black-kanojo</ma_truyen>
+		<tac_gia>Kuzumochi, Ryuu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27028/2/200.jpg</hinh_nho>
+		<gioi_thieu>Tarou was just an ordinary university student until a strange old magician summoned him to another world. Upon learning that his newly acquired magical power is 8 million (8 million more powerful than an average magician), he uses his abnormally powerful magic to revive the old man that caused all this... in the form of a frog. Thus begin the strange adventures of a boy with ridiculous magical power and Kawazu, the former strongest magician, now revived as a frog.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-kanojo-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="yuureitou" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Ecchi, Gender bender, Horror, Mature, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>yuureitou</ten_truyen>
+		<ma_truyen>yuureitou</ma_truyen>
+		<tac_gia>Nogizaka Tarou</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9062/4/200.jpg</hinh_nho>
+		<gioi_thieu>In the 1950s, an old woman was brutally murdered on the face of a clock tower by her adopted daughter. Two years later, the clock tower is known as the 'ghost tower' and it is supposedly haunted. Through an unusual series of events, a young NEET man named Amano Taichi is attacked by someone or something in the same clock tower, and finds himself bound to the clock face to be killed in the same way as the old woman. Luckily for Amano, he doesn't meet the same fate. He's rescued by a mysterious person who claims his name is Tetsuo. Tetsuo is searching for a treasure that is connected with the ghost tower, and he wants Taichi to be his partner. Taichi, whose life has mostly consisted of poverty, loneliness, and pornography, is enticed by the idea of gaining extreme wealth. He's further convinced when a house fire leaves him without a home and depends on Tetsuo's charity. The adventure is going to be very dangerous, since the same 'enemies' who attacked Taichi before seem certain to try something again! Not to mention, Taichi really knows very little about his new partner.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/yuureitou-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="tsuki tsuki!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Harem, Romance, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>tsuki tsuki!</ten_truyen>
 		<ma_truyen>tsuki-tsuki</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/38842/1/200.jpg</hinh_nho>
 		<gioi_thieu>Yugo Hachiken aspires to live separated from his family, so he takes the initiative by enrolling in an agriculture school. He thinks, with his talent in studying, no problems will arise no matter what kind of school he attends. He is quickly proven wrong. Raised as a city boy, he is forced to uncover the inconvenient truth about agricultural life. Enjoy the story of Hachiken, as he tries to keep up with his new friends, farmers' heirs, who are already accustomed to harsh world of farming. The story of a sweat, tear, and mud-stained youth begins!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/silver-spoon-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ichigo 100%" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ichigo 100%</ten_truyen>
-		<ma_truyen>ichigo-100</ma_truyen>
-		<tac_gia>Kawashita Mizuki</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://i.imgur.com/msPWICD.jpg</hinh_nho>
-		<gioi_thieu>The hero (me, Junpei Manaka!) sneaks up to the roof to see the sunset. When he opens the door, he startles a mysterious beauty. She panics and runs away, but not before Junpei has caught sight of her adorable strawberry print panties... in EXTREME close-up. With that vision forever burned into his memory, Junpei embarks on a quest to find the girl, and the panties, of his dreams!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ichigo-100-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="taboo-tattoo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Ecchi, Martial arts, Mystery, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>taboo-tattoo</ten_truyen>
-		<ma_truyen>taboo-tattoo</ma_truyen>
-		<tac_gia>Shinjirou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9742/2/200.jpg</hinh_nho>
-		<gioi_thieu>Seigi, a martial arts trained middle schooler, often feels driven to protect the weaker people around him. One day, he defends a homeless man against some punks, and the man gives him a strange tattoo on his palm in return. The tattoo is a secret weapon produced in the arms race between America and the Serinistan Kingdom. Seigi finds himself in over his head when a powerful girl, using the same secret weapon, violently pursues him in order to retrieve it. His skill at martial arts may not be enough to keep him alive, but will he be able to learn how to trigger the power of his tattoo in time?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/taboo-tattoo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="onideka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>onideka</ten_truyen>
-		<ma_truyen>onideka</ma_truyen>
-		<tac_gia>Yatera Keita</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43458/2/200.jpg</hinh_nho>
-		<gioi_thieu>Kiryuin Hanasei is the idol of her school. But when she suddenly becomes a giantess, she is forced to return to her old ways in order to protect her city.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onideka-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

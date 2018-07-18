@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="ore to kawazu-san no isekai hourouki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Horror, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>ore to kawazu-san no isekai hourouki</ten_truyen>
+		<ma_truyen>ore-to-kawazu-san-no-isekai-hourouki</ma_truyen>
+		<tac_gia>Yoshihara Masahiko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/43468/2/200.jpg</hinh_nho>
+		<gioi_thieu>Hoshino Teru, a mediocre middle school boy has a crush on Amamiya, his childhood friend. However, 'Micchan' stands between them, and brings chaos upon Teru's life.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ore-to-kawazu-san-no-isekai-hourouki-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="black kanojo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>black kanojo</ten_truyen>
+		<ma_truyen>black-kanojo</ma_truyen>
+		<tac_gia>Kuzumochi, Ryuu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27028/2/200.jpg</hinh_nho>
+		<gioi_thieu>Tarou was just an ordinary university student until a strange old magician summoned him to another world. Upon learning that his newly acquired magical power is 8 million (8 million more powerful than an average magician), he uses his abnormally powerful magic to revive the old man that caused all this... in the form of a frog. Thus begin the strange adventures of a boy with ridiculous magical power and Kawazu, the former strongest magician, now revived as a frog.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-kanojo-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="yuureitou" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Ecchi, Gender bender, Horror, Mature, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>yuureitou</ten_truyen>
+		<ma_truyen>yuureitou</ma_truyen>
+		<tac_gia>Nogizaka Tarou</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9062/4/200.jpg</hinh_nho>
+		<gioi_thieu>In the 1950s, an old woman was brutally murdered on the face of a clock tower by her adopted daughter. Two years later, the clock tower is known as the 'ghost tower' and it is supposedly haunted. Through an unusual series of events, a young NEET man named Amano Taichi is attacked by someone or something in the same clock tower, and finds himself bound to the clock face to be killed in the same way as the old woman. Luckily for Amano, he doesn't meet the same fate. He's rescued by a mysterious person who claims his name is Tetsuo. Tetsuo is searching for a treasure that is connected with the ghost tower, and he wants Taichi to be his partner. Taichi, whose life has mostly consisted of poverty, loneliness, and pornography, is enticed by the idea of gaining extreme wealth. He's further convinced when a house fire leaves him without a home and depends on Tetsuo's charity. The adventure is going to be very dangerous, since the same 'enemies' who attacked Taichi before seem certain to try something again! Not to mention, Taichi really knows very little about his new partner.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/yuureitou-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="the amazing spider-man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
 		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/e/exlibrium/1_medium.jpg</hinh_nho>
         <gioi_thieu>...And the door will open. 'Exlibrium' (from the Latin 'ex libris', 'of the books' and 'equilibrium', 'balance') - a magic seal that helps the mysterious order of sorcerers to guard the border between the real world and the world of fiction. For many centuries members of the order have been successfully preventing creatures from the works of art and lliterature from escaping into our world. But sometimes the order fails to do so and some of those characters manage to break the walls between realities...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/exlibrium-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="dark ark" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>dark ark</ten_truyen>
-		<ma_truyen>dark ark</ma_truyen>
-        <tac_gia>Cullen Bunn, Juan Doe, Ryane Hill</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dark-ark/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The wickedness of mankind has moved the Creator to destroy the world by way of the flood. Noah has been tasked with building an ark to save his family and the animals of the world. But this is not Noah's story. For darker powers have commanded the sorcerer Shrae to build his own ark and save the unnatural creatures of the world-such as the vampires, the dragons, the naga, and the manticore. But what will happen on a vessel crawling with monsters, where insidious intrigue and horrific violence are the rule of law?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dark-ark-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="throwaways" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Life sucks" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>throwaways</ten_truyen>
-		<ma_truyen>throwaways</ma_truyen>
-        <tac_gia>Caitlin Kittredge, Maiko Kuzunishi</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/throwaways/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Abby Palmer and Dean Logan are two broken people-Abby a vet with severe PTSD and Dean a burnout trying to escape the shadow of his infamous father-when they are thrust into a modern-day MK-ULTRA conspiracy... and discover they are both ULTRA's human experiments.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/throwaways-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="incognegro: renaissance" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Literature" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>incognegro: renaissance</ten_truyen>
-		<ma_truyen>incognegro-renaissance</ma_truyen>
-        <tac_gia>Mat Johnson, Warren Pleece</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/incognegro-renaissance/1_medium.jpg</hinh_nho>
-        <gioi_thieu>After a black writer is found dead at a scandalous interracial party in 1920s New York, Harlem's cub reporter Zane Pinchback is the only one determined to solve the murder. Zane must go 'incognegro' for the first time--using his light appearance to pass as a white man--to find the true killer, in this prequel miniseries to the critically acclaimed Vertigo graphic novel, now available in a special new 10th Anniversary Edition. With a cryptic manuscript as his only clue, and a mysterious and beautiful woman as the murder's only witness, Zane finds himself on the hunt through the dark and dangerous streets of 'roaring twenties' Harlem in search for justice. A page-turning thriller of racial divide, Incognegro: Renaissance explores segregation, secrets, and self-image as our race-bending protagonist penetrates a world where he feels stranger than ever before.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/incognegro-renaissance-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
