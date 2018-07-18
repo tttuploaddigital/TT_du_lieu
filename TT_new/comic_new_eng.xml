@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="transformers: unicron" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>transformers: unicron</ten_truyen>
+		<ma_truyen>transformers-unicron</ma_truyen>
+        <tac_gia>John Barber, Alex Milne</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-unicron/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Not a whimper, nor a bang--the end comes with a squall of entropy shrieking from the ravenous maw of death itself. The message is clear: Unicron has arrived. The Transformers lock into a desperate bid to save Rom's homeworld from the world-killer--but why has Unicron chosen this world on his path to Cybertron... and Earth? The biggest story in the history of Transformers starts now: for Unicron's arrival can mean nothing less than the end of a universe.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-unicron-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="transformers: lost light" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>transformers: lost light</ten_truyen>
+		<ma_truyen>transformers-lost-light</ma_truyen>
+        <tac_gia>James Roberts, Jack Lawrence</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-lost-light/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Five years ago, Rodimus and a collection of traumatised, lovelorn and/or sarcastic Autobots set off on a quest to find Cyberutopia. So far, they've made a right hash of it. They've misplaced their map. They've lost their ship, the Lost Light, to a mutinous escapologist. Oh, and they're dead.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-lost-light-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="pathfinder: spiral of bones" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>pathfinder: spiral of bones</ten_truyen>
+		<ma_truyen>pathfinder-spiral-of-bones</ma_truyen>
+        <tac_gia>Crystal Frasier, Rob McCreary, Diego Galindo, Tom Garcia</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/pathfinder-spiral-of-bones/1_medium.jpg</hinh_nho>
+        <gioi_thieu>As the Pathfinder plunge into the history and mysteries below Kaer Maga-the no-holds-barred 'City of Strangers'-Valeros plunges far deeper into the great beyond, defending his immortal soul in the courts of the dead! From Pathfinder author Crystal Frasier comes this scintillating tale of life, death, and what lingers when we're gone. Bonus: Starfinder backup story! Thousands of years in Pathfinder's future, the Starfinder Society spreads adventure across the solar system!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pathfinder-spiral-of-bones-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="weird love" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Romance" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>weird love</ten_truyen>
+		<ma_truyen>weird-love</ma_truyen>
+        <tac_gia>Various, Vinnie Colletta, Jose Luis Garcia-Lopez, Norman Nodel, Al Tewks, Ogden Whitney, Joe Gill</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/weird-love/1_medium.jpg</hinh_nho>
+        <gioi_thieu>From the people that bring you the acclaimed Haunted Horror comic comes a horror like no other... WEIRD Love! WEIRD Love presents the most sexy, bizarro, sick, twisted, politically incorrect, kinky 'romance' comics of the 1950s and beyond. No wonder the censors wanted this stuff banned! Sure to be must-have big-buzz comics!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weird-love-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="the unexpected" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the unexpected</ten_truyen>
 		<ma_truyen>the-unexpected</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-curse-of-brimstone/1_medium.jpg</hinh_nho>
         <gioi_thieu>Joe Chamberlain would do anything to save his small, forgotten town-even make a deal with the devil. But things get worse, and Joe finds himself cursed with the power of BRIMSTONE. With the power of fire and destruction coursing through his hands, Joe must now track down and destroy the demon he made his deal with before the power he now wields destroys the town he was trying to save.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-curse-of-brimstone-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="cloak and dagger (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>cloak and dagger (2018)</ten_truyen>
-		<ma_truyen>cloak-and-dagger-2018</ma_truyen>
-        <tac_gia>Dennis Hopeless, David Messina</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/cloak-and-dagger-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>For years, Tyrone Johnson and Tandy Bowen were the super hero duo called CLOAK AND DAGGER - waging a citywide war on drugs, organized crime and corporate greed. In recent years, their crusade has taken them across the globe, fighting alongside Spider-Man, The X-Men and even The Avengers, and though they've drifted apart, a dangerous threat from their past has resurfaced - one that will force Cloak and Dagger to reunite and come to terms with their truest feelings for one another and the past they share!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cloak-and-dagger-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="halo: collateral damage" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>halo: collateral damage</ten_truyen>
-		<ma_truyen>halo-collateral-damage</ma_truyen>
-        <tac_gia>Alex Irvine, Dave Crosland, Leionard O'Grady</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/halo-collateral-damage/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Master Chief and Blue Team are deployed by the UNSC to Alpha Corvi II, a precarious human colony world, seeking to halt the Covenant's efforts to uncover something hidden below the planet's surface. The Spartan strike team quickly finds out that they will have to rely on each other and a small cadre of human rebels in order to survive and complete their mission.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/halo-collateral-damage-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="kiss/army of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Movies - tv, Music" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>kiss/army of darkness</ten_truyen>
-		<ma_truyen>kiss-army-of-darkness</ma_truyen>
-        <tac_gia>Chad Bowers, Chris Sims, Ruairi Coleman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/k/kissarmy-of-darkness/1_medium.jpg</hinh_nho>
-        <gioi_thieu>KISS is on top of the world and rocking faces until the night disciples of The Destroyer show up and the band disappears. With the tour canceled, a young Ash misses one of the most important events of his life that will change his destiny. Now the Chosen One has to get back on the right path and join the KISS ARMY OF DARKNESS!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kiss-army-of-darkness-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="world of tanks: citadel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>world of tanks: citadel</ten_truyen>
-		<ma_truyen>world-of-tanks-citadel</ma_truyen>
-        <tac_gia>Garth Ennis, PJ Holden</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/world-of-tanks-citadel/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Eastern Front, 1943: as the cataclysmic Battle of Kursk looms large, Captain Piotr Piotrowicz and his driver, Natalya 'Ginger' Pulkhova, prepare their unit for action- equipped with the worst tanks in the Russian inventory. On the opposite side, German tankers Karl Kraft and Freddie Stadler brace for the onslaught-well aware that failure here will put their Soviet enemy on the road to Berlin. Garth Ennis and PJ Holden present a second action-packed story of armored warfare, inspired by the phenomenally popular game World of Tanks.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/world-of-tanks-citadel-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

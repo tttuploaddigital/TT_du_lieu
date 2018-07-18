@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="transformers: unicron" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>transformers: unicron</ten_truyen>
+		<ma_truyen>transformers-unicron</ma_truyen>
+        <tac_gia>John Barber, Alex Milne</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-unicron/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Not a whimper, nor a bang--the end comes with a squall of entropy shrieking from the ravenous maw of death itself. The message is clear: Unicron has arrived. The Transformers lock into a desperate bid to save Rom's homeworld from the world-killer--but why has Unicron chosen this world on his path to Cybertron... and Earth? The biggest story in the history of Transformers starts now: for Unicron's arrival can mean nothing less than the end of a universe.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-unicron-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="transformers: lost light" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>transformers: lost light</ten_truyen>
+		<ma_truyen>transformers-lost-light</ma_truyen>
+        <tac_gia>James Roberts, Jack Lawrence</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-lost-light/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Five years ago, Rodimus and a collection of traumatised, lovelorn and/or sarcastic Autobots set off on a quest to find Cyberutopia. So far, they've made a right hash of it. They've misplaced their map. They've lost their ship, the Lost Light, to a mutinous escapologist. Oh, and they're dead.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-lost-light-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="pathfinder: spiral of bones" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>pathfinder: spiral of bones</ten_truyen>
+		<ma_truyen>pathfinder-spiral-of-bones</ma_truyen>
+        <tac_gia>Crystal Frasier, Rob McCreary, Diego Galindo, Tom Garcia</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/pathfinder-spiral-of-bones/1_medium.jpg</hinh_nho>
+        <gioi_thieu>As the Pathfinder plunge into the history and mysteries below Kaer Maga-the no-holds-barred 'City of Strangers'-Valeros plunges far deeper into the great beyond, defending his immortal soul in the courts of the dead! From Pathfinder author Crystal Frasier comes this scintillating tale of life, death, and what lingers when we're gone. Bonus: Starfinder backup story! Thousands of years in Pathfinder's future, the Starfinder Society spreads adventure across the solar system!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pathfinder-spiral-of-bones-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="weird love" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Romance" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>weird love</ten_truyen>
+		<ma_truyen>weird-love</ma_truyen>
+        <tac_gia>Various, Vinnie Colletta, Jose Luis Garcia-Lopez, Norman Nodel, Al Tewks, Ogden Whitney, Joe Gill</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/weird-love/1_medium.jpg</hinh_nho>
+        <gioi_thieu>From the people that bring you the acclaimed Haunted Horror comic comes a horror like no other... WEIRD Love! WEIRD Love presents the most sexy, bizarro, sick, twisted, politically incorrect, kinky 'romance' comics of the 1950s and beyond. No wonder the censors wanted this stuff banned! Sure to be must-have big-buzz comics!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weird-love-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="tsuki tsuki!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Harem, Romance, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>tsuki tsuki!</ten_truyen>
 		<ma_truyen>tsuki-tsuki</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/star-trek-discovery-succession/1_medium.jpg</hinh_nho>
         <gioi_thieu>In this, the second Discovery miniseries from IDW Publishing, your favorite characters from the hit CBS All Access series dive into an adventure tied directly into the second half of the first season!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-trek-discovery-succession-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="ghostbusters: crossing over" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Horror, Movies - tv, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>ghostbusters: crossing over</ten_truyen>
-		<ma_truyen>ghostbusters-crossing-over</ma_truyen>
-        <tac_gia>Erik Burnham, Dan Schoening</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/ghostbusters-crossing-over/1_medium.jpg</hinh_nho>
-        <gioi_thieu>For a while now, the original Ghostbusters have had access to an interdimensional portal that has given them all-new ways to research the paranormal and consult with Ghostbusters throughout the multiverse... but they haven't shared this tech with any of those other Ghostbusters, and some don't think that's fair. That's why, after a chance meeting, Jillian Holtzmann and Ron Alexander have decided to right this wrong and cobble together their own working portal... which unintentionally unleashes the contents of the Ghostbusters' Containment Unit! That's a lot of ghosts, and it's going to take a lot of Ghostbusters to recapture them. In fact, it's going to take ALL of them. Crossing Over starts here!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ghostbusters-crossing-over-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="paradiso" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>paradiso</ten_truyen>
-		<ma_truyen>paradiso</ma_truyen>
-        <tac_gia>Ram V, Dearbhla Kelly, Dev Pramanik, Christian Ward</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/paradiso/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Midnight Event forever changed the world. Now, centuries later, Jack Kryznan arrives on the outskirts of Paradiso City, haunted by fragments of childhood memories and in possession of a mysterious device one with the power to change the destiny of this living breathing metropolis, the people who dwell within, and the guardians who strive for and against it.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/paradiso-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="prism stalker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>prism stalker</ten_truyen>
-		<ma_truyen>prism-stalker</ma_truyen>
-        <tac_gia>Sloane Long, Darius Ou</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/prism-stalker/1_medium.jpg</hinh_nho>
-        <gioi_thieu>For fans of Octavia Butler, Sailor Moon, and the biopunk horror of David Cronenberg comes PRISM STALKER, an ongoing sci-fi adventure series by SLOANE LEONG. Vep is a young refugee raised away from her devastated home planet as an indentured citizen in a foreign colony. She works tirelessly for her insectoid hosts, but there is no exit in sight in this viscous, dripping citynest. The eye of opportunity is closing. Her duty is to her family and her siblings, but what more can she do for them here? The answer appears faster than she is ready for.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/prism-stalker-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the last siege" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Fantasy, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the last siege</ten_truyen>
-		<ma_truyen>the-last-siege</ma_truyen>
-        <tac_gia>Landry Q. Walker, Justin Greenwood, Nick Dragotta</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-last-siege/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A tale of blood, desperation, and loss. New York Times bestselling author LANDRY Q. WALKER joins artist JUSTIN GREENWOOD for an all-new ONGOING SERIES-THE LAST SIEGE! Spaghetti Western storytelling meets Game of Thrones atmosphere in this gritty medieval war story, as a mysterious stranger arrives at a castle overrun with brutal soldiers bent on usurping the throne of the rightful heir-an 11-year-old girl. An action-packed, genre-twisting epic, THE LAST SIEGE begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-last-siege-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
