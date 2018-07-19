@@ -1971,6 +1971,15 @@
         <gioi_thieu>YOUR FRIENDLY NEIGHBORHOOD SPIDER-MAN SWINGS INTO THE MCU! PETER PARKER is just your average, nerdy, tech-loving teenager…until an unexpected turn of events lands him with the power to cling to walls and the proportionate strength of a spider! SPIDER-MAN's foray into the Marvel Cinematic Universe begins here, with part one of an adaptation of the blockbuster Marvel's Captain America: Civil War, which sees a rift between CAPTAIN AMERICA and IRON MAN rend a schism between the Avengers…with Spider-Man in the middle of it all!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/spider-man-homecoming-prelude-eng.xml</file_xml>
     </truyen>
+	<truyen ten="spidey: school's out" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>spidey: school's out</ten_truyen>
+		<ma_truyen>spidey-school-s-out</ma_truyen>
+        <tac_gia>John Barber, Todd Nauck, Rachelle Rosenberg</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/spidey-schools-out/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Peter Parker just survived his first year as the Amazing Spider-Man AND a year of high school! What is he going to do next? He's going to Stark science camp! A week indoors with the coolest technology in the world is a dream come true for Peter--and a bonanza for one Spider-foe who's seriously upgraded his arsenal. Can Spider-Man keep the camp safe, and keep his identity secret from his first dorm mate, while Peter Parker makes new friends and finishes his project on time?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spidey-school-s-out-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="stained" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Mecha, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>stained</ten_truyen>
 		<ma_truyen>stained</ma_truyen>
@@ -2349,6 +2358,15 @@
         <gioi_thieu>A tale of blood, desperation, and loss. New York Times bestselling author LANDRY Q. WALKER joins artist JUSTIN GREENWOOD for an all-new ONGOING SERIES-THE LAST SIEGE! Spaghetti Western storytelling meets Game of Thrones atmosphere in this gritty medieval war story, as a mysterious stranger arrives at a castle overrun with brutal soldiers bent on usurping the throne of the rightful heir-an 11-year-old girl. An action-packed, genre-twisting epic, THE LAST SIEGE begins!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-last-siege-eng.xml</file_xml>
     </truyen>
+	<truyen ten="the life of captain marvel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the life of captain marvel</ten_truyen>
+		<ma_truyen>the-life-of-captain-marvel</ma_truyen>
+        <tac_gia>Margaret Stohl, Carlos Pacheco, Rafael Fonteriz</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-life-of-captain-marvel/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE DEFINITIVE ORIGIN OF CAPTAIN MARVEL! Carol Danvers was just a girl from the Boston suburbs who loved science and the Red Sox until a chance encounter with a Kree hero gave her incredible super-powers. Now, she's a leader in the Avengers and the commander of Alpha Flight. But what if there were more to the story? When crippling anxiety attacks put her on the sidelines in the middle of a fight, Carol finds herself reliving memories of a life she thought was far behind her. You can't outrun where you're from - and sometimes, you HAVE to go home again. But there are skeletons in Captain Marvel's closet - and what she discovers will change her entire world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-life-of-captain-marvel-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="the magic order" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the magic order</ten_truyen>
 		<ma_truyen>the-magic-order</ma_truyen>
@@ -2510,6 +2528,15 @@
         <hinh_nho>https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Thief_of_Thieves.jpg/200px-Thief_of_Thieves.jpg</hinh_nho>
         <gioi_thieu>Conrad Paulson lives a secret double life as master thief Redmond. There is nothing he can't steal, nothing he can't have... except for the life he left behind. Now, with a grown son he hardly knows, and an ex-wife he never stopped loving, Conrad must try to piece together what's left of his life, before the FBI finally catch up to him... but it appears they are the least of his worries.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thief-of-thieves-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="thor (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>thor (2018)</ten_truyen>
+		<ma_truyen>thor-2018</ma_truyen>
+        <tac_gia>Jason Aaron, Mike Del Mundo, Christian Ward</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Thor Odinson has regained his mantle - and with it, a wild new world of trouble on his mighty hands! The artifacts of Asgard have been scattered across the earth, and to reclaim them, Thor will have to face some ugly truths. Like the production cost of hundreds of new hammers! And the Thunder God is going to need every last one of them if he's going to stop the unstoppable Juggernaut.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thor-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="thor vs. hulk: champions of the universe" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>thor vs. hulk: champions of the universe</ten_truyen>
@@ -2762,6 +2789,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/w/wayward/1_medium.jpg</hinh_nho>
         <gioi_thieu>Rori Lane is trying to start a new life when she reunites with her mother in Japan, but ancient creatures lurking in the shadows of Tokyo sense something hidden deep within her, threatening everything she holds dear. Can Rori unlock the secrets of her power before it's too late?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wayward-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="weapon h" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>weapon h</ten_truyen>
+		<ma_truyen>weapon-h</ma_truyen>
+        <tac_gia>Greg Pak, Cory Smith, Leinil Francis Yu</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-h/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Weapon X Program has done it again! At the cost of their own destruction, they've completed their biggest and possibly most dangerous experiment yet... With the strength of the Hulk and the rage and claws of Wolverine comes WEAPON H! It's been some time since Weapon H escaped and destroyed his creators. Now, our hero is on the run, as he tries to escape his mysterious past and seclude himself from the rest of society. But when a new kind of Wendigo threatens the lives of others, will Weapon H be able to shirk his responsibility? Does any of his humanity remain?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weapon-h-eng.xml</file_xml>
     </truyen>
 	<truyen ten="weapon x (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>weapon x (2017)</ten_truyen>
