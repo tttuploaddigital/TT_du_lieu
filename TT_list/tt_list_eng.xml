@@ -1005,6 +1005,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>Black Panther, Storm, Luke Cage, Misty Knight and Manifold band together to take on a dangerous wave of street-level threats in this new ongoing series by co-writers Ta-Nehisi Coates (New York Times best-selling author of Between the World and Me and Marvel's Black Panther) and Yona Harvey (Black Panther: World of Wakanda) and legendary artist Butch Guice! The death of a Harlem activist kicks off a mystery that will reveal surprising new secrets about the Marvel Universe's past and set the stage for a big story in the Marvel Universe's near future. Fear, hate and violence loom, but don't worry, The Crew's got this: 'We are the streets.'</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/black-panther-and-the-crew-eng.xml</file_xml>
     </truyen>
+	<truyen ten="blackwood" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Fantasy, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>blackwood</ten_truyen>
+		<ma_truyen>blackwood</ma_truyen>
+        <tac_gia>Evan Dorkin, Veronica Fish</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/blackwood/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When four teenagers with haunted pasts enroll in Blackwood College--a school that trains students in the occult--their desire to enhance their supernatural abilities and bond with others is hampered by an undead dean's curse, ghosts in their dorm, a mischievous two-headed mummy-chimp, a plague of mutant insects, and the discovery of an ancient evil that forces our heroes to undergo a crash course in the occult for the sake of the world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/blackwood-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="blast" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>blast</ten_truyen>
 		<ma_truyen>blast</ma_truyen>
@@ -1863,6 +1872,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 *****</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/detective-conan-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="deuce of hearts" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>deuce of hearts</ten_truyen>
+		<ma_truyen>deuce-of-hearts</ma_truyen>
+        <tac_gia>Ricardo Mo, Tony Gregori, Claudia Aguirre</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deuce-of-hearts/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sullivan Husk's life changed the day he was introduced to the Heartbreakr app and the notion that love is just another tradeable commodity. What started as a Faustian bargain to restore the good health of a dying man has become a collector's habit. But all the upgrades the app has to offer might not be enough to save Sully from this latest upset spouse.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deuce-of-hearts-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="devil's bride" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Historical, Romance, Supernatural, Yaoi" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>devil's bride</ten_truyen>
 		<ma_truyen>devil-s-bride</ma_truyen>
@@ -1925,6 +1943,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <hinh_nho>https://comicbookroundup.com/img/covers/d/doctor-strange/1_medium.jpg</hinh_nho>
         <gioi_thieu>Who do you call when things are coming out of your dreams and trying to kill you? Or when your daughter is cursing in Latin and walking like a spider? Or when your dog keeps screaming at you to strangle your neighbors? of course. He's the only person standing between us and the forces of darkness, but has he been paying his tab? Every act of magic has a cost and Jason Aaron (THOR, ORIGINAL SIN) and Chris Bachalo (UNCANNY X-MEN) are going to put Stephen Strange through hell to even the scales.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doctor-strange-2015-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dodge city" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dodge city</ten_truyen>
+		<ma_truyen>dodge-city</ma_truyen>
+        <tac_gia>Josh Trujillo, Cara McGee</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dodge-city/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Josh Trujillo (Adventure Time) and Cara McGee (Over the Garden Wall) team up for a new series about the high-energy chaos of competitive dodgeball! Tomas is the new captain of the Jazz Pandas dodgeball team, and he's got a certain knack for keeping an eye on on the ball (or several!). However, he's untested and still not quite part of the team. If the disorganized Jazz Pandas want to make it to summer regional championships they'll have to pull together under Tomas leadership.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dodge-city-eng.xml</file_xml>
     </truyen>
 	<truyen ten="dokgo  " tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, School life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>dokgo  </ten_truyen>
@@ -4376,6 +4403,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <hinh_nho>https://comicbookroundup.com/img/covers/m/moon-girl-and-devil-dinosaur/1_medium.jpg</hinh_nho>
         <gioi_thieu>UNELLA LAFAYETTE is a preteen super genius who wants to change the world-but learned the hard way that it takes MORE than just big brains. Fearful of the monstrous INHUMAN genes inside her, life is turned upside down when a savage, red-scaled tyrant is teleported from prehistoric past to a far-flung future we call TODAY. The pair are many things, and together the most amazing Marvel Team-Up. MARVEL PRESENTS... MOON GIRL AND DEVIL DINOSAUR!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/moon-girl-and-devil-dinosaur-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="motherlands" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>motherlands</ten_truyen>
+		<ma_truyen>motherlands</ma_truyen>
+        <tac_gia>Simon Spurrier, Rachael Stott</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/motherlands/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In a crazed future where unhinged technologies and interconnected parallel Earths have given rise to a spectacular class of super-criminal, the most beloved celebrities aren't actors or rock stars, but the bounty hunters who traverse an exotic multiverse in search of impossible prey! But when the spotlight-shunning, strait-laced tracer known as Tab finds herself in an ultra-violent race for her greatest prize yet, she's forced to work with her greatest enemy, the only person capable of IDing him: her own elderly, overbearing and hypercritical mother, who was once the most fabulous and celebrated bounty hunter of them all.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/motherlands-eng.xml</file_xml>
     </truyen>
 	<truyen ten="mowang yu yongzhe yu sheng jian shendian" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>mowang yu yongzhe yu sheng jian shendian</ten_truyen>
