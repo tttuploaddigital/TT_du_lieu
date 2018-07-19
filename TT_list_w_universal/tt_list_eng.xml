@@ -1851,6 +1851,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>Teru, a poor and kind girl, recently lost her older brother, her only remaining relative. Before he died, he gave her a cell phone connecting her to a person he said would support her if ever he were unable to. As time passes she is cheered on by text messages sent from this enigmatic person, known only as DAISY. But one day, through an unexpected incident as Teru begins working for the delinquent school janitor, Kurosaki, she starts to question DAISY's identity. DAISY may be closer to Teru than she thinks...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/dengeki-daisy-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="descender" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>descender</ten_truyen>
+		<ma_truyen>descender</ma_truyen>
+        <tac_gia>Jeff Lemire, Dustin Nguyen</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/descender/1_medium.jpg</hinh_nho>
+        <gioi_thieu>One young robot's struggle to stay alive in a universe where all androids have been outlawed and bounty hunters lurk on every planet. A rip-roaring and heart-felt cosmic odyssey that pits humanity against machine, and world against world, to create a sprawling space opera from the creators of Trillium, Sweet Tooth, and Little Gotham.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/descender-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="desolate era" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>desolate era</ten_truyen>
 		<ma_truyen>desolate-era</ma_truyen>
@@ -2664,6 +2673,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>The Vegas strip heats up as Cassie Hack and her companion Vlad are on the trail of a deadly slasher and meet the lovely, yet deadly Vampirella. The team-up event you've been waiting for is a high stakes game of chance when they have to take on The Queen of Hearts!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hack-slash-vs-vampirella-eng.xml</file_xml>
     </truyen>
+	<truyen ten="hack/slash: resurrection" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hack/slash: resurrection</ten_truyen>
+		<ma_truyen>hack-slash-resurrection</ma_truyen>
+        <tac_gia>Tini Howard, Celor, K. Michael Russell, Tim Seeley</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hackslash-resurrection/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The fan-favorite title returns with hot new writer, TINI HOWARD! Cassie Hack has been living off the grid, but when a new monstrous threat arises to torment promiscuous teens, it's time for Cassie to pick up the baseball bat once again! Gory, sexy, twisted, and funny... HACK IS BACK!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hack-slash-resurrection-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="haikyuu!!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>haikyuu!!</ten_truyen>
 		<ma_truyen>haikyuu</ma_truyen>
@@ -2754,15 +2772,6 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>Koharu, tired of all the men in her life being lying, married philanderers, decides to move back home, away from the city. Once there she finds her family saddled with a huge debt and no way out, until a handsome but creepy stranger offers to pay the debt, at the same time asking her to marry him. But, as if things weren't crazy enough, he already has two wives!</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hare-kon-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="haru-nee ga boku ni xx suru riyuu" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Harem, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>haru-nee ga boku ni xx suru riyuu</ten_truyen>
-		<ma_truyen>haru-nee-ga-boku-ni-xx-suru-riyuu</ma_truyen>
-		<tac_gia>Ohmi Takeshi</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/22828/2/200.jpg</hinh_nho>
-		<gioi_thieu>When Hideto, a high-school student who is afraid of women, is suddenly targeted by a beautiful older woman whom he believes to be a molester, he runs for his life. Mid-pursuit, he is attacked by what he previously believed to be an illusion, a blur that nobody else could see.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/haru-nee-ga-boku-ni-xx-suru-riyuu-eng.xml</file_xml>
-	</truyen>
 	<truyen ten="harley and ivy meet betty and veronica" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Crossover, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>harley and ivy meet betty and veronica</ten_truyen>
 		<ma_truyen>harley-and-ivy-meet-betty-and-veronica</ma_truyen>
@@ -2781,6 +2790,24 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>Harley's entire story, from her origins to her most recent comic arcs, are delivered in such a way that the reader is lucky to understand half the characters that make appearances in the book. While the introductions are meant to be as fun as possible, with Harley's commentary on each of her newfound family members, there's just not enough time or reason for them to be introduced all at once as they are. After all, most of them disappear once the zombies show up.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
     </truyen>
+	<truyen ten="harrow county" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Graphic novels, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>harrow county</ten_truyen>
+		<ma_truyen>harrow-county</ma_truyen>
+        <tac_gia>Cullen Bunn, Owen Gieni, Tyler Crook</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/harrow-county/1_medium.jpg</hinh_nho>
+        <gioi_thieu>This town will make your skin crawl! Emmy always knew that the deep, dark woods surrounding her home crawled with ghosts, goblins, and zombies. But on the eve of her eighteenth birthday, she learns that she is connected to these creatures-and to the land itself-in a way she never imagined.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harrow-county-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="haru-nee ga boku ni xx suru riyuu" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Harem, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>haru-nee ga boku ni xx suru riyuu</ten_truyen>
+		<ma_truyen>haru-nee-ga-boku-ni-xx-suru-riyuu</ma_truyen>
+		<tac_gia>Ohmi Takeshi</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/22828/2/200.jpg</hinh_nho>
+		<gioi_thieu>When Hideto, a high-school student who is afraid of women, is suddenly targeted by a beautiful older woman whom he believes to be a molester, he runs for his life. Mid-pursuit, he is attacked by what he previously believed to be an illusion, a blur that nobody else could see.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/haru-nee-ga-boku-ni-xx-suru-riyuu-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="hatsukoi zombie" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Gender bender, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>hatsukoi zombie</ten_truyen>
 		<ma_truyen>hatsukoi-zombie</ma_truyen>
@@ -4032,6 +4059,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>Irresistible lure that leads him to his enemy's heart. The one who contributed the most to establishment of a new dynasty, he is 'Igen' the bloody tyrant. His cruelty, which the world fears, drive him to massacre the Azukun clan for revenge from several years ago. The only survivor from a clan that suddenly became a traitor overnight is 'Kasan' and he curses himself for surviving. He becomes a bath servant for Igen without knowing that Igen was one who orchestrated his family's massacre. Kasan slowly falls into unknown attractiveness from Igen, who he thought to be cold and distant.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/lueduo-diren-de-xin-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="lucy dreaming" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>lucy dreaming</ten_truyen>
+		<ma_truyen>lucy-dreaming</ma_truyen>
+        <tac_gia>Max Bemis, Michael Dialynas</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/l/lucy-dreaming/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Max Bemis (Moon Knight writer and lead singer of Say Anything) and Michael Dialynas (The Woods) present a sweeping, coming-of-age fantasy about living your dreams-literally. In her dreams, Lucy is the hero of all her favorite stories, living each night as a grand adventure. These journeys will teach her more about herself and the real world around her than she ever expected.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/lucy-dreaming-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="luke cage (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>luke cage (2017)</ten_truyen>
 		<ma_truyen>luke-cage-2017</ma_truyen>
