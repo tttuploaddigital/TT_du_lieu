@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="spidey: school's out" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>spidey: school's out</ten_truyen>
+		<ma_truyen>spidey-school-s-out</ma_truyen>
+        <tac_gia>John Barber, Todd Nauck, Rachelle Rosenberg</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/spidey-schools-out/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Peter Parker just survived his first year as the Amazing Spider-Man AND a year of high school! What is he going to do next? He's going to Stark science camp! A week indoors with the coolest technology in the world is a dream come true for Peter--and a bonanza for one Spider-foe who's seriously upgraded his arsenal. Can Spider-Man keep the camp safe, and keep his identity secret from his first dorm mate, while Peter Parker makes new friends and finishes his project on time?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spidey-school-s-out-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the life of captain marvel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the life of captain marvel</ten_truyen>
+		<ma_truyen>the-life-of-captain-marvel</ma_truyen>
+        <tac_gia>Margaret Stohl, Carlos Pacheco, Rafael Fonteriz</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-life-of-captain-marvel/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE DEFINITIVE ORIGIN OF CAPTAIN MARVEL! Carol Danvers was just a girl from the Boston suburbs who loved science and the Red Sox until a chance encounter with a Kree hero gave her incredible super-powers. Now, she's a leader in the Avengers and the commander of Alpha Flight. But what if there were more to the story? When crippling anxiety attacks put her on the sidelines in the middle of a fight, Carol finds herself reliving memories of a life she thought was far behind her. You can't outrun where you're from - and sometimes, you HAVE to go home again. But there are skeletons in Captain Marvel's closet - and what she discovers will change her entire world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-life-of-captain-marvel-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="thor (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>thor (2018)</ten_truyen>
+		<ma_truyen>thor-2018</ma_truyen>
+        <tac_gia>Jason Aaron, Mike Del Mundo, Christian Ward</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Thor Odinson has regained his mantle - and with it, a wild new world of trouble on his mighty hands! The artifacts of Asgard have been scattered across the earth, and to reclaim them, Thor will have to face some ugly truths. Like the production cost of hundreds of new hammers! And the Thunder God is going to need every last one of them if he's going to stop the unstoppable Juggernaut.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thor-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="weapon h" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>weapon h</ten_truyen>
+		<ma_truyen>weapon-h</ma_truyen>
+        <tac_gia>Greg Pak, Cory Smith, Leinil Francis Yu</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-h/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Weapon X Program has done it again! At the cost of their own destruction, they've completed their biggest and possibly most dangerous experiment yet... With the strength of the Hulk and the rage and claws of Wolverine comes WEAPON H! It's been some time since Weapon H escaped and destroyed his creators. Now, our hero is on the run, as he tries to escape his mysterious past and seclude himself from the rest of society. But when a new kind of Wendigo threatens the lives of others, will Weapon H be able to shirk his responsibility? Does any of his humanity remain?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weapon-h-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="the weatherman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the weatherman</ten_truyen>
 		<ma_truyen>the-weatherman</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/o/oblivion-song/1_medium.jpg</hinh_nho>
         <gioi_thieu>A decade ago, 300,000 citizens of Philadelphia were suddenly lost in Oblivion. The government made every attempt to recover them, but after many years, they gave up. Nathan Cole...won't. He makes daily trips, risking his life to try and rescue those still living in the apocalyptic hellscape of Oblivion. But maybe...Nathan is looking for something else? Why can't he resist the siren call of the Oblivion Song?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oblivion-song-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="port of earth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>port of earth</ten_truyen>
-		<ma_truyen>port-of-earth</ma_truyen>
-        <tac_gia>Zachary Kaplan, Andrea Mutti</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/port-of-earth/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Imagine if aliens came to Earth not in war or peace, but with a business deal: open up a spaceport here on Earth in exchange for advanced technology. But when our alien visitors break Port restrictions and wreak havoc in our cities, it falls to the newly formed Earth Security Agents to hunt down and safely deport the dangerous rogue aliens back to the Port of Earth.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/port-of-earth-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="coda  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>coda  </ten_truyen>
-		<ma_truyen>coda</ma_truyen>
-        <tac_gia>Simon Spurrier, Matias Bergara, Michael Doig</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/coda/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Simon Spurrier (The Spire, Godshaper) and Matias Bergara (Cannibal, Supergirl) present a broken fantasy world that's perfect for fans of Mad Max and The Lord of the Rings. In the aftermath of an apocalypse which wiped out nearly all magic from a once-wondrous fantasy world, a former bard named Hum (a man of few words, so nicknamed because his standard reply is 'hm') seeks a way to save the soul of his wife with nothing but a foul-tempered mutant unicorn and his wits to protect him... but is unwillingly drawn into a brutal power struggle which will decide forever who rules the Weird Wasteland.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/coda-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="thief of thieves" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Drama, Life sucks, Psychological" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>thief of thieves</ten_truyen>
-		<ma_truyen>thief-of-thieves</ma_truyen>
-        <tac_gia>Nick Spencer, Robert Kirkman, Shawn Martinbrough</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Thief_of_Thieves.jpg/200px-Thief_of_Thieves.jpg</hinh_nho>
-        <gioi_thieu>Conrad Paulson lives a secret double life as master thief Redmond. There is nothing he can't steal, nothing he can't have... except for the life he left behind. Now, with a grown son he hardly knows, and an ex-wife he never stopped loving, Conrad must try to piece together what's left of his life, before the FBI finally catch up to him... but it appears they are the least of his worries.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thief-of-thieves-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="pumpkinhead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror, Movies - tv, Mythology" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>pumpkinhead</ten_truyen>
-		<ma_truyen>pumpkinhead</ma_truyen>
-        <tac_gia>Cullen Bunn, Blacky Shepherd, Kyle Strahm</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/pumpkinhead/1_medium.jpg</hinh_nho>
-        <gioi_thieu>For thirty years, the demon of vengeance has been still, its corpse buried in a pumpkin patch graveyard in the hills. But when a reckless driver accidentally kills a pair of children, the creature is called up once more. This time, though, the monster's intended target is protected by a cruel backwoods crime family. They hatch their own supernatural plans for dealing with Pumpkinhead. For each of man's sins, a special demon exists, and when seven infernal creatures roam the hills and the hollows, no one-guilty or otherwise-is safe.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pumpkinhead-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

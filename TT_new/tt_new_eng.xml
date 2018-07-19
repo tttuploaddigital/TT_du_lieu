@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="spidey: school's out" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>spidey: school's out</ten_truyen>
+		<ma_truyen>spidey-school-s-out</ma_truyen>
+        <tac_gia>John Barber, Todd Nauck, Rachelle Rosenberg</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/spidey-schools-out/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Peter Parker just survived his first year as the Amazing Spider-Man AND a year of high school! What is he going to do next? He's going to Stark science camp! A week indoors with the coolest technology in the world is a dream come true for Peter--and a bonanza for one Spider-foe who's seriously upgraded his arsenal. Can Spider-Man keep the camp safe, and keep his identity secret from his first dorm mate, while Peter Parker makes new friends and finishes his project on time?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spidey-school-s-out-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the life of captain marvel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the life of captain marvel</ten_truyen>
+		<ma_truyen>the-life-of-captain-marvel</ma_truyen>
+        <tac_gia>Margaret Stohl, Carlos Pacheco, Rafael Fonteriz</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-life-of-captain-marvel/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE DEFINITIVE ORIGIN OF CAPTAIN MARVEL! Carol Danvers was just a girl from the Boston suburbs who loved science and the Red Sox until a chance encounter with a Kree hero gave her incredible super-powers. Now, she's a leader in the Avengers and the commander of Alpha Flight. But what if there were more to the story? When crippling anxiety attacks put her on the sidelines in the middle of a fight, Carol finds herself reliving memories of a life she thought was far behind her. You can't outrun where you're from - and sometimes, you HAVE to go home again. But there are skeletons in Captain Marvel's closet - and what she discovers will change her entire world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-life-of-captain-marvel-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="thor (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>thor (2018)</ten_truyen>
+		<ma_truyen>thor-2018</ma_truyen>
+        <tac_gia>Jason Aaron, Mike Del Mundo, Christian Ward</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Thor Odinson has regained his mantle - and with it, a wild new world of trouble on his mighty hands! The artifacts of Asgard have been scattered across the earth, and to reclaim them, Thor will have to face some ugly truths. Like the production cost of hundreds of new hammers! And the Thunder God is going to need every last one of them if he's going to stop the unstoppable Juggernaut.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thor-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="weapon h" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>weapon h</ten_truyen>
+		<ma_truyen>weapon-h</ma_truyen>
+        <tac_gia>Greg Pak, Cory Smith, Leinil Francis Yu</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-h/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Weapon X Program has done it again! At the cost of their own destruction, they've completed their biggest and possibly most dangerous experiment yet... With the strength of the Hulk and the rage and claws of Wolverine comes WEAPON H! It's been some time since Weapon H escaped and destroyed his creators. Now, our hero is on the run, as he tries to escape his mysterious past and seclude himself from the rest of society. But when a new kind of Wendigo threatens the lives of others, will Weapon H be able to shirk his responsibility? Does any of his humanity remain?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weapon-h-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="the weatherman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the weatherman</ten_truyen>
 		<ma_truyen>the-weatherman</ma_truyen>
@@ -269,41 +305,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-unexpected-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>In the aftermath of DARK NIGHTS: METAL, the DC Universe has been forever changed as new heroes are called out of the shadows. Amid this all is Janet Fals...Firebrand! Once a paramedic dedicated to saving lives, she must now start a fight once every 24 hours to feed the Conflict Engine that's replaced her heart. But Janet's heart isn't just a curse-it's a beacon, drawing out both the mysterious Neon the Unknown and the seductive, malevolent Bad Samaritan. One of them wants to cut out her heart, the other wants to save it-but neither of them knows the true danger hidden within that will kick off a superhero manhunt ranging from Thanagar to the deepest heart of the Dark Multiverse!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-unexpected-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="judge dredd: under siege" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>judge dredd: under siege</ten_truyen>
-		<ma_truyen>judge-dredd-under-siege</ma_truyen>
-        <tac_gia>Mark Russell, Max Dunbar</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/judge-dredd-under-siege/1_medium.jpg</hinh_nho>
-        <gioi_thieu>When all contact with the Patrick Swayze Block is lost, Dredd and Judge Beeny are tasked with investigating. As they battle lawlessness and rampant criminality, they discover a threat to the city that they must contain at all costs...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/judge-dredd-under-siege-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="sword daughter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>sword daughter</ten_truyen>
-		<ma_truyen>sword-daughter</ma_truyen>
-        <tac_gia>Brian Wood, Mack Chater, Lauren Affe</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sword-daughter/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Forty Swords came at night and murdered the entire village, save for two people: the infant Elsbeth and her grief-stricken father, Dag. Setting off on a revenge quest that will span the width of Viking Age Europe, they find the key to repairing their damaged relationship lies in the swords they carry. Created by Brian Wood (Northlanders, The Massive, DMZ) and Mack Chater (Briggs Land, Lazarus), Sword Daughter is a visually stunning, emotionally poignant story of parental guilt and acceptance of loss.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sword-daughter-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="brother nash" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>brother nash</ten_truyen>
-		<ma_truyen>brother-nash</ma_truyen>
-        <tac_gia>Bridgit Connell</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/brother-nash/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Werewolves! Truckers! Magic! Monstrous cicadas! The unquiet dead! It's all here... on the road! Nash is a haunted trucker who can see ghosts, can talk with spirits, senses evil, and hides a dark secret... When Nash takes on a mysterious hitchhiker heading for Tucson, he and his friends are dragged head first into his biggest and most dangerous adventure yet.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/brother-nash-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="eternity girl" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>eternity girl</ten_truyen>
-		<ma_truyen>eternity-girl</ma_truyen>
-        <tac_gia>Magdalene Visaggio, Sonny Liew, Chris Chuckry</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/eternity-girl/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Caroline Sharp has been a lot of things, including both a superhero and a super-spy. But now, with those days behind her and her powers proving unreliable, Caroline finds herself stuck in a life weighed down by her depression and an inability to change. You see, Caroline is going to live forever, and there is no escape to be had. The very act of living reminds her that, to the rest of existence, she is an anomaly. All of that could change, however, when her old foe, Madame Atom, comes to her with an intriguing offer. Madame Atom can give Caroline the power to end her life; she just has to destroy the rest of the world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/eternity-girl-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
