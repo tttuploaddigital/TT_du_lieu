@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="hack/slash: resurrection" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hack/slash: resurrection</ten_truyen>
+		<ma_truyen>hack-slash-resurrection</ma_truyen>
+        <tac_gia>Tini Howard, Celor, K. Michael Russell, Tim Seeley</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hackslash-resurrection/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The fan-favorite title returns with hot new writer, TINI HOWARD! Cassie Hack has been living off the grid, but when a new monstrous threat arises to torment promiscuous teens, it's time for Cassie to pick up the baseball bat once again! Gory, sexy, twisted, and funny... HACK IS BACK!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hack-slash-resurrection-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="lucy dreaming" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>lucy dreaming</ten_truyen>
+		<ma_truyen>lucy-dreaming</ma_truyen>
+        <tac_gia>Max Bemis, Michael Dialynas</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/l/lucy-dreaming/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Max Bemis (Moon Knight writer and lead singer of Say Anything) and Michael Dialynas (The Woods) present a sweeping, coming-of-age fantasy about living your dreams-literally. In her dreams, Lucy is the hero of all her favorite stories, living each night as a grand adventure. These journeys will teach her more about herself and the real world around her than she ever expected.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/lucy-dreaming-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="harrow county" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Graphic novels, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>harrow county</ten_truyen>
+		<ma_truyen>harrow-county</ma_truyen>
+        <tac_gia>Cullen Bunn, Owen Gieni, Tyler Crook</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/harrow-county/1_medium.jpg</hinh_nho>
+        <gioi_thieu>This town will make your skin crawl! Emmy always knew that the deep, dark woods surrounding her home crawled with ghosts, goblins, and zombies. But on the eve of her eighteenth birthday, she learns that she is connected to these creatures-and to the land itself-in a way she never imagined.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harrow-county-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="descender" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>descender</ten_truyen>
+		<ma_truyen>descender</ma_truyen>
+        <tac_gia>Jeff Lemire, Dustin Nguyen</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/descender/1_medium.jpg</hinh_nho>
+        <gioi_thieu>One young robot's struggle to stay alive in a universe where all androids have been outlawed and bounty hunters lurk on every planet. A rip-roaring and heart-felt cosmic odyssey that pits humanity against machine, and world against world, to create a sprawling space opera from the creators of Trillium, Sweet Tooth, and Little Gotham.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/descender-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="motherlands" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>motherlands</ten_truyen>
 		<ma_truyen>motherlands</ma_truyen>
@@ -269,41 +305,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>An alien invasion hits New York City and the only one who can stop it is... Spider-Man?! And if even that's not enough, you'll see a new roommate, new love interests - and a new villain!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="superman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>superman (2018)</ten_truyen>
-		<ma_truyen>superman-2018</ma_truyen>
-        <tac_gia>Brian Michael Bendis, Ivan Reis</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/superman-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A bold new chapter for the greatest superhero of all time begins here as the superstar team of writer Brian Michael Bendis and artist Ivan Reis begin their run on the all-new SUPERMAN! The fallout from the Man of Steel miniseries has Clark Kent looking at the world through new eyes... with new ideas about what Superman could and should do for the city of Metropolis and the planet Earth.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superman-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="tomb raider: inferno" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>tomb raider: inferno</ten_truyen>
-		<ma_truyen>tomb-raider-inferno</ma_truyen>
-        <tac_gia>Collin Kelly, Jackson Lazing, Phillip Sevy</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/tomb-raider-inferno/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Trinity is on high alert--they know Lara Croft is coming and now, under the shrewd command of a new officer, they're ready for any surprises, but Lara is steadfast in her quest to uncover their secrets. Though typically equally prepared, this time Lara may just find herself one step behind.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/tomb-raider-inferno-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="pestilence: a story of satan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>pestilence: a story of satan</ten_truyen>
-		<ma_truyen>pestilence-a-story-of-satan</ma_truyen>
-        <tac_gia>Frank Tieri, Oleg Okunev</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/pestilence-a-story-of-satan/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The year is 1353. The fugitive Roderick Helms has retreated to a life of hidden seclusion after failing to expose the Church's role in the Black Death. But something threatens to bring him back into action. Something that has risen which will threaten to transform the waning plague into a far more darker and sinister crisis. And that something is none other than Satan himself!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pestilence-a-story-of-satan-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="transformers: unicron" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>transformers: unicron</ten_truyen>
-		<ma_truyen>transformers-unicron</ma_truyen>
-        <tac_gia>John Barber, Alex Milne</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-unicron/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Not a whimper, nor a bang--the end comes with a squall of entropy shrieking from the ravenous maw of death itself. The message is clear: Unicron has arrived. The Transformers lock into a desperate bid to save Rom's homeworld from the world-killer--but why has Unicron chosen this world on his path to Cybertron... and Earth? The biggest story in the history of Transformers starts now: for Unicron's arrival can mean nothing less than the end of a universe.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-unicron-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="hack/slash: resurrection" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hack/slash: resurrection</ten_truyen>
+		<ma_truyen>hack-slash-resurrection</ma_truyen>
+        <tac_gia>Tini Howard, Celor, K. Michael Russell, Tim Seeley</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hackslash-resurrection/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The fan-favorite title returns with hot new writer, TINI HOWARD! Cassie Hack has been living off the grid, but when a new monstrous threat arises to torment promiscuous teens, it's time for Cassie to pick up the baseball bat once again! Gory, sexy, twisted, and funny... HACK IS BACK!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hack-slash-resurrection-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="lucy dreaming" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>lucy dreaming</ten_truyen>
+		<ma_truyen>lucy-dreaming</ma_truyen>
+        <tac_gia>Max Bemis, Michael Dialynas</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/l/lucy-dreaming/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Max Bemis (Moon Knight writer and lead singer of Say Anything) and Michael Dialynas (The Woods) present a sweeping, coming-of-age fantasy about living your dreams-literally. In her dreams, Lucy is the hero of all her favorite stories, living each night as a grand adventure. These journeys will teach her more about herself and the real world around her than she ever expected.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/lucy-dreaming-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="harrow county" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Graphic novels, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>harrow county</ten_truyen>
+		<ma_truyen>harrow-county</ma_truyen>
+        <tac_gia>Cullen Bunn, Owen Gieni, Tyler Crook</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/harrow-county/1_medium.jpg</hinh_nho>
+        <gioi_thieu>This town will make your skin crawl! Emmy always knew that the deep, dark woods surrounding her home crawled with ghosts, goblins, and zombies. But on the eve of her eighteenth birthday, she learns that she is connected to these creatures-and to the land itself-in a way she never imagined.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harrow-county-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="descender" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>descender</ten_truyen>
+		<ma_truyen>descender</ma_truyen>
+        <tac_gia>Jeff Lemire, Dustin Nguyen</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/descender/1_medium.jpg</hinh_nho>
+        <gioi_thieu>One young robot's struggle to stay alive in a universe where all androids have been outlawed and bounty hunters lurk on every planet. A rip-roaring and heart-felt cosmic odyssey that pits humanity against machine, and world against world, to create a sprawling space opera from the creators of Trillium, Sweet Tooth, and Little Gotham.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/descender-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="motherlands" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>motherlands</ten_truyen>
 		<ma_truyen>motherlands</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-lost-light/1_medium.jpg</hinh_nho>
         <gioi_thieu>Five years ago, Rodimus and a collection of traumatised, lovelorn and/or sarcastic Autobots set off on a quest to find Cyberutopia. So far, they've made a right hash of it. They've misplaced their map. They've lost their ship, the Lost Light, to a mutinous escapologist. Oh, and they're dead.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-lost-light-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="pathfinder: spiral of bones" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>pathfinder: spiral of bones</ten_truyen>
-		<ma_truyen>pathfinder-spiral-of-bones</ma_truyen>
-        <tac_gia>Crystal Frasier, Rob McCreary, Diego Galindo, Tom Garcia</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/pathfinder-spiral-of-bones/1_medium.jpg</hinh_nho>
-        <gioi_thieu>As the Pathfinder plunge into the history and mysteries below Kaer Maga-the no-holds-barred 'City of Strangers'-Valeros plunges far deeper into the great beyond, defending his immortal soul in the courts of the dead! From Pathfinder author Crystal Frasier comes this scintillating tale of life, death, and what lingers when we're gone. Bonus: Starfinder backup story! Thousands of years in Pathfinder's future, the Starfinder Society spreads adventure across the solar system!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pathfinder-spiral-of-bones-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="weird love" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Romance" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>weird love</ten_truyen>
-		<ma_truyen>weird-love</ma_truyen>
-        <tac_gia>Various, Vinnie Colletta, Jose Luis Garcia-Lopez, Norman Nodel, Al Tewks, Ogden Whitney, Joe Gill</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/weird-love/1_medium.jpg</hinh_nho>
-        <gioi_thieu>From the people that bring you the acclaimed Haunted Horror comic comes a horror like no other... WEIRD Love! WEIRD Love presents the most sexy, bizarro, sick, twisted, politically incorrect, kinky 'romance' comics of the 1950s and beyond. No wonder the censors wanted this stuff banned! Sure to be must-have big-buzz comics!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weird-love-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the unexpected" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the unexpected</ten_truyen>
-		<ma_truyen>the-unexpected</ma_truyen>
-        <tac_gia>Steve Orlando, Cary Nord, Ryan Sook, Mick Gray, Wade von Grawbadger</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-unexpected-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In the aftermath of DARK NIGHTS: METAL, the DC Universe has been forever changed as new heroes are called out of the shadows. Amid this all is Janet Fals...Firebrand! Once a paramedic dedicated to saving lives, she must now start a fight once every 24 hours to feed the Conflict Engine that's replaced her heart. But Janet's heart isn't just a curse-it's a beacon, drawing out both the mysterious Neon the Unknown and the seductive, malevolent Bad Samaritan. One of them wants to cut out her heart, the other wants to save it-but neither of them knows the true danger hidden within that will kick off a superhero manhunt ranging from Thanagar to the deepest heart of the Dark Multiverse!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-unexpected-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="judge dredd: under siege" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>judge dredd: under siege</ten_truyen>
-		<ma_truyen>judge-dredd-under-siege</ma_truyen>
-        <tac_gia>Mark Russell, Max Dunbar</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/judge-dredd-under-siege/1_medium.jpg</hinh_nho>
-        <gioi_thieu>When all contact with the Patrick Swayze Block is lost, Dredd and Judge Beeny are tasked with investigating. As they battle lawlessness and rampant criminality, they discover a threat to the city that they must contain at all costs...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/judge-dredd-under-siege-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
