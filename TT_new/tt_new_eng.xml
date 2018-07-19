@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="renai lab" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4-koma, Comedy, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>renai lab</ten_truyen>
+		<ma_truyen>renai-lab</ma_truyen>
+		<tac_gia>Miyahara Ruri</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/23353/3/200.jpg</hinh_nho>
+		<gioi_thieu>The Fujisaki Girls Academy is known for their school body being composed of very proper students. The most prominent one of them is Maki, the student president who is admired by her classmates for her calm and polite demeanor. On the other hand, Kurahashi Riko is also admired but for having a very forward and boyish personality. Riko accidentally walks into Maki while she's practicing kissing with a pillow and learns that she isn't what everyone thinks she is. Riko is forced into keeping Maki's secret and join her in practicing all aspects of romance like holding hands and more.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/renai-lab-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="gion no tsugai" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Romance, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>gion no tsugai</ten_truyen>
+		<ma_truyen>gion-no-tsugai</ma_truyen>
+		<tac_gia>Thomasz</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/30965/2/200.jpg</hinh_nho>
+		<gioi_thieu>In the land of Gion, the capital of Japan, a mysterious 'divine power' has brought about great prosperity. It is a power that only brings about changes in girls in the form of turning them half-animal, a sign that they are servants to a god, as well as granting them great power. Some that are strong enough become Onmyou and fight evil. Others whose power have gone berserk become Orochi, fated to bring death and destruction to man. It was once thought that those who became Orochi had to be slain with no hope of saving the helpless victim-until a mysterious young man named Gion appeared to save one such girl. Will he be strong enough to fight the Orochi and bring an end to their terror?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/gion-no-tsugai-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hiyokoi" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shoujo., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hiyokoi</ten_truyen>
+		<ma_truyen>hiyokoi</ma_truyen>
+		<tac_gia>Yukimaru Moe</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/3862/4/200.jpg</hinh_nho>
+		<gioi_thieu>Hiyori, a small and timid girl, goes to school for the first time in a year since an accident left her hospitalized. Follow her as she struggles with her social skills, tries to make friends and maybe even a little bit more...?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hiyokoi-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="spidey: school's out" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>spidey: school's out</ten_truyen>
 		<ma_truyen>spidey-school-s-out</ma_truyen>
@@ -279,31 +306,4 @@
 		<gioi_thieu>One day Shinobu wakes up just to find a naked blonde girl sleeping besides him. He has no memory whatsoever of her. Who is she? Why is she in his bed? Why is she naked? To make matters worse, his sister comes in and sees them. What will happen now?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuki-tsuki-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="tokyo dted" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Drama, Mature, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>tokyo dted</ten_truyen>
-		<ma_truyen>tokyo-dted</ma_truyen>
-		<tac_gia>Kotani Yoko</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/28351/3/200.jpg</hinh_nho>
-		<gioi_thieu>'When we enter high school, be sure to make me your own.' Tetsuo's childhood friend Kaede Shiraishi made that promise to him as a young girl before she moved away. Kaede never left Tetsuo's mind, and his dreams finally came true when they both reunited in high school. However, Tetsuo's older brother ended up making Kaede his own. Tetsuo couldn't stand hearing his brother interacting with his former crush in the next room day in and day out, so he decided to go to Tokyo, taking a 'certain secret' along with him. But... Set in the Shimokitazawa district in Tokyo, this youth drama will tug at your heartstrings as it depicts a young man who continues to mature through his many encounters.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tokyo-dted-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="aphorism" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>aphorism</ten_truyen>
-		<ma_truyen>aphorism</ma_truyen>
-		<tac_gia>Kujo Karuna</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/795/3/200.jpg</hinh_nho>
-		<gioi_thieu>Naraka High School is a seemingly normal school. However, unknown to the public is the cruel truth of what really goes on in the school's halls. Rather than studying, students are forced to struggle for their very survival. And the strong bonds of friendship may be the only difference between life and death.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/aphorism-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="the unexpected" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the unexpected</ten_truyen>
-		<ma_truyen>the-unexpected</ma_truyen>
-        <tac_gia>Steve Orlando, Cary Nord, Ryan Sook, Mick Gray, Wade von Grawbadger</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-unexpected-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In the aftermath of DARK NIGHTS: METAL, the DC Universe has been forever changed as new heroes are called out of the shadows. Amid this all is Janet Fals...Firebrand! Once a paramedic dedicated to saving lives, she must now start a fight once every 24 hours to feed the Conflict Engine that's replaced her heart. But Janet's heart isn't just a curse-it's a beacon, drawing out both the mysterious Neon the Unknown and the seductive, malevolent Bad Samaritan. One of them wants to cut out her heart, the other wants to save it-but neither of them knows the true danger hidden within that will kick off a superhero manhunt ranging from Thanagar to the deepest heart of the Dark Multiverse!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-unexpected-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
