@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="dungeon seeker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Mature, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>dungeon seeker</ten_truyen>
+		<ma_truyen>dungeon-seeker</ma_truyen>
+		<tac_gia>Sakamoto 666, Mizukiyoshi Juro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/41914/2/200.jpg</hinh_nho>
+		<gioi_thieu>Junpei Takeda, a high school student, is childhood friends with Noriko Tatsumiya and the bully Kido Shouta. One day, during the usual course of bullying Junpei, they were suddenly summoned to a different world by the whim of 'God'. Summoned Heroes with cheats, or so he thought. But it turns out Junpei's stats were even worse than an average farmer. Tricked into a deathly labyrinth by the only one he trust, he walks the journey for revenge.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-seeker-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="dansai bunri no crime edge" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, Horror, Mystery, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>dansai bunri no crime edge</ten_truyen>
+		<ma_truyen>dansai-bunri-no-crime-edge</ma_truyen>
+		<tac_gia>Hikagi Tatsuhiko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2108/4/200.jpg</hinh_nho>
+		<gioi_thieu>Haimura Kiri is a seemingly ordinary boy with one slight problem: he is obsessed with cutting other people's hair. One day he meets Mushiyanokouji Iwai, the 'Hair Queen' who cannot cut her hair because of an inherited curse. Kiri finds out that his scissor, 'Dansai Bunri no Crime Edge' is the only thing that can cut them. But little did he know that their meeting sparked the start of an old murder game to kill the 'Hair Queen' using the cursed killing tools, the 'Killing Goods.' Can Kiri protect Iwai from the Killing Goods Owners? Let the game begin!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dansai-bunri-no-crime-edge-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="bokutachi wa shitte shimatta" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>bokutachi wa shitte shimatta</ten_truyen>
+		<ma_truyen>bokutachi-wa-shitte-shimatta</ma_truyen>
+		<tac_gia>Miyasaka Kaho</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/1439/2/200.jpg</hinh_nho>
+		<gioi_thieu>The Fujisaki Girls Academy is known for their school body being composed of very proper students. The most prominent one of them is Maki, the student president who is admired by her classmates for her calm and polite demeanor. On the other hand, Kurahashi Riko is also admired but for having a very forward and boyish personality. Riko accidentally walks into Maki while she's practicing kissing with a pillow and learns that she isn't what everyone thinks she is. Riko is forced into keeping Maki's secret and join her in practicing all aspects of romance like holding hands and more.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bokutachi-wa-shitte-shimatta-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="renai lab" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4-koma, Comedy, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>renai lab</ten_truyen>
 		<ma_truyen>renai-lab</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/5066/2/200.jpg</hinh_nho>
 		<gioi_thieu>In Teirin High School, you are either part of a gang or an elite sports player. Sousuke Youki, called 'the predator,' is an undefeated master at fighting. One morning, as he finishes up a fight, Kazumi, a prodigy amateur golf player, took a look at Sousuke, ignored him, and walked right by. Infuriated, Sousuke sets out to get revenge on Kazumi for dissing him but Sousuke's revenge takes a detour as he gets himself involved in playing golf by the thuggish golf coach. Will this delinquent break legends and become 'the King of Golf'? King Golf also won the 56th Shogakukan Manga Award in January 2011 in the boys category.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/king-golf-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gou - himetachi no sengoku" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Historical, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gou - himetachi no sengoku</ten_truyen>
-		<ma_truyen>gou-himetachi-no-sengoku</ma_truyen>
-		<tac_gia>Tabuchi Kumiko, Akatsuki Kaori</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3228/2/200.jpg</hinh_nho>
-		<gioi_thieu>The 50th NHK Taiga drama is Gou. The story focuses on the life of Gou, a wife of the second Tokugawa shogun Hidetada. Gou was the third daughter of the daimyo Azai Nagamasa, who was married to the sister of Oda Nobunaga. One of Gou's older sisters was the wife of Toyotomi Hideyoshi, while the other married the daimyo Kyogoku Takatsugu.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/gou-himetachi-no-sengoku-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="uchuu kyoudai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Psychological, Sci-fi, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>uchuu kyoudai</ten_truyen>
-		<ma_truyen>uchuu-kyoudaii</ma_truyen>
-		<tac_gia>Koyama Chuuya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/73/8/200.jpg</hinh_nho>
-		<gioi_thieu>One night in 2006, when they were young, the two brothers Mutta (born 1993) and Hibito (born 1996) saw what appeared to be a UFO heading for the moon. They decided that night to both become astronauts and travel out into space. In 2025, Hibito has become an astronaut, and he's going to go to the moon. Mutta ended up following a more traditional career path with an auto development company. However, Mutta just ruined his career through a violent altercation with his boss. Now, not only has he lost his job, he appears to be blacklisted in the entire industry. Maybe this is a rare opportunity for Mutta to once again chase his childhood dream and become an astronaut like his little brother! Nominated for the 2nd and 3rd Manga Taisho Award and won the 56th Shogakukan Manga Award and 35th Kodansha Manga Award in the General Category.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/uchuu-kyoudaii-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="saenai kanojo no sodatekata - koisuru metronome" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>saenai kanojo no sodatekata - koisuru metronome</ten_truyen>
-		<ma_truyen>saenai-kanojo-no-sodatekata-koisuru-metronome</ma_truyen>
-		<tac_gia>Maruto Fumiaki, Musha Sabu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27524/2/200.jpg</hinh_nho>
-		<gioi_thieu>Famed author Kasumigaoka Utaha had always struggled with her novel series, 'Koisuru Metronome' until she met Tomoyo Aki; her biggest fan who inspires her to give it a proper conclusion and later becomes her personal editor. Now with Tomoya's passion and Kasumigaoka's determination combined, the two work together on their latest series while also discovering their true feelings and finding parallels between themselves and the characters within Kasumigaoka's novels.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saenai-kanojo-no-sodatekata-koisuru-metronome-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
