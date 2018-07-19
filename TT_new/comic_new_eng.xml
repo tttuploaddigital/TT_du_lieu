@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="motherlands" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>motherlands</ten_truyen>
+		<ma_truyen>motherlands</ma_truyen>
+        <tac_gia>Simon Spurrier, Rachael Stott</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/motherlands/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In a crazed future where unhinged technologies and interconnected parallel Earths have given rise to a spectacular class of super-criminal, the most beloved celebrities aren't actors or rock stars, but the bounty hunters who traverse an exotic multiverse in search of impossible prey! But when the spotlight-shunning, strait-laced tracer known as Tab finds herself in an ultra-violent race for her greatest prize yet, she's forced to work with her greatest enemy, the only person capable of IDing him: her own elderly, overbearing and hypercritical mother, who was once the most fabulous and celebrated bounty hunter of them all.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/motherlands-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="deuce of hearts" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>deuce of hearts</ten_truyen>
+		<ma_truyen>deuce-of-hearts</ma_truyen>
+        <tac_gia>Ricardo Mo, Tony Gregori, Claudia Aguirre</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deuce-of-hearts/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sullivan Husk's life changed the day he was introduced to the Heartbreakr app and the notion that love is just another tradeable commodity. What started as a Faustian bargain to restore the good health of a dying man has become a collector's habit. But all the upgrades the app has to offer might not be enough to save Sully from this latest upset spouse.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deuce-of-hearts-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="blackwood" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Fantasy, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>blackwood</ten_truyen>
+		<ma_truyen>blackwood</ma_truyen>
+        <tac_gia>Evan Dorkin, Veronica Fish</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/blackwood/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When four teenagers with haunted pasts enroll in Blackwood College--a school that trains students in the occult--their desire to enhance their supernatural abilities and bond with others is hampered by an undead dean's curse, ghosts in their dorm, a mischievous two-headed mummy-chimp, a plague of mutant insects, and the discovery of an ancient evil that forces our heroes to undergo a crash course in the occult for the sake of the world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/blackwood-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dodge city" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dodge city</ten_truyen>
+		<ma_truyen>dodge-city</ma_truyen>
+        <tac_gia>Josh Trujillo, Cara McGee</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dodge-city/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Josh Trujillo (Adventure Time) and Cara McGee (Over the Garden Wall) team up for a new series about the high-energy chaos of competitive dodgeball! Tomas is the new captain of the Jazz Pandas dodgeball team, and he's got a certain knack for keeping an eye on on the ball (or several!). However, he's untested and still not quite part of the team. If the disorganized Jazz Pandas want to make it to summer regional championships they'll have to pull together under Tomas leadership.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dodge-city-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="spidey: school's out" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>spidey: school's out</ten_truyen>
 		<ma_truyen>spidey-school-s-out</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/j/judge-dredd-under-siege/1_medium.jpg</hinh_nho>
         <gioi_thieu>When all contact with the Patrick Swayze Block is lost, Dredd and Judge Beeny are tasked with investigating. As they battle lawlessness and rampant criminality, they discover a threat to the city that they must contain at all costs...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/judge-dredd-under-siege-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="sword daughter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>sword daughter</ten_truyen>
-		<ma_truyen>sword-daughter</ma_truyen>
-        <tac_gia>Brian Wood, Mack Chater, Lauren Affe</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sword-daughter/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Forty Swords came at night and murdered the entire village, save for two people: the infant Elsbeth and her grief-stricken father, Dag. Setting off on a revenge quest that will span the width of Viking Age Europe, they find the key to repairing their damaged relationship lies in the swords they carry. Created by Brian Wood (Northlanders, The Massive, DMZ) and Mack Chater (Briggs Land, Lazarus), Sword Daughter is a visually stunning, emotionally poignant story of parental guilt and acceptance of loss.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sword-daughter-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="brother nash" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>brother nash</ten_truyen>
-		<ma_truyen>brother-nash</ma_truyen>
-        <tac_gia>Bridgit Connell</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/brother-nash/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Werewolves! Truckers! Magic! Monstrous cicadas! The unquiet dead! It's all here... on the road! Nash is a haunted trucker who can see ghosts, can talk with spirits, senses evil, and hides a dark secret... When Nash takes on a mysterious hitchhiker heading for Tucson, he and his friends are dragged head first into his biggest and most dangerous adventure yet.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/brother-nash-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="eternity girl" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>eternity girl</ten_truyen>
-		<ma_truyen>eternity-girl</ma_truyen>
-        <tac_gia>Magdalene Visaggio, Sonny Liew, Chris Chuckry</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/eternity-girl/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Caroline Sharp has been a lot of things, including both a superhero and a super-spy. But now, with those days behind her and her powers proving unreliable, Caroline finds herself stuck in a life weighed down by her depression and an inability to change. You see, Caroline is going to live forever, and there is no escape to be had. The very act of living reminds her that, to the rest of existence, she is an anomaly. All of that could change, however, when her old foe, Madame Atom, comes to her with an intriguing offer. Madame Atom can give Caroline the power to end her life; she just has to destroy the rest of the world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/eternity-girl-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="oblivion song" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>oblivion song</ten_truyen>
-		<ma_truyen>oblivion-song</ma_truyen>
-        <tac_gia>Robert Kirkman, Lorenzo De Felici, Annalisa Leoni</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/oblivion-song/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A decade ago, 300,000 citizens of Philadelphia were suddenly lost in Oblivion. The government made every attempt to recover them, but after many years, they gave up. Nathan Cole...won't. He makes daily trips, risking his life to try and rescue those still living in the apocalyptic hellscape of Oblivion. But maybe...Nathan is looking for something else? Why can't he resist the siren call of the Oblivion Song?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oblivion-song-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
