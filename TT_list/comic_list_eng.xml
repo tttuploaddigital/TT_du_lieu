@@ -2079,6 +2079,15 @@
         <gioi_thieu>Stargate Universe the comic book begins right where Season Two of the acclaimed science fiction TV series ended, with the crew and unwilling passengers of Destiny set to cross a vast expanse of space with no margin for error. With almost all of the crew of the ancient starship Destiny in suspended animation, only Eli Wallace is left awake to repair his own stasis pod before time runs out. While he races against time, a new and unexpected danger threatens the fragile plan designed to keep everyone alive and away from the aliens who had been pursuing them. What strange new menace confronts Eli, Colonel Young, Doctor Rush and the others? You'll have to pick up this issue to find out!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/stargate-universe-eng.xml</file_xml>
     </truyen>
+	<truyen ten="stellar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>stellar</ten_truyen>
+		<ma_truyen>stellar</ma_truyen>
+        <tac_gia>Joseph Keatinge, Bret Blevins</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/stellar/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Stellar was taken as a child and transformed into the ultimate weapon, one that would end an intergalactic war. She succeeded... at everything except finding peace. Reduced to a bounty hunter, she scours the worlds she's broken, searching for redemption. But there are other weapons loose in the galaxy, who just can't leave the war behind them.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/stellar-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="street fighter vs darkstalkers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Martial arts, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>street fighter vs darkstalkers</ten_truyen>
 		<ma_truyen>street-fighter-vs-darkstalkers</ma_truyen>
@@ -2340,6 +2349,15 @@
         <gioi_thieu>A tale of blood, desperation, and loss. New York Times bestselling author LANDRY Q. WALKER joins artist JUSTIN GREENWOOD for an all-new ONGOING SERIES-THE LAST SIEGE! Spaghetti Western storytelling meets Game of Thrones atmosphere in this gritty medieval war story, as a mysterious stranger arrives at a castle overrun with brutal soldiers bent on usurping the throne of the rightful heir-an 11-year-old girl. An action-packed, genre-twisting epic, THE LAST SIEGE begins!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-last-siege-eng.xml</file_xml>
     </truyen>
+	<truyen ten="the magic order" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the magic order</ten_truyen>
+		<ma_truyen>the-magic-order</ma_truyen>
+        <tac_gia>Mark Millar, Olivier Coipel, Adam Hughes</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-magic-order/1_medium.jpg</hinh_nho>
+        <gioi_thieu>We live in a world where we've never seen a monster, and The Magic Order is the reason we sleep safely in our beds. Magic meets the mob in THE MAGIC ORDER, as five families of magicians—sworn to protect our world for generations-must battle an enemy who's picking them off one by one. By day, they live among us as our neighbors, friends, and co-workers, but by night, they are the sorcerers, magicians, and wizards that protect us from the forces of darkness... unless the darkness gets them first.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-magic-order-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="the man of steel (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the man of steel (2018)</ten_truyen>
 		<ma_truyen>the-man-of-steel-2018</ma_truyen>
@@ -2456,6 +2474,15 @@
         <hinh_nho>https://i.imgur.com/mzAZMYZ.jpg</hinh_nho>
         <gioi_thieu>When Robert Kirkman kept bugging Brian K. Vaughan to let him publish a deluxe hardcover, The Cloudburst Edition, of the digital comic The Private Eye, Brian 'joked that Image could have The Private Eye if Panel Syndicate could have The Walking Dead... but much to [their] surprise, Robert actually agreed to that insane deal.'</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-walking-dead-the-alien-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the weatherman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the weatherman</ten_truyen>
+		<ma_truyen>the-weatherman</ma_truyen>
+        <tac_gia>Jody LeHeup, Nathan Fox, Marcos Martin</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-weatherman/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Nathan Bright had it all: an awesome girlfriend, a kickass dog, and a job as the number one weatherman on terraformed Mars. But when he's accused of carrying out the worst terrorist attack in human history-an event that wiped out nearly the entire population of Earth-Nathan becomes the most wanted man alive and a target of a manhunt that spans the galaxy. But is Nathan truly responsible for such a horrific crime? And why can't he remember? Writer JODY LEHEUP (SHIRTLESS BEAR-FIGHTER!), artist NATHAN FOX (DMZ, HAUNT, Dark Reign: Zodiac), and colorist DAVE STEWART (Hellboy, RUMBLE) present a full-throttle, widescreen science fiction epic about the damage we do in the name of justice and what it truly means to be redeemed...You don't want to miss THE WEATHERMAN!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-weatherman-eng.xml</file_xml>
     </truyen>
 	<truyen ten="the wicked righteous" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the wicked righteous</ten_truyen>
@@ -2762,6 +2789,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/w/witchfinder-city-of-the-dead/1_medium.jpg</hinh_nho>
         <gioi_thieu>After foiling a witch coven's plot to kill Queen Victoria, Edward Grey was knighted for services in protection of Crown and Queen. His investigations into occult goings-on in London and beyond earned him the title Sir Edward--and a bitter rivalry with the Heliopic Brotherhood of Ra, while skeptical Londoners mocked him with the nickname Witchfinder.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/witchfinder-city-of-the-dead-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="witchfinder: the gates of heaven" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>witchfinder: the gates of heaven</ten_truyen>
+		<ma_truyen>witchfinder-the-gates-of-heaven</ma_truyen>
+        <tac_gia>Mike Mignola, Chris Roberson, D'Israeli, Michelle Madsen</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/witchfinder-the-gates-of-heaven/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A series of occult events mystifies the man known as the Witchfinder, but even more surprising is the revelation that he is not alone in exploring the paranormal in London. When a personal invitation arrives from the palace, Sir Edward Grey is pulled even deeper into underground supernatural exploration alongside new allies in the race to stop a mad scientist from destroying London in his pursuit of mystical power.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/witchfinder-the-gates-of-heaven-eng.xml</file_xml>
     </truyen>
 	<truyen ten="wonder woman (1987)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies, Mythology, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>wonder woman (1987)</ten_truyen>
