@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="fukigen na mononokean" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>fukigen na mononokean</ten_truyen>
+		<ma_truyen>fukigen-na-mononokean</ma_truyen>
+		<tac_gia>Yoshihara Masahiko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/37676/1/200.jpg</hinh_nho>
+		<gioi_thieu>Ashiya has spent the first seven days of high school stuck in the infirmary because of a 'mononoke' attaching itself to him. He ends up asking the owner of a small tearoom - Mononokean - for help. A series of mysterious stories involving the very morose owner of Mononokean, who guides mononoke to pass on to the next world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fukigen-na-mononokean-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kinkyori renai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kinkyori renai</ten_truyen>
+		<ma_truyen>kinkyori-renai</ma_truyen>
+		<tac_gia>Mikimoto Rin</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/43468/2/200.jpg</hinh_nho>
+		<gioi_thieu>Uni is a prodigy with a cool reserve who is accomplished in everything except for English. One day, she insults her temporary English teacher and he overhears her. He asks her to come to his office after school and, somehow, she starts receiving private tutoring from him.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kinkyori-renai-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hapi mari" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Josei, Romance, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hapi mari</ten_truyen>
+		<ma_truyen>hapi-mari</ma_truyen>
+		<tac_gia>Enjouji Maki</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/3497/1/200.jpg</hinh_nho>
+		<gioi_thieu>In order to help her father, Chiwa Takanashi agrees to an arranged marriage with the company president Hokuto Mamiya - a man she doesn't know - at the request of Hokuto's grandfather. Chiwa believes the arrangement isn't binding, but her new partner seems to think otherwise. Can two strangers living together find their way to a happy marriage?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hapi-mari-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="black kanojo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Horror, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>black kanojo</ten_truyen>
 		<ma_truyen>black-kanojo</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
 		<gioi_thieu>The princess of the human kingdom has been kidnapped by the demon king! But all she wants to do is get a good night's sleep!?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="sun-ken rock" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Drama, Ecchi, Martial arts, Mature, Psychological, Romance, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>sun-ken rock</ten_truyen>
-		<ma_truyen>sun-ken-rock</ma_truyen>
-		<tac_gia>Boichi</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9638/4/200.jpg</hinh_nho>
-		<gioi_thieu>Ken is a Japanese man, and Ken's love interest Yumin moves to Korea to become a police officer. He then decides to follow her to also become a police officer but instead ends up becoming the leader of a small Korean gang. What will happend to Ken?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/sun-ken-rock-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ragna crimson" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ragna crimson</ten_truyen>
-		<ma_truyen>ragna-crimson</ma_truyen>
-		<tac_gia>Kobayashi Daiki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/49622/1/200.jpg</hinh_nho>
-		<gioi_thieu>Ragna is a dragon hunter along with his partner, the strongest dragon hunter Leo. He didn't have much talent at hunting dragons but he had decided to entrust his whole life for her. However he was shown the feel of true despair by his future self on what would happen if he stays weak as he is now. With that, it seems that the reaper of the dragons had now appeared earlier than the original history, but will it be enough to change future?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ragna-crimson-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="silver spoon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>silver spoon</ten_truyen>
-		<ma_truyen>silver-spoon</ma_truyen>
-		<tac_gia>Arakawa Hiromu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/38842/1/200.jpg</hinh_nho>
-		<gioi_thieu>Yugo Hachiken aspires to live separated from his family, so he takes the initiative by enrolling in an agriculture school. He thinks, with his talent in studying, no problems will arise no matter what kind of school he attends. He is quickly proven wrong. Raised as a city boy, he is forced to uncover the inconvenient truth about agricultural life. Enjoy the story of Hachiken, as he tries to keep up with his new friends, farmers' heirs, who are already accustomed to harsh world of farming. The story of a sweat, tear, and mud-stained youth begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/silver-spoon-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

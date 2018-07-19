@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="fukigen na mononokean" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>fukigen na mononokean</ten_truyen>
+		<ma_truyen>fukigen-na-mononokean</ma_truyen>
+		<tac_gia>Yoshihara Masahiko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/37676/1/200.jpg</hinh_nho>
+		<gioi_thieu>Ashiya has spent the first seven days of high school stuck in the infirmary because of a 'mononoke' attaching itself to him. He ends up asking the owner of a small tearoom - Mononokean - for help. A series of mysterious stories involving the very morose owner of Mononokean, who guides mononoke to pass on to the next world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fukigen-na-mononokean-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kinkyori renai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kinkyori renai</ten_truyen>
+		<ma_truyen>kinkyori-renai</ma_truyen>
+		<tac_gia>Mikimoto Rin</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/43468/2/200.jpg</hinh_nho>
+		<gioi_thieu>Uni is a prodigy with a cool reserve who is accomplished in everything except for English. One day, she insults her temporary English teacher and he overhears her. He asks her to come to his office after school and, somehow, she starts receiving private tutoring from him.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kinkyori-renai-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hapi mari" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Josei, Romance, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hapi mari</ten_truyen>
+		<ma_truyen>hapi-mari</ma_truyen>
+		<tac_gia>Enjouji Maki</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/3497/1/200.jpg</hinh_nho>
+		<gioi_thieu>In order to help her father, Chiwa Takanashi agrees to an arranged marriage with the company president Hokuto Mamiya - a man she doesn't know - at the request of Hokuto's grandfather. Chiwa believes the arrangement isn't binding, but her new partner seems to think otherwise. Can two strangers living together find their way to a happy marriage?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hapi-mari-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="justice league (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>justice league (2018)</ten_truyen>
 		<ma_truyen>justice-league-2018</ma_truyen>
@@ -279,31 +306,4 @@
 		<gioi_thieu>Shinichirou decides to look for a job in order to pay his rent, and his teacher suggests that he work for someone at their house, doing housekeeping. However, the person who hired him was Sakuya, a girl who is the 37th head of the Shimazu family, and her job is to exorcise and eliminate unwanted creatures. Shinichirou accidentally releases one of the creatures that Sakuya captures and they cooperate to catch it. A story of comedic creature hunting begins!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isuca-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="sugars" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>sugars</ten_truyen>
-		<ma_truyen>sugars</ma_truyen>
-		<tac_gia>Kurosaki Minori</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9565/1/200.jpg</hinh_nho>
-		<gioi_thieu>Rita Hoshiyama is a second year in middle school and claims to be a rock musician! However, her parents disagree and insist that Rita take up cooking and their family business. But when Sakuya-kun, her idol and family's new dishwasher, ask her to do a live performance the next day, she couldn't help but agree! The problem is, there's only two people in her band...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sugars-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ookami shoujo to kuro ouji" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ookami shoujo to kuro ouji</ten_truyen>
-		<ma_truyen>ookami-shoujo-to-kuro-ouji</ma_truyen>
-		<tac_gia>Hatta Ayuko</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/7366/9/200.jpg</hinh_nho>
-		<gioi_thieu>Erika lied to her friends about having a boyfriend by showing a picture of an annonymous guy who turned out to be a a schoolmate of hers and was shortly recognized by her friends. Their conversations then was overheard by the guy, Sata Kyouya. Erika went to explain and proposed her idea of faking as lovers. However, Sata who gave off the nice-charming feelings guy turns out to be a black prince and used her reasons to blackmail her instead.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ookami-shoujo-to-kuro-ouji-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="thief of thieves" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Drama, Life sucks, Psychological" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>thief of thieves</ten_truyen>
-		<ma_truyen>thief-of-thieves</ma_truyen>
-        <tac_gia>Nick Spencer, Robert Kirkman, Shawn Martinbrough</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Thief_of_Thieves.jpg/200px-Thief_of_Thieves.jpg</hinh_nho>
-        <gioi_thieu>Conrad Paulson lives a secret double life as master thief Redmond. There is nothing he can't steal, nothing he can't have... except for the life he left behind. Now, with a grown son he hardly knows, and an ex-wife he never stopped loving, Conrad must try to piece together what's left of his life, before the FBI finally catch up to him... but it appears they are the least of his worries.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thief-of-thieves-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
