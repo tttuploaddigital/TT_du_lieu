@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="the weatherman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the weatherman</ten_truyen>
+		<ma_truyen>the-weatherman</ma_truyen>
+        <tac_gia>Jody LeHeup, Nathan Fox, Marcos Martin</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-weatherman/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Nathan Bright had it all: an awesome girlfriend, a kickass dog, and a job as the number one weatherman on terraformed Mars. But when he's accused of carrying out the worst terrorist attack in human history-an event that wiped out nearly the entire population of Earth-Nathan becomes the most wanted man alive and a target of a manhunt that spans the galaxy. But is Nathan truly responsible for such a horrific crime? And why can't he remember? Writer JODY LEHEUP (SHIRTLESS BEAR-FIGHTER!), artist NATHAN FOX (DMZ, HAUNT, Dark Reign: Zodiac), and colorist DAVE STEWART (Hellboy, RUMBLE) present a full-throttle, widescreen science fiction epic about the damage we do in the name of justice and what it truly means to be redeemed...You don't want to miss THE WEATHERMAN!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-weatherman-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="stellar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>stellar</ten_truyen>
+		<ma_truyen>stellar</ma_truyen>
+        <tac_gia>Joseph Keatinge, Bret Blevins</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/stellar/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Stellar was taken as a child and transformed into the ultimate weapon, one that would end an intergalactic war. She succeeded... at everything except finding peace. Reduced to a bounty hunter, she scours the worlds she's broken, searching for redemption. But there are other weapons loose in the galaxy, who just can't leave the war behind them.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/stellar-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the magic order" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the magic order</ten_truyen>
+		<ma_truyen>the-magic-order</ma_truyen>
+        <tac_gia>Mark Millar, Olivier Coipel, Adam Hughes</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-magic-order/1_medium.jpg</hinh_nho>
+        <gioi_thieu>We live in a world where we've never seen a monster, and The Magic Order is the reason we sleep safely in our beds. Magic meets the mob in THE MAGIC ORDER, as five families of magicians—sworn to protect our world for generations-must battle an enemy who's picking them off one by one. By day, they live among us as our neighbors, friends, and co-workers, but by night, they are the sorcerers, magicians, and wizards that protect us from the forces of darkness... unless the darkness gets them first.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-magic-order-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="witchfinder: the gates of heaven" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>witchfinder: the gates of heaven</ten_truyen>
+		<ma_truyen>witchfinder-the-gates-of-heaven</ma_truyen>
+        <tac_gia>Mike Mignola, Chris Roberson, D'Israeli, Michelle Madsen</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/witchfinder-the-gates-of-heaven/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A series of occult events mystifies the man known as the Witchfinder, but even more surprising is the revelation that he is not alone in exploring the paranormal in London. When a personal invitation arrives from the palace, Sir Edward Grey is pulled even deeper into underground supernatural exploration alongside new allies in the race to stop a mad scientist from destroying London in his pursuit of mystical power.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/witchfinder-the-gates-of-heaven-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="justice league (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>justice league (2018)</ten_truyen>
 		<ma_truyen>justice-league-2018</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/p/pumpkinhead/1_medium.jpg</hinh_nho>
         <gioi_thieu>For thirty years, the demon of vengeance has been still, its corpse buried in a pumpkin patch graveyard in the hills. But when a reckless driver accidentally kills a pair of children, the creature is called up once more. This time, though, the monster's intended target is protected by a cruel backwoods crime family. They hatch their own supernatural plans for dealing with Pumpkinhead. For each of man's sins, a special demon exists, and when seven infernal creatures roam the hills and the hollows, no one-guilty or otherwise-is safe.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pumpkinhead-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the highest house" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the highest house</ten_truyen>
-		<ma_truyen>the-highest-house</ma_truyen>
-        <tac_gia>Mike Carey, Peter Gross</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-highest-house/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The creators behind The Unwritten, Mike Carey and Peter Gross, invite you into The Highest House, the story of a slave boy named Moth, who makes friends with a powerful entity called Obsidian that promises advancement and happiness. Clearly, Obsidian has a hidden agenda, but Moth has ambitions and plans of his own...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-highest-house-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="delta 13" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>delta 13</ten_truyen>
-		<ma_truyen>delta-13</ma_truyen>
-        <tac_gia>Steve Niles, Nat Jones</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/delta-13/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Who knows what mysteries lie deep in the asteroid belt? When a mysterious, huge, and previously undiscovered asteroid looms over their ship, a small crew of blue-collar workers discovers a terrifying threat unlike anything they've ever seen. Now, the crew must escape the asteroid, but even if they do, will they be able to escape each other and anything they bring back with them?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/delta-13-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="exlibrium" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>exlibrium</ten_truyen>
-		<ma_truyen>exlibrium</ma_truyen>
-        <tac_gia>Natalia Devova, Denis Popov, Andrey Rodin</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/exlibrium/1_medium.jpg</hinh_nho>
-        <gioi_thieu>...And the door will open. 'Exlibrium' (from the Latin 'ex libris', 'of the books' and 'equilibrium', 'balance') - a magic seal that helps the mysterious order of sorcerers to guard the border between the real world and the world of fiction. For many centuries members of the order have been successfully preventing creatures from the works of art and lliterature from escaping into our world. But sometimes the order fails to do so and some of those characters manage to break the walls between realities...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/exlibrium-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="dark ark" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>dark ark</ten_truyen>
-		<ma_truyen>dark ark</ma_truyen>
-        <tac_gia>Cullen Bunn, Juan Doe, Ryane Hill</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dark-ark/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The wickedness of mankind has moved the Creator to destroy the world by way of the flood. Noah has been tasked with building an ark to save his family and the animals of the world. But this is not Noah's story. For darker powers have commanded the sorcerer Shrae to build his own ark and save the unnatural creatures of the world-such as the vampires, the dragons, the naga, and the manticore. But what will happen on a vessel crawling with monsters, where insidious intrigue and horrific violence are the rule of law?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dark-ark-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

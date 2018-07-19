@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="the weatherman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the weatherman</ten_truyen>
+		<ma_truyen>the-weatherman</ma_truyen>
+        <tac_gia>Jody LeHeup, Nathan Fox, Marcos Martin</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-weatherman/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Nathan Bright had it all: an awesome girlfriend, a kickass dog, and a job as the number one weatherman on terraformed Mars. But when he's accused of carrying out the worst terrorist attack in human history-an event that wiped out nearly the entire population of Earth-Nathan becomes the most wanted man alive and a target of a manhunt that spans the galaxy. But is Nathan truly responsible for such a horrific crime? And why can't he remember? Writer JODY LEHEUP (SHIRTLESS BEAR-FIGHTER!), artist NATHAN FOX (DMZ, HAUNT, Dark Reign: Zodiac), and colorist DAVE STEWART (Hellboy, RUMBLE) present a full-throttle, widescreen science fiction epic about the damage we do in the name of justice and what it truly means to be redeemed...You don't want to miss THE WEATHERMAN!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-weatherman-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="stellar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>stellar</ten_truyen>
+		<ma_truyen>stellar</ma_truyen>
+        <tac_gia>Joseph Keatinge, Bret Blevins</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/stellar/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Stellar was taken as a child and transformed into the ultimate weapon, one that would end an intergalactic war. She succeeded... at everything except finding peace. Reduced to a bounty hunter, she scours the worlds she's broken, searching for redemption. But there are other weapons loose in the galaxy, who just can't leave the war behind them.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/stellar-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the magic order" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the magic order</ten_truyen>
+		<ma_truyen>the-magic-order</ma_truyen>
+        <tac_gia>Mark Millar, Olivier Coipel, Adam Hughes</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-magic-order/1_medium.jpg</hinh_nho>
+        <gioi_thieu>We live in a world where we've never seen a monster, and The Magic Order is the reason we sleep safely in our beds. Magic meets the mob in THE MAGIC ORDER, as five families of magicians—sworn to protect our world for generations-must battle an enemy who's picking them off one by one. By day, they live among us as our neighbors, friends, and co-workers, but by night, they are the sorcerers, magicians, and wizards that protect us from the forces of darkness... unless the darkness gets them first.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-magic-order-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="witchfinder: the gates of heaven" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>witchfinder: the gates of heaven</ten_truyen>
+		<ma_truyen>witchfinder-the-gates-of-heaven</ma_truyen>
+        <tac_gia>Mike Mignola, Chris Roberson, D'Israeli, Michelle Madsen</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/witchfinder-the-gates-of-heaven/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A series of occult events mystifies the man known as the Witchfinder, but even more surprising is the revelation that he is not alone in exploring the paranormal in London. When a personal invitation arrives from the palace, Sir Edward Grey is pulled even deeper into underground supernatural exploration alongside new allies in the race to stop a mad scientist from destroying London in his pursuit of mystical power.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/witchfinder-the-gates-of-heaven-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="fukigen na mononokean" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>fukigen na mononokean</ten_truyen>
 		<ma_truyen>fukigen-na-mononokean</ma_truyen>
@@ -270,40 +306,4 @@
         <gioi_thieu>Caroline Sharp has been a lot of things, including both a superhero and a super-spy. But now, with those days behind her and her powers proving unreliable, Caroline finds herself stuck in a life weighed down by her depression and an inability to change. You see, Caroline is going to live forever, and there is no escape to be had. The very act of living reminds her that, to the rest of existence, she is an anomaly. All of that could change, however, when her old foe, Madame Atom, comes to her with an intriguing offer. Madame Atom can give Caroline the power to end her life; she just has to destroy the rest of the world.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/eternity-girl-eng.xml</file_xml>
     </truyen>
-	<truyen ten="oblivion song" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>oblivion song</ten_truyen>
-		<ma_truyen>oblivion-song</ma_truyen>
-        <tac_gia>Robert Kirkman, Lorenzo De Felici, Annalisa Leoni</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/oblivion-song/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A decade ago, 300,000 citizens of Philadelphia were suddenly lost in Oblivion. The government made every attempt to recover them, but after many years, they gave up. Nathan Cole...won't. He makes daily trips, risking his life to try and rescue those still living in the apocalyptic hellscape of Oblivion. But maybe...Nathan is looking for something else? Why can't he resist the siren call of the Oblivion Song?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oblivion-song-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="port of earth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>port of earth</ten_truyen>
-		<ma_truyen>port-of-earth</ma_truyen>
-        <tac_gia>Zachary Kaplan, Andrea Mutti</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/port-of-earth/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Imagine if aliens came to Earth not in war or peace, but with a business deal: open up a spaceport here on Earth in exchange for advanced technology. But when our alien visitors break Port restrictions and wreak havoc in our cities, it falls to the newly formed Earth Security Agents to hunt down and safely deport the dangerous rogue aliens back to the Port of Earth.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/port-of-earth-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="coda  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>coda  </ten_truyen>
-		<ma_truyen>coda</ma_truyen>
-        <tac_gia>Simon Spurrier, Matias Bergara, Michael Doig</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/coda/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Simon Spurrier (The Spire, Godshaper) and Matias Bergara (Cannibal, Supergirl) present a broken fantasy world that's perfect for fans of Mad Max and The Lord of the Rings. In the aftermath of an apocalypse which wiped out nearly all magic from a once-wondrous fantasy world, a former bard named Hum (a man of few words, so nicknamed because his standard reply is 'hm') seeks a way to save the soul of his wife with nothing but a foul-tempered mutant unicorn and his wits to protect him... but is unwillingly drawn into a brutal power struggle which will decide forever who rules the Weird Wasteland.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/coda-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="isuca" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Mature, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>isuca</ten_truyen>
-		<ma_truyen>isuca</ma_truyen>
-		<tac_gia>Takahashi Osamu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/4307/2/200.jpg</hinh_nho>
-		<gioi_thieu>Shinichirou decides to look for a job in order to pay his rent, and his teacher suggests that he work for someone at their house, doing housekeeping. However, the person who hired him was Sakuya, a girl who is the 37th head of the Shimazu family, and her job is to exorcise and eliminate unwanted creatures. Shinichirou accidentally releases one of the creatures that Sakuya captures and they cooperate to catch it. A story of comedic creature hunting begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isuca-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
