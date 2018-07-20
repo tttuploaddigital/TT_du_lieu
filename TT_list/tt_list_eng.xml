@@ -5829,6 +5829,15 @@ This manga upload for Trí Newton 535 from Vietnam via request manga on website 
 		<gioi_thieu>Yoh Asakura is a shaman--one of the gifted few who, thanks to training or natural talent, can channel spirits that most people can't even see. With the help of his fiancée, Anna, Yoh is in training for the ultimate shaman sports event: the 'Shaman Fight in Tokyo,' the once-every-500-years tournament to see who can shape humanity's future and become the Shaman King. But unfortunately for Yoh, every shaman in the world is competing for the same prize...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/shaman-king-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="shanghai red" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Western" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>shanghai red</ten_truyen>
+		<ma_truyen>shanghai-red</ma_truyen>
+        <tac_gia>Christopher Sebela, Hassan Otsmane-Elhaou, Joshua Hixson</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shanghai-red/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Red is one of hundreds shanghaied out of Portland in the late 1800s. Drugged, kidnapped, and sold to a ship's captain, she wakes up on a boat headed out to sea for years, unable to escape or even reveal who she truly is. Now she's coming back in a boat covered in blood to find her family and track down the men responsible for stealing her life out from under her. Eisner-nominated writer CHRISTOPHER SEBELA (High Crimes, Heartthrob, We(l)come Back), JOSHUA HIXSON (The Black Woods) and HASSAN OTSMANE-ELHAOU (Felix and Macabber) bring you a tale of revenge, family, and identity that stretches from the deck of a ship outside Shanghai all the way to the bleak streets and secret tunnels of Portland, Oregon.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shanghai-red-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="shanliang de sishen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>shanliang de sishen</ten_truyen>
 		<ma_truyen>shanliang-de-sishen</ma_truyen>

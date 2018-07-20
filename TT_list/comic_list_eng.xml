@@ -2070,6 +2070,15 @@
         <gioi_thieu>The master of supernatural horror is back with bizarre tales of terror in his signature black-and-white style. Running through the entire series is the continuing story of Corben's new warrior character, Denaeus, reminiscent of his best-loved creation, Den from the classic Heavy Metal series.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/shadows-on-the-grave-eng.xml</file_xml>
     </truyen>
+	<truyen ten="shanghai red" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Western" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>shanghai red</ten_truyen>
+		<ma_truyen>shanghai-red</ma_truyen>
+        <tac_gia>Christopher Sebela, Hassan Otsmane-Elhaou, Joshua Hixson</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shanghai-red/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Red is one of hundreds shanghaied out of Portland in the late 1800s. Drugged, kidnapped, and sold to a ship's captain, she wakes up on a boat headed out to sea for years, unable to escape or even reveal who she truly is. Now she's coming back in a boat covered in blood to find her family and track down the men responsible for stealing her life out from under her. Eisner-nominated writer CHRISTOPHER SEBELA (High Crimes, Heartthrob, We(l)come Back), JOSHUA HIXSON (The Black Woods) and HASSAN OTSMANE-ELHAOU (Felix and Macabber) bring you a tale of revenge, family, and identity that stretches from the deck of a ship outside Shanghai all the way to the bleak streets and secret tunnels of Portland, Oregon.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shanghai-red-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="she-hulk (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>she-hulk (2018)</ten_truyen>
 		<ma_truyen>she-hulk-2018</ma_truyen>
