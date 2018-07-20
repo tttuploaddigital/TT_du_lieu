@@ -882,6 +882,24 @@
         <gioi_thieu>From the team that brought you FABLES: THE WOLF AMONG US comes a new chapter of the FABLES legacy! In a post-Fables world where magic abounds, it can be wielded for the greater good or used to plant the seeds of anarchy and terrorism. The Shadow Players are a global network of agents-both Fable and mundane-tasked with policing a newly enchanted world and protecting humanity from itself. EVERAFTER features the return of series favorites Bo Peep, Peter Piper, Hansel, and Connor Wolf, as well as exciting new characters and a terrifying new villain! Written by FABLES: THE WOLF AMONG US veterans Matthew Sturges and Dave Justus with gorgeous art by Travis Moore (Fables: The Wolf Among Us, JLA All Stars), you won't want to miss this series that FABLES creator Bill Willingham himself told us we had to get into your hands as quickly as possible!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/everafter-eng.xml</file_xml>
     </truyen>
+	<truyen ten="executive assistant: iris (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>executive assistant: iris (2018)</ten_truyen>
+		<ma_truyen>executive-assistant-iris-2018</ma_truyen>
+        <tac_gia>Blake Northcott, Donny Tran</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/executive-assistant-iris-vol-5/1_medium.jpg</hinh_nho>
+        <gioi_thieu> When a routine security job takes a turn for the worse, Executive Assistant Iris realizes she might be at the crossroads of her career! The world's deadliest assassin is faced with a choice: remain a freelance Executive Assistant, or join Magni Global-a mysterious corporation that has acquired nearly every private security firm on the planet. But, what fateful decisions may come from joining a giant conglomerate whose interests may spell doom for her?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/executive-assistant-iris-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="exiles (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>exiles (2018)</ten_truyen>
+		<ma_truyen>exiles-2018</ma_truyen>
+        <tac_gia>Saladin Ahmed, Javier Rodriguez, David Marquez</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/exiles-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DON'T BLINK - THE EXILES ARE BACK! Fan-favorite X-Man Blink once joined a team destined to save not just the world, but the entire Multiverse. And now, her teleporting talents are needed once again! When a mysterious threat begins eating away at the fabric of the Multiverse, the Unseen - the man once known as Nick Fury who now can only observe Earth from a lofty post on the moon - must recruit a champion to save it. But she can't do it alone. Who will join Blink's new team - and can they ever go home again?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/exiles-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="exlibrium" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>exlibrium</ten_truyen>
 		<ma_truyen>exlibrium</ma_truyen>
@@ -980,6 +998,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/g/green-arrow-(2016)/1_medium.jpg</hinh_nho>
         <gioi_thieu>As Oliver struggles with how he can fight “the man” when his huge fortune makes him the man, he and Black Canary uncover a deadly new threat to Seattle that cuts the Archer to the bone.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/green-arrow-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="green hornet (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Pulp, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>green hornet (2018)</ten_truyen>
+		<ma_truyen>green-hornet-2018</ma_truyen>
+        <tac_gia>Amy Chu, German Erramouspe</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/green-hornet-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Britt Reid Jr., the scion of the Daily Sentinel publishing empire, vanishes during a wild party on his friend's yacht. Meanwhile, crime spikes in the streets of Century City with the mysterious criminal/secret vigilante the Green Hornet absent. It's only a matter of time before SOMEONE puts two and two together, and it's up to Kato, former partner of Britt's father, and his daughter Mulan to protect the city AND the Green Hornet legacy, while finding out what happened to Britt. Amy Chu (Red Sonja, Poison Ivy, KISS) picks up where Kevin Smith left off with an action packed mystery.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/green-hornet-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="green lanterns (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>green lanterns (2016)</ten_truyen>
@@ -1304,6 +1331,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/j/james-bond-service-special/1_medium.jpg</hinh_nho>
         <gioi_thieu>In contemporary politics, where Britain's world standing is often more zero than 007, an assassin plans to exterminate the 'special relationship,' and lead Britain and the United States into a very dark place... especially when he does so by aiming down the sights of an ancient Enfield rifle! It'll test Bond's deadly talents to their limits, in order to defeat the assassin and avert certain geopolitical disaster...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/james-bond-service-special-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="james bond: the body" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Spy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>james bond: the body</ten_truyen>
+		<ma_truyen>james-bond-the-body</ma_truyen>
+        <tac_gia>Ales Kot, Luca Casalanguida</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/james-bond-the-body/1_medium.jpg</hinh_nho>
+        <gioi_thieu>As Bond undergoes a post-mission medical examination, he relays the story of his previous mission to the examiner. Each cut, bruise, and broken bone connected to a specific event of the mission. A connection is made between two people with different purposes: one to save lives, the other to take them.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/james-bond-the-body-eng.xml</file_xml>
     </truyen>
 	<truyen ten="jasmine: crown of kings" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>jasmine: crown of kings</ten_truyen>
