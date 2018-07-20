@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="exiles (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>exiles (2018)</ten_truyen>
+		<ma_truyen>exiles-2018</ma_truyen>
+        <tac_gia>Saladin Ahmed, Javier Rodriguez, David Marquez</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/exiles-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DON'T BLINK - THE EXILES ARE BACK! Fan-favorite X-Man Blink once joined a team destined to save not just the world, but the entire Multiverse. And now, her teleporting talents are needed once again! When a mysterious threat begins eating away at the fabric of the Multiverse, the Unseen - the man once known as Nick Fury who now can only observe Earth from a lofty post on the moon - must recruit a champion to save it. But she can't do it alone. Who will join Blink's new team - and can they ever go home again?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/exiles-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="green hornet (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Pulp, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>green hornet (2018)</ten_truyen>
+		<ma_truyen>green-hornet-2018</ma_truyen>
+        <tac_gia>Amy Chu, German Erramouspe</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/green-hornet-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Britt Reid Jr., the scion of the Daily Sentinel publishing empire, vanishes during a wild party on his friend's yacht. Meanwhile, crime spikes in the streets of Century City with the mysterious criminal/secret vigilante the Green Hornet absent. It's only a matter of time before SOMEONE puts two and two together, and it's up to Kato, former partner of Britt's father, and his daughter Mulan to protect the city AND the Green Hornet legacy, while finding out what happened to Britt. Amy Chu (Red Sonja, Poison Ivy, KISS) picks up where Kevin Smith left off with an action packed mystery.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/green-hornet-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="james bond: the body" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Spy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>james bond: the body</ten_truyen>
+		<ma_truyen>james-bond-the-body</ma_truyen>
+        <tac_gia>Ales Kot, Luca Casalanguida</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/james-bond-the-body/1_medium.jpg</hinh_nho>
+        <gioi_thieu>As Bond undergoes a post-mission medical examination, he relays the story of his previous mission to the examiner. Each cut, bruise, and broken bone connected to a specific event of the mission. A connection is made between two people with different purposes: one to save lives, the other to take them.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/james-bond-the-body-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="executive assistant: iris (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>executive assistant: iris (2018)</ten_truyen>
+		<ma_truyen>executive-assistant-iris-2018</ma_truyen>
+        <tac_gia>Blake Northcott, Donny Tran</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/executive-assistant-iris-vol-5/1_medium.jpg</hinh_nho>
+        <gioi_thieu> When a routine security job takes a turn for the worse, Executive Assistant Iris realizes she might be at the crossroads of her career! The world's deadliest assassin is faced with a choice: remain a freelance Executive Assistant, or join Magni Global-a mysterious corporation that has acquired nearly every private security firm on the planet. But, what fateful decisions may come from joining a giant conglomerate whose interests may spell doom for her?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/executive-assistant-iris-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="moonshine" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>moonshine</ten_truyen>
 		<ma_truyen>moonshine</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/stellar/1_medium.jpg</hinh_nho>
         <gioi_thieu>Stellar was taken as a child and transformed into the ultimate weapon, one that would end an intergalactic war. She succeeded... at everything except finding peace. Reduced to a bounty hunter, she scours the worlds she's broken, searching for redemption. But there are other weapons loose in the galaxy, who just can't leave the war behind them.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/stellar-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the magic order" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the magic order</ten_truyen>
-		<ma_truyen>the-magic-order</ma_truyen>
-        <tac_gia>Mark Millar, Olivier Coipel, Adam Hughes</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-magic-order/1_medium.jpg</hinh_nho>
-        <gioi_thieu>We live in a world where we've never seen a monster, and The Magic Order is the reason we sleep safely in our beds. Magic meets the mob in THE MAGIC ORDER, as five families of magicians-sworn to protect our world for generations-must battle an enemy who's picking them off one by one. By day, they live among us as our neighbors, friends, and co-workers, but by night, they are the sorcerers, magicians, and wizards that protect us from the forces of darkness... unless the darkness gets them first.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-magic-order-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="witchfinder: the gates of heaven" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>witchfinder: the gates of heaven</ten_truyen>
-		<ma_truyen>witchfinder-the-gates-of-heaven</ma_truyen>
-        <tac_gia>Mike Mignola, Chris Roberson, D'Israeli, Michelle Madsen</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/witchfinder-the-gates-of-heaven/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A series of occult events mystifies the man known as the Witchfinder, but even more surprising is the revelation that he is not alone in exploring the paranormal in London. When a personal invitation arrives from the palace, Sir Edward Grey is pulled even deeper into underground supernatural exploration alongside new allies in the race to stop a mad scientist from destroying London in his pursuit of mystical power.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/witchfinder-the-gates-of-heaven-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="justice league (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>justice league (2018)</ten_truyen>
-		<ma_truyen>justice-league-2018</ma_truyen>
-        <tac_gia>Scott Snyder, Jim Cheung, Mark Morales</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A brand-new era begins here! Comics legends Scott Snyder and Jim Cheung launch the Justice League into a cosmos-shaking mystery that will draw out their most terrible foes... in ways our heroes couldn't possibly imagine! In this debut issue, Martian Manhunter struggles to protect the team from an incoming threat that will shatter the world as they know it, while a familiar face strikes out on a dark path...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="tony stark: iron man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>tony stark: iron man</ten_truyen>
-		<ma_truyen>tony-stark-iron-man</ma_truyen>
-        <tac_gia>Dan Slott, Valerio Schiti, Alexandro Lozano</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/tony-stark-iron-man/1_medium.jpg</hinh_nho>
-        <gioi_thieu>TAKE FLIGHT WITH DAN SLOTT and VALERIO SCHITI! From the cusp of tomorrow's dreams to the forefront of imagination, one man always soars on the cutting edge of adventure! You know his name. Tony Stark is Iron Man. And Iron Man... is an idea. Always changing. Always evolving. An idea without limit! Take wing with DAN SLOTT (AMAZING SPIDER-MAN) and VALERIO SCHITI (GUARDIANS OF THE GALAXY) as they propel the ultimate Self-Made Hero to new heights of inventiveness! Tony Stark is Iron Man. The future is now. Strap in!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/tony-stark-iron-man-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="exiles (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>exiles (2018)</ten_truyen>
+		<ma_truyen>exiles-2018</ma_truyen>
+        <tac_gia>Saladin Ahmed, Javier Rodriguez, David Marquez</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/exiles-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DON'T BLINK - THE EXILES ARE BACK! Fan-favorite X-Man Blink once joined a team destined to save not just the world, but the entire Multiverse. And now, her teleporting talents are needed once again! When a mysterious threat begins eating away at the fabric of the Multiverse, the Unseen - the man once known as Nick Fury who now can only observe Earth from a lofty post on the moon - must recruit a champion to save it. But she can't do it alone. Who will join Blink's new team - and can they ever go home again?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/exiles-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="green hornet (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Pulp, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>green hornet (2018)</ten_truyen>
+		<ma_truyen>green-hornet-2018</ma_truyen>
+        <tac_gia>Amy Chu, German Erramouspe</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/green-hornet-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Britt Reid Jr., the scion of the Daily Sentinel publishing empire, vanishes during a wild party on his friend's yacht. Meanwhile, crime spikes in the streets of Century City with the mysterious criminal/secret vigilante the Green Hornet absent. It's only a matter of time before SOMEONE puts two and two together, and it's up to Kato, former partner of Britt's father, and his daughter Mulan to protect the city AND the Green Hornet legacy, while finding out what happened to Britt. Amy Chu (Red Sonja, Poison Ivy, KISS) picks up where Kevin Smith left off with an action packed mystery.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/green-hornet-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="james bond: the body" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Spy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>james bond: the body</ten_truyen>
+		<ma_truyen>james-bond-the-body</ma_truyen>
+        <tac_gia>Ales Kot, Luca Casalanguida</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/james-bond-the-body/1_medium.jpg</hinh_nho>
+        <gioi_thieu>As Bond undergoes a post-mission medical examination, he relays the story of his previous mission to the examiner. Each cut, bruise, and broken bone connected to a specific event of the mission. A connection is made between two people with different purposes: one to save lives, the other to take them.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/james-bond-the-body-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="executive assistant: iris (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>executive assistant: iris (2018)</ten_truyen>
+		<ma_truyen>executive-assistant-iris-2018</ma_truyen>
+        <tac_gia>Blake Northcott, Donny Tran</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/executive-assistant-iris-vol-5/1_medium.jpg</hinh_nho>
+        <gioi_thieu> When a routine security job takes a turn for the worse, Executive Assistant Iris realizes she might be at the crossroads of her career! The world's deadliest assassin is faced with a choice: remain a freelance Executive Assistant, or join Magni Global-a mysterious corporation that has acquired nearly every private security firm on the planet. But, what fateful decisions may come from joining a giant conglomerate whose interests may spell doom for her?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/executive-assistant-iris-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="moonshine" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>moonshine</ten_truyen>
 		<ma_truyen>moonshine</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/d/dodge-city/1_medium.jpg</hinh_nho>
         <gioi_thieu>Josh Trujillo (Adventure Time) and Cara McGee (Over the Garden Wall) team up for a new series about the high-energy chaos of competitive dodgeball! Tomas is the new captain of the Jazz Pandas dodgeball team, and he's got a certain knack for keeping an eye on on the ball (or several!). However, he's untested and still not quite part of the team. If the disorganized Jazz Pandas want to make it to summer regional championships they'll have to pull together under Tomas leadership.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dodge-city-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="renai lab" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4-koma, Comedy, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>renai lab</ten_truyen>
-		<ma_truyen>renai-lab</ma_truyen>
-		<tac_gia>Miyahara Ruri</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/23353/3/200.jpg</hinh_nho>
-		<gioi_thieu>The Fujisaki Girls Academy is known for their school body being composed of very proper students. The most prominent one of them is Maki, the student president who is admired by her classmates for her calm and polite demeanor. On the other hand, Kurahashi Riko is also admired but for having a very forward and boyish personality. Riko accidentally walks into Maki while she's practicing kissing with a pillow and learns that she isn't what everyone thinks she is. Riko is forced into keeping Maki's secret and join her in practicing all aspects of romance like holding hands and more.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/renai-lab-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gion no tsugai" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Romance, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gion no tsugai</ten_truyen>
-		<ma_truyen>gion-no-tsugai</ma_truyen>
-		<tac_gia>Thomasz</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/30965/2/200.jpg</hinh_nho>
-		<gioi_thieu>In the land of Gion, the capital of Japan, a mysterious 'divine power' has brought about great prosperity. It is a power that only brings about changes in girls in the form of turning them half-animal, a sign that they are servants to a god, as well as granting them great power. Some that are strong enough become Onmyou and fight evil. Others whose power have gone berserk become Orochi, fated to bring death and destruction to man. It was once thought that those who became Orochi had to be slain with no hope of saving the helpless victim-until a mysterious young man named Gion appeared to save one such girl. Will he be strong enough to fight the Orochi and bring an end to their terror?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/gion-no-tsugai-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="hiyokoi" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shoujo., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>hiyokoi</ten_truyen>
-		<ma_truyen>hiyokoi</ma_truyen>
-		<tac_gia>Yukimaru Moe</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3862/4/200.jpg</hinh_nho>
-		<gioi_thieu>Hiyori, a small and timid girl, goes to school for the first time in a year since an accident left her hospitalized. Follow her as she struggles with her social skills, tries to make friends and maybe even a little bit more...?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hiyokoi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="spidey: school's out" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>spidey: school's out</ten_truyen>
-		<ma_truyen>spidey-school-s-out</ma_truyen>
-        <tac_gia>John Barber, Todd Nauck, Rachelle Rosenberg</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/spidey-schools-out/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Peter Parker just survived his first year as the Amazing Spider-Man AND a year of high school! What is he going to do next? He's going to Stark science camp! A week indoors with the coolest technology in the world is a dream come true for Peter--and a bonanza for one Spider-foe who's seriously upgraded his arsenal. Can Spider-Man keep the camp safe, and keep his identity secret from his first dorm mate, while Peter Parker makes new friends and finishes his project on time?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spidey-school-s-out-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
