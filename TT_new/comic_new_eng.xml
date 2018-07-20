@@ -45,15 +45,6 @@
         <gioi_thieu>Set during Prohibition, and deep in the backwoods of Appalachia, MOONSHINE #1 tells the story of Lou Pirlo, a city-slick 'torpedo' sent from New York City to negotiate a deal with the best moonshiner in West Virginia, one Hiram Holt. What Lou doesn't figure on is that Holt is just as cunning and ruthless as any NYC crime boss. Because not only will Holt do anything to protect his illicit booze operation, he'll stop at nothing to protect a much darker family secret...a bloody, supernatural secret that must never see the light of day... or better still, the light of the full moon.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/moonshine-eng.xml</file_xml>
     </truyen>
-	<truyen ten="encounter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Children, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>encounter</ten_truyen>
-		<ma_truyen>encounter</ma_truyen>
-        <tac_gia>Franco Aureliani, Art Baltazar, Chris Giarrusso</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/encounter/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A brand-new series by Tiny Titans creators Art Baltazar and Franco! Encounter is a new kind of hero; an alien escaped to Earth with pods that will eventually hatch to become his siblings, who can take any form he chooses, and decides to become a hero! With help from his talking dog Barko, he fights crime on our planet. But there is a mysterious figure who will try anything to defeat him. In volume 1, Encounter and Barko must defend the pods from villains such as Gadget Man, Cold Blaze the Thermodynamic Shark, and Ribbon Rhonda. No matter the odds, Encounter will always find a way to save the day!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/encounter-eng.xml</file_xml>
-    </truyen>
 	<truyen ten="skyward (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>skyward (2018)</ten_truyen>
 		<ma_truyen>skyward-2018</ma_truyen>
