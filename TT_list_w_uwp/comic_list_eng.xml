@@ -207,6 +207,15 @@
         <gioi_thieu>Marcus King: modern-day Robin Hood or terrorist? Maybe both? When Marcus comes face to face with an adversary who knows all of his carefully buried truths, he's forced to become the man he has always pretended to be. And punch a small army of dudes. And blow up stuff. Lots of stuff.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bankshot-eng.xml</file_xml>
     </truyen>
+	<truyen ten="barbarella (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>barbarella (2017)</ten_truyen>
+		<ma_truyen>barbarella-2017</ma_truyen>
+        <tac_gia>Mike Carey, Kenan Yarar</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarella-(2017)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Earth's star-crossed daughter is back! When Barbarella wanders into a war zone, the theocratic rulers of Parosia arrest and imprison her. A prison break is brewing, but now that she knows what the Parosians do to their own citizens Barbarella decides to make this fight her own...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-2017-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="batgirl (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batgirl (2016)</ten_truyen>
 		<ma_truyen>batgirl-2016</ma_truyen>
@@ -900,6 +909,15 @@
         <gioi_thieu>When the adventurous and inquisitive Jonny Quest and his adoptive brother Hadji make a startling discovery in the swamplands of Florida, they are pulled into an epic struggle between the Space Rangers and a dangerous villain who threatens the galaxy. Now it's up to the combined forces of Team Quest, Inter-Nation Security, Space Ghost, and a host of Hanna-Barbera's greatest action heroes to stop him and save their universe!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/future-quest-eng.xml</file_xml>
     </truyen>
+	<truyen ten="gasolina" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>gasolina</ten_truyen>
+		<ma_truyen>gasolina</ma_truyen>
+        <tac_gia>Sean Mackiewicz, Mat Lopes, Niko Walter</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/gasolina/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Fugitives. Rebels. Newlyweds. In their journey south from El Norte, Amalia and Randy have played many roles in order to survive. Now, they must become unlikely leaders in the fight against a new cartel who uses inhuman tactics to ignite the most monstrous war Mexico and the world has ever seen. Everything burns in this new series from SEAN MACKIEWICZ and NIKO WALTER, where love and devotion can only be measured in fire and blood.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gasolina-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="ghost station zero" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Crime, Leading ladies, Mystery, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>ghost station zero</ten_truyen>
 		<ma_truyen>ghost-station-zero</ma_truyen>
@@ -1052,6 +1070,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkeye-(2016)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Remember Hawkeye? No not that Hawkeye, our favorite Hawkeye, the chick who puts the hawk in Hawkeye, the butt-kicking hero who had to save the other Hawkeye's butt all the time. Yup, you know her, it's the dazzling Kate Bishop making her solo comics debut! Kate is heading west and returning to Los Angeles, with her bow and arrow and P.I. badge in tow. There are crimes to solve and she's the best archer to handle 'em! The City of Angels has a new guardian angel. The talented duo of Kelly Thompson (A-Force, Jem) and Leonardo Romero (Squadron Supreme, Doctor Strange) bring you a Kate Bishop like you've never seen her before, in a brand-new ongoing series that really hits the mark!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkeye-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="her infernal descent" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>her infernal descent</ten_truyen>
+		<ma_truyen>her-infernal-descent</ma_truyen>
+        <tac_gia>Lonnie Nadler, Zac Thompson, Kyle Charles, Ryan Ferrier</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/her-infernal-descent/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A tale of loss told in five parts. Any good mom would march through the inferno of HELL to get her family back. Unable to cope with the burden of grief, a middle-aged mom descends the nine circles of hell to retrieve her forsaken family. Guided by the ghosts of William Blake and Agatha Christie, this no-nonsense mother journeys deep into a bizarre underworld filled with celebrity sinners, surreal landscapes, and absurd tasks. HER INFERNAL DESCENT is a retelling of Dante's Inferno that updates the themes for a modern audience. From the writers of the break-out hit The Dregs, and the artist of Roche Limit, this is HELL like you've never seen before.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/her-infernal-descent-eng.xml</file_xml>
     </truyen>
 	<truyen ten="hillbilly" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Mythology, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>hillbilly</ten_truyen>
@@ -1979,6 +2006,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/shade-the-changing-woman/1_medium.jpg</hinh_nho>
         <gioi_thieu>Shade has shed her alien identity. She's stepped out of her original Earth body and into another one. Now, free of the burdens of any past life, and finally on her own, she sets out to see more of her new home. But how does she cope when the madness takes all the human emotions she was forced to confront in the Milk Wars and turns them into a bouillabaisse of memory and confusion? And to make it even more challenging, Shade must also face her namesake, the original Changing Man.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shade-the-changing-woman-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="shadow roads" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Western" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>shadow roads</ten_truyen>
+		<ma_truyen>shadow-roads</ma_truyen>
+        <tac_gia>Cullen Bunn, Brian Hurtt, A.C. Zamudio</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shadow-roads/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The world is thinnest at The Crossroads, a mythical plane that serves as a doorway throughout the universe. It is here that a band of adventurers throughout the Wild West gather, brought together by Gord Cantrell and Abigail Redmayne with a singular purpose: to fight back against the creatures that would endanger the sanctity of all creation.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shadow-roads-eng.xml</file_xml>
     </truyen>
 	<truyen ten="shadows on the grave" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>shadows on the grave</ten_truyen>
