@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="mata hari (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Fantasy, Leading ladies, Literature, Mature" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>mata hari (2018)</ten_truyen>
+		<ma_truyen>mata-hari-2018</ma_truyen>
+        <tac_gia>Emma Beeby, Ariela Kristantina, Pat Masioni</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mata-hari-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Dancer. Courtesan. Spy. Executed by a French firing squad in 1917. 100 years on from her death, questions are still raised about her conviction. Now, the lesser-known, often tragic story of the woman who claimed she was born a princess, and died a figure of public hatred with no one to claim her body, is told by breakout talent writer Emma Beeby (Judge Dredd), artist Ariela Kristantina (Insexts), and colorist Pat Masioni drawing on biographies and released MI5 files. In this first part of a five-issue miniseries, we meet Mata Hari in prison at the end of her life as she writes her memoir--part romantic tale of a Javanese princess who performed 'sacred' nude dances for Europe's elite, and part real-life saga of a disgraced wife and mother, who had everything she loved taken from her. But, as she sits trial for treason and espionage, we hear another tale: one of a flamboyant Dutch woman who became 'the most dangerous spy France has ever captured' a double agent who whored herself for secrets, lived a life of scandal, and loved only money. Leading us to ask... who was the real Mata Hari?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mata-hari-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="bedtime games" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>bedtime games</ten_truyen>
+		<ma_truyen>bedtime-games</ma_truyen>
+        <tac_gia>Tini Howard, Celor, K. Michael Russell, Tim Seeley</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/bedtime-games/1_medium.jpg</hinh_nho>
+        <gioi_thieu>As summer comes to an end, three friends start senior year with a bang by exploring the mysterious past of their school. But before the night is over, their adventure turns into trouble when the kids set loose an evil that seeks to prey on their worst nightmares. </gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bedtime-games-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="cyber force (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>cyber force (2018)</ten_truyen>
+		<ma_truyen>cyber-force-2018</ma_truyen>
+        <tac_gia>Matt Hawkins, Bryan Edward Hill, Atilio Rojo, Marc Silvestri</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/cyber-force-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>TO PROTECT THE FUTURE, WHAT WILL WE BECOME? The classic series returns in a reimagining overseen by creator MARC SILVESTRI. In a modern world where humanity is defined by the technology it creates, a terrorist strikes at the heart of human progress. One of the few survivors of the attack is a man named Morgan Stryker. Mortally wounded, Stryker's life is saved by his employers...but the price could be his humanity itself.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cyber-force-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="black cloud" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Leading ladies, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>black cloud</ten_truyen>
+		<ma_truyen>black-cloud</ma_truyen>
+        <tac_gia>Jason Latour, Ivan Brandon, Greg Hinkle, Matt Wilson</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/black-cloud/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Zelda was born in a world of dreams, and hers burned bigger than anyone had ever seen. Now she's on the run in our world, the dreams broken in her hands. But the pieces are for sale, the rich and the powerful are buying, and suddenly her world isn't the only place Zelda's running from. From the creators that brought you Spider-Gwen, SOUTHERN BASTARDS, and DRIFTER, and the incredible colorist of THE WICKED + THE DIVINE, comes a place where dreams come true--and today, they go to war.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-cloud-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="dungeon seeker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Mature, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>dungeon seeker</ten_truyen>
 		<ma_truyen>dungeon-seeker</ma_truyen>
@@ -260,41 +296,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Cloned from a warrior, raised as a killer, Laura Kinney has gone through hell and come out the other side a hero. After a stint as the All-New Wolverine, she returns to her roots as X-23 to make sure no one ever has to go through the horrors she did. With her sister Gabby and their pet Jonathan in tow, X-23 forges her own destiny in this new series by Mariko Tamaki (HULK, HUNT FOR WOLVERINE: CLAWS OF A KILLER) and Juann Cabal (ALL-NEW WOLVERINE, ELEKTRA).</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="robotech (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Mecha, Movies - tv, Romance, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>robotech (2017)</ten_truyen>
-		<ma_truyen>robotech-2017</ma_truyen>
-        <tac_gia>Brian Wood, Marco Turini, Marco Lesko, John Workman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/robotech/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Not just another retelling of the Macross saga... the story continues as we bring Carl Macek's original vision full circle. Taking into account every iteration of the series, this new Robotech casts a fresh eye over classic characters like Rick Hunter, Lisa Hayes, Lynn Minmei, Roy Fokker, Claudia Grant, and Henry Gloval. Brian Wood and Marco Turini take us back to a Macross Island where 'nothing' can be taken for granted.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robotech-2017-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="quantum and woody! (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>quantum and woody! (2017)</ten_truyen>
-		<ma_truyen>quantum-and-woody-2017</ma_truyen>
-        <tac_gia>Nick Spencer, Ryan Ottley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/q/quantum-and-woody-(2017)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Sometimes...you embrace your destiny. And sometimes... you and your trouble-making adopted brother find yourselves trapped in a scientific lab explosion that grants you ****ing awesome super-powers. As a result of their accident, Eric and Woody Henderson - aka Quantum and Woody - must 'klang' their wristbands together every 24 hours or both dissipate into nothingness. Which makes superhero-ing pretty awkward when you're not on speaking terms at the moment. See, Eric has been keeping a pretty big secret: He knows who Woody's birth father really is...and where he's been hiding all these years. With great power comes great sibling rivalry! This winter, you'll believe two men and one goat can split a one-bedroom apartment and still be a credible threat to evil and injustice everywhere when QUANTUM AND WOODY make headlines and take names!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quantum-and-woody-2017-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the ballad of sang" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the ballad of sang</ten_truyen>
-		<ma_truyen>the-ballad-of-sang</ma_truyen>
-        <tac_gia>Ed Brisson, Alessandro Micelli, Shari Chankhamma</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-ballad-of-sang/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Kidnapped off the streets of the Philippines as an infant and trained as a child assassin, Sang has never had a childhood. All he's ever known is killing and the kindness of his master, Chen, the closest thing Sang has to a father. When Sang's enthusiasm botches a job, it brings the wrath of Don Minchella down on the pair, resulting in Chen's murder. Barely escaping with his own life -- and with Minchella's severed arm in tow -- Sang swears revenge, while every gang in the city mobilizes to return him to Minchella, dead or alive.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-ballad-of-sang-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="gideon falls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>gideon falls</ten_truyen>
-		<ma_truyen>gideon-falls</ma_truyen>
-        <tac_gia>Jeff Lemire, Andrea Sorrentino, Jock</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/gideon-falls/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A brand-new ongoing series from the acclaimed bestselling creative team of Old Man Logan and Green Arrow! The lives of a reclusive young man obsessed with a conspiracy in the city's trash, and a washed-up Catholic priest arriving in a small town full of dark secrets, become intertwined around the mysterious legend of The Black Barn, an otherworldly building that is alleged to have appeared in both the city and the small town, throughout history, bringing death and madness in its wake. Rural mystery and urban horror collide in this character-driven meditation on obsession, mental illness, and faith.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gideon-falls-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
