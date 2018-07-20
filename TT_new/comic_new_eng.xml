@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="moonshine" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>moonshine</ten_truyen>
+		<ma_truyen>moonshine</ma_truyen>
+        <tac_gia>Brian Azzarello, Eduardo Risso, Frank Miller</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/moonshine/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Set during Prohibition, and deep in the backwoods of Appalachia, MOONSHINE #1 tells the story of Lou Pirlo, a city-slick 'torpedo' sent from New York City to negotiate a deal with the best moonshiner in West Virginia, one Hiram Holt. What Lou doesn't figure on is that Holt is just as cunning and ruthless as any NYC crime boss. Because not only will Holt do anything to protect his illicit booze operation, he'll stop at nothing to protect a much darker family secret...a bloody, supernatural secret that must never see the light of day... or better still, the light of the full moon.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/moonshine-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="encounter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Children, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>encounter</ten_truyen>
+		<ma_truyen>encounter</ma_truyen>
+        <tac_gia>Franco Aureliani, Art Baltazar, Chris Giarrusso</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/encounter/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A brand-new series by Tiny Titans creators Art Baltazar and Franco! Encounter is a new kind of hero; an alien escaped to Earth with pods that will eventually hatch to become his siblings, who can take any form he chooses, and decides to become a hero! With help from his talking dog Barko, he fights crime on our planet. But there is a mysterious figure who will try anything to defeat him. In volume 1, Encounter and Barko must defend the pods from villains such as Gadget Man, Cold Blaze the Thermodynamic Shark, and Ribbon Rhonda. No matter the odds, Encounter will always find a way to save the day!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/encounter-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="skyward (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>skyward (2018)</ten_truyen>
+		<ma_truyen>skyward-2018</ma_truyen>
+        <tac_gia>Joe Henderson, Antonio Fabela, Lee Garbett</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/skyward-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>One day, gravity on earth suddenly became a fraction of what it is now. Twenty years later, humanity has adapted to its new low-gravity reality. And to Willa Fowler, a woman born just after G-day, it's... well, it's pretty awesome, actually. You can fly through the air! I mean, sure, you can also die if you jump too high. So you just don't jump too high. And maybe don't stumble into a dangerous plan to bring gravity back that could get you killed.... From writer JOE HENDERSON (showrunner of Fox's Lucifer) and artist LEE GARBETT (Lucifer, Loki: Agent of Asgard), SKYWARD is an adventure-filled exploration of our world turned upside down and a young woman's journey to find her place in it.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/skyward-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the beef" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the beef</ten_truyen>
+		<ma_truyen>the-beef</ma_truyen>
+        <tac_gia>Tyler Shainline, Richard Starkings, Shaky Kane, John Roshel</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/beef/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The creator of ELEPHANTMEN and the creator of The A-Men join forces with TYLER SHAINLINE (Liberty Justice) to bring you the story of Meat Men! Chuck is a mild-mannered meat factory worker who is a little in love with a strawberry picker named Mary Lynn. But everything changes when Mary Lynn falls victim to the Vodino Brothers...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-beef-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="barbarella (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>barbarella (2017)</ten_truyen>
 		<ma_truyen>barbarella-2017</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/tony-stark-iron-man/1_medium.jpg</hinh_nho>
         <gioi_thieu>TAKE FLIGHT WITH DAN SLOTT and VALERIO SCHITI! From the cusp of tomorrow's dreams to the forefront of imagination, one man always soars on the cutting edge of adventure! You know his name. Tony Stark is Iron Man. And Iron Man... is an idea. Always changing. Always evolving. An idea without limit! Take wing with DAN SLOTT (AMAZING SPIDER-MAN) and VALERIO SCHITI (GUARDIANS OF THE GALAXY) as they propel the ultimate Self-Made Hero to new heights of inventiveness! Tony Stark is Iron Man. The future is now. Strap in!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/tony-stark-iron-man-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="damage (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>damage (2018)</ten_truyen>
-		<ma_truyen>damage-2018</ma_truyen>
-        <tac_gia>Robert Venditti, Tony Salvador Daniel, Danny Miki, Tomeu Morey</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Ethan 'Elvis' Avery just wanted to serve his country. Instead, he's been changed into a monster! Tasked as the government's own living, breathing, ticking time bomb, Ethan retains no control when the monster takes over. Cheaper than a nuclear warhead and twice as effective, Ethan fights to rein in the damage he unleashes when the beast inside him springs free for one hour a day. With everyone around him in danger, Ethan struggles to contain the DAMAGE he inflicts on the DC Universe.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/damage-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-23 (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>x-23 (2018)</ten_truyen>
-		<ma_truyen>x-23-2018</ma_truyen>
-        <tac_gia>Mariko Tamaki, Juann Cabal, Mike Choi</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Cloned from a warrior, raised as a killer, Laura Kinney has gone through hell and come out the other side a hero. After a stint as the All-New Wolverine, she returns to her roots as X-23 to make sure no one ever has to go through the horrors she did. With her sister Gabby and their pet Jonathan in tow, X-23 forges her own destiny in this new series by Mariko Tamaki (HULK, HUNT FOR WOLVERINE: CLAWS OF A KILLER) and Juann Cabal (ALL-NEW WOLVERINE, ELEKTRA).</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="robotech (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Mecha, Movies - tv, Romance, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>robotech (2017)</ten_truyen>
-		<ma_truyen>robotech-2017</ma_truyen>
-        <tac_gia>Brian Wood, Marco Turini, Marco Lesko, John Workman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/robotech/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Not just another retelling of the Macross saga... the story continues as we bring Carl Macek's original vision full circle. Taking into account every iteration of the series, this new Robotech casts a fresh eye over classic characters like Rick Hunter, Lisa Hayes, Lynn Minmei, Roy Fokker, Claudia Grant, and Henry Gloval. Brian Wood and Marco Turini take us back to a Macross Island where 'nothing' can be taken for granted.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robotech-2017-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="quantum and woody! (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>quantum and woody! (2017)</ten_truyen>
-		<ma_truyen>quantum-and-woody-2017</ma_truyen>
-        <tac_gia>Nick Spencer, Ryan Ottley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/q/quantum-and-woody-(2017)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Sometimes...you embrace your destiny. And sometimes... you and your trouble-making adopted brother find yourselves trapped in a scientific lab explosion that grants you ****ing awesome super-powers. As a result of their accident, Eric and Woody Henderson - aka Quantum and Woody - must 'klang' their wristbands together every 24 hours or both dissipate into nothingness. Which makes superhero-ing pretty awkward when you're not on speaking terms at the moment. See, Eric has been keeping a pretty big secret: He knows who Woody's birth father really is...and where he's been hiding all these years. With great power comes great sibling rivalry! This winter, you'll believe two men and one goat can split a one-bedroom apartment and still be a credible threat to evil and injustice everywhere when QUANTUM AND WOODY make headlines and take names!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quantum-and-woody-2017-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="moonshine" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>moonshine</ten_truyen>
+		<ma_truyen>moonshine</ma_truyen>
+        <tac_gia>Brian Azzarello, Eduardo Risso, Frank Miller</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/moonshine/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Set during Prohibition, and deep in the backwoods of Appalachia, MOONSHINE #1 tells the story of Lou Pirlo, a city-slick 'torpedo' sent from New York City to negotiate a deal with the best moonshiner in West Virginia, one Hiram Holt. What Lou doesn't figure on is that Holt is just as cunning and ruthless as any NYC crime boss. Because not only will Holt do anything to protect his illicit booze operation, he'll stop at nothing to protect a much darker family secret...a bloody, supernatural secret that must never see the light of day... or better still, the light of the full moon.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/moonshine-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="encounter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Children, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>encounter</ten_truyen>
+		<ma_truyen>encounter</ma_truyen>
+        <tac_gia>Franco Aureliani, Art Baltazar, Chris Giarrusso</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/encounter/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A brand-new series by Tiny Titans creators Art Baltazar and Franco! Encounter is a new kind of hero; an alien escaped to Earth with pods that will eventually hatch to become his siblings, who can take any form he chooses, and decides to become a hero! With help from his talking dog Barko, he fights crime on our planet. But there is a mysterious figure who will try anything to defeat him. In volume 1, Encounter and Barko must defend the pods from villains such as Gadget Man, Cold Blaze the Thermodynamic Shark, and Ribbon Rhonda. No matter the odds, Encounter will always find a way to save the day!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/encounter-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="skyward (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>skyward (2018)</ten_truyen>
+		<ma_truyen>skyward-2018</ma_truyen>
+        <tac_gia>Joe Henderson, Antonio Fabela, Lee Garbett</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/skyward-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>One day, gravity on earth suddenly became a fraction of what it is now. Twenty years later, humanity has adapted to its new low-gravity reality. And to Willa Fowler, a woman born just after G-day, it's... well, it's pretty awesome, actually. You can fly through the air! I mean, sure, you can also die if you jump too high. So you just don't jump too high. And maybe don't stumble into a dangerous plan to bring gravity back that could get you killed.... From writer JOE HENDERSON (showrunner of Fox's Lucifer) and artist LEE GARBETT (Lucifer, Loki: Agent of Asgard), SKYWARD is an adventure-filled exploration of our world turned upside down and a young woman's journey to find her place in it.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/skyward-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the beef" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the beef</ten_truyen>
+		<ma_truyen>the-beef</ma_truyen>
+        <tac_gia>Tyler Shainline, Richard Starkings, Shaky Kane, John Roshel</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/beef/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The creator of ELEPHANTMEN and the creator of The A-Men join forces with TYLER SHAINLINE (Liberty Justice) to bring you the story of Meat Men! Chuck is a mild-mannered meat factory worker who is a little in love with a strawberry picker named Mary Lynn. But everything changes when Mary Lynn falls victim to the Vodino Brothers...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-beef-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="ougon no ringo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ougon no ringo</ten_truyen>
 		<ma_truyen>ougon-no-ringo</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/spidey-schools-out/1_medium.jpg</hinh_nho>
         <gioi_thieu>Peter Parker just survived his first year as the Amazing Spider-Man AND a year of high school! What is he going to do next? He's going to Stark science camp! A week indoors with the coolest technology in the world is a dream come true for Peter--and a bonanza for one Spider-foe who's seriously upgraded his arsenal. Can Spider-Man keep the camp safe, and keep his identity secret from his first dorm mate, while Peter Parker makes new friends and finishes his project on time?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spidey-school-s-out-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the life of captain marvel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the life of captain marvel</ten_truyen>
-		<ma_truyen>the-life-of-captain-marvel</ma_truyen>
-        <tac_gia>Margaret Stohl, Carlos Pacheco, Rafael Fonteriz</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-life-of-captain-marvel/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE DEFINITIVE ORIGIN OF CAPTAIN MARVEL! Carol Danvers was just a girl from the Boston suburbs who loved science and the Red Sox until a chance encounter with a Kree hero gave her incredible super-powers. Now, she's a leader in the Avengers and the commander of Alpha Flight. But what if there were more to the story? When crippling anxiety attacks put her on the sidelines in the middle of a fight, Carol finds herself reliving memories of a life she thought was far behind her. You can't outrun where you're from - and sometimes, you HAVE to go home again. But there are skeletons in Captain Marvel's closet - and what she discovers will change her entire world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-life-of-captain-marvel-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="thor (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>thor (2018)</ten_truyen>
-		<ma_truyen>thor-2018</ma_truyen>
-        <tac_gia>Jason Aaron, Mike Del Mundo, Christian Ward</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Thor Odinson has regained his mantle - and with it, a wild new world of trouble on his mighty hands! The artifacts of Asgard have been scattered across the earth, and to reclaim them, Thor will have to face some ugly truths. Like the production cost of hundreds of new hammers! And the Thunder God is going to need every last one of them if he's going to stop the unstoppable Juggernaut.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thor-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="weapon h" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>weapon h</ten_truyen>
-		<ma_truyen>weapon-h</ma_truyen>
-        <tac_gia>Greg Pak, Cory Smith, Leinil Francis Yu</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-h/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Weapon X Program has done it again! At the cost of their own destruction, they've completed their biggest and possibly most dangerous experiment yet... With the strength of the Hulk and the rage and claws of Wolverine comes WEAPON H! It's been some time since Weapon H escaped and destroyed his creators. Now, our hero is on the run, as he tries to escape his mysterious past and seclude himself from the rest of society. But when a new kind of Wendigo threatens the lives of others, will Weapon H be able to shirk his responsibility? Does any of his humanity remain?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weapon-h-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the weatherman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the weatherman</ten_truyen>
-		<ma_truyen>the-weatherman</ma_truyen>
-        <tac_gia>Jody LeHeup, Nathan Fox, Marcos Martin</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-weatherman/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Nathan Bright had it all: an awesome girlfriend, a kickass dog, and a job as the number one weatherman on terraformed Mars. But when he's accused of carrying out the worst terrorist attack in human history-an event that wiped out nearly the entire population of Earth-Nathan becomes the most wanted man alive and a target of a manhunt that spans the galaxy. But is Nathan truly responsible for such a horrific crime? And why can't he remember? Writer JODY LEHEUP (SHIRTLESS BEAR-FIGHTER!), artist NATHAN FOX (DMZ, HAUNT, Dark Reign: Zodiac), and colorist DAVE STEWART (Hellboy, RUMBLE) present a full-throttle, widescreen science fiction epic about the damage we do in the name of justice and what it truly means to be redeemed...You don't want to miss THE WEATHERMAN!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-weatherman-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
