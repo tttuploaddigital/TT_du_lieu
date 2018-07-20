@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="barbarella (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>barbarella (2017)</ten_truyen>
+		<ma_truyen>barbarella-2017</ma_truyen>
+        <tac_gia>Mike Carey, Kenan Yarar</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarella-(2017)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Earth's star-crossed daughter is back! When Barbarella wanders into a war zone, the theocratic rulers of Parosia arrest and imprison her. A prison break is brewing, but now that she knows what the Parosians do to their own citizens Barbarella decides to make this fight her own...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="shadow roads" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Western" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>shadow roads</ten_truyen>
+		<ma_truyen>shadow-roads</ma_truyen>
+        <tac_gia>Cullen Bunn, Brian Hurtt, A.C. Zamudio</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shadow-roads/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The world is thinnest at The Crossroads, a mythical plane that serves as a doorway throughout the universe. It is here that a band of adventurers throughout the Wild West gather, brought together by Gord Cantrell and Abigail Redmayne with a singular purpose: to fight back against the creatures that would endanger the sanctity of all creation.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shadow-roads-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="gasolina" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>gasolina</ten_truyen>
+		<ma_truyen>gasolina</ma_truyen>
+        <tac_gia>Sean Mackiewicz, Mat Lopes, Niko Walter</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/gasolina/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Fugitives. Rebels. Newlyweds. In their journey south from El Norte, Amalia and Randy have played many roles in order to survive. Now, they must become unlikely leaders in the fight against a new cartel who uses inhuman tactics to ignite the most monstrous war Mexico and the world has ever seen. Everything burns in this new series from SEAN MACKIEWICZ and NIKO WALTER, where love and devotion can only be measured in fire and blood.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gasolina-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="her infernal descent" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>her infernal descent</ten_truyen>
+		<ma_truyen>her-infernal-descent</ma_truyen>
+        <tac_gia>Lonnie Nadler, Zac Thompson, Kyle Charles, Ryan Ferrier</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/her-infernal-descent/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A tale of loss told in five parts. Any good mom would march through the inferno of HELL to get her family back. Unable to cope with the burden of grief, a middle-aged mom descends the nine circles of hell to retrieve her forsaken family. Guided by the ghosts of William Blake and Agatha Christie, this no-nonsense mother journeys deep into a bizarre underworld filled with celebrity sinners, surreal landscapes, and absurd tasks. HER INFERNAL DESCENT is a retelling of Dante's Inferno that updates the themes for a modern audience. From the writers of the break-out hit The Dregs, and the artist of Roche Limit, this is HELL like you've never seen before.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/her-infernal-descent-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="mata hari (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Fantasy, Leading ladies, Literature, Mature" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>mata hari (2018)</ten_truyen>
 		<ma_truyen>mata-hari-2018</ma_truyen>
@@ -233,68 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/w/witchfinder-the-gates-of-heaven/1_medium.jpg</hinh_nho>
         <gioi_thieu>A series of occult events mystifies the man known as the Witchfinder, but even more surprising is the revelation that he is not alone in exploring the paranormal in London. When a personal invitation arrives from the palace, Sir Edward Grey is pulled even deeper into underground supernatural exploration alongside new allies in the race to stop a mad scientist from destroying London in his pursuit of mystical power.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/witchfinder-the-gates-of-heaven-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="fukigen na mononokean" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>fukigen na mononokean</ten_truyen>
-		<ma_truyen>fukigen-na-mononokean</ma_truyen>
-		<tac_gia>Yoshihara Masahiko</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/37676/1/200.jpg</hinh_nho>
-		<gioi_thieu>Ashiya has spent the first seven days of high school stuck in the infirmary because of a 'mononoke' attaching itself to him. He ends up asking the owner of a small tearoom - Mononokean - for help. A series of mysterious stories involving the very morose owner of Mononokean, who guides mononoke to pass on to the next world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fukigen-na-mononokean-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kinkyori renai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kinkyori renai</ten_truyen>
-		<ma_truyen>kinkyori-renai</ma_truyen>
-		<tac_gia>Mikimoto Rin</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/5089/2/200.jpg</hinh_nho>
-		<gioi_thieu>Uni is a prodigy with a cool reserve who is accomplished in everything except for English. One day, she insults her temporary English teacher and he overhears her. He asks her to come to his office after school and, somehow, she starts receiving private tutoring from him.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kinkyori-renai-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="hapi mari" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Josei, Romance, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>hapi mari</ten_truyen>
-		<ma_truyen>hapi-mari</ma_truyen>
-		<tac_gia>Enjouji Maki</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3497/1/200.jpg</hinh_nho>
-		<gioi_thieu>In order to help her father, Chiwa Takanashi agrees to an arranged marriage with the company president Hokuto Mamiya - a man she doesn't know - at the request of Hokuto's grandfather. Chiwa believes the arrangement isn't binding, but her new partner seems to think otherwise. Can two strangers living together find their way to a happy marriage?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hapi-mari-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="justice league (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>justice league (2018)</ten_truyen>
-		<ma_truyen>justice-league-2018</ma_truyen>
-        <tac_gia>Scott Snyder, Jim Cheung, Mark Morales</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A brand-new era begins here! Comics legends Scott Snyder and Jim Cheung launch the Justice League into a cosmos-shaking mystery that will draw out their most terrible foes... in ways our heroes couldn't possibly imagine! In this debut issue, Martian Manhunter struggles to protect the team from an incoming threat that will shatter the world as they know it, while a familiar face strikes out on a dark path...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="tony stark: iron man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>tony stark: iron man</ten_truyen>
-		<ma_truyen>tony-stark-iron-man</ma_truyen>
-        <tac_gia>Dan Slott, Valerio Schiti, Alexandro Lozano</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/tony-stark-iron-man/1_medium.jpg</hinh_nho>
-        <gioi_thieu>TAKE FLIGHT WITH DAN SLOTT and VALERIO SCHITI! From the cusp of tomorrow's dreams to the forefront of imagination, one man always soars on the cutting edge of adventure! You know his name. Tony Stark is Iron Man. And Iron Man... is an idea. Always changing. Always evolving. An idea without limit! Take wing with DAN SLOTT (AMAZING SPIDER-MAN) and VALERIO SCHITI (GUARDIANS OF THE GALAXY) as they propel the ultimate Self-Made Hero to new heights of inventiveness! Tony Stark is Iron Man. The future is now. Strap in!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/tony-stark-iron-man-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="damage (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>damage (2018)</ten_truyen>
-		<ma_truyen>damage-2018</ma_truyen>
-        <tac_gia>Robert Venditti, Tony Salvador Daniel, Danny Miki, Tomeu Morey</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Ethan 'Elvis' Avery just wanted to serve his country. Instead, he's been changed into a monster! Tasked as the government's own living, breathing, ticking time bomb, Ethan retains no control when the monster takes over. Cheaper than a nuclear warhead and twice as effective, Ethan fights to rein in the damage he unleashes when the beast inside him springs free for one hour a day. With everyone around him in danger, Ethan struggles to contain the DAMAGE he inflicts on the DC Universe.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/damage-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-23 (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>x-23 (2018)</ten_truyen>
-		<ma_truyen>x-23-2018</ma_truyen>
-        <tac_gia>Mariko Tamaki, Juann Cabal, Mike Choi</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Cloned from a warrior, raised as a killer, Laura Kinney has gone through hell and come out the other side a hero. After a stint as the All-New Wolverine, she returns to her roots as X-23 to make sure no one ever has to go through the horrors she did. With her sister Gabby and their pet Jonathan in tow, X-23 forges her own destiny in this new series by Mariko Tamaki (HULK, HUNT FOR WOLVERINE: CLAWS OF A KILLER) and Juann Cabal (ALL-NEW WOLVERINE, ELEKTRA).</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

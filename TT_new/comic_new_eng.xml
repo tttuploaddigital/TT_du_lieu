@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="barbarella (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>barbarella (2017)</ten_truyen>
+		<ma_truyen>barbarella-2017</ma_truyen>
+        <tac_gia>Mike Carey, Kenan Yarar</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarella-(2017)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Earth's star-crossed daughter is back! When Barbarella wanders into a war zone, the theocratic rulers of Parosia arrest and imprison her. A prison break is brewing, but now that she knows what the Parosians do to their own citizens Barbarella decides to make this fight her own...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="shadow roads" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Western" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>shadow roads</ten_truyen>
+		<ma_truyen>shadow-roads</ma_truyen>
+        <tac_gia>Cullen Bunn, Brian Hurtt, A.C. Zamudio</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shadow-roads/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The world is thinnest at The Crossroads, a mythical plane that serves as a doorway throughout the universe. It is here that a band of adventurers throughout the Wild West gather, brought together by Gord Cantrell and Abigail Redmayne with a singular purpose: to fight back against the creatures that would endanger the sanctity of all creation.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shadow-roads-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="gasolina" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>gasolina</ten_truyen>
+		<ma_truyen>gasolina</ma_truyen>
+        <tac_gia>Sean Mackiewicz, Mat Lopes, Niko Walter</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/gasolina/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Fugitives. Rebels. Newlyweds. In their journey south from El Norte, Amalia and Randy have played many roles in order to survive. Now, they must become unlikely leaders in the fight against a new cartel who uses inhuman tactics to ignite the most monstrous war Mexico and the world has ever seen. Everything burns in this new series from SEAN MACKIEWICZ and NIKO WALTER, where love and devotion can only be measured in fire and blood.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gasolina-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="her infernal descent" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>her infernal descent</ten_truyen>
+		<ma_truyen>her-infernal-descent</ma_truyen>
+        <tac_gia>Lonnie Nadler, Zac Thompson, Kyle Charles, Ryan Ferrier</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/her-infernal-descent/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A tale of loss told in five parts. Any good mom would march through the inferno of HELL to get her family back. Unable to cope with the burden of grief, a middle-aged mom descends the nine circles of hell to retrieve her forsaken family. Guided by the ghosts of William Blake and Agatha Christie, this no-nonsense mother journeys deep into a bizarre underworld filled with celebrity sinners, surreal landscapes, and absurd tasks. HER INFERNAL DESCENT is a retelling of Dante's Inferno that updates the themes for a modern audience. From the writers of the break-out hit The Dregs, and the artist of Roche Limit, this is HELL like you've never seen before.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/her-infernal-descent-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="mata hari (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Fantasy, Leading ladies, Literature, Mature" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>mata hari (2018)</ten_truyen>
 		<ma_truyen>mata-hari-2018</ma_truyen>
@@ -233,50 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/q/quantum-and-woody-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Sometimes...you embrace your destiny. And sometimes... you and your trouble-making adopted brother find yourselves trapped in a scientific lab explosion that grants you ****ing awesome super-powers. As a result of their accident, Eric and Woody Henderson - aka Quantum and Woody - must 'klang' their wristbands together every 24 hours or both dissipate into nothingness. Which makes superhero-ing pretty awkward when you're not on speaking terms at the moment. See, Eric has been keeping a pretty big secret: He knows who Woody's birth father really is...and where he's been hiding all these years. With great power comes great sibling rivalry! This winter, you'll believe two men and one goat can split a one-bedroom apartment and still be a credible threat to evil and injustice everywhere when QUANTUM AND WOODY make headlines and take names!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quantum-and-woody-2017-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the ballad of sang" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the ballad of sang</ten_truyen>
-		<ma_truyen>the-ballad-of-sang</ma_truyen>
-        <tac_gia>Ed Brisson, Alessandro Micelli, Shari Chankhamma</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-ballad-of-sang/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Kidnapped off the streets of the Philippines as an infant and trained as a child assassin, Sang has never had a childhood. All he's ever known is killing and the kindness of his master, Chen, the closest thing Sang has to a father. When Sang's enthusiasm botches a job, it brings the wrath of Don Minchella down on the pair, resulting in Chen's murder. Barely escaping with his own life -- and with Minchella's severed arm in tow -- Sang swears revenge, while every gang in the city mobilizes to return him to Minchella, dead or alive.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-ballad-of-sang-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="gideon falls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>gideon falls</ten_truyen>
-		<ma_truyen>gideon-falls</ma_truyen>
-        <tac_gia>Jeff Lemire, Andrea Sorrentino, Jock</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/gideon-falls/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A brand-new ongoing series from the acclaimed bestselling creative team of Old Man Logan and Green Arrow! The lives of a reclusive young man obsessed with a conspiracy in the city's trash, and a washed-up Catholic priest arriving in a small town full of dark secrets, become intertwined around the mysterious legend of The Black Barn, an otherworldly building that is alleged to have appeared in both the city and the small town, throughout history, bringing death and madness in its wake. Rural mystery and urban horror collide in this character-driven meditation on obsession, mental illness, and faith.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gideon-falls-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the amazing spider-man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
-		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
-        <tac_gia>Nick Spencer, Ryan Ottley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>An alien invasion hits New York City and the only one who can stop it is... Spider-Man?! And if even that's not enough, you'll see a new roommate, new love interests - and a new villain!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="superman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>superman (2018)</ten_truyen>
-		<ma_truyen>superman-2018</ma_truyen>
-        <tac_gia>Brian Michael Bendis, Ivan Reis</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/superman-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A bold new chapter for the greatest superhero of all time begins here as the superstar team of writer Brian Michael Bendis and artist Ivan Reis begin their run on the all-new SUPERMAN! The fallout from the Man of Steel miniseries has Clark Kent looking at the world through new eyes... with new ideas about what Superman could and should do for the city of Metropolis and the planet Earth.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superman-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="tomb raider: inferno" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>tomb raider: inferno</ten_truyen>
-		<ma_truyen>tomb-raider-inferno</ma_truyen>
-        <tac_gia>Collin Kelly, Jackson Lazing, Phillip Sevy</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/tomb-raider-inferno/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Trinity is on high alert--they know Lara Croft is coming and now, under the shrewd command of a new officer, they're ready for any surprises, but Lara is steadfast in her quest to uncover their secrets. Though typically equally prepared, this time Lara may just find herself one step behind.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/tomb-raider-inferno-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
