@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="infidel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infidel</ten_truyen>
+		<ma_truyen>infidel</ma_truyen>
+        <tac_gia>Pornsak Pichetshote, Aaron Campbell, Jose Villarrubia</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infidel/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A haunted house story for the 21st century, INFIDEL follows an American Muslim woman and her multiracial neighbors who move into a building haunted by entities that feed off xenophobia.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infidel-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="punks not dead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Life sucks, Sci-fi, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>punks not dead</ten_truyen>
+		<ma_truyen>punks-not-dead</ma_truyen>
+        <tac_gia>David Barnett, Martin Simmonds</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/punks-not-dead/1_medium.jpg</hinh_nho>
+        <gioi_thieu>As if being an awkward, bullied 15-year-old isn't bad enough, 'Fergie' Ferguson suddenly discovers he can see dead people. Well, one dead person specifically-the ghost of a certain punk rocker named Sid. Sid's spirit was trapped in London's Heathrow Airport for 40 years until the day he met Fergie. Sid's ghost is now stuck to Fergie-as if Fergie doesn't have enough on his plate, being raised by a single mum whose idea of parenting is strictly fly-by-the-seat-of-your-pants. Now Fergie has to contend with an unruly ghost sidekick and some weird, uncontrollable new 'abilities'. How does the father Fergie never knew fit into this mayhem? And why is the Department for Extra-Usual Affairs showing an interest? Never Mind the Bollocks-all of this plus fish fingers, chunky chips, and endless pints of anarchy in the new monthly series PUNKS NOT DEAD!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/punks-not-dead-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="deathbed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Horror, Mature, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>deathbed</ten_truyen>
+		<ma_truyen>deathbed</ma_truyen>
+        <tac_gia>Joshua Williamson, Riley Rossmo, Ivan Plascencia</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deathbed/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Myth, hack, sex symbol, stark raving lunatic-all of these words have been used to describe Antonio Luna, the world's greatest living adventurer. Or at least he was until 20 years ago, when he mysteriously vanished from the public eye. Now the ninety-year-old has returned and claims to be on his deathbed. Which is where Valentine Richards, a failed novelist turned reporter, comes in. Val is hired to travel to Luna's remote castle home and uncover where the old star has been all these years, and just how much of what he says is actually true. But once Val starts to hear Luna's tale, she finds herself entering into an insane world of psychedelic violence and explosive supernatural adventure.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deathbed-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="fence" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>fence</ten_truyen>
+		<ma_truyen>fence</ma_truyen>
+        <tac_gia>C.S. Pacat, Johanna the Mad</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/fence/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sixteen-year-old Nicholas Cox is an outsider to the competitive fencing world. Filled with raw talent but lacking proper training, he signs up for a competition that puts him head-to-head with fencing prodigy Seiji Katayama... and on the road to the elite all-boys school Kings Row. A chance at a real team and a place to belong awaits him if he can make the cut!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fence-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="mayonaka no x giten" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Gender bender, Horror, Mature, Mystery, Psychological, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>mayonaka no x giten</ten_truyen>
 		<ma_truyen>mayonaka-no-x-giten</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/h/hackslash-resurrection/1_medium.jpg</hinh_nho>
         <gioi_thieu>The fan-favorite title returns with hot new writer, TINI HOWARD! Cassie Hack has been living off the grid, but when a new monstrous threat arises to torment promiscuous teens, it's time for Cassie to pick up the baseball bat once again! Gory, sexy, twisted, and funny... HACK IS BACK!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hack-slash-resurrection-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="lucy dreaming" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>lucy dreaming</ten_truyen>
-		<ma_truyen>lucy-dreaming</ma_truyen>
-        <tac_gia>Max Bemis, Michael Dialynas</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/l/lucy-dreaming/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Max Bemis (Moon Knight writer and lead singer of Say Anything) and Michael Dialynas (The Woods) present a sweeping, coming-of-age fantasy about living your dreams-literally. In her dreams, Lucy is the hero of all her favorite stories, living each night as a grand adventure. These journeys will teach her more about herself and the real world around her than she ever expected.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/lucy-dreaming-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="harrow county" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Graphic novels, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>harrow county</ten_truyen>
-		<ma_truyen>harrow-county</ma_truyen>
-        <tac_gia>Cullen Bunn, Owen Gieni, Tyler Crook</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/harrow-county/1_medium.jpg</hinh_nho>
-        <gioi_thieu>This town will make your skin crawl! Emmy always knew that the deep, dark woods surrounding her home crawled with ghosts, goblins, and zombies. But on the eve of her eighteenth birthday, she learns that she is connected to these creatures-and to the land itself-in a way she never imagined.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harrow-county-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="descender" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>descender</ten_truyen>
-		<ma_truyen>descender</ma_truyen>
-        <tac_gia>Jeff Lemire, Dustin Nguyen</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/descender/1_medium.jpg</hinh_nho>
-        <gioi_thieu>One young robot's struggle to stay alive in a universe where all androids have been outlawed and bounty hunters lurk on every planet. A rip-roaring and heart-felt cosmic odyssey that pits humanity against machine, and world against world, to create a sprawling space opera from the creators of Trillium, Sweet Tooth, and Little Gotham.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/descender-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="motherlands" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>motherlands</ten_truyen>
-		<ma_truyen>motherlands</ma_truyen>
-        <tac_gia>Simon Spurrier, Rachael Stott</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/motherlands/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In a crazed future where unhinged technologies and interconnected parallel Earths have given rise to a spectacular class of super-criminal, the most beloved celebrities aren't actors or rock stars, but the bounty hunters who traverse an exotic multiverse in search of impossible prey! But when the spotlight-shunning, strait-laced tracer known as Tab finds herself in an ultra-violent race for her greatest prize yet, she's forced to work with her greatest enemy, the only person capable of IDing him: her own elderly, overbearing and hypercritical mother, who was once the most fabulous and celebrated bounty hunter of them all.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/motherlands-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

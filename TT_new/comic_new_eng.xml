@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="infidel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infidel</ten_truyen>
+		<ma_truyen>infidel</ma_truyen>
+        <tac_gia>Pornsak Pichetshote, Aaron Campbell, Jose Villarrubia</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infidel/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A haunted house story for the 21st century, INFIDEL follows an American Muslim woman and her multiracial neighbors who move into a building haunted by entities that feed off xenophobia.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infidel-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="punks not dead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Life sucks, Sci-fi, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>punks not dead</ten_truyen>
+		<ma_truyen>punks-not-dead</ma_truyen>
+        <tac_gia>David Barnett, Martin Simmonds</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/punks-not-dead/1_medium.jpg</hinh_nho>
+        <gioi_thieu>As if being an awkward, bullied 15-year-old isn't bad enough, 'Fergie' Ferguson suddenly discovers he can see dead people. Well, one dead person specifically-the ghost of a certain punk rocker named Sid. Sid's spirit was trapped in London's Heathrow Airport for 40 years until the day he met Fergie. Sid's ghost is now stuck to Fergie-as if Fergie doesn't have enough on his plate, being raised by a single mum whose idea of parenting is strictly fly-by-the-seat-of-your-pants. Now Fergie has to contend with an unruly ghost sidekick and some weird, uncontrollable new 'abilities'. How does the father Fergie never knew fit into this mayhem? And why is the Department for Extra-Usual Affairs showing an interest? Never Mind the Bollocks-all of this plus fish fingers, chunky chips, and endless pints of anarchy in the new monthly series PUNKS NOT DEAD!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/punks-not-dead-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="deathbed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Horror, Mature, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>deathbed</ten_truyen>
+		<ma_truyen>deathbed</ma_truyen>
+        <tac_gia>Joshua Williamson, Riley Rossmo, Ivan Plascencia</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deathbed/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Myth, hack, sex symbol, stark raving lunatic-all of these words have been used to describe Antonio Luna, the world's greatest living adventurer. Or at least he was until 20 years ago, when he mysteriously vanished from the public eye. Now the ninety-year-old has returned and claims to be on his deathbed. Which is where Valentine Richards, a failed novelist turned reporter, comes in. Val is hired to travel to Luna's remote castle home and uncover where the old star has been all these years, and just how much of what he says is actually true. But once Val starts to hear Luna's tale, she finds herself entering into an insane world of psychedelic violence and explosive supernatural adventure.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deathbed-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="fence" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>fence</ten_truyen>
+		<ma_truyen>fence</ma_truyen>
+        <tac_gia>C.S. Pacat, Johanna the Mad</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/fence/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sixteen-year-old Nicholas Cox is an outsider to the competitive fencing world. Filled with raw talent but lacking proper training, he signs up for a competition that puts him head-to-head with fencing prodigy Seiji Katayama... and on the road to the elite all-boys school Kings Row. A chance at a real team and a place to belong awaits him if he can make the cut!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fence-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="exiles (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>exiles (2018)</ten_truyen>
 		<ma_truyen>exiles-2018</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-life-of-captain-marvel/1_medium.jpg</hinh_nho>
         <gioi_thieu>THE DEFINITIVE ORIGIN OF CAPTAIN MARVEL! Carol Danvers was just a girl from the Boston suburbs who loved science and the Red Sox until a chance encounter with a Kree hero gave her incredible super-powers. Now, she's a leader in the Avengers and the commander of Alpha Flight. But what if there were more to the story? When crippling anxiety attacks put her on the sidelines in the middle of a fight, Carol finds herself reliving memories of a life she thought was far behind her. You can't outrun where you're from - and sometimes, you HAVE to go home again. But there are skeletons in Captain Marvel's closet - and what she discovers will change her entire world.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-life-of-captain-marvel-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="thor (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>thor (2018)</ten_truyen>
-		<ma_truyen>thor-2018</ma_truyen>
-        <tac_gia>Jason Aaron, Mike Del Mundo, Christian Ward</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Thor Odinson has regained his mantle - and with it, a wild new world of trouble on his mighty hands! The artifacts of Asgard have been scattered across the earth, and to reclaim them, Thor will have to face some ugly truths. Like the production cost of hundreds of new hammers! And the Thunder God is going to need every last one of them if he's going to stop the unstoppable Juggernaut.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thor-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="weapon h" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>weapon h</ten_truyen>
-		<ma_truyen>weapon-h</ma_truyen>
-        <tac_gia>Greg Pak, Cory Smith, Leinil Francis Yu</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-h/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Weapon X Program has done it again! At the cost of their own destruction, they've completed their biggest and possibly most dangerous experiment yet... With the strength of the Hulk and the rage and claws of Wolverine comes WEAPON H! It's been some time since Weapon H escaped and destroyed his creators. Now, our hero is on the run, as he tries to escape his mysterious past and seclude himself from the rest of society. But when a new kind of Wendigo threatens the lives of others, will Weapon H be able to shirk his responsibility? Does any of his humanity remain?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weapon-h-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the weatherman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the weatherman</ten_truyen>
-		<ma_truyen>the-weatherman</ma_truyen>
-        <tac_gia>Jody LeHeup, Nathan Fox, Marcos Martin</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-weatherman/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Nathan Bright had it all: an awesome girlfriend, a kickass dog, and a job as the number one weatherman on terraformed Mars. But when he's accused of carrying out the worst terrorist attack in human history-an event that wiped out nearly the entire population of Earth-Nathan becomes the most wanted man alive and a target of a manhunt that spans the galaxy. But is Nathan truly responsible for such a horrific crime? And why can't he remember? Writer JODY LEHEUP (SHIRTLESS BEAR-FIGHTER!), artist NATHAN FOX (DMZ, HAUNT, Dark Reign: Zodiac), and colorist DAVE STEWART (Hellboy, RUMBLE) present a full-throttle, widescreen science fiction epic about the damage we do in the name of justice and what it truly means to be redeemed...You don't want to miss THE WEATHERMAN!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-weatherman-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="stellar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>stellar</ten_truyen>
-		<ma_truyen>stellar</ma_truyen>
-        <tac_gia>Joseph Keatinge, Bret Blevins</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/stellar/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Stellar was taken as a child and transformed into the ultimate weapon, one that would end an intergalactic war. She succeeded... at everything except finding peace. Reduced to a bounty hunter, she scours the worlds she's broken, searching for redemption. But there are other weapons loose in the galaxy, who just can't leave the war behind them.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/stellar-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
