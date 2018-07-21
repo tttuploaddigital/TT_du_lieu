@@ -567,6 +567,15 @@
         <gioi_thieu>The perfect companion piece to the CRISIS ON INFINITE EARTHS and HISTORY OF THE DC UNIVERSE trade paperbacks, this book features the classic tales of interaction between the heroes of Earth-One and Earth-Two. Existing in two different realities, theheroes of the Justice League team up with their predecessors the Justice Society of America in order to save both their worlds.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/crisis-on-multiple-earths-eng.xml</file_xml>
     </truyen>
+	<truyen ten="curse words" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>curse words</ten_truyen>
+		<ma_truyen>curse-words</ma_truyen>
+        <tac_gia>Charles Soule, Jordan Boyd, Ryan Browne</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/curse-words/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A haunted house story for the 21st century, INFIDEL follows an American Muslim woman and her multiracial neighbors who move into a building haunted by entities that feed off xenophobia.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/curse-words-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="cyber force (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>cyber force (2018)</ten_truyen>
 		<ma_truyen>cyber-force-2018</ma_truyen>
@@ -1134,6 +1143,15 @@
         <gioi_thieu>An Appalachian Mountain fantasy epic that tells the story of Rondel. A lonely figure who wanders the wooded hills among witches and magical creatures as a folktale hero to those who dwell in this gritty dream world.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hillbilly-eng.xml</file_xml>
     </truyen>
+	<truyen ten="hit-girl (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Mature, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hit-girl (2018)</ten_truyen>
+		<ma_truyen>hit-girl-2018</ma_truyen>
+        <tac_gia>Mark Millar, Ricardo Lopez Ortiz</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hit-girl-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The pint-sized Punisher-meets-Polly-Pocket has left America behind and set off to serve justice around the world. First stop: Colombia. A mother seeking vengeance for the murder of her child enlists Hit-Girl to destroy his killer, but Mindy has bigger plans for Colombia's most feared hitman.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hit-girl-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="horizon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>horizon</ten_truyen>
 		<ma_truyen>horizon</ma_truyen>
@@ -1700,6 +1718,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/n/nancy-drew-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Nancy Drew is seventeen and good at everything... ESPECIALLY solving crimes. But her totally-in-control-and-obviously-running-perfectly-smooth-(but-not-really) life hits a snag when a mysterious message drags her back to the hometown she left behind. There she'll have to find out which of her friends are still her friends, which are enemies, and who exactly is trying to kill her... and (hopefully) stop them before they succeed. KELLY THOMPSON (Hawkeye, Star Wars, Rogue and Gambit) and JENN ST-ONGE (Giant Days, The Misfits) team up to present an all-new modern spin on a classic mystery icon!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nancy-drew-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="new challengers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>new challengers</ten_truyen>
+		<ma_truyen>new-challengers</ma_truyen>
+        <tac_gia>Aaron Gillespie, Scott Snyder, Andy Kubert</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/new-challengers-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Challengers Mountain has returned to the DC Universe and chosen a new team of explorers! Five misfit strangers are given a second chance at life, but only if they obey the orders of the mysterious Professor and execute deadly missions in the most unexplored corners of the multiverse! And if the new Challengers of the Unknown fail... it will be more than just their own lives that hang in the balance!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/new-challengers-eng.xml</file_xml>
     </truyen>
 	<truyen ten="new mutants: dead souls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>new mutants: dead souls</ten_truyen>
@@ -2618,6 +2645,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-life-of-captain-marvel/1_medium.jpg</hinh_nho>
         <gioi_thieu>THE DEFINITIVE ORIGIN OF CAPTAIN MARVEL! Carol Danvers was just a girl from the Boston suburbs who loved science and the Red Sox until a chance encounter with a Kree hero gave her incredible super-powers. Now, she's a leader in the Avengers and the commander of Alpha Flight. But what if there were more to the story? When crippling anxiety attacks put her on the sidelines in the middle of a fight, Carol finds herself reliving memories of a life she thought was far behind her. You can't outrun where you're from - and sometimes, you HAVE to go home again. But there are skeletons in Captain Marvel's closet - and what she discovers will change her entire world.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-life-of-captain-marvel-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the lost city explorers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the lost city explorers</ten_truyen>
+		<ma_truyen>the-lost-city-explorers</ma_truyen>
+        <tac_gia>Zack Kaplan, Alvaro Sarraseca, Chris Blythe</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/l/lost-city-explorers/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Lost cities aren't just the stuff of myths. They exist hidden right under our noses. But when a mysterious expedition is disrupted by supernatural activity, and an antiquities professor goes missing, his teenage daughter and her friends must become underground urban explorers, follow his tracks on a coming-of-age journey through subterranean tunnels, and ultimately find the holy grail of lost city: Atlantis buried right under New York City!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-lost-city-explorers-eng.xml</file_xml>
     </truyen>
 	<truyen ten="the magic order" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the magic order</ten_truyen>
