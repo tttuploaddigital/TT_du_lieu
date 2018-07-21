@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="new challengers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>new challengers</ten_truyen>
+		<ma_truyen>new-challengers</ma_truyen>
+        <tac_gia>Aaron Gillespie, Scott Snyder, Andy Kubert</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/new-challengers-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Challengers Mountain has returned to the DC Universe and chosen a new team of explorers! Five misfit strangers are given a second chance at life, but only if they obey the orders of the mysterious Professor and execute deadly missions in the most unexplored corners of the multiverse! And if the new Challengers of the Unknown fail... it will be more than just their own lives that hang in the balance!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/new-challengers-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="hit-girl (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Mature, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hit-girl (2018)</ten_truyen>
+		<ma_truyen>hit-girl-2018</ma_truyen>
+        <tac_gia>Mark Millar, Ricardo Lopez Ortiz</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hit-girl-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The pint-sized Punisher-meets-Polly-Pocket has left America behind and set off to serve justice around the world. First stop: Colombia. A mother seeking vengeance for the murder of her child enlists Hit-Girl to destroy his killer, but Mindy has bigger plans for Colombia's most feared hitman.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hit-girl-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="curse words" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>curse words</ten_truyen>
+		<ma_truyen>curse-words</ma_truyen>
+        <tac_gia>Charles Soule, Jordan Boyd, Ryan Browne</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/curse-words/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A haunted house story for the 21st century, INFIDEL follows an American Muslim woman and her multiracial neighbors who move into a building haunted by entities that feed off xenophobia.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/curse-words-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the lost city explorers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the lost city explorers</ten_truyen>
+		<ma_truyen>the-lost-city-explorers</ma_truyen>
+        <tac_gia>Zack Kaplan, Alvaro Sarraseca, Chris Blythe</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/l/lost-city-explorers/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Lost cities aren't just the stuff of myths. They exist hidden right under our noses. But when a mysterious expedition is disrupted by supernatural activity, and an antiquities professor goes missing, his teenage daughter and her friends must become underground urban explorers, follow his tracks on a coming-of-age journey through subterranean tunnels, and ultimately find the holy grail of lost city: Atlantis buried right under New York City!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-lost-city-explorers-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="infidel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>infidel</ten_truyen>
 		<ma_truyen>infidel</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/b/black-cloud/1_medium.jpg</hinh_nho>
         <gioi_thieu>Zelda was born in a world of dreams, and hers burned bigger than anyone had ever seen. Now she's on the run in our world, the dreams broken in her hands. But the pieces are for sale, the rich and the powerful are buying, and suddenly her world isn't the only place Zelda's running from. From the creators that brought you Spider-Gwen, SOUTHERN BASTARDS, and DRIFTER, and the incredible colorist of THE WICKED + THE DIVINE, comes a place where dreams come true--and today, they go to war.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-cloud-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="dungeon seeker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Mature, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>dungeon seeker</ten_truyen>
-		<ma_truyen>dungeon-seeker</ma_truyen>
-		<tac_gia>Sakamoto 666, Mizukiyoshi Juro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/41914/2/200.jpg</hinh_nho>
-		<gioi_thieu>Junpei Takeda, a high school student, is childhood friends with Noriko Tatsumiya and the bully Kido Shouta. One day, during the usual course of bullying Junpei, they were suddenly summoned to a different world by the whim of 'God'. Summoned Heroes with cheats, or so he thought. But it turns out Junpei's stats were even worse than an average farmer. Tricked into a deathly labyrinth by the only one he trust, he walks the journey for revenge.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-seeker-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="dansai bunri no crime edge" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, Horror, Mystery, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>dansai bunri no crime edge</ten_truyen>
-		<ma_truyen>dansai-bunri-no-crime-edge</ma_truyen>
-		<tac_gia>Hikagi Tatsuhiko</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/2108/4/200.jpg</hinh_nho>
-		<gioi_thieu>Haimura Kiri is a seemingly ordinary boy with one slight problem: he is obsessed with cutting other people's hair. One day he meets Mushiyanokouji Iwai, the 'Hair Queen' who cannot cut her hair because of an inherited curse. Kiri finds out that his scissor, 'Dansai Bunri no Crime Edge' is the only thing that can cut them. But little did he know that their meeting sparked the start of an old murder game to kill the 'Hair Queen' using the cursed killing tools, the 'Killing Goods.' Can Kiri protect Iwai from the Killing Goods Owners? Let the game begin!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dansai-bunri-no-crime-edge-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="bokutachi wa shitte shimatta" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>bokutachi wa shitte shimatta</ten_truyen>
-		<ma_truyen>bokutachi-wa-shitte-shimatta</ma_truyen>
-		<tac_gia>Miyasaka Kaho</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/1439/2/200.jpg</hinh_nho>
-		<gioi_thieu>The Fujisaki Girls Academy is known for their school body being composed of very proper students. The most prominent one of them is Maki, the student president who is admired by her classmates for her calm and polite demeanor. On the other hand, Kurahashi Riko is also admired but for having a very forward and boyish personality. Riko accidentally walks into Maki while she's practicing kissing with a pillow and learns that she isn't what everyone thinks she is. Riko is forced into keeping Maki's secret and join her in practicing all aspects of romance like holding hands and more.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bokutachi-wa-shitte-shimatta-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="hack/slash: resurrection" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hack/slash: resurrection</ten_truyen>
-		<ma_truyen>hack-slash-resurrection</ma_truyen>
-        <tac_gia>Tini Howard, Celor, K. Michael Russell, Tim Seeley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hackslash-resurrection/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The fan-favorite title returns with hot new writer, TINI HOWARD! Cassie Hack has been living off the grid, but when a new monstrous threat arises to torment promiscuous teens, it's time for Cassie to pick up the baseball bat once again! Gory, sexy, twisted, and funny... HACK IS BACK!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hack-slash-resurrection-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

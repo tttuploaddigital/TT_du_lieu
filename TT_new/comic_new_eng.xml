@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="new challengers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>new challengers</ten_truyen>
+		<ma_truyen>new-challengers</ma_truyen>
+        <tac_gia>Aaron Gillespie, Scott Snyder, Andy Kubert</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/new-challengers-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Challengers Mountain has returned to the DC Universe and chosen a new team of explorers! Five misfit strangers are given a second chance at life, but only if they obey the orders of the mysterious Professor and execute deadly missions in the most unexplored corners of the multiverse! And if the new Challengers of the Unknown fail... it will be more than just their own lives that hang in the balance!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/new-challengers-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="hit-girl (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Mature, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hit-girl (2018)</ten_truyen>
+		<ma_truyen>hit-girl-2018</ma_truyen>
+        <tac_gia>Mark Millar, Ricardo Lopez Ortiz</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hit-girl-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The pint-sized Punisher-meets-Polly-Pocket has left America behind and set off to serve justice around the world. First stop: Colombia. A mother seeking vengeance for the murder of her child enlists Hit-Girl to destroy his killer, but Mindy has bigger plans for Colombia's most feared hitman.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hit-girl-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="curse words" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>curse words</ten_truyen>
+		<ma_truyen>curse-words</ma_truyen>
+        <tac_gia>Charles Soule, Jordan Boyd, Ryan Browne</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/curse-words/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A haunted house story for the 21st century, INFIDEL follows an American Muslim woman and her multiracial neighbors who move into a building haunted by entities that feed off xenophobia.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/curse-words-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the lost city explorers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the lost city explorers</ten_truyen>
+		<ma_truyen>the-lost-city-explorers</ma_truyen>
+        <tac_gia>Zack Kaplan, Alvaro Sarraseca, Chris Blythe</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/l/lost-city-explorers/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Lost cities aren't just the stuff of myths. They exist hidden right under our noses. But when a mysterious expedition is disrupted by supernatural activity, and an antiquities professor goes missing, his teenage daughter and her friends must become underground urban explorers, follow his tracks on a coming-of-age journey through subterranean tunnels, and ultimately find the holy grail of lost city: Atlantis buried right under New York City!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-lost-city-explorers-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="infidel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>infidel</ten_truyen>
 		<ma_truyen>infidel</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/d/deuce-of-hearts/1_medium.jpg</hinh_nho>
         <gioi_thieu>Sullivan Husk's life changed the day he was introduced to the Heartbreakr app and the notion that love is just another tradeable commodity. What started as a Faustian bargain to restore the good health of a dying man has become a collector's habit. But all the upgrades the app has to offer might not be enough to save Sully from this latest upset spouse.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deuce-of-hearts-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="blackwood" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Fantasy, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>blackwood</ten_truyen>
-		<ma_truyen>blackwood</ma_truyen>
-        <tac_gia>Evan Dorkin, Veronica Fish</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/blackwood/1_medium.jpg</hinh_nho>
-        <gioi_thieu>When four teenagers with haunted pasts enroll in Blackwood College--a school that trains students in the occult--their desire to enhance their supernatural abilities and bond with others is hampered by an undead dean's curse, ghosts in their dorm, a mischievous two-headed mummy-chimp, a plague of mutant insects, and the discovery of an ancient evil that forces our heroes to undergo a crash course in the occult for the sake of the world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/blackwood-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="dodge city" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>dodge city</ten_truyen>
-		<ma_truyen>dodge-city</ma_truyen>
-        <tac_gia>Josh Trujillo, Cara McGee</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dodge-city/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Josh Trujillo (Adventure Time) and Cara McGee (Over the Garden Wall) team up for a new series about the high-energy chaos of competitive dodgeball! Tomas is the new captain of the Jazz Pandas dodgeball team, and he's got a certain knack for keeping an eye on on the ball (or several!). However, he's untested and still not quite part of the team. If the disorganized Jazz Pandas want to make it to summer regional championships they'll have to pull together under Tomas leadership.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dodge-city-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="spidey: school's out" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>spidey: school's out</ten_truyen>
-		<ma_truyen>spidey-school-s-out</ma_truyen>
-        <tac_gia>John Barber, Todd Nauck, Rachelle Rosenberg</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/spidey-schools-out/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Peter Parker just survived his first year as the Amazing Spider-Man AND a year of high school! What is he going to do next? He's going to Stark science camp! A week indoors with the coolest technology in the world is a dream come true for Peter--and a bonanza for one Spider-foe who's seriously upgraded his arsenal. Can Spider-Man keep the camp safe, and keep his identity secret from his first dorm mate, while Peter Parker makes new friends and finishes his project on time?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spidey-school-s-out-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the life of captain marvel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the life of captain marvel</ten_truyen>
-		<ma_truyen>the-life-of-captain-marvel</ma_truyen>
-        <tac_gia>Margaret Stohl, Carlos Pacheco, Rafael Fonteriz</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-life-of-captain-marvel/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE DEFINITIVE ORIGIN OF CAPTAIN MARVEL! Carol Danvers was just a girl from the Boston suburbs who loved science and the Red Sox until a chance encounter with a Kree hero gave her incredible super-powers. Now, she's a leader in the Avengers and the commander of Alpha Flight. But what if there were more to the story? When crippling anxiety attacks put her on the sidelines in the middle of a fight, Carol finds herself reliving memories of a life she thought was far behind her. You can't outrun where you're from - and sometimes, you HAVE to go home again. But there are skeletons in Captain Marvel's closet - and what she discovers will change her entire world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-life-of-captain-marvel-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
