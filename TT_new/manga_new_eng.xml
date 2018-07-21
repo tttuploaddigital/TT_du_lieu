@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="mayonaka no x giten" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Gender bender, Horror, Mature, Mystery, Psychological, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>mayonaka no x giten</ten_truyen>
+		<ma_truyen>mayonaka-no-x-giten</ma_truyen>
+		<tac_gia>Yamaguchi Mikoto, Bareisho</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27894/2/200.jpg</hinh_nho>
+		<gioi_thieu>Kamiya Hiroki always thought women had it easy. This thought was throttled by the fact that his 24-year-old sister does not work and plays games all day. Why couldn't he have it this easy? He wanted to become a woman and be lazy like his sister. After blogging about his rants about his sister online, a mysterious reader comments on his blog, stating that there are ways to swap bodies with others. This would bring Hiroki's dream of becoming a woman to reality . Unfortunately for Hiroki, swapping bodies had unintended consequences when he returned to his own body.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mayonaka-no-x-giten-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="d-frag" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Harem, Romance, School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>d-frag</ten_truyen>
+		<ma_truyen>d-frag</ma_truyen>
+		<tac_gia>Haruno Tomoya</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2051/4/200.jpg</hinh_nho>
+		<gioi_thieu>Kazama Kenji likes to believe he is something of a delinquent. Moreover, others seem to like to agree that he is. Of course, Kenji's gang finds their way to a group of four not-so-normal girls - Chitose, Sakura, Minami and Roka - and all at once, whatever reputation he may have, is nothing compared to the outrageous behaviour of the girls. Shanghaied into joining their club, what will happen to his everday life from that point on?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/d-frag-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="soredemo sekai wa utsukushii" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>soredemo sekai wa utsukushii</ten_truyen>
+		<ma_truyen>soredemo-sekai-wa-utsukushii</ma_truyen>
+		<tac_gia>Shina Dai</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9369/5/200.jpg</hinh_nho>
+		<gioi_thieu>Nike, the fourth princess of the Rain Dukedom and one who holds the power to call forth the rain, travels to the Sun Kingdom to marry King Livius on behalf of her country after losing a game of rock, paper, scissors to her three older sisters. Upon arriving at the Sun Kingdom, she discovers that the Livius, who conquered the world in only three years after his ascendance to the throne, is only fifteen years old!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/soredemo-sekai-wa-utsukushii-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="ougon no ringo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ougon no ringo</ten_truyen>
 		<ma_truyen>ougon-no-ringo</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/28219/3/200.jpg</hinh_nho>
 		<gioi_thieu>Here starts the Konya spinoff series, focusing more on Gorou and Verde! There's plenty of Endou and Rikiya as well, but this story will spend more time telling the story of these heretofore side characters. The story takes place immediately after the last Konya chapter, so you can think of this as Chapter 20, just less focus on Endo/Rikiya and more on Gorou/Verde.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/kimi-to-kore-kara-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gigant" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, School life, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gigant</ten_truyen>
-		<ma_truyen>gigant</ma_truyen>
-		<tac_gia>Oku Hiroya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/96/04/9604402428c74a40bce9f9d31ae89b5d05c4aa17_29170_200_310.jpg</hinh_nho>
-		<gioi_thieu>Yamada Yoko, a high school boy who has a movie producer father. One day, while out with friends to shoot a film that he plans to enter into a film festival, a poster of Papiko, an adult video actress with big breasts, catches his eye.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gigant-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="trinity blood" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Mystery, Romance, Sci-fi, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>trinity blood</ten_truyen>
-		<ma_truyen>trinity-blood</ma_truyen>
-		<tac_gia>Kyujyo Kiyo, Yoshida Sunao</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/10486/3/200.jpg</hinh_nho>
-		<gioi_thieu>The background is in the distant future, a post-apocalyptic world after the destruction brought about by Armageddon. The war between humans (Terran) and vampires (Methuselah) continues, as a struggle between two factions: the Vatican and the New Human Empire. Yet, amidst the bloodshed and violence, many desire a peaceful co-existence between the two species. However, standing between them and this goal is the Rosenkreuz Orden, a group of vampire extremists who manipulate the two sides and pit them against each other. To combat them, the Vatican special operations group 'AX,' led by Cardinal Caterina, must use everything they have - even a vampire who preys on the blood of other vampires.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/trinity-blood-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="hajimete datteba!" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>hajimete datteba!</ten_truyen>
-		<ma_truyen>hajimete-datteba</ma_truyen>
-		<tac_gia>Saki Kaori</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3363/1/200.jpg</hinh_nho>
-		<gioi_thieu>There is first time at everything, and you don't know anything about it. Not about your partner, not about yourself and even how to advance in love. In a certain port city, energetic high schooler Kana, and firm high schooler Kouki live. Two of them experiencing first time at every thing they do. Author of 'Smash!', Saki Kaori presents, Hajimete Datte ba!. A heartful love story has now began.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hajimete-datteba-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
