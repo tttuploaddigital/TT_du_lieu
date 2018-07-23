@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="evolution  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>evolution  </ten_truyen>
+		<ma_truyen>evolution</ma_truyen>
+        <tac_gia>Aaron Gillespie, Scott Snyder, Andy Kubert</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Human evolution has taken millions of years to get to this stage. But next week, we become something new. Around the world, humanity is undergoing rapid and unpredictable changes, and only three individuals seem to notice that their world is being reborn. But what can they do about it?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/evolution-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="proxima centauri" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>proxima centauri</ten_truyen>
+		<ma_truyen>proxima-centauri</ma_truyen>
+        <tac_gia>Farel Dalrymple</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/proxima-centauri/1_medium.jpg</hinh_nho>
+        <gioi_thieu>4.243 light-years from Earth, the teenage wizard adventurer Sherwood Breadcoat is stuck in the confounding spectral zone on the manufactured dimensional sphere, Proxima Centauri, looking for escape and a way back to his brother while dealing with his confusing emotions, alien creatures, and all sorts of unknown, fantastic dangers.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/proxima-centauri-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the fix" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Drama, Mature" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the fix</ten_truyen>
+		<ma_truyen>the-fix</ma_truyen>
+        <tac_gia>Nick Spencer, Steve Lieber</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-fix/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A story of the crooked cops, scheming mobsters, and corrupt politicians that run things-and the sex toy that can bring them all down. Oh, and the hero is a drug-sniffing beagle named Pretzels. Bad people do bad things to each other in this frenetic, outrageous, sometimes off-putting new caper! If you liked classic crime comics like CRIMINAL and 100 Bullets we apologize in advance for letting you down!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-fix-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="cave carson has an interstellar eye" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>cave carson has an interstellar eye</ten_truyen>
+		<ma_truyen>cave-carson-has-an-interstellar-eye</ma_truyen>
+        <tac_gia>Jon Rivera, Paul Maybury, Michael Avon Oeming</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/cave-carson-has-an-interstellar-eye/1_medium.jpg</hinh_nho>
+        <gioi_thieu>After a year of multiverse-hopping and fighting in the Milk Wars, returning to a normal life of digging and cave-diving just isn't the same for explorer Cave Carson. Sure, he's got his podcast, family and that cybernetic eye, but reminiscing about times gone by isn't the same as living. Luckily for Cave Carson and his daughter Chloe, they're about to get sucked into an all-new adventure-literally-when they go spelunking in a black hole! But what's caused this black hole to appears and what's its connection to the intergalactic music sensation Star Adam?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cave-carson-has-an-interstellar-eye-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="arslan senki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>arslan senki</ten_truyen>
 		<ma_truyen>arslan-senki</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarella-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Earth's star-crossed daughter is back! When Barbarella wanders into a war zone, the theocratic rulers of Parosia arrest and imprison her. A prison break is brewing, but now that she knows what the Parosians do to their own citizens Barbarella decides to make this fight her own...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-2017-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="shadow roads" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Western" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>shadow roads</ten_truyen>
-		<ma_truyen>shadow-roads</ma_truyen>
-        <tac_gia>Cullen Bunn, Brian Hurtt, A.C. Zamudio</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shadow-roads/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The world is thinnest at The Crossroads, a mythical plane that serves as a doorway throughout the universe. It is here that a band of adventurers throughout the Wild West gather, brought together by Gord Cantrell and Abigail Redmayne with a singular purpose: to fight back against the creatures that would endanger the sanctity of all creation.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shadow-roads-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="gasolina" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>gasolina</ten_truyen>
-		<ma_truyen>gasolina</ma_truyen>
-        <tac_gia>Sean Mackiewicz, Mat Lopes, Niko Walter</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/gasolina/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Fugitives. Rebels. Newlyweds. In their journey south from El Norte, Amalia and Randy have played many roles in order to survive. Now, they must become unlikely leaders in the fight against a new cartel who uses inhuman tactics to ignite the most monstrous war Mexico and the world has ever seen. Everything burns in this new series from SEAN MACKIEWICZ and NIKO WALTER, where love and devotion can only be measured in fire and blood.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gasolina-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="her infernal descent" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>her infernal descent</ten_truyen>
-		<ma_truyen>her-infernal-descent</ma_truyen>
-        <tac_gia>Lonnie Nadler, Zac Thompson, Kyle Charles, Ryan Ferrier</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/her-infernal-descent/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A tale of loss told in five parts. Any good mom would march through the inferno of HELL to get her family back. Unable to cope with the burden of grief, a middle-aged mom descends the nine circles of hell to retrieve her forsaken family. Guided by the ghosts of William Blake and Agatha Christie, this no-nonsense mother journeys deep into a bizarre underworld filled with celebrity sinners, surreal landscapes, and absurd tasks. HER INFERNAL DESCENT is a retelling of Dante's Inferno that updates the themes for a modern audience. From the writers of the break-out hit The Dregs, and the artist of Roche Limit, this is HELL like you've never seen before.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/her-infernal-descent-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="mata hari (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Fantasy, Leading ladies, Literature, Mature" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>mata hari (2018)</ten_truyen>
-		<ma_truyen>mata-hari-2018</ma_truyen>
-        <tac_gia>Emma Beeby, Ariela Kristantina, Pat Masioni</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/mata-hari-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Dancer. Courtesan. Spy. Executed by a French firing squad in 1917. 100 years on from her death, questions are still raised about her conviction. Now, the lesser-known, often tragic story of the woman who claimed she was born a princess, and died a figure of public hatred with no one to claim her body, is told by breakout talent writer Emma Beeby (Judge Dredd), artist Ariela Kristantina (Insexts), and colorist Pat Masioni drawing on biographies and released MI5 files. In this first part of a five-issue miniseries, we meet Mata Hari in prison at the end of her life as she writes her memoir--part romantic tale of a Javanese princess who performed 'sacred' nude dances for Europe's elite, and part real-life saga of a disgraced wife and mother, who had everything she loved taken from her. But, as she sits trial for treason and espionage, we hear another tale: one of a flamboyant Dutch woman who became 'the most dangerous spy France has ever captured' a double agent who whored herself for secrets, lived a life of scandal, and loved only money. Leading us to ask... who was the real Mata Hari?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mata-hari-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

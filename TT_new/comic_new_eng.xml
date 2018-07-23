@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="evolution  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>evolution  </ten_truyen>
+		<ma_truyen>evolution</ma_truyen>
+        <tac_gia>Aaron Gillespie, Scott Snyder, Andy Kubert</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Human evolution has taken millions of years to get to this stage. But next week, we become something new. Around the world, humanity is undergoing rapid and unpredictable changes, and only three individuals seem to notice that their world is being reborn. But what can they do about it?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/evolution-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="proxima centauri" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>proxima centauri</ten_truyen>
+		<ma_truyen>proxima-centauri</ma_truyen>
+        <tac_gia>Farel Dalrymple</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/proxima-centauri/1_medium.jpg</hinh_nho>
+        <gioi_thieu>4.243 light-years from Earth, the teenage wizard adventurer Sherwood Breadcoat is stuck in the confounding spectral zone on the manufactured dimensional sphere, Proxima Centauri, looking for escape and a way back to his brother while dealing with his confusing emotions, alien creatures, and all sorts of unknown, fantastic dangers.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/proxima-centauri-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the fix" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Drama, Mature" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the fix</ten_truyen>
+		<ma_truyen>the-fix</ma_truyen>
+        <tac_gia>Nick Spencer, Steve Lieber</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-fix/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A story of the crooked cops, scheming mobsters, and corrupt politicians that run things-and the sex toy that can bring them all down. Oh, and the hero is a drug-sniffing beagle named Pretzels. Bad people do bad things to each other in this frenetic, outrageous, sometimes off-putting new caper! If you liked classic crime comics like CRIMINAL and 100 Bullets we apologize in advance for letting you down!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-fix-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="cave carson has an interstellar eye" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>cave carson has an interstellar eye</ten_truyen>
+		<ma_truyen>cave-carson-has-an-interstellar-eye</ma_truyen>
+        <tac_gia>Jon Rivera, Paul Maybury, Michael Avon Oeming</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/cave-carson-has-an-interstellar-eye/1_medium.jpg</hinh_nho>
+        <gioi_thieu>After a year of multiverse-hopping and fighting in the Milk Wars, returning to a normal life of digging and cave-diving just isn't the same for explorer Cave Carson. Sure, he's got his podcast, family and that cybernetic eye, but reminiscing about times gone by isn't the same as living. Luckily for Cave Carson and his daughter Chloe, they're about to get sucked into an all-new adventure-literally-when they go spelunking in a black hole! But what's caused this black hole to appears and what's its connection to the intergalactic music sensation Star Adam?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cave-carson-has-an-interstellar-eye-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="new challengers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>new challengers</ten_truyen>
 		<ma_truyen>new-challengers</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/l/lucy-dreaming/1_medium.jpg</hinh_nho>
         <gioi_thieu>Max Bemis (Moon Knight writer and lead singer of Say Anything) and Michael Dialynas (The Woods) present a sweeping, coming-of-age fantasy about living your dreams-literally. In her dreams, Lucy is the hero of all her favorite stories, living each night as a grand adventure. These journeys will teach her more about herself and the real world around her than she ever expected.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/lucy-dreaming-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="harrow county" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Graphic novels, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>harrow county</ten_truyen>
-		<ma_truyen>harrow-county</ma_truyen>
-        <tac_gia>Cullen Bunn, Owen Gieni, Tyler Crook</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/harrow-county/1_medium.jpg</hinh_nho>
-        <gioi_thieu>This town will make your skin crawl! Emmy always knew that the deep, dark woods surrounding her home crawled with ghosts, goblins, and zombies. But on the eve of her eighteenth birthday, she learns that she is connected to these creatures-and to the land itself-in a way she never imagined.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harrow-county-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="descender" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>descender</ten_truyen>
-		<ma_truyen>descender</ma_truyen>
-        <tac_gia>Jeff Lemire, Dustin Nguyen</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/descender/1_medium.jpg</hinh_nho>
-        <gioi_thieu>One young robot's struggle to stay alive in a universe where all androids have been outlawed and bounty hunters lurk on every planet. A rip-roaring and heart-felt cosmic odyssey that pits humanity against machine, and world against world, to create a sprawling space opera from the creators of Trillium, Sweet Tooth, and Little Gotham.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/descender-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="motherlands" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>motherlands</ten_truyen>
-		<ma_truyen>motherlands</ma_truyen>
-        <tac_gia>Simon Spurrier, Rachael Stott</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/motherlands/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In a crazed future where unhinged technologies and interconnected parallel Earths have given rise to a spectacular class of super-criminal, the most beloved celebrities aren't actors or rock stars, but the bounty hunters who traverse an exotic multiverse in search of impossible prey! But when the spotlight-shunning, strait-laced tracer known as Tab finds herself in an ultra-violent race for her greatest prize yet, she's forced to work with her greatest enemy, the only person capable of IDing him: her own elderly, overbearing and hypercritical mother, who was once the most fabulous and celebrated bounty hunter of them all.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/motherlands-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="deuce of hearts" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>deuce of hearts</ten_truyen>
-		<ma_truyen>deuce-of-hearts</ma_truyen>
-        <tac_gia>Ricardo Mo, Tony Gregori, Claudia Aguirre</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deuce-of-hearts/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Sullivan Husk's life changed the day he was introduced to the Heartbreakr app and the notion that love is just another tradeable commodity. What started as a Faustian bargain to restore the good health of a dying man has become a collector's habit. But all the upgrades the app has to offer might not be enough to save Sully from this latest upset spouse.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deuce-of-hearts-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
