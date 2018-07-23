@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="kick-ass (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>kick-ass (2018)</ten_truyen>
+		<ma_truyen>kick-ass-2018</ma_truyen>
+        <tac_gia>Mark Millar, John Romita Jr.</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/k/kick-ass-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>KICK-ASS IS BACK-ready to wipe out the city's criminal lowlives, destroy its gangs, and save its communities from decay. But there's a new face beneath the old mask, a new figure wearing that famous green and yellow spandex. Who is this new vigilante superhero? Who can fill Dave Lizewski's shoes? WHO IS THE NEW KICK-ASS? Find out in the first issue of this new, ongoing monthly series. Comic book legends MARK MILLAR and JOHN ROMITA, JR. reunite for the next chapter of the greatest superhero comic of all time.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kick-ass-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="death of love" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>death of love</ten_truyen>
+		<ma_truyen>death-of-love</ma_truyen>
+        <tac_gia>Justin Jordan, Donal Delay, Omar Trucu Estevez</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/death-of-love/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Love sucks. Philo Harris is going to do something about it. After gaining the ability to see the Cupidae that make love work-after a particularly bad drunken decision-Philo ends up going to war with love itself. With a chainsaw.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/death-of-love-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="copperhead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>copperhead</ten_truyen>
+		<ma_truyen>copperhead</ma_truyen>
+        <tac_gia>Jay Faerber, Scott Godlewski</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/copperhead/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Welcome to Copperhead, a grimy mining town on the edge of a backwater planet. Single mom Clara Bronson is the new sheriff, and on her first day she'll have to contend with a resentful deputy, a shady mining tycoon, and a family of alien hillbillies. And did we mention the massacre?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/copperhead-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dry county" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dry county</ten_truyen>
+		<ma_truyen>dry-county</ma_truyen>
+        <tac_gia>Rich Tommaso</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dry-county/1_medium.jpg</hinh_nho>
+        <gioi_thieu>RICH TOMMASO is taking a short hiatus on SPY SEAL and releasing a new crime series in the meantime, one set in the late 1980s of Miami that follows a young Generation Xer who plays amateur detective in order to find a missing lady he's recently fallen hard for.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dry-county-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="infinity countdown: black widow" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>infinity countdown: black widow</ten_truyen>
 		<ma_truyen>infinity-countdown-black-widow</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/shadow-roads/1_medium.jpg</hinh_nho>
         <gioi_thieu>The world is thinnest at The Crossroads, a mythical plane that serves as a doorway throughout the universe. It is here that a band of adventurers throughout the Wild West gather, brought together by Gord Cantrell and Abigail Redmayne with a singular purpose: to fight back against the creatures that would endanger the sanctity of all creation.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shadow-roads-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="gasolina" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>gasolina</ten_truyen>
-		<ma_truyen>gasolina</ma_truyen>
-        <tac_gia>Sean Mackiewicz, Mat Lopes, Niko Walter</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/gasolina/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Fugitives. Rebels. Newlyweds. In their journey south from El Norte, Amalia and Randy have played many roles in order to survive. Now, they must become unlikely leaders in the fight against a new cartel who uses inhuman tactics to ignite the most monstrous war Mexico and the world has ever seen. Everything burns in this new series from SEAN MACKIEWICZ and NIKO WALTER, where love and devotion can only be measured in fire and blood.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gasolina-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="her infernal descent" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>her infernal descent</ten_truyen>
-		<ma_truyen>her-infernal-descent</ma_truyen>
-        <tac_gia>Lonnie Nadler, Zac Thompson, Kyle Charles, Ryan Ferrier</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/her-infernal-descent/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A tale of loss told in five parts. Any good mom would march through the inferno of HELL to get her family back. Unable to cope with the burden of grief, a middle-aged mom descends the nine circles of hell to retrieve her forsaken family. Guided by the ghosts of William Blake and Agatha Christie, this no-nonsense mother journeys deep into a bizarre underworld filled with celebrity sinners, surreal landscapes, and absurd tasks. HER INFERNAL DESCENT is a retelling of Dante's Inferno that updates the themes for a modern audience. From the writers of the break-out hit The Dregs, and the artist of Roche Limit, this is HELL like you've never seen before.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/her-infernal-descent-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="mata hari (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Fantasy, Leading ladies, Literature, Mature" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>mata hari (2018)</ten_truyen>
-		<ma_truyen>mata-hari-2018</ma_truyen>
-        <tac_gia>Emma Beeby, Ariela Kristantina, Pat Masioni</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/mata-hari-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Dancer. Courtesan. Spy. Executed by a French firing squad in 1917. 100 years on from her death, questions are still raised about her conviction. Now, the lesser-known, often tragic story of the woman who claimed she was born a princess, and died a figure of public hatred with no one to claim her body, is told by breakout talent writer Emma Beeby (Judge Dredd), artist Ariela Kristantina (Insexts), and colorist Pat Masioni drawing on biographies and released MI5 files. In this first part of a five-issue miniseries, we meet Mata Hari in prison at the end of her life as she writes her memoir--part romantic tale of a Javanese princess who performed 'sacred' nude dances for Europe's elite, and part real-life saga of a disgraced wife and mother, who had everything she loved taken from her. But, as she sits trial for treason and espionage, we hear another tale: one of a flamboyant Dutch woman who became 'the most dangerous spy France has ever captured' a double agent who whored herself for secrets, lived a life of scandal, and loved only money. Leading us to ask... who was the real Mata Hari?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mata-hari-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="bedtime games" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>bedtime games</ten_truyen>
-		<ma_truyen>bedtime-games</ma_truyen>
-        <tac_gia>Tini Howard, Celor, K. Michael Russell, Tim Seeley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/bedtime-games/1_medium.jpg</hinh_nho>
-        <gioi_thieu>As summer comes to an end, three friends start senior year with a bang by exploring the mysterious past of their school. But before the night is over, their adventure turns into trouble when the kids set loose an evil that seeks to prey on their worst nightmares. </gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bedtime-games-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

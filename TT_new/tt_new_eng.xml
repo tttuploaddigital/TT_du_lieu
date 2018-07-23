@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="kick-ass (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>kick-ass (2018)</ten_truyen>
+		<ma_truyen>kick-ass-2018</ma_truyen>
+        <tac_gia>Mark Millar, John Romita Jr.</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/k/kick-ass-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>KICK-ASS IS BACK-ready to wipe out the city's criminal lowlives, destroy its gangs, and save its communities from decay. But there's a new face beneath the old mask, a new figure wearing that famous green and yellow spandex. Who is this new vigilante superhero? Who can fill Dave Lizewski's shoes? WHO IS THE NEW KICK-ASS? Find out in the first issue of this new, ongoing monthly series. Comic book legends MARK MILLAR and JOHN ROMITA, JR. reunite for the next chapter of the greatest superhero comic of all time.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kick-ass-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="death of love" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>death of love</ten_truyen>
+		<ma_truyen>death-of-love</ma_truyen>
+        <tac_gia>Justin Jordan, Donal Delay, Omar Trucu Estevez</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/death-of-love/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Love sucks. Philo Harris is going to do something about it. After gaining the ability to see the Cupidae that make love work-after a particularly bad drunken decision-Philo ends up going to war with love itself. With a chainsaw.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/death-of-love-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="copperhead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>copperhead</ten_truyen>
+		<ma_truyen>copperhead</ma_truyen>
+        <tac_gia>Jay Faerber, Scott Godlewski</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/copperhead/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Welcome to Copperhead, a grimy mining town on the edge of a backwater planet. Single mom Clara Bronson is the new sheriff, and on her first day she'll have to contend with a resentful deputy, a shady mining tycoon, and a family of alien hillbillies. And did we mention the massacre?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/copperhead-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dry county" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dry county</ten_truyen>
+		<ma_truyen>dry-county</ma_truyen>
+        <tac_gia>Rich Tommaso</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dry-county/1_medium.jpg</hinh_nho>
+        <gioi_thieu>RICH TOMMASO is taking a short hiatus on SPY SEAL and releasing a new crime series in the meantime, one set in the late 1980s of Miami that follows a young Generation Xer who plays amateur detective in order to find a missing lady he's recently fallen hard for.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dry-county-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="kangoku jikken" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kangoku jikken</ten_truyen>
 		<ma_truyen>kangoku-jikken</ma_truyen>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/e/exiles-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>DON'T BLINK - THE EXILES ARE BACK! Fan-favorite X-Man Blink once joined a team destined to save not just the world, but the entire Multiverse. And now, her teleporting talents are needed once again! When a mysterious threat begins eating away at the fabric of the Multiverse, the Unseen - the man once known as Nick Fury who now can only observe Earth from a lofty post on the moon - must recruit a champion to save it. But she can't do it alone. Who will join Blink's new team - and can they ever go home again?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/exiles-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="green hornet (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Pulp, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>green hornet (2018)</ten_truyen>
-		<ma_truyen>green-hornet-2018</ma_truyen>
-        <tac_gia>Amy Chu, German Erramouspe</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/green-hornet-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Britt Reid Jr., the scion of the Daily Sentinel publishing empire, vanishes during a wild party on his friend's yacht. Meanwhile, crime spikes in the streets of Century City with the mysterious criminal/secret vigilante the Green Hornet absent. It's only a matter of time before SOMEONE puts two and two together, and it's up to Kato, former partner of Britt's father, and his daughter Mulan to protect the city AND the Green Hornet legacy, while finding out what happened to Britt. Amy Chu (Red Sonja, Poison Ivy, KISS) picks up where Kevin Smith left off with an action packed mystery.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/green-hornet-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="james bond: the body" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Spy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>james bond: the body</ten_truyen>
-		<ma_truyen>james-bond-the-body</ma_truyen>
-        <tac_gia>Ales Kot, Luca Casalanguida</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/james-bond-the-body/1_medium.jpg</hinh_nho>
-        <gioi_thieu>As Bond undergoes a post-mission medical examination, he relays the story of his previous mission to the examiner. Each cut, bruise, and broken bone connected to a specific event of the mission. A connection is made between two people with different purposes: one to save lives, the other to take them.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/james-bond-the-body-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="executive assistant: iris (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>executive assistant: iris (2018)</ten_truyen>
-		<ma_truyen>executive-assistant-iris-2018</ma_truyen>
-        <tac_gia>Blake Northcott, Donny Tran</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/executive-assistant-iris-vol-5/1_medium.jpg</hinh_nho>
-        <gioi_thieu> When a routine security job takes a turn for the worse, Executive Assistant Iris realizes she might be at the crossroads of her career! The world's deadliest assassin is faced with a choice: remain a freelance Executive Assistant, or join Magni Global-a mysterious corporation that has acquired nearly every private security firm on the planet. But, what fateful decisions may come from joining a giant conglomerate whose interests may spell doom for her?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/executive-assistant-iris-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="moonshine" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>moonshine</ten_truyen>
-		<ma_truyen>moonshine</ma_truyen>
-        <tac_gia>Brian Azzarello, Eduardo Risso, Frank Miller</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/moonshine/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Set during Prohibition, and deep in the backwoods of Appalachia, MOONSHINE #1 tells the story of Lou Pirlo, a city-slick 'torpedo' sent from New York City to negotiate a deal with the best moonshiner in West Virginia, one Hiram Holt. What Lou doesn't figure on is that Holt is just as cunning and ruthless as any NYC crime boss. Because not only will Holt do anything to protect his illicit booze operation, he'll stop at nothing to protect a much darker family secret...a bloody, supernatural secret that must never see the light of day... or better still, the light of the full moon.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/moonshine-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
