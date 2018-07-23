@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="kangoku jikken" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kangoku jikken</ten_truyen>
+		<ma_truyen>kangoku-jikken</ma_truyen>
+		<tac_gia>Kantetsu, Minase Chiho</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/42154/3/200.jpg</hinh_nho>
+		<gioi_thieu>Eyama Aito, a high school student, is the victim of daily bullying. One day a strange letter arrives inviting him to a 'captivity game.' He may choose one person to hold captive for one month with a chance at winning a large amount of money. He chooses the ringleader of his bullies, Aya Kirishima, and the only rule of the game is to not kill her. Everything else is fair game. Eyama's revenge begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kangoku-jikken-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="harigane service" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>harigane service</ten_truyen>
+		<ma_truyen>harigane-service</ma_truyen>
+		<tac_gia>Ara Tatsuya</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27393/2/200.jpg</hinh_nho>
+		<gioi_thieu>Shimodaira Kanna is a first year at Toritsu Toyose high school. He decides to be in the volley-ball club unfortunately, after an accident in middle school he can no longer jump. Despite being really good at serving he can't be on the regular team without jumping. How will he overcomes that problem?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/harigane-service-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="dansan joshi" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>dansan joshi</ten_truyen>
+		<ma_truyen>dansan-joshi</ma_truyen>
+		<tac_gia>Mizu Asato</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/37423/1/200.jpg</hinh_nho>
+		<gioi_thieu>This manga follows the story of 7 high school students, 3 boys and 4 girls in year 1 class A. Their not-so-ordinary ways of thinking and everyday lives are loaded with comedy, dirty jokes. At times, debating about how to use a toilet, at other times, risking their lives over growing body hair in unusual places!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/dansan-joshi-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="infinity countdown: black widow" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>infinity countdown: black widow</ten_truyen>
 		<ma_truyen>infinity-countdown-black-widow</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/m/moonshine/1_medium.jpg</hinh_nho>
         <gioi_thieu>Set during Prohibition, and deep in the backwoods of Appalachia, MOONSHINE #1 tells the story of Lou Pirlo, a city-slick 'torpedo' sent from New York City to negotiate a deal with the best moonshiner in West Virginia, one Hiram Holt. What Lou doesn't figure on is that Holt is just as cunning and ruthless as any NYC crime boss. Because not only will Holt do anything to protect his illicit booze operation, he'll stop at nothing to protect a much darker family secret...a bloody, supernatural secret that must never see the light of day... or better still, the light of the full moon.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/moonshine-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="shanghai red" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Western" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>shanghai red</ten_truyen>
-		<ma_truyen>shanghai-red</ma_truyen>
-        <tac_gia>Christopher Sebela, Hassan Otsmane-Elhaou, Joshua Hixson</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shanghai-red/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Red is one of hundreds shanghaied out of Portland in the late 1800s. Drugged, kidnapped, and sold to a ship's captain, she wakes up on a boat headed out to sea for years, unable to escape or even reveal who she truly is. Now she's coming back in a boat covered in blood to find her family and track down the men responsible for stealing her life out from under her. Eisner-nominated writer CHRISTOPHER SEBELA (High Crimes, Heartthrob, We(l)come Back), JOSHUA HIXSON (The Black Woods) and HASSAN OTSMANE-ELHAOU (Felix and Macabber) bring you a tale of revenge, family, and identity that stretches from the deck of a ship outside Shanghai all the way to the bleak streets and secret tunnels of Portland, Oregon.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shanghai-red-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="skyward (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>skyward (2018)</ten_truyen>
-		<ma_truyen>skyward-2018</ma_truyen>
-        <tac_gia>Joe Henderson, Antonio Fabela, Lee Garbett</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/skyward-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>One day, gravity on earth suddenly became a fraction of what it is now. Twenty years later, humanity has adapted to its new low-gravity reality. And to Willa Fowler, a woman born just after G-day, it's... well, it's pretty awesome, actually. You can fly through the air! I mean, sure, you can also die if you jump too high. So you just don't jump too high. And maybe don't stumble into a dangerous plan to bring gravity back that could get you killed.... From writer JOE HENDERSON (showrunner of Fox's Lucifer) and artist LEE GARBETT (Lucifer, Loki: Agent of Asgard), SKYWARD is an adventure-filled exploration of our world turned upside down and a young woman's journey to find her place in it.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/skyward-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the beef" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the beef</ten_truyen>
-		<ma_truyen>the-beef</ma_truyen>
-        <tac_gia>Tyler Shainline, Richard Starkings, Shaky Kane, John Roshel</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/beef/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The creator of ELEPHANTMEN and the creator of The A-Men join forces with TYLER SHAINLINE (Liberty Justice) to bring you the story of Meat Men! Chuck is a mild-mannered meat factory worker who is a little in love with a strawberry picker named Mary Lynn. But everything changes when Mary Lynn falls victim to the Vodino Brothers...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-beef-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
