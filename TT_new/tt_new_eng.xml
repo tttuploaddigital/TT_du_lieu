@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="ant-man and the wasp (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>ant-man and the wasp (2018)</ten_truyen>
+		<ma_truyen>ant-man-and-the-wasp-2018</ma_truyen>
+        <tac_gia>Mark Waid, Javier Garron, David Nakayama</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/ant-man--the-wasp-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Wasp was just trying to help Ant-Man get home to Earth to see his daughter...but a little problem got in the way. Very little. Subatomic, in fact, as Scott Lang was lost in the vast spaces between atoms! Now, Nadia is his only hope of rescue...if only he would listen long enough for her to save them!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ant-man-and-the-wasp-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="teenage mutant ninja turtles universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Fantasy, Movies - tv, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>teenage mutant ninja turtles universe</ten_truyen>
+		<ma_truyen>teenage-mutant-ninja-turtles-universe</ma_truyen>
+        <tac_gia>Kevin Eastman, Paul Allor, Tom Waltz, Damian Couceiro, Bill Sienkiewicz, Freddie E. Williams</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-universe/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Introducing a new era in TMNT! This series will explore characters and story-lines that are pivotal to the IDW TMNT universe! When a mysterious new mutant targets Baxter Stockman, it will be up to the TMNT to reluctantly save him. Little does everyone know that a larger trap is being laid by a new arch-foe! Plus a back-up story from TMNT co-creator Kevin Eastman and comics legend Bill Sienkiewicz!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teenage-mutant-ninja-turtles-universe-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="deep roots" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>deep roots</ten_truyen>
+		<ma_truyen>deep-roots</ma_truyen>
+        <tac_gia>Dan Watters, Val Rodrigues, Triona Farrell</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deep-roots/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Roots, once suffocating under cement, tear through the streets of London to throttle buildings. Vegetable homunculi hold up banks with automatic weapons. There is a green and blooming world beyond our own, fighting back against the human pollutant. We will launch a rescue mission to this Otherworld. But it is cruel and unknowable, and should we become tangled in its vines, more than cities will fall. From Dan Watters (Limbo, The Shadow, Assassin's Creed) and Val Rodrigues comes a story of two worlds, of myth and man, of science and fiction, and the roots they share.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deep-roots-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="kick-ass (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>kick-ass (2018)</ten_truyen>
 		<ma_truyen>kick-ass-2018</ma_truyen>
@@ -243,31 +270,4 @@
 		<gioi_thieu>Kamiya Hiroki always thought women had it easy. This thought was throttled by the fact that his 24-year-old sister does not work and plays games all day. Why couldn't he have it this easy? He wanted to become a woman and be lazy like his sister. After blogging about his rants about his sister online, a mysterious reader comments on his blog, stating that there are ways to swap bodies with others. This would bring Hiroki's dream of becoming a woman to reality . Unfortunately for Hiroki, swapping bodies had unintended consequences when he returned to his own body.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mayonaka-no-x-giten-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="d-frag" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Harem, Romance, School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>d-frag</ten_truyen>
-		<ma_truyen>d-frag</ma_truyen>
-		<tac_gia>Haruno Tomoya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/2051/4/200.jpg</hinh_nho>
-		<gioi_thieu>Kazama Kenji likes to believe he is something of a delinquent. Moreover, others seem to like to agree that he is. Of course, Kenji's gang finds their way to a group of four not-so-normal girls - Chitose, Sakura, Minami and Roka - and all at once, whatever reputation he may have, is nothing compared to the outrageous behaviour of the girls. Shanghaied into joining their club, what will happen to his everday life from that point on?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/d-frag-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="soredemo sekai wa utsukushii" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>soredemo sekai wa utsukushii</ten_truyen>
-		<ma_truyen>soredemo-sekai-wa-utsukushii</ma_truyen>
-		<tac_gia>Shina Dai</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9369/5/200.jpg</hinh_nho>
-		<gioi_thieu>Nike, the fourth princess of the Rain Dukedom and one who holds the power to call forth the rain, travels to the Sun Kingdom to marry King Livius on behalf of her country after losing a game of rock, paper, scissors to her three older sisters. Upon arriving at the Sun Kingdom, she discovers that the Livius, who conquered the world in only three years after his ascendance to the throne, is only fifteen years old!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/soredemo-sekai-wa-utsukushii-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="exiles (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>exiles (2018)</ten_truyen>
-		<ma_truyen>exiles-2018</ma_truyen>
-        <tac_gia>Saladin Ahmed, Javier Rodriguez, David Marquez</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/exiles-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>DON'T BLINK - THE EXILES ARE BACK! Fan-favorite X-Man Blink once joined a team destined to save not just the world, but the entire Multiverse. And now, her teleporting talents are needed once again! When a mysterious threat begins eating away at the fabric of the Multiverse, the Unseen - the man once known as Nick Fury who now can only observe Earth from a lofty post on the moon - must recruit a champion to save it. But she can't do it alone. Who will join Blink's new team - and can they ever go home again?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/exiles-2018-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
