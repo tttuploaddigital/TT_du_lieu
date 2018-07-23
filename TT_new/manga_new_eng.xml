@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<!--
+	<truyen ten="kangoku jikken" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kangoku jikken</ten_truyen>
+		<ma_truyen>kangoku-jikken</ma_truyen>
+		<tac_gia>Kantetsu, Minase Chiho</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/42154/3/200.jpg</hinh_nho>
+		<gioi_thieu>Eyama Aito, a high school student, is the victim of daily bullying. One day a strange letter arrives inviting him to a 'captivity game.' He may choose one person to hold captive for one month with a chance at winning a large amount of money. He chooses the ringleader of his bullies, Aya Kirishima, and the only rule of the game is to not kill her. Everything else is fair game. Eyama's revenge begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kangoku-jikken-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="harigane service" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>harigane service</ten_truyen>
+		<ma_truyen>harigane-service</ma_truyen>
+		<tac_gia>Ara Tatsuya</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27393/2/200.jpg</hinh_nho>
+		<gioi_thieu>Shimodaira Kanna is a first year at Toritsu Toyose high school. He decides to be in the volley-ball club unfortunately, after an accident in middle school he can no longer jump. Despite being really good at serving he can't be on the regular team without jumping. How will he overcomes that problem?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/harigane-service-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="aku no hana" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>aku no hana</ten_truyen>
+		<ma_truyen>aku-no-hana</ma_truyen>
+		<tac_gia>Oshimi Shuzo</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/521/3/200.jpg</hinh_nho>
+		<gioi_thieu>The story opens as middle school student Takao Kasuga receives an F on a math test. But he doesn't even seem to notice because he's too engrossed in surreptitiously reading Beaudelaire's The Flowers of Evil. And the day goes downhill from there. In a moment of weakness, he finds and takes home the gym clothes belonging to sweet, pretty Nanako Saeki on whom he has a major crush. Unfortunately for Takao, there's a witness to the theft: Nakamura, who has a huge chip on her shoulder and a sadistic streak. As the saga unfolds, we see Takao struggling to decide whether to confess or cover up his misdeeds at the same time that he tries to win over the girl of his dreams, and avoid the blackmail attempts of Nakamura, his new 'BFF.'</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/aku-no-hana-eng.xml</file_xml>
+	</truyen>
+	-->
+	<truyen ten="arslan senki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>arslan senki</ten_truyen>
+		<ma_truyen>arslan-senki</ma_truyen>
+		<tac_gia>Tanaka Yoshiki, Arakawa Hiromu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/22658/5/200.jpg</hinh_nho>
+		<gioi_thieu>As an unnaturally heavy mist descends on the battlefield, King Andragoras and his most valued officers confer among the bodies of dead and dying soldiers. When Daryoon, a young but highly skilled officer, voices his reluctance to send men into battle under these conditions, the king, unstable and enraged, banishes him. Now, Daryoon's new mission is to insure the safety of the King's only son, Prince Arislan. Daryoon and Prince Arislan set off on a quest of their own, but they can't succeed alone. They must convince both the Lord Narsus and his companion, the archer Elam, to join them in their quest to somehow help the soldiers win the war. Now a group of only six they must somehow overcome an enemy of 300,000 soldiers! These unlikely soldiers have fate on their side, so anything can happen!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/arslan-senki-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="wagatsuma-san wa ore no yome" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Harem, Romance, School life, Sci-fi, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>wagatsuma-san wa ore no yome</ten_truyen>
+		<ma_truyen>wagatsuma-san-wa-ore-no-yome</ma_truyen>
+		<tac_gia>Kuraishi Yuu, Nishikida Keishi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/10937/7/200.jpg</hinh_nho>
+		<gioi_thieu>Aoshima Hitoshi is a second year student in high school, who wishes he had a girlfriend. One day he wakes up for an unknown reason 10 years in the future, and he is married to the prettiest girl in school, Wagatsuma Ai! How has their relationship grown from mere acquaintances to husband and wife!?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/wagatsuma-san-wa-ore-no-yome-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="aku no hana" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>aku no hana</ten_truyen>
+		<ma_truyen>aku-no-hana</ma_truyen>
+		<tac_gia>Oshimi Shuzo</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/521/3/200.jpg</hinh_nho>
+		<gioi_thieu>The story opens as middle school student Takao Kasuga receives an F on a math test. But he doesn't even seem to notice because he's too engrossed in surreptitiously reading Beaudelaire's The Flowers of Evil. And the day goes downhill from there. In a moment of weakness, he finds and takes home the gym clothes belonging to sweet, pretty Nanako Saeki on whom he has a major crush. Unfortunately for Takao, there's a witness to the theft: Nakamura, who has a huge chip on her shoulder and a sadistic streak. As the saga unfolds, we see Takao struggling to decide whether to confess or cover up his misdeeds at the same time that he tries to win over the girl of his dreams, and avoid the blackmail attempts of Nakamura, his new 'BFF.'</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/aku-no-hana-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="mayonaka no x giten" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Gender bender, Horror, Mature, Mystery, Psychological, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>mayonaka no x giten</ten_truyen>
 		<ma_truyen>mayonaka-no-x-giten</ma_truyen>
@@ -242,32 +298,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/28214/2/200.jpg</hinh_nho>
 		<gioi_thieu>Yuuki Tsumire was raised by her single mother, who always told her to keep smiling, no matter what hardships she endured. The two of them were a family, until Tsumire's mother died from illness. Tsumire soon learned that she had a family she knew nothing about: a cold, rich family that disowned her kindhearted mother when she became pregnant. Tsumire now must go live with this family, even though none of them seem to want her there. She doesn't have to switch schools, so she at least has her friends to help her through this difficult time. However, she doesn't have the heart to confide in her friends with even more problems, so she tries to keep it bottled up inside. To her surprise, the Yuuki family lawyer, a young man named Hino, soon becomes her emotional support in this difficult situation. However, Tsumire's reactions to him might mean that she wishes he were something more... Thanks go to tethysdust for the summary.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/megami-no-libra-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="getter robot devolution - uchuu saigo no 3-bunkan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mecha, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>getter robot devolution - uchuu saigo no 3-bunkan</ten_truyen>
-		<ma_truyen>getter-robot-devolution-uchuu-saigo-no-3-bunkan</ma_truyen>
-		<tac_gia>Ishikawa Ken, Shimizu Eiichi, Shimoguchi Tomohiro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/38781/1/200.jpg</hinh_nho>
-		<gioi_thieu>Three young pilots connected by the Getter Rays (Ryoma Nagare, Hayato Jin, and Musashi Tomoe) are recruited by Dr. Saotome to fight the Devolved beings appearing from spatial distortions using the only weapon that can face these monsters, the Getter Robo. The Saotome Institute however holds a dangerous secret, a fragment of the being called Emperor which connects the Getter and its pilots to parallel worlds, including the presence of people from those worlds such as an older Hayato and Dr. Shikishima.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/getter-robot-devolution-uchuu-saigo-no-3-bunkan-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="rain  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>rain  </ten_truyen>
-		<ma_truyen>rain</ma_truyen>
-		<tac_gia>Yoshino Takumi, Sumikawa Megumi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>http://www.mangadeep.com/wp-content/manga/cover/tbn/rain_200x0.jpg</hinh_nho>
-		<gioi_thieu>The small country Sunkwoll is in a tight spot because it's under attack of the great country Zarmine. But the general, Rain, who's reputed to be an exceptionally gifted swordsman, is against the war and won't enter the battle. But how is one supposed to wage a war like this anyway?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/rain-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kimi to kore kara" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, Shounen ai, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kimi to kore kara</ten_truyen>
-		<ma_truyen>kimi-to-kore-kara</ma_truyen>
-		<tac_gia>Yamamoto Kotetsuko</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/28219/3/200.jpg</hinh_nho>
-		<gioi_thieu>Here starts the Konya spinoff series, focusing more on Gorou and Verde! There's plenty of Endou and Rikiya as well, but this story will spend more time telling the story of these heretofore side characters. The story takes place immediately after the last Konya chapter, so you can think of this as Chapter 20, just less focus on Endo/Rikiya and more on Gorou/Verde.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/kimi-to-kore-kara-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
