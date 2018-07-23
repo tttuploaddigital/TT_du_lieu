@@ -180,6 +180,15 @@
         <gioi_thieu>The time has come! Their ranks shattered by Civil War, their spirits weighted down by a toll both personal and spiritual, Earth's Mightiest Heroes must find the resolve to stand united one final time against their greatest foe! Captain America! Thor! The Vision! The Wasp! Spider-Man! Hercules! When the dust settles, not a one of these valiant heroes will make it to the final page alive! This is KANG WAR ONE!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-2016-eng.xml</file_xml>
     </truyen>
+	<truyen ten="b.p.r.d. the devil you know" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>b.p.r.d. the devil you know</ten_truyen>
+		<ma_truyen>b-p-r-d-the-devil-you-know</ma_truyen>
+        <tac_gia>Jeff Lemire, Lewis Larosa, Mico Suayan</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/bprd-the-devil-you-know/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Before they were vanquished by the BPRD, Lovecraftian monsters created a Hell on Earth. Now Liz Sherman leads a crew through monster-infested ruins on the most important rescue mission of her life. As society tries to rebuild, strange cults vie for influence, and a demon emerges to lead the way...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/b-p-r-d-the-devil-you-know-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="back to the future (2015)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>back to the future (2015)</ten_truyen>
 		<ma_truyen>back-to-the-future-2015</ma_truyen>
@@ -324,6 +333,15 @@
         <gioi_thieu>One of the most controversial characters in comics has returned and the controversy has only BEGUN! In the aftermath of THE CLONE CONSPIRACY, Ben has a new take on life... and he's not the same Scarlet Spider he was before. Come witness what will be the most talked about comic of the year!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ben-reilly-scarlet-spider-eng.xml</file_xml>
     </truyen>
+	<truyen ten="betrothed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>betrothed</ten_truyen>
+		<ma_truyen>betrothed</ma_truyen>
+        <tac_gia>Sean Lewis, Steve Uy, Simon Bowland</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/betrothed/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Welcome to the World of Betrothed! Kieron and Tamara are both seniors at the same high school. They've never paid much attention to each other, even though they are the only kids at school who are orphans. On the eve of their eighteenth birthdays, they discover a lifelong secret: in a dimension far away, they are each the leader of an army that is at war with one another... and what's more, when they turn eighteen, they're to be Betrothed or Fight to the Death!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/betrothed-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="bettie page" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Pulp" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>bettie page</ten_truyen>
 		<ma_truyen>bettie-page</ma_truyen>
@@ -405,10 +423,10 @@
         <gioi_thieu>When four teenagers with haunted pasts enroll in Blackwood College--a school that trains students in the occult--their desire to enhance their supernatural abilities and bond with others is hampered by an undead dean's curse, ghosts in their dorm, a mischievous two-headed mummy-chimp, a plague of mutant insects, and the discovery of an ancient evil that forces our heroes to undergo a crash course in the occult for the sake of the world.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/blackwood-eng.xml</file_xml>
     </truyen>
-	<truyen ten="bloodshot salvation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>bloodshot salvation</ten_truyen>
+	<truyen ten="bloodshot: salvation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>bloodshot: salvation</ten_truyen>
 		<ma_truyen>bloodshot-salvation</ma_truyen>
-        <tac_gia>Jeff Lemire, Lewis Larosa</tac_gia>
+        <tac_gia>Jeff Lemire, Lewis Larosa, Mico Suayan</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/bloodshot-salvation/1_medium.jpg</hinh_nho>
         <gioi_thieu>Now: In the arms of his beloved girlfriend Magic, Bloodshot has finally found hope for the future... in the form the couple's unborn child. But when Magic's estranged family - a cruel and sadistic clan of white supremacist criminals re-emerge to lay claim to their lost daughter, Bloodshot will be pushed back to the brink of madness, mayhem, and warfare... Soon: Eight years from today, Bloodshot's daughter has inherited her father's incredible abilities. Hunted by a high-tech kill squad called Omen, Jessie must hone her powers... and learn how to survive before the world is swallowed whole by the darkness that now pervades America...</gioi_thieu>
@@ -903,7 +921,7 @@
 	<truyen ten="evolution  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>evolution  </ten_truyen>
 		<ma_truyen>evolution</ma_truyen>
-        <tac_gia>Aaron Gillespie, Scott Snyder, Andy Kubert</tac_gia>
+        <tac_gia>James Asmus, Joesph Keatinge, Christopher Sebela, Joshua Williamson, Jordan Boyd, Joe Infurnari</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
         <gioi_thieu>Human evolution has taken millions of years to get to this stage. But next week, we become something new. Around the world, humanity is undergoing rapid and unpredictable changes, and only three individuals seem to notice that their world is being reborn. But what can they do about it?</gioi_thieu>
@@ -1250,6 +1268,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/i/infidel/1_medium.jpg</hinh_nho>
         <gioi_thieu>A haunted house story for the 21st century, INFIDEL follows an American Muslim woman and her multiracial neighbors who move into a building haunted by entities that feed off xenophobia.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infidel-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="infinity countdown: black widow" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity countdown: black widow</ten_truyen>
+		<ma_truyen>infinity-countdown-black-widow</ma_truyen>
+        <tac_gia>Gerry Duggan, Nik Virella, Yasmine Putri</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-countdown-black-widow/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Given the incredibly powerful Space Stone to look after by an old friend, Black Widow has no intention of letting it fall into the wrong hands... but is even the top espionage agent in the world ready to handle cosmic responsibility?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-countdown-black-widow-eng.xml</file_xml>
     </truyen>
 	<truyen ten="infinity countdown: champions" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>infinity countdown: champions</ten_truyen>
@@ -1953,13 +1980,22 @@
         <gioi_thieu>Sometimes...you embrace your destiny. And sometimes... you and your trouble-making adopted brother find yourselves trapped in a scientific lab explosion that grants you ****ing awesome super-powers. As a result of their accident, Eric and Woody Henderson - aka Quantum and Woody - must 'klang' their wristbands together every 24 hours or both dissipate into nothingness. Which makes superhero-ing pretty awkward when you're not on speaking terms at the moment. See, Eric has been keeping a pretty big secret: He knows who Woody's birth father really is...and where he's been hiding all these years. With great power comes great sibling rivalry! This winter, you'll believe two men and one goat can split a one-bedroom apartment and still be a credible threat to evil and injustice everywhere when QUANTUM AND WOODY make headlines and take names!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quantum-and-woody-2017-eng.xml</file_xml>
     </truyen>
+	<truyen ten="quicksilver: no surrender" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>quicksilver: no surrender</ten_truyen>
+		<ma_truyen>quicksilver-no-surrender</ma_truyen>
+        <tac_gia>Saladin Ahmed, Eric Nguyen</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/q/quicksilver-no-surrender/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Quicksilver's super-speed and abrasive personality have always isolated him, but he's never been truly alone... until now. Trapped beyond the perception of friends, family and allies, Quicksilver wages a one-man guerilla war against a monster that he's not even sure is real, to save a world that he may never be a part of again. Saladin Ahmed (BLACK BOLT) and Eric Nguyen (OLD MAN LOGAN) team up to bring you a psychedelic survival thriller unlike anything you've seen before!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quicksilver-no-surrender-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="rat queens (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>rat queens (2017)</ten_truyen>
 		<ma_truyen>rat-queens-2017</ma_truyen>
         <tac_gia>Kurtis J. Wiebe, Owen Gieni</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/r/rat-queens-(2017)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>“CAT KINGS AND OTHER GARYS,” Part Three: A mysterious quest for a local gourmet chef leads the Queens on a raucous adventure far outside the safety of Palisade's walls. What possible trouble could a gang of five heavily armed women get into while hunting for rare mushrooms?'</gioi_thieu>
+        <gioi_thieu>'CAT KINGS AND OTHER GARYS,' Part Three: A mysterious quest for a local gourmet chef leads the Queens on a raucous adventure far outside the safety of Palisade's walls. What possible trouble could a gang of five heavily armed women get into while hunting for rare mushrooms?'</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rat-queens-2017-eng.xml</file_xml>
     </truyen>
 	<truyen ten="raven  " tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Magic, Superhero, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
