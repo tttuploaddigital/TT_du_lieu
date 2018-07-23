@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<!--
 	<truyen ten="kangoku jikken" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kangoku jikken</ten_truyen>
 		<ma_truyen>kangoku-jikken</ma_truyen>
@@ -19,16 +18,15 @@
 		<gioi_thieu>Shimodaira Kanna is a first year at Toritsu Toyose high school. He decides to be in the volley-ball club unfortunately, after an accident in middle school he can no longer jump. Despite being really good at serving he can't be on the regular team without jumping. How will he overcomes that problem?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/harigane-service-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="aku no hana" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>aku no hana</ten_truyen>
-		<ma_truyen>aku-no-hana</ma_truyen>
-		<tac_gia>Oshimi Shuzo</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/521/3/200.jpg</hinh_nho>
-		<gioi_thieu>The story opens as middle school student Takao Kasuga receives an F on a math test. But he doesn't even seem to notice because he's too engrossed in surreptitiously reading Beaudelaire's The Flowers of Evil. And the day goes downhill from there. In a moment of weakness, he finds and takes home the gym clothes belonging to sweet, pretty Nanako Saeki on whom he has a major crush. Unfortunately for Takao, there's a witness to the theft: Nakamura, who has a huge chip on her shoulder and a sadistic streak. As the saga unfolds, we see Takao struggling to decide whether to confess or cover up his misdeeds at the same time that he tries to win over the girl of his dreams, and avoid the blackmail attempts of Nakamura, his new 'BFF.'</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/aku-no-hana-eng.xml</file_xml>
+	<truyen ten="dansan joshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>dansan joshi</ten_truyen>
+		<ma_truyen>dansan-joshi</ma_truyen>
+		<tac_gia>Mizu Asato</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/37423/1/200.jpg</hinh_nho>
+		<gioi_thieu>This manga follows the story of 7 high school students, 3 boys and 4 girls in year 1 class A. Their not-so-ordinary ways of thinking and everyday lives are loaded with comedy, dirty jokes. At times, debating about how to use a toilet, at other times, risking their lives over growing body hair in unusual places!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dansan-joshi-eng.xml</file_xml>
 	</truyen>
-	-->
 	<truyen ten="arslan senki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>arslan senki</ten_truyen>
 		<ma_truyen>arslan-senki</ma_truyen>
@@ -271,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/7366/9/200.jpg</hinh_nho>
 		<gioi_thieu>Erika lied to her friends about having a boyfriend by showing a picture of an annonymous guy who turned out to be a a schoolmate of hers and was shortly recognized by her friends. Their conversations then was overheard by the guy, Sata Kyouya. Erika went to explain and proposed her idea of faking as lovers. However, Sata who gave off the nice-charming feelings guy turns out to be a black prince and used her reasons to blackmail her instead.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ookami-shoujo-to-kuro-ouji-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="konjiki no moji tsukai - yuusha yonin ni makikomareta unique cheat" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Harem, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>konjiki no moji tsukai - yuusha yonin ni makikomareta unique cheat</ten_truyen>
-		<ma_truyen>konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat</ma_truyen>
-		<tac_gia>Tomoto Sui, Ozaki Yuusuke</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/29695/4/200.jpg</hinh_nho>
-		<gioi_thieu>There has been much conflict between the races of the 'Humas', the 'Gabranth', and the 'Evila'. To combat the 'Evila' race's Demon King, the kingdom summons five high school students from 21st century Japan who have the power of Heroes. However, only four out of five of those students had the status title of 'Hero'. Okamura Hiiro was summoned by accident since he sat near the other four students in class. Unlike them, he did not have the title of a 'Hero' but instead he had the title of 'Word Master' and 'Innocent Bystander'. Seeing through the 'Humas' kingdom's deceit and insanity, Hiiro decides that he has no wish to partake in their selfish war. Leaving the castle, Hiiro decides to join the Adventurer's Guild and does whatever he feels like. Who knows? Maybe there is some merit to being a 'Word Master' and an 'Innocent Bystander'.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gleipnir" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Ecchi, Fantasy, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gleipnir</ten_truyen>
-		<ma_truyen>gleipnir</ma_truyen>
-		<tac_gia>Takeda Sun</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/36253/3/200.jpg</hinh_nho>
-		<gioi_thieu>Shuichi Kagaya isn't human. He has an unnatural sense of smell, and can transform into an incredibly powerful beast... of sorts. He does all he can to avoid standing out and being discovered, but no good deed goes unpunished, and his decision to use his power to save a girl spells the end for his quiet life.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gleipnir-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="megami no libra" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>megami no libra</ten_truyen>
-		<ma_truyen>megami-no-libra</ma_truyen>
-		<tac_gia>Sakou Watari</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/28214/2/200.jpg</hinh_nho>
-		<gioi_thieu>Yuuki Tsumire was raised by her single mother, who always told her to keep smiling, no matter what hardships she endured. The two of them were a family, until Tsumire's mother died from illness. Tsumire soon learned that she had a family she knew nothing about: a cold, rich family that disowned her kindhearted mother when she became pregnant. Tsumire now must go live with this family, even though none of them seem to want her there. She doesn't have to switch schools, so she at least has her friends to help her through this difficult time. However, she doesn't have the heart to confide in her friends with even more problems, so she tries to keep it bottled up inside. To her surprise, the Yuuki family lawyer, a young man named Hino, soon becomes her emotional support in this difficult situation. However, Tsumire's reactions to him might mean that she wishes he were something more... Thanks go to tethysdust for the summary.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/megami-no-libra-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
