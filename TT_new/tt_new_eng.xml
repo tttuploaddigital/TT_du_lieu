@@ -1,9 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="infinity countdown: black widow" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity countdown: black widow</ten_truyen>
+		<ma_truyen>infinity-countdown-black-widow</ma_truyen>
+        <tac_gia>Gerry Duggan, Nik Virella, Yasmine Putri</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-countdown-black-widow/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Given the incredibly powerful Space Stone to look after by an old friend, Black Widow has no intention of letting it fall into the wrong hands... but is even the top espionage agent in the world ready to handle cosmic responsibility?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-countdown-black-widow-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="quicksilver: no surrender" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>quicksilver: no surrender</ten_truyen>
+		<ma_truyen>quicksilver-no-surrender</ma_truyen>
+        <tac_gia>Saladin Ahmed, Eric Nguyen</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/q/quicksilver-no-surrender/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Quicksilver's super-speed and abrasive personality have always isolated him, but he's never been truly alone... until now. Trapped beyond the perception of friends, family and allies, Quicksilver wages a one-man guerilla war against a monster that he's not even sure is real, to save a world that he may never be a part of again. Saladin Ahmed (BLACK BOLT) and Eric Nguyen (OLD MAN LOGAN) team up to bring you a psychedelic survival thriller unlike anything you've seen before!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quicksilver-no-surrender-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="b.p.r.d. the devil you know" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>b.p.r.d. the devil you know</ten_truyen>
+		<ma_truyen>b-p-r-d-the-devil-you-know</ma_truyen>
+        <tac_gia>Jeff Lemire, Lewis Larosa, Mico Suayan</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/bprd-the-devil-you-know/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Before they were vanquished by the BPRD, Lovecraftian monsters created a Hell on Earth. Now Liz Sherman leads a crew through monster-infested ruins on the most important rescue mission of her life. As society tries to rebuild, strange cults vie for influence, and a demon emerges to lead the way...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/b-p-r-d-the-devil-you-know-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="betrothed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>betrothed</ten_truyen>
+		<ma_truyen>betrothed</ma_truyen>
+        <tac_gia>Sean Lewis, Steve Uy, Simon Bowland</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/betrothed/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Welcome to the World of Betrothed! Kieron and Tamara are both seniors at the same high school. They've never paid much attention to each other, even though they are the only kids at school who are orphans. On the eve of their eighteenth birthdays, they discover a lifelong secret: in a dimension far away, they are each the leader of an army that is at war with one another... and what's more, when they turn eighteen, they're to be Betrothed or Fight to the Death!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/betrothed-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="evolution  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>evolution  </ten_truyen>
 		<ma_truyen>evolution</ma_truyen>
-        <tac_gia>Aaron Gillespie, Scott Snyder, Andy Kubert</tac_gia>
+        <tac_gia>James Asmus, Joesph Keatinge, Christopher Sebela, Joshua Williamson, Jordan Boyd, Joe Infurnari</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
         <gioi_thieu>Human evolution has taken millions of years to get to this stage. But next week, we become something new. Around the world, humanity is undergoing rapid and unpredictable changes, and only three individuals seem to notice that their world is being reborn. But what can they do about it?</gioi_thieu>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/b/beef/1_medium.jpg</hinh_nho>
         <gioi_thieu>The creator of ELEPHANTMEN and the creator of The A-Men join forces with TYLER SHAINLINE (Liberty Justice) to bring you the story of Meat Men! Chuck is a mild-mannered meat factory worker who is a little in love with a strawberry picker named Mary Lynn. But everything changes when Mary Lynn falls victim to the Vodino Brothers...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-beef-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="ougon no ringo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ougon no ringo</ten_truyen>
-		<ma_truyen>ougon-no-ringo</ma_truyen>
-		<tac_gia>Minamitani Iku</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/24423/2/200.jpg</hinh_nho>
-		<gioi_thieu>Ryuuji is a high school student and, at the same time, works part-time in a diner. This is because he is from a poor family, therefore he doesn't have money to buy or pack lunch in school. One time while he was on his shift, a man wearing sunglasses and aloha shirt stared at him as Ryuuji asked for his order. Suddenly, the man asked him to enter show business in Tokyo! He refused as he reason he didn't have money to do something like that. With his family situation worsening, he decided to take on more jobs which resulted his girlfriend feeling neglected and disappointed in him. Now rather unsure of what he should do, he decided that the only way for him not to give up was to go into show business. That's when he met her, the girl who changed his life.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ougon-no-ringo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="acid town" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Drama, Shounen ai, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>acid town</ten_truyen>
-		<ma_truyen>acid-town</ma_truyen>
-		<tac_gia>Kyuugou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/307/2/200.jpg</hinh_nho>
-		<gioi_thieu>In a city where the law has been rendered non-existent, Yuki and his best friend Tetsu break into the offices of the Seidoukai to steal in a desperate attempt to finance his ailing brother's hospital bills. They ultimately fail but instead spark the interest of the mob's young leader, Kazutaka Hyodo, who offers Yuki a deal he can't refuse: pay him a visit at his office once a week and all hospital bills will be taken care of. Yuki accepts without hesitance and in order to keep his end of the deal, starts paying Hyodo the visits he asked for...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/acid-town-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="sakura discord" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>sakura discord</ten_truyen>
-		<ma_truyen>sakura-discord</ma_truyen>
-		<tac_gia>Masuda Eiji</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/29848/2/200.jpg</hinh_nho>
-		<gioi_thieu>Sakura Kousuke is a boy who strives to throw away a past mired in regret. He transfers to a new school for his second year of high school, believing it will give him a chance to come clean. Unbeknownst to him, however, the appearance of five other 'Sakura's in his class will bring the past to his present, forcing him to come to terms with himself, his old friends, and a girl who, though being Kousuke's complete opposite in terms of personality, also knows him better than anyone else.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/sakura-discord-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="barbarella (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>barbarella (2017)</ten_truyen>
-		<ma_truyen>barbarella-2017</ma_truyen>
-        <tac_gia>Mike Carey, Kenan Yarar</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarella-(2017)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Earth's star-crossed daughter is back! When Barbarella wanders into a war zone, the theocratic rulers of Parosia arrest and imprison her. A prison break is brewing, but now that she knows what the Parosians do to their own citizens Barbarella decides to make this fight her own...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-2017-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

@@ -1,9 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="infinity countdown: black widow" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity countdown: black widow</ten_truyen>
+		<ma_truyen>infinity-countdown-black-widow</ma_truyen>
+        <tac_gia>Gerry Duggan, Nik Virella, Yasmine Putri</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-countdown-black-widow/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Given the incredibly powerful Space Stone to look after by an old friend, Black Widow has no intention of letting it fall into the wrong hands... but is even the top espionage agent in the world ready to handle cosmic responsibility?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-countdown-black-widow-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="quicksilver: no surrender" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>quicksilver: no surrender</ten_truyen>
+		<ma_truyen>quicksilver-no-surrender</ma_truyen>
+        <tac_gia>Saladin Ahmed, Eric Nguyen</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/q/quicksilver-no-surrender/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Quicksilver's super-speed and abrasive personality have always isolated him, but he's never been truly alone... until now. Trapped beyond the perception of friends, family and allies, Quicksilver wages a one-man guerilla war against a monster that he's not even sure is real, to save a world that he may never be a part of again. Saladin Ahmed (BLACK BOLT) and Eric Nguyen (OLD MAN LOGAN) team up to bring you a psychedelic survival thriller unlike anything you've seen before!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quicksilver-no-surrender-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="b.p.r.d. the devil you know" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>b.p.r.d. the devil you know</ten_truyen>
+		<ma_truyen>b-p-r-d-the-devil-you-know</ma_truyen>
+        <tac_gia>Jeff Lemire, Lewis Larosa, Mico Suayan</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/bprd-the-devil-you-know/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Before they were vanquished by the BPRD, Lovecraftian monsters created a Hell on Earth. Now Liz Sherman leads a crew through monster-infested ruins on the most important rescue mission of her life. As society tries to rebuild, strange cults vie for influence, and a demon emerges to lead the way...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/b-p-r-d-the-devil-you-know-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="betrothed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>betrothed</ten_truyen>
+		<ma_truyen>betrothed</ma_truyen>
+        <tac_gia>Sean Lewis, Steve Uy, Simon Bowland</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/betrothed/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Welcome to the World of Betrothed! Kieron and Tamara are both seniors at the same high school. They've never paid much attention to each other, even though they are the only kids at school who are orphans. On the eve of their eighteenth birthdays, they discover a lifelong secret: in a dimension far away, they are each the leader of an army that is at war with one another... and what's more, when they turn eighteen, they're to be Betrothed or Fight to the Death!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/betrothed-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="evolution  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>evolution  </ten_truyen>
 		<ma_truyen>evolution</ma_truyen>
-        <tac_gia>Aaron Gillespie, Scott Snyder, Andy Kubert</tac_gia>
+        <tac_gia>James Asmus, Joesph Keatinge, Christopher Sebela, Joshua Williamson, Jordan Boyd, Joe Infurnari</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
         <gioi_thieu>Human evolution has taken millions of years to get to this stage. But next week, we become something new. Around the world, humanity is undergoing rapid and unpredictable changes, and only three individuals seem to notice that their world is being reborn. But what can they do about it?</gioi_thieu>
@@ -233,41 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/b/bedtime-games/1_medium.jpg</hinh_nho>
         <gioi_thieu>As summer comes to an end, three friends start senior year with a bang by exploring the mysterious past of their school. But before the night is over, their adventure turns into trouble when the kids set loose an evil that seeks to prey on their worst nightmares. </gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bedtime-games-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="cyber force (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>cyber force (2018)</ten_truyen>
-		<ma_truyen>cyber-force-2018</ma_truyen>
-        <tac_gia>Matt Hawkins, Bryan Edward Hill, Atilio Rojo, Marc Silvestri</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/cyber-force-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>TO PROTECT THE FUTURE, WHAT WILL WE BECOME? The classic series returns in a reimagining overseen by creator MARC SILVESTRI. In a modern world where humanity is defined by the technology it creates, a terrorist strikes at the heart of human progress. One of the few survivors of the attack is a man named Morgan Stryker. Mortally wounded, Stryker's life is saved by his employers...but the price could be his humanity itself.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cyber-force-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="black cloud" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Leading ladies, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>black cloud</ten_truyen>
-		<ma_truyen>black-cloud</ma_truyen>
-        <tac_gia>Jason Latour, Ivan Brandon, Greg Hinkle, Matt Wilson</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/black-cloud/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Zelda was born in a world of dreams, and hers burned bigger than anyone had ever seen. Now she's on the run in our world, the dreams broken in her hands. But the pieces are for sale, the rich and the powerful are buying, and suddenly her world isn't the only place Zelda's running from. From the creators that brought you Spider-Gwen, SOUTHERN BASTARDS, and DRIFTER, and the incredible colorist of THE WICKED + THE DIVINE, comes a place where dreams come true--and today, they go to war.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-cloud-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hack/slash: resurrection" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hack/slash: resurrection</ten_truyen>
-		<ma_truyen>hack-slash-resurrection</ma_truyen>
-        <tac_gia>Tini Howard, Celor, K. Michael Russell, Tim Seeley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hackslash-resurrection/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The fan-favorite title returns with hot new writer, TINI HOWARD! Cassie Hack has been living off the grid, but when a new monstrous threat arises to torment promiscuous teens, it's time for Cassie to pick up the baseball bat once again! Gory, sexy, twisted, and funny... HACK IS BACK!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hack-slash-resurrection-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="lucy dreaming" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>lucy dreaming</ten_truyen>
-		<ma_truyen>lucy-dreaming</ma_truyen>
-        <tac_gia>Max Bemis, Michael Dialynas</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/l/lucy-dreaming/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Max Bemis (Moon Knight writer and lead singer of Say Anything) and Michael Dialynas (The Woods) present a sweeping, coming-of-age fantasy about living your dreams-literally. In her dreams, Lucy is the hero of all her favorite stories, living each night as a grand adventure. These journeys will teach her more about herself and the real world around her than she ever expected.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/lucy-dreaming-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
