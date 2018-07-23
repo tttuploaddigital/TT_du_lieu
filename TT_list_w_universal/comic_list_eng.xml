@@ -126,6 +126,15 @@
         <gioi_thieu>A world where a war between heroes and villains is being fought to a stalemate, with humanity becoming the collateral damage part of the equation...The heroes know they are losing the war. And in the middle of this world-changing conflict, a new threat seems to be emerging: the Alters. They are mutants, possibly – or perhaps they are some kind of ultimate end to our genetic road map. Whatever the case, Alters seem to be emerging all around the country... and they are met with fear, distrust, and prejudice. They manifest new, dangerous powers that emerge without warning.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/alters-eng.xml</file_xml>
     </truyen>
+	<truyen ten="ant-man and the wasp (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>ant-man and the wasp (2018)</ten_truyen>
+		<ma_truyen>ant-man-and-the-wasp-2018</ma_truyen>
+        <tac_gia>Mark Waid, Javier Garron, David Nakayama</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/ant-man--the-wasp-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Wasp was just trying to help Ant-Man get home to Earth to see his daughter...but a little problem got in the way. Very little. Subatomic, in fact, as Scott Lang was lost in the vast spaces between atoms! Now, Nadia is his only hope of rescue...if only he would listen long enough for her to save them!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ant-man-and-the-wasp-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="aquaman (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>aquaman (2016)</ten_truyen>
 		<ma_truyen>aquaman-2016</ma_truyen>
@@ -809,6 +818,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/d/deathstroke-(2016)/1_medium.jpg</hinh_nho>
         <gioi_thieu>A thousand enemies, a thousand kills—Deathstroke is the world's greatest assassin. Stalked by an unseen foe, Slade Wilson is confronted by his own troubled past and challenged to reinvent himself before he loses everything and everyone in his life. Can Deathstroke be redeemed? Or will his addiction to violence destroy him?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deathstroke-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="deep roots" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>deep roots</ten_truyen>
+		<ma_truyen>deep-roots</ma_truyen>
+        <tac_gia>Dan Watters, Val Rodrigues, Triona Farrell</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deep-roots/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Roots, once suffocating under cement, tear through the streets of London to throttle buildings. Vegetable homunculi hold up banks with automatic weapons. There is a green and blooming world beyond our own, fighting back against the human pollutant. We will launch a rescue mission to this Otherworld. But it is cruel and unknowable, and should we become tangled in its vines, more than cities will fall. From Dan Watters (Limbo, The Shadow, Assassin's Creed) and Val Rodrigues comes a story of two worlds, of myth and man, of science and fiction, and the roots they share.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deep-roots-eng.xml</file_xml>
     </truyen>
 	<truyen ten="defenders (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>defenders (2017)</ten_truyen>
@@ -2564,6 +2582,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/teen-titans-(2016)/1_medium.jpg</hinh_nho>
         <gioi_thieu>The Teen Titans are farther apart than ever before...until Damian Wayne recruits Starfire, Raven, Beast Boy and the new Kid Flash to join him in a fight against his own grandfather, Ra's al Ghul! But true leadership is more than just calling the shots-is Robin really up to the task? Or will the Teen Titans dismiss this diminutive dictator?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teen-titans-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="teenage mutant ninja turtles universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Fantasy, Movies - tv, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>teenage mutant ninja turtles universe</ten_truyen>
+		<ma_truyen>teenage-mutant-ninja-turtles-universe</ma_truyen>
+        <tac_gia>Kevin Eastman, Paul Allor, Tom Waltz, Damian Couceiro, Bill Sienkiewicz, Freddie E. Williams</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-universe/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Introducing a new era in TMNT! This series will explore characters and story-lines that are pivotal to the IDW TMNT universe! When a mysterious new mutant targets Baxter Stockman, it will be up to the TMNT to reluctantly save him. Little does everyone know that a larger trap is being laid by a new arch-foe! Plus a back-up story from TMNT co-creator Kevin Eastman and comics legend Bill Sienkiewicz!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teenage-mutant-ninja-turtles-universe-eng.xml</file_xml>
     </truyen>
 	<truyen ten="teenage mutant ninja turtles: urban legends" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Martial arts, Movies - tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>teenage mutant ninja turtles: urban legends</ten_truyen>
