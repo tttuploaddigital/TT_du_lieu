@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="feng qi cang lan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Romance, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>feng qi cang lan</ten_truyen>
+		<ma_truyen>feng-qi-cang-lan</ma_truyen>
+		<tac_gia>Gu Xuan, Song Shu 200</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/42847/1/200.jpg</hinh_nho>
+		<gioi_thieu>When playing a virtual reality game called Cang Lan, Xiao Wan gets pushed off a cliff. She ends up in another game world. What will happen to Xiao Wan?</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/19-days-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="ling bao zhi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Horror, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>ling bao zhi</ten_truyen>
+		<ma_truyen>ling-bao-zhi</ma_truyen>
+		<tac_gia>Ye Gu, Fep-xiao Zhao</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/30168/2/200.jpg</hinh_nho>
+		<gioi_thieu>Due to all of the anger and emotions of humans, the world has been inhabited by ghosts that feed off humans. Unfortunately, these ghosts can't be seen by ordinary humans. A high schooler has the ability to see these ghosts...</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/ling-bao-zhi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="i don't want to say i'm a chicken" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>i don't want to say i'm a chicken</ten_truyen>
+		<ma_truyen>i-don-t-want-to-say-i-m-a-chicken</ma_truyen>
+		<tac_gia>Jiang Ren</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/34853/1/200.jpg</hinh_nho>
+		<gioi_thieu>When the maid from the heaven failed to protect the Phoenix egg from a mysterious figure, she used her last power to send the Phoenix, king of all birds into a chicken egg and soon the Phoenix hatched into a chicken. Follow the Phoenix and his chicken sibling on an epic adventure!</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/i-don-t-want-to-say-i-m-a-chicken-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="ant-man and the wasp (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>ant-man and the wasp (2018)</ten_truyen>
 		<ma_truyen>ant-man-and-the-wasp-2018</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>As if being an awkward, bullied 15-year-old isn't bad enough, 'Fergie' Ferguson suddenly discovers he can see dead people. Well, one dead person specifically-the ghost of a certain punk rocker named Sid. Sid's spirit was trapped in London's Heathrow Airport for 40 years until the day he met Fergie. Sid's ghost is now stuck to Fergie-as if Fergie doesn't have enough on his plate, being raised by a single mum whose idea of parenting is strictly fly-by-the-seat-of-your-pants. Now Fergie has to contend with an unruly ghost sidekick and some weird, uncontrollable new 'abilities'. How does the father Fergie never knew fit into this mayhem? And why is the Department for Extra-Usual Affairs showing an interest? Never Mind the Bollocks-all of this plus fish fingers, chunky chips, and endless pints of anarchy in the new monthly series PUNKS NOT DEAD!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/punks-not-dead-eng.xml</file_xml>
     </truyen>
-	<truyen ten="deathbed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Horror, Mature, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>deathbed</ten_truyen>
-		<ma_truyen>deathbed</ma_truyen>
-        <tac_gia>Joshua Williamson, Riley Rossmo, Ivan Plascencia</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deathbed/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Myth, hack, sex symbol, stark raving lunatic-all of these words have been used to describe Antonio Luna, the world's greatest living adventurer. Or at least he was until 20 years ago, when he mysteriously vanished from the public eye. Now the ninety-year-old has returned and claims to be on his deathbed. Which is where Valentine Richards, a failed novelist turned reporter, comes in. Val is hired to travel to Luna's remote castle home and uncover where the old star has been all these years, and just how much of what he says is actually true. But once Val starts to hear Luna's tale, she finds herself entering into an insane world of psychedelic violence and explosive supernatural adventure.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deathbed-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="fence" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>fence</ten_truyen>
-		<ma_truyen>fence</ma_truyen>
-        <tac_gia>C.S. Pacat, Johanna the Mad</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fence/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Sixteen-year-old Nicholas Cox is an outsider to the competitive fencing world. Filled with raw talent but lacking proper training, he signs up for a competition that puts him head-to-head with fencing prodigy Seiji Katayama... and on the road to the elite all-boys school Kings Row. A chance at a real team and a place to belong awaits him if he can make the cut!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fence-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="mayonaka no x giten" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Gender bender, Horror, Mature, Mystery, Psychological, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>mayonaka no x giten</ten_truyen>
-		<ma_truyen>mayonaka-no-x-giten</ma_truyen>
-		<tac_gia>Yamaguchi Mikoto, Bareisho</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27894/2/200.jpg</hinh_nho>
-		<gioi_thieu>Kamiya Hiroki always thought women had it easy. This thought was throttled by the fact that his 24-year-old sister does not work and plays games all day. Why couldn't he have it this easy? He wanted to become a woman and be lazy like his sister. After blogging about his rants about his sister online, a mysterious reader comments on his blog, stating that there are ways to swap bodies with others. This would bring Hiroki's dream of becoming a woman to reality . Unfortunately for Hiroki, swapping bodies had unintended consequences when he returned to his own body.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mayonaka-no-x-giten-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
