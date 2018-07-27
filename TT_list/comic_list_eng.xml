@@ -1638,14 +1638,14 @@
         <gioi_thieu>Wile E. Coyote travels to the far reaches of space to hire Lobo to hunt down and kill his greatest nemesis of all time, the Road Runner. And when the Coyote and Lobo are after him, the Road Runner knows if they catch him—he's through. And the bonus Looney Tunes backup story features DC characters with story and art by Bill Morrison!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/lobo-road-runner-special-eng.xml</file_xml>
     </truyen>
-	<truyen ten="lucy dreaming" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="lucy dreaming" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>lucy dreaming</ten_truyen>
 		<ma_truyen>lucy-dreaming</ma_truyen>
         <tac_gia>Max Bemis, Michael Dialynas</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/l/lucy-dreaming/1_medium.jpg</hinh_nho>
         <gioi_thieu>Max Bemis (Moon Knight writer and lead singer of Say Anything) and Michael Dialynas (The Woods) present a sweeping, coming-of-age fantasy about living your dreams-literally. In her dreams, Lucy is the hero of all her favorite stories, living each night as a grand adventure. These journeys will teach her more about herself and the real world around her than she ever expected.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/lucy-dreaming-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/lucy-dreaming-eng.xml</file_xml>
     </truyen>
 	<truyen ten="luke cage (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>luke cage (2017)</ten_truyen>
@@ -2457,14 +2457,14 @@
         <gioi_thieu>The Resistance has found Luke Skywalker! But the First Order is hot on their tail... and they are out for blood. Join writer Gary Whitta (ROGUE ONE: A STAR WARS STORY) and artist Michael Walsh (STAR WARS ANNUAL, HAWKEYE and THE VISION) as they take on the adventures of Force prodigy Rey, ace pilot Poe Dameron, and ex-First Order recruit Finn from the hit blockbuster STAR WARS: THE LAST JEDI - featuring never-before-seen scenes of your favorite characters!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-the-last-jedi-adaptation-eng.xml</file_xml>
     </truyen>
-	<truyen ten="star wars: thrawn" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="star wars: thrawn" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>star wars: thrawn</ten_truyen>
 		<ma_truyen>star-wars-thrawn</ma_truyen>
         <tac_gia>Jody Houser, Luke Ross, Paul Renaud</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-thrawn/1_medium.jpg</hinh_nho>
         <gioi_thieu>One of the most cunning and ruthless minds in all of the Star Wars, Grand Admiral Thrawn is back with his own six-issue miniseries! Written by Jody Houser (ROGUE ONE ADAPTATION) and drawn by Luke Ross (STAR WARS: DARTH MAUL, STAR WARS: THE FORCE AWAKENS ADAPTATION), follow the comic adaptation of Timothy Zahn's New York Times best-selling novel about Thrawn's rise in the Imperial ranks, on his way to becoming one of the most feared military tacticians in the galaxy far, far away.!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-thrawn-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/star-wars-thrawn-eng.xml</file_xml>
     </truyen>
 	<truyen ten="stargate universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>stargate universe</ten_truyen>
