@@ -27,6 +27,15 @@
         <gioi_thieu>Daniel DosSantos is a young man living at the speed of life. After gaining powers from exposure to an extraterrestrial object, DosSantos became the rapid action superhero called Accell, the first of a new public kind of self-appointed crime fighter. Unfortunately, there are consequences to moving faster than sound. Accell is about to learn that danger exists on the flipside of having superpowers and will have to grow up quickly to survive.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/accell-eng.xml</file_xml>
     </truyen>
+	<truyen ten="adventures of the super sons" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>adventures of the super sons</ten_truyen>
+		<ma_truyen>adventures-of-the-super-sons</ma_truyen>
+        <tac_gia>Peter J. Tomasi, Carlo Barberi</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/adventures-of-the-super-sons/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Super Sons are back in an all-new 12-issue miniseries written by Peter J. Tomasi! Check out the lost and secret adventures of Damian Wayne (Robin) and Jon Kent (Superboy) in this flashback miniseries that takes a deep dive into the bombastic bromance between the sons of the DC Universe's greatest heroes. It's an epic dual storyline that transcends current events, as Superboy and Robin find themselves targets of an interstellar team of young badasses called the Gang.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/adventures-of-the-super-sons-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="afar" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Blaxploitation, Graphic novels, Life sucks, Post-apocalyptic, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>afar</ten_truyen>
 		<ma_truyen>afar</ma_truyen>
@@ -801,6 +810,15 @@
         <gioi_thieu>Love sucks. Philo Harris is going to do something about it. After gaining the ability to see the Cupidae that make love work-after a particularly bad drunken decision-Philo ends up going to war with love itself. With a chainsaw.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/death-of-love-eng.xml</file_xml>
     </truyen>
+	<truyen ten="death of the inhumans" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>death of the inhumans</ten_truyen>
+		<ma_truyen>death-of-the-inhumans</ma_truyen>
+        <tac_gia>Donny Cates, Ariel Olivetti, Jordie Bellaire</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/death-of-the-inhumans/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE TITLE SAYS IT ALL - HERE LIE THE INHUMANS. The Kree have gone murdering, leaving behind a message: Join or die. Thousands of Inhumans have already made their choice - the evidence floats bleeding in space. Black Bolt and his family are next. Rising star Donny Cates and PUNISHER: WAR JOURNAL artist Ariel Olivetti bring their brutal talents to the Inhumans!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/death-of-the-inhumans-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="deathbed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Horror, Mature, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>deathbed</ten_truyen>
 		<ma_truyen>deathbed</ma_truyen>
@@ -1331,6 +1349,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-countdown-champions/1_medium.jpg</hinh_nho>
         <gioi_thieu>SPINNING OUT FROM THE FALLOUT OF THE BATTLE FOR THE POWER STONE IN THE PAGES OF INFINITY COUNTDOWN! The Champions head to space to save the Nova Corps and stop Warbringer, but other forces are moving against them... These young heroes are in for the fight of their lives!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-countdown-champions-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="infinity wars  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity wars  </ten_truyen>
+		<ma_truyen>infinity-wars</ma_truyen>
+        <tac_gia>Gerry Duggan, Mike Deodato Jr.</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-prime/1_medium.jpg</hinh_nho>
+        <gioi_thieu>As the Infinity Stones come to Earth, so too comes the war for control over them. But none who wield the stones know the truth about the power they contain...or what it would take to bring them to their END. The nature of the universe itself hangs in the balance as we learn the answer to the question on everyone's lips since 'Infinity Wars Prime': WHO IS REQUIEM?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-eng.xml</file_xml>
     </truyen>
 	<truyen ten="inhumans: once and future kings" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>inhumans: once and future kings</ten_truyen>
