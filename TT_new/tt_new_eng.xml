@@ -1,354 +1,675 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<truyen ten="infinity wars  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars  </ten_truyen>
-		<ma_truyen>infinity-wars</ma_truyen>
-        <tac_gia>Gerry Duggan, Mike Deodato Jr.</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-prime/1_medium.jpg</hinh_nho>
-        <gioi_thieu>As the Infinity Stones come to Earth, so too comes the war for control over them. But none who wield the stones know the truth about the power they contain...or what it would take to bring them to their END. The nature of the universe itself hangs in the balance as we learn the answer to the question on everyone's lips since 'Infinity Wars Prime': WHO IS REQUIEM?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="adventures of the super sons" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>adventures of the super sons</ten_truyen>
-		<ma_truyen>adventures-of-the-super-sons</ma_truyen>
-        <tac_gia>Peter J. Tomasi, Carlo Barberi</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/adventures-of-the-super-sons/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Super Sons are back in an all-new 12-issue miniseries written by Peter J. Tomasi! Check out the lost and secret adventures of Damian Wayne (Robin) and Jon Kent (Superboy) in this flashback miniseries that takes a deep dive into the bombastic bromance between the sons of the DC Universe's greatest heroes. It's an epic dual storyline that transcends current events, as Superboy and Robin find themselves targets of an interstellar team of young badasses called the Gang.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/adventures-of-the-super-sons-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="death of the inhumans" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>death of the inhumans</ten_truyen>
-		<ma_truyen>death-of-the-inhumans</ma_truyen>
-        <tac_gia>Donny Cates, Ariel Olivetti, Jordie Bellaire</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/death-of-the-inhumans/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE TITLE SAYS IT ALL - HERE LIE THE INHUMANS. The Kree have gone murdering, leaving behind a message: Join or die. Thousands of Inhumans have already made their choice - the evidence floats bleeding in space. Black Bolt and his family are next. Rising star Donny Cates and PUNISHER: WAR JOURNAL artist Ariel Olivetti bring their brutal talents to the Inhumans!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/death-of-the-inhumans-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="ubel blatt" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Adventure, Fantasy, Mature, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ubel blatt</ten_truyen>
-		<ma_truyen>ubel-blatt</ma_truyen>
-		<tac_gia>Shiono Etorouji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/10628/7/200.jpg</hinh_nho>
-		<gioi_thieu>When the black blade roars, all who stand in its path shall be torn asunder...! What is it that Koinzell, the mysterious young boy who wields the sword with such exceptional skill, desires? The fight against the 'Lances of Betrayal,' who were thought to have been defeated by the Seven Heroes, begins--And at battle's end, only the shocking truth will remain amid the pools of blood.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ubel-blatt-eng.xml</file_xml>
+	
+Title : koi wo suru no ga shigoto desu
+
+[info_shortcode tac_gia="Harumi Chihiro" the_loai="Adult, Comedy, Ecchi, Mature, Romance, Seinen" kieu_truyen="Manga" tinh_trang="Completed" hinh_nho="https://file-thumb.mpcdn.net/5300/1/200.jpg" gioi_thieu="Two lovebirds, Hatsuhi Ryou and Sawamura Minori, are both finally venturing out into the workplace together. Each landing a job at their own desired company. However, they quickly find out that they work for rival companies. And each company forbids their employees from associating with their rival's workers. Will they lose their jobs, or can they keep their relationship a secret?"]
+
+[chapter_shortcode ma_truyen="koi-wo-suru-no-ga-shigoto-desu" kieu_tinh_trang="Manga_Completed"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/5300/1/200.jpg"]
+
+Categories : Manga
+
+Status : Completed
+
+Tags : Adult, Comedy, Ecchi, Mature, Romance, Seinen
+								        		        
 	</truyen>
-	<truyen ten="aki-sora" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Ecchi, Gender bender, Harem, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>aki-sora</ten_truyen>
-		<ma_truyen>aki-sora</ma_truyen>
-		<tac_gia>Itosugi Masahiro</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/508/1/200.jpg</hinh_nho>
-		<gioi_thieu>Aki Sora revolves around Aki Aoi and Sora Aoi, a pair of close siblings who have shared an intimate bond since childhood. During their coming of age, they each come to realize the true depth of the love they feel for each other and consummate that love in secret. They keep their younger sister, Nami, Sora's twin in the dark about their new relationship. Nami, clueless of what is happening in her household aims to set her brother up with her best friend, Kana Sumiya. Despite these relationships Nami seems to have feelings for someone near to her too but keeps them secret.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/aki-sora-eng.xml</file_xml>
+	
+Title : crayon days - daikirai na aitsu
+
+[info_shortcode tac_gia="Chiba Kozue" the_loai="Comedy, Romance, School life, Shoujo." kieu_truyen="Manga" tinh_trang="Completed" hinh_nho="https://file-thumb.mpcdn.net/1958/3/200.jpg" gioi_thieu="Because she loved drawing and wanted to do something special, she went to a famous art school. And there she met the handsome and cool guy..."]
+
+[chapter_shortcode ma_truyen="crayon-days-daikirai-na-aitsu" kieu_tinh_trang="Manga_Completed"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/1958/3/200.jpg"]
+
+Categories : Manga
+
+Status : Completed
+
+Tags : Comedy, Romance, School life, Shoujo.
+								        		        
 	</truyen>
-	<truyen ten="apocalypse no toride" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Horror, Mystery, Psychological, Sci-fi, Shounen., Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>apocalypse no toride</ten_truyen>
-		<ma_truyen>apocalypse-no-toride</ma_truyen>
-		<tac_gia>Kuraishi Yuu, Inabe Kazu</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/6/5/200.jpg</hinh_nho>
-		<gioi_thieu>What can you do when you get mistaken for murder? Nothing. You go to prison. Lucky you, your inmates are some of the biggest cutthroats in the prison. Seriously you are lucky. Expecially when zombies attack.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/apocalypse-no-toride-eng.xml</file_xml>
+	
+Title : kiss x sis
+
+[info_shortcode tac_gia="Ditama Bow" the_loai="Comedy, Ecchi, Harem, Mature, Romance, School life, Seinen" kieu_truyen="Manga" tinh_trang="Ongoing" hinh_nho="https://file-thumb.mpcdn.net/5162/4/200.jpg" gioi_thieu="Keita has two older (not blood-related) twin step-sisters who love him in a lustful way and have no problems expressing it. They even like to compete about it; much to the laughter of his friends (which he usually endures without problems). One day they come to his school to give him his lunch, resulting in him getting angry due to the atmosphere. To counteract his anger, they confess their tender feelings for him in front of everyone and leave. Feeling sorry he chases after them and says that he'll study hard in order to get in the same high school as them."]
+
+[chapter_shortcode ma_truyen="kiss-x-sis" kieu_tinh_trang="Manga_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/5162/4/200.jpg"]
+
+Categories : Manga
+
+Status : Ongoing
+
+Tags : Comedy, Ecchi, Harem, Mature, Romance, School life, Seinen
+								        		        
 	</truyen>
-	<truyen ten="amentia" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Harem, Psychological, Romance, School life, Seinen, Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>amentia</ten_truyen>
-		<ma_truyen>amentia</ma_truyen>
-		<tac_gia>Yang Hyeseok, Bak Hyein</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/38364/1/200.jpg</hinh_nho>
-		<gioi_thieu>Lee Wee-jin normally endures each of his his high school days as a servant his perfect sister Lee Wi-na. However, he has a secret he can't share with anyone-that he can materialize his delusions as he pleases. When he needs to relieve stress caused by his sister, he materializes a version of his own sister in order to punish her. But one day a black-haired transfer student says the following to Wee-jin while wielding a knife against him: 'You damn delusioner that materializes delusions, we wakers will get rid of all of you!'</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/amentia-eng.xml</file_xml>
+	
+Title : infinity wars  
+
+[info_shortcode tac_gia="Gerry Duggan, Mike Deodato Jr." the_loai="Action, Adventure, Superhero" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/i/infinity-wars-prime/1_medium.jpg" gioi_thieu="As the Infinity Stones come to Earth, so too comes the war for control over them. But none who wield the stones know the truth about the power they contain...or what it would take to bring them to their END. The nature of the universe itself hangs in the balance as we learn the answer to the question on everyone's lips since 'Infinity Wars Prime': WHO IS REQUIEM?"]
+
+[chapter_shortcode ma_truyen="infinity-wars" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/i/infinity-wars-prime/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Superhero
+				                                        
+    </truyen>
+	
+Title : adventures of the super sons
+
+[info_shortcode tac_gia="Peter J. Tomasi, Carlo Barberi" the_loai="Action, Adventure, Superhero" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/a/adventures-of-the-super-sons/1_medium.jpg" gioi_thieu="The Super Sons are back in an all-new 12-issue miniseries written by Peter J. Tomasi! Check out the lost and secret adventures of Damian Wayne (Robin) and Jon Kent (Superboy) in this flashback miniseries that takes a deep dive into the bombastic bromance between the sons of the DC Universe's greatest heroes. It's an epic dual storyline that transcends current events, as Superboy and Robin find themselves targets of an interstellar team of young badasses called the Gang."]
+
+[chapter_shortcode ma_truyen="adventures-of-the-super-sons" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/a/adventures-of-the-super-sons/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Superhero
+				                                        
+    </truyen>
+	
+Title : death of the inhumans
+
+[info_shortcode tac_gia="Donny Cates, Ariel Olivetti, Jordie Bellaire" the_loai="Action, Adventure, Superhero" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/d/death-of-the-inhumans/1_medium.jpg" gioi_thieu="THE TITLE SAYS IT ALL - HERE LIE THE INHUMANS. The Kree have gone murdering, leaving behind a message: Join or die. Thousands of Inhumans have already made their choice - the evidence floats bleeding in space. Black Bolt and his family are next. Rising star Donny Cates and PUNISHER: WAR JOURNAL artist Ariel Olivetti bring their brutal talents to the Inhumans!"]
+
+[chapter_shortcode ma_truyen="death-of-the-inhumans" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/d/death-of-the-inhumans/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Superhero
+				                                        
+    </truyen>
+	
+Title : ubel blatt
+
+[info_shortcode tac_gia="Shiono Etorouji" the_loai="Action, Adult, Adventure, Fantasy, Mature, Seinen, Supernatural" kieu_truyen="Manga" tinh_trang="Ongoing" hinh_nho="https://file-thumb.mpcdn.net/10628/7/200.jpg" gioi_thieu="When the black blade roars, all who stand in its path shall be torn asunder...! What is it that Koinzell, the mysterious young boy who wields the sword with such exceptional skill, desires? The fight against the 'Lances of Betrayal,' who were thought to have been defeated by the Seven Heroes, begins--And at battle's end, only the shocking truth will remain amid the pools of blood."]
+
+[chapter_shortcode ma_truyen="ubel-blatt" kieu_tinh_trang="Manga_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/10628/7/200.jpg"]
+
+Categories : Manga
+
+Status : Ongoing
+
+Tags : Action, Adult, Adventure, Fantasy, Mature, Seinen, Supernatural
+								        		        
 	</truyen>
-	<truyen ten="inarime" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>inarime</ten_truyen>
-		<ma_truyen>inarime</ma_truyen>
-		<tac_gia>Maria Ricco, Tommaso Bennato</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/41312/1/200.jpg</hinh_nho>
-		<gioi_thieu>Ancient Gods and new battles; the unborn Typhon's seventh daughter and her incredible adventures trying to understand who she is and why the Gods of Olympus are so hostile toward human beings. Warn you to believe at who says that they're just 'myths', they are more real than what you think, and they are among us.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/inarime-eng.xml</file_xml>
+	
+Title : aki-sora
+
+[info_shortcode tac_gia="Itosugi Masahiro" the_loai="Drama, Ecchi, Gender bender, Harem, Mature, Romance, School life, Seinen" kieu_truyen="Manga" tinh_trang="Completed" hinh_nho="https://file-thumb.mpcdn.net/508/1/200.jpg" gioi_thieu="Aki Sora revolves around Aki Aoi and Sora Aoi, a pair of close siblings who have shared an intimate bond since childhood. During their coming of age, they each come to realize the true depth of the love they feel for each other and consummate that love in secret. They keep their younger sister, Nami, Sora's twin in the dark about their new relationship. Nami, clueless of what is happening in her household aims to set her brother up with her best friend, Kana Sumiya. Despite these relationships Nami seems to have feelings for someone near to her too but keeps them secret."]
+
+[chapter_shortcode ma_truyen="aki-sora" kieu_tinh_trang="Manga_Completed"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/508/1/200.jpg"]
+
+Categories : Manga
+
+Status : Completed
+
+Tags : Drama, Ecchi, Gender bender, Harem, Mature, Romance, School life, Seinen
+								        		        
 	</truyen>
-	<truyen ten="balls friend" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Seinen, Slice of life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>balls friend</ten_truyen>
-		<ma_truyen>balls-friend</ma_truyen>
-		<tac_gia>Hanla Gamgyul</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42756/1/200.jpg</hinh_nho>
-		<gioi_thieu>The protagonist is sucked in to a weird whirlpool in a river and somehow ends up in a island in another world with native elves that wear leaf clothes, have the knowledge of an new born, and have sex like rabbits. That also have a body as weak as butter. He decides to become the king of the place and rule with an iron fist and teach the naive elves cruelty, evil and watch as they kill each other.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/balls-friend-eng.xml</file_xml>
+	
+Title : apocalypse no toride
+
+[info_shortcode tac_gia="Kuraishi Yuu, Inabe Kazu" the_loai="Action, Adventure, Drama, Horror, Mystery, Psychological, Sci-fi, Shounen., Tragedy" kieu_truyen="Manga" tinh_trang="Completed" hinh_nho="https://file-thumb.mpcdn.net/6/5/200.jpg" gioi_thieu="What can you do when you get mistaken for murder? Nothing. You go to prison. Lucky you, your inmates are some of the biggest cutthroats in the prison. Seriously you are lucky. Expecially when zombies attack."]
+
+[chapter_shortcode ma_truyen="apocalypse-no-toride" kieu_tinh_trang="Manga_Completed"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/6/5/200.jpg"]
+
+Categories : Manga
+
+Status : Completed
+
+Tags : Action, Adventure, Drama, Horror, Mystery, Psychological, Sci-fi, Shounen., Tragedy
+								        		        
 	</truyen>
-	<truyen ten="feng qi cang lan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Romance, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>feng qi cang lan</ten_truyen>
-		<ma_truyen>feng-qi-cang-lan</ma_truyen>
-		<tac_gia>Gu Xuan, Song Shu 200</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-thumb.mpcdn.net/42847/1/200.jpg</hinh_nho>
-		<gioi_thieu>When playing a virtual reality game called Cang Lan, Xiao Wan gets pushed off a cliff. She ends up in another game world. What will happen to Xiao Wan?</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/feng-qi-cang-lan-eng.xml</file_xml>
+	
+Title : amentia
+
+[info_shortcode tac_gia="Yang Hyeseok, Bak Hyein" the_loai="Comedy, Drama, Ecchi, Harem, Psychological, Romance, School life, Seinen, Supernatural, Webtoons" kieu_truyen="Manhwa" tinh_trang="Ongoing" hinh_nho="https://file-thumb.mpcdn.net/38364/1/200.jpg" gioi_thieu="Lee Wee-jin normally endures each of his his high school days as a servant his perfect sister Lee Wi-na. However, he has a secret he can't share with anyone-that he can materialize his delusions as he pleases. When he needs to relieve stress caused by his sister, he materializes a version of his own sister in order to punish her. But one day a black-haired transfer student says the following to Wee-jin while wielding a knife against him: 'You damn delusioner that materializes delusions, we wakers will get rid of all of you!'"]
+
+[chapter_shortcode ma_truyen="amentia" kieu_tinh_trang="Manhwa_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/38364/1/200.jpg"]
+
+Categories : Manhwa
+
+Status : Ongoing
+
+Tags : Comedy, Drama, Ecchi, Harem, Psychological, Romance, School life, Seinen, Supernatural, Webtoons
+								        				
 	</truyen>
-	<truyen ten="ling bao zhi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Horror, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>ling bao zhi</ten_truyen>
-		<ma_truyen>ling-bao-zhi</ma_truyen>
-		<tac_gia>Ye Gu, Fep-xiao Zhao</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-thumb.mpcdn.net/30168/2/200.jpg</hinh_nho>
-		<gioi_thieu>Due to all of the anger and emotions of humans, the world has been inhabited by ghosts that feed off humans. Unfortunately, these ghosts can't be seen by ordinary humans. A high schooler has the ability to see these ghosts...</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/ling-bao-zhi-eng.xml</file_xml>
+	
+Title : inarime
+
+[info_shortcode tac_gia="Maria Ricco, Tommaso Bennato" the_loai="Fantasy, Webtoons" kieu_truyen="Manhwa" tinh_trang="Ongoing" hinh_nho="https://file-thumb.mpcdn.net/41312/1/200.jpg" gioi_thieu="Ancient Gods and new battles; the unborn Typhon's seventh daughter and her incredible adventures trying to understand who she is and why the Gods of Olympus are so hostile toward human beings. Warn you to believe at who says that they're just 'myths', they are more real than what you think, and they are among us."]
+
+[chapter_shortcode ma_truyen="inarime" kieu_tinh_trang="Manhwa_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/41312/1/200.jpg"]
+
+Categories : Manhwa
+
+Status : Ongoing
+
+Tags : Fantasy, Webtoons
+								        				
 	</truyen>
-	<truyen ten="i don't want to say i'm a chicken" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>i don't want to say i'm a chicken</ten_truyen>
-		<ma_truyen>i-don-t-want-to-say-i-m-a-chicken</ma_truyen>
-		<tac_gia>Jiang Ren</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-thumb.mpcdn.net/34853/1/200.jpg</hinh_nho>
-		<gioi_thieu>When the maid from the heaven failed to protect the Phoenix egg from a mysterious figure, she used her last power to send the Phoenix, king of all birds into a chicken egg and soon the Phoenix hatched into a chicken. Follow the Phoenix and his chicken sibling on an epic adventure!</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/i-don-t-want-to-say-i-m-a-chicken-eng.xml</file_xml>
+	
+Title : balls friend
+
+[info_shortcode tac_gia="Hanla Gamgyul" the_loai="Comedy, Romance, Seinen, Slice of life, Webtoons" kieu_truyen="Manhwa" tinh_trang="Ongoing" hinh_nho="https://file-thumb.mpcdn.net/42756/1/200.jpg" gioi_thieu="The protagonist is sucked in to a weird whirlpool in a river and somehow ends up in a island in another world with native elves that wear leaf clothes, have the knowledge of an new born, and have sex like rabbits. That also have a body as weak as butter. He decides to become the king of the place and rule with an iron fist and teach the naive elves cruelty, evil and watch as they kill each other."]
+
+[chapter_shortcode ma_truyen="balls-friend" kieu_tinh_trang="Manhwa_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/42756/1/200.jpg"]
+
+Categories : Manhwa
+
+Status : Ongoing
+
+Tags : Comedy, Romance, Seinen, Slice of life, Webtoons
+								        				
 	</truyen>
-	<truyen ten="ant-man and the wasp (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>ant-man and the wasp (2018)</ten_truyen>
-		<ma_truyen>ant-man-and-the-wasp-2018</ma_truyen>
-        <tac_gia>Mark Waid, Javier Garron, David Nakayama</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/ant-man--the-wasp-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Wasp was just trying to help Ant-Man get home to Earth to see his daughter...but a little problem got in the way. Very little. Subatomic, in fact, as Scott Lang was lost in the vast spaces between atoms! Now, Nadia is his only hope of rescue...if only he would listen long enough for her to save them!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ant-man-and-the-wasp-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="teenage mutant ninja turtles universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Fantasy, Movies - tv, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>teenage mutant ninja turtles universe</ten_truyen>
-		<ma_truyen>teenage-mutant-ninja-turtles-universe</ma_truyen>
-        <tac_gia>Kevin Eastman, Paul Allor, Tom Waltz, Damian Couceiro, Bill Sienkiewicz, Freddie E. Williams</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-universe/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Introducing a new era in TMNT! This series will explore characters and story-lines that are pivotal to the IDW TMNT universe! When a mysterious new mutant targets Baxter Stockman, it will be up to the TMNT to reluctantly save him. Little does everyone know that a larger trap is being laid by a new arch-foe! Plus a back-up story from TMNT co-creator Kevin Eastman and comics legend Bill Sienkiewicz!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teenage-mutant-ninja-turtles-universe-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="deep roots" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>deep roots</ten_truyen>
-		<ma_truyen>deep-roots</ma_truyen>
-        <tac_gia>Dan Watters, Val Rodrigues, Triona Farrell</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deep-roots/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Roots, once suffocating under cement, tear through the streets of London to throttle buildings. Vegetable homunculi hold up banks with automatic weapons. There is a green and blooming world beyond our own, fighting back against the human pollutant. We will launch a rescue mission to this Otherworld. But it is cruel and unknowable, and should we become tangled in its vines, more than cities will fall. From Dan Watters (Limbo, The Shadow, Assassin's Creed) and Val Rodrigues comes a story of two worlds, of myth and man, of science and fiction, and the roots they share.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deep-roots-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="kick-ass (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>kick-ass (2018)</ten_truyen>
-		<ma_truyen>kick-ass-2018</ma_truyen>
-        <tac_gia>Mark Millar, John Romita Jr.</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/k/kick-ass-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>KICK-ASS IS BACK-ready to wipe out the city's criminal lowlives, destroy its gangs, and save its communities from decay. But there's a new face beneath the old mask, a new figure wearing that famous green and yellow spandex. Who is this new vigilante superhero? Who can fill Dave Lizewski's shoes? WHO IS THE NEW KICK-ASS? Find out in the first issue of this new, ongoing monthly series. Comic book legends MARK MILLAR and JOHN ROMITA, JR. reunite for the next chapter of the greatest superhero comic of all time.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kick-ass-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="death of love" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>death of love</ten_truyen>
-		<ma_truyen>death-of-love</ma_truyen>
-        <tac_gia>Justin Jordan, Donal Delay, Omar Trucu Estevez</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/death-of-love/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Love sucks. Philo Harris is going to do something about it. After gaining the ability to see the Cupidae that make love work-after a particularly bad drunken decision-Philo ends up going to war with love itself. With a chainsaw.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/death-of-love-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="copperhead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>copperhead</ten_truyen>
-		<ma_truyen>copperhead</ma_truyen>
-        <tac_gia>Jay Faerber, Scott Godlewski</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/copperhead/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Welcome to Copperhead, a grimy mining town on the edge of a backwater planet. Single mom Clara Bronson is the new sheriff, and on her first day she'll have to contend with a resentful deputy, a shady mining tycoon, and a family of alien hillbillies. And did we mention the massacre?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/copperhead-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="dry county" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>dry county</ten_truyen>
-		<ma_truyen>dry-county</ma_truyen>
-        <tac_gia>Rich Tommaso</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dry-county/1_medium.jpg</hinh_nho>
-        <gioi_thieu>RICH TOMMASO is taking a short hiatus on SPY SEAL and releasing a new crime series in the meantime, one set in the late 1980s of Miami that follows a young Generation Xer who plays amateur detective in order to find a missing lady he's recently fallen hard for.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dry-county-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="kangoku jikken" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kangoku jikken</ten_truyen>
-		<ma_truyen>kangoku-jikken</ma_truyen>
-		<tac_gia>Kantetsu, Minase Chiho</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42154/3/200.jpg</hinh_nho>
-		<gioi_thieu>Eyama Aito, a high school student, is the victim of daily bullying. One day a strange letter arrives inviting him to a 'captivity game.' He may choose one person to hold captive for one month with a chance at winning a large amount of money. He chooses the ringleader of his bullies, Aya Kirishima, and the only rule of the game is to not kill her. Everything else is fair game. Eyama's revenge begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kangoku-jikken-eng.xml</file_xml>
+	
+Title : feng qi cang lan
+
+[info_shortcode tac_gia="Gu Xuan, Song Shu 200" the_loai="Fantasy, Romance, Supernatural" kieu_truyen="Manhua" tinh_trang="Ongoing" hinh_nho="https://file-thumb.mpcdn.net/42847/1/200.jpg" gioi_thieu="When playing a virtual reality game called Cang Lan, Xiao Wan gets pushed off a cliff. She ends up in another game world. What will happen to Xiao Wan?"]
+
+[chapter_shortcode ma_truyen="feng-qi-cang-lan" kieu_tinh_trang="Manhua_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/42847/1/200.jpg"]
+
+Categories : Manhua
+
+Status : Ongoing
+
+Tags : Fantasy, Romance, Supernatural
+														
 	</truyen>
-	<truyen ten="harigane service" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>harigane service</ten_truyen>
-		<ma_truyen>harigane-service</ma_truyen>
-		<tac_gia>Ara Tatsuya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27393/2/200.jpg</hinh_nho>
-		<gioi_thieu>Shimodaira Kanna is a first year at Toritsu Toyose high school. He decides to be in the volley-ball club unfortunately, after an accident in middle school he can no longer jump. Despite being really good at serving he can't be on the regular team without jumping. How will he overcomes that problem?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/harigane-service-eng.xml</file_xml>
+	
+Title : ling bao zhi
+
+[info_shortcode tac_gia="Ye Gu, Fep-xiao Zhao" the_loai="Action, Horror, Romance, Shounen., Supernatural" kieu_truyen="Manhua" tinh_trang="Ongoing" hinh_nho="https://file-thumb.mpcdn.net/30168/2/200.jpg" gioi_thieu="Due to all of the anger and emotions of humans, the world has been inhabited by ghosts that feed off humans. Unfortunately, these ghosts can't be seen by ordinary humans. A high schooler has the ability to see these ghosts..."]
+
+[chapter_shortcode ma_truyen="ling-bao-zhi" kieu_tinh_trang="Manhua_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/30168/2/200.jpg"]
+
+Categories : Manhua
+
+Status : Ongoing
+
+Tags : Action, Horror, Romance, Shounen., Supernatural
+														
 	</truyen>
-	<truyen ten="dansan joshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>dansan joshi</ten_truyen>
-		<ma_truyen>dansan-joshi</ma_truyen>
-		<tac_gia>Mizu Asato</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/37423/1/200.jpg</hinh_nho>
-		<gioi_thieu>This manga follows the story of 7 high school students, 3 boys and 4 girls in year 1 class A. Their not-so-ordinary ways of thinking and everyday lives are loaded with comedy, dirty jokes. At times, debating about how to use a toilet, at other times, risking their lives over growing body hair in unusual places!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dansan-joshi-eng.xml</file_xml>
+	
+Title : i don't want to say i'm a chicken
+
+[info_shortcode tac_gia="Jiang Ren" the_loai="Action, Comedy, Fantasy, Shounen." kieu_truyen="Manhua" tinh_trang="Ongoing" hinh_nho="https://file-thumb.mpcdn.net/34853/1/200.jpg" gioi_thieu="When the maid from the heaven failed to protect the Phoenix egg from a mysterious figure, she used her last power to send the Phoenix, king of all birds into a chicken egg and soon the Phoenix hatched into a chicken. Follow the Phoenix and his chicken sibling on an epic adventure!"]
+
+[chapter_shortcode ma_truyen="i-don-t-want-to-say-i-m-a-chicken" kieu_tinh_trang="Manhua_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/34853/1/200.jpg"]
+
+Categories : Manhua
+
+Status : Ongoing
+
+Tags : Action, Comedy, Fantasy, Shounen.
+														
 	</truyen>
-	<truyen ten="infinity countdown: black widow" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity countdown: black widow</ten_truyen>
-		<ma_truyen>infinity-countdown-black-widow</ma_truyen>
-        <tac_gia>Gerry Duggan, Nik Virella, Yasmine Putri</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-countdown-black-widow/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Given the incredibly powerful Space Stone to look after by an old friend, Black Widow has no intention of letting it fall into the wrong hands... but is even the top espionage agent in the world ready to handle cosmic responsibility?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-countdown-black-widow-eng.xml</file_xml>
+	
+Title : ant-man and the wasp (2018)
+
+[info_shortcode tac_gia="Mark Waid, Javier Garron, David Nakayama" the_loai="Action, Adventure, Superhero" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/a/ant-man--the-wasp-(2018)/1_medium.jpg" gioi_thieu="Wasp was just trying to help Ant-Man get home to Earth to see his daughter...but a little problem got in the way. Very little. Subatomic, in fact, as Scott Lang was lost in the vast spaces between atoms! Now, Nadia is his only hope of rescue...if only he would listen long enough for her to save them!"]
+
+[chapter_shortcode ma_truyen="ant-man-and-the-wasp-2018" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/a/ant-man--the-wasp-(2018)/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Superhero
+				                                        
     </truyen>
-	<truyen ten="quicksilver: no surrender" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>quicksilver: no surrender</ten_truyen>
-		<ma_truyen>quicksilver-no-surrender</ma_truyen>
-        <tac_gia>Saladin Ahmed, Eric Nguyen</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/q/quicksilver-no-surrender/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Quicksilver's super-speed and abrasive personality have always isolated him, but he's never been truly alone... until now. Trapped beyond the perception of friends, family and allies, Quicksilver wages a one-man guerilla war against a monster that he's not even sure is real, to save a world that he may never be a part of again. Saladin Ahmed (BLACK BOLT) and Eric Nguyen (OLD MAN LOGAN) team up to bring you a psychedelic survival thriller unlike anything you've seen before!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quicksilver-no-surrender-eng.xml</file_xml>
+	
+Title : teenage mutant ninja turtles universe
+
+[info_shortcode tac_gia="Kevin Eastman, Paul Allor, Tom Waltz, Damian Couceiro, Bill Sienkiewicz, Freddie E. Williams" the_loai="Action, Adventure, Anthropomorphic, Fantasy, Movies - tv, Sci-fi, Superhero" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-universe/1_medium.jpg" gioi_thieu="Introducing a new era in TMNT! This series will explore characters and story-lines that are pivotal to the IDW TMNT universe! When a mysterious new mutant targets Baxter Stockman, it will be up to the TMNT to reluctantly save him. Little does everyone know that a larger trap is being laid by a new arch-foe! Plus a back-up story from TMNT co-creator Kevin Eastman and comics legend Bill Sienkiewicz!"]
+
+[chapter_shortcode ma_truyen="teenage-mutant-ninja-turtles-universe" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-universe/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Anthropomorphic, Fantasy, Movies - tv, Sci-fi, Superhero
+				                                        
     </truyen>
-	<truyen ten="b.p.r.d. the devil you know" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>b.p.r.d. the devil you know</ten_truyen>
-		<ma_truyen>b-p-r-d-the-devil-you-know</ma_truyen>
-        <tac_gia>Jeff Lemire, Lewis Larosa, Mico Suayan</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/bprd-the-devil-you-know/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Before they were vanquished by the BPRD, Lovecraftian monsters created a Hell on Earth. Now Liz Sherman leads a crew through monster-infested ruins on the most important rescue mission of her life. As society tries to rebuild, strange cults vie for influence, and a demon emerges to lead the way...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/b-p-r-d-the-devil-you-know-eng.xml</file_xml>
+	
+Title : deep roots
+
+[info_shortcode tac_gia="Dan Watters, Val Rodrigues, Triona Farrell" the_loai="Action, Adventure" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/d/deep-roots/1_medium.jpg" gioi_thieu="Roots, once suffocating under cement, tear through the streets of London to throttle buildings. Vegetable homunculi hold up banks with automatic weapons. There is a green and blooming world beyond our own, fighting back against the human pollutant. We will launch a rescue mission to this Otherworld. But it is cruel and unknowable, and should we become tangled in its vines, more than cities will fall. From Dan Watters (Limbo, The Shadow, Assassin's Creed) and Val Rodrigues comes a story of two worlds, of myth and man, of science and fiction, and the roots they share."]
+
+[chapter_shortcode ma_truyen="deep-roots" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/d/deep-roots/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure
+				                                        
     </truyen>
-	<truyen ten="betrothed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>betrothed</ten_truyen>
-		<ma_truyen>betrothed</ma_truyen>
-        <tac_gia>Sean Lewis, Steve Uy, Simon Bowland</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/betrothed/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Welcome to the World of Betrothed! Kieron and Tamara are both seniors at the same high school. They've never paid much attention to each other, even though they are the only kids at school who are orphans. On the eve of their eighteenth birthdays, they discover a lifelong secret: in a dimension far away, they are each the leader of an army that is at war with one another... and what's more, when they turn eighteen, they're to be Betrothed or Fight to the Death!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/betrothed-eng.xml</file_xml>
+	
+Title : kick-ass (2018)
+
+[info_shortcode tac_gia="Mark Millar, John Romita Jr." the_loai="Action, Adventure, Superhero" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/k/kick-ass-(2018)/1_medium.jpg" gioi_thieu="KICK-ASS IS BACK-ready to wipe out the city's criminal lowlives, destroy its gangs, and save its communities from decay. But there's a new face beneath the old mask, a new figure wearing that famous green and yellow spandex. Who is this new vigilante superhero? Who can fill Dave Lizewski's shoes? WHO IS THE NEW KICK-ASS? Find out in the first issue of this new, ongoing monthly series. Comic book legends MARK MILLAR and JOHN ROMITA, JR. reunite for the next chapter of the greatest superhero comic of all time."]
+
+[chapter_shortcode ma_truyen="kick-ass-2018" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/k/kick-ass-(2018)/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Superhero
+				                                        
     </truyen>
-	<truyen ten="evolution  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>evolution  </ten_truyen>
-		<ma_truyen>evolution</ma_truyen>
-        <tac_gia>James Asmus, Joesph Keatinge, Christopher Sebela, Joshua Williamson, Jordan Boyd, Joe Infurnari</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Human evolution has taken millions of years to get to this stage. But next week, we become something new. Around the world, humanity is undergoing rapid and unpredictable changes, and only three individuals seem to notice that their world is being reborn. But what can they do about it?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/evolution-eng.xml</file_xml>
+	
+Title : death of love
+
+[info_shortcode tac_gia="Justin Jordan, Donal Delay, Omar Trucu Estevez" the_loai="Action, Adventure, Fantasy" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/d/death-of-love/1_medium.jpg" gioi_thieu="Love sucks. Philo Harris is going to do something about it. After gaining the ability to see the Cupidae that make love work-after a particularly bad drunken decision-Philo ends up going to war with love itself. With a chainsaw."]
+
+[chapter_shortcode ma_truyen="death-of-love" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/d/death-of-love/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Fantasy
+				                                        
     </truyen>
-	<truyen ten="proxima centauri" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>proxima centauri</ten_truyen>
-		<ma_truyen>proxima-centauri</ma_truyen>
-        <tac_gia>Farel Dalrymple</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/proxima-centauri/1_medium.jpg</hinh_nho>
-        <gioi_thieu>4.243 light-years from Earth, the teenage wizard adventurer Sherwood Breadcoat is stuck in the confounding spectral zone on the manufactured dimensional sphere, Proxima Centauri, looking for escape and a way back to his brother while dealing with his confusing emotions, alien creatures, and all sorts of unknown, fantastic dangers.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/proxima-centauri-eng.xml</file_xml>
+	
+Title : copperhead
+
+[info_shortcode tac_gia="Jay Faerber, Scott Godlewski" the_loai="Action, Adventure, Crime, Sci-fi" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/c/copperhead/1_medium.jpg" gioi_thieu="Welcome to Copperhead, a grimy mining town on the edge of a backwater planet. Single mom Clara Bronson is the new sheriff, and on her first day she'll have to contend with a resentful deputy, a shady mining tycoon, and a family of alien hillbillies. And did we mention the massacre?"]
+
+[chapter_shortcode ma_truyen="copperhead" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/c/copperhead/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Crime, Sci-fi
+				                                        
     </truyen>
-	<truyen ten="the fix" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Drama, Mature" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the fix</ten_truyen>
-		<ma_truyen>the-fix</ma_truyen>
-        <tac_gia>Nick Spencer, Steve Lieber</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-fix/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A story of the crooked cops, scheming mobsters, and corrupt politicians that run things-and the sex toy that can bring them all down. Oh, and the hero is a drug-sniffing beagle named Pretzels. Bad people do bad things to each other in this frenetic, outrageous, sometimes off-putting new caper! If you liked classic crime comics like CRIMINAL and 100 Bullets we apologize in advance for letting you down!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-fix-eng.xml</file_xml>
+	
+Title : dry county
+
+[info_shortcode tac_gia="Rich Tommaso" the_loai="Action, Adventure, Crime" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/d/dry-county/1_medium.jpg" gioi_thieu="RICH TOMMASO is taking a short hiatus on SPY SEAL and releasing a new crime series in the meantime, one set in the late 1980s of Miami that follows a young Generation Xer who plays amateur detective in order to find a missing lady he's recently fallen hard for."]
+
+[chapter_shortcode ma_truyen="dry-county" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/d/dry-county/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Crime
+				                                        
     </truyen>
-	<truyen ten="cave carson has an interstellar eye" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>cave carson has an interstellar eye</ten_truyen>
-		<ma_truyen>cave-carson-has-an-interstellar-eye</ma_truyen>
-        <tac_gia>Jon Rivera, Paul Maybury, Michael Avon Oeming</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/cave-carson-has-an-interstellar-eye/1_medium.jpg</hinh_nho>
-        <gioi_thieu>After a year of multiverse-hopping and fighting in the Milk Wars, returning to a normal life of digging and cave-diving just isn't the same for explorer Cave Carson. Sure, he's got his podcast, family and that cybernetic eye, but reminiscing about times gone by isn't the same as living. Luckily for Cave Carson and his daughter Chloe, they're about to get sucked into an all-new adventure-literally-when they go spelunking in a black hole! But what's caused this black hole to appears and what's its connection to the intergalactic music sensation Star Adam?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cave-carson-has-an-interstellar-eye-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="arslan senki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>arslan senki</ten_truyen>
-		<ma_truyen>arslan-senki</ma_truyen>
-		<tac_gia>Tanaka Yoshiki, Arakawa Hiromu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/22658/5/200.jpg</hinh_nho>
-		<gioi_thieu>As an unnaturally heavy mist descends on the battlefield, King Andragoras and his most valued officers confer among the bodies of dead and dying soldiers. When Daryoon, a young but highly skilled officer, voices his reluctance to send men into battle under these conditions, the king, unstable and enraged, banishes him. Now, Daryoon's new mission is to insure the safety of the King's only son, Prince Arislan. Daryoon and Prince Arislan set off on a quest of their own, but they can't succeed alone. They must convince both the Lord Narsus and his companion, the archer Elam, to join them in their quest to somehow help the soldiers win the war. Now a group of only six they must somehow overcome an enemy of 300,000 soldiers! These unlikely soldiers have fate on their side, so anything can happen!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/arslan-senki-eng.xml</file_xml>
+	
+Title : kangoku jikken
+
+[info_shortcode tac_gia="Kantetsu, Minase Chiho" the_loai="Horror, Psychological, Seinen" kieu_truyen="Manga" tinh_trang="Ongoing" hinh_nho="https://file-thumb.mpcdn.net/42154/3/200.jpg" gioi_thieu="Eyama Aito, a high school student, is the victim of daily bullying. One day a strange letter arrives inviting him to a 'captivity game.' He may choose one person to hold captive for one month with a chance at winning a large amount of money. He chooses the ringleader of his bullies, Aya Kirishima, and the only rule of the game is to not kill her. Everything else is fair game. Eyama's revenge begins!"]
+
+[chapter_shortcode ma_truyen="kangoku-jikken" kieu_tinh_trang="Manga_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/42154/3/200.jpg"]
+
+Categories : Manga
+
+Status : Ongoing
+
+Tags : Horror, Psychological, Seinen
+								        		        
 	</truyen>
-	<truyen ten="wagatsuma-san wa ore no yome" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Harem, Romance, School life, Sci-fi, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>wagatsuma-san wa ore no yome</ten_truyen>
-		<ma_truyen>wagatsuma-san-wa-ore-no-yome</ma_truyen>
-		<tac_gia>Kuraishi Yuu, Nishikida Keishi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/10937/7/200.jpg</hinh_nho>
-		<gioi_thieu>Aoshima Hitoshi is a second year student in high school, who wishes he had a girlfriend. One day he wakes up for an unknown reason 10 years in the future, and he is married to the prettiest girl in school, Wagatsuma Ai! How has their relationship grown from mere acquaintances to husband and wife!?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/wagatsuma-san-wa-ore-no-yome-eng.xml</file_xml>
+	
+Title : harigane service
+
+[info_shortcode tac_gia="Ara Tatsuya" the_loai="Shounen., Sports" kieu_truyen="Manga" tinh_trang="Ongoing" hinh_nho="https://file-thumb.mpcdn.net/27393/2/200.jpg" gioi_thieu="Shimodaira Kanna is a first year at Toritsu Toyose high school. He decides to be in the volley-ball club unfortunately, after an accident in middle school he can no longer jump. Despite being really good at serving he can't be on the regular team without jumping. How will he overcomes that problem?"]
+
+[chapter_shortcode ma_truyen="harigane-service" kieu_tinh_trang="Manga_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/27393/2/200.jpg"]
+
+Categories : Manga
+
+Status : Ongoing
+
+Tags : Shounen., Sports
+								        		        
 	</truyen>
-	<truyen ten="aku no hana" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>aku no hana</ten_truyen>
-		<ma_truyen>aku-no-hana</ma_truyen>
-		<tac_gia>Oshimi Shuzo</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/521/3/200.jpg</hinh_nho>
-		<gioi_thieu>The story opens as middle school student Takao Kasuga receives an F on a math test. But he doesn't even seem to notice because he's too engrossed in surreptitiously reading Beaudelaire's The Flowers of Evil. And the day goes downhill from there. In a moment of weakness, he finds and takes home the gym clothes belonging to sweet, pretty Nanako Saeki on whom he has a major crush. Unfortunately for Takao, there's a witness to the theft: Nakamura, who has a huge chip on her shoulder and a sadistic streak. As the saga unfolds, we see Takao struggling to decide whether to confess or cover up his misdeeds at the same time that he tries to win over the girl of his dreams, and avoid the blackmail attempts of Nakamura, his new 'BFF.'</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/aku-no-hana-eng.xml</file_xml>
+	
+Title : dansan joshi
+
+[info_shortcode tac_gia="Mizu Asato" the_loai="Comedy, School life, Shounen." kieu_truyen="Manga" tinh_trang="Ongoing" hinh_nho="https://file-thumb.mpcdn.net/37423/1/200.jpg" gioi_thieu="This manga follows the story of 7 high school students, 3 boys and 4 girls in year 1 class A. Their not-so-ordinary ways of thinking and everyday lives are loaded with comedy, dirty jokes. At times, debating about how to use a toilet, at other times, risking their lives over growing body hair in unusual places!"]
+
+[chapter_shortcode ma_truyen="dansan-joshi" kieu_tinh_trang="Manga_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/37423/1/200.jpg"]
+
+Categories : Manga
+
+Status : Ongoing
+
+Tags : Comedy, School life, Shounen.
+								        		        
 	</truyen>
-	<truyen ten="new challengers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>new challengers</ten_truyen>
-		<ma_truyen>new-challengers</ma_truyen>
-        <tac_gia>Aaron Gillespie, Scott Snyder, Andy Kubert</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/new-challengers-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Challengers Mountain has returned to the DC Universe and chosen a new team of explorers! Five misfit strangers are given a second chance at life, but only if they obey the orders of the mysterious Professor and execute deadly missions in the most unexplored corners of the multiverse! And if the new Challengers of the Unknown fail... it will be more than just their own lives that hang in the balance!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/new-challengers-eng.xml</file_xml>
+	
+Title : infinity countdown: black widow
+
+[info_shortcode tac_gia="Gerry Duggan, Nik Virella, Yasmine Putri" the_loai="Action, Adventure, Superhero" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/i/infinity-countdown-black-widow/1_medium.jpg" gioi_thieu="Given the incredibly powerful Space Stone to look after by an old friend, Black Widow has no intention of letting it fall into the wrong hands... but is even the top espionage agent in the world ready to handle cosmic responsibility?"]
+
+[chapter_shortcode ma_truyen="infinity-countdown-black-widow" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/i/infinity-countdown-black-widow/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Superhero
+				                                        
     </truyen>
-	<truyen ten="hit-girl (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Mature, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hit-girl (2018)</ten_truyen>
-		<ma_truyen>hit-girl-2018</ma_truyen>
-        <tac_gia>Mark Millar, Ricardo Lopez Ortiz</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hit-girl-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The pint-sized Punisher-meets-Polly-Pocket has left America behind and set off to serve justice around the world. First stop: Colombia. A mother seeking vengeance for the murder of her child enlists Hit-Girl to destroy his killer, but Mindy has bigger plans for Colombia's most feared hitman.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hit-girl-2018-eng.xml</file_xml>
+	
+Title : quicksilver: no surrender
+
+[info_shortcode tac_gia="Saladin Ahmed, Eric Nguyen" the_loai="Action, Adventure, Superhero" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/q/quicksilver-no-surrender/1_medium.jpg" gioi_thieu="Quicksilver's super-speed and abrasive personality have always isolated him, but he's never been truly alone... until now. Trapped beyond the perception of friends, family and allies, Quicksilver wages a one-man guerilla war against a monster that he's not even sure is real, to save a world that he may never be a part of again. Saladin Ahmed (BLACK BOLT) and Eric Nguyen (OLD MAN LOGAN) team up to bring you a psychedelic survival thriller unlike anything you've seen before!"]
+
+[chapter_shortcode ma_truyen="quicksilver-no-surrender" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/q/quicksilver-no-surrender/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Superhero
+				                                        
     </truyen>
-	<truyen ten="curse words" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>curse words</ten_truyen>
-		<ma_truyen>curse-words</ma_truyen>
-        <tac_gia>Charles Soule, Jordan Boyd, Ryan Browne</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/curse-words/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A wizard has appeared in New York City, and he's casting wonderful spells, getting famous, getting rich-it's great! But it's not. This wizard has everyone fooled. He is actually an EVIL WIZARD, and EVIL THINGS are on the way. CURSE WORDS is a gonzo modern fantasy, full of darkness, light... and MAGIC.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/curse-words-eng.xml</file_xml>
+	
+Title : b.p.r.d. the devil you know
+
+[info_shortcode tac_gia="Jeff Lemire, Lewis Larosa, Mico Suayan" the_loai="Action, Adventure, Superhero" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/b/bprd-the-devil-you-know/1_medium.jpg" gioi_thieu="Before they were vanquished by the BPRD, Lovecraftian monsters created a Hell on Earth. Now Liz Sherman leads a crew through monster-infested ruins on the most important rescue mission of her life. As society tries to rebuild, strange cults vie for influence, and a demon emerges to lead the way..."]
+
+[chapter_shortcode ma_truyen="b-p-r-d-the-devil-you-know" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/b/bprd-the-devil-you-know/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Superhero
+				                                        
     </truyen>
-	<truyen ten="the lost city explorers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the lost city explorers</ten_truyen>
-		<ma_truyen>the-lost-city-explorers</ma_truyen>
-        <tac_gia>Zack Kaplan, Alvaro Sarraseca, Chris Blythe</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/l/lost-city-explorers/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Lost cities aren't just the stuff of myths. They exist hidden right under our noses. But when a mysterious expedition is disrupted by supernatural activity, and an antiquities professor goes missing, his teenage daughter and her friends must become underground urban explorers, follow his tracks on a coming-of-age journey through subterranean tunnels, and ultimately find the holy grail of lost city: Atlantis buried right under New York City!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-lost-city-explorers-eng.xml</file_xml>
+	
+Title : betrothed
+
+[info_shortcode tac_gia="Sean Lewis, Steve Uy, Simon Bowland" the_loai="Action, Adventure, Fantasy" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/b/betrothed/1_medium.jpg" gioi_thieu="Welcome to the World of Betrothed! Kieron and Tamara are both seniors at the same high school. They've never paid much attention to each other, even though they are the only kids at school who are orphans. On the eve of their eighteenth birthdays, they discover a lifelong secret: in a dimension far away, they are each the leader of an army that is at war with one another... and what's more, when they turn eighteen, they're to be Betrothed or Fight to the Death!"]
+
+[chapter_shortcode ma_truyen="betrothed" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/b/betrothed/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Fantasy
+				                                        
     </truyen>
-	<truyen ten="infidel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infidel</ten_truyen>
-		<ma_truyen>infidel</ma_truyen>
-        <tac_gia>Pornsak Pichetshote, Aaron Campbell, Jose Villarrubia</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infidel/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A haunted house story for the 21st century, INFIDEL follows an American Muslim woman and her multiracial neighbors who move into a building haunted by entities that feed off xenophobia.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infidel-eng.xml</file_xml>
+	
+Title : evolution  
+
+[info_shortcode tac_gia="James Asmus, Joesph Keatinge, Christopher Sebela, Joshua Williamson, Jordan Boyd, Joe Infurnari" the_loai="Action, Adventure, Superhero" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg" gioi_thieu="Human evolution has taken millions of years to get to this stage. But next week, we become something new. Around the world, humanity is undergoing rapid and unpredictable changes, and only three individuals seem to notice that their world is being reborn. But what can they do about it?"]
+
+[chapter_shortcode ma_truyen="evolution" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Superhero
+				                                        
     </truyen>
-	<truyen ten="punks not dead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Life sucks, Sci-fi, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>punks not dead</ten_truyen>
-		<ma_truyen>punks-not-dead</ma_truyen>
-        <tac_gia>David Barnett, Martin Simmonds</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/punks-not-dead/1_medium.jpg</hinh_nho>
-        <gioi_thieu>As if being an awkward, bullied 15-year-old isn't bad enough, 'Fergie' Ferguson suddenly discovers he can see dead people. Well, one dead person specifically-the ghost of a certain punk rocker named Sid. Sid's spirit was trapped in London's Heathrow Airport for 40 years until the day he met Fergie. Sid's ghost is now stuck to Fergie-as if Fergie doesn't have enough on his plate, being raised by a single mum whose idea of parenting is strictly fly-by-the-seat-of-your-pants. Now Fergie has to contend with an unruly ghost sidekick and some weird, uncontrollable new 'abilities'. How does the father Fergie never knew fit into this mayhem? And why is the Department for Extra-Usual Affairs showing an interest? Never Mind the Bollocks-all of this plus fish fingers, chunky chips, and endless pints of anarchy in the new monthly series PUNKS NOT DEAD!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/punks-not-dead-eng.xml</file_xml>
+	
+Title : proxima centauri
+
+[info_shortcode tac_gia="Farel Dalrymple" the_loai="Action, Adventure, Sci-fi" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/p/proxima-centauri/1_medium.jpg" gioi_thieu="4.243 light-years from Earth, the teenage wizard adventurer Sherwood Breadcoat is stuck in the confounding spectral zone on the manufactured dimensional sphere, Proxima Centauri, looking for escape and a way back to his brother while dealing with his confusing emotions, alien creatures, and all sorts of unknown, fantastic dangers."]
+
+[chapter_shortcode ma_truyen="proxima-centauri" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/p/proxima-centauri/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Sci-fi
+				                                        
+    </truyen>
+	
+Title : the fix
+
+[info_shortcode tac_gia="Nick Spencer, Steve Lieber" the_loai="Action, Adventure, Crime, Drama, Mature" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/t/the-fix/1_medium.jpg" gioi_thieu="A story of the crooked cops, scheming mobsters, and corrupt politicians that run things-and the sex toy that can bring them all down. Oh, and the hero is a drug-sniffing beagle named Pretzels. Bad people do bad things to each other in this frenetic, outrageous, sometimes off-putting new caper! If you liked classic crime comics like CRIMINAL and 100 Bullets we apologize in advance for letting you down!"]
+
+[chapter_shortcode ma_truyen="the-fix" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/t/the-fix/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Crime, Drama, Mature
+				                                        
+    </truyen>
+	
+Title : cave carson has an interstellar eye
+
+[info_shortcode tac_gia="Jon Rivera, Paul Maybury, Michael Avon Oeming" the_loai="Action, Adventure, Superhero" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/c/cave-carson-has-an-interstellar-eye/1_medium.jpg" gioi_thieu="After a year of multiverse-hopping and fighting in the Milk Wars, returning to a normal life of digging and cave-diving just isn't the same for explorer Cave Carson. Sure, he's got his podcast, family and that cybernetic eye, but reminiscing about times gone by isn't the same as living. Luckily for Cave Carson and his daughter Chloe, they're about to get sucked into an all-new adventure-literally-when they go spelunking in a black hole! But what's caused this black hole to appears and what's its connection to the intergalactic music sensation Star Adam?"]
+
+[chapter_shortcode ma_truyen="cave-carson-has-an-interstellar-eye" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/c/cave-carson-has-an-interstellar-eye/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Superhero
+				                                        
+    </truyen>
+	
+Title : arslan senki
+
+[info_shortcode tac_gia="Tanaka Yoshiki, Arakawa Hiromu" the_loai="Action, Adventure, Drama, Fantasy, Historical, Shounen., Supernatural" kieu_truyen="Manga" tinh_trang="Ongoing" hinh_nho="https://file-thumb.mpcdn.net/22658/5/200.jpg" gioi_thieu="As an unnaturally heavy mist descends on the battlefield, King Andragoras and his most valued officers confer among the bodies of dead and dying soldiers. When Daryoon, a young but highly skilled officer, voices his reluctance to send men into battle under these conditions, the king, unstable and enraged, banishes him. Now, Daryoon's new mission is to insure the safety of the King's only son, Prince Arislan. Daryoon and Prince Arislan set off on a quest of their own, but they can't succeed alone. They must convince both the Lord Narsus and his companion, the archer Elam, to join them in their quest to somehow help the soldiers win the war. Now a group of only six they must somehow overcome an enemy of 300,000 soldiers! These unlikely soldiers have fate on their side, so anything can happen!"]
+
+[chapter_shortcode ma_truyen="arslan-senki" kieu_tinh_trang="Manga_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/22658/5/200.jpg"]
+
+Categories : Manga
+
+Status : Ongoing
+
+Tags : Action, Adventure, Drama, Fantasy, Historical, Shounen., Supernatural
+								        		        
+	</truyen>
+	
+Title : wagatsuma-san wa ore no yome
+
+[info_shortcode tac_gia="Kuraishi Yuu, Nishikida Keishi" the_loai="Comedy, Drama, Harem, Romance, School life, Sci-fi, Shounen., Supernatural" kieu_truyen="Manga" tinh_trang="Ongoing" hinh_nho="https://file-thumb.mpcdn.net/10937/7/200.jpg" gioi_thieu="Aoshima Hitoshi is a second year student in high school, who wishes he had a girlfriend. One day he wakes up for an unknown reason 10 years in the future, and he is married to the prettiest girl in school, Wagatsuma Ai! How has their relationship grown from mere acquaintances to husband and wife!?"]
+
+[chapter_shortcode ma_truyen="wagatsuma-san-wa-ore-no-yome" kieu_tinh_trang="Manga_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/10937/7/200.jpg"]
+
+Categories : Manga
+
+Status : Ongoing
+
+Tags : Comedy, Drama, Harem, Romance, School life, Sci-fi, Shounen., Supernatural
+								        		        
+	</truyen>
+	
+Title : aku no hana
+
+[info_shortcode tac_gia="Oshimi Shuzo" the_loai="Drama, Psychological, Romance, School life, Shounen." kieu_truyen="Manga" tinh_trang="Completed" hinh_nho="https://file-thumb.mpcdn.net/521/3/200.jpg" gioi_thieu="The story opens as middle school student Takao Kasuga receives an F on a math test. But he doesn't even seem to notice because he's too engrossed in surreptitiously reading Beaudelaire's The Flowers of Evil. And the day goes downhill from there. In a moment of weakness, he finds and takes home the gym clothes belonging to sweet, pretty Nanako Saeki on whom he has a major crush. Unfortunately for Takao, there's a witness to the theft: Nakamura, who has a huge chip on her shoulder and a sadistic streak. As the saga unfolds, we see Takao struggling to decide whether to confess or cover up his misdeeds at the same time that he tries to win over the girl of his dreams, and avoid the blackmail attempts of Nakamura, his new 'BFF.'"]
+
+[chapter_shortcode ma_truyen="aku-no-hana" kieu_tinh_trang="Manga_Completed"]
+
+[excerpt_shortcode link_hinh="https://file-thumb.mpcdn.net/521/3/200.jpg"]
+
+Categories : Manga
+
+Status : Completed
+
+Tags : Drama, Psychological, Romance, School life, Shounen.
+								        		        
+	</truyen>
+	
+Title : new challengers
+
+[info_shortcode tac_gia="Aaron Gillespie, Scott Snyder, Andy Kubert" the_loai="Action, Adventure, Superhero" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/n/new-challengers-(2018)/1_medium.jpg" gioi_thieu="Challengers Mountain has returned to the DC Universe and chosen a new team of explorers! Five misfit strangers are given a second chance at life, but only if they obey the orders of the mysterious Professor and execute deadly missions in the most unexplored corners of the multiverse! And if the new Challengers of the Unknown fail... it will be more than just their own lives that hang in the balance!"]
+
+[chapter_shortcode ma_truyen="new-challengers" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/n/new-challengers-(2018)/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Superhero
+				                                        
+    </truyen>
+	
+Title : hit-girl (2018)
+
+[info_shortcode tac_gia="Mark Millar, Ricardo Lopez Ortiz" the_loai="Action, Adventure, Leading ladies, Mature, Superhero" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/h/hit-girl-(2018)/1_medium.jpg" gioi_thieu="The pint-sized Punisher-meets-Polly-Pocket has left America behind and set off to serve justice around the world. First stop: Colombia. A mother seeking vengeance for the murder of her child enlists Hit-Girl to destroy his killer, but Mindy has bigger plans for Colombia's most feared hitman."]
+
+[chapter_shortcode ma_truyen="hit-girl-2018" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/h/hit-girl-(2018)/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Leading ladies, Mature, Superhero
+				                                        
+    </truyen>
+	
+Title : curse words
+
+[info_shortcode tac_gia="Charles Soule, Jordan Boyd, Ryan Browne" the_loai="Action, Adventure" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/c/curse-words/1_medium.jpg" gioi_thieu="A wizard has appeared in New York City, and he's casting wonderful spells, getting famous, getting rich-it's great! But it's not. This wizard has everyone fooled. He is actually an EVIL WIZARD, and EVIL THINGS are on the way. CURSE WORDS is a gonzo modern fantasy, full of darkness, light... and MAGIC."]
+
+[chapter_shortcode ma_truyen="curse-words" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/c/curse-words/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure
+				                                        
+    </truyen>
+	
+Title : the lost city explorers
+
+[info_shortcode tac_gia="Zack Kaplan, Alvaro Sarraseca, Chris Blythe" the_loai="Action, Adventure, Sci-fi" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/l/lost-city-explorers/1_medium.jpg" gioi_thieu="Lost cities aren't just the stuff of myths. They exist hidden right under our noses. But when a mysterious expedition is disrupted by supernatural activity, and an antiquities professor goes missing, his teenage daughter and her friends must become underground urban explorers, follow his tracks on a coming-of-age journey through subterranean tunnels, and ultimately find the holy grail of lost city: Atlantis buried right under New York City!"]
+
+[chapter_shortcode ma_truyen="the-lost-city-explorers" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/l/lost-city-explorers/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Action, Adventure, Sci-fi
+				                                        
+    </truyen>
+	
+Title : infidel
+
+[info_shortcode tac_gia="Pornsak Pichetshote, Aaron Campbell, Jose Villarrubia" the_loai="Horror, Supernatural" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/i/infidel/1_medium.jpg" gioi_thieu="A haunted house story for the 21st century, INFIDEL follows an American Muslim woman and her multiracial neighbors who move into a building haunted by entities that feed off xenophobia."]
+
+[chapter_shortcode ma_truyen="infidel" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/i/infidel/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Horror, Supernatural
+				                                        
+    </truyen>
+	
+Title : punks not dead
+
+[info_shortcode tac_gia="David Barnett, Martin Simmonds" the_loai="Life sucks, Sci-fi, Supernatural" kieu_truyen="Comic" tinh_trang="Ongoing" hinh_nho="https://comicbookroundup.com/img/covers/p/punks-not-dead/1_medium.jpg" gioi_thieu="As if being an awkward, bullied 15-year-old isn't bad enough, 'Fergie' Ferguson suddenly discovers he can see dead people. Well, one dead person specifically-the ghost of a certain punk rocker named Sid. Sid's spirit was trapped in London's Heathrow Airport for 40 years until the day he met Fergie. Sid's ghost is now stuck to Fergie-as if Fergie doesn't have enough on his plate, being raised by a single mum whose idea of parenting is strictly fly-by-the-seat-of-your-pants. Now Fergie has to contend with an unruly ghost sidekick and some weird, uncontrollable new 'abilities'. How does the father Fergie never knew fit into this mayhem? And why is the Department for Extra-Usual Affairs showing an interest? Never Mind the Bollocks-all of this plus fish fingers, chunky chips, and endless pints of anarchy in the new monthly series PUNKS NOT DEAD!"]
+
+[chapter_shortcode ma_truyen="punks-not-dead" kieu_tinh_trang="Comic_Ongoing"]
+
+[excerpt_shortcode link_hinh="https://comicbookroundup.com/img/covers/p/punks-not-dead/1_medium.jpg"]
+
+Categories : Comic
+
+Status : Ongoing
+
+Tags : Life sucks, Sci-fi, Supernatural
+				                                        
     </truyen>
 </danh_sach_truyen>
