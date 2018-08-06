@@ -1557,14 +1557,14 @@
         <gioi_thieu>When all contact with the Patrick Swayze Block is lost, Dredd and Judge Beeny are tasked with investigating. As they battle lawlessness and rampant criminality, they discover a threat to the city that they must contain at all costs...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/judge-dredd-under-siege-eng.xml</file_xml>
     </truyen>
-	<truyen ten="justice league (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="justice league (2016)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>justice league (2016)</ten_truyen>
 		<ma_truyen>justice-league-2016</ma_truyen>
         <tac_gia>Bryan Hitch, Tony Salvador Daniel</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2016)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spinning out of the events of DC UNIVERSE: REBIRTH #1, a new day dawns for Earth's greatest heroes as they welcome three new members to the team, including…Superman? Who is this strange visitor from a dead world—and can he be trusted? Batman and Wonder Woman aren't so sure.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-2016-eng.xml</file_xml>
+        <gioi_thieu>Spinning out of the events of DC UNIVERSE: REBIRTH #1, a new day dawns for Earth's greatest heroes as they welcome three new members to the team, including...Superman? Who is this strange visitor from a dead world-and can he be trusted? Batman and Wonder Woman aren't so sure.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/justice-league-2016-eng.xml</file_xml>
     </truyen>
 	<truyen ten="justice league (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>justice league (2018)</ten_truyen>
