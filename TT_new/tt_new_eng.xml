@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="captain america (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>captain america (2018)</ten_truyen>
+		<ma_truyen>captain-america-2018</ma_truyen>
+        <tac_gia>Ta-Nehisi Coates, Leinil Francis Yu, Gerry Alanguilan, Sunny Gho</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-america-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>IT IS WINTER IN AMERICA.For over 70 years, he has stood in stalwart defense of our country and its people. But in the aftermath of Hydra's takeover of the nation, Captain America is a figure of controversy, carrying a tarnished shield...and a new enemy is rising! Who are the Power Elite? And how do they intend to co-opt and corrupt the symbol that is Captain America?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-america-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="portal bound" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>portal bound</ten_truyen>
+		<ma_truyen>portal-bound</ma_truyen>
+        <tac_gia>Gabe Carrasco, Mark Roslan, Alex Arizmendi, Wes Hartman, Adam Archer</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/portal-bound/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Their Future Depends on Each Other. A parallel otherworld exists as a mirror to our own, where science is melded with nature and a warrior spirit defines their true value. A teenage soldier princess, Sybil, is sent off with her Uncle Horuk in an effort to stop her megalomaniac father, Emperor Atilus from destroying two Earths. With a deadly array of monstrous creatures in hot pursuit, Sybil and her uncle race to activate a portal to Earth to find a savior who is also figuring out how to survive... being a teenager!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/portal-bound-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="fissure" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>fissure</ten_truyen>
+		<ma_truyen>fissure</ma_truyen>
+        <tac_gia>Tim Daniel, Patricio Delpeche</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/fissure/1_medium.jpg</hinh_nho>
+        <gioi_thieu>El Sueno, Texas was a single street town withering under the shadow of the Mexico-U.S. Barrier. Then the pavement split, and a massive crack spread from one end to the other, rapidly swallowing El Sueno whole. Young couple Avery Lee Olmos and Hark Wright fight to escape the mysterious sinkhole and the malevolent force that beckons from its depths.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fissure-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="koi wo suru no ga shigoto desu" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Comedy, Ecchi, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>koi wo suru no ga shigoto desu</ten_truyen>
 		<ma_truyen>koi-wo-suru-no-ga-shigoto-desu</ma_truyen>
