@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="fantastic four (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>fantastic four (2018)</ten_truyen>
+		<ma_truyen>fantastic-four-2018</ma_truyen>
+        <tac_gia>Dan Slott, Simone Bianchi, Sara Pichelli, Elisabetta D'Amico, Skottie Young</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/fantastic-four-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Since the end of SECRET WARS, there's been a gap in the Marvel Universe. A void no other team can fill. And it's time for the world to move on. But can it? A life-changing decision by the Thing! A momentous declaration by the Human Torch! A clarion call-to-arms that summons Doctor Doom! And a signal in the sky that heralds the return of hope to the Marvel Universe! All this, and Alicia Masters adopts kittens! So cute! Plus, the Impossible Man!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fantastic-four-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="catwoman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>catwoman (2018)</ten_truyen>
+		<ma_truyen>catwoman-2018</ma_truyen>
+        <tac_gia>Joelle Jones</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/catwoman-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The wedding night's barely over, but Catwoman's back on the streets, this time to expose a copycat who's pulling heists around Gotham City. As Selina cracks the whip on her former criminal cohorts, she's attracting unwanted attention from one of Gotham's most dangerous groups. The mob? Nope. Try the GCPD. And as if the Bat-Bride didn't have enough problems, don't miss the debut of an all-new villain determined to make trouble for all nine of Selina's lives.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/catwoman-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="predator: hunters ii" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>predator: hunters ii</ten_truyen>
+		<ma_truyen>predator-hunters-ii</ma_truyen>
+        <tac_gia>Chris Warner, Neeraj Menon, Agustin Padilla</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/predator-hunters-ii/1_medium.jpg</hinh_nho>
+        <gioi_thieu>From the islands of the South Pacific to the mountains of Afghanistan, the Hunters go wherever the Predators appear--even if it's in a war zone and into conflict with a mysterious government group hunting the same prey! Despite the casualties suffered during their first mission, the Predator Hunters are on the prowl again!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/predator-hunters-ii-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="captain america (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>captain america (2018)</ten_truyen>
 		<ma_truyen>captain-america-2018</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/m/mata-hari-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Dancer. Courtesan. Spy. Executed by a French firing squad in 1917. 100 years on from her death, questions are still raised about her conviction. Now, the lesser-known, often tragic story of the woman who claimed she was born a princess, and died a figure of public hatred with no one to claim her body, is told by breakout talent writer Emma Beeby (Judge Dredd), artist Ariela Kristantina (Insexts), and colorist Pat Masioni drawing on biographies and released MI5 files. In this first part of a five-issue miniseries, we meet Mata Hari in prison at the end of her life as she writes her memoir--part romantic tale of a Javanese princess who performed 'sacred' nude dances for Europe's elite, and part real-life saga of a disgraced wife and mother, who had everything she loved taken from her. But, as she sits trial for treason and espionage, we hear another tale: one of a flamboyant Dutch woman who became 'the most dangerous spy France has ever captured' a double agent who whored herself for secrets, lived a life of scandal, and loved only money. Leading us to ask... who was the real Mata Hari?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mata-hari-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="bedtime games" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>bedtime games</ten_truyen>
-		<ma_truyen>bedtime-games</ma_truyen>
-        <tac_gia>Tini Howard, Celor, K. Michael Russell, Tim Seeley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/bedtime-games/1_medium.jpg</hinh_nho>
-        <gioi_thieu>As summer comes to an end, three friends start senior year with a bang by exploring the mysterious past of their school. But before the night is over, their adventure turns into trouble when the kids set loose an evil that seeks to prey on their worst nightmares. </gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bedtime-games-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="cyber force (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>cyber force (2018)</ten_truyen>
-		<ma_truyen>cyber-force-2018</ma_truyen>
-        <tac_gia>Matt Hawkins, Bryan Edward Hill, Atilio Rojo, Marc Silvestri</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/cyber-force-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>TO PROTECT THE FUTURE, WHAT WILL WE BECOME? The classic series returns in a reimagining overseen by creator MARC SILVESTRI. In a modern world where humanity is defined by the technology it creates, a terrorist strikes at the heart of human progress. One of the few survivors of the attack is a man named Morgan Stryker. Mortally wounded, Stryker's life is saved by his employers...but the price could be his humanity itself.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cyber-force-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="black cloud" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Leading ladies, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>black cloud</ten_truyen>
-		<ma_truyen>black-cloud</ma_truyen>
-        <tac_gia>Jason Latour, Ivan Brandon, Greg Hinkle, Matt Wilson</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/black-cloud/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Zelda was born in a world of dreams, and hers burned bigger than anyone had ever seen. Now she's on the run in our world, the dreams broken in her hands. But the pieces are for sale, the rich and the powerful are buying, and suddenly her world isn't the only place Zelda's running from. From the creators that brought you Spider-Gwen, SOUTHERN BASTARDS, and DRIFTER, and the incredible colorist of THE WICKED + THE DIVINE, comes a place where dreams come true--and today, they go to war.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-cloud-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
