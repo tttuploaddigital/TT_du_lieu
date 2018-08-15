@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<truyen ten="master in my dreams" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mature, School life, Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>master in my dreams</ten_truyen>
-		<ma_truyen>master-in-my-dreams</ma_truyen>
-		<tac_gia>Son Hwi-joon</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/35624/1/200.jpg</hinh_nho>
-		<gioi_thieu>If your desire for a girl were fulfilled would you accept or refuse? Even though it's a dream...</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/master-in-my-dreams-eng.xml</file_xml>
-	</truyen>
 	<truyen ten="googookaka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Josei, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>googookaka</ten_truyen>
 		<ma_truyen>googookaka</ma_truyen>
@@ -81,15 +72,6 @@
         <gioi_thieu>From the islands of the South Pacific to the mountains of Afghanistan, the Hunters go wherever the Predators appear--even if it's in a war zone and into conflict with a mysterious government group hunting the same prey! Despite the casualties suffered during their first mission, the Predator Hunters are on the prowl again!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/predator-hunters-ii-eng.xml</file_xml>
     </truyen>
-	<truyen ten="blade play" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>blade play</ten_truyen>
-		<ma_truyen>blade-play</ma_truyen>
-		<tac_gia>Seta Aomaru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/1249/3/200.jpg</hinh_nho>
-		<gioi_thieu>Whilst searching for porn on the internet Sudo Kansuke, a 20-year-old university student, gets sucked into an RPG world called Munberdia. He is the chosen hero who carries the sword of light. Only the sword of light is not what you would expect.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/blade-play-eng.xml</file_xml>
-	</truyen>
 	<truyen ten="ss sisters" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Comedy, Ecchi, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ss sisters</ten_truyen>
 		<ma_truyen>ss-sisters</ma_truyen>
@@ -135,15 +117,6 @@
         <gioi_thieu>El Sueno, Texas was a single street town withering under the shadow of the Mexico-U.S. Barrier. Then the pavement split, and a massive crack spread from one end to the other, rapidly swallowing El Sueno whole. Young couple Avery Lee Olmos and Hark Wright fight to escape the mysterious sinkhole and the malevolent force that beckons from its depths.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fissure-eng.xml</file_xml>
     </truyen>
-	<truyen ten="koi wo suru no ga shigoto desu" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Comedy, Ecchi, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>koi wo suru no ga shigoto desu</ten_truyen>
-		<ma_truyen>koi-wo-suru-no-ga-shigoto-desu</ma_truyen>
-		<tac_gia>Harumi Chihiro</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/5300/1/200.jpg</hinh_nho>
-		<gioi_thieu>Two lovebirds, Hatsuhi Ryou and Sawamura Minori, are both finally venturing out into the workplace together. Each landing a job at their own desired company. However, they quickly find out that they work for rival companies. And each company forbids their employees from associating with their rival's workers. Will they lose their jobs, or can they keep their relationship a secret?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/koi-wo-suru-no-ga-shigoto-desu-eng.xml</file_xml>
-	</truyen>
 	<truyen ten="crayon days - daikirai na aitsu" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>crayon days - daikirai na aitsu</ten_truyen>
 		<ma_truyen>crayon-days-daikirai-na-aitsu</ma_truyen>
