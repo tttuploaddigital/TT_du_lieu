@@ -1149,15 +1149,6 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>When four teenagers with haunted pasts enroll in Blackwood College--a school that trains students in the occult--their desire to enhance their supernatural abilities and bond with others is hampered by an undead dean's curse, ghosts in their dorm, a mischievous two-headed mummy-chimp, a plague of mutant insects, and the discovery of an ancient evil that forces our heroes to undergo a crash course in the occult for the sake of the world.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/blackwood-eng.xml</file_xml>
     </truyen>
-	<truyen ten="blade play" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>blade play</ten_truyen>
-		<ma_truyen>blade-play</ma_truyen>
-		<tac_gia>Seta Aomaru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/1249/3/200.jpg</hinh_nho>
-		<gioi_thieu>Whilst searching for porn on the internet Sudo Kansuke, a 20-year-old university student, gets sucked into an RPG world called Munberdia. He is the chosen hero who carries the sword of light. Only the sword of light is not what you would expect.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/blade-play-eng.xml</file_xml>
-	</truyen>
 	<truyen ten="blast" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>blast</ten_truyen>
 		<ma_truyen>blast</ma_truyen>
