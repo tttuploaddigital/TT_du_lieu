@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="amano megumi wa suki darake!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>amano megumi wa suki darake!</ten_truyen>
+		<ma_truyen>amano-megumi-wa-suki-darake</ma_truyen>
+		<tac_gia>Nekoguchi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/40038/1/200.jpg</hinh_nho>
+		<gioi_thieu>Shindo Manabu is a student in a very prestigious high school who's goal is to get into Tokyo University. He studies constantly and tries to never lose sight of that goal. That is until his childhood friend , Amano Megumi, who goes to the same school starts to distract him. He only saw her as the tom-boy she was as a kid until they meet up again when she has become 'more developed'. As those two get closer to each other Manabu gets more and more distracted from his goal of getting into Tokyo U, so hilarity ensues.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/amano-megumi-wa-suki-darake-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="nozoki ana" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>nozoki ana</ten_truyen>
+		<ma_truyen>nozoki-ana</ma_truyen>
+		<tac_gia>Seta Aomaru</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/7144/2/200.jpg</hinh_nho>
+		<gioi_thieu>Whilst searching for porn on the internet Sudo Kansuke, a 20-year-old university student, gets sucked into an RPG world called Munberdia. He is the chosen hero who carries the sword of light. Only the sword of light is not what you would expect.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/nozoki-ana-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="only sense online" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Gender bender, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>only sense online</ten_truyen>
+		<ma_truyen>only-sense-online</ma_truyen>
+		<tac_gia>Aloha Zachou, Hani Kuraun</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/1249/3/200.jpg</hinh_nho>
+		<gioi_thieu>Utilizing a system called 'Sense,' each player aims to create their unique character in the VRMMORPG 'Only Sense Online.' Joining this realm is Yun, an absolute beginner in the world of gaming, equipped with some of the worst customized 'Sense' ever. While his two sisters, both veterans in this world, criticize his choices of equipment, he continues to delve into the skill sets he has acquired. Along his way, he meets the art of 'production' and people that have mastered this art. Watch as a total novice creates a revolution in the gaming world and create the 'ultimate' support class.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/only-sense-online-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="googookaka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Josei, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>googookaka</ten_truyen>
 		<ma_truyen>googookaka</ma_truyen>
@@ -350,32 +377,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/q/quicksilver-no-surrender/1_medium.jpg</hinh_nho>
         <gioi_thieu>Quicksilver's super-speed and abrasive personality have always isolated him, but he's never been truly alone... until now. Trapped beyond the perception of friends, family and allies, Quicksilver wages a one-man guerilla war against a monster that he's not even sure is real, to save a world that he may never be a part of again. Saladin Ahmed (BLACK BOLT) and Eric Nguyen (OLD MAN LOGAN) team up to bring you a psychedelic survival thriller unlike anything you've seen before!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quicksilver-no-surrender-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="b.p.r.d. the devil you know" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>b.p.r.d. the devil you know</ten_truyen>
-		<ma_truyen>b-p-r-d-the-devil-you-know</ma_truyen>
-        <tac_gia>Jeff Lemire, Lewis Larosa, Mico Suayan</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/bprd-the-devil-you-know/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Before they were vanquished by the BPRD, Lovecraftian monsters created a Hell on Earth. Now Liz Sherman leads a crew through monster-infested ruins on the most important rescue mission of her life. As society tries to rebuild, strange cults vie for influence, and a demon emerges to lead the way...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/b-p-r-d-the-devil-you-know-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="betrothed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>betrothed</ten_truyen>
-		<ma_truyen>betrothed</ma_truyen>
-        <tac_gia>Sean Lewis, Steve Uy, Simon Bowland</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/betrothed/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Welcome to the World of Betrothed! Kieron and Tamara are both seniors at the same high school. They've never paid much attention to each other, even though they are the only kids at school who are orphans. On the eve of their eighteenth birthdays, they discover a lifelong secret: in a dimension far away, they are each the leader of an army that is at war with one another... and what's more, when they turn eighteen, they're to be Betrothed or Fight to the Death!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/betrothed-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="evolution  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>evolution  </ten_truyen>
-		<ma_truyen>evolution</ma_truyen>
-        <tac_gia>James Asmus, Joesph Keatinge, Christopher Sebela, Joshua Williamson, Jordan Boyd, Joe Infurnari</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Human evolution has taken millions of years to get to this stage. But next week, we become something new. Around the world, humanity is undergoing rapid and unpredictable changes, and only three individuals seem to notice that their world is being reborn. But what can they do about it?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/evolution-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
