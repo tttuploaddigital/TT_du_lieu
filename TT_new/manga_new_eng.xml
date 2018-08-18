@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="amano megumi wa suki darake!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>amano megumi wa suki darake!</ten_truyen>
+		<ma_truyen>amano-megumi-wa-suki-darake</ma_truyen>
+		<tac_gia>Nekoguchi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/40038/1/200.jpg</hinh_nho>
+		<gioi_thieu>Shindo Manabu is a student in a very prestigious high school who's goal is to get into Tokyo University. He studies constantly and tries to never lose sight of that goal. That is until his childhood friend , Amano Megumi, who goes to the same school starts to distract him. He only saw her as the tom-boy she was as a kid until they meet up again when she has become 'more developed'. As those two get closer to each other Manabu gets more and more distracted from his goal of getting into Tokyo U, so hilarity ensues.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/amano-megumi-wa-suki-darake-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="only sense online" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Gender bender, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>only sense online</ten_truyen>
+		<ma_truyen>only-sense-online</ma_truyen>
+		<tac_gia>Aloha Zachou, Hani Kuraun</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/1249/3/200.jpg</hinh_nho>
+		<gioi_thieu>Utilizing a system called 'Sense,' each player aims to create their unique character in the VRMMORPG 'Only Sense Online.' Joining this realm is Yun, an absolute beginner in the world of gaming, equipped with some of the worst customized 'Sense' ever. While his two sisters, both veterans in this world, criticize his choices of equipment, he continues to delve into the skill sets he has acquired. Along his way, he meets the art of 'production' and people that have mastered this art. Watch as a total novice creates a revolution in the gaming world and create the 'ultimate' support class.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/only-sense-online-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="nozoki ana" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>nozoki ana</ten_truyen>
+		<ma_truyen>nozoki-ana</ma_truyen>
+		<tac_gia>Seta Aomaru</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/7144/2/200.jpg</hinh_nho>
+		<gioi_thieu>Whilst searching for porn on the internet Sudo Kansuke, a 20-year-old university student, gets sucked into an RPG world called Munberdia. He is the chosen hero who carries the sword of light. Only the sword of light is not what you would expect.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/nozoki-ana-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="blade play" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>blade play</ten_truyen>
 		<ma_truyen>blade-play</ma_truyen>
@@ -26,6 +53,15 @@
         <hinh_nho>https://file-thumb.mpcdn.net/1224/3/200.jpg</hinh_nho>
 		<gioi_thieu>There is a world of myth and magic that intersects ours, and only a special few can see it. Misao Harada is one such person, and she wants nothing to do with magical realms. She just wants to have a normal high school life and maybe get a boyfriend. But she is the bride of demon prophecy, and her blood grants incredible powers, her flesh immortality. Now the demon realm is fighting over the right to her hand...or her life! Black Bird received the 2009 Shogakukan Manga Award for shoujo manga.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/black-bird-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="koi wo suru no ga shigoto desu" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Comedy, Ecchi, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>koi wo suru no ga shigoto desu</ten_truyen>
+		<ma_truyen>koi-wo-suru-no-ga-shigoto-desu</ma_truyen>
+		<tac_gia>Harumi Chihiro</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/5300/1/200.jpg</hinh_nho>
+		<gioi_thieu>Two lovebirds, Hatsuhi Ryou and Sawamura Minori, are both finally venturing out into the workplace together. Each landing a job at their own desired company. However, they quickly find out that they work for rival companies. And each company forbids their employees from associating with their rival's workers. Will they lose their jobs, or can they keep their relationship a secret?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/koi-wo-suru-no-ga-shigoto-desu-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="crayon days - daikirai na aitsu" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>crayon days - daikirai na aitsu</ten_truyen>
@@ -368,41 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/28214/2/200.jpg</hinh_nho>
 		<gioi_thieu>Yuuki Tsumire was raised by her single mother, who always told her to keep smiling, no matter what hardships she endured. The two of them were a family, until Tsumire's mother died from illness. Tsumire soon learned that she had a family she knew nothing about: a cold, rich family that disowned her kindhearted mother when she became pregnant. Tsumire now must go live with this family, even though none of them seem to want her there. She doesn't have to switch schools, so she at least has her friends to help her through this difficult time. However, she doesn't have the heart to confide in her friends with even more problems, so she tries to keep it bottled up inside. To her surprise, the Yuuki family lawyer, a young man named Hino, soon becomes her emotional support in this difficult situation. However, Tsumire's reactions to him might mean that she wishes he were something more... Thanks go to tethysdust for the summary.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/megami-no-libra-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="getter robot devolution - uchuu saigo no 3-bunkan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mecha, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>getter robot devolution - uchuu saigo no 3-bunkan</ten_truyen>
-		<ma_truyen>getter-robot-devolution-uchuu-saigo-no-3-bunkan</ma_truyen>
-		<tac_gia>Ishikawa Ken, Shimizu Eiichi, Shimoguchi Tomohiro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/38781/1/200.jpg</hinh_nho>
-		<gioi_thieu>Three young pilots connected by the Getter Rays (Ryoma Nagare, Hayato Jin, and Musashi Tomoe) are recruited by Dr. Saotome to fight the Devolved beings appearing from spatial distortions using the only weapon that can face these monsters, the Getter Robo. The Saotome Institute however holds a dangerous secret, a fragment of the being called Emperor which connects the Getter and its pilots to parallel worlds, including the presence of people from those worlds such as an older Hayato and Dr. Shikishima.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/getter-robot-devolution-uchuu-saigo-no-3-bunkan-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="rain  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>rain  </ten_truyen>
-		<ma_truyen>rain</ma_truyen>
-		<tac_gia>Yoshino Takumi, Sumikawa Megumi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>http://www.mangadeep.com/wp-content/manga/cover/tbn/rain_200x0.jpg</hinh_nho>
-		<gioi_thieu>The small country Sunkwoll is in a tight spot because it's under attack of the great country Zarmine. But the general, Rain, who's reputed to be an exceptionally gifted swordsman, is against the war and won't enter the battle. But how is one supposed to wage a war like this anyway?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/rain-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kimi to kore kara" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, Shounen ai, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kimi to kore kara</ten_truyen>
-		<ma_truyen>kimi-to-kore-kara</ma_truyen>
-		<tac_gia>Yamamoto Kotetsuko</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/28219/3/200.jpg</hinh_nho>
-		<gioi_thieu>Here starts the Konya spinoff series, focusing more on Gorou and Verde! There's plenty of Endou and Rikiya as well, but this story will spend more time telling the story of these heretofore side characters. The story takes place immediately after the last Konya chapter, so you can think of this as Chapter 20, just less focus on Endo/Rikiya and more on Gorou/Verde.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/kimi-to-kore-kara-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gigant" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, School life, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gigant</ten_truyen>
-		<ma_truyen>gigant</ma_truyen>
-		<tac_gia>Oku Hiroya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/96/04/9604402428c74a40bce9f9d31ae89b5d05c4aa17_29170_200_310.jpg</hinh_nho>
-		<gioi_thieu>Yamada Yoko, a high school boy who has a movie producer father. One day, while out with friends to shoot a film that he plans to enter into a film festival, a poster of Papiko, an adult video actress with big breasts, catches his eye.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gigant-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
