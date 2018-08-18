@@ -711,15 +711,6 @@ Manga này được upload dành cho Trí Newton 535 đến từ Việt Nam thô
 *****</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/sailor-moon-viet.xml</file_xml>
 	</truyen>
-    <truyen ten="shingeki no kyojin" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Drama, Fantasy, Horror, Mature, Mystery, Psychological, Shounen., Tragedy" nhan_kieu_truyen="Kiểu" kieu_truyen="Manga">
-        <ten_truyen>shingeki no kyojin</ten_truyen>
-		<ma_truyen>shingeki-no-kyojin</ma_truyen>
-        <tac_gia>Isayame Hajime</tac_gia>
-        <tinh_trang>Tiếp tục</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/8972/1/200.jpg</hinh_nho>
-        <gioi_thieu>Hơn 100 năm trước, giống người khổng lồ Titan đã tấn công và đẩy loài người tới bờ vực tuyệt chủng. Những con người sống sót tụ tập lại, xây bao quanh mình 1 tòa thành 3 lớp kiên cố và tự nhốt mình bên trong để trốn tránh những cuộc tấn công của người khổng lồ. Họ tìm mọi cách để tiêu diệt người khổng lồ nhưng không thành công. Và sau 1 thế kỉ hòa bình, giống khổng lồ đã xuất hiện trở lại, một lần nữa đe dọa sự tồn vong của con người...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shingeki-no-kyojin-viet.xml</file_xml>
-    </truyen>
 	<truyen ten="shokugeki no soma" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Comedy, Drama, Ecchi, School life, Shounen." nhan_kieu_truyen="Kiểu" kieu_truyen="Manga">
 		<ten_truyen>shokugeki no soma</ten_truyen>
 		<ma_truyen>shokugeki-no-soma</ma_truyen>
@@ -855,15 +846,6 @@ Manga này được upload dành cho Grace đến từ Vương quốc Anh thông
 		<gioi_thieu>Tokyo Ghoul:RE là phần tiếp nối của Tokyo Ghoul, bối cảnh của truyện vẫn tập trung vào thành phố Tokyo, nơi những hiểm họa vẫn ngày đêm rập rình. Nơi đây, những sinh vật ăn thịt người bí ẩn, ghoul, đang hoành hành khắp thành phố. Ban ngày mất tăm mất tích, sự tồn tại của những con ghoul vẫn mãi là một bí ẩn, gieo rắc kinh hoàng cho dân chúng Tokyo. Tại CCG, cơ quan duy nhất điều tra và giải quyết các trường hợp liên quan tới lũ ghoul, Haise Sasaki đã được giao cho một nhiệm vụ. Trong khi phải xử lý bốn đứa trẻ ngang bướng “Quinx”, chuỗi ngày kinh khủng của Haise từ đó bắt đầu… </gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tokyo-ghoul-re-viet.xml</file_xml>
 	</truyen>
-    <truyen ten="tokyo ravens" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Comedy, Romance, School life, Shounen., Supernatural" nhan_kieu_truyen="Kiểu" kieu_truyen="Manga">
-		<ten_truyen>tokyo ravens</ten_truyen>
-		<ma_truyen>tokyo-ravens</ma_truyen>
-        <tac_gia>Azano Kouhei, Suzumi Atsushi</tac_gia>
-        <tinh_trang>Tiếp tục</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/10316/1/200.jpg</hinh_nho>
-        <gioi_thieu>Harutora, một nam sinh xuất thân từ một nhánh của gia tộc Tsuchimikado danh giá có truyền thống hành nghề pháp sư Onmyoudou. Thế nhưng do không có khả năng nhìn thấy năng lượng tâm linh nên cậu chỉ là một học sinh trung học bình thường. Cho đến khi Natsume, bạn thuở nhỏ của Harutora và là trưởng tộc tiếp theo của nhà Tsuchimikado, tái ngộ với Harutora và thay đổi tuơng lai của cậu ta.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tokyo-ravens-viet.xml</file_xml>
-    </truyen>
     <truyen ten="toriko" tinh_trang_truyen="het" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Adventure, Comedy, Fantasy, Sci-fi, Shounen." nhan_kieu_truyen="Kiểu" kieu_truyen="Manga">
         <ten_truyen>toriko</ten_truyen>
 		<ma_truyen>toriko</ma_truyen>
