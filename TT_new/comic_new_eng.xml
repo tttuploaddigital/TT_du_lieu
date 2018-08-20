@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="injustice vs. masters of the universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>injustice vs. masters of the universe</ten_truyen>
+		<ma_truyen>injustice-vs-masters-of-the-universe</ma_truyen>
+        <tac_gia>Tim Seeley, Freddie E. Williams II, Jeremy Colwell</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/injustice-vs-masters-of-the-universe/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Believing He-man and the Masters of the Universe defeated, a robotic impostor has seized control of Eternia-but not for long! After freeing his kingdom from this strongman's rule, Prince Adam learns not everyone is pleased to see the pretender deposed-but Adam knows the value of freedom. So when heroes from another dimension ask his aid in deposing a super-hero turned dictator, he agrees. Teaming up with Batman against the Superman of the Injustice Universe, He-man and his new allies face dangerous and familiar enemies in a battle where no world is safe!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/injustice-vs-masters-of-the-universe-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="multiple man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>multiple man</ten_truyen>
+		<ma_truyen>multiple-man</ma_truyen>
+        <tac_gia>Matthew Rosenburg, Andy MacDonald</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/multiple-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>MATTHEW ROSENBERG and ANDY MACDONALD BRING MULTIPLE MAN BACK FROM THE DEAD...SORT OF...MAYBE? A handful of people's favorite X-Man - Jamie Madrox - was alive for a while. Then he was dead. Now he's not. But he will be again if he doesn't kill himself trying to make sure he doesn't die. It makes sense when you read it. Trust us. In his fight to not die, Jamie has stumbled across a threat even greater than his own death, but fixing it might make it worse. Can he save the world from himself? On top of all that, the X-Men are mad at him now, and a mysterious new group of foes is after him, too. We can�t tell you who they are, but they're pretty great.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/multiple-man-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="revenge of wonderland" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>revenge of wonderland</ten_truyen>
+		<ma_truyen>revenge-of-wonderland</ma_truyen>
+        <tac_gia>Joe Brusha, Ralph Tedesco, Dave Franchini, Raven Gregory, Allan Otero, Grostieta</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/revenge-of-wonderland/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The realm of madness is back with a brand new twisted tale of love, loss and vengeance! It's been a long time since Alice Liddle's daughter, Calie, finally escaped the twisted world that her mother was pulled into many years before her. But the insanity of Wonderland has returned and this time around things are much more dangerous and horrifying than ever before. Originally the realm of dreams, but now a realm made up of nightmares, Wonderland has been purged of its original denizens and a new ruler has emerged. The Duchess has been kidnapping people from this world and re-shaping them in her image to use as her personal playthings. Can Calie and her daughter team up to stop a new madness from emerging from Wonderland and invading our world or is it too late to stop the inevitable? Find out here is this insane first issue of a whole new Wonderland!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/revenge-of-wonderland-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="fantastic four (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>fantastic four (2018)</ten_truyen>
 		<ma_truyen>fantastic-four-2018</ma_truyen>
@@ -90,7 +117,7 @@
         <gioi_thieu>Wasp was just trying to help Ant-Man get home to Earth to see his daughter...but a little problem got in the way. Very little. Subatomic, in fact, as Scott Lang was lost in the vast spaces between atoms! Now, Nadia is his only hope of rescue...if only he would listen long enough for her to save them!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ant-man-and-the-wasp-2018-eng.xml</file_xml>
     </truyen>
-	<truyen ten="teenage mutant ninja turtles universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Fantasy, Movies - tv, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="teenage mutant ninja turtles universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Fantasy, Movies-tv, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>teenage mutant ninja turtles universe</ten_truyen>
 		<ma_truyen>teenage-mutant-ninja-turtles-universe</ma_truyen>
         <tac_gia>Kevin Eastman, Paul Allor, Tom Waltz, Damian Couceiro, Bill Sienkiewicz, Freddie E. Williams</tac_gia>
@@ -306,7 +333,7 @@
         <gioi_thieu>Britt Reid Jr., the scion of the Daily Sentinel publishing empire, vanishes during a wild party on his friend's yacht. Meanwhile, crime spikes in the streets of Century City with the mysterious criminal/secret vigilante the Green Hornet absent. It's only a matter of time before SOMEONE puts two and two together, and it's up to Kato, former partner of Britt's father, and his daughter Mulan to protect the city AND the Green Hornet legacy, while finding out what happened to Britt. Amy Chu (Red Sonja, Poison Ivy, KISS) picks up where Kevin Smith left off with an action packed mystery.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/green-hornet-2018-eng.xml</file_xml>
     </truyen>
-	<truyen ten="james bond: the body" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Spy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="james bond: the body" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Spy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>james bond: the body</ten_truyen>
 		<ma_truyen>james-bond-the-body</ma_truyen>
         <tac_gia>Ales Kot, Luca Casalanguida</tac_gia>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/shadow-roads/1_medium.jpg</hinh_nho>
         <gioi_thieu>The world is thinnest at The Crossroads, a mythical plane that serves as a doorway throughout the universe. It is here that a band of adventurers throughout the Wild West gather, brought together by Gord Cantrell and Abigail Redmayne with a singular purpose: to fight back against the creatures that would endanger the sanctity of all creation.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shadow-roads-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="gasolina" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>gasolina</ten_truyen>
-		<ma_truyen>gasolina</ma_truyen>
-        <tac_gia>Sean Mackiewicz, Mat Lopes, Niko Walter</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/gasolina/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Fugitives. Rebels. Newlyweds. In their journey south from El Norte, Amalia and Randy have played many roles in order to survive. Now, they must become unlikely leaders in the fight against a new cartel who uses inhuman tactics to ignite the most monstrous war Mexico and the world has ever seen. Everything burns in this new series from SEAN MACKIEWICZ and NIKO WALTER, where love and devotion can only be measured in fire and blood.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gasolina-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="her infernal descent" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>her infernal descent</ten_truyen>
-		<ma_truyen>her-infernal-descent</ma_truyen>
-        <tac_gia>Lonnie Nadler, Zac Thompson, Kyle Charles, Ryan Ferrier</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/her-infernal-descent/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A tale of loss told in five parts. Any good mom would march through the inferno of HELL to get her family back. Unable to cope with the burden of grief, a middle-aged mom descends the nine circles of hell to retrieve her forsaken family. Guided by the ghosts of William Blake and Agatha Christie, this no-nonsense mother journeys deep into a bizarre underworld filled with celebrity sinners, surreal landscapes, and absurd tasks. HER INFERNAL DESCENT is a retelling of Dante's Inferno that updates the themes for a modern audience. From the writers of the break-out hit The Dregs, and the artist of Roche Limit, this is HELL like you've never seen before.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/her-infernal-descent-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="mata hari (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Fantasy, Leading ladies, Literature, Mature" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>mata hari (2018)</ten_truyen>
-		<ma_truyen>mata-hari-2018</ma_truyen>
-        <tac_gia>Emma Beeby, Ariela Kristantina, Pat Masioni</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/mata-hari-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Dancer. Courtesan. Spy. Executed by a French firing squad in 1917. 100 years on from her death, questions are still raised about her conviction. Now, the lesser-known, often tragic story of the woman who claimed she was born a princess, and died a figure of public hatred with no one to claim her body, is told by breakout talent writer Emma Beeby (Judge Dredd), artist Ariela Kristantina (Insexts), and colorist Pat Masioni drawing on biographies and released MI5 files. In this first part of a five-issue miniseries, we meet Mata Hari in prison at the end of her life as she writes her memoir--part romantic tale of a Javanese princess who performed 'sacred' nude dances for Europe's elite, and part real-life saga of a disgraced wife and mother, who had everything she loved taken from her. But, as she sits trial for treason and espionage, we hear another tale: one of a flamboyant Dutch woman who became 'the most dangerous spy France has ever captured' a double agent who whored herself for secrets, lived a life of scandal, and loved only money. Leading us to ask... who was the real Mata Hari?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mata-hari-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

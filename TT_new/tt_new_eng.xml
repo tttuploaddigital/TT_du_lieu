@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="injustice vs. masters of the universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>injustice vs. masters of the universe</ten_truyen>
+		<ma_truyen>injustice-vs-masters-of-the-universe</ma_truyen>
+        <tac_gia>Tim Seeley, Freddie E. Williams II, Jeremy Colwell</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/injustice-vs-masters-of-the-universe/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Believing He-man and the Masters of the Universe defeated, a robotic impostor has seized control of Eternia-but not for long! After freeing his kingdom from this strongman's rule, Prince Adam learns not everyone is pleased to see the pretender deposed-but Adam knows the value of freedom. So when heroes from another dimension ask his aid in deposing a super-hero turned dictator, he agrees. Teaming up with Batman against the Superman of the Injustice Universe, He-man and his new allies face dangerous and familiar enemies in a battle where no world is safe!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/injustice-vs-masters-of-the-universe-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="multiple man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>multiple man</ten_truyen>
+		<ma_truyen>multiple-man</ma_truyen>
+        <tac_gia>Matthew Rosenburg, Andy MacDonald</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/multiple-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>MATTHEW ROSENBERG and ANDY MACDONALD BRING MULTIPLE MAN BACK FROM THE DEAD...SORT OF...MAYBE? A handful of people's favorite X-Man - Jamie Madrox - was alive for a while. Then he was dead. Now he's not. But he will be again if he doesn't kill himself trying to make sure he doesn't die. It makes sense when you read it. Trust us. In his fight to not die, Jamie has stumbled across a threat even greater than his own death, but fixing it might make it worse. Can he save the world from himself? On top of all that, the X-Men are mad at him now, and a mysterious new group of foes is after him, too. We can�t tell you who they are, but they're pretty great.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/multiple-man-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="revenge of wonderland" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>revenge of wonderland</ten_truyen>
+		<ma_truyen>revenge-of-wonderland</ma_truyen>
+        <tac_gia>Joe Brusha, Ralph Tedesco, Dave Franchini, Raven Gregory, Allan Otero, Grostieta</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/revenge-of-wonderland/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The realm of madness is back with a brand new twisted tale of love, loss and vengeance! It's been a long time since Alice Liddle's daughter, Calie, finally escaped the twisted world that her mother was pulled into many years before her. But the insanity of Wonderland has returned and this time around things are much more dangerous and horrifying than ever before. Originally the realm of dreams, but now a realm made up of nightmares, Wonderland has been purged of its original denizens and a new ruler has emerged. The Duchess has been kidnapping people from this world and re-shaping them in her image to use as her personal playthings. Can Calie and her daughter team up to stop a new madness from emerging from Wonderland and invading our world or is it too late to stop the inevitable? Find out here is this insane first issue of a whole new Wonderland!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/revenge-of-wonderland-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="amano megumi wa suki darake!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>amano megumi wa suki darake!</ten_truyen>
 		<ma_truyen>amano-megumi-wa-suki-darake</ma_truyen>
@@ -306,7 +333,7 @@
         <gioi_thieu>Wasp was just trying to help Ant-Man get home to Earth to see his daughter...but a little problem got in the way. Very little. Subatomic, in fact, as Scott Lang was lost in the vast spaces between atoms! Now, Nadia is his only hope of rescue...if only he would listen long enough for her to save them!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ant-man-and-the-wasp-2018-eng.xml</file_xml>
     </truyen>
-	<truyen ten="teenage mutant ninja turtles universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Fantasy, Movies - tv, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="teenage mutant ninja turtles universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Fantasy, Movies-tv, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>teenage mutant ninja turtles universe</ten_truyen>
 		<ma_truyen>teenage-mutant-ninja-turtles-universe</ma_truyen>
         <tac_gia>Kevin Eastman, Paul Allor, Tom Waltz, Damian Couceiro, Bill Sienkiewicz, Freddie E. Williams</tac_gia>
@@ -378,31 +405,4 @@
 		<gioi_thieu>Shimodaira Kanna is a first year at Toritsu Toyose high school. He decides to be in the volley-ball club unfortunately, after an accident in middle school he can no longer jump. Despite being really good at serving he can't be on the regular team without jumping. How will he overcomes that problem?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/harigane-service-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="dansan joshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>dansan joshi</ten_truyen>
-		<ma_truyen>dansan-joshi</ma_truyen>
-		<tac_gia>Mizu Asato</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/37423/1/200.jpg</hinh_nho>
-		<gioi_thieu>This manga follows the story of 7 high school students, 3 boys and 4 girls in year 1 class A. Their not-so-ordinary ways of thinking and everyday lives are loaded with comedy, dirty jokes. At times, debating about how to use a toilet, at other times, risking their lives over growing body hair in unusual places!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dansan-joshi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="infinity countdown: black widow" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity countdown: black widow</ten_truyen>
-		<ma_truyen>infinity-countdown-black-widow</ma_truyen>
-        <tac_gia>Gerry Duggan, Nik Virella, Yasmine Putri</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-countdown-black-widow/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Given the incredibly powerful Space Stone to look after by an old friend, Black Widow has no intention of letting it fall into the wrong hands... but is even the top espionage agent in the world ready to handle cosmic responsibility?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-countdown-black-widow-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="quicksilver: no surrender" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>quicksilver: no surrender</ten_truyen>
-		<ma_truyen>quicksilver-no-surrender</ma_truyen>
-        <tac_gia>Saladin Ahmed, Eric Nguyen</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/q/quicksilver-no-surrender/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Quicksilver's super-speed and abrasive personality have always isolated him, but he's never been truly alone... until now. Trapped beyond the perception of friends, family and allies, Quicksilver wages a one-man guerilla war against a monster that he's not even sure is real, to save a world that he may never be a part of again. Saladin Ahmed (BLACK BOLT) and Eric Nguyen (OLD MAN LOGAN) team up to bring you a psychedelic survival thriller unlike anything you've seen before!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quicksilver-no-surrender-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
