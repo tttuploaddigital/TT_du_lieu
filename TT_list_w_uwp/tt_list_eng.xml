@@ -201,7 +201,7 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>Reana lives peacefully in a small town deep in the province of the Earthside Kingdom. She has a loving father, an interesting job and the childlike trust in the people around her... But everything changes after she encounters a dying dragon. He is the last one of his kind and possesses the power which can shake the world - what a great titbit for others! And so Reana is thrown into turmoil, into the desperate search for answers - while the hunt after her begins.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/abide-in-the-wind-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="accell" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="accell" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>accell</ten_truyen>
 		<ma_truyen>accell</ma_truyen>
         <tac_gia>Joe Casey, Robert Campanella, Damion Scott</tac_gia>
@@ -867,7 +867,7 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <gioi_thieu>No one has ever stopped the Caped Crusader. Not The Joker. Not Two-Face. Not even the entire Justice League. But how does Batman confront a new hero who wants to save the city from the Dark Knight?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-2016-eng.xml</file_xml>
     </truyen>
-	<truyen ten="batman / teenage mutant ninja turtles ii" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Movies - tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="batman / teenage mutant ninja turtles ii" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Movies-tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batman / teenage mutant ninja turtles ii</ten_truyen>
 		<ma_truyen>batman-teenage-mutant-ninja-turtles-ii</ma_truyen>
         <tac_gia>James Tynion IV, Freddie E. Williams II, Jeremy Colwell</tac_gia>
@@ -1536,7 +1536,7 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>The forces of magic have returned-and this time no magical being is safe! Aspen's magical action-adventure series returns for its epic third volume! Las Vegas magician Hank Medley and his talking cat Sparkles attempt to put the pieces of their life back together, as society has taken a hardline approach to magic and its destructive results. Meanwhile, Sudana uncovers a more sinister plot brewing in the confines of a secret Government's facility in the Nevada desert, as a new form of magic is taking shape that will not only spell the end for mankind-but also magical beings everywhere! The age of the Magic Harvester has arrived!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/charismagic-2018-eng.xml</file_xml>
     </truyen>
-	<truyen ten="charmed (2017)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="charmed (2017)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>charmed (2017)</ten_truyen>
 		<ma_truyen>charmed-2017</ma_truyen>
         <tac_gia>Erica Shultz, M.L. Sanapo</tac_gia>
@@ -2790,7 +2790,7 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>Gisin, who appeared suddenly like a ghost, said something ridiculous like do you want to be my wife... Soon after, ghosts became visible to Eunah and started to chase after her wanting to eat her.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/ghost-wife-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="ghostbusters: crossing over" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Horror, Movies - tv, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="ghostbusters: crossing over" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Horror, Movies-tv, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>ghostbusters: crossing over</ten_truyen>
 		<ma_truyen>ghostbusters-crossing-over</ma_truyen>
         <tac_gia>Erik Burnham, Dan Schoening</tac_gia>
@@ -3654,6 +3654,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>Superman is in prison, as are most of the founding members of the regime. Adamant as ever, the man of steel blames Batman for his failures, and rants about how his actions will allow crime and corruption to return to the world. However, the universe is a alot bigger than two men on a small planet; there are otherworldly forces at work that wish to conquer their little home in the cosmos. Will they allow their personal greivances to get in the way of that which is most important -- protecting the Earth?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/injustice-2-eng.xml</file_xml>
     </truyen>
+	<truyen ten="injustice vs. masters of the universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>injustice vs. masters of the universe</ten_truyen>
+		<ma_truyen>injustice-vs-masters-of-the-universe</ma_truyen>
+        <tac_gia>Tim Seeley, Freddie E. Williams II, Jeremy Colwell</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/injustice-vs-masters-of-the-universe/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Believing He-man and the Masters of the Universe defeated, a robotic impostor has seized control of Eternia-but not for long! After freeing his kingdom from this strongman's rule, Prince Adam learns not everyone is pleased to see the pretender deposed-but Adam knows the value of freedom. So when heroes from another dimension ask his aid in deposing a super-hero turned dictator, he agrees. Teaming up with Batman against the Superman of the Injustice Universe, He-man and his new allies face dangerous and familiar enemies in a battle where no world is safe!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/injustice-vs-masters-of-the-universe-eng.xml</file_xml>
+    </truyen>
     <truyen ten="injustice: gods among us: year 1" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>injustice: gods among us: year 1</ten_truyen>
 		<ma_truyen>injustice-gods-among-us-year-1</ma_truyen>
@@ -3846,7 +3855,7 @@ This manga upload for Rocío Yael from Argentina via request manga on Windows st
 		<gioi_thieu>Shintarou Jagasaki, who is a neighborhood police officer, lives with his girlfriend while working a job that is killing him slowly with annoyance. It looks like he will end up marrying soon and live a boring life with a nuclear family - a grim future for a guy with dreams! One such day, a mysterious monster appeared on the train and he suddenly can shoot with his right hand like Master Buppanatsu, the eggplant mascot of his city!</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jagaaaaaan-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="james bond: service special" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Spy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="james bond: service special" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Spy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>james bond: service special</ten_truyen>
 		<ma_truyen>james-bond-service-special</ma_truyen>
         <tac_gia>Kieron Gillen, Antonio Fuso</tac_gia>
@@ -3855,7 +3864,7 @@ This manga upload for Rocío Yael from Argentina via request manga on Windows st
         <gioi_thieu>In contemporary politics, where Britain's world standing is often more zero than 007, an assassin plans to exterminate the 'special relationship,' and lead Britain and the United States into a very dark place... especially when he does so by aiming down the sights of an ancient Enfield rifle! It'll test Bond's deadly talents to their limits, in order to defeat the assassin and avert certain geopolitical disaster...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/james-bond-service-special-eng.xml</file_xml>
     </truyen>
-	<truyen ten="james bond: the body" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Spy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="james bond: the body" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Spy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>james bond: the body</ten_truyen>
 		<ma_truyen>james-bond-the-body</ma_truyen>
         <tac_gia>Ales Kot, Luca Casalanguida</tac_gia>
@@ -4266,7 +4275,7 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>Keita has two older (not blood-related) twin step-sisters who love him in a lustful way and have no problems expressing it. They even like to compete about it; much to the laughter of his friends (which he usually endures without problems). One day they come to his school to give him his lunch, resulting in him getting angry due to the atmosphere. To counteract his anger, they confess their tender feelings for him in front of everyone and leave. Feeling sorry he chases after them and says that he'll study hard in order to get in the same high school as them.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kiss-x-sis-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="kiss/army of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Movies - tv, Music" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="kiss/army of darkness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Movies-tv, Music" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>kiss/army of darkness</ten_truyen>
 		<ma_truyen>kiss-army-of-darkness</ma_truyen>
         <tac_gia>Chad Bowers, Chris Sims, Ruairi Coleman</tac_gia>
@@ -5043,6 +5052,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>Set during the Goryeo military regime, a hero that arises from a slave to be reborn as a general.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/mujang-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="multiple man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>multiple man</ten_truyen>
+		<ma_truyen>multiple-man</ma_truyen>
+        <tac_gia>Matthew Rosenburg, Andy MacDonald</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/multiple-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>MATTHEW ROSENBERG and ANDY MACDONALD BRING MULTIPLE MAN BACK FROM THE DEAD...SORT OF...MAYBE? A handful of people's favorite X-Man - Jamie Madrox - was alive for a while. Then he was dead. Now he's not. But he will be again if he doesn't kill himself trying to make sure he doesn't die. It makes sense when you read it. Trust us. In his fight to not die, Jamie has stumbled across a threat even greater than his own death, but fixing it might make it worse. Can he save the world from himself? On top of all that, the X-Men are mad at him now, and a mysterious new group of foes is after him, too. We can’t tell you who they are, but they're pretty great.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/multiple-man-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="murenase! shiiton gakuen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>murenase! shiiton gakuen</ten_truyen>
 		<ma_truyen>murenase-shiiton-gakuen</ma_truyen>
@@ -5415,7 +5433,7 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>Erika lied to her friends about having a boyfriend by showing a picture of an annonymous guy who turned out to be a a schoolmate of hers and was shortly recognized by her friends. Their conversations then was overheard by the guy, Sata Kyouya. Erika went to explain and proposed her idea of faking as lovers. However, Sata who gave off the nice-charming feelings guy turns out to be a black prince and used her reasons to blackmail her instead.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ookami-shoujo-to-kuro-ouji-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="optimus prime" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="optimus prime" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mecha, Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>optimus prime</ten_truyen>
 		<ma_truyen>optimus-prime</ma_truyen>
         <tac_gia>John Barber, Kei Zama</tac_gia>
@@ -5685,7 +5703,7 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <gioi_thieu>4.243 light-years from Earth, the teenage wizard adventurer Sherwood Breadcoat is stuck in the confounding spectral zone on the manufactured dimensional sphere, Proxima Centauri, looking for escape and a way back to his brother while dealing with his confusing emotions, alien creatures, and all sorts of unknown, fantastic dangers.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/proxima-centauri-eng.xml</file_xml>
     </truyen>
-	<truyen ten="pumpkinhead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror, Movies - tv, Mythology" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="pumpkinhead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror, Movies-tv, Mythology" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>pumpkinhead</ten_truyen>
 		<ma_truyen>pumpkinhead</ma_truyen>
         <tac_gia>Cullen Bunn, Blacky Shepherd, Kyle Strahm</tac_gia>
@@ -5949,6 +5967,15 @@ This manga upload for Sie Per from Vietnam via request manga on website winphone
 		<gioi_thieu>Nozomi has been in love with her senpai for years. She tries to get into the same university as he to confess her feeling, only to find him in a relationship with another girl. To make matters worst, she's being pushed by a guy named Atsushi, the younger brother of the girlfriend of her unrequited love, to confess quickly so the couple would break up.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/renai-metro-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="revenge of wonderland" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>revenge of wonderland</ten_truyen>
+		<ma_truyen>revenge-of-wonderland</ma_truyen>
+        <tac_gia>Joe Brusha, Ralph Tedesco, Dave Franchini, Raven Gregory, Allan Otero, Grostieta</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/revenge-of-wonderland/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The realm of madness is back with a brand new twisted tale of love, loss and vengeance! It's been a long time since Alice Liddle's daughter, Calie, finally escaped the twisted world that her mother was pulled into many years before her. But the insanity of Wonderland has returned and this time around things are much more dangerous and horrifying than ever before. Originally the realm of dreams, but now a realm made up of nightmares, Wonderland has been purged of its original denizens and a new ruler has emerged. The Duchess has been kidnapping people from this world and re-shaping them in her image to use as her personal playthings. Can Calie and her daughter team up to stop a new madness from emerging from Wonderland and invading our world or is it too late to stop the inevitable? Find out here is this insane first issue of a whole new Wonderland!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/revenge-of-wonderland-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="rikudou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mature, Psychological, Romance, School life, Seinen, Sports, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>rikudou</ten_truyen>
 		<ma_truyen>rikudou</ma_truyen>
@@ -5976,7 +6003,7 @@ This manga upload for Sie Per from Vietnam via request manga on website winphone
 		<gioi_thieu>Shimonone Takara, a young weird healthy boy, always wanted to become a so called 'Stranger'. 'Strangers' are people, who are able to use an extraordinary power, which 'normal' people can't use. One day, a woman named Aria approaches Takara. She belongs to the organization, which is responsible for managing the 'Strangers', because sometimes those Strangers become a serious threat to humanity. What does she want from him? Will Takara succesfully become a 'Stranger'?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/rising-x-rydeen-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="robocop: citizens arrest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="robocop: citizens arrest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>robocop: citizens arrest</ten_truyen>
 		<ma_truyen>robocop-citizens-arrest</ma_truyen>
         <tac_gia>Brian Wood, Jorge Coelho</tac_gia>
@@ -5985,7 +6012,7 @@ This manga upload for Sie Per from Vietnam via request manga on website winphone
         <gioi_thieu>Brian Wood, the visionary writer behind DMZ and Briggs Land, and Jorge Coelho (Venom, Rocket Raccoon) present a provocative vision of a future where justice is crowdsourced... and lethal. It's been decades since the RoboCop program first began. Corporations have taken over the schools and the government and law enforcement is the biggest private contract of all. Traditional police forces no longer exist as all citizens are encouraged-and rewarded-to spy on their neighbors. There is only one authority on the streets: ROBOCOP.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robocop-citizens-arrest-eng.xml</file_xml>
     </truyen>
-	<truyen ten="robotech (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Mecha, Movies - tv, Romance, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="robotech (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Mecha, Movies-tv, Romance, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>robotech (2017)</ten_truyen>
 		<ma_truyen>robotech-2017</ma_truyen>
         <tac_gia>Brian Wood, Marco Turini, Marco Lesko, John Workman</tac_gia>
@@ -6435,7 +6462,7 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
 		<gioi_thieu>Even if people are born with super powers, they must serve as sidekicks of superheroes in order to become superheroes themselves. Dream Girl has the power to make people fall asleep. She is the sidekick of Darkslug, who is not a great hero compared to his reputation. One day, Dream Girl and Theo work together to get rid of villains and save the world.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/sidekicks-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="sideways" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="sideways" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>sideways</ten_truyen>
 		<ma_truyen>sideways</ma_truyen>
         <tac_gia>Dan Didio, Justin Jordan, Kenneth Rocafort, Dan Brown</tac_gia>
@@ -6606,7 +6633,7 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
         <gioi_thieu>The Webbed Wonder and the Merc with a Mouth are teaming up for their first ongoing series EVER! It's action, adventure and just a smattering of (b) romance in this episodic epic featuring the WORLD'S GREATEST SUPER HERO and the star of the WORLD'S GREATEST COMICS MAGAZINE. Talk about a REAL dynamic duo!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-man-deadpool-eng.xml</file_xml>
     </truyen>
-	<truyen ten="spider-man: homecoming prelude" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="spider-man: homecoming prelude" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>spider-man: homecoming prelude</ten_truyen>
 		<ma_truyen>spider-man-homecoming-prelude</ma_truyen>
         <tac_gia>Will Corona Pilgrim, Todd Nauck</tac_gia>
@@ -6678,7 +6705,7 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
         <gioi_thieu>Meet Emma London: recovery artist and bounty hunter for hire. She is strong, possibly indomitable, and did we mention...part machine. Emma is the type that dives head first into things that most wouldn't and shouldn't. Those dark places that no one else will go to track down the subhuman criminals lurking in the underbelly of society and brings them to justice. STAINED first comes to life with Emma trying to take down a pair of international diamond smugglers. Emma's story explodes forward when initially what was thought to be a hunt for priceless painting with a record high bounty, leads her to something darker and more monstrous than she could have ever imagined.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/stained-eng.xml</file_xml>
     </truyen>
-	<truyen ten="star trek: boldly go" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Movies - tv, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="star trek: boldly go" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Movies-tv, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>star trek: boldly go</ten_truyen>
 		<ma_truyen>star-trek-boldly-go</ma_truyen>
         <tac_gia>George Clatsoudas, Mike Johnson, Tony Shasteen</tac_gia>
@@ -6687,7 +6714,7 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
         <gioi_thieu>STAR TREK's 50th Anniversary Celebration continues with this all-new series following the adventures of Captain Kirk and the iconic crew! New worlds! New species! New ships! And a new danger unlike anything the Federation has encountered before! Boldly go into a new era of STAR TREK!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-trek-boldly-go-eng.xml</file_xml>
     </truyen>
-	<truyen ten="star trek: discovery: succession" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="star trek: discovery: succession" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>star trek: discovery: succession</ten_truyen>
 		<ma_truyen>star-trek-discovery-succession</ma_truyen>
         <tac_gia>Kirsten Beyer, Mike Johnston, Angel Hernandez</tac_gia>
@@ -6714,7 +6741,7 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
         <gioi_thieu>THE GREATEST SPACE ADVENTURE OF ALL TIME RETURNS TO MARVEL! Luke Skywalker and the ragtag band of rebels fighting against the Galactic Empire are fresh off their biggest victory yet-the destruction of the massive battle station known as the Death Star. But the Empire's not toppled yet!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
     </truyen>
-	<truyen ten="star wars adventures (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="star wars adventures (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>star wars adventures (2017)</ten_truyen>
 		<ma_truyen>star-wars-adventures-2017</ma_truyen>
         <tac_gia>Cavan Scott, Jon Sommariva, Derek Charm</tac_gia>
@@ -6723,7 +6750,7 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
         <gioi_thieu>Introducing an exciting new era in all-ages Star Wars comics! Each issue in this monthly series will feature two stories, starring your favorite Star Wars characters from all the films! This debut issue will reveal Rey's early adventures on Jakku as well as a comical tale of clone catastrophe!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-adventures-2017-eng.xml</file_xml>
     </truyen>
-	<truyen ten="star wars: darth maul (2017)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="star wars: darth maul (2017)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>star wars: darth maul (2017)</ten_truyen>
 		<ma_truyen>star-wars-darth-maul-2017</ma_truyen>
         <tac_gia>Cullen Bunn, Luke Ross, Rod Reis</tac_gia>
@@ -6732,7 +6759,7 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
         <gioi_thieu>Bred on hate, fear, and anger…steeped in the ways of darkness…and trained to kill. Darth Maul's time as apprentice to Darth Sidious has long been cloaked in shadows, but at last we will reveal his tale of revenge. From writer Cullen Bunn (DEADPOOL KILLS THE MARVEL UNIVERSE, WOLVERINE) and artist Luke Ross (STAR WARS: THE FORCE AWAKENS, HERCULES) comes a tale of rage unleashed as Darth Maul prepares for his first encounter with the Jedi.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/star-wars-darth-maul-2017-eng.xml</file_xml>
     </truyen>
-	<truyen ten="star wars: darth vader (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="star wars: darth vader (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>star wars: darth vader (2017)</ten_truyen>
 		<ma_truyen>star-wars-darth-vader-2017</ma_truyen>
         <tac_gia>Charles Soule, Giuseppe Camuncoli, Jim Cheung</tac_gia>
@@ -6741,7 +6768,7 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
         <gioi_thieu>The most fearsome villain of all time returns with an all-new series! When Anakin Skywalker fell, both to the pull of the dark side and to the blade of Obi-Wan Kenobi, he rose back up, more machine than man. Having lost everything that was once dear to him, the former chosen one must take his first steps into a darker world...as Darth Vader, Dark Lord of the Sith!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-darth-vader-2017-eng.xml</file_xml>
     </truyen>
-	<truyen ten="star wars: doctor aphra" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="star wars: doctor aphra" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>star wars: doctor aphra</ten_truyen>
 		<ma_truyen>star-wars-doctor-aphra</ma_truyen>
         <tac_gia>Kieron Gillen, Salvador Larroca, Kev Walker</tac_gia>
@@ -6750,7 +6777,7 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
         <gioi_thieu>Because you demanded it! Following the blockbuster finale of the critically acclaimed Darth Vader series, the fan-favorite character begins an all-new journey! Following her time in the clutches of the Dark Lord of the Sith, Doctor Aphra has barely escaped with her life. If Vader ever learns of her survival, he'll hunt her to the ends of the galaxy. But for now, it's time to return to what she does best. With the droids 0-0-0 and BT-1 in tow, she's off in search of rare artifacts from the galactic center to the Outer Rim and everywhere in between.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-doctor-aphra-eng.xml</file_xml>
     </truyen>
-	<truyen ten="star wars: the last jedi adaptation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="star wars: the last jedi adaptation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>star wars: the last jedi adaptation</ten_truyen>
 		<ma_truyen>star-wars-the-last-jedi-adaptation</ma_truyen>
         <tac_gia>Gary Whitta, Michael Walsh</tac_gia>
@@ -6759,7 +6786,7 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
         <gioi_thieu>The Resistance has found Luke Skywalker! But the First Order is hot on their tail... and they are out for blood. Join writer Gary Whitta (ROGUE ONE: A STAR WARS STORY) and artist Michael Walsh (STAR WARS ANNUAL, HAWKEYE and THE VISION) as they take on the adventures of Force prodigy Rey, ace pilot Poe Dameron, and ex-First Order recruit Finn from the hit blockbuster STAR WARS: THE LAST JEDI - featuring never-before-seen scenes of your favorite characters!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-the-last-jedi-adaptation-eng.xml</file_xml>
     </truyen>
-	<truyen ten="star wars: thrawn" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="star wars: thrawn" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>star wars: thrawn</ten_truyen>
 		<ma_truyen>star-wars-thrawn</ma_truyen>
         <tac_gia>Jody Houser, Luke Ross, Paul Renaud</tac_gia>
@@ -6768,7 +6795,7 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
         <gioi_thieu>One of the most cunning and ruthless minds in all of the Star Wars, Grand Admiral Thrawn is back with his own six-issue miniseries! Written by Jody Houser (ROGUE ONE ADAPTATION) and drawn by Luke Ross (STAR WARS: DARTH MAUL, STAR WARS: THE FORCE AWAKENS ADAPTATION), follow the comic adaptation of Timothy Zahn's New York Times best-selling novel about Thrawn's rise in the Imperial ranks, on his way to becoming one of the most feared military tacticians in the galaxy far, far away.!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/star-wars-thrawn-eng.xml</file_xml>
     </truyen>
-	<truyen ten="stargate universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="stargate universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>stargate universe</ten_truyen>
 		<ma_truyen>stargate-universe</ma_truyen>
         <tac_gia>Mark Haynes, J.C. Vaughn, Giancarlo Caracuzzo, Chris Scalf, Gene Jimenez</tac_gia>
@@ -7038,7 +7065,7 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <gioi_thieu>The Teen Titans are farther apart than ever before...until Damian Wayne recruits Starfire, Raven, Beast Boy and the new Kid Flash to join him in a fight against his own grandfather, Ra's al Ghul! But true leadership is more than just calling the shots-is Robin really up to the task? Or will the Teen Titans dismiss this diminutive dictator?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teen-titans-2016-eng.xml</file_xml>
     </truyen>
-	<truyen ten="teenage mutant ninja turtles universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Fantasy, Movies - tv, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="teenage mutant ninja turtles universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Fantasy, Movies-tv, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>teenage mutant ninja turtles universe</ten_truyen>
 		<ma_truyen>teenage-mutant-ninja-turtles-universe</ma_truyen>
         <tac_gia>Kevin Eastman, Paul Allor, Tom Waltz, Damian Couceiro, Bill Sienkiewicz, Freddie E. Williams</tac_gia>
@@ -7047,7 +7074,7 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <gioi_thieu>Introducing a new era in TMNT! This series will explore characters and story-lines that are pivotal to the IDW TMNT universe! When a mysterious new mutant targets Baxter Stockman, it will be up to the TMNT to reluctantly save him. Little does everyone know that a larger trap is being laid by a new arch-foe! Plus a back-up story from TMNT co-creator Kevin Eastman and comics legend Bill Sienkiewicz!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teenage-mutant-ninja-turtles-universe-eng.xml</file_xml>
     </truyen>
-	<truyen ten="teenage mutant ninja turtles: urban legends" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Martial arts, Movies - tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="teenage mutant ninja turtles: urban legends" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Martial arts, Movies-tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>teenage mutant ninja turtles: urban legends</ten_truyen>
 		<ma_truyen>teenage-mutant-ninja-turtles-urban-legends</ma_truyen>
         <tac_gia>Gary Carlson, Frank Fosco</tac_gia>
@@ -7911,7 +7938,7 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <gioi_thieu>What do you desire? Fortune? Glory? Power? Revenge? Or something that surpasses all others? Whatever you desire, 'that' is here. Tower of God.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/tower-of-god-eng.xml</file_xml>
     </truyen>
-	<truyen ten="transformers annual" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="transformers annual" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mecha, Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>transformers annual</ten_truyen>
 		<ma_truyen>transformers-annual</ma_truyen>
         <tac_gia>John Barber, Priscilla Tramontano</tac_gia>
@@ -7920,7 +7947,7 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <gioi_thieu>GHOST STORIES! Optimus Prime returns to Cybertron only to be confronted by his rival for the Matrix, Pyra Magna! As Pyra's origin before she was part of Victorion—is finally revealed, Optimus relives his own past—the first time he met Bumblebee!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/transformers-annual-eng.xml</file_xml>
     </truyen>
-	<truyen ten="transformers: lost light" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="transformers: lost light" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mecha, Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>transformers: lost light</ten_truyen>
 		<ma_truyen>transformers-lost-light</ma_truyen>
         <tac_gia>James Roberts, Jack Lawrence</tac_gia>
@@ -7929,7 +7956,7 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <gioi_thieu>Five years ago, Rodimus and a collection of traumatised, lovelorn and/or sarcastic Autobots set off on a quest to find Cyberutopia. So far, they've made a right hash of it. They've misplaced their map. They've lost their ship, the Lost Light, to a mutinous escapologist. Oh, and they're dead.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-lost-light-eng.xml</file_xml>
     </truyen>
-	<truyen ten="transformers: salvation" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="transformers: salvation" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>transformers: salvation</ten_truyen>
 		<ma_truyen>transformers-salvation</ma_truyen>
         <tac_gia>John Barber, Livio Ramondelli</tac_gia>
@@ -7938,7 +7965,7 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <gioi_thieu>Exiled from civilization, the Dinobots are the last line of defense against the ultimate Cybertronian dinosaur—Trypticon! But how much are the Dinobots willing to sacrifice for a world that hates them?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/transformers-salvation-eng.xml</file_xml>
     </truyen>
-	<truyen ten="transformers: unicron" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies - tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="transformers: unicron" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>transformers: unicron</ten_truyen>
 		<ma_truyen>transformers-unicron</ma_truyen>
         <tac_gia>John Barber, Alex Milne</tac_gia>
@@ -8136,7 +8163,7 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
 		<gioi_thieu>In the decade since the world became aware of the existence of magic, the world has undergone massive upheaval. However, a boy named Touta lives in seclusion in a rural town far removed from these changes. His ordinary life is highlighted by his magic-using female teacher and his supportive friends. When his tranquil daily life is disrupted, he embarks on a unique adventure.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/uq-holder-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="urami koi, koi, urami koi." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Romance, Shounen., Supernatural, Suspense, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+	<truyen ten="urami koi, koi, urami koi." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Romance, Shounen., Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>urami koi, koi, urami koi.</ten_truyen>
 		<ma_truyen>urami-koi-koi-urami-koi</ma_truyen>
 		<tac_gia>Akitaka</tac_gia>
@@ -8280,7 +8307,7 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <gioi_thieu>SERIES PREMIERE Daisy Jane and Rock Bradley were two of the most notorious bank robbers in the American Southwest. And then they fell in love. Join FRANK J. BARBIERE (FIVE GHOSTS, The Revisionist) and VICTOR SANTOS (THE MICE TEMPLAR, Polar) for a pulp-infused criminal romance oozing with style and action! Double-sized debut issue!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/violent-love-eng.xml</file_xml>
     </truyen>
-	<truyen ten="voltron legendary defender (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mecha, Movies - tv, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="voltron legendary defender (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mecha, Movies-tv, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>voltron legendary defender (2017)</ten_truyen>
 		<ma_truyen>voltron-legendary-defender-2017</ma_truyen>
         <tac_gia>Tim Hendrick, Mitch Iverson, Jung Gwan Yoo, Ji In Choi</tac_gia>
@@ -8643,7 +8670,7 @@ This comic upload for Jitender Kumar via request comic by send email to tttdigit
         <gioi_thieu>'Born under the oppressive thumb of the Roman Empire, Aric of Dacia learned warfare at an early age. It was amid such violence that he was abducted by an alien race. Forced into slavery, he survived where others perished. His escape would come from bonding with a weapon of immeasurable power: the X-O Manowar armor. With it, he returned to Earth... only to find himself stranded in the modern day. But that was a lifetime ago. Now, far from home on a strange and primitive new world, Aric has begun a new life. Liberated from his past, he tends to his crops. Free from war. Free from violence. Free from the armor. But the machinery of death marches his way once again. Conscripted into an alien army and thrown into an unforgiving conflict, the fury inside him finds voice as he is forced to embrace the armor once more. With it, he will decimate armies, topple empires and incite interplanetary warfare as he rises from SOLDIER to GENERAL to EMPEROR to VISIGOTH. They wanted a weapon. He will give them war!'</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-o-manowar-2017-eng.xml</file_xml>
     </truyen>
-	<truyen ten="xena: warrior princess (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Movies - tv" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="xena: warrior princess (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Movies-tv" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>xena: warrior princess (2018)</ten_truyen>
 		<ma_truyen>xena-warrior-princess-2018</ma_truyen>
         <tac_gia>Meredith Finch, Vicente Cifuentes</tac_gia>
@@ -8832,7 +8859,7 @@ This comic upload for Jitender Kumar via request comic by send email to tttdigit
 		<gioi_thieu>In the 1950s, an old woman was brutally murdered on the face of a clock tower by her adopted daughter. Two years later, the clock tower is known as the 'ghost tower' and it is supposedly haunted. Through an unusual series of events, a young NEET man named Amano Taichi is attacked by someone or something in the same clock tower, and finds himself bound to the clock face to be killed in the same way as the old woman. Luckily for Amano, he doesn't meet the same fate. He's rescued by a mysterious person who claims his name is Tetsuo. Tetsuo is searching for a treasure that is connected with the ghost tower, and he wants Taichi to be his partner. Taichi, whose life has mostly consisted of poverty, loneliness, and pornography, is enticed by the idea of gaining extreme wealth. He's further convinced when a house fire leaves him without a home and depends on Tetsuo's charity. The adventure is going to be very dangerous, since the same 'enemies' who attacked Taichi before seem certain to try something again! Not to mention, Taichi really knows very little about his new partner.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/yuureitou-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="z nation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Movies - tv, Zombies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="z nation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Movies-tv, Zombies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>z nation</ten_truyen>
 		<ma_truyen>z-nation</ma_truyen>
         <tac_gia>Craig Engler, Fred Van Lente, Edu Menna</tac_gia>
