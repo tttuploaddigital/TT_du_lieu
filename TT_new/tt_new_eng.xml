@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="mr. and mrs. x" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>mr. and mrs. x</ten_truyen>
+		<ma_truyen>mr-and-mrs-x</ma_truyen>
+        <tac_gia>Kelly Thompson, Oscar Bazaldua</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mr-and-mrs-x/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Straight from the pages of X-MEN GOLD... to the surprise of everyone, the Marvel Universe's hottest couple has finally tied the knot! In their extraordinary lives, they've faced nearly every challenge imaginable, but how will they fare against former flames making trouble? An entire galaxy in jeopardy? You want it? We got it, as Kelly Thompson (HAWKEYE, ROGUE and GAMBIT) and Oscar Bazaldua (SPIDER-MAN, STAR WARS: ROGUE ONE) bring you the tantalizing tale of a modern marriage... X-MEN STYLE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mr-and-mrs-x-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the silencer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the silencer</ten_truyen>
+		<ma_truyen>the-silencer</ma_truyen>
+        <tac_gia>Dan Abnett, John Romita Jr., Sandra Hope</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-silencer/1_medium.jpg</hinh_nho>
+        <gioi_thieu>She's one of the DC Universe's deadliest assassins... and you've never heard of her. Super-strong, highly trained, armed with devastating and stealthy meta-human abilities, the Silencer is virtually invincible. Or at least she was. After decades as Leviathan's chief assassin, Honor Guest put in her time and managed to get out with her skin intact. Now she lives a normal life with a normal family in a normal house on a normal street. But the past has come back to haunt her in the form of her old employer and a deadly new mission... and Talia Al Ghul won't take no for an answer.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-silencer-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the punisher (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the punisher (2018)</ten_truyen>
+		<ma_truyen>the-punisher-2018</ma_truyen>
+        <tac_gia>Matt Rosenberg, Szymon Kudranski</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/punisher-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>YOU CAN TAKE THE PUNISHER OUT OF THE WAR MACHINE... Punisher no longer has the War Machine armor, but he retained his newly acquired taste for big game, and he's hungry for more. However, the paths to such perilous pursuits are fraught with dangers bigger than any Frank has faced before, and this lone wolf could use otherworldly help on his way up to the world stage.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-punisher-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="eden's zero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>eden's zero</ten_truyen>
 		<ma_truyen>eden-s-zero</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/d/deep-roots/1_medium.jpg</hinh_nho>
         <gioi_thieu>Roots, once suffocating under cement, tear through the streets of London to throttle buildings. Vegetable homunculi hold up banks with automatic weapons. There is a green and blooming world beyond our own, fighting back against the human pollutant. We will launch a rescue mission to this Otherworld. But it is cruel and unknowable, and should we become tangled in its vines, more than cities will fall. From Dan Watters (Limbo, The Shadow, Assassin's Creed) and Val Rodrigues comes a story of two worlds, of myth and man, of science and fiction, and the roots they share.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deep-roots-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="kick-ass (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>kick-ass (2018)</ten_truyen>
-		<ma_truyen>kick-ass-2018</ma_truyen>
-        <tac_gia>Mark Millar, John Romita Jr.</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/k/kick-ass-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>KICK-ASS IS BACK-ready to wipe out the city's criminal lowlives, destroy its gangs, and save its communities from decay. But there's a new face beneath the old mask, a new figure wearing that famous green and yellow spandex. Who is this new vigilante superhero? Who can fill Dave Lizewski's shoes? WHO IS THE NEW KICK-ASS? Find out in the first issue of this new, ongoing monthly series. Comic book legends MARK MILLAR and JOHN ROMITA, JR. reunite for the next chapter of the greatest superhero comic of all time.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kick-ass-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="death of love" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>death of love</ten_truyen>
-		<ma_truyen>death-of-love</ma_truyen>
-        <tac_gia>Justin Jordan, Donal Delay, Omar Trucu Estevez</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/death-of-love/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Love sucks. Philo Harris is going to do something about it. After gaining the ability to see the Cupidae that make love work-after a particularly bad drunken decision-Philo ends up going to war with love itself. With a chainsaw.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/death-of-love-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="copperhead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>copperhead</ten_truyen>
-		<ma_truyen>copperhead</ma_truyen>
-        <tac_gia>Jay Faerber, Scott Godlewski</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/copperhead/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Welcome to Copperhead, a grimy mining town on the edge of a backwater planet. Single mom Clara Bronson is the new sheriff, and on her first day she'll have to contend with a resentful deputy, a shady mining tycoon, and a family of alien hillbillies. And did we mention the massacre?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/copperhead-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
