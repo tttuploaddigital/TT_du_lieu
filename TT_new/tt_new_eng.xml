@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="knights and magic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Mecha, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>knights and magic</ten_truyen>
+		<ma_truyen>knights-and-magic</ma_truyen>
+		<tac_gia>Amazake No Hisago, Katou Takuji, Kurogin</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/43546/1/200.jpg</hinh_nho>
+		<gioi_thieu>A mecha otaku is reincarnated into another world as Ernesti Echevalier (Eru). In this world, exist huge humanoid weapon known as Silhouette Knight. Dreaming of piloting those robots, Eru, with childhood friends, Archid and Adeltrud Olter: together they will aim to become Knight Runner, pilot of Silhoutte Knight.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/knights-and-magic-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="gal gohan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>gal gohan</ten_truyen>
+		<ma_truyen>gal-gohan</ma_truyen>
+		<tac_gia>Taiyou Marii</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/46625/2/200.jpg</hinh_nho>
+		<gioi_thieu>Home Economics Teacher, Shinji Yabe, is asked by the biggest gyaru in school, Miku Okazaki, to help her 'bake cookies to give to the teachers'. The principal told her to do this, after she flunked every subject and makeup-class they put her in. He gets her to successfully finish a batch of cookies after several mishaps and is touched by his students glee over her success. He decides to start a cooking club after this experience to get more time and connection with his students. Upon hearing this, Miku decides to join, since he was the first teacher that didn't shove her into makeup-lessons after her failings and pushed her to try harder instead.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gal-gohan-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="area no kishi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, School life, Shounen., Sports, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>area no kishi</ten_truyen>
+		<ma_truyen>area-no-kishi</ma_truyen>
+		<tac_gia>Igano Hiroaki, Tsukiyama Kaya</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/841/9/200.jpg</hinh_nho>
+		<gioi_thieu>Believing himself to be useless at football, Aizawa Kakeru opts to become the manager of his school's football team, while his brother Suguru is its ace, and is even good enough to represent Japan. However, Kakeru may be harbouring a strong talent within himself that only Suguru can see, and the two often get into arguments over Kakeru's denial of his skills. Things are made more complicated with the return of Seven, an old playmate of theirs that Kakeru has a crush on. Join the brothers in their journey to the national and even international championships!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/area-no-kishi-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="mr. and mrs. x" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>mr. and mrs. x</ten_truyen>
 		<ma_truyen>mr-and-mrs-x</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>When the maid from the heaven failed to protect the Phoenix egg from a mysterious figure, she used her last power to send the Phoenix, king of all birds into a chicken egg and soon the Phoenix hatched into a chicken. Follow the Phoenix and his chicken sibling on an epic adventure!</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/i-don-t-want-to-say-i-m-a-chicken-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="ant-man and the wasp (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>ant-man and the wasp (2018)</ten_truyen>
-		<ma_truyen>ant-man-and-the-wasp-2018</ma_truyen>
-        <tac_gia>Mark Waid, Javier Garron, David Nakayama</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/ant-man--the-wasp-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Wasp was just trying to help Ant-Man get home to Earth to see his daughter...but a little problem got in the way. Very little. Subatomic, in fact, as Scott Lang was lost in the vast spaces between atoms! Now, Nadia is his only hope of rescue...if only he would listen long enough for her to save them!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ant-man-and-the-wasp-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="teenage mutant ninja turtles universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Anthropomorphic, Fantasy, Movies-tv, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>teenage mutant ninja turtles universe</ten_truyen>
-		<ma_truyen>teenage-mutant-ninja-turtles-universe</ma_truyen>
-        <tac_gia>Kevin Eastman, Paul Allor, Tom Waltz, Damian Couceiro, Bill Sienkiewicz, Freddie E. Williams</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-universe/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Introducing a new era in TMNT! This series will explore characters and story-lines that are pivotal to the IDW TMNT universe! When a mysterious new mutant targets Baxter Stockman, it will be up to the TMNT to reluctantly save him. Little does everyone know that a larger trap is being laid by a new arch-foe! Plus a back-up story from TMNT co-creator Kevin Eastman and comics legend Bill Sienkiewicz!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teenage-mutant-ninja-turtles-universe-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="deep roots" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>deep roots</ten_truyen>
-		<ma_truyen>deep-roots</ma_truyen>
-        <tac_gia>Dan Watters, Val Rodrigues, Triona Farrell</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deep-roots/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Roots, once suffocating under cement, tear through the streets of London to throttle buildings. Vegetable homunculi hold up banks with automatic weapons. There is a green and blooming world beyond our own, fighting back against the human pollutant. We will launch a rescue mission to this Otherworld. But it is cruel and unknowable, and should we become tangled in its vines, more than cities will fall. From Dan Watters (Limbo, The Shadow, Assassin's Creed) and Val Rodrigues comes a story of two worlds, of myth and man, of science and fiction, and the roots they share.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deep-roots-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

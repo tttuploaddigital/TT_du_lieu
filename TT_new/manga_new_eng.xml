@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="knights and magic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Mecha, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>knights and magic</ten_truyen>
+		<ma_truyen>knights-and-magic</ma_truyen>
+		<tac_gia>Amazake No Hisago, Katou Takuji, Kurogin</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/43546/1/200.jpg</hinh_nho>
+		<gioi_thieu>A mecha otaku is reincarnated into another world as Ernesti Echevalier (Eru). In this world, exist huge humanoid weapon known as Silhouette Knight. Dreaming of piloting those robots, Eru, with childhood friends, Archid and Adeltrud Olter: together they will aim to become Knight Runner, pilot of Silhoutte Knight.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/knights-and-magic-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="gal gohan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>gal gohan</ten_truyen>
+		<ma_truyen>gal-gohan</ma_truyen>
+		<tac_gia>Taiyou Marii</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/46625/2/200.jpg</hinh_nho>
+		<gioi_thieu>Home Economics Teacher, Shinji Yabe, is asked by the biggest gyaru in school, Miku Okazaki, to help her 'bake cookies to give to the teachers'. The principal told her to do this, after she flunked every subject and makeup-class they put her in. He gets her to successfully finish a batch of cookies after several mishaps and is touched by his students glee over her success. He decides to start a cooking club after this experience to get more time and connection with his students. Upon hearing this, Miku decides to join, since he was the first teacher that didn't shove her into makeup-lessons after her failings and pushed her to try harder instead.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gal-gohan-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="area no kishi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, School life, Shounen., Sports, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>area no kishi</ten_truyen>
+		<ma_truyen>area-no-kishi</ma_truyen>
+		<tac_gia>Igano Hiroaki, Tsukiyama Kaya</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/841/9/200.jpg</hinh_nho>
+		<gioi_thieu>Believing himself to be useless at football, Aizawa Kakeru opts to become the manager of his school's football team, while his brother Suguru is its ace, and is even good enough to represent Japan. However, Kakeru may be harbouring a strong talent within himself that only Suguru can see, and the two often get into arguments over Kakeru's denial of his skills. Things are made more complicated with the return of Seven, an old playmate of theirs that Kakeru has a crush on. Join the brothers in their journey to the national and even international championships!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/area-no-kishi-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="eden's zero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>eden's zero</ten_truyen>
 		<ma_truyen>eden-s-zero</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/795/3/200.jpg</hinh_nho>
 		<gioi_thieu>Naraka High School is a seemingly normal school. However, unknown to the public is the cruel truth of what really goes on in the school's halls. Rather than studying, students are forced to struggle for their very survival. And the strong bonds of friendship may be the only difference between life and death.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/aphorism-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="isuca" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Mature, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>isuca</ten_truyen>
-		<ma_truyen>isuca</ma_truyen>
-		<tac_gia>Takahashi Osamu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/4307/2/200.jpg</hinh_nho>
-		<gioi_thieu>Shinichirou decides to look for a job in order to pay his rent, and his teacher suggests that he work for someone at their house, doing housekeeping. However, the person who hired him was Sakuya, a girl who is the 37th head of the Shimazu family, and her job is to exorcise and eliminate unwanted creatures. Shinichirou accidentally releases one of the creatures that Sakuya captures and they cooperate to catch it. A story of comedic creature hunting begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isuca-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="sugars" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>sugars</ten_truyen>
-		<ma_truyen>sugars</ma_truyen>
-		<tac_gia>Kurosaki Minori</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9565/1/200.jpg</hinh_nho>
-		<gioi_thieu>Rita Hoshiyama is a second year in middle school and claims to be a rock musician! However, her parents disagree and insist that Rita take up cooking and their family business. But when Sakuya-kun, her idol and family's new dishwasher, ask her to do a live performance the next day, she couldn't help but agree! The problem is, there's only two people in her band...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sugars-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ookami shoujo to kuro ouji" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ookami shoujo to kuro ouji</ten_truyen>
-		<ma_truyen>ookami-shoujo-to-kuro-ouji</ma_truyen>
-		<tac_gia>Hatta Ayuko</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/7366/9/200.jpg</hinh_nho>
-		<gioi_thieu>Erika lied to her friends about having a boyfriend by showing a picture of an annonymous guy who turned out to be a a schoolmate of hers and was shortly recognized by her friends. Their conversations then was overheard by the guy, Sata Kyouya. Erika went to explain and proposed her idea of faking as lovers. However, Sata who gave off the nice-charming feelings guy turns out to be a black prince and used her reasons to blackmail her instead.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ookami-shoujo-to-kuro-ouji-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
