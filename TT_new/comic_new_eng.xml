@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="batman: kings of fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman: kings of fear</ten_truyen>
+		<ma_truyen>batman-kings-of-fear</ma_truyen>
+        <tac_gia>Scott Peterson, Kelley Jones</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Batman's been overseeing Gotham City for years now and isn't sure how much of a difference he's making. Doubt, fear and insecurity are starting to take over. And as all of those negative feelings set in the Scarecrow orchestrates a riot at Arkham Asylum to give the Dark Knight one of his greatest challenges yet! This six-issue miniseries will see the Scarecrow in a horrifying new way that you'll have to read to believe.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-kings-of-fear-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="edge of spider-geddon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>edge of spider-geddon</ten_truyen>
+		<ma_truyen>edge-of-spider-geddon</ma_truyen>
+        <tac_gia>Jed McKay, Gerardo Sandoval</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/edge-of-spider-geddon/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Spider-Punk is back and better than ever. After SPIDER-VERSE, Hobie Brown was a Web Warrior, but that didn't mean things back in his universe were solved. The writer of the SPIDER-PUNK story in SPIDER-VERSE is back and joined by VENOM'S Gerardo Sandoval! Spider-Punk's Earth is under attack both on the ground and from space, meaning his responsibility seems to outweigh his power.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/edge-of-spider-geddon-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="extermination (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>extermination (2018)</ten_truyen>
+		<ma_truyen>extermination-2018</ma_truyen>
+        <tac_gia>Ed Brisson, Pepe Larraz</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/extermination-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>EXTERMINATE THE PAST. ELIMINATE THE FUTURE. Cyclops. Iceman. Angel. Beast. Marvel Girl. The original team of teen mutants brought together by Professor Charles Xavier many years ago have been shunted through time to find a world they barely recognize but were determined to help. Now, finding themselves targeted for death, the future of mutantkind lies squarely in the hands of its past.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/extermination-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="mr. and mrs. x" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>mr. and mrs. x</ten_truyen>
 		<ma_truyen>mr-and-mrs-x</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/e/executive-assistant-iris-vol-5/1_medium.jpg</hinh_nho>
         <gioi_thieu> When a routine security job takes a turn for the worse, Executive Assistant Iris realizes she might be at the crossroads of her career! The world's deadliest assassin is faced with a choice: remain a freelance Executive Assistant, or join Magni Global-a mysterious corporation that has acquired nearly every private security firm on the planet. But, what fateful decisions may come from joining a giant conglomerate whose interests may spell doom for her?!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/executive-assistant-iris-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="moonshine" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>moonshine</ten_truyen>
-		<ma_truyen>moonshine</ma_truyen>
-        <tac_gia>Brian Azzarello, Eduardo Risso, Frank Miller</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/moonshine/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Set during Prohibition, and deep in the backwoods of Appalachia, MOONSHINE #1 tells the story of Lou Pirlo, a city-slick 'torpedo' sent from New York City to negotiate a deal with the best moonshiner in West Virginia, one Hiram Holt. What Lou doesn't figure on is that Holt is just as cunning and ruthless as any NYC crime boss. Because not only will Holt do anything to protect his illicit booze operation, he'll stop at nothing to protect a much darker family secret...a bloody, supernatural secret that must never see the light of day... or better still, the light of the full moon.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/moonshine-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="shanghai red" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Western" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>shanghai red</ten_truyen>
-		<ma_truyen>shanghai-red</ma_truyen>
-        <tac_gia>Christopher Sebela, Hassan Otsmane-Elhaou, Joshua Hixson</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shanghai-red/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Red is one of hundreds shanghaied out of Portland in the late 1800s. Drugged, kidnapped, and sold to a ship's captain, she wakes up on a boat headed out to sea for years, unable to escape or even reveal who she truly is. Now she's coming back in a boat covered in blood to find her family and track down the men responsible for stealing her life out from under her. Eisner-nominated writer CHRISTOPHER SEBELA (High Crimes, Heartthrob, We(l)come Back), JOSHUA HIXSON (The Black Woods) and HASSAN OTSMANE-ELHAOU (Felix and Macabber) bring you a tale of revenge, family, and identity that stretches from the deck of a ship outside Shanghai all the way to the bleak streets and secret tunnels of Portland, Oregon.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shanghai-red-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="skyward (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>skyward (2018)</ten_truyen>
-		<ma_truyen>skyward-2018</ma_truyen>
-        <tac_gia>Joe Henderson, Antonio Fabela, Lee Garbett</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/skyward-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>One day, gravity on earth suddenly became a fraction of what it is now. Twenty years later, humanity has adapted to its new low-gravity reality. And to Willa Fowler, a woman born just after G-day, it's... well, it's pretty awesome, actually. You can fly through the air! I mean, sure, you can also die if you jump too high. So you just don't jump too high. And maybe don't stumble into a dangerous plan to bring gravity back that could get you killed.... From writer JOE HENDERSON (showrunner of Fox's Lucifer) and artist LEE GARBETT (Lucifer, Loki: Agent of Asgard), SKYWARD is an adventure-filled exploration of our world turned upside down and a young woman's journey to find her place in it.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/skyward-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

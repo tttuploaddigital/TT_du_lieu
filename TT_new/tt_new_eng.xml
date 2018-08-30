@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="batman: kings of fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman: kings of fear</ten_truyen>
+		<ma_truyen>batman-kings-of-fear</ma_truyen>
+        <tac_gia>Scott Peterson, Kelley Jones</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Batman's been overseeing Gotham City for years now and isn't sure how much of a difference he's making. Doubt, fear and insecurity are starting to take over. And as all of those negative feelings set in the Scarecrow orchestrates a riot at Arkham Asylum to give the Dark Knight one of his greatest challenges yet! This six-issue miniseries will see the Scarecrow in a horrifying new way that you'll have to read to believe.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-kings-of-fear-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="edge of spider-geddon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>edge of spider-geddon</ten_truyen>
+		<ma_truyen>edge-of-spider-geddon</ma_truyen>
+        <tac_gia>Jed McKay, Gerardo Sandoval</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/edge-of-spider-geddon/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Spider-Punk is back and better than ever. After SPIDER-VERSE, Hobie Brown was a Web Warrior, but that didn't mean things back in his universe were solved. The writer of the SPIDER-PUNK story in SPIDER-VERSE is back and joined by VENOM'S Gerardo Sandoval! Spider-Punk's Earth is under attack both on the ground and from space, meaning his responsibility seems to outweigh his power.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/edge-of-spider-geddon-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="extermination (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>extermination (2018)</ten_truyen>
+		<ma_truyen>extermination-2018</ma_truyen>
+        <tac_gia>Ed Brisson, Pepe Larraz</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/extermination-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>EXTERMINATE THE PAST. ELIMINATE THE FUTURE. Cyclops. Iceman. Angel. Beast. Marvel Girl. The original team of teen mutants brought together by Professor Charles Xavier many years ago have been shunted through time to find a world they barely recognize but were determined to help. Now, finding themselves targeted for death, the future of mutantkind lies squarely in the hands of its past.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/extermination-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="knight's and magic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Mecha, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>knight's and magic</ten_truyen>
 		<ma_truyen>knight-s-and-magic</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/42756/1/200.jpg</hinh_nho>
 		<gioi_thieu>The protagonist is sucked in to a weird whirlpool in a river and somehow ends up in a island in another world with native elves that wear leaf clothes, have the knowledge of an new born, and have sex like rabbits. That also have a body as weak as butter. He decides to become the king of the place and rule with an iron fist and teach the naive elves cruelty, evil and watch as they kill each other.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/balls-friend-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="feng qi cang lan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Romance, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>feng qi cang lan</ten_truyen>
-		<ma_truyen>feng-qi-cang-lan</ma_truyen>
-		<tac_gia>Gu Xuan, Song Shu 200</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-thumb.mpcdn.net/42847/1/200.jpg</hinh_nho>
-		<gioi_thieu>When playing a virtual reality game called Cang Lan, Xiao Wan gets pushed off a cliff. She ends up in another game world. What will happen to Xiao Wan?</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/feng-qi-cang-lan-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ling bao zhi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Horror, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>ling bao zhi</ten_truyen>
-		<ma_truyen>ling-bao-zhi</ma_truyen>
-		<tac_gia>Ye Gu, Fep-xiao Zhao</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-thumb.mpcdn.net/30168/2/200.jpg</hinh_nho>
-		<gioi_thieu>Due to all of the anger and emotions of humans, the world has been inhabited by ghosts that feed off humans. Unfortunately, these ghosts can't be seen by ordinary humans. A high schooler has the ability to see these ghosts...</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/ling-bao-zhi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="i don't want to say i'm a chicken" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>i don't want to say i'm a chicken</ten_truyen>
-		<ma_truyen>i-don-t-want-to-say-i-m-a-chicken</ma_truyen>
-		<tac_gia>Jiang Ren</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-thumb.mpcdn.net/34853/1/200.jpg</hinh_nho>
-		<gioi_thieu>When the maid from the heaven failed to protect the Phoenix egg from a mysterious figure, she used her last power to send the Phoenix, king of all birds into a chicken egg and soon the Phoenix hatched into a chicken. Follow the Phoenix and his chicken sibling on an epic adventure!</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/i-don-t-want-to-say-i-m-a-chicken-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
