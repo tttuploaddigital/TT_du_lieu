@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="astral walker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>astral walker</ten_truyen>
+		<ma_truyen>astral-walker</ma_truyen>
+		<tac_gia>Dream Traveler</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/40841/1/200.jpg</hinh_nho>
+		<gioi_thieu>What? Xiao Bai was forcibly kissed? And was furthermore dragged into a dispute about the 'Arcane Netherstone'. The 'Arcane Netherstone' is the key to unlocking humanity's secrets and Xiao Bai has obtained some kind of special ability from it, an ability that seems to be capable of allowing him to freely live with a girl at will?</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/astral-walker-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="scarlet cross" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>scarlet cross</ten_truyen>
+		<ma_truyen>scarlet-cross</ma_truyen>
+		<tac_gia>San Yue Tu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/21932/2/200.jpg</hinh_nho>
+		<gioi_thieu>Destiny or a beautiful mistake? Tension will spread through the school... In the midst of this tension, an exciting vampire dance will begin...</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/scarlet-cross-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="feng qiu huang" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Historical, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>feng qiu huang</ten_truyen>
+		<ma_truyen>feng-qiu-huang</ma_truyen>
+		<tac_gia>Tian Yi You Feng</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/9c/fb/9cfb2caf58707b6d728c617a4a1eef17242141cb_24925_200_310.jpg</hinh_nho>
+		<gioi_thieu>ChuYu woke up to find herself in the body of a murdered princess almost half a millennium ago. She soon finds out that whoever wanted her dead was in her mansion. Knowing the history, she also realizes that the owner of her body will soon perish in a historical rebellion. Now she must defend herself in the depth of a forbidden city while preventing what is to come in her historical timeline. A palace epic filled with tactical battles and a hint of affection.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/feng-qiu-huang-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="batman: kings of fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batman: kings of fear</ten_truyen>
 		<ma_truyen>batman-kings-of-fear</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/6/5/200.jpg</hinh_nho>
 		<gioi_thieu>What can you do when you get mistaken for murder? Nothing. You go to prison. Lucky you, your inmates are some of the biggest cutthroats in the prison. Seriously you are lucky. Expecially when zombies attack.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/apocalypse-no-toride-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="amentia" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Harem, Psychological, Romance, School life, Seinen, Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>amentia</ten_truyen>
-		<ma_truyen>amentia</ma_truyen>
-		<tac_gia>Yang Hyeseok, Bak Hyein</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/38364/1/200.jpg</hinh_nho>
-		<gioi_thieu>Lee Wee-jin normally endures each of his his high school days as a servant his perfect sister Lee Wi-na. However, he has a secret he can't share with anyone-that he can materialize his delusions as he pleases. When he needs to relieve stress caused by his sister, he materializes a version of his own sister in order to punish her. But one day a black-haired transfer student says the following to Wee-jin while wielding a knife against him: 'You damn delusioner that materializes delusions, we wakers will get rid of all of you!'</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/amentia-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="inarime" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>inarime</ten_truyen>
-		<ma_truyen>inarime</ma_truyen>
-		<tac_gia>Maria Ricco, Tommaso Bennato</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/41312/1/200.jpg</hinh_nho>
-		<gioi_thieu>Ancient Gods and new battles; the unborn Typhon's seventh daughter and her incredible adventures trying to understand who she is and why the Gods of Olympus are so hostile toward human beings. Warn you to believe at who says that they're just 'myths', they are more real than what you think, and they are among us.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/inarime-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="balls friend" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Seinen, Slice of life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>balls friend</ten_truyen>
-		<ma_truyen>balls-friend</ma_truyen>
-		<tac_gia>Hanla Gamgyul</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42756/1/200.jpg</hinh_nho>
-		<gioi_thieu>The protagonist is sucked in to a weird whirlpool in a river and somehow ends up in a island in another world with native elves that wear leaf clothes, have the knowledge of an new born, and have sex like rabbits. That also have a body as weak as butter. He decides to become the king of the place and rule with an iron fist and teach the naive elves cruelty, evil and watch as they kill each other.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/balls-friend-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
