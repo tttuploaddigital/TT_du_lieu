@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="henjyo - hen na jyoshi kousei amaguri senko" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>henjyo - hen na jyoshi kousei amaguri senko</ten_truyen>
+		<ma_truyen>henjyo-hen-na-jyoshi-kousei-amaguri-senko</ma_truyen>
+		<tac_gia>Konogi Yoshiru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/32972/1/200.jpg</hinh_nho>
+		<gioi_thieu>Amaguri Senko is a high school girl with a cool personality (as in, kuudere) and a big pervert. She openly reads porn and masturbates, and isn't perturbed in the slightest at the sight of penises and such. The story is about two adult men that come to live and work for her father, who runs a company that does various oddjobs, which she helps out with. And the various forms of sexual harassment to which she subjects the one which she has taken a liking to.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/henjyo-hen-na-jyoshi-kousei-amaguri-senko-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="koisuru harinezumi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>koisuru harinezumi</ten_truyen>
+		<ma_truyen>koisuru-harinezumi</ma_truyen>
+		<tac_gia>Hinachi Nao</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27248/1/200.jpg</hinh_nho>
+		<gioi_thieu>To change from 'like' to 'love', what strategies must Ozawa use on Kazuki? Kazuki Heiji is the troublemaker. He gets into fights and is very cold to everyone. Ozawa Kii witnesses a fight between a classmate and Kazuki but he unexpectedly says he wants to become friends? And what's this about 'like' and 'love'...?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koisuru-harinezumi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="drifters" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Historical, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>drifters</ten_truyen>
+		<ma_truyen>drifters</ma_truyen>
+		<tac_gia>Hirano Kouta</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2494/3/200.jpg</hinh_nho>
+		<gioi_thieu>Shimazu Toyohisa, a real-life samurai who fought in the pivotal Battle of Sekigahara. In his dying moments, Shimazu is transported to a world of magic with other famous warriors throughout history. These warriors are forced to fight each other in an endless battle. Drifters was nominated for the 4th and 5th Manga Taishou Awards.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/drifters-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="knight's and magic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Mecha, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>knight's and magic</ten_truyen>
 		<ma_truyen>knight-s-and-magic</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/9062/4/200.jpg</hinh_nho>
 		<gioi_thieu>In the 1950s, an old woman was brutally murdered on the face of a clock tower by her adopted daughter. Two years later, the clock tower is known as the 'ghost tower' and it is supposedly haunted. Through an unusual series of events, a young NEET man named Amano Taichi is attacked by someone or something in the same clock tower, and finds himself bound to the clock face to be killed in the same way as the old woman. Luckily for Amano, he doesn't meet the same fate. He's rescued by a mysterious person who claims his name is Tetsuo. Tetsuo is searching for a treasure that is connected with the ghost tower, and he wants Taichi to be his partner. Taichi, whose life has mostly consisted of poverty, loneliness, and pornography, is enticed by the idea of gaining extreme wealth. He's further convinced when a house fire leaves him without a home and depends on Tetsuo's charity. The adventure is going to be very dangerous, since the same 'enemies' who attacked Taichi before seem certain to try something again! Not to mention, Taichi really knows very little about his new partner.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/yuureitou-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="tsuki tsuki!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Harem, Romance, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>tsuki tsuki!</ten_truyen>
-		<ma_truyen>tsuki-tsuki</ma_truyen>
-		<tac_gia>Gotou Yuujin, Shibamine Takashi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/10552/3/200.jpg</hinh_nho>
-		<gioi_thieu>One day Shinobu wakes up just to find a naked blonde girl sleeping besides him. He has no memory whatsoever of her. Who is she? Why is she in his bed? Why is she naked? To make matters worse, his sister comes in and sees them. What will happen now?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuki-tsuki-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="tokyo dted" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Drama, Mature, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>tokyo dted</ten_truyen>
-		<ma_truyen>tokyo-dted</ma_truyen>
-		<tac_gia>Kotani Yoko</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/28351/3/200.jpg</hinh_nho>
-		<gioi_thieu>'When we enter high school, be sure to make me your own.' Tetsuo's childhood friend Kaede Shiraishi made that promise to him as a young girl before she moved away. Kaede never left Tetsuo's mind, and his dreams finally came true when they both reunited in high school. However, Tetsuo's older brother ended up making Kaede his own. Tetsuo couldn't stand hearing his brother interacting with his former crush in the next room day in and day out, so he decided to go to Tokyo, taking a 'certain secret' along with him. But... Set in the Shimokitazawa district in Tokyo, this youth drama will tug at your heartstrings as it depicts a young man who continues to mature through his many encounters.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tokyo-dted-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="aphorism" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>aphorism</ten_truyen>
-		<ma_truyen>aphorism</ma_truyen>
-		<tac_gia>Kujo Karuna</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/795/3/200.jpg</hinh_nho>
-		<gioi_thieu>Naraka High School is a seemingly normal school. However, unknown to the public is the cruel truth of what really goes on in the school's halls. Rather than studying, students are forced to struggle for their very survival. And the strong bonds of friendship may be the only difference between life and death.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/aphorism-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
