@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>immortal hulk</ten_truyen>
+		<ma_truyen>immortal-hulk</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>weapon x (2017)</ten_truyen>
+		<ma_truyen>weapon-x-2017</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-x-(2017)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 23</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+		<chap_moi>chap 471</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>baby steps</ten_truyen>
+		<ma_truyen>baby-steps</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
+		<chap_moi>chap 280</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nanatsu no taizai</ten_truyen>
+		<ma_truyen>nanatsu-no-taizai</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
 		<chap_moi>chap 43</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
+		<ten_truyen>the walking dead  </ten_truyen>
+		<ma_truyen>the-walking-dead</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/t/the-walking-dead/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 183</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
+		<ten_truyen>harley quinn (2016)</ten_truyen>
+		<ma_truyen>harley-quinn-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 49</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
+		<ten_truyen>magi - sinbad no bouken</ten_truyen>
+		<ma_truyen>magi-sinbad-no-bouken</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/24273/10/200.jpg</hinh_nho>
+		<chap_moi>chap 143</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
+		<ten_truyen>noragami</ten_truyen>
+		<ma_truyen>noragami</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/7118/11/200.jpg</hinh_nho>
+		<chap_moi>chap 78</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
+		<ten_truyen>wo jia dashi xiong naozi you keng</ten_truyen>
+		<ma_truyen>wo-jia-dashi-xiong-naozi-you-keng</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/39509/1/200.jpg</hinh_nho>
+		<chap_moi>chap 294</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
+		<ten_truyen>noblesse</ten_truyen>
+		<ma_truyen>noblesse</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
+		<chap_moi>chap 527</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
+		<ten_truyen>green arrow (2016)</ten_truyen>
+		<ma_truyen>green-arrow-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/g/green-arrow-(2016)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue44</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
+		<ten_truyen>justice league (2018)</ten_truyen>
+		<ma_truyen>justice-league-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 7</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 43</chap_moi>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<chap_moi>chap 277</chap_moi>
 	</truyen>
 </danh_sach_truyen>
