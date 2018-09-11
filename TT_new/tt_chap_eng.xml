@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
+		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
+		<chap_moi>chap 126</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tenkuu shinpan</ten_truyen>
+		<ma_truyen>tenkuu-shinpan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
+		<chap_moi>chap 232</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>trinity wonder</ten_truyen>
+		<ma_truyen>trinity-wonder</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40277/1/200.jpg</hinh_nho>
+		<chap_moi>chap 72</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>dc nation</ten_truyen>
 		<ma_truyen>dc-nation</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>noblesse</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
 		<chap_moi>chap 527</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>green arrow (2016)</ten_truyen>
-		<ma_truyen>green-arrow-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/g/green-arrow-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 44</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>justice league (2018)</ten_truyen>
-		<ma_truyen>justice-league-2018</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<chap_moi>chap 277</chap_moi>
 	</truyen>
 </danh_sach_truyen>
