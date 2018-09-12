@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="himekishi ga classmate!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>himekishi ga classmate!</ten_truyen>
+		<ma_truyen>himekishi-ga-classmate</ma_truyen>
+		<tac_gia>Ekz, No. Gomesu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/33088/1/200.jpg</hinh_nho>
+		<gioi_thieu>After he and his entire class die on a field trip, Odamori accepts an offer from a mysterious man to be reincarnated. However his new job turns out to be that of a 'Slavemancer' with the power to dominate the minds of others and turn them into his toys, which he happily takes on. Soon however his evil actions lead to a Princess Knight (who turns out to be one of his previous, more popular classmates) being dispatched to apprehend him. But Odamori of course has something different planned for their reunion.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/himekishi-ga-classmate-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="sidooh" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Historical, Mature, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>sidooh</ten_truyen>
+		<ma_truyen>sidooh</ma_truyen>
+		<tac_gia>Takahashi Tsutomu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9200/2/200.jpg</hinh_nho>
+		<gioi_thieu>During the political upheavals and social strife at the end of the Tokugawa Shogunate in Japan (1855), two parentless brothers Yukimura Shoutarou and Yukimura Gentarou struggles to survive in these turbulent times. With their only possession being their deceased father's sword and clinging onto the wisdom of their mother's final words, the brothers seek to embark on the Path of the Warrior: Sidooh!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sidooh-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="uzumaki" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mature, Mystery, Psychological, Seinen, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>uzumaki</ten_truyen>
+		<ma_truyen>uzumaki</ma_truyen>
+		<tac_gia>Itou Junji</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/10803/2/200.jpg</hinh_nho>
+		<gioi_thieu> Kurozu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but by a pattern: uzumaki, the spiral, the hypnotic secret shape of the world. It manifests itself in small ways: seashells, ferns, whirlpools in water, whirlwinds in air. And in large ways: the spiral marks on people's bodies, the insane obsessions of Shuichi's father, the voice from the cochlea in your inner ear. As the madness spreads, the inhabitants of Kurozu-cho are pulled ever deeper, as if into a whirlpool from which there is no return...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/uzumaki-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="henjyo - hen na jyoshi kousei amaguri senko" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>henjyo - hen na jyoshi kousei amaguri senko</ten_truyen>
 		<ma_truyen>henjyo-hen-na-jyoshi-kousei-amaguri-senko</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/3497/1/200.jpg</hinh_nho>
 		<gioi_thieu>In order to help her father, Chiwa Takanashi agrees to an arranged marriage with the company president Hokuto Mamiya - a man she doesn't know - at the request of Hokuto's grandfather. Chiwa believes the arrangement isn't binding, but her new partner seems to think otherwise. Can two strangers living together find their way to a happy marriage?!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hapi-mari-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="black kanojo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Horror, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>black kanojo</ten_truyen>
-		<ma_truyen>black-kanojo</ma_truyen>
-		<tac_gia>Yoshihara Masahiko</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43468/2/200.jpg</hinh_nho>
-		<gioi_thieu>Hoshino Teru, a mediocre middle school boy has a crush on Amamiya, his childhood friend. However, 'Micchan' stands between them, and brings chaos upon Teru's life.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-kanojo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ore to kawazu-san no isekai hourouki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ore to kawazu-san no isekai hourouki</ten_truyen>
-		<ma_truyen>ore-to-kawazu-san-no-isekai-hourouki</ma_truyen>
-		<tac_gia>Kuzumochi, Ryuu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27028/2/200.jpg</hinh_nho>
-		<gioi_thieu>Tarou was just an ordinary university student until a strange old magician summoned him to another world. Upon learning that his newly acquired magical power is 8 million (8 million more powerful than an average magician), he uses his abnormally powerful magic to revive the old man that caused all this... in the form of a frog. Thus begin the strange adventures of a boy with ridiculous magical power and Kawazu, the former strongest magician, now revived as a frog.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ore-to-kawazu-san-no-isekai-hourouki-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="yuureitou" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Ecchi, Gender bender, Horror, Mature, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>yuureitou</ten_truyen>
-		<ma_truyen>yuureitou</ma_truyen>
-		<tac_gia>Nogizaka Tarou</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9062/4/200.jpg</hinh_nho>
-		<gioi_thieu>In the 1950s, an old woman was brutally murdered on the face of a clock tower by her adopted daughter. Two years later, the clock tower is known as the 'ghost tower' and it is supposedly haunted. Through an unusual series of events, a young NEET man named Amano Taichi is attacked by someone or something in the same clock tower, and finds himself bound to the clock face to be killed in the same way as the old woman. Luckily for Amano, he doesn't meet the same fate. He's rescued by a mysterious person who claims his name is Tetsuo. Tetsuo is searching for a treasure that is connected with the ghost tower, and he wants Taichi to be his partner. Taichi, whose life has mostly consisted of poverty, loneliness, and pornography, is enticed by the idea of gaining extreme wealth. He's further convinced when a house fire leaves him without a home and depends on Tetsuo's charity. The adventure is going to be very dangerous, since the same 'enemies' who attacked Taichi before seem certain to try something again! Not to mention, Taichi really knows very little about his new partner.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/yuureitou-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

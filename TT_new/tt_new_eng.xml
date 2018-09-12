@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="himekishi ga classmate!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>himekishi ga classmate!</ten_truyen>
+		<ma_truyen>himekishi-ga-classmate</ma_truyen>
+		<tac_gia>Ekz, No. Gomesu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/33088/1/200.jpg</hinh_nho>
+		<gioi_thieu>After he and his entire class die on a field trip, Odamori accepts an offer from a mysterious man to be reincarnated. However his new job turns out to be that of a 'Slavemancer' with the power to dominate the minds of others and turn them into his toys, which he happily takes on. Soon however his evil actions lead to a Princess Knight (who turns out to be one of his previous, more popular classmates) being dispatched to apprehend him. But Odamori of course has something different planned for their reunion.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/himekishi-ga-classmate-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="sidooh" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Historical, Mature, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>sidooh</ten_truyen>
+		<ma_truyen>sidooh</ma_truyen>
+		<tac_gia>Takahashi Tsutomu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9200/2/200.jpg</hinh_nho>
+		<gioi_thieu>During the political upheavals and social strife at the end of the Tokugawa Shogunate in Japan (1855), two parentless brothers Yukimura Shoutarou and Yukimura Gentarou struggles to survive in these turbulent times. With their only possession being their deceased father's sword and clinging onto the wisdom of their mother's final words, the brothers seek to embark on the Path of the Warrior: Sidooh!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sidooh-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="uzumaki" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mature, Mystery, Psychological, Seinen, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>uzumaki</ten_truyen>
+		<ma_truyen>uzumaki</ma_truyen>
+		<tac_gia>Itou Junji</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/10803/2/200.jpg</hinh_nho>
+		<gioi_thieu> Kurozu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but by a pattern: uzumaki, the spiral, the hypnotic secret shape of the world. It manifests itself in small ways: seashells, ferns, whirlpools in water, whirlwinds in air. And in large ways: the spiral marks on people's bodies, the insane obsessions of Shuichi's father, the voice from the cochlea in your inner ear. As the madness spreads, the inhabitants of Kurozu-cho are pulled ever deeper, as if into a whirlpool from which there is no return...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/uzumaki-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="thanos legacy" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>thanos legacy</ten_truyen>
 		<ma_truyen>thanos-legacy</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>There is a world of myth and magic that intersects ours, and only a special few can see it. Misao Harada is one such person, and she wants nothing to do with magical realms. She just wants to have a normal high school life and maybe get a boyfriend. But she is the bride of demon prophecy, and her blood grants incredible powers, her flesh immortality. Now the demon realm is fighting over the right to her hand...or her life! Black Bird received the 2009 Shogakukan Manga Award for shoujo manga.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/black-bird-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="captain america (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>captain america (2018)</ten_truyen>
-		<ma_truyen>captain-america-2018</ma_truyen>
-        <tac_gia>Ta-Nehisi Coates, Leinil Francis Yu, Gerry Alanguilan, Sunny Gho</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-america-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>IT IS WINTER IN AMERICA.For over 70 years, he has stood in stalwart defense of our country and its people. But in the aftermath of Hydra's takeover of the nation, Captain America is a figure of controversy, carrying a tarnished shield...and a new enemy is rising! Who are the Power Elite? And how do they intend to co-opt and corrupt the symbol that is Captain America?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-america-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="portal bound" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>portal bound</ten_truyen>
-		<ma_truyen>portal-bound</ma_truyen>
-        <tac_gia>Gabe Carrasco, Mark Roslan, Alex Arizmendi, Wes Hartman, Adam Archer</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/portal-bound/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Their Future Depends on Each Other. A parallel otherworld exists as a mirror to our own, where science is melded with nature and a warrior spirit defines their true value. A teenage soldier princess, Sybil, is sent off with her Uncle Horuk in an effort to stop her megalomaniac father, Emperor Atilus from destroying two Earths. With a deadly array of monstrous creatures in hot pursuit, Sybil and her uncle race to activate a portal to Earth to find a savior who is also figuring out how to survive... being a teenager!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/portal-bound-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="fissure" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>fissure</ten_truyen>
-		<ma_truyen>fissure</ma_truyen>
-        <tac_gia>Tim Daniel, Patricio Delpeche</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fissure/1_medium.jpg</hinh_nho>
-        <gioi_thieu>El Sueno, Texas was a single street town withering under the shadow of the Mexico-U.S. Barrier. Then the pavement split, and a massive crack spread from one end to the other, rapidly swallowing El Sueno whole. Young couple Avery Lee Olmos and Hark Wright fight to escape the mysterious sinkhole and the malevolent force that beckons from its depths.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fissure-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
