@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>teenage mutant ninja turtles: urban legends</ten_truyen>
+		<ma_truyen>teenage-mutant-ninja-turtles-urban-legends</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-urban-legends/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>green lanterns (2016)</ten_truyen>
+		<ma_truyen>green-lanterns-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/g/green-lanterns/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 54</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shadow roads</ten_truyen>
+		<ma_truyen>shadow-roads</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/s/shadow-roads/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
 		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>magi-sinbad-no-bouken</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/24273/10/200.jpg</hinh_nho>
 		<chap_moi>chap 143</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>noragami</ten_truyen>
-		<ma_truyen>noragami</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/7118/11/200.jpg</hinh_nho>
-		<chap_moi>chap 78</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wo jia dashi xiong naozi you keng</ten_truyen>
-		<ma_truyen>wo-jia-dashi-xiong-naozi-you-keng</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/39509/1/200.jpg</hinh_nho>
-		<chap_moi>chap 294</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>noblesse</ten_truyen>
-		<ma_truyen>noblesse</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
-		<chap_moi>chap 527</chap_moi>
 	</truyen>
 </danh_sach_truyen>
