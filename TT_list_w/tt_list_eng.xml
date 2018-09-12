@@ -3447,6 +3447,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>An Appalachian Mountain fantasy epic that tells the story of Rondel. A lonely figure who wanders the wooded hills among witches and magical creatures as a folktale hero to those who dwell in this gritty dream world.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hillbilly-eng.xml</file_xml>
     </truyen>
+	<truyen ten="himekishi ga classmate!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>himekishi ga classmate!</ten_truyen>
+		<ma_truyen>himekishi-ga-classmate</ma_truyen>
+		<tac_gia>Ekz, No. Gomesu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/33088/1/200.jpg</hinh_nho>
+		<gioi_thieu>After he and his entire class die on a field trip, Odamori accepts an offer from a mysterious man to be reincarnated. However his new job turns out to be that of a 'Slavemancer' with the power to dominate the minds of others and turn them into his toys, which he happily takes on. Soon however his evil actions lead to a Princess Knight (who turns out to be one of his previous, more popular classmates) being dispatched to apprehend him. But Odamori of course has something different planned for their reunion.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/himekishi-ga-classmate-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="hinamatsuri" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Seinen, Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>hinamatsuri</ten_truyen>
 		<ma_truyen>hinamatsuri</ma_truyen>
@@ -6633,6 +6642,15 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
         <gioi_thieu>Outer space, the far future. A lone seed ship, the Sidonia, plies the void, ten centuries since the obliteration of the solar system. The massive, nearly indestructible, yet barely sentient alien life forms that destroyed humanity's home world continue to pose an existential threat. Nagate Tanikaze has only known life in the vessel's bowels deep below the sparkling strata where humans have achieved photosynthesis and new genders. Not long after he emerges from the Underground, however, the youth is bequeathed a treasured legacy by the spaceship's coolheaded female captain.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/sidonia-no-kishi-eng.xml</file_xml>
     </truyen>
+	<truyen ten="sidooh" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Historical, Mature, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>sidooh</ten_truyen>
+		<ma_truyen>sidooh</ma_truyen>
+		<tac_gia>Takahashi Tsutomu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9200/2/200.jpg</hinh_nho>
+		<gioi_thieu>During the political upheavals and social strife at the end of the Tokugawa Shogunate in Japan (1855), two parentless brothers Yukimura Shoutarou and Yukimura Gentarou struggles to survive in these turbulent times. With their only possession being their deceased father's sword and clinging onto the wisdom of their mother's final words, the brothers seek to embark on the Path of the Warrior: Sidooh!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sidooh-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="silver spoon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>silver spoon</ten_truyen>
 		<ma_truyen>silver-spoon</ma_truyen>
@@ -8396,7 +8414,16 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <hinh_nho>https://file-thumb.mpcdn.net/10792/4/200.jpg</hinh_nho>
 		<gioi_thieu>Yukiteru is living with his family friend Yuno after a fire burnt down his home as a child. They live their life until a fellow classmate Rena who is jealous of their close friendship makes a surprise move.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/uwakoi-eng.xml</file_xml>
-	</truyen>	
+	</truyen>
+	<truyen ten="uzumaki" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mature, Mystery, Psychological, Seinen, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>uzumaki</ten_truyen>
+		<ma_truyen>uzumaki</ma_truyen>
+		<tac_gia>Itou Junji</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/10803/2/200.jpg</hinh_nho>
+		<gioi_thieu> Kurozu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but by a pattern: uzumaki, the spiral, the hypnotic secret shape of the world. It manifests itself in small ways: seashells, ferns, whirlpools in water, whirlwinds in air. And in large ways: the spiral marks on people's bodies, the insane obsessions of Shuichi's father, the voice from the cochlea in your inner ear. As the madness spreads, the inhabitants of Kurozu-cho are pulled ever deeper, as if into a whirlpool from which there is no return...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/uzumaki-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="vagabond" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Historical, Martial arts, Mature, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>vagabond</ten_truyen>
 		<ma_truyen>vagabond</ma_truyen>
