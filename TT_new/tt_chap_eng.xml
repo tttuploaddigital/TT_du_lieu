@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>nanatsu no taizai</ten_truyen>
+		<ma_truyen>nanatsu-no-taizai</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
+		<chap_moi>chap 281</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>baki dou</ten_truyen>
+		<ma_truyen>baki-dou</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/26738/4/200.jpg</hinh_nho>
+		<chap_moi>chap 145</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>golden kamui</ten_truyen>
+		<ma_truyen>golden-kamui</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
+		<chap_moi>chap 171</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>teenage mutant ninja turtles: urban legends</ten_truyen>
 		<ma_truyen>teenage-mutant-ninja-turtles-urban-legends</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-urban-legends/1_medium.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>nanatsu-no-taizai</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
 		<chap_moi>chap 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the walking dead  </ten_truyen>
-		<ma_truyen>the-walking-dead</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/t/the-walking-dead/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 183</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>harley quinn (2016)</ten_truyen>
-		<ma_truyen>harley-quinn-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 49</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>magi - sinbad no bouken</ten_truyen>
-		<ma_truyen>magi-sinbad-no-bouken</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/24273/10/200.jpg</hinh_nho>
-		<chap_moi>chap 143</chap_moi>
 	</truyen>
 </danh_sach_truyen>
