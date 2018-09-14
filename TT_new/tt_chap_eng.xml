@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>superman (2018)</ten_truyen>
+		<ma_truyen>superman-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/s/superman-(2018)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>champions (2016)</ten_truyen>
+		<ma_truyen>champions-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/c/champions/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 24</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>star wars: darth vader (2017)</ten_truyen>
+		<ma_truyen>star-wars-darth-vader-2017</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-darth-vader-(2017)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 21</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>x-men: blue</ten_truyen>
+		<ma_truyen>x-men-blue</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-blue-(2017)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 35</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>one piece</ten_truyen>
 		<ma_truyen>one-piece</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
@@ -65,29 +89,5 @@
 		<ma_truyen>nanatsu-no-taizai</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
 		<chap_moi>chap 281</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>baki dou</ten_truyen>
-		<ma_truyen>baki-dou</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/26738/4/200.jpg</hinh_nho>
-		<chap_moi>chap 145</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>golden kamui</ten_truyen>
-		<ma_truyen>golden-kamui</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
-		<chap_moi>chap 171</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>teenage mutant ninja turtles: urban legends</ten_truyen>
-		<ma_truyen>teenage-mutant-ninja-turtles-urban-legends</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-urban-legends/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>green lanterns (2016)</ten_truyen>
-		<ma_truyen>green-lanterns-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/g/green-lanterns/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 54</chap_moi>
 	</truyen>
 </danh_sach_truyen>
