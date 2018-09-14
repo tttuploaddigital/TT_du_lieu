@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+		<chap_moi>chap 917</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shingeki no kyojin</ten_truyen>
+		<ma_truyen>shingeki-no-kyojin</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
+		<chap_moi>chap 109</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>onepunch-man</ten_truyen>
+		<ma_truyen>onepunch-man</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
+		<chap_moi>chap 143</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<chap_moi>chap 279</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>doulou dalu</ten_truyen>
 		<ma_truyen>doulou-dalu</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/26543/2/200.jpg</hinh_nho>
@@ -65,29 +89,5 @@
 		<ma_truyen>green-lanterns-2016</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/g/green-lanterns/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 54</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shadow roads</ten_truyen>
-		<ma_truyen>shadow-roads</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/shadow-roads/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
-		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
-		<chap_moi>chap 126</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tenkuu shinpan</ten_truyen>
-		<ma_truyen>tenkuu-shinpan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
-		<chap_moi>chap 232</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>trinity wonder</ten_truyen>
-		<ma_truyen>trinity-wonder</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/40277/1/200.jpg</hinh_nho>
-		<chap_moi>chap 71</chap_moi>
 	</truyen>
 </danh_sach_truyen>
