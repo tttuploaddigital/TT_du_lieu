@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>doulou dalu</ten_truyen>
+		<ma_truyen>doulou-dalu</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/26543/2/200.jpg</hinh_nho>
+		<chap_moi>chap 212</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>noblesse</ten_truyen>
+		<ma_truyen>noblesse</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
+		<chap_moi>chap 528</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>lan chi</ten_truyen>
+		<ma_truyen>lan-chi</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/30661/2/200.jpg</hinh_nho>
+		<chap_moi>chap 78.1</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
 		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>trinity-wonder</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/40277/1/200.jpg</hinh_nho>
 		<chap_moi>chap 71</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>immortal hulk</ten_truyen>
-		<ma_truyen>immortal-hulk</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>weapon x (2017)</ten_truyen>
-		<ma_truyen>weapon-x-2017</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-x-(2017)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 23</chap_moi>
 	</truyen>
 </danh_sach_truyen>
