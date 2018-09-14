@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="hawkman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hawkman (2018)</ten_truyen>
+		<ma_truyen>hawkman-2018</ma_truyen>
+        <tac_gia>Jeff Lemire, Robert Venditti, Bryan Hitch, Andrew currie, Alex Sinclair</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="fathom (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>fathom (2018)</ten_truyen>
+		<ma_truyen>fathom-2018</ma_truyen>
+        <tac_gia>Ron Marz, Siya Oum, Peter Steigerwald</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>This all-new adventure for Aspen's preeminent hero sees her attempt to navigate an ever-changing world where The Blue are not only present above the surface-but exploited in new and dangerous ways. When a rival nation to The States decides to take control of the global landscape by tapping into the power of The Blue, Aspen Matthews discovers that a new adversary has risen to challenge the notion that she is the most powerful person on the planet—and humanity may suffer the consequences!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fathom-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="crossed plus one hundred: mimic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>crossed plus one hundred: mimic</ten_truyen>
+		<ma_truyen>crossed-plus-one-hundred-mimic</ma_truyen>
+        <tac_gia>Christos N. Gage, Patrick Shand, Emiliano Urdinola, Raulo Caceres</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/crossed-plus-100-mimic/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Crossed + One Hundred: Mimic continues to story of the disciples of Beau Salt, the serial killer who despite being infected fully retained his sanity, invading military bases to take their best and turn them to the Crossed side.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/crossed-plus-one-hundred-mimic-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="himekishi ga classmate!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>himekishi ga classmate!</ten_truyen>
 		<ma_truyen>himekishi-ga-classmate</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>From the islands of the South Pacific to the mountains of Afghanistan, the Hunters go wherever the Predators appear--even if it's in a war zone and into conflict with a mysterious government group hunting the same prey! Despite the casualties suffered during their first mission, the Predator Hunters are on the prowl again!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/predator-hunters-ii-eng.xml</file_xml>
     </truyen>
-	<truyen ten="blade play" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>blade play</ten_truyen>
-		<ma_truyen>blade-play</ma_truyen>
-		<tac_gia>Seta Aomaru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/1249/3/200.jpg</hinh_nho>
-		<gioi_thieu>Whilst searching for porn on the internet Sudo Kansuke, a 20-year-old university student, gets sucked into an RPG world called Munberdia. He is the chosen hero who carries the sword of light. Only the sword of light is not what you would expect.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/blade-play-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ss sisters" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Comedy, Ecchi, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ss sisters</ten_truyen>
-		<ma_truyen>ss-sisters</ma_truyen>
-		<tac_gia>Ditama Bow</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9458/1/200.jpg</hinh_nho>
-		<gioi_thieu>This story is about a (un)lucky guy who gets sadistically and sexually tortured in unconventional ways.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ss-sisters-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="black bird" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Fantasy, Harem, Mystery, Romance, School life, Shoujo., Smut, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>black bird</ten_truyen>
-		<ma_truyen>black-bird</ma_truyen>
-		<tac_gia>Sakurakouji Kanoko</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/1224/3/200.jpg</hinh_nho>
-		<gioi_thieu>There is a world of myth and magic that intersects ours, and only a special few can see it. Misao Harada is one such person, and she wants nothing to do with magical realms. She just wants to have a normal high school life and maybe get a boyfriend. But she is the bride of demon prophecy, and her blood grants incredible powers, her flesh immortality. Now the demon realm is fighting over the right to her hand...or her life! Black Bird received the 2009 Shogakukan Manga Award for shoujo manga.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/black-bird-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
