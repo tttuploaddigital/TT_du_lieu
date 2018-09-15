@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>tales of demons and gods</ten_truyen>
+		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
+		<chap_moi>chap 190.5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>red storm</ten_truyen>
+		<ma_truyen>red-storm</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/21499/2/200.jpg</hinh_nho>
+		<chap_moi>chap 293</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>panlong</ten_truyen>
+		<ma_truyen>panlong</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/30349/2/200.jpg</hinh_nho>
+		<chap_moi>chap 154</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>superman (2018)</ten_truyen>
 		<ma_truyen>superman-2018</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/s/superman-(2018)/1_medium.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>old man logan (2016)</ten_truyen>
-		<ma_truyen>old-man-logan-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-logan-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 46</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>assassin's creed: uprising</ten_truyen>
-		<ma_truyen>assassin-s-creed-uprising</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/a/assassins-creed-uprising/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 12</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanatsu no taizai</ten_truyen>
-		<ma_truyen>nanatsu-no-taizai</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
-		<chap_moi>chap 281</chap_moi>
 	</truyen>
 </danh_sach_truyen>
