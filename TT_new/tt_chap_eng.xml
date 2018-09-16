@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>black clover</ten_truyen>
+		<ma_truyen>black-clover</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
+		<chap_moi>chap 173</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
+		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
+		<chap_moi>chap 30.2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hinamatsuri</ten_truyen>
+		<ma_truyen>hinamatsuri</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/30/2/200.jpg</hinh_nho>
+		<chap_moi>chap 80</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>tales of demons and gods</ten_truyen>
 		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>doulou-dalu</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/26543/2/200.jpg</hinh_nho>
 		<chap_moi>chap 212</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>noblesse</ten_truyen>
-		<ma_truyen>noblesse</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
-		<chap_moi>chap 528</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>lan chi</ten_truyen>
-		<ma_truyen>lan-chi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30661/2/200.jpg</hinh_nho>
-		<chap_moi>chap 78.1</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
-		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 5</chap_moi>
 	</truyen>
 </danh_sach_truyen>
