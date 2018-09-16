@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="all rounder meguru" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Martial arts, Seinen, Slice of life, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>all rounder meguru</ten_truyen>
+		<ma_truyen>all-rounder-meguru</ma_truyen>
+		<tac_gia>Endo Hiroki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/582/3/200.jpg</hinh_nho>
+		<gioi_thieu>Meguru Takayanagi is trying to find a 'practical' fighting method rather than the traditional karate he used to do when he was a kid, enrolling himself in a mixed martial arts gym (The fighter's brew) he started on his road to become a 'Shooto' fighter, that's when he will find out his best friend from childhood and the dark secret that surrounds the motivation for revenge.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/all-rounder-meguru-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kyokou suiri" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Mystery, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kyokou suiri</ten_truyen>
+		<ma_truyen>kyokou-suiri</ma_truyen>
+		<tac_gia>Shirodaira Kyou, Katasaka Midori</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/32897/1/200.jpg</hinh_nho>
+		<gioi_thieu>Meet the cute, smug, cane-wielding 17-year old Iwanaga Kotoko as she (very) aggresively tries to woo the older Sakuragawa Kurou and act as a mediator/problem-solver for the supernatural world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyokou-suiri-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="nomi joshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>nomi joshi</ten_truyen>
+		<ma_truyen>nomi-joshi</ma_truyen>
+		<tac_gia>Ukatsu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/35974/1/200.jpg</hinh_nho>
+		<gioi_thieu>The manga Nomu Joshi ('Drinking Girls') by Ukatsu ('Careless') debuted in the magazine Manga Club on July 4. It features three friends, all women aged 29, who get together and socialize regularly and indulge in their common passion: drinking. Michiko Takase, the office lady heroine, prefers beer; Misono Miyauchi, a short-haired, muscular book store worker, likes sake; and Yuki Shinonome, the feminine housewife, drinks everything. The manga follows them as they visit hot springs, beer gardens, bars and more to sample different drinks, pair them with delicious side dishes, and chat about work, their family, how to keep warm while wearing skirts, etc.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nomi-joshi-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="himekishi ga classmate!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>himekishi ga classmate!</ten_truyen>
 		<ma_truyen>himekishi-ga-classmate</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/3862/4/200.jpg</hinh_nho>
 		<gioi_thieu>Hiyori, a small and timid girl, goes to school for the first time in a year since an accident left her hospitalized. Follow her as she struggles with her social skills, tries to make friends and maybe even a little bit more...?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hiyokoi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="fukigen na mononokean" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>fukigen na mononokean</ten_truyen>
-		<ma_truyen>fukigen-na-mononokean</ma_truyen>
-		<tac_gia>Yoshihara Masahiko</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/37676/1/200.jpg</hinh_nho>
-		<gioi_thieu>Ashiya has spent the first seven days of high school stuck in the infirmary because of a 'mononoke' attaching itself to him. He ends up asking the owner of a small tearoom - Mononokean - for help. A series of mysterious stories involving the very morose owner of Mononokean, who guides mononoke to pass on to the next world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fukigen-na-mononokean-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kinkyori renai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kinkyori renai</ten_truyen>
-		<ma_truyen>kinkyori-renai</ma_truyen>
-		<tac_gia>Mikimoto Rin</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/5089/2/200.jpg</hinh_nho>
-		<gioi_thieu>Uni is a prodigy with a cool reserve who is accomplished in everything except for English. One day, she insults her temporary English teacher and he overhears her. He asks her to come to his office after school and, somehow, she starts receiving private tutoring from him.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kinkyori-renai-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="hapi mari" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Josei, Romance, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>hapi mari</ten_truyen>
-		<ma_truyen>hapi-mari</ma_truyen>
-		<tac_gia>Enjouji Maki</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3497/1/200.jpg</hinh_nho>
-		<gioi_thieu>In order to help her father, Chiwa Takanashi agrees to an arranged marriage with the company president Hokuto Mamiya - a man she doesn't know - at the request of Hokuto's grandfather. Chiwa believes the arrangement isn't binding, but her new partner seems to think otherwise. Can two strangers living together find their way to a happy marriage?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hapi-mari-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

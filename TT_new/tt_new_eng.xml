@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="all rounder meguru" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Martial arts, Seinen, Slice of life, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>all rounder meguru</ten_truyen>
+		<ma_truyen>all-rounder-meguru</ma_truyen>
+		<tac_gia>Endo Hiroki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/582/3/200.jpg</hinh_nho>
+		<gioi_thieu>Meguru Takayanagi is trying to find a 'practical' fighting method rather than the traditional karate he used to do when he was a kid, enrolling himself in a mixed martial arts gym (The fighter's brew) he started on his road to become a 'Shooto' fighter, that's when he will find out his best friend from childhood and the dark secret that surrounds the motivation for revenge.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/all-rounder-meguru-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kyokou suiri" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Mystery, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kyokou suiri</ten_truyen>
+		<ma_truyen>kyokou-suiri</ma_truyen>
+		<tac_gia>Shirodaira Kyou, Katasaka Midori</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/32897/1/200.jpg</hinh_nho>
+		<gioi_thieu>Meet the cute, smug, cane-wielding 17-year old Iwanaga Kotoko as she (very) aggresively tries to woo the older Sakuragawa Kurou and act as a mediator/problem-solver for the supernatural world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyokou-suiri-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="nomi joshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>nomi joshi</ten_truyen>
+		<ma_truyen>nomi-joshi</ma_truyen>
+		<tac_gia>Ukatsu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/35974/1/200.jpg</hinh_nho>
+		<gioi_thieu>The manga Nomu Joshi ('Drinking Girls') by Ukatsu ('Careless') debuted in the magazine Manga Club on July 4. It features three friends, all women aged 29, who get together and socialize regularly and indulge in their common passion: drinking. Michiko Takase, the office lady heroine, prefers beer; Misono Miyauchi, a short-haired, muscular book store worker, likes sake; and Yuki Shinonome, the feminine housewife, drinks everything. The manga follows them as they visit hot springs, beer gardens, bars and more to sample different drinks, pair them with delicious side dishes, and chat about work, their family, how to keep warm while wearing skirts, etc.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nomi-joshi-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="hawkman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>hawkman (2018)</ten_truyen>
 		<ma_truyen>hawkman-2018</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>Ming Lan was adopted into a new family, but her foster mother Nan Xi treated her as a replacement for her dead daughter. However, her two new brothers, Ming Qing and Ming Jing did not welcome her. Ming Lan's quiet life under this new roof was disturbed by pranks and false smiles...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/lan-chi-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="fantastic four (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>fantastic four (2018)</ten_truyen>
-		<ma_truyen>fantastic-four-2018</ma_truyen>
-        <tac_gia>Dan Slott, Simone Bianchi, Sara Pichelli, Elisabetta D'Amico, Skottie Young</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fantastic-four-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Since the end of SECRET WARS, there's been a gap in the Marvel Universe. A void no other team can fill. And it's time for the world to move on. But can it? A life-changing decision by the Thing! A momentous declaration by the Human Torch! A clarion call-to-arms that summons Doctor Doom! And a signal in the sky that heralds the return of hope to the Marvel Universe! All this, and Alicia Masters adopts kittens! So cute! Plus, the Impossible Man!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fantastic-four-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="catwoman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>catwoman (2018)</ten_truyen>
-		<ma_truyen>catwoman-2018</ma_truyen>
-        <tac_gia>Joelle Jones</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/catwoman-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The wedding night's barely over, but Catwoman's back on the streets, this time to expose a copycat who's pulling heists around Gotham City. As Selina cracks the whip on her former criminal cohorts, she's attracting unwanted attention from one of Gotham's most dangerous groups. The mob? Nope. Try the GCPD. And as if the Bat-Bride didn't have enough problems, don't miss the debut of an all-new villain determined to make trouble for all nine of Selina's lives.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/catwoman-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="predator: hunters ii" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>predator: hunters ii</ten_truyen>
-		<ma_truyen>predator-hunters-ii</ma_truyen>
-        <tac_gia>Chris Warner, Neeraj Menon, Agustin Padilla</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/predator-hunters-ii/1_medium.jpg</hinh_nho>
-        <gioi_thieu>From the islands of the South Pacific to the mountains of Afghanistan, the Hunters go wherever the Predators appear--even if it's in a war zone and into conflict with a mysterious government group hunting the same prey! Despite the casualties suffered during their first mission, the Predator Hunters are on the prowl again!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/predator-hunters-ii-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
