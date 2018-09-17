@@ -3,9 +3,45 @@
     <noi_dung>
 
         <!-- https://mangapark.me/manga/feng-qi-cang-lan -->
-		<!-- thieu chap 31 32 77 -->
+		<!-- thieu chap 31 32 77 86 -->
 
 		<!-- them -->
+
+		<!-- chap 87.6 -->
+		<chuong ten_chuong="chap 87.6"><hinh>http://file-comic-4.anyacg.co/images/bd/9e/bd9ed88be036d472d8a4587b586b445fd7110118_130461_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.6"><hinh>http://file-comic-4.anyacg.co/images/04/a5/04a5a8b5dc463798e363589a033d2f31cb388ba0_139883_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.6"><hinh>http://file-comic-4.anyacg.co/images/ab/88/ab88de3cc6d2ad89e0e6a83e324f73a98a916aa4_64168_564_444.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.6"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+
+		<!-- chap 87.5 -->
+		<chuong ten_chuong="chap 87.5"><hinh>http://file-comic-4.anyacg.co/images/9a/31/9a317ab0fc092dd49857bb8481a0cd2b96eb523b_131726_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.5"><hinh>http://file-comic-4.anyacg.co/images/0a/a4/0aa4a3522b3eef167fa565db3ffa5c4e33f57ca5_140687_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.5"><hinh>http://file-comic-4.anyacg.co/images/cc/1a/cc1a53ba36f840108bdc03e7c6516c838ad7f334_113110_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.5"><hinh>http://file-comic-4.anyacg.co/images/41/a1/41a1d9ec3b925fc429807703fcf0a466b150e690_116000_640_900.jpg</hinh></chuong>
+
+		<!-- chap 87.4 -->
+		<chuong ten_chuong="chap 87.4"><hinh>http://file-comic-4.anyacg.co/images/49/9f/499f3e8222f2ba9c0eeb37dc7f56dabf0e77d8a3_131475_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.4"><hinh>http://file-comic-4.anyacg.co/images/46/15/4615cc18592897e886c53fd4a57a572782f44365_143071_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.4"><hinh>http://file-comic-4.anyacg.co/images/dc/9c/dc9c850f062bd9de50a63bfac59b17890c4c9ecf_127787_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.4"><hinh>http://file-comic-4.anyacg.co/images/ae/ae/aeae0c553e7440c16125aeac44f234925d486a2b_143883_640_900.jpg</hinh></chuong>
+
+		<!-- chap 87.2 -->
+		<chuong ten_chuong="chap 87.2"><hinh>http://file-comic-4.anyacg.co/images/43/5a/435a0df93581af0a4d3e3e4f78c723342dd65d5e_154604_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.2"><hinh>http://file-comic-4.anyacg.co/images/01/3a/013aa4e86833c8dc8760a840da2d652258ecbaf8_150596_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.2"><hinh>http://file-comic-4.anyacg.co/images/55/4e/554eb3497742643017ded94162cfb702dc14e4bc_134099_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.2"><hinh>http://file-comic-4.anyacg.co/images/36/6b/366bfd371f8065f3187d8ec8a70e096d9df5eedf_132415_640_900.jpg</hinh></chuong>
+
+		<!-- chap 87.1 -->
+		<chuong ten_chuong="chap 87.1"><hinh>http://file-comic-4.anyacg.co/images/cc/8e/cc8e476529d333bfc89151bf3b715ad38952c730_144051_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.1"><hinh>http://file-comic-4.anyacg.co/images/5c/58/5c58413bf37d9b233dcc0eddeb72e49831adc923_146171_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.1"><hinh>http://file-comic-4.anyacg.co/images/c3/db/c3dbcb77f2e68ab4a7520fd07a1c02edb7150e54_132196_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 87.1"><hinh>http://file-comic-4.anyacg.co/images/d4/aa/d4aa847d8ae5b62236b0ab990210efa9d5753258_151231_640_900.jpg</hinh></chuong>
+
+		<!-- chap 85.5 -->
+		<chuong ten_chuong="chap 85.5"><hinh>http://file-comic-4.anyacg.co/images/c5/4e/c54ed3e779d35a45da753971f251a68112b33933_128468_615_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 85.5"><hinh>http://file-comic-4.anyacg.co/images/de/e3/dee3d0955c849bb1e54ae3e9d4906b21f654da46_136644_615_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 85.5"><hinh>http://file-comic-4.anyacg.co/images/6c/91/6c9139f50fdb1e6b0d0dea4e68874c1692e85fbd_139165_615_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 85.5"><hinh>http://file-comic-4.anyacg.co/images/4c/1d/4c1dbcc03bf67ae21987713ab32ba380b9647b0d_132576_615_900.jpg</hinh></chuong>
 
 		<!-- chap 85.3 -->
 		<chuong ten_chuong="chap 85.3"><hinh>http://file-comic-4.anyacg.co/images/ed/69/ed69b675e49ce763a0a4bfaae522261e1e2e7916_116601_615_900.jpg</hinh></chuong>
