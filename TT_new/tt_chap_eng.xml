@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>the gamer</ten_truyen>
+		<ma_truyen>the-gamer</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
+		<chap_moi>chap 240</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>wind breaker</ten_truyen>
+		<ma_truyen>wind-breaker</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/24786/3/200.jpg</hinh_nho>
+		<chap_moi>chap 196</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>feng qi cang lan</ten_truyen>
+		<ma_truyen>feng-qi-cang-lan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/42847/1/200.jpg</hinh_nho>
+		<chap_moi>chap 87.6</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>the immortal men</ten_truyen>
 		<ma_truyen>the-immortal-men</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/t/the-immortal-men/1_medium.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>star-wars-darth-vader-2017</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-darth-vader-(2017)/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 21</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-men: blue</ten_truyen>
-		<ma_truyen>x-men-blue</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-blue-(2017)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 35</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-		<chap_moi>chap 917</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shingeki no kyojin</ten_truyen>
-		<ma_truyen>shingeki-no-kyojin</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
-		<chap_moi>chap 109</chap_moi>
 	</truyen>
 </danh_sach_truyen>
