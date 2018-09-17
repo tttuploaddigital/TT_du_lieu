@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>the immortal men</ten_truyen>
+		<ma_truyen>the-immortal-men</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/t/the-immortal-men/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>sideways</ten_truyen>
+		<ma_truyen>sideways</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/s/sideways/2_medium.jpg</hinh_nho>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>stargate universe</ten_truyen>
+		<ma_truyen>stargate-universe</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/s/stargate-universe/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 173</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>black clover</ten_truyen>
 		<ma_truyen>black-clover</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<chap_moi>chap 173</chap_moi>
+		<chap_moi>chap 6</chap_moi>
 	</truyen>
 	<truyen>
 		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
@@ -71,23 +89,5 @@
 		<ma_truyen>shingeki-no-kyojin</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
 		<chap_moi>chap 109</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>onepunch-man</ten_truyen>
-		<ma_truyen>onepunch-man</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
-		<chap_moi>chap 142</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<chap_moi>chap 279</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>doulou dalu</ten_truyen>
-		<ma_truyen>doulou-dalu</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/26543/2/200.jpg</hinh_nho>
-		<chap_moi>chap 212</chap_moi>
 	</truyen>
 </danh_sach_truyen>
