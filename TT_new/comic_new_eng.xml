@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="farmhand" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>farmhand</ten_truyen>
+		<ma_truyen>farmhand</ma_truyen>
+        <tac_gia>Rob Guillory, Taylor Wells</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/farmhand/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Jedidiah Jenkins is a farmer-but his cash crop isn't corn or soy. Jed grows fast-healing, plug-and-play human organs. Lose a finger? Need a new liver? He's got you covered. Unfortunately, strange produce isn't the only thing Jed's got buried. Deep in the soil of the Jenkins Family Farm, something dark has taken root, and it's beginning to bloom. From ROB GUILLORY, Eisner-winning co-creator and artist of Image Comics' CHEW, comes a new dark comedy about science gone sinister and agriculture gone apocalyptic. Nature is a Mother.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/farmhand-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the seeds" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Literature, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the seeds</ten_truyen>
+		<ma_truyen>the-seeds</ma_truyen>
+        <tac_gia>Ann Nocenti, David Aja</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-seeds/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In a world much like our own, people are smashing their phones and moving to the lawless tech-free Zone B. A few cantankerous aliens have come to collect the last dregs of humanity's essence for the celestial embryo bank. One of them falls in love. Astra is an idealistic journalist who stumbles into the story of a lifetime, only to realize that if she reports it, she'll destroy the last hope of a dying world. How far will she go to get her story?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-seeds-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="scooby apocalypse" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Horror, Life sucks, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>scooby apocalypse</ten_truyen>
+		<ma_truyen>scooby-apocalypse</ma_truyen>
+        <tac_gia>J.M. DeMatteis, Howard Porter</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/scooby-apocalypse/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Those meddling kids-Fred, Daphne, Velma, Shaggy, and their dog, Scooby-Doo-get more ghost-debunking than they bargained for when faced with a fundamental change in their world. The apocalypse has happened. Old rules about logic no longer apply. The creatures of the night are among us, and the crew of the Magical Mystery Machine has to fight to survive-because in the apocalyptic badlands of the near-future, the horrors are real!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/scooby-apocalypse-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="hawkman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hawkman (2018)</ten_truyen>
+		<ma_truyen>hawkman-2018</ma_truyen>
+        <tac_gia>Jeff Lemire, Robert Venditti, Bryan Hitch, Andrew currie, Alex Sinclair</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="house of whispers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>house of whispers</ten_truyen>
+		<ma_truyen>house-of-whispers</ma_truyen>
+        <tac_gia>Jeff Lemire, Robert Venditti, Bryan Hitch, Andrew currie, Alex Sinclair</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/house-of-whispers-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/house-of-whispers-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="hawkman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hawkman (2018)</ten_truyen>
+		<ma_truyen>hawkman-2018</ma_truyen>
+        <tac_gia>Jeff Lemire, Robert Venditti, Bryan Hitch, Andrew currie, Alex Sinclair</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="hawkman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>hawkman (2018)</ten_truyen>
 		<ma_truyen>hawkman-2018</ma_truyen>
@@ -377,32 +431,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/c/curse-words/1_medium.jpg</hinh_nho>
         <gioi_thieu>A wizard has appeared in New York City, and he's casting wonderful spells, getting famous, getting rich-it's great! But it's not. This wizard has everyone fooled. He is actually an EVIL WIZARD, and EVIL THINGS are on the way. CURSE WORDS is a gonzo modern fantasy, full of darkness, light... and MAGIC.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/curse-words-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the lost city explorers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the lost city explorers</ten_truyen>
-		<ma_truyen>the-lost-city-explorers</ma_truyen>
-        <tac_gia>Zack Kaplan, Alvaro Sarraseca, Chris Blythe</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/l/lost-city-explorers/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Lost cities aren't just the stuff of myths. They exist hidden right under our noses. But when a mysterious expedition is disrupted by supernatural activity, and an antiquities professor goes missing, his teenage daughter and her friends must become underground urban explorers, follow his tracks on a coming-of-age journey through subterranean tunnels, and ultimately find the holy grail of lost city: Atlantis buried right under New York City!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-lost-city-explorers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="infidel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infidel</ten_truyen>
-		<ma_truyen>infidel</ma_truyen>
-        <tac_gia>Pornsak Pichetshote, Aaron Campbell, Jose Villarrubia</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infidel/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A haunted house story for the 21st century, INFIDEL follows an American Muslim woman and her multiracial neighbors who move into a building haunted by entities that feed off xenophobia.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infidel-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="punks not dead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Life sucks, Sci-fi, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>punks not dead</ten_truyen>
-		<ma_truyen>punks-not-dead</ma_truyen>
-        <tac_gia>David Barnett, Martin Simmonds</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/punks-not-dead/1_medium.jpg</hinh_nho>
-        <gioi_thieu>As if being an awkward, bullied 15-year-old isn't bad enough, 'Fergie' Ferguson suddenly discovers he can see dead people. Well, one dead person specifically-the ghost of a certain punk rocker named Sid. Sid's spirit was trapped in London's Heathrow Airport for 40 years until the day he met Fergie. Sid's ghost is now stuck to Fergie-as if Fergie doesn't have enough on his plate, being raised by a single mum whose idea of parenting is strictly fly-by-the-seat-of-your-pants. Now Fergie has to contend with an unruly ghost sidekick and some weird, uncontrollable new 'abilities'. How does the father Fergie never knew fit into this mayhem? And why is the Department for Extra-Usual Affairs showing an interest? Never Mind the Bollocks-all of this plus fish fingers, chunky chips, and endless pints of anarchy in the new monthly series PUNKS NOT DEAD!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/punks-not-dead-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
