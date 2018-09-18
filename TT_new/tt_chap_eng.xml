@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>enen no shouboutai</ten_truyen>
+		<ma_truyen>enen-no-shouboutai</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/35965/6/200.jpg</hinh_nho>
+		<chap_moi>chap 137</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>it's my life</ten_truyen>
+		<ma_truyen>it-s-my-life</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40060/3/200.jpg</hinh_nho>
+		<chap_moi>chap 37</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>karakai jouzu no takagi-san</ten_truyen>
+		<ma_truyen>karakai-jouzu-no-takagi-san</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/27906/2/200.jpg</hinh_nho>
+		<chap_moi>chap 87</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>red hood and the outlaws (2016)</ten_truyen>
 		<ma_truyen>red-hood-and-the-outlaws-2016</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/r/red-hood-and-the-outlaws-(2016)/1_medium.jpg</hinh_nho>
@@ -89,23 +107,5 @@
 		<ma_truyen>panlong</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/30349/2/200.jpg</hinh_nho>
 		<chap_moi>chap 154</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>superman (2018)</ten_truyen>
-		<ma_truyen>superman-2018</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/superman-(2018)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>champions (2016)</ten_truyen>
-		<ma_truyen>champions-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/c/champions/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 24</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars: darth vader (2017)</ten_truyen>
-		<ma_truyen>star-wars-darth-vader-2017</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-darth-vader-(2017)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 21</chap_moi>
 	</truyen>
 </danh_sach_truyen>
