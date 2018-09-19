@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>shen yin wang zuo</ten_truyen>
+		<ma_truyen>shen-yin-wang-zuo</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/30100/1/200.jpg</hinh_nho>
+		<chap_moi>chap 166</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>trinity wonder</ten_truyen>
+		<ma_truyen>trinity-wonder</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40277/1/200.jpg</hinh_nho>
+		<chap_moi>chap 73</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>demon spirit seed manual</ten_truyen>
+		<ma_truyen>demon-spirit-seed-manual</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/39751/1/200.jpg</hinh_nho>
+		<chap_moi>chap 22</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>supergirl (2016)</ten_truyen>
 		<ma_truyen>supergirl-2016</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/s/supergirl-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 22</chap_moi>
+		<chap_moi>issue 167</chap_moi>
 	</truyen>
 	<truyen>
 		<ten_truyen>suicide squad (2016)</ten_truyen>
@@ -71,41 +89,5 @@
 		<ma_truyen>feng-qi-cang-lan</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/42847/1/200.jpg</hinh_nho>
 		<chap_moi>chap 87.6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the immortal men</ten_truyen>
-		<ma_truyen>the-immortal-men</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/t/the-immortal-men/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>sideways</ten_truyen>
-		<ma_truyen>sideways</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/sideways/2_medium.jpg</hinh_nho>
-		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>stargate universe</ten_truyen>
-		<ma_truyen>stargate-universe</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/stargate-universe/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>black clover</ten_truyen>
-		<ma_truyen>black-clover</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<chap_moi>chap 173</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
-		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
-		<chap_moi>chap 30.2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hinamatsuri</ten_truyen>
-		<ma_truyen>hinamatsuri</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30/2/200.jpg</hinh_nho>
-		<chap_moi>chap 80</chap_moi>
 	</truyen>
 </danh_sach_truyen>
