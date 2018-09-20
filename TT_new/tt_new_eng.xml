@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="apotheosis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>apotheosis</ten_truyen>
+		<ma_truyen>apotheosis</ma_truyen>
+		<tac_gia>Ranzai Studio</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/eb/06/eb06cef64bbb2ffd1675ec13bb7c33006910fe13_35538_200_310.jpg</hinh_nho>
+		<gioi_thieu>Apotheosis - elevation to the status of a god. Luo Zheng, now a humble slave was born as the eldest son of a wealthy family. Due to his family's decline, the kidnapping of his sister by a powerful force, he can now only be stepped upon by others. However, heaven never seals off all exits. An ancient book left by his father reveals a secret divine technique, giving the reader immense power! But what is behind this power? This is a contest against fate.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/apotheosis-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="star martial god technique" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Martial arts, Romance, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>star martial god technique</ten_truyen>
+		<ma_truyen>star-martial-god-technique</ma_truyen>
+		<tac_gia>Mad Snail</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/44777/1/200.jpg</hinh_nho>
+		<gioi_thieu>In the whole world there lay twelve paths to climb the Tower of God, and in legends these twelve pathways lead towards the legendary road of immortality. However the paths in the Tower of God, are far too long, without end. In ancient times there once were many types of martial arts, sadly the world underwent terrible changes, and only three were left: Flame, Dragon and Star Martial Arts. Generations of experts of those three martial arts search for road of immortality. Accompany a Star Martial Arts practitioner on his lifetime journey, with young beauties at his side, and plans to become the Highest God.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/star-martial-god-technique-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="wanting to touch you" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, School life, Shoujo., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>wanting to touch you</ten_truyen>
+		<ma_truyen>wanting-to-touch-you</ma_truyen>
+		<tac_gia>Xi Yu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/50707/1/200.jpg</hinh_nho>
+		<gioi_thieu>Xing Zi hates guys, because whenever she bumps into them she hiccups! However one day she bumped into a guy with a bad reputation, but she didn't even hiccup!?</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/wanting-to-touch-you-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="farmhand" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>farmhand</ten_truyen>
 		<ma_truyen>farmhand</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/38819/1/200.jpg</hinh_nho>
 		<gioi_thieu>Utilizing a system called 'Sense,' each player aims to create their unique character in the VRMMORPG 'Only Sense Online.' Joining this realm is Yun, an absolute beginner in the world of gaming, equipped with some of the worst customized 'Sense' ever. While his two sisters, both veterans in this world, criticize his choices of equipment, he continues to delve into the skill sets he has acquired. Along his way, he meets the art of 'production' and people that have mastered this art. Watch as a total novice creates a revolution in the gaming world and create the 'ultimate' support class.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/only-sense-online-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="master in my dreams" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mature, School life, Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>master in my dreams</ten_truyen>
-		<ma_truyen>master-in-my-dreams</ma_truyen>
-		<tac_gia>Son Hwi-joon</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/35624/1/200.jpg</hinh_nho>
-		<gioi_thieu>If your desire for a girl were fulfilled would you accept or refuse? Even though it's a dream...</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/master-in-my-dreams-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="googookaka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Josei, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>googookaka</ten_truyen>
-		<ma_truyen>googookaka</ma_truyen>
-		<tac_gia>Haeni</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43331/1/200.jpg</hinh_nho>
-		<gioi_thieu>The struggle bus life of the hot Cheongdam girl Ina who got transported to the primitive era...</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/googookaka-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="tong" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Martial arts, Shounen., Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>tong</ten_truyen>
-		<ma_truyen>tong</ma_truyen>
-		<tac_gia>Min, Baek Seung Hoon</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43523/1/200.jpg</hinh_nho>
-		<gioi_thieu>Having lived as a fighting legend in Busan, he wanted to live peacefully in Seoul. However, we all know that wasn't how Lee Jung Woo lived. Showing off immense skills in the fight against the best fighters in the school, Lee Jung Woo takes over the area in no time at all. After that, the gangs nearby never leave the 'Tong' Lee Jung Woo alone. Although he is the 'Tong', since Lee Jung Woo did not wish to being harm to those not involved, he starts changing the way he lives. What exactly was Lee Jung Woo trying to protect through all that violence?</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/tong-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
