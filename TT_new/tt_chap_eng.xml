@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>edge of spider-geddon</ten_truyen>
+		<ma_truyen>edge-of-spider-geddon</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/e/edge-of-spider-geddon/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>titans (2016)</ten_truyen>
+		<ma_truyen>titans-2016</ma_truyen>
+		<hinh_nho>hhttps://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 25</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>star wars (2015)</ten_truyen>
+		<ma_truyen>star-wars-2015</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 54</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+		<chap_moi>chap 918</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hunter x hunter</ten_truyen>
+		<ma_truyen>hunter-x-hunter</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
+		<chap_moi>chap 381</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<chap_moi>chap 280</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>shen yin wang zuo</ten_truyen>
 		<ma_truyen>shen-yin-wang-zuo</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/30100/1/200.jpg</hinh_nho>
