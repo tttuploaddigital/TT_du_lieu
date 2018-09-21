@@ -9,7 +9,7 @@
 	<truyen>
 		<ten_truyen>titans (2016)</ten_truyen>
 		<ma_truyen>titans-2016</ma_truyen>
-		<hinh_nho>hhttps://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
+		<hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 25</chap_moi>
 	</truyen>
 	<truyen>
@@ -89,41 +89,5 @@
 		<ma_truyen>karakai-jouzu-no-takagi-san</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/27906/2/200.jpg</hinh_nho>
 		<chap_moi>chap 87</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>red hood and the outlaws (2016)</ten_truyen>
-		<ma_truyen>red-hood-and-the-outlaws-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/r/red-hood-and-the-outlaws-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 26</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>b.p.r.d. the devil you know</ten_truyen>
-		<ma_truyen>b-p-r-d-the-devil-you-know</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/b/bprd-the-devil-you-know/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>oblivion song</ten_truyen>
-		<ma_truyen>oblivion-song</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/o/oblivion-song/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the gamer</ten_truyen>
-		<ma_truyen>the-gamer</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
-		<chap_moi>chap 240</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wind breaker</ten_truyen>
-		<ma_truyen>wind-breaker</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/24786/3/200.jpg</hinh_nho>
-		<chap_moi>chap 195</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>feng qi cang lan</ten_truyen>
-		<ma_truyen>feng-qi-cang-lan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/42847/1/200.jpg</hinh_nho>
-		<chap_moi>chap 87.6</chap_moi>
 	</truyen>
 </danh_sach_truyen>
