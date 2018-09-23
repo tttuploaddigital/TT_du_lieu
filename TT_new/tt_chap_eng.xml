@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>the wild storm</ten_truyen>
+		<ma_truyen>the-wild-storm</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/w/wild-storm/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mata hari (2018)</ten_truyen>
+		<ma_truyen>mata-hari-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/m/mata-hari-(2018)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hit-girl (2018)</ten_truyen>
+		<ma_truyen>hit-girl-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/h/hit-girl-(2018)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>kimetsu no yaiba</ten_truyen>
 		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
@@ -71,41 +89,5 @@
 		<ma_truyen>demon-spirit-seed-manual</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/39751/1/200.jpg</hinh_nho>
 		<chap_moi>chap 167</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>supergirl (2016)</ten_truyen>
-		<ma_truyen>supergirl-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/supergirl-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 22</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>suicide squad (2016)</ten_truyen>
-		<ma_truyen>suicide-squad-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 46</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the flash (2016)</ten_truyen>
-		<ma_truyen>the-flash-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 54</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>enen no shouboutai</ten_truyen>
-		<ma_truyen>enen-no-shouboutai</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35965/6/200.jpg</hinh_nho>
-		<chap_moi>chap 137</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>it's my life</ten_truyen>
-		<ma_truyen>it-s-my-life</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/40060/3/200.jpg</hinh_nho>
-		<chap_moi>chap 37</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>karakai jouzu no takagi-san</ten_truyen>
-		<ma_truyen>karakai-jouzu-no-takagi-san</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27906/2/200.jpg</hinh_nho>
-		<chap_moi>chap 87</chap_moi>
 	</truyen>
 </danh_sach_truyen>
