@@ -300,8 +300,8 @@ Manga này được upload dành cho Alisha đến từ Vương quốc Anh thôn
 		<gioi_thieu>Lịch Đế quốc năm 2718, Nhật Bản sụp đổ trong trận chiến chống lại Majinki, bằng sự khủng bố đến từ bầu trời với những đạo quân nửa nửa thú vật và nửa máy móc. Làm tổn thương lẫn nhau, những giá trị luân lý bị bẻ cong, không nhìn thấy tương lai, con người vật lộn từng ngày để tồn tại. Chiến tranh đã hủy hoại 70% giống nòi loài người nhưng chính trong bóng đêm ấy đã xuất hiện 7 thành viên của bộ lạc XILE để cứu giúp loài người. 500 năm sau, vào năm 3218, những phù thủy bong đêm của Majinki một lần nữa vùng lên. Đây là câu truyện về Examurai của bộ lạc XILE, người sẽ đầu tranh tới chết để bảo vệ cho tình yêu, ước mơ và hạnh phúc. Đã sống sót suốt 500 năm kể từ sự kiện năm 2718, trận đánh cuối cùng của 7 thành viên bộ lạc XILE bắt đầu dưới bầu trời xanh thẳm…</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/examurai-viet.xml</file_xml>
 	</truyen>
-    <truyen ten="fairy tail" tinh_trang_truyen="het" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Adventure, Comedy, Drama, Ecchi, Fantasy, Shounen." nhan_kieu_truyen="Kiểu" kieu_truyen="Manga">
-        <ten_truyen>fairy tail</ten_truyen>
+    <truyen ten="fairy tail " tinh_trang_truyen="het" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Adventure, Comedy, Drama, Ecchi, Fantasy, Shounen." nhan_kieu_truyen="Kiểu" kieu_truyen="Manga">
+        <ten_truyen>fairy tail </ten_truyen>
 		<ma_truyen>fairy-tail</ma_truyen>
         <tac_gia>Mashima Hiro</tac_gia>
         <tinh_trang>Kết thúc</tinh_trang>
@@ -336,8 +336,8 @@ Manga này được upload dành cho Alisha đến từ Vương quốc Anh thôn
         <gioi_thieu>Một ngày trong thế kỷ 21, một cánh cổng mở ra ở giữa quận Ginza của Tokyo. Binh lính và các sinh vật kỳ lạ bước ra từ cánh cửa, và họ nhanh chóng biến Ginza thành địa ngục. Cánh cửa dường như kết nối Nhật Bản vào một thế giới khác, một thế giới với một đế chế chiến binh và nhiều sinh vật siêu nhiên. Lực lượng tự vệ Nhật Bản đã quyết định gửi một nhóm nhỏ, do một người lính cũng là một otaku, sang thế giới khác làm nhiệm vụ trinh sát. Họ đang có nghĩa vụ là tìm hiểu những gì họ có thể về đế chế (và kế hoạch của mình), trên thế giới, và người dân...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gate-jietai-kare-no-chi-nite-kaku-tatakeri-viet.xml</file_xml>
     </truyen>
-	<truyen ten="goblin slayer" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Ecchi, Fantasy, Mature, Seinen" nhan_kieu_truyen="Kiểu" kieu_truyen="Manga">
-		<ten_truyen>goblin slayer</ten_truyen>
+	<truyen ten="goblin slayer " tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Ecchi, Fantasy, Mature, Seinen" nhan_kieu_truyen="Kiểu" kieu_truyen="Manga">
+		<ten_truyen>goblin slayer </ten_truyen>
 		<ma_truyen>goblin-slayer</ma_truyen>
         <tac_gia>Kurose Kousuke</tac_gia>
         <tinh_trang>Tiếp tục</tinh_trang>
