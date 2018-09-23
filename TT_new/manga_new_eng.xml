@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="fairy tail: 100 years quest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Ecchi, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
+		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
+		<tac_gia>Mashima Hiro, Ueda Atsuo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
+		<gioi_thieu>After overcoming the threat of Acnologia and Zeref, Fairy Tail has become stronger and more energetic! The 100 year quest which Natsu and company left for, and also to the members who had remained at the guild, something new is going to happen!? Although the story was supposed to have concluded, a new adventure now begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="goblin slayer: side story year one" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>goblin slayer: side story year one</ten_truyen>
+		<ma_truyen>goblin-slayer-side-story-year-one</ma_truyen>
+		<tac_gia>Kagyu Kumo, Kento Sakaeda</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/50806/1/200.jpg</hinh_nho>
+		<gioi_thieu>A prequel series that reveals Goblin Slayer's past and the events that led him to become an adventurer with the sole purpose of exterminating all goblins from the world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-side-story-year-one-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="asa made jugyou chu!" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Comedy, Ecchi, Gender bender, Harem, Mature, Romance, School life, Seinen, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>asa made jugyou chu!</ten_truyen>
+		<ma_truyen>asa-made-jugyou-chu</ma_truyen>
+		<tac_gia>Ohta Akiyoshi, Ayakura Juu, Matsuda98, Minazuki Tooru, Munyu, Ohara Tometa, Sakura Koharu</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/869/1/200.jpg</hinh_nho>
+		<gioi_thieu>Kakinozaki Ayana-sensei and student Kagami Yuuki move into a room in the girls dormitory for the new (co-ed) high school semester, requested by Ayana-sensei and approved by the schools' principal. As one would guess, no one can find out he's living there so other than school classes, he has to cross-dress or else he'll be kicked out of school and dorm.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/asa-made-jugyou-chu-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="all rounder meguru" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Martial arts, Seinen, Slice of life, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>all rounder meguru</ten_truyen>
 		<ma_truyen>all-rounder-meguru</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/1439/2/200.jpg</hinh_nho>
 		<gioi_thieu>The Fujisaki Girls Academy is known for their school body being composed of very proper students. The most prominent one of them is Maki, the student president who is admired by her classmates for her calm and polite demeanor. On the other hand, Kurahashi Riko is also admired but for having a very forward and boyish personality. Riko accidentally walks into Maki while she's practicing kissing with a pillow and learns that she isn't what everyone thinks she is. Riko is forced into keeping Maki's secret and join her in practicing all aspects of romance like holding hands and more.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bokutachi-wa-shitte-shimatta-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="renai lab" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="4-koma, Comedy, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>renai lab</ten_truyen>
-		<ma_truyen>renai-lab</ma_truyen>
-		<tac_gia>Miyahara Ruri</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/23353/3/200.jpg</hinh_nho>
-		<gioi_thieu>The Fujisaki Girls Academy is known for their school body being composed of very proper students. The most prominent one of them is Maki, the student president who is admired by her classmates for her calm and polite demeanor. On the other hand, Kurahashi Riko is also admired but for having a very forward and boyish personality. Riko accidentally walks into Maki while she's practicing kissing with a pillow and learns that she isn't what everyone thinks she is. Riko is forced into keeping Maki's secret and join her in practicing all aspects of romance like holding hands and more.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/renai-lab-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gion no tsugai" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Romance, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gion no tsugai</ten_truyen>
-		<ma_truyen>gion-no-tsugai</ma_truyen>
-		<tac_gia>Thomasz</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/30965/2/200.jpg</hinh_nho>
-		<gioi_thieu>In the land of Gion, the capital of Japan, a mysterious 'divine power' has brought about great prosperity. It is a power that only brings about changes in girls in the form of turning them half-animal, a sign that they are servants to a god, as well as granting them great power. Some that are strong enough become Onmyou and fight evil. Others whose power have gone berserk become Orochi, fated to bring death and destruction to man. It was once thought that those who became Orochi had to be slain with no hope of saving the helpless victim-until a mysterious young man named Gion appeared to save one such girl. Will he be strong enough to fight the Orochi and bring an end to their terror?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/gion-no-tsugai-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="hiyokoi" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shoujo., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>hiyokoi</ten_truyen>
-		<ma_truyen>hiyokoi</ma_truyen>
-		<tac_gia>Yukimaru Moe</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3862/4/200.jpg</hinh_nho>
-		<gioi_thieu>Hiyori, a small and timid girl, goes to school for the first time in a year since an accident left her hospitalized. Follow her as she struggles with her social skills, tries to make friends and maybe even a little bit more...?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/hiyokoi-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

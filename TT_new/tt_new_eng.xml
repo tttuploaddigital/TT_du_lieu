@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="fairy tail: 100 years quest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Ecchi, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
+		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
+		<tac_gia>Mashima Hiro, Ueda Atsuo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
+		<gioi_thieu>After overcoming the threat of Acnologia and Zeref, Fairy Tail has become stronger and more energetic! The 100 year quest which Natsu and company left for, and also to the members who had remained at the guild, something new is going to happen!? Although the story was supposed to have concluded, a new adventure now begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="goblin slayer: side story year one" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>goblin slayer: side story year one</ten_truyen>
+		<ma_truyen>goblin-slayer-side-story-year-one</ma_truyen>
+		<tac_gia>Kagyu Kumo, Kento Sakaeda</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/50806/1/200.jpg</hinh_nho>
+		<gioi_thieu>A prequel series that reveals Goblin Slayer's past and the events that led him to become an adventurer with the sole purpose of exterminating all goblins from the world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-side-story-year-one-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="asa made jugyou chu!" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Comedy, Ecchi, Gender bender, Harem, Mature, Romance, School life, Seinen, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>asa made jugyou chu!</ten_truyen>
+		<ma_truyen>asa-made-jugyou-chu</ma_truyen>
+		<tac_gia>Ohta Akiyoshi, Ayakura Juu, Matsuda98, Minazuki Tooru, Munyu, Ohara Tometa, Sakura Koharu</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/869/1/200.jpg</hinh_nho>
+		<gioi_thieu>Kakinozaki Ayana-sensei and student Kagami Yuuki move into a room in the girls dormitory for the new (co-ed) high school semester, requested by Ayana-sensei and approved by the schools' principal. As one would guess, no one can find out he's living there so other than school classes, he has to cross-dress or else he'll be kicked out of school and dorm.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/asa-made-jugyou-chu-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="apotheosis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>apotheosis</ten_truyen>
 		<ma_truyen>apotheosis</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>The realm of madness is back with a brand new twisted tale of love, loss and vengeance! It's been a long time since Alice Liddle's daughter, Calie, finally escaped the twisted world that her mother was pulled into many years before her. But the insanity of Wonderland has returned and this time around things are much more dangerous and horrifying than ever before. Originally the realm of dreams, but now a realm made up of nightmares, Wonderland has been purged of its original denizens and a new ruler has emerged. The Duchess has been kidnapping people from this world and re-shaping them in her image to use as her personal playthings. Can Calie and her daughter team up to stop a new madness from emerging from Wonderland and invading our world or is it too late to stop the inevitable? Find out here is this insane first issue of a whole new Wonderland!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/revenge-of-wonderland-eng.xml</file_xml>
     </truyen>
-	<truyen ten="amano megumi wa suki darake!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>amano megumi wa suki darake!</ten_truyen>
-		<ma_truyen>amano-megumi-wa-suki-darake</ma_truyen>
-		<tac_gia>Nekoguchi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/40038/1/200.jpg</hinh_nho>
-		<gioi_thieu>Shindo Manabu is a student in a very prestigious high school who's goal is to get into Tokyo University. He studies constantly and tries to never lose sight of that goal. That is until his childhood friend , Amano Megumi, who goes to the same school starts to distract him. He only saw her as the tom-boy she was as a kid until they meet up again when she has become 'more developed'. As those two get closer to each other Manabu gets more and more distracted from his goal of getting into Tokyo U, so hilarity ensues.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/amano-megumi-wa-suki-darake-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="nozoki ana" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>nozoki ana</ten_truyen>
-		<ma_truyen>nozoki-ana</ma_truyen>
-		<tac_gia>Seta Aomaru</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/7144/2/200.jpg</hinh_nho>
-		<gioi_thieu>Whilst searching for porn on the internet Sudo Kansuke, a 20-year-old university student, gets sucked into an RPG world called Munberdia. He is the chosen hero who carries the sword of light. Only the sword of light is not what you would expect.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/nozoki-ana-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="only sense online" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Gender bender, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>only sense online</ten_truyen>
-		<ma_truyen>only-sense-online</ma_truyen>
-		<tac_gia>Aloha Zachou, Hani Kuraun</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/38819/1/200.jpg</hinh_nho>
-		<gioi_thieu>Utilizing a system called 'Sense,' each player aims to create their unique character in the VRMMORPG 'Only Sense Online.' Joining this realm is Yun, an absolute beginner in the world of gaming, equipped with some of the worst customized 'Sense' ever. While his two sisters, both veterans in this world, criticize his choices of equipment, he continues to delve into the skill sets he has acquired. Along his way, he meets the art of 'production' and people that have mastered this art. Watch as a total novice creates a revolution in the gaming world and create the 'ultimate' support class.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/only-sense-online-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
