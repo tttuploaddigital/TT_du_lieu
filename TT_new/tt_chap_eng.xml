@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>caterpillar</ten_truyen>
+		<ma_truyen>caterpillar</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28919/2/200.jpg</hinh_nho>
+		<chap_moi>chap 39</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>youkai shoujo - monsuga</ten_truyen>
+		<ma_truyen>youkai-shoujo-monsuga</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/26251/12/200.jpg</hinh_nho>
+		<chap_moi>chap 115</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>darwin's game</ten_truyen>
+		<ma_truyen>darwin-s-game</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
+		<chap_moi>chap 53</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>autophagy regulation</ten_truyen>
 		<ma_truyen>autophagy-regulation</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/30485/2/200.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>star-wars-2015</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 54</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-		<chap_moi>chap 918</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hunter x hunter</ten_truyen>
-		<ma_truyen>hunter-x-hunter</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
-		<chap_moi>chap 381</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<chap_moi>chap 280</chap_moi>
 	</truyen>
 </danh_sach_truyen>
