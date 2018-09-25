@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="belle: beast hunter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>belle: beast hunter</ten_truyen>
+		<ma_truyen>belle-beast-hunter</ma_truyen>
+        <tac_gia>Dave Franchini, Bong Dazo, Juan M. Rodriguez</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/belle-beast-hunter/1_medium.jpg</hinh_nho>
+        <gioi_thieu>NEW SERIES! NEW HERO! The Grimm Universe is filled with heroes far and wide dealing with threats from vampires, werewolves, corrupt governmental organizations, to ancient orders battling for control of the realms of power. But what lies in the deepest corners of our world could give the evilest creature nightmares. A threat since the beginning of time is rising and only one person will be there to stop it from destroying everything! Working from the shadows a long lineage of warriors have been defending life from the darkness that exists and from that family of soldiers comes the newest ally in the war of monsters, Belle the Beast Hunter! Don't miss this new series as a new hero is introduced into the Grimm Universe!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/belle-beast-hunter-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="she could fly" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>she could fly</ten_truyen>
+		<ma_truyen>she-could-fly</ma_truyen>
+        <tac_gia>Christopher Cantwell, Martin Morazzo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/she-could-fly/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In Chicago, an unknown woman appears flying at speeds of 120 miles per hour and at heights reaching 2,000 feet. Then she suddenly dies in a fiery explosion mid-air. No one knows who she was, how she flew, or why. Luna, a disturbed 15-year-old girl becomes obsessed with learning everything about her while rumors and conspiracy theories roil. Will cracking the secrets of the Flying Woman's inner life lead to the liberation from her own troubled mind?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/she-could-fly-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="sleepless" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Romance" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>sleepless</ten_truyen>
+		<ma_truyen>sleepless</ma_truyen>
+        <tac_gia>Sarah Vaughn, Lelia del Duca, Alissa Sallah, Jen Bartel</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/sleepless-(2017)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Lady 'Poppy' Pyppenia is guarded by the Sleepless Knight Cyrenic, but danger is around every corner once the new king is coronated.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sleepless-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="farmhand" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>farmhand</ten_truyen>
 		<ma_truyen>farmhand</ma_truyen>
@@ -404,32 +431,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/c/cave-carson-has-an-interstellar-eye/1_medium.jpg</hinh_nho>
         <gioi_thieu>After a year of multiverse-hopping and fighting in the Milk Wars, returning to a normal life of digging and cave-diving just isn't the same for explorer Cave Carson. Sure, he's got his podcast, family and that cybernetic eye, but reminiscing about times gone by isn't the same as living. Luckily for Cave Carson and his daughter Chloe, they're about to get sucked into an all-new adventure-literally-when they go spelunking in a black hole! But what's caused this black hole to appears and what's its connection to the intergalactic music sensation Star Adam?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cave-carson-has-an-interstellar-eye-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="new challengers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>new challengers</ten_truyen>
-		<ma_truyen>new-challengers</ma_truyen>
-        <tac_gia>Aaron Gillespie, Scott Snyder, Andy Kubert</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/new-challengers-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Challengers Mountain has returned to the DC Universe and chosen a new team of explorers! Five misfit strangers are given a second chance at life, but only if they obey the orders of the mysterious Professor and execute deadly missions in the most unexplored corners of the multiverse! And if the new Challengers of the Unknown fail... it will be more than just their own lives that hang in the balance!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/new-challengers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hit-girl (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Mature, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hit-girl (2018)</ten_truyen>
-		<ma_truyen>hit-girl-2018</ma_truyen>
-        <tac_gia>Mark Millar, Ricardo Lopez Ortiz</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hit-girl-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The pint-sized Punisher-meets-Polly-Pocket has left America behind and set off to serve justice around the world. First stop: Colombia. A mother seeking vengeance for the murder of her child enlists Hit-Girl to destroy his killer, but Mindy has bigger plans for Colombia's most feared hitman.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hit-girl-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="curse words" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>curse words</ten_truyen>
-		<ma_truyen>curse-words</ma_truyen>
-        <tac_gia>Charles Soule, Jordan Boyd, Ryan Browne</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/curse-words/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A wizard has appeared in New York City, and he's casting wonderful spells, getting famous, getting rich-it's great! But it's not. This wizard has everyone fooled. He is actually an EVIL WIZARD, and EVIL THINGS are on the way. CURSE WORDS is a gonzo modern fantasy, full of darkness, light... and MAGIC.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/curse-words-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

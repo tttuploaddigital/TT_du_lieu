@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="belle: beast hunter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>belle: beast hunter</ten_truyen>
+		<ma_truyen>belle-beast-hunter</ma_truyen>
+        <tac_gia>Dave Franchini, Bong Dazo, Juan M. Rodriguez</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/belle-beast-hunter/1_medium.jpg</hinh_nho>
+        <gioi_thieu>NEW SERIES! NEW HERO! The Grimm Universe is filled with heroes far and wide dealing with threats from vampires, werewolves, corrupt governmental organizations, to ancient orders battling for control of the realms of power. But what lies in the deepest corners of our world could give the evilest creature nightmares. A threat since the beginning of time is rising and only one person will be there to stop it from destroying everything! Working from the shadows a long lineage of warriors have been defending life from the darkness that exists and from that family of soldiers comes the newest ally in the war of monsters, Belle the Beast Hunter! Don't miss this new series as a new hero is introduced into the Grimm Universe!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/belle-beast-hunter-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="she could fly" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>she could fly</ten_truyen>
+		<ma_truyen>she-could-fly</ma_truyen>
+        <tac_gia>Christopher Cantwell, Martin Morazzo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/she-could-fly/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In Chicago, an unknown woman appears flying at speeds of 120 miles per hour and at heights reaching 2,000 feet. Then she suddenly dies in a fiery explosion mid-air. No one knows who she was, how she flew, or why. Luna, a disturbed 15-year-old girl becomes obsessed with learning everything about her while rumors and conspiracy theories roil. Will cracking the secrets of the Flying Woman's inner life lead to the liberation from her own troubled mind?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/she-could-fly-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="sleepless" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Romance" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>sleepless</ten_truyen>
+		<ma_truyen>sleepless</ma_truyen>
+        <tac_gia>Sarah Vaughn, Lelia del Duca, Alissa Sallah, Jen Bartel</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/sleepless-(2017)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Lady 'Poppy' Pyppenia is guarded by the Sleepless Knight Cyrenic, but danger is around every corner once the new king is coronated.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sleepless-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="fairy tail: 100 years quest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Ecchi, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
 		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>Billy Bat is a comic-in-a-comic and the real protagonist is a Japanese-American artist named Kevin Yamagata who draws Billy Bat for 'Marble Comics'. Shortly after they transition to the artist in his studio with his assistant, two actual detectives, who look like Laurel and Hardy in Dick Tracy era suits and trench coats, knock on the door and appropriate Kevin's room for the purpose of conducting surveillance on a room in an adjacent building. One of the detectives, the skinny 'Laurel', sees Kevin's work and it turns out he's a Billy Bat fan. The other chubby 'Hardy' detective picks up a page and says that the characters look familiar and accuses Kevin of translating an old 'Jap' comic. As Hardy remembers the comic he thinks Kevin is ripping off, we make another Urasawaesque time jump to 1949 Tokyo. Billy Bat won the Max und Moritz Prize for 'Best international Comic' in 2014.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/billy-bat-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="injustice vs. masters of the universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>injustice vs. masters of the universe</ten_truyen>
-		<ma_truyen>injustice-vs-masters-of-the-universe</ma_truyen>
-        <tac_gia>Tim Seeley, Freddie E. Williams II, Jeremy Colwell</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/injustice-vs-masters-of-the-universe/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Believing He-man and the Masters of the Universe defeated, a robotic impostor has seized control of Eternia-but not for long! After freeing his kingdom from this strongman's rule, Prince Adam learns not everyone is pleased to see the pretender deposed-but Adam knows the value of freedom. So when heroes from another dimension ask his aid in deposing a super-hero turned dictator, he agrees. Teaming up with Batman against the Superman of the Injustice Universe, He-man and his new allies face dangerous and familiar enemies in a battle where no world is safe!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/injustice-vs-masters-of-the-universe-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="multiple man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>multiple man</ten_truyen>
-		<ma_truyen>multiple-man</ma_truyen>
-        <tac_gia>Matthew Rosenburg, Andy MacDonald</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/multiple-man-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>MATTHEW ROSENBERG and ANDY MACDONALD BRING MULTIPLE MAN BACK FROM THE DEAD...SORT OF...MAYBE? A handful of people's favorite X-Man - Jamie Madrox - was alive for a while. Then he was dead. Now he's not. But he will be again if he doesn't kill himself trying to make sure he doesn't die. It makes sense when you read it. Trust us. In his fight to not die, Jamie has stumbled across a threat even greater than his own death, but fixing it might make it worse. Can he save the world from himself? On top of all that, the X-Men are mad at him now, and a mysterious new group of foes is after him, too. We can't tell you who they are, but they're pretty great.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/multiple-man-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="revenge of wonderland" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>revenge of wonderland</ten_truyen>
-		<ma_truyen>revenge-of-wonderland</ma_truyen>
-        <tac_gia>Joe Brusha, Ralph Tedesco, Dave Franchini, Raven Gregory, Allan Otero, Grostieta</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/revenge-of-wonderland/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The realm of madness is back with a brand new twisted tale of love, loss and vengeance! It's been a long time since Alice Liddle's daughter, Calie, finally escaped the twisted world that her mother was pulled into many years before her. But the insanity of Wonderland has returned and this time around things are much more dangerous and horrifying than ever before. Originally the realm of dreams, but now a realm made up of nightmares, Wonderland has been purged of its original denizens and a new ruler has emerged. The Duchess has been kidnapping people from this world and re-shaping them in her image to use as her personal playthings. Can Calie and her daughter team up to stop a new madness from emerging from Wonderland and invading our world or is it too late to stop the inevitable? Find out here is this insane first issue of a whole new Wonderland!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/revenge-of-wonderland-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
