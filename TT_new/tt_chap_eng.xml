@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>dejah thoris (2018)</ten_truyen>
+		<ma_truyen>dejah-thoris-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris-(2018)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>wasted space</ten_truyen>
+		<ma_truyen>wasted-space</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/w/wasted-space/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>rat queens (2017)</ten_truyen>
+		<ma_truyen>rat-queens-2017</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/r/rat-queens-(2017)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>caterpillar</ten_truyen>
 		<ma_truyen>caterpillar</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/28919/2/200.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
 		<chap_moi>chap 122</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>edge of spider-geddon</ten_truyen>
-		<ma_truyen>edge-of-spider-geddon</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/e/edge-of-spider-geddon/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>titans (2016)</ten_truyen>
-		<ma_truyen>titans-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 25</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars (2015)</ten_truyen>
-		<ma_truyen>star-wars-2015</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 54</chap_moi>
 	</truyen>
 </danh_sach_truyen>
