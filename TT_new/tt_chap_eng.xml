@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>astonisher</ten_truyen>
+		<ma_truyen>astonisher</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-astonisher/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the weatherman</ten_truyen>
+		<ma_truyen>the-weatherman</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/t/the-weatherman/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>accell</ten_truyen>
+		<ma_truyen>accell</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-accell/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>tate no yuusha no nariagari</ten_truyen>
 		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>demon-spirit-seed-manual</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/39751/1/200.jpg</hinh_nho>
 		<chap_moi>chap 168</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the wild storm</ten_truyen>
-		<ma_truyen>the-wild-storm</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/w/wild-storm/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 17</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mata hari (2018)</ten_truyen>
-		<ma_truyen>mata-hari-2018</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/m/mata-hari-(2018)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hit-girl (2018)</ten_truyen>
-		<ma_truyen>hit-girl-2018</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/h/hit-girl-(2018)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 8</chap_moi>
 	</truyen>
 </danh_sach_truyen>
