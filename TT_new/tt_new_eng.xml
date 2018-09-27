@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="double casting" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, Mystery, Romance, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>double casting</ten_truyen>
+		<ma_truyen>double-casting</ma_truyen>
+		<tac_gia>Shin Yeong Woo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/38092/1/200.jpg</hinh_nho>
+		<gioi_thieu>A rising boss in the underworld is forced to lead a double life as a police officer and a gang boss in order to find the killer of his brother.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/double-casting-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="dear, only you don't know!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Josei, Romance, Slice of life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>dear, only you don't know!</ten_truyen>
+		<ma_truyen>dear-only-you-don-t-know</ma_truyen>
+		<tac_gia>Yuria</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2181/1/200.jpg</hinh_nho>
+		<gioi_thieu>Everyone knows women are tricky beings, with layers upon layers of secrets they hide, but there are some secrets women must risk everything in order to keep hidden! These women with such hidden secrets are being revealed in the new series, 'Dear, Only You Don't Know!'</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/dear-only-you-don-t-know-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="skeleton soldier" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Supernatural, Tragedy, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>skeleton soldier</ten_truyen>
+		<ma_truyen>skeleton-soldier</ma_truyen>
+		<tac_gia>Ant Studio, Sosori	</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/7a/63/7a63998dbe12a91bc1a7bd46a06fcbd8237c0733_13671_200_248.jpg</hinh_nho>
+		<gioi_thieu>A lowly skeleton soldier had only one purpose: to protect his succubus master. And yet he was powerless to protect her, being crushed by the hero. But fate has more in store for him as he gets another chance to protect his master once more and try to change his destiny despite all odds.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/skeleton-soldier-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="belle: beast hunter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>belle: beast hunter</ten_truyen>
 		<ma_truyen>belle-beast-hunter</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>YOU CAN TAKE THE PUNISHER OUT OF THE WAR MACHINE... Punisher no longer has the War Machine armor, but he retained his newly acquired taste for big game, and he's hungry for more. However, the paths to such perilous pursuits are fraught with dangers bigger than any Frank has faced before, and this lone wolf could use otherworldly help on his way up to the world stage.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-punisher-2018-eng.xml</file_xml>
     </truyen>
-	<truyen ten="eden's zero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>eden's zero</ten_truyen>
-		<ma_truyen>eden-s-zero</ma_truyen>
-		<tac_gia>Mashima Hiro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
-		<gioi_thieu>The amusement park planet of Granbell Kingdom has been abandoned for 100 years. Rebecca and her talking cat Happy are the first visitors in years, causing excitement among the robot inhabitants. However, Rebecca soon discovers that she's not the only human in the park! Shiki has lived on Granbell for most of his life after being taken in by the Demon King robot, who became his grandfather-figure. Now he does repairs for the robots in the park. But the robots then strangely turn against Shiki to force him to leave the planet with Rebecca in order to fulfill their promise to the Demon King, who knew Shiki was destined for greatness. With the ancient powers of Ether Gear, Shiki begins his journey into space, where dragons roam the stars!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="tsuki ga michibiku isekai douchuu" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>tsuki ga michibiku isekai douchuu</ten_truyen>
-		<ma_truyen>tsuki-ga-michibiku-isekai-douchuu</ma_truyen>
-		<tac_gia>Azumi Kei, Kino Kotora</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/35174/2/200.jpg</hinh_nho>
-		<gioi_thieu>High school student Misumi Makoto is called into a fantasy world by the god Tsukuyomi, in order to be a hero. However, powerful others in this world aren't as thrilled to have him there, and they kick him to the edge of the world just as Tsukuyomi declares that he must leave Makoto to find his own way. Now it's up to Makoto to find his own way!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuki-ga-michibiku-isekai-douchuu-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="billy bat" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>billy bat</ten_truyen>
-		<ma_truyen>billy-bat</ma_truyen>
-		<tac_gia>Nekoguchi</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Billy_bat_first_cover.jpg/220px-Billy_bat_first_cover.jpg</hinh_nho>
-		<gioi_thieu>Billy Bat is a comic-in-a-comic and the real protagonist is a Japanese-American artist named Kevin Yamagata who draws Billy Bat for 'Marble Comics'. Shortly after they transition to the artist in his studio with his assistant, two actual detectives, who look like Laurel and Hardy in Dick Tracy era suits and trench coats, knock on the door and appropriate Kevin's room for the purpose of conducting surveillance on a room in an adjacent building. One of the detectives, the skinny 'Laurel', sees Kevin's work and it turns out he's a Billy Bat fan. The other chubby 'Hardy' detective picks up a page and says that the characters look familiar and accuses Kevin of translating an old 'Jap' comic. As Hardy remembers the comic he thinks Kevin is ripping off, we make another Urasawaesque time jump to 1949 Tokyo. Billy Bat won the Max und Moritz Prize for 'Best international Comic' in 2014.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/billy-bat-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
