@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="yuusha ga shinda!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>yuusha ga shinda!</ten_truyen>
+		<ma_truyen>yuusha-ga-shinda</ma_truyen>
+		<tac_gia>Subaruichi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/29997/3/200.jpg</hinh_nho>
+		<gioi_thieu>Three Years ago a Hero sealed a Hell Gate. The Seal has been weakening ever since, sporadically letting Monsters through. After a big Group of Monsters entered the Country through a Hell Gate, the profession of Heroes was needed again. Touka Scott a small Radish Farmer in the southern Town of Cheza is prepared for sudden Monster Attacks. He built himself a hidden Pittrap with Bamboo spikes, to lure unsuspecting Monsters in if they ever try to Attack the Village. Suddenly a Monster attacks. Touka tries to lure it into the Trap with freshly roasted Bacon, but the Monster dislikes this type of Meat. Thankfully the local Hero saves the Village from the Monster in the nick of Time. The hungry Hero tries to grab a bite of Bacon after vanquishing the Monster, only to stumble into Toukas Pittrap and Die. After causing the local Heros Death, Touka is forced to take matters into his own Hands to protect the Region from attacking Monsters.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuusha-ga-shinda-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="servamp" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Mystery, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>servamp</ten_truyen>
+		<ma_truyen>servamp</ma_truyen>
+		<tac_gia>Tanaka Strike</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/24536/3/200.jpg</hinh_nho>
+		<gioi_thieu>When a stray black cat named Kuro crosses Mahiru Shirota's path, the high school freshman's life will never be the same again. Kuro is, in fact, no ordinary feline, but a servamp: a servant vampire. While Mahiru's personal philosophy is one of non-intervention, he soon becomes embroiled in an ancient, altogether surreal conflict between vampires and humans.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/servamp-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="shinjuku swan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>shinjuku swan</ten_truyen>
+		<ma_truyen>shinjuku-swan</ma_truyen>
+		<tac_gia>Wakui Ken</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/32873/1/200.jpg</hinh_nho>
+		<gioi_thieu>Shiratori Tatsuhiko was a bum wandering the streets with no money to his name when he meets Mako. He works as a scout for an agency called Burst that recruits girls on the streets for adult entertainment in the Shinjuku area of Tokyo. Tatsuhiko quickly learns the techniques of scouting and is even more attracted to how much money he can make. But with how the industry is maintained, Tatsuhiko has to deal with the lying, deception, violence, greed and even the yakuza. He wants to keep the morals that he has, but it gets progressively harder and harder as he gets deeper into the other side of society.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shinjuku-swan-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="double casting" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, Mystery, Romance, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>double casting</ten_truyen>
 		<ma_truyen>double-casting</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>Believing himself to be useless at football, Aizawa Kakeru opts to become the manager of his school's football team, while his brother Suguru is its ace, and is even good enough to represent Japan. However, Kakeru may be harbouring a strong talent within himself that only Suguru can see, and the two often get into arguments over Kakeru's denial of his skills. Things are made more complicated with the return of Seven, an old playmate of theirs that Kakeru has a crush on. Join the brothers in their journey to the national and even international championships!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/area-no-kishi-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="mr. and mrs. x" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>mr. and mrs. x</ten_truyen>
-		<ma_truyen>mr-and-mrs-x</ma_truyen>
-        <tac_gia>Kelly Thompson, Oscar Bazaldua</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/mr-and-mrs-x/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Straight from the pages of X-MEN GOLD... to the surprise of everyone, the Marvel Universe's hottest couple has finally tied the knot! In their extraordinary lives, they've faced nearly every challenge imaginable, but how will they fare against former flames making trouble? An entire galaxy in jeopardy? You want it? We got it, as Kelly Thompson (HAWKEYE, ROGUE and GAMBIT) and Oscar Bazaldua (SPIDER-MAN, STAR WARS: ROGUE ONE) bring you the tantalizing tale of a modern marriage... X-MEN STYLE!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mr-and-mrs-x-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the silencer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the silencer</ten_truyen>
-		<ma_truyen>the-silencer</ma_truyen>
-        <tac_gia>Dan Abnett, John Romita Jr., Sandra Hope</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-silencer/1_medium.jpg</hinh_nho>
-        <gioi_thieu>She's one of the DC Universe's deadliest assassins... and you've never heard of her. Super-strong, highly trained, armed with devastating and stealthy meta-human abilities, the Silencer is virtually invincible. Or at least she was. After decades as Leviathan's chief assassin, Honor Guest put in her time and managed to get out with her skin intact. Now she lives a normal life with a normal family in a normal house on a normal street. But the past has come back to haunt her in the form of her old employer and a deadly new mission... and Talia Al Ghul won't take no for an answer.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-silencer-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the punisher (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the punisher (2018)</ten_truyen>
-		<ma_truyen>the-punisher-2018</ma_truyen>
-        <tac_gia>Matt Rosenberg, Szymon Kudranski</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/punisher-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>YOU CAN TAKE THE PUNISHER OUT OF THE WAR MACHINE... Punisher no longer has the War Machine armor, but he retained his newly acquired taste for big game, and he's hungry for more. However, the paths to such perilous pursuits are fraught with dangers bigger than any Frank has faced before, and this lone wolf could use otherworldly help on his way up to the world stage.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-punisher-2018-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

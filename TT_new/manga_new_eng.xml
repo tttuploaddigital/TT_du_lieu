@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="yuusha ga shinda!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>yuusha ga shinda!</ten_truyen>
+		<ma_truyen>yuusha-ga-shinda</ma_truyen>
+		<tac_gia>Subaruichi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/29997/3/200.jpg</hinh_nho>
+		<gioi_thieu>Three Years ago a Hero sealed a Hell Gate. The Seal has been weakening ever since, sporadically letting Monsters through. After a big Group of Monsters entered the Country through a Hell Gate, the profession of Heroes was needed again. Touka Scott a small Radish Farmer in the southern Town of Cheza is prepared for sudden Monster Attacks. He built himself a hidden Pittrap with Bamboo spikes, to lure unsuspecting Monsters in if they ever try to Attack the Village. Suddenly a Monster attacks. Touka tries to lure it into the Trap with freshly roasted Bacon, but the Monster dislikes this type of Meat. Thankfully the local Hero saves the Village from the Monster in the nick of Time. The hungry Hero tries to grab a bite of Bacon after vanquishing the Monster, only to stumble into Toukas Pittrap and Die. After causing the local Heros Death, Touka is forced to take matters into his own Hands to protect the Region from attacking Monsters.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuusha-ga-shinda-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="servamp" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Mystery, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>servamp</ten_truyen>
+		<ma_truyen>servamp</ma_truyen>
+		<tac_gia>Tanaka Strike</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/24536/3/200.jpg</hinh_nho>
+		<gioi_thieu>When a stray black cat named Kuro crosses Mahiru Shirota's path, the high school freshman's life will never be the same again. Kuro is, in fact, no ordinary feline, but a servamp: a servant vampire. While Mahiru's personal philosophy is one of non-intervention, he soon becomes embroiled in an ancient, altogether surreal conflict between vampires and humans.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/servamp-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="shinjuku swan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>shinjuku swan</ten_truyen>
+		<ma_truyen>shinjuku-swan</ma_truyen>
+		<tac_gia>Wakui Ken</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/32873/1/200.jpg</hinh_nho>
+		<gioi_thieu>Shiratori Tatsuhiko was a bum wandering the streets with no money to his name when he meets Mako. He works as a scout for an agency called Burst that recruits girls on the streets for adult entertainment in the Shinjuku area of Tokyo. Tatsuhiko quickly learns the techniques of scouting and is even more attracted to how much money he can make. But with how the industry is maintained, Tatsuhiko has to deal with the lying, deception, violence, greed and even the yakuza. He wants to keep the morals that he has, but it gets progressively harder and harder as he gets deeper into the other side of society.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shinjuku-swan-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="fairy tail: 100 years quest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Ecchi, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
 		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/29848/2/200.jpg</hinh_nho>
 		<gioi_thieu>Sakura Kousuke is a boy who strives to throw away a past mired in regret. He transfers to a new school for his second year of high school, believing it will give him a chance to come clean. Unbeknownst to him, however, the appearance of five other 'Sakura's in his class will bring the past to his present, forcing him to come to terms with himself, his old friends, and a girl who, though being Kousuke's complete opposite in terms of personality, also knows him better than anyone else.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/sakura-discord-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="dungeon seeker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Mature, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>dungeon seeker</ten_truyen>
-		<ma_truyen>dungeon-seeker</ma_truyen>
-		<tac_gia>Sakamoto 666, Mizukiyoshi Juro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/41914/2/200.jpg</hinh_nho>
-		<gioi_thieu>Junpei Takeda, a high school student, is childhood friends with Noriko Tatsumiya and the bully Kido Shouta. One day, during the usual course of bullying Junpei, they were suddenly summoned to a different world by the whim of 'God'. Summoned Heroes with cheats, or so he thought. But it turns out Junpei's stats were even worse than an average farmer. Tricked into a deathly labyrinth by the only one he trust, he walks the journey for revenge.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-seeker-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="dansai bunri no crime edge" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, Horror, Mystery, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>dansai bunri no crime edge</ten_truyen>
-		<ma_truyen>dansai-bunri-no-crime-edge</ma_truyen>
-		<tac_gia>Hikagi Tatsuhiko</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/2108/4/200.jpg</hinh_nho>
-		<gioi_thieu>Haimura Kiri is a seemingly ordinary boy with one slight problem: he is obsessed with cutting other people's hair. One day he meets Mushiyanokouji Iwai, the 'Hair Queen' who cannot cut her hair because of an inherited curse. Kiri finds out that his scissor, 'Dansai Bunri no Crime Edge' is the only thing that can cut them. But little did he know that their meeting sparked the start of an old murder game to kill the 'Hair Queen' using the cursed killing tools, the 'Killing Goods.' Can Kiri protect Iwai from the Killing Goods Owners? Let the game begin!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dansai-bunri-no-crime-edge-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="bokutachi wa shitte shimatta" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>bokutachi wa shitte shimatta</ten_truyen>
-		<ma_truyen>bokutachi-wa-shitte-shimatta</ma_truyen>
-		<tac_gia>Miyasaka Kaho</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/1439/2/200.jpg</hinh_nho>
-		<gioi_thieu>The Fujisaki Girls Academy is known for their school body being composed of very proper students. The most prominent one of them is Maki, the student president who is admired by her classmates for her calm and polite demeanor. On the other hand, Kurahashi Riko is also admired but for having a very forward and boyish personality. Riko accidentally walks into Maki while she's practicing kissing with a pillow and learns that she isn't what everyone thinks she is. Riko is forced into keeping Maki's secret and join her in practicing all aspects of romance like holding hands and more.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bokutachi-wa-shitte-shimatta-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
