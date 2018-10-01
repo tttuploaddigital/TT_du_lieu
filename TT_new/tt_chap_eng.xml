@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>ake no tobari</ten_truyen>
+		<ma_truyen>ake-no-tobari</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/39326/1/200.jpg</hinh_nho>
+		<chap_moi>chap 133</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>murenase! shiiton gakuen</ten_truyen>
+		<ma_truyen>murenase-shiiton-gakuen</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41813/1/200.jpg</hinh_nho>
+		<chap_moi>chap 53</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tomo-chan wa onnanoko!</ten_truyen>
+		<ma_truyen>tomo-chan-wa-onnanoko</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/34075/8/200.jpg</hinh_nho>
+		<chap_moi>chap 846</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>x-men: red</ten_truyen>
 		<ma_truyen>x-men-red</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-red-(2018)/1_medium.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>accell</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-accell/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 14</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tate no yuusha no nariagari</ten_truyen>
-		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
-		<chap_moi>chap 44</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mushoku tensei - isekai ittara honki dasu</ten_truyen>
-		<ma_truyen>mushoku-tensei-isekai-ittara-honki-dasu</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27951/3/200.jpg</hinh_nho>
-		<chap_moi>chap 44</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>sousei no onmyouji</ten_truyen>
-		<ma_truyen>sousei-no-onmyouji</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/24603/11/200.jpg</hinh_nho>
-		<chap_moi>chap 54</chap_moi>
 	</truyen>
 </danh_sach_truyen>
