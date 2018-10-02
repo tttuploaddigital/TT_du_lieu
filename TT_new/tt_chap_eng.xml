@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>batgirl (2016)</ten_truyen>
+		<ma_truyen>batgirl-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/b/batgirl-(2016)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>marvel two-in-one (2017)</ten_truyen>
+		<ma_truyen>marvel-two-in-one-2017</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-two-in-one/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>witchfinder: the gates of heaven</ten_truyen>
+		<ma_truyen>witchfinder-the-gates-of-heaven</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/w/witchfinder-the-gates-of-heaven/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>mahou tsukai no yome</ten_truyen>
 		<ma_truyen>mahou-tsukai-no-yome</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/25056/8/200.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>demon-spirit-seed-manual</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/39751/1/200.jpg</hinh_nho>
 		<chap_moi>chap 171</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-men: blue</ten_truyen>
-		<ma_truyen>x-men-blue</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-blue-(2017)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 36</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars adventures (2017)</ten_truyen>
-		<ma_truyen>star-wars-adventures-2017</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-adventures/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 14</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>invader zim</ten_truyen>
-		<ma_truyen>invader-zim</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/i/invader-zim/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 35</chap_moi>
 	</truyen>
 </danh_sach_truyen>
