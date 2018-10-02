@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>mahou tsukai no yome</ten_truyen>
+		<ma_truyen>mahou-tsukai-no-yome</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/25056/8/200.jpg</hinh_nho>
+		<chap_moi>chap 50</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>monster musume no iru nichijou</ten_truyen>
+		<ma_truyen>monster-musume-no-iru-nichijou</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/6594/10/200.jpg</hinh_nho>
+		<chap_moi>chap 61</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>murenase! shiiton gakuen</ten_truyen>
+		<ma_truyen>murenase-shiiton-gakuen</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41813/1/200.jpg</hinh_nho>
+		<chap_moi>chap 54</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>edge of spider-geddon</ten_truyen>
 		<ma_truyen>edge-of-spider-geddon</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/e/edge-of-spider-geddon/1_medium.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>invader-zim</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/i/invader-zim/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 35</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>ake no tobari</ten_truyen>
-		<ma_truyen>ake-no-tobari</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/39326/1/200.jpg</hinh_nho>
-		<chap_moi>chap 133</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>murenase! shiiton gakuen</ten_truyen>
-		<ma_truyen>murenase-shiiton-gakuen</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41813/1/200.jpg</hinh_nho>
-		<chap_moi>chap 53</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tomo-chan wa onnanoko!</ten_truyen>
-		<ma_truyen>tomo-chan-wa-onnanoko</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/34075/8/200.jpg</hinh_nho>
-		<chap_moi>chap 846</chap_moi>
 	</truyen>
 </danh_sach_truyen>
