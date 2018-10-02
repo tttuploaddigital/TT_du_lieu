@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>edge of spider-geddon</ten_truyen>
+		<ma_truyen>edge-of-spider-geddon</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/e/edge-of-spider-geddon/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the flash (2016)</ten_truyen>
+		<ma_truyen>the-flash-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 55</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>world of tanks: citadel</ten_truyen>
+		<ma_truyen>world-of-tanks-citadel</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/w/world-of-tanks-citadel/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>nanatsu no taizai</ten_truyen>
 		<ma_truyen>nanatsu-no-taizai</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>tomo-chan-wa-onnanoko</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/34075/8/200.jpg</hinh_nho>
 		<chap_moi>chap 846</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-men: red</ten_truyen>
-		<ma_truyen>x-men-red</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-red-(2018)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>transformers: lost light</ten_truyen>
-		<ma_truyen>transformers-lost-light</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-lost-light/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 24</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wayward</ten_truyen>
-		<ma_truyen>wayward</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/w/wayward/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 29</chap_moi>
 	</truyen>
 </danh_sach_truyen>
