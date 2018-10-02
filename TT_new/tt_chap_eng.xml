@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>spirit blade mountain</ten_truyen>
+		<ma_truyen>spirit-blade-mountain</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/38167/2/200.jpg</hinh_nho>
+		<chap_moi>chap 325</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>red storm</ten_truyen>
+		<ma_truyen>red-storm</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/21499/2/200.jpg</hinh_nho>
+		<chap_moi>chap 295</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>demon spirit seed manual</ten_truyen>
+		<ma_truyen>demon-spirit-seed-manual</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/39751/1/200.jpg</hinh_nho>
+		<chap_moi>chap 171</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>x-men: blue</ten_truyen>
 		<ma_truyen>x-men-blue</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-blue-(2017)/1_medium.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>days</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/28078/2/200.jpg</hinh_nho>
 		<chap_moi>chap 160</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tales of demons and gods</ten_truyen>
-		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
-		<chap_moi>chap 192</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wind breaker</ten_truyen>
-		<ma_truyen>wind-breaker</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/24786/3/200.jpg</hinh_nho>
-		<chap_moi>chap 196</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wo jia dashi xiong naozi you keng</ten_truyen>
-		<ma_truyen>wo-jia-dashi-xiong-naozi-you-keng</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/39509/1/200.jpg</hinh_nho>
-		<chap_moi>chap 296</chap_moi>
 	</truyen>
 </danh_sach_truyen>
