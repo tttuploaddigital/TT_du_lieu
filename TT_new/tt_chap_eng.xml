@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>x-men: blue</ten_truyen>
+		<ma_truyen>x-men-blue</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-blue-(2017)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 36</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>star wars adventures (2017)</ten_truyen>
+		<ma_truyen>star-wars-adventures-2017</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-adventures/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>invader zim</ten_truyen>
+		<ma_truyen>invader-zim</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/i/invader-zim/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 35</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>ake no tobari</ten_truyen>
 		<ma_truyen>ake-no-tobari</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/39326/1/200.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>wo-jia-dashi-xiong-naozi-you-keng</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/39509/1/200.jpg</hinh_nho>
 		<chap_moi>chap 296</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>astonisher</ten_truyen>
-		<ma_truyen>astonisher</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-astonisher/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the weatherman</ten_truyen>
-		<ma_truyen>the-weatherman</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/t/the-weatherman/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>accell</ten_truyen>
-		<ma_truyen>accell</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-accell/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 14</chap_moi>
 	</truyen>
 </danh_sach_truyen>
