@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>wind breaker</ten_truyen>
+		<ma_truyen>wind-breaker</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/24786/3/200.jpg</hinh_nho>
+		<chap_moi>chap 197</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>feng qi cang lan</ten_truyen>
+		<ma_truyen>feng-qi-cang-lan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/42847/1/200.jpg</hinh_nho>
+		<chap_moi>chap 89.3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hyulla's race</ten_truyen>
+		<ma_truyen>hyulla-s-race</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/38362/1/200.jpg</hinh_nho>
+		<chap_moi>chap 56.2</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>batgirl (2016)</ten_truyen>
 		<ma_truyen>batgirl-2016</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/b/batgirl-(2016)/1_medium.jpg</hinh_nho>
@@ -71,23 +89,5 @@
 		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
 		<chap_moi>chap 46</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>spirit blade mountain</ten_truyen>
-		<ma_truyen>spirit-blade-mountain</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/38167/2/200.jpg</hinh_nho>
-		<chap_moi>chap 325</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>red storm</ten_truyen>
-		<ma_truyen>red-storm</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/21499/2/200.jpg</hinh_nho>
-		<chap_moi>chap 295</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>demon spirit seed manual</ten_truyen>
-		<ma_truyen>demon-spirit-seed-manual</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/39751/1/200.jpg</hinh_nho>
-		<chap_moi>chap 171</chap_moi>
 	</truyen>
 </danh_sach_truyen>
