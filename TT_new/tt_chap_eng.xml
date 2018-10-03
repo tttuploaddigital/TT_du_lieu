@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<!--
+	<truyen>
+		<ten_truyen>golden kamui</ten_truyen>
+		<ma_truyen>golden-kamui</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
+		<chap_moi>chap 172</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hatsukoi zombie</ten_truyen>
+		<ma_truyen>hatsukoi-zombie</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/38108/6/200.jpg</hinh_nho>
+		<chap_moi>chap 132</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>death march kara hajimaru isekai kyousoukyoku</ten_truyen>
+		<ma_truyen>death-march-kara-hajimaru-isekai-kyousoukyoku</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/34701/2/200.jpg</hinh_nho>
+		<chap_moi>chap 45</chap_moi>
+	</truyen>
+	-->
+	<truyen>
+		<ten_truyen>hinomaru-zumou</ten_truyen>
+		<ma_truyen>hinomaru-zumou</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28267/9/200.jpg</hinh_nho>
+		<chap_moi>chap 208</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hare kon.</ten_truyen>
+		<ma_truyen>hare-kon</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28080/4/200.jpg</hinh_nho>
+		<chap_moi>chap 144</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kakao 79%</ten_truyen>
+		<ma_truyen>kakao-79</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41590/1/200.jpg</hinh_nho>
+		<chap_moi>chap 157</chap_moi>
+	</truyen>
 	<truyen>
 		<ten_truyen>wind breaker</ten_truyen>
 		<ma_truyen>wind-breaker</ma_truyen>
@@ -71,23 +109,5 @@
 		<ma_truyen>world-of-tanks-citadel</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/w/world-of-tanks-citadel/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanatsu no taizai</ten_truyen>
-		<ma_truyen>nanatsu-no-taizai</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
-		<chap_moi>chap 284</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>vinland saga</ten_truyen>
-		<ma_truyen>vinland-saga</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/10869/1/200.jpg</hinh_nho>
-		<chap_moi>chap 154</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tate no yuusha no nariagari</ten_truyen>
-		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
-		<chap_moi>chap 46</chap_moi>
 	</truyen>
 </danh_sach_truyen>
