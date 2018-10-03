@@ -19,6 +19,7 @@
 		<hinh_nho>https://comicbookroundup.com/img/covers/b/batman-beyond-(2016)/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 24</chap_moi>
 	</truyen>
+	-->
 	<truyen>
 		<ten_truyen>golden kamui</ten_truyen>
 		<ma_truyen>golden-kamui</ma_truyen>
@@ -37,7 +38,6 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/34701/2/200.jpg</hinh_nho>
 		<chap_moi>chap 45</chap_moi>
 	</truyen>
-	-->
 	<truyen>
 		<ten_truyen>ben reilly: scarlet spider</ten_truyen>
 		<ma_truyen>ben-reilly-scarlet-spider</ma_truyen>
@@ -109,23 +109,5 @@
 		<ma_truyen>witchfinder-the-gates-of-heaven</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/w/witchfinder-the-gates-of-heaven/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mahou tsukai no yome</ten_truyen>
-		<ma_truyen>mahou-tsukai-no-yome</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/25056/8/200.jpg</hinh_nho>
-		<chap_moi>chap 50</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>monster musume no iru nichijou</ten_truyen>
-		<ma_truyen>monster-musume-no-iru-nichijou</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/6594/10/200.jpg</hinh_nho>
-		<chap_moi>chap 61</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>murenase! shiiton gakuen</ten_truyen>
-		<ma_truyen>murenase-shiiton-gakuen</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41813/1/200.jpg</hinh_nho>
-		<chap_moi>chap 54</chap_moi>
 	</truyen>
 </danh_sach_truyen>
