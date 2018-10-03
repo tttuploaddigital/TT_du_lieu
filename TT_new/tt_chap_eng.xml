@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<!--
 	<truyen>
 		<ten_truyen>batman: kings of fear</ten_truyen>
 		<ma_truyen>batman-kings-of-fear</ma_truyen>
@@ -19,7 +18,6 @@
 		<hinh_nho>https://comicbookroundup.com/img/covers/b/batman-beyond-(2016)/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 24</chap_moi>
 	</truyen>
-	-->
 	<truyen>
 		<ten_truyen>golden kamui</ten_truyen>
 		<ma_truyen>golden-kamui</ma_truyen>
