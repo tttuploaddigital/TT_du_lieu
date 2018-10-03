@@ -3161,7 +3161,7 @@
     </truyen>
 	<truyen ten="the terrifics" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the terrifics</ten_truyen>
-		<ma_truyen>the terrifics</ma_truyen>
+		<ma_truyen>the-terrifics</ma_truyen>
         <tac_gia>Jeff Lemire, Ivan Reis, Joe Prado, Marcelo Maiolo</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-terrifics/1_medium.jpg</hinh_nho>
