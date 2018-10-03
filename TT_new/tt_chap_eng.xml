@@ -2,6 +2,24 @@
 <danh_sach_truyen>
 	<!--
 	<truyen>
+		<ten_truyen>batman: kings of fear</ten_truyen>
+		<ma_truyen>batman-kings-of-fear</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
+		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>batman beyond (2016)</ten_truyen>
+		<ma_truyen>batman-beyond-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/b/batman-beyond-(2016)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 24</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>golden kamui</ten_truyen>
 		<ma_truyen>golden-kamui</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
@@ -20,6 +38,24 @@
 		<chap_moi>chap 45</chap_moi>
 	</truyen>
 	-->
+	<truyen>
+		<ten_truyen>ben reilly: scarlet spider</ten_truyen>
+		<ma_truyen>ben-reilly-scarlet-spider</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/b/ben-reilly-the-scarlet-spider/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 24</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the terrifics</ten_truyen>
+		<ma_truyen>the-terrifics</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/h/hackslash-resurrection/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hack/slash: resurrection</ten_truyen>
+		<ma_truyen>hack-slash-resurrection</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
 	<truyen>
 		<ten_truyen>hinomaru-zumou</ten_truyen>
 		<ma_truyen>hinomaru-zumou</ma_truyen>
@@ -91,23 +127,5 @@
 		<ma_truyen>murenase-shiiton-gakuen</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/41813/1/200.jpg</hinh_nho>
 		<chap_moi>chap 54</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>edge of spider-geddon</ten_truyen>
-		<ma_truyen>edge-of-spider-geddon</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/e/edge-of-spider-geddon/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the flash (2016)</ten_truyen>
-		<ma_truyen>the-flash-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 55</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>world of tanks: citadel</ten_truyen>
-		<ma_truyen>world-of-tanks-citadel</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/w/world-of-tanks-citadel/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 5</chap_moi>
 	</truyen>
 </danh_sach_truyen>
