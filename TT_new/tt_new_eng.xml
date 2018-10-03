@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="infinity wars: iron hammer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity wars: iron hammer</ten_truyen>
+		<ma_truyen>infinity-wars-iron-hammer</ma_truyen>
+        <tac_gia>Al Ewing, Humberto Ramos</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-iron-hammer/1_medium.jpg</hinh_nho>
+        <gioi_thieu>INFINITY WARPS?! When Stark Odinson, the brainy but arrogant son of the All-Father, was kidnapped by Ice Giants and forced to make them an armory, he turned their forges against them and became the armored Asgardian, Iron Hammer!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-iron-hammer-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="venom: first host" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>venom: first host</ten_truyen>
+		<ma_truyen>venom-first-host</ma_truyen>
+        <tac_gia>Mike Costa, Mark Bagley</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/venom-first-host/1_medium.jpg</hinh_nho>
+        <gioi_thieu>MIKE COSTA AND MARK BAGLEY REUNITE FOR A VENOM STORY UNLIKE ANY OTHER! Before the AMAZING SPIDER-MAN...before VENOM... There was the FIRST HOST. And that First Host has returned  in need of Venom's help - only by reuniting can the two avert cosmic ruin! Can Eddie and the symbiote trust one another long enough to save the galaxy, or will the FIRST HOST prove to be Venom's undoing?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venom-first-host-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the sentry (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the sentry (2018)</ten_truyen>
+		<ma_truyen>the-sentry-2018</ma_truyen>
+        <tac_gia>Jeff Lemire, Kim Jacinto</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/sentry-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE GOLDEN GUARDIAN IS BACK! FRESH FROM THE PAGES OF DOCTOR STRANGE...but is that really such a good thing? The greatest hero that the Marvel Universe ever forgot has returned! The Sentry - shining sentinel with the power of a thousand exploding suns - is back from the dead, but his troubled mind is far from finding peace. By day, he trudges through a mundane life as Bob Reynolds; at night, the Sentry soars across a gleaming, perfect skyline. But how much of the Sentry's dual existence is real? And what of his dark other self, the Void?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-sentry-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="yuusha ga shinda!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>yuusha ga shinda!</ten_truyen>
 		<ma_truyen>yuusha-ga-shinda</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>EXTERMINATE THE PAST. ELIMINATE THE FUTURE. Cyclops. Iceman. Angel. Beast. Marvel Girl. The original team of teen mutants brought together by Professor Charles Xavier many years ago have been shunted through time to find a world they barely recognize but were determined to help. Now, finding themselves targeted for death, the future of mutantkind lies squarely in the hands of its past.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/extermination-2018-eng.xml</file_xml>
     </truyen>
-	<truyen ten="knight's and magic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Mecha, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>knight's and magic</ten_truyen>
-		<ma_truyen>knight-s-and-magic</ma_truyen>
-		<tac_gia>Amazake No Hisago, Katou Takuji, Kurogin</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43546/1/200.jpg</hinh_nho>
-		<gioi_thieu>A mecha otaku is reincarnated into another world as Ernesti Echevalier (Eru). In this world, exist huge humanoid weapon known as Silhouette Knight. Dreaming of piloting those robots, Eru, with childhood friends, Archid and Adeltrud Olter: together they will aim to become Knight Runner, pilot of Silhoutte Knight.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/knight-s-and-magic-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gal gohan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gal gohan</ten_truyen>
-		<ma_truyen>gal-gohan</ma_truyen>
-		<tac_gia>Taiyou Marii</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/46625/2/200.jpg</hinh_nho>
-		<gioi_thieu>Home Economics Teacher, Shinji Yabe, is asked by the biggest gyaru in school, Miku Okazaki, to help her 'bake cookies to give to the teachers'. The principal told her to do this, after she flunked every subject and makeup-class they put her in. He gets her to successfully finish a batch of cookies after several mishaps and is touched by his students glee over her success. He decides to start a cooking club after this experience to get more time and connection with his students. Upon hearing this, Miku decides to join, since he was the first teacher that didn't shove her into makeup-lessons after her failings and pushed her to try harder instead.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gal-gohan-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="area no kishi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, School life, Shounen., Sports, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>area no kishi</ten_truyen>
-		<ma_truyen>area-no-kishi</ma_truyen>
-		<tac_gia>Igano Hiroaki, Tsukiyama Kaya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/841/9/200.jpg</hinh_nho>
-		<gioi_thieu>Believing himself to be useless at football, Aizawa Kakeru opts to become the manager of his school's football team, while his brother Suguru is its ace, and is even good enough to represent Japan. However, Kakeru may be harbouring a strong talent within himself that only Suguru can see, and the two often get into arguments over Kakeru's denial of his skills. Things are made more complicated with the return of Seven, an old playmate of theirs that Kakeru has a crush on. Join the brothers in their journey to the national and even international championships!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/area-no-kishi-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>

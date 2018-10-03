@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="infinity wars: iron hammer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity wars: iron hammer</ten_truyen>
+		<ma_truyen>infinity-wars-iron-hammer</ma_truyen>
+        <tac_gia>Al Ewing, Humberto Ramos</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-iron-hammer/1_medium.jpg</hinh_nho>
+        <gioi_thieu>INFINITY WARPS?! When Stark Odinson, the brainy but arrogant son of the All-Father, was kidnapped by Ice Giants and forced to make them an armory, he turned their forges against them and became the armored Asgardian, Iron Hammer!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-iron-hammer-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="venom: first host" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>venom: first host</ten_truyen>
+		<ma_truyen>venom-first-host</ma_truyen>
+        <tac_gia>Mike Costa, Mark Bagley</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/venom-first-host/1_medium.jpg</hinh_nho>
+        <gioi_thieu>MIKE COSTA AND MARK BAGLEY REUNITE FOR A VENOM STORY UNLIKE ANY OTHER! Before the AMAZING SPIDER-MAN...before VENOM... There was the FIRST HOST. And that First Host has returned  in need of Venom's help - only by reuniting can the two avert cosmic ruin! Can Eddie and the symbiote trust one another long enough to save the galaxy, or will the FIRST HOST prove to be Venom's undoing?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venom-first-host-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the sentry (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the sentry (2018)</ten_truyen>
+		<ma_truyen>the-sentry-2018</ma_truyen>
+        <tac_gia>Jeff Lemire, Kim Jacinto</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/sentry-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE GOLDEN GUARDIAN IS BACK! FRESH FROM THE PAGES OF DOCTOR STRANGE...but is that really such a good thing? The greatest hero that the Marvel Universe ever forgot has returned! The Sentry - shining sentinel with the power of a thousand exploding suns - is back from the dead, but his troubled mind is far from finding peace. By day, he trudges through a mundane life as Bob Reynolds; at night, the Sentry soars across a gleaming, perfect skyline. But how much of the Sentry's dual existence is real? And what of his dark other self, the Void?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-sentry-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="belle: beast hunter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>belle: beast hunter</ten_truyen>
 		<ma_truyen>belle-beast-hunter</ma_truyen>
@@ -404,32 +431,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
         <gioi_thieu>Human evolution has taken millions of years to get to this stage. But next week, we become something new. Around the world, humanity is undergoing rapid and unpredictable changes, and only three individuals seem to notice that their world is being reborn. But what can they do about it?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/evolution-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="proxima centauri" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>proxima centauri</ten_truyen>
-		<ma_truyen>proxima-centauri</ma_truyen>
-        <tac_gia>Farel Dalrymple</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/proxima-centauri/1_medium.jpg</hinh_nho>
-        <gioi_thieu>4.243 light-years from Earth, the teenage wizard adventurer Sherwood Breadcoat is stuck in the confounding spectral zone on the manufactured dimensional sphere, Proxima Centauri, looking for escape and a way back to his brother while dealing with his confusing emotions, alien creatures, and all sorts of unknown, fantastic dangers.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/proxima-centauri-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the fix" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Drama, Mature" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the fix</ten_truyen>
-		<ma_truyen>the-fix</ma_truyen>
-        <tac_gia>Nick Spencer, Steve Lieber</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-fix/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A story of the crooked cops, scheming mobsters, and corrupt politicians that run things-and the sex toy that can bring them all down. Oh, and the hero is a drug-sniffing beagle named Pretzels. Bad people do bad things to each other in this frenetic, outrageous, sometimes off-putting new caper! If you liked classic crime comics like CRIMINAL and 100 Bullets we apologize in advance for letting you down!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-fix-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="cave carson has an interstellar eye" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>cave carson has an interstellar eye</ten_truyen>
-		<ma_truyen>cave-carson-has-an-interstellar-eye</ma_truyen>
-        <tac_gia>Jon Rivera, Paul Maybury, Michael Avon Oeming</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/cave-carson-has-an-interstellar-eye/1_medium.jpg</hinh_nho>
-        <gioi_thieu>After a year of multiverse-hopping and fighting in the Milk Wars, returning to a normal life of digging and cave-diving just isn't the same for explorer Cave Carson. Sure, he's got his podcast, family and that cybernetic eye, but reminiscing about times gone by isn't the same as living. Luckily for Cave Carson and his daughter Chloe, they're about to get sucked into an all-new adventure-literally-when they go spelunking in a black hole! But what's caused this black hole to appears and what's its connection to the intergalactic music sensation Star Adam?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cave-carson-has-an-interstellar-eye-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
