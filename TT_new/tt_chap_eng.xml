@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>the gamer</ten_truyen>
+		<ma_truyen>the-gamer</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
+		<chap_moi>chap 242</chap_moi>
+	</truyen>
+	<!--
+	<truyen>
+		<ten_truyen>the gamer</ten_truyen>
+		<ma_truyen>the-gamer</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
+		<chap_moi>chap 242</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the gamer</ten_truyen>
+		<ma_truyen>the-gamer</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
+		<chap_moi>chap 242</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the gamer</ten_truyen>
+		<ma_truyen>the-gamer</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
+		<chap_moi>chap 242</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the gamer</ten_truyen>
+		<ma_truyen>the-gamer</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
+		<chap_moi>chap 242</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the gamer</ten_truyen>
+		<ma_truyen>the-gamer</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
+		<chap_moi>chap 242</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the gamer</ten_truyen>
+		<ma_truyen>the-gamer</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
+		<chap_moi>chap 242</chap_moi>
+	</truyen>
+	-->
+	<truyen>
+		<ten_truyen>tales of demons and gods</ten_truyen>
+		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
+		<chap_moi>chap 193.5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>noblesse</ten_truyen>
+		<ma_truyen>noblesse</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
+		<chap_moi>chap 531</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>batman: kings of fear</ten_truyen>
 		<ma_truyen>batman-kings-of-fear</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
@@ -71,41 +127,5 @@
 		<ma_truyen>kakao-79</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/41590/1/200.jpg</hinh_nho>
 		<chap_moi>chap 157</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wind breaker</ten_truyen>
-		<ma_truyen>wind-breaker</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/24786/3/200.jpg</hinh_nho>
-		<chap_moi>chap 197</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>feng qi cang lan</ten_truyen>
-		<ma_truyen>feng-qi-cang-lan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/42847/1/200.jpg</hinh_nho>
-		<chap_moi>chap 89.3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hyulla's race</ten_truyen>
-		<ma_truyen>hyulla-s-race</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/38362/1/200.jpg</hinh_nho>
-		<chap_moi>chap 56.2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batgirl (2016)</ten_truyen>
-		<ma_truyen>batgirl-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/b/batgirl-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>marvel two-in-one (2017)</ten_truyen>
-		<ma_truyen>marvel-two-in-one-2017</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-two-in-one/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>witchfinder: the gates of heaven</ten_truyen>
-		<ma_truyen>witchfinder-the-gates-of-heaven</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/w/witchfinder-the-gates-of-heaven/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 5</chap_moi>
 	</truyen>
 </danh_sach_truyen>
