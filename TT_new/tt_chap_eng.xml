@@ -1,49 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+<!--
 	<truyen>
-		<ten_truyen>the gamer</ten_truyen>
-		<ma_truyen>the-gamer</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
-		<chap_moi>chap 242</chap_moi>
-	</truyen>
-	<!--
-	<truyen>
-		<ten_truyen>the gamer</ten_truyen>
-		<ma_truyen>the-gamer</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
-		<chap_moi>chap 242</chap_moi>
+		<ten_truyen>shingeki no kyojin</ten_truyen>
+		<ma_truyen>shingeki-no-kyojin</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
+		<chap_moi>issue 110</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>the gamer</ten_truyen>
-		<ma_truyen>the-gamer</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
-		<chap_moi>chap 242</chap_moi>
+		<ten_truyen>shingeki no kyojin</ten_truyen>
+		<ma_truyen>shingeki-no-kyojin</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
+		<chap_moi>issue 110</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>the gamer</ten_truyen>
-		<ma_truyen>the-gamer</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
-		<chap_moi>chap 242</chap_moi>
+		<ten_truyen>shingeki no kyojin</ten_truyen>
+		<ma_truyen>shingeki-no-kyojin</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
+		<chap_moi>issue 110</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>the gamer</ten_truyen>
-		<ma_truyen>the-gamer</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
-		<chap_moi>chap 242</chap_moi>
+		<ten_truyen>shingeki no kyojin</ten_truyen>
+		<ma_truyen>shingeki-no-kyojin</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
+		<chap_moi>issue 110</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>the gamer</ten_truyen>
-		<ma_truyen>the-gamer</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
-		<chap_moi>chap 242</chap_moi>
+		<ten_truyen>shingeki no kyojin</ten_truyen>
+		<ma_truyen>shingeki-no-kyojin</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
+		<chap_moi>issue 110</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>the gamer</ten_truyen>
-		<ma_truyen>the-gamer</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
-		<chap_moi>chap 242</chap_moi>
+		<ten_truyen>shingeki no kyojin</ten_truyen>
+		<ma_truyen>shingeki-no-kyojin</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
+		<chap_moi>issue 110</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shingeki no kyojin</ten_truyen>
+		<ma_truyen>shingeki-no-kyojin</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
+		<chap_moi>chap 110</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+		<chap_moi>chap 920</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
+		<chap_moi>chap 574</chap_moi>
 	</truyen>
 	-->
+	<truyen>
+		<ten_truyen>onepunch-man</ten_truyen>
+		<ma_truyen>onepunch-man</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
+		<chap_moi>chap 143</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hunter x hunter</ten_truyen>
+		<ma_truyen>hunter-x-hunter</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
+		<chap_moi>chap 382</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>boku no hero academia</ten_truyen>
+		<ma_truyen>boku-no-hero-academia</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
+		<chap_moi>chap 200</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the gamer</ten_truyen>
+		<ma_truyen>the-gamer</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
+		<chap_moi>chap 242</chap_moi>
+	</truyen>
 	<truyen>
 		<ten_truyen>tales of demons and gods</ten_truyen>
 		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
@@ -109,23 +145,5 @@
 		<ma_truyen>hack-slash-resurrection</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
 		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hinomaru-zumou</ten_truyen>
-		<ma_truyen>hinomaru-zumou</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28267/9/200.jpg</hinh_nho>
-		<chap_moi>chap 208</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hare kon.</ten_truyen>
-		<ma_truyen>hare-kon</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28080/4/200.jpg</hinh_nho>
-		<chap_moi>chap 144</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kakao 79%</ten_truyen>
-		<ma_truyen>kakao-79</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41590/1/200.jpg</hinh_nho>
-		<chap_moi>chap 157</chap_moi>
 	</truyen>
 </danh_sach_truyen>
