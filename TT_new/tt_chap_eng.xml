@@ -1,41 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-<!--
 	<truyen>
-		<ten_truyen>shingeki no kyojin</ten_truyen>
-		<ma_truyen>shingeki-no-kyojin</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
-		<chap_moi>issue 110</chap_moi>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>shingeki no kyojin</ten_truyen>
-		<ma_truyen>shingeki-no-kyojin</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
-		<chap_moi>issue 110</chap_moi>
+		<ten_truyen>champions (2016)</ten_truyen>
+		<ma_truyen>champions-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/c/champions/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 25</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>shingeki no kyojin</ten_truyen>
-		<ma_truyen>shingeki-no-kyojin</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
-		<chap_moi>issue 110</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shingeki no kyojin</ten_truyen>
-		<ma_truyen>shingeki-no-kyojin</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
-		<chap_moi>issue 110</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shingeki no kyojin</ten_truyen>
-		<ma_truyen>shingeki-no-kyojin</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
-		<chap_moi>issue 110</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shingeki no kyojin</ten_truyen>
-		<ma_truyen>shingeki-no-kyojin</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
-		<chap_moi>issue 110</chap_moi>
+		<ten_truyen>star wars (2015)</ten_truyen>
+		<ma_truyen>star-wars-2015</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 55</chap_moi>
 	</truyen>
 	<truyen>
 		<ten_truyen>shingeki no kyojin</ten_truyen>
@@ -55,7 +36,24 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
 		<chap_moi>chap 574</chap_moi>
 	</truyen>
-	-->
+	<truyen>
+		<ten_truyen>justice league (2018)</ten_truyen>
+		<ma_truyen>justice-league-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>weapon h</ten_truyen>
+		<ma_truyen>weapon-h</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-h/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the walking dead</ten_truyen>
+		<ma_truyen>the-walking-dead</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/t/the-walking-dead/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 184</chap_moi>
+	</truyen>
 	<truyen>
 		<ten_truyen>onepunch-man</ten_truyen>
 		<ma_truyen>onepunch-man</ma_truyen>
@@ -91,59 +89,5 @@
 		<ma_truyen>noblesse</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
 		<chap_moi>chap 531</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batman: kings of fear</ten_truyen>
-		<ma_truyen>batman-kings-of-fear</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
-		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batman beyond (2016)</ten_truyen>
-		<ma_truyen>batman-beyond-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/b/batman-beyond-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 24</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>golden kamui</ten_truyen>
-		<ma_truyen>golden-kamui</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
-		<chap_moi>chap 172</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hatsukoi zombie</ten_truyen>
-		<ma_truyen>hatsukoi-zombie</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/38108/6/200.jpg</hinh_nho>
-		<chap_moi>chap 132</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>death march kara hajimaru isekai kyousoukyoku</ten_truyen>
-		<ma_truyen>death-march-kara-hajimaru-isekai-kyousoukyoku</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/34701/2/200.jpg</hinh_nho>
-		<chap_moi>chap 45</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>ben reilly: scarlet spider</ten_truyen>
-		<ma_truyen>ben-reilly-scarlet-spider</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/b/ben-reilly-the-scarlet-spider/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 24</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the terrifics</ten_truyen>
-		<ma_truyen>the-terrifics</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/h/hackslash-resurrection/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hack/slash: resurrection</ten_truyen>
-		<ma_truyen>hack-slash-resurrection</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
-		<chap_moi>issue 11</chap_moi>
 	</truyen>
 </danh_sach_truyen>
