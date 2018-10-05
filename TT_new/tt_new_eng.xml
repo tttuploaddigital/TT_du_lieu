@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="dragons rioting" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Martial arts, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>dragons rioting</ten_truyen>
+		<ma_truyen>dragons-rioting</ma_truyen>
+		<tac_gia>Watanabe Tsuyoshi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2484/6/200.jpg</hinh_nho>
+		<gioi_thieu>As a 6 Year Old, Rintaro is diagnosed with Henisei Tashu Ijou Syndrome (also known as Hentai Syndrome), a disease that could kill him if he gets sexually aroused. To save him and provide a way for him to live as normal a life as possible, his father teaches him the ways to control his body and mind for ten years in the mountains, with the martial art of the Koei Sougetsu. When he's 16 he chooses to enroll Nangokuren High School, which he assumed to be the biggest all-boys school in the country but is actually the biggest all-girls school that has just gone coed. On his first day he stumbles upon a large scale battle and learns that the first rule of the school is that it 'Abides the Law of Nature' which has turned the campus into a war zone-like environment. Rintaro now sees transferring out as his mission, but will it be that easy now that he's caught the eye of the 3 'Dragons', the bodacious female leaders of the three biggest factions around?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dragons-rioting-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="black torch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>black torch</ten_truyen>
+		<ma_truyen>black-torch</ma_truyen>
+		<tac_gia>Takaki Tsuyoshi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/46706/2/200.jpg</hinh_nho>
+		<gioi_thieu>As a descendant of shinobi, Jirou Azuma has been learning ninja techniques his entire life. But in addition to that, he also has the ability to talk to animals. One day when he rescues a strange black cat named Ragou, he learns that the world is filled with spirits called mononoke that can take the form of both people and animals. However, their meeting is cut short when they are attacked by a hostile mononoke who is after Ragou's power.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-torch-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kyochuu rettou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Fantasy, Horror, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kyochuu rettou</ten_truyen>
+		<ma_truyen>kyochuu-rettou</ma_truyen>
+		<tac_gia>Fujimi Yasutaka, Red Ice</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/36229/1/200.jpg</hinh_nho>
+		<gioi_thieu>After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyochuu-rettou-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="infinity wars: iron hammer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>infinity wars: iron hammer</ten_truyen>
 		<ma_truyen>infinity-wars-iron-hammer</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>ChuYu woke up to find herself in the body of a murdered princess almost half a millennium ago. She soon finds out that whoever wanted her dead was in her mansion. Knowing the history, she also realizes that the owner of her body will soon perish in a historical rebellion. Now she must defend herself in the depth of a forbidden city while preventing what is to come in her historical timeline. A palace epic filled with tactical battles and a hint of affection.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/feng-qiu-huang-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="batman: kings of fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>batman: kings of fear</ten_truyen>
-		<ma_truyen>batman-kings-of-fear</ma_truyen>
-        <tac_gia>Scott Peterson, Kelley Jones</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Batman's been overseeing Gotham City for years now and isn't sure how much of a difference he's making. Doubt, fear and insecurity are starting to take over. And as all of those negative feelings set in the Scarecrow orchestrates a riot at Arkham Asylum to give the Dark Knight one of his greatest challenges yet! This six-issue miniseries will see the Scarecrow in a horrifying new way that you'll have to read to believe.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-kings-of-fear-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="edge of spider-geddon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>edge of spider-geddon</ten_truyen>
-		<ma_truyen>edge-of-spider-geddon</ma_truyen>
-        <tac_gia>Jed McKay, Gerardo Sandoval</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/edge-of-spider-geddon/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spider-Punk is back and better than ever. After SPIDER-VERSE, Hobie Brown was a Web Warrior, but that didn't mean things back in his universe were solved. The writer of the SPIDER-PUNK story in SPIDER-VERSE is back and joined by VENOM'S Gerardo Sandoval! Spider-Punk's Earth is under attack both on the ground and from space, meaning his responsibility seems to outweigh his power.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/edge-of-spider-geddon-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="extermination (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>extermination (2018)</ten_truyen>
-		<ma_truyen>extermination-2018</ma_truyen>
-        <tac_gia>Ed Brisson, Pepe Larraz</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/extermination-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>EXTERMINATE THE PAST. ELIMINATE THE FUTURE. Cyclops. Iceman. Angel. Beast. Marvel Girl. The original team of teen mutants brought together by Professor Charles Xavier many years ago have been shunted through time to find a world they barely recognize but were determined to help. Now, finding themselves targeted for death, the future of mutantkind lies squarely in the hands of its past.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/extermination-2018-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

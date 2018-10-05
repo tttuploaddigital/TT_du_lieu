@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="dragons rioting" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Martial arts, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>dragons rioting</ten_truyen>
+		<ma_truyen>dragons-rioting</ma_truyen>
+		<tac_gia>Watanabe Tsuyoshi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2484/6/200.jpg</hinh_nho>
+		<gioi_thieu>As a 6 Year Old, Rintaro is diagnosed with Henisei Tashu Ijou Syndrome (also known as Hentai Syndrome), a disease that could kill him if he gets sexually aroused. To save him and provide a way for him to live as normal a life as possible, his father teaches him the ways to control his body and mind for ten years in the mountains, with the martial art of the Koei Sougetsu. When he's 16 he chooses to enroll Nangokuren High School, which he assumed to be the biggest all-boys school in the country but is actually the biggest all-girls school that has just gone coed. On his first day he stumbles upon a large scale battle and learns that the first rule of the school is that it 'Abides the Law of Nature' which has turned the campus into a war zone-like environment. Rintaro now sees transferring out as his mission, but will it be that easy now that he's caught the eye of the 3 'Dragons', the bodacious female leaders of the three biggest factions around?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dragons-rioting-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="black torch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>black torch</ten_truyen>
+		<ma_truyen>black-torch</ma_truyen>
+		<tac_gia>Takaki Tsuyoshi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/46706/2/200.jpg</hinh_nho>
+		<gioi_thieu>As a descendant of shinobi, Jirou Azuma has been learning ninja techniques his entire life. But in addition to that, he also has the ability to talk to animals. One day when he rescues a strange black cat named Ragou, he learns that the world is filled with spirits called mononoke that can take the form of both people and animals. However, their meeting is cut short when they are attacked by a hostile mononoke who is after Ragou's power.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-torch-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kyochuu rettou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Fantasy, Horror, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kyochuu rettou</ten_truyen>
+		<ma_truyen>kyochuu-rettou</ma_truyen>
+		<tac_gia>Fujimi Yasutaka, Red Ice</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/36229/1/200.jpg</hinh_nho>
+		<gioi_thieu>After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyochuu-rettou-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="yuusha ga shinda!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>yuusha ga shinda!</ten_truyen>
 		<ma_truyen>yuusha-ga-shinda</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/9369/5/200.jpg</hinh_nho>
 		<gioi_thieu>Nike, the fourth princess of the Rain Dukedom and one who holds the power to call forth the rain, travels to the Sun Kingdom to marry King Livius on behalf of her country after losing a game of rock, paper, scissors to her three older sisters. Upon arriving at the Sun Kingdom, she discovers that the Livius, who conquered the world in only three years after his ascendance to the throne, is only fifteen years old!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/soredemo-sekai-wa-utsukushii-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ougon no ringo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ougon no ringo</ten_truyen>
-		<ma_truyen>ougon-no-ringo</ma_truyen>
-		<tac_gia>Minamitani Iku</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/24423/2/200.jpg</hinh_nho>
-		<gioi_thieu>Ryuuji is a high school student and, at the same time, works part-time in a diner. This is because he is from a poor family, therefore he doesn't have money to buy or pack lunch in school. One time while he was on his shift, a man wearing sunglasses and aloha shirt stared at him as Ryuuji asked for his order. Suddenly, the man asked him to enter show business in Tokyo! He refused as he reason he didn't have money to do something like that. With his family situation worsening, he decided to take on more jobs which resulted his girlfriend feeling neglected and disappointed in him. Now rather unsure of what he should do, he decided that the only way for him not to give up was to go into show business. That's when he met her, the girl who changed his life.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ougon-no-ringo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="acid town" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Drama, Shounen ai, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>acid town</ten_truyen>
-		<ma_truyen>acid-town</ma_truyen>
-		<tac_gia>Kyuugou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/307/2/200.jpg</hinh_nho>
-		<gioi_thieu>In a city where the law has been rendered non-existent, Yuki and his best friend Tetsu break into the offices of the Seidoukai to steal in a desperate attempt to finance his ailing brother's hospital bills. They ultimately fail but instead spark the interest of the mob's young leader, Kazutaka Hyodo, who offers Yuki a deal he can't refuse: pay him a visit at his office once a week and all hospital bills will be taken care of. Yuki accepts without hesitance and in order to keep his end of the deal, starts paying Hyodo the visits he asked for...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/acid-town-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="sakura discord" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>sakura discord</ten_truyen>
-		<ma_truyen>sakura-discord</ma_truyen>
-		<tac_gia>Masuda Eiji</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/29848/2/200.jpg</hinh_nho>
-		<gioi_thieu>Sakura Kousuke is a boy who strives to throw away a past mired in regret. He transfers to a new school for his second year of high school, believing it will give him a chance to come clean. Unbeknownst to him, however, the appearance of five other 'Sakura's in his class will bring the past to his present, forcing him to come to terms with himself, his old friends, and a girl who, though being Kousuke's complete opposite in terms of personality, also knows him better than anyone else.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/sakura-discord-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
