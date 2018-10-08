@@ -1,79 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<!--
 	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<ten_truyen>raven: daughter of darkness</ten_truyen>
+		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>asgardians of the galaxy</ten_truyen>
+		<ma_truyen>asgardians-of-the-galaxy</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/a/asgardians-of-the-galaxy/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>paper girls</ten_truyen>
+		<ma_truyen>paper-girls</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/p/paper-girls/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 25</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<chap_moi>chap 282</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>black clover</ten_truyen>
+		<ma_truyen>black-clover</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
+		<chap_moi>chap 176</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>baby steps</ten_truyen>
+		<ma_truyen>baby-steps</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
+		<chap_moi>chap 321</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>green lanterns (2016)</ten_truyen>
+		<ma_truyen>green-lanterns-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/g/green-lanterns/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 56</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>green arrow (2016)</ten_truyen>
+		<ma_truyen>green-arrow-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/g/green-arrow-(2016)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 45</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>executive assistant: iris (2018)</ten_truyen>
+		<ma_truyen>executive-assistant-iris-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/e/executive-assistant-iris-vol-5/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 5</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-		<chap_moi>issue 5</chap_moi>
+		<ten_truyen>tenkuu shinpan</ten_truyen>
+		<ma_truyen>tenkuu-shinpan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
+		<chap_moi>chap 235</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-		<chap_moi>issue 5</chap_moi>
+		<ten_truyen>isekai maou to shoukan shoujo dorei majutsu</ten_truyen>
+		<ma_truyen>isekai-maou-to-shoukan-shoujo-dorei-majutsu</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/34933/3/200.jpg</hinh_nho>
+		<chap_moi>chap 39</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-		<chap_moi>chap 5</chap_moi>
+		<ten_truyen>namaikizakari</ten_truyen>
+		<ma_truyen>namaikizakari</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/27263/4/200.jpg</hinh_nho>
+		<chap_moi>chap 89</chap_moi>
 	</truyen>
-	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-		<chap_moi>chap 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-		<chap_moi>chap 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-		<chap_moi>chap 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-		<chap_moi>chap 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-		<chap_moi>chap 5</chap_moi>
-	</truyen>
-	-->
 	<truyen>
 		<ten_truyen>the gamer</ten_truyen>
 		<ma_truyen>the-gamer</ma_truyen>
@@ -91,77 +89,5 @@
 		<ma_truyen>trinity-wonder</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/40277/1/200.jpg</hinh_nho>
 		<chap_moi>chap 78</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>champions (2016)</ten_truyen>
-		<ma_truyen>champions-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/c/champions/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 25</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars (2015)</ten_truyen>
-		<ma_truyen>star-wars-2015</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 55</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shingeki no kyojin</ten_truyen>
-		<ma_truyen>shingeki-no-kyojin</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
-		<chap_moi>chap 110</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-		<chap_moi>chap 920</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kingdom  </ten_truyen>
-		<ma_truyen>kingdom</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
-		<chap_moi>chap 574</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>justice league (2018)</ten_truyen>
-		<ma_truyen>justice-league-2018</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>weapon h</ten_truyen>
-		<ma_truyen>weapon-h</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-h/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the walking dead</ten_truyen>
-		<ma_truyen>the-walking-dead</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/t/the-walking-dead/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 184</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>onepunch-man</ten_truyen>
-		<ma_truyen>onepunch-man</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
-		<chap_moi>chap 143</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hunter x hunter</ten_truyen>
-		<ma_truyen>hunter-x-hunter</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
-		<chap_moi>chap 382</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>boku no hero academia</ten_truyen>
-		<ma_truyen>boku-no-hero-academia</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
-		<chap_moi>chap 200</chap_moi>
 	</truyen>
 </danh_sach_truyen>
