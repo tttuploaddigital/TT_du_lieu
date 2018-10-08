@@ -657,6 +657,15 @@
         <gioi_thieu>Welcome to Copperhead, a grimy mining town on the edge of a backwater planet. Single mom Clara Bronson is the new sheriff, and on her first day she'll have to contend with a resentful deputy, a shady mining tycoon, and a family of alien hillbillies. And did we mention the massacre?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/copperhead-eng.xml</file_xml>
     </truyen>
+	<truyen ten="cosmic ghost rider" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>cosmic ghost rider</ten_truyen>
+		<ma_truyen>cosmic-ghost-rider</ma_truyen>
+        <tac_gia>Donny Cates, Dylan Burnett</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/cosmic-ghost-rider/1_medium.jpg</hinh_nho>
+        <gioi_thieu>EXPLODING FROM THE PAGES OF THANOS! Frank Castle was the Punisher. A deal with the devil made him Ghost Rider. A deal with Galactus made him cosmic. A deal with Thanos made him... DEAD?!? Not to worry, he's coming back, and he's got a plan to make the universe a better place that's going to lead him into an even CRAZIER adventure than he's ever been in! Join hot new comic (and cosmic?) writer Donny Cates (THANOS, DOCTOR STRANGE) as he pushes his wildest creation past the breaking point!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cosmic-ghost-rider-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="crisis on multiple earths" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>crisis on multiple earths</ten_truyen>
 		<ma_truyen>crisis-on-multiple-earths</ma_truyen>
@@ -2952,6 +2961,15 @@
         <gioi_thieu>Joe Chamberlain would do anything to save his small, forgotten town-even make a deal with the devil. But things get worse, and Joe finds himself cursed with the power of BRIMSTONE. With the power of fire and destruction coursing through his hands, Joe must now track down and destroy the demon he made his deal with before the power he now wields destroys the town he was trying to save.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-curse-of-brimstone-eng.xml</file_xml>
     </truyen>
+	<truyen ten="the death of superman: part 1" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the death of superman: part 1</ten_truyen>
+		<ma_truyen>the-death-of-superman-part-1</ma_truyen>
+        <tac_gia>Louise Simonson, Cat Staggs</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://i.imgur.com/i1ZiqOT.jpg</hinh_nho>
+        <gioi_thieu>'POWER' Part 1! How did Superman miss the beginning of Doomsday's rampage? Well, first, he had to save Lois Lane's father from his own folly!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-death-of-superman-part-1-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="the demon: hell is earth" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the demon: hell is earth</ten_truyen>
 		<ma_truyen>the-demon-hell-is-earth</ma_truyen>
@@ -3602,6 +3620,15 @@ This comic upload for Jitender Kumar via request comic by send email to tttdigit
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Cloned from a warrior, raised as a killer, Laura Kinney has gone through hell and come out the other side a hero. After a stint as the All-New Wolverine, she returns to her roots as X-23 to make sure no one ever has to go through the horrors she did. With her sister Gabby and their pet Jonathan in tow, X-23 forges her own destiny in this new series by Mariko Tamaki (HULK, HUNT FOR WOLVERINE: CLAWS OF A KILLER) and Juann Cabal (ALL-NEW WOLVERINE, ELEKTRA).</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="x-men: black - magneto" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - magneto</ten_truyen>
+		<ma_truyen>x-men-black-magneto</ma_truyen>
+        <tac_gia>Chris Claremont, Dalibor Talajic</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/magneto_1_medium.jpg</hinh_nho>
+        <gioi_thieu>MAGNETO IS BACK... and so is Chris Claremont! For years, Magneto has done everything he can to achieve his goals for mutant domination. But now Magneto has declared that enough is enough. So what revolutionary plan does Magneto have that will change the face of mutantkind? And will anyone be able to stop him? Will anyone want to? PLUS: Includes Part 1 of X-MEN BLACK: APOCALYPSE the back up story by Zac Thompson, Lonnie Nadler, and Geraldo Borge!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-magneto-eng.xml</file_xml>
     </truyen>
 	<truyen ten="x-men: blue" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>x-men: blue</ten_truyen>
