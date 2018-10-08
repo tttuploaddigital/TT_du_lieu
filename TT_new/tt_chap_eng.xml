@@ -1,5 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<!--
+	<truyen>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>chap 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>chap 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>chap 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>chap 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>chap 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dc nation</ten_truyen>
+		<ma_truyen>dc-nation</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
+		<chap_moi>chap 5</chap_moi>
+	</truyen>
+	-->
+	<truyen>
+		<ten_truyen>the gamer</ten_truyen>
+		<ma_truyen>the-gamer</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
+		<chap_moi>chap 243</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>panlong</ten_truyen>
+		<ma_truyen>panlong</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/30349/2/200.jpg</hinh_nho>
+		<chap_moi>chap 158</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>trinity wonder</ten_truyen>
+		<ma_truyen>trinity-wonder</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40277/1/200.jpg</hinh_nho>
+		<chap_moi>chap 78</chap_moi>
+	</truyen>
 	<truyen>
 		<ten_truyen>dc nation</ten_truyen>
 		<ma_truyen>dc-nation</ma_truyen>
@@ -71,23 +163,5 @@
 		<ma_truyen>boku-no-hero-academia</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
 		<chap_moi>chap 200</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the gamer</ten_truyen>
-		<ma_truyen>the-gamer</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
-		<chap_moi>chap 242</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tales of demons and gods</ten_truyen>
-		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
-		<chap_moi>chap 193.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>noblesse</ten_truyen>
-		<ma_truyen>noblesse</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
-		<chap_moi>chap 531</chap_moi>
 	</truyen>
 </danh_sach_truyen>
