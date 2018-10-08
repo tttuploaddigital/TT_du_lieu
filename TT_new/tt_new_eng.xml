@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="the death of superman: part 1" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the death of superman: part 1</ten_truyen>
+		<ma_truyen>the-death-of-superman-part-1</ma_truyen>
+        <tac_gia>Louise Simonson, Cat Staggs</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://i.imgur.com/i1ZiqOT.jpg</hinh_nho>
+        <gioi_thieu>'POWER' Part 1! How did Superman miss the beginning of Doomsday's rampage? Well, first, he had to save Lois Lane's father from his own folly!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-death-of-superman-part-1-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="cosmic ghost rider" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>cosmic ghost rider</ten_truyen>
+		<ma_truyen>cosmic-ghost-rider</ma_truyen>
+        <tac_gia>Donny Cates, Dylan Burnett</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/cosmic-ghost-rider/1_medium.jpg</hinh_nho>
+        <gioi_thieu>EXPLODING FROM THE PAGES OF THANOS! Frank Castle was the Punisher. A deal with the devil made him Ghost Rider. A deal with Galactus made him cosmic. A deal with Thanos made him... DEAD?!? Not to worry, he's coming back, and he's got a plan to make the universe a better place that's going to lead him into an even CRAZIER adventure than he's ever been in! Join hot new comic (and cosmic?) writer Donny Cates (THANOS, DOCTOR STRANGE) as he pushes his wildest creation past the breaking point!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cosmic-ghost-rider-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="x-men: black - magneto" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - magneto</ten_truyen>
+		<ma_truyen>x-men-black-magneto</ma_truyen>
+        <tac_gia>Chris Claremont, Dalibor Talajic</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/magneto_1_medium.jpg</hinh_nho>
+        <gioi_thieu>MAGNETO IS BACK... and so is Chris Claremont! For years, Magneto has done everything he can to achieve his goals for mutant domination. But now Magneto has declared that enough is enough. So what revolutionary plan does Magneto have that will change the face of mutantkind? And will anyone be able to stop him? Will anyone want to? PLUS: Includes Part 1 of X-MEN BLACK: APOCALYPSE the back up story by Zac Thompson, Lonnie Nadler, and Geraldo Borge!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-magneto-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="dragons rioting" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Martial arts, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>dragons rioting</ten_truyen>
 		<ma_truyen>dragons-rioting</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/23738/2/200.jpg</hinh_nho>
 		<gioi_thieu>Strange things are appearing from the sky, and the world is slowly dying. In Korea, there aren't enough military men to fight these enemies off, and high-school and college students have no choice but to join the military and help the others survive - at the risk of their own lives.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/afterschool-war-activities-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="astral walker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>astral walker</ten_truyen>
-		<ma_truyen>astral-walker</ma_truyen>
-		<tac_gia>Dream Traveler</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-thumb.mpcdn.net/40841/1/200.jpg</hinh_nho>
-		<gioi_thieu>What? Xiao Bai was forcibly kissed? And was furthermore dragged into a dispute about the 'Arcane Netherstone'. The 'Arcane Netherstone' is the key to unlocking humanity's secrets and Xiao Bai has obtained some kind of special ability from it, an ability that seems to be capable of allowing him to freely live with a girl at will?</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/astral-walker-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="scarlet cross" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>scarlet cross</ten_truyen>
-		<ma_truyen>scarlet-cross</ma_truyen>
-		<tac_gia>San Yue Tu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-thumb.mpcdn.net/21932/2/200.jpg</hinh_nho>
-		<gioi_thieu>Destiny or a beautiful mistake? Tension will spread through the school... In the midst of this tension, an exciting vampire dance will begin...</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/scarlet-cross-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="feng qiu huang" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Historical, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>feng qiu huang</ten_truyen>
-		<ma_truyen>feng-qiu-huang</ma_truyen>
-		<tac_gia>Tian Yi You Feng</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/9c/fb/9cfb2caf58707b6d728c617a4a1eef17242141cb_24925_200_310.jpg</hinh_nho>
-		<gioi_thieu>ChuYu woke up to find herself in the body of a murdered princess almost half a millennium ago. She soon finds out that whoever wanted her dead was in her mansion. Knowing the history, she also realizes that the owner of her body will soon perish in a historical rebellion. Now she must defend herself in the depth of a forbidden city while preventing what is to come in her historical timeline. A palace epic filled with tactical battles and a hint of affection.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/feng-qiu-huang-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

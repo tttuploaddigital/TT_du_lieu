@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="the death of superman: part 1" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the death of superman: part 1</ten_truyen>
+		<ma_truyen>the-death-of-superman-part-1</ma_truyen>
+        <tac_gia>Louise Simonson, Cat Staggs</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://i.imgur.com/i1ZiqOT.jpg</hinh_nho>
+        <gioi_thieu>'POWER' Part 1! How did Superman miss the beginning of Doomsday's rampage? Well, first, he had to save Lois Lane's father from his own folly!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-death-of-superman-part-1-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="cosmic ghost rider" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>cosmic ghost rider</ten_truyen>
+		<ma_truyen>cosmic-ghost-rider</ma_truyen>
+        <tac_gia>Donny Cates, Dylan Burnett</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/cosmic-ghost-rider/1_medium.jpg</hinh_nho>
+        <gioi_thieu>EXPLODING FROM THE PAGES OF THANOS! Frank Castle was the Punisher. A deal with the devil made him Ghost Rider. A deal with Galactus made him cosmic. A deal with Thanos made him... DEAD?!? Not to worry, he's coming back, and he's got a plan to make the universe a better place that's going to lead him into an even CRAZIER adventure than he's ever been in! Join hot new comic (and cosmic?) writer Donny Cates (THANOS, DOCTOR STRANGE) as he pushes his wildest creation past the breaking point!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cosmic-ghost-rider-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="x-men: black - magneto" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - magneto</ten_truyen>
+		<ma_truyen>x-men-black-magneto</ma_truyen>
+        <tac_gia>Chris Claremont, Dalibor Talajic</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/magneto_1_medium.jpg</hinh_nho>
+        <gioi_thieu>MAGNETO IS BACK... and so is Chris Claremont! For years, Magneto has done everything he can to achieve his goals for mutant domination. But now Magneto has declared that enough is enough. So what revolutionary plan does Magneto have that will change the face of mutantkind? And will anyone be able to stop him? Will anyone want to? PLUS: Includes Part 1 of X-MEN BLACK: APOCALYPSE the back up story by Zac Thompson, Lonnie Nadler, and Geraldo Borge!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-magneto-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="infinity wars: iron hammer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>infinity wars: iron hammer</ten_truyen>
 		<ma_truyen>infinity-wars-iron-hammer</ma_truyen>
@@ -404,32 +431,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/q/quicksilver-no-surrender/1_medium.jpg</hinh_nho>
         <gioi_thieu>Quicksilver's super-speed and abrasive personality have always isolated him, but he's never been truly alone... until now. Trapped beyond the perception of friends, family and allies, Quicksilver wages a one-man guerilla war against a monster that he's not even sure is real, to save a world that he may never be a part of again. Saladin Ahmed (BLACK BOLT) and Eric Nguyen (OLD MAN LOGAN) team up to bring you a psychedelic survival thriller unlike anything you've seen before!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quicksilver-no-surrender-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="b.p.r.d. the devil you know" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>b.p.r.d. the devil you know</ten_truyen>
-		<ma_truyen>b-p-r-d-the-devil-you-know</ma_truyen>
-        <tac_gia>Jeff Lemire, Lewis Larosa, Mico Suayan</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/bprd-the-devil-you-know/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Before they were vanquished by the BPRD, Lovecraftian monsters created a Hell on Earth. Now Liz Sherman leads a crew through monster-infested ruins on the most important rescue mission of her life. As society tries to rebuild, strange cults vie for influence, and a demon emerges to lead the way...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/b-p-r-d-the-devil-you-know-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="betrothed" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>betrothed</ten_truyen>
-		<ma_truyen>betrothed</ma_truyen>
-        <tac_gia>Sean Lewis, Steve Uy, Simon Bowland</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/betrothed/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Welcome to the World of Betrothed! Kieron and Tamara are both seniors at the same high school. They've never paid much attention to each other, even though they are the only kids at school who are orphans. On the eve of their eighteenth birthdays, they discover a lifelong secret: in a dimension far away, they are each the leader of an army that is at war with one another... and what's more, when they turn eighteen, they're to be Betrothed or Fight to the Death!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/betrothed-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="evolution  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>evolution  </ten_truyen>
-		<ma_truyen>evolution</ma_truyen>
-        <tac_gia>James Asmus, Joesph Keatinge, Christopher Sebela, Joshua Williamson, Jordan Boyd, Joe Infurnari</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Human evolution has taken millions of years to get to this stage. But next week, we become something new. Around the world, humanity is undergoing rapid and unpredictable changes, and only three individuals seem to notice that their world is being reborn. But what can they do about it?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/evolution-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
