@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="origin  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>origin  </ten_truyen>
+		<ma_truyen>origin</ma_truyen>
+		<tac_gia>Boichi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/43656/2/200.jpg</hinh_nho>
+		<gioi_thieu>The year is AD 2048. Japan is connected to the Eurasian continent by a transcontinental railroad. The capital, Tokyo, has become a crucible of criminals and terrorists. And so, in the metropolitan darkness a mysterious presence attacks and slaughters people, unnoticed, night after night... Just what are these 'things that are not human' living in hiding in the human world? And just who is this 'Origin' person who faces them?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/origin-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="rere hello" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="	Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>rere hello</ten_truyen>
+		<ma_truyen>rere-hello</ma_truyen>
+		<tac_gia>Minami Touko</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/21728/3/200.jpg</hinh_nho>
+		<gioi_thieu>When Ririko was five, she lost her mother. Since then, she helps out her father. Her father started a handyman company, but then something horrible happened...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/rere-hello-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="genwaku no kodou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Harem, Horror, Mystery, Romance, Shounen ai, Supernatural, Yaoi" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>genwaku no kodou</ten_truyen>
+		<ma_truyen>genwaku-no-kodou</ma_truyen>
+		<tac_gia>Yoshihara Rieko, Kada Michiru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/3044/1/200.jpg</hinh_nho>
+		<gioi_thieu>Strange things are happening all over town, and Kouichi Amano's nightmares have started again. Several clans have been spurred into action as the past gradually resurfaces. Just what is going on, and how do the Amano brothers fit into the picture?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/genwaku-no-kodou-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="the death of superman: part 1" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the death of superman: part 1</ten_truyen>
 		<ma_truyen>the-death-of-superman-part-1</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/2494/3/200.jpg</hinh_nho>
 		<gioi_thieu>Shimazu Toyohisa, a real-life samurai who fought in the pivotal Battle of Sekigahara. In his dying moments, Shimazu is transported to a world of magic with other famous warriors throughout history. These warriors are forced to fight each other in an endless battle. Drifters was nominated for the 4th and 5th Manga Taishou Awards.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/drifters-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="yongbi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Historical, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>yongbi</ten_truyen>
-		<ma_truyen>yongbi</ma_truyen>
-		<tac_gia>Ryu Ki-woon, Moon Jung-hoo</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/11334/1/200.jpg</hinh_nho>
-		<gioi_thieu>A mysterious stranger rides into town. The peaceful village of Gang-Ho is disturbed when Yongbi, a seemingly foolish bounty hunter, comes to town looking to claim the bounty for the leader of Gang-Ho's deadliest clan of assassins. Will Yongbi collect the bounty unscathed, or will he fall victim to a vengeful pack of assassins hell-bent on retribution for their captured leader?</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/yongbi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="threads of time" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Mature, Psychological, Romance, Seinen, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>threads of time</ten_truyen>
-		<ma_truyen>threads-of-time</ma_truyen>
-		<tac_gia>Noh Mi-young</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/10206/1/200.jpg</hinh_nho>
-		<gioi_thieu>High school student Moon Bin Lee has difficulty sleeping due to a recurring nightmare: he's stranded over a thousand years in the past chasing a dark-haired girl into a deep abyss. Before long, the nightmare overwhelms him, and he is unable to tell whether he is Moon Bin, a Seoul teenager at the end of the second Millennium, or Sa Kyoung Kim, the son of a prominent warrior family in the middle of the first Millennium. People in his present-day life assume roles in his historical life as he struggles to learn exactly who he is and what he's expected to do, straddling a transmigratory portal through time and space. In the present, his school's kendo club battles to stay in the championships...but in the past, Moon Bin finds himself at the threshold of a territorial dispute on the plains of Mongolia ...</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/threads-of-time-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="afterschool war activities" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mystery, Psychological, Shounen., Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>afterschool war activities</ten_truyen>
-		<ma_truyen>afterschool-war-activities</ma_truyen>
-		<tac_gia>Ha Il-kwon</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/23738/2/200.jpg</hinh_nho>
-		<gioi_thieu>Strange things are appearing from the sky, and the world is slowly dying. In Korea, there aren't enough military men to fight these enemies off, and high-school and college students have no choice but to join the military and help the others survive - at the risk of their own lives.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/afterschool-war-activities-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

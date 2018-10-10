@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="origin  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>origin  </ten_truyen>
+		<ma_truyen>origin</ma_truyen>
+		<tac_gia>Boichi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/43656/2/200.jpg</hinh_nho>
+		<gioi_thieu>The year is AD 2048. Japan is connected to the Eurasian continent by a transcontinental railroad. The capital, Tokyo, has become a crucible of criminals and terrorists. And so, in the metropolitan darkness a mysterious presence attacks and slaughters people, unnoticed, night after night... Just what are these 'things that are not human' living in hiding in the human world? And just who is this 'Origin' person who faces them?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/origin-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="rere hello" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="	Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>rere hello</ten_truyen>
+		<ma_truyen>rere-hello</ma_truyen>
+		<tac_gia>Minami Touko</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/21728/3/200.jpg</hinh_nho>
+		<gioi_thieu>When Ririko was five, she lost her mother. Since then, she helps out her father. Her father started a handyman company, but then something horrible happened...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/rere-hello-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="genwaku no kodou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Harem, Horror, Mystery, Romance, Shounen ai, Supernatural, Yaoi" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>genwaku no kodou</ten_truyen>
+		<ma_truyen>genwaku-no-kodou</ma_truyen>
+		<tac_gia>Yoshihara Rieko, Kada Michiru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/3044/1/200.jpg</hinh_nho>
+		<gioi_thieu>Strange things are happening all over town, and Kouichi Amano's nightmares have started again. Several clans have been spurred into action as the past gradually resurfaces. Just what is going on, and how do the Amano brothers fit into the picture?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/genwaku-no-kodou-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="dragons rioting" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Martial arts, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>dragons rioting</ten_truyen>
 		<ma_truyen>dragons-rioting</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/521/3/200.jpg</hinh_nho>
 		<gioi_thieu>The story opens as middle school student Takao Kasuga receives an F on a math test. But he doesn't even seem to notice because he's too engrossed in surreptitiously reading Beaudelaire's The Flowers of Evil. And the day goes downhill from there. In a moment of weakness, he finds and takes home the gym clothes belonging to sweet, pretty Nanako Saeki on whom he has a major crush. Unfortunately for Takao, there's a witness to the theft: Nakamura, who has a huge chip on her shoulder and a sadistic streak. As the saga unfolds, we see Takao struggling to decide whether to confess or cover up his misdeeds at the same time that he tries to win over the girl of his dreams, and avoid the blackmail attempts of Nakamura, his new 'BFF.'</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/aku-no-hana-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mayonaka no x giten" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Gender bender, Horror, Mature, Mystery, Psychological, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>mayonaka no x giten</ten_truyen>
-		<ma_truyen>mayonaka-no-x-giten</ma_truyen>
-		<tac_gia>Yamaguchi Mikoto, Bareisho</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27894/2/200.jpg</hinh_nho>
-		<gioi_thieu>Kamiya Hiroki always thought women had it easy. This thought was throttled by the fact that his 24-year-old sister does not work and plays games all day. Why couldn't he have it this easy? He wanted to become a woman and be lazy like his sister. After blogging about his rants about his sister online, a mysterious reader comments on his blog, stating that there are ways to swap bodies with others. This would bring Hiroki's dream of becoming a woman to reality . Unfortunately for Hiroki, swapping bodies had unintended consequences when he returned to his own body.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mayonaka-no-x-giten-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="d-frag" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Harem, Romance, School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>d-frag</ten_truyen>
-		<ma_truyen>d-frag</ma_truyen>
-		<tac_gia>Haruno Tomoya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/2051/4/200.jpg</hinh_nho>
-		<gioi_thieu>Kazama Kenji likes to believe he is something of a delinquent. Moreover, others seem to like to agree that he is. Of course, Kenji's gang finds their way to a group of four not-so-normal girls - Chitose, Sakura, Minami and Roka - and all at once, whatever reputation he may have, is nothing compared to the outrageous behaviour of the girls. Shanghaied into joining their club, what will happen to his everday life from that point on?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/d-frag-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="soredemo sekai wa utsukushii" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>soredemo sekai wa utsukushii</ten_truyen>
-		<ma_truyen>soredemo-sekai-wa-utsukushii</ma_truyen>
-		<tac_gia>Shina Dai</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9369/5/200.jpg</hinh_nho>
-		<gioi_thieu>Nike, the fourth princess of the Rain Dukedom and one who holds the power to call forth the rain, travels to the Sun Kingdom to marry King Livius on behalf of her country after losing a game of rock, paper, scissors to her three older sisters. Upon arriving at the Sun Kingdom, she discovers that the Livius, who conquered the world in only three years after his ascendance to the throne, is only fifteen years old!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/soredemo-sekai-wa-utsukushii-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
