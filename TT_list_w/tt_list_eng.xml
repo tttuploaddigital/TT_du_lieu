@@ -747,6 +747,15 @@ This manga upload for Alisha from United Kingdom via request manga on Windows st
         <gioi_thieu>The time has come! Their ranks shattered by Civil War, their spirits weighted down by a toll both personal and spiritual, Earth's Mightiest Heroes must find the resolve to stand united one final time against their greatest foe! Captain America! Thor! The Vision! The Wasp! Spider-Man! Hercules! When the dust settles, not a one of these valiant heroes will make it to the final page alive! This is KANG WAR ONE!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/avengers-2016-eng.xml</file_xml>
     </truyen>
+	<truyen ten="avengers (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>avengers (2018)</ten_truyen>
+		<ma_truyen>avengers-2018</ma_truyen>
+        <tac_gia>Jason Aaron, Ed McGuinness</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Thor Odinson. Steve Rogers. Tony Stark. The Big Three of the Avengers are reunited at last! And just in time to save the world from total annihilation at the hands of their most powerful enemies yet: the 2000-foot-tall space gods known as Celestials. Behold the coming of the Final Host. Who will answer the call to assemble for a wild new era of Earth's Mightiest Heroes? Hint: one of them has a flaming skull for a head. And what strange, world-shaking connection exists between the Final Host and Odin's ancient band of Prehistoric Avengers?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="ayakashi koi emaki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ayakashi koi emaki</ten_truyen>
 		<ma_truyen>ayakashi-koi-emaki</ma_truyen>
@@ -3105,6 +3114,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>Shuichi Kagaya isn't human. He has an unnatural sense of smell, and can transform into an incredibly powerful beast... of sorts. He does all he can to avoid standing out and being discovered, but no good deed goes unpunished, and his decision to use his power to save a girl spells the end for his quiet life.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gleipnir-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="go go power rangers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>go go power rangers</ten_truyen>
+		<ma_truyen>go-go-power-rangers</ma_truyen>
+        <tac_gia>Ryan Parrott, Dan Mora</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/go-go-power-rangers/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The untold, personal story of what happens to Jason, Kim, Trini, Zack, and Billy following in the days after they first became Power Rangers. Fighting evil is hard, but surviving high school may be even harder-welcome to real life in Angel Grove.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/go-go-power-rangers-eng.xml</file_xml>
+    </truyen>
     <truyen ten="goblin slayer " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Ecchi, Fantasy, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>goblin slayer </ten_truyen>
 		<ma_truyen>goblin-slayer</ma_truyen>
@@ -9173,6 +9191,15 @@ This comic upload for Jitender Kumar via request comic by send email to tttdigit
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/magneto_1_medium.jpg</hinh_nho>
         <gioi_thieu>MAGNETO IS BACK... and so is Chris Claremont! For years, Magneto has done everything he can to achieve his goals for mutant domination. But now Magneto has declared that enough is enough. So what revolutionary plan does Magneto have that will change the face of mutantkind? And will anyone be able to stop him? Will anyone want to? PLUS: Includes Part 1 of X-MEN BLACK: APOCALYPSE the back up story by Zac Thompson, Lonnie Nadler, and Geraldo Borge!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-magneto-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="x-men: black - mojo" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - mojo</ten_truyen>
+		<ma_truyen>x-men-black-mojo</ma_truyen>
+        <tac_gia>Scott Aukerman, Lonnie Nadler, Zac Thompson, Andre Lima Araujo, Geraldo Borges, Nick Bradshaw</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/mojo_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE SPINELESS SHOWMAN TAKES CENTER STAGE! That's right - that most successful producer ever to pack the cross-time airwaves, the man himself, MOJO, has yet another plan in place the boost his ratings at the X-Men's expense! And I'm sure he would say it's THE MOST IMPORTANT COMIC BOOK YOU'LL EVER READ! PLUS: Part 2 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-mojo-eng.xml</file_xml>
     </truyen>
 	<truyen ten="x-men: blue" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>x-men: blue</ten_truyen>
