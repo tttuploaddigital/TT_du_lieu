@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="avengers (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>avengers (2018)</ten_truyen>
+		<ma_truyen>avengers-2018</ma_truyen>
+        <tac_gia>Jason Aaron, Ed McGuinness</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Thor Odinson. Steve Rogers. Tony Stark. The Big Three of the Avengers are reunited at last! And just in time to save the world from total annihilation at the hands of their most powerful enemies yet: the 2000-foot-tall space gods known as Celestials. Behold the coming of the Final Host. Who will answer the call to assemble for a wild new era of Earth's Mightiest Heroes? Hint: one of them has a flaming skull for a head. And what strange, world-shaking connection exists between the Final Host and Odin's ancient band of Prehistoric Avengers?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="go go power rangers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>go go power rangers</ten_truyen>
+		<ma_truyen>go-go-power-rangers</ma_truyen>
+        <tac_gia>Ryan Parrott, Dan Mora</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/go-go-power-rangers/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The untold, personal story of what happens to Jason, Kim, Trini, Zack, and Billy following in the days after they first became Power Rangers. Fighting evil is hard, but surviving high school may be even harder-welcome to real life in Angel Grove.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/go-go-power-rangers-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="x-men: black - mojo" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - mojo</ten_truyen>
+		<ma_truyen>x-men-black-mojo</ma_truyen>
+        <tac_gia>Scott Aukerman, Lonnie Nadler, Zac Thompson, Andre Lima Araujo, Geraldo Borges, Nick Bradshaw</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/mojo_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE SPINELESS SHOWMAN TAKES CENTER STAGE! That's right - that most successful producer ever to pack the cross-time airwaves, the man himself, MOJO, has yet another plan in place the boost his ratings at the X-Men's expense! And I'm sure he would say it's THE MOST IMPORTANT COMIC BOOK YOU'LL EVER READ! PLUS: Part 2 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-mojo-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="origin  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>origin  </ten_truyen>
 		<ma_truyen>origin</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>A group of terran space scavengers hope to pull off the job of their lifetimes, ignoring a recent United Earth Directorate treaty to pillage a derelict protoss ship.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/starcraft-scavengers-eng.xml</file_xml>
     </truyen>
-	<truyen ten="henjyo - hen na jyoshi kousei amaguri senko" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>henjyo - hen na jyoshi kousei amaguri senko</ten_truyen>
-		<ma_truyen>henjyo-hen-na-jyoshi-kousei-amaguri-senko</ma_truyen>
-		<tac_gia>Konogi Yoshiru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/32972/1/200.jpg</hinh_nho>
-		<gioi_thieu>Amaguri Senko is a high school girl with a cool personality (as in, kuudere) and a big pervert. She openly reads porn and masturbates, and isn't perturbed in the slightest at the sight of penises and such. The story is about two adult men that come to live and work for her father, who runs a company that does various oddjobs, which she helps out with. And the various forms of sexual harassment to which she subjects the one which she has taken a liking to.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/henjyo-hen-na-jyoshi-kousei-amaguri-senko-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="koisuru harinezumi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>koisuru harinezumi</ten_truyen>
-		<ma_truyen>koisuru-harinezumi</ma_truyen>
-		<tac_gia>Hinachi Nao</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27248/1/200.jpg</hinh_nho>
-		<gioi_thieu>To change from 'like' to 'love', what strategies must Ozawa use on Kazuki? Kazuki Heiji is the troublemaker. He gets into fights and is very cold to everyone. Ozawa Kii witnesses a fight between a classmate and Kazuki but he unexpectedly says he wants to become friends? And what's this about 'like' and 'love'...?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koisuru-harinezumi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="drifters" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Historical, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>drifters</ten_truyen>
-		<ma_truyen>drifters</ma_truyen>
-		<tac_gia>Hirano Kouta</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/2494/3/200.jpg</hinh_nho>
-		<gioi_thieu>Shimazu Toyohisa, a real-life samurai who fought in the pivotal Battle of Sekigahara. In his dying moments, Shimazu is transported to a world of magic with other famous warriors throughout history. These warriors are forced to fight each other in an endless battle. Drifters was nominated for the 4th and 5th Manga Taishou Awards.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/drifters-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
