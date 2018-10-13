@@ -3,9 +3,21 @@
     <noi_dung>
 
         <!-- http://mangapark.me/manga/tomo-chan-wa-onnanoko-1 -->
-		<!-- thieu chap 802 807 810 823 842 845 -->
+		<!-- thieu chap 802 807 810 823 842 845 847 848 850 851 853 854 855 857 -->
 
 		<!-- them -->
+
+		<!-- chap 858 -->
+		<chuong ten_chuong="chap 858"><hinh>http://file-comic-4.anyacg.co/images/aa/ff/aaff42d8d3b06412fa678c8e955d8d268dbf4758_129386_640_958.jpg</hinh></chuong>
+
+		<!-- chap 856 -->
+		<chuong ten_chuong="chap 856"><hinh>http://file-comic-4.anyacg.co/images/b8/54/b854b5a4be8466b0ccf6f8448d3e514635c08469_139358_640_958.jpg</hinh></chuong>
+
+		<!-- chap 852 -->
+		<chuong ten_chuong="chap 852"><hinh>http://file-comic-4.anyacg.co/images/7d/62/7d6286ef34ac5730d7c9f358d42d52848f6e565a_151967_640_958.jpg</hinh></chuong>
+
+		<!-- chap 849 -->
+		<chuong ten_chuong="chap 849"><hinh>http://file-comic-4.anyacg.co/images/0f/42/0f4251119ee37f4e43166748edf04763b9b3f630_130968_640_958.jpg</hinh></chuong>
 
 		<!-- chap 846 -->
 		<chuong ten_chuong="chap 846"><hinh>http://file-comic-4.anyacg.co/images/90/e8/90e8f2ad06a0aba7134c6f67c6affffe5ca35f28_125119_640_958.jpg</hinh></chuong>
