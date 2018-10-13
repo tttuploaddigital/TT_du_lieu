@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
-		<ten_truyen>superman (2018)</ten_truyen>
-		<ma_truyen>superman-2018</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/superman-(2018)/1_medium.jpg</hinh_nho>
+		<ten_truyen>titans (2016)</ten_truyen>
+		<ma_truyen>titans-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 27</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>catwoman (2018)</ten_truyen>
+		<ma_truyen>catwoman-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/c/catwoman-(2018)/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 4</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>ms. marvel (2016)</ten_truyen>
-		<ma_truyen>ms-marvel-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/m/ms-marvel-(2015)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 35</chap_moi>
+		<ten_truyen>transformers: unicron</ten_truyen>
+		<ma_truyen>transformers-unicron</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-unicron/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>suicide squad (2016)</ten_truyen>
-		<ma_truyen>suicide-squad-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 47</chap_moi>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<chap_moi>chap 283</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>onepunch-man</ten_truyen>
-		<ma_truyen>onepunch-man</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
-		<chap_moi>chap 144</chap_moi>
+		<ten_truyen>amano megumi wa suki darake!</ten_truyen>
+		<ma_truyen>amano-megumi-wa-suki-darake</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40038/1/200.jpg</hinh_nho>
+		<chap_moi>chap 138</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>hunter x hunter</ten_truyen>
-		<ma_truyen>hunter-x-hunter</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
-		<chap_moi>chap 383</chap_moi>
+		<ten_truyen>seitokai yakuindomo</ten_truyen>
+		<ma_truyen>seitokai-yakuindomo</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/8728/4/200.jpg</hinh_nho>
+		<chap_moi>chap 448</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>goblin slayer: side story year one</ten_truyen>
-		<ma_truyen>goblin-slayer-side-story-year-one</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/50806/1/200.jpg</hinh_nho>
-		<chap_moi>chap 16</chap_moi>
+		<ten_truyen>hawkman (2018)</ten_truyen>
+		<ma_truyen>hawkman-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
-		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 7</chap_moi>
+		<ten_truyen>plastic man (2018)</ten_truyen>
+		<ma_truyen>plastic-man-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/p/plastic-man-(2018)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>supergirl (2016)</ten_truyen>
-		<ma_truyen>supergirl-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/supergirl-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 23</chap_moi>
+		<ten_truyen>kick-ass (2018)</ten_truyen>
+		<ma_truyen>kick-ass-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/k/kick-ass-(2018)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 8</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>captain america (2018)</ten_truyen>
-		<ma_truyen>captain-america-2018</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/c/captain-america-(2018)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 4</chap_moi>
+		<ten_truyen>hinomaru-zumou</ten_truyen>
+		<ma_truyen>hinomaru-zumou</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28267/9/200.jpg</hinh_nho>
+		<chap_moi>chap 210</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>re:monster</ten_truyen>
-		<ma_truyen>re-monster</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/26728/1/200.jpg</hinh_nho>
-		<chap_moi>chap 47</chap_moi>
+		<ten_truyen>tomo-chan wa onnanoko!</ten_truyen>
+		<ma_truyen>tomo-chan-wa-onnanoko</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/34075/8/200.jpg</hinh_nho>
+		<chap_moi>chap 858</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>kengan ashua</ten_truyen>
-		<ma_truyen>kengan-ashua</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
-		<chap_moi>chap 146</chap_moi>
+		<ten_truyen>days</ten_truyen>
+		<ma_truyen>days</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28078/2/200.jpg</hinh_nho>
+		<chap_moi>chap 161</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>giant killing</ten_truyen>
-		<ma_truyen>giant-killing</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
-		<chap_moi>chap 276</chap_moi>
+		<ten_truyen>tiger x crane</ten_truyen>
+		<ma_truyen>tiger-x-crane</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/10221/3/200.jpg</hinh_nho>
+		<chap_moi>chap 225</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>doulou dalu</ten_truyen>
-		<ma_truyen>doulou-dalu</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/26543/2/200.jpg</hinh_nho>
-		<chap_moi>chap 213</chap_moi>
+		<ten_truyen>unordinary</ten_truyen>
+		<ma_truyen>unordinary</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41310/1/200.jpg</hinh_nho>
+		<chap_moi>chap 114</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>doupo cangqiong</ten_truyen>
-		<ma_truyen>doupo-cangqiong</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27914/2/200.jpg</hinh_nho>
-		<chap_moi>chap 234</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>19 days</ten_truyen>
-		<ma_truyen>19-days</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28998/1/200.jpg</hinh_nho>
-		<chap_moi>chap 258</chap_moi>
+		<ten_truyen>yaoguai mingdan</ten_truyen>
+		<ma_truyen>yaoguai-mingdan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/29498/2/200.jpg</hinh_nho>
+		<chap_moi>chap 385</chap_moi>
 	</truyen>
 </danh_sach_truyen>
