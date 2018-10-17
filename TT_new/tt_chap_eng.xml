@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>nanatsu no taizai</ten_truyen>
+		<ma_truyen>nanatsu-no-taizai</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
+		<chap_moi>chap 285</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>world's end harem</ten_truyen>
+		<ma_truyen>world-s-end-harem</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
+		<chap_moi>chap 51</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>infection</ten_truyen>
+		<ma_truyen>infection</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/38637/3/200.jpg</hinh_nho>
+		<chap_moi>chap 51</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tales of demons and gods</ten_truyen>
+		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
+		<chap_moi>chap 194</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>demon spirit seed manual</ten_truyen>
+		<ma_truyen>demon-spirit-seed-manual</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/39751/1/200.jpg</hinh_nho>
+		<chap_moi>chap 176</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yaoguai mingdan</ten_truyen>
+		<ma_truyen>yaoguai-mingdan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/29498/2/200.jpg</hinh_nho>
+		<chap_moi>chap 387</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>haunted horror</ten_truyen>
 		<ma_truyen>haunted-horror</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/h/haunted-horrors/1_medium.jpg</hinh_nho>
@@ -53,41 +89,5 @@
 		<ma_truyen>exiles-2018</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/e/exiles-(2018)/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kimetsu no yaiba</ten_truyen>
-		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
-		<chap_moi>chap 130</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>isekai tensei soudouki</ten_truyen>
-		<ma_truyen>isekai-tensei-soudouki</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/32865/2/200.jpg</hinh_nho>
-		<chap_moi>chap 39</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mai ball!</ten_truyen>
-		<ma_truyen>mai-ball</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/38802/1/200.jpg</hinh_nho>
-		<chap_moi>chap 102.1</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>demon spirit seed manual</ten_truyen>
-		<ma_truyen>demon-spirit-seed-manual</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/39751/1/200.jpg</hinh_nho>
-		<chap_moi>chap 175</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>spirit blade mountain</ten_truyen>
-		<ma_truyen>spirit-blade-mountain</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/38167/2/200.jpg</hinh_nho>
-		<chap_moi>chap 327</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yaoguai mingdan</ten_truyen>
-		<ma_truyen>yaoguai-mingdan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/29498/2/200.jpg</hinh_nho>
-		<chap_moi>chap 386</chap_moi>
 	</truyen>
 </danh_sach_truyen>
