@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="unbalance x 2" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Harem, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>unbalance x 2</ten_truyen>
+		<ma_truyen>unbalance-x-2</ma_truyen>
+		<tac_gia>Lim Dall-young, Lee Soo Hyun</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/29/f8/29f804f24a3a565cd194c2e6e841b86a545996fb_41135_200_288.jpg</hinh_nho>
+		<gioi_thieu>A young man finds and returns a lost wallet and cell phone to a beautiful young lady, thus begins the destined relationship between two strangers. Sound typical? Well then, how about making the young lady the young man's future homeroom teacher, and give them both a twisted sense of right and wrong. And just for kicks, let's have the young man help himself to a self proclaimed reward from the lost wallet before returning it... but of course, this scenario wouldn't be complete unless the young lady was very unforgiving when it came to teaching one of her students a lesson on morals.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/unbalance-x-2-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="my love tiger" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Fantasy, Harem, Romance, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>my love tiger</ten_truyen>
+		<ma_truyen>my-love-tiger</ma_truyen>
+		<tac_gia>Yoon Jae Ho, Carnel</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/30148/2/200.jpg</hinh_nho>
+		<gioi_thieu>Sung Hoon was a normal High School student, but one day he finds himself with a tiger that Hwangun didn't marry, and is told that the world will end if he doesn't marry that tiger. The story begins with the cute smile of the tiger girl.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/my-love-tiger-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="peerless dad" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Fantasy, Slice of life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>peerless dad</ten_truyen>
+		<ma_truyen>peerless-dad</ma_truyen>
+		<tac_gia>Kyoungchan No, No Kyoung Chan, Hyun Suk Lee</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/d4/c2/d4c210d82e8b386769ddbf06ba4aa913aec2aa72_23577_200_283.jpg</hinh_nho>
+		<gioi_thieu>Amazing story about one martial arts journey through marriage, fatherhood, and battles.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/peerless-dad-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="spirit sword sovereign" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>spirit sword sovereign</ten_truyen>
 		<ma_truyen>spirit-sword-sovereign</ma_truyen>
@@ -210,7 +237,7 @@
 	<truyen ten="skeleton soldier" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Supernatural, Tragedy, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>skeleton soldier</ten_truyen>
 		<ma_truyen>skeleton-soldier</ma_truyen>
-		<tac_gia>Ant Studio, Sosori	</tac_gia>
+		<tac_gia>Ant Studio, Sosori</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/7a/63/7a63998dbe12a91bc1a7bd46a06fcbd8237c0733_13671_200_248.jpg</hinh_nho>
 		<gioi_thieu>A lowly skeleton soldier had only one purpose: to protect his succubus master. And yet he was powerless to protect her, being crushed by the hero. But fate has more in store for him as he gets another chance to protect his master once more and try to change his destiny despite all odds.</gioi_thieu>
@@ -378,31 +405,4 @@
         <gioi_thieu>Crossed + One Hundred: Mimic continues to story of the disciples of Beau Salt, the serial killer who despite being infected fully retained his sanity, invading military bases to take their best and turn them to the Crossed side.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/crossed-plus-one-hundred-mimic-eng.xml</file_xml>
     </truyen>
-	<truyen ten="himekishi ga classmate!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>himekishi ga classmate!</ten_truyen>
-		<ma_truyen>himekishi-ga-classmate</ma_truyen>
-		<tac_gia>Ekz, No. Gomesu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/33088/1/200.jpg</hinh_nho>
-		<gioi_thieu>After he and his entire class die on a field trip, Odamori accepts an offer from a mysterious man to be reincarnated. However his new job turns out to be that of a 'Slavemancer' with the power to dominate the minds of others and turn them into his toys, which he happily takes on. Soon however his evil actions lead to a Princess Knight (who turns out to be one of his previous, more popular classmates) being dispatched to apprehend him. But Odamori of course has something different planned for their reunion.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/himekishi-ga-classmate-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="sidooh" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Historical, Mature, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>sidooh</ten_truyen>
-		<ma_truyen>sidooh</ma_truyen>
-		<tac_gia>Takahashi Tsutomu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9200/2/200.jpg</hinh_nho>
-		<gioi_thieu>During the political upheavals and social strife at the end of the Tokugawa Shogunate in Japan (1855), two parentless brothers Yukimura Shoutarou and Yukimura Gentarou struggles to survive in these turbulent times. With their only possession being their deceased father's sword and clinging onto the wisdom of their mother's final words, the brothers seek to embark on the Path of the Warrior: Sidooh!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sidooh-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="uzumaki" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mature, Mystery, Psychological, Seinen, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>uzumaki</ten_truyen>
-		<ma_truyen>uzumaki</ma_truyen>
-		<tac_gia>Itou Junji</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/10803/2/200.jpg</hinh_nho>
-		<gioi_thieu> Kurozu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but by a pattern: uzumaki, the spiral, the hypnotic secret shape of the world. It manifests itself in small ways: seashells, ferns, whirlpools in water, whirlwinds in air. And in large ways: the spiral marks on people's bodies, the insane obsessions of Shuichi's father, the voice from the cochlea in your inner ear. As the madness spreads, the inhabitants of Kurozu-cho are pulled ever deeper, as if into a whirlpool from which there is no return...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/uzumaki-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
