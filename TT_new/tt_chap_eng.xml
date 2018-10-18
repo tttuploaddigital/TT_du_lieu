@@ -1,6 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>justice league (2018)</ten_truyen>
+		<ma_truyen>justice-league-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>astonishing x-men (2017)</ten_truyen>
+		<ma_truyen>astonishing-x-men-2017</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/a/astonishing-x-men-(2017)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 16</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>evolution</ten_truyen>
+		<ma_truyen>evolution</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>golden kamui</ten_truyen>
+		<ma_truyen>golden-kamui</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
+		<chap_moi>chap 175</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>world customize creator</ten_truyen>
+		<ma_truyen>world-customize-creator</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/26898/5/200.jpg</hinh_nho>
+		<chap_moi>chap 54</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>eden's zero</ten_truyen>
+		<ma_truyen>eden-s-zero</ma_truyen>
+		<hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
+		<chap_moi>chap 16</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>batman (2016)</ten_truyen>
+		<ma_truyen>batman-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/b/batman-(2016)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 57</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>peter parker: the spectacular spider-man/ten_truyen>
+		<ma_truyen>peter-parker-the-spectacular-spider-man</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/p/peter-parker-the-spectacular-spider-man/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 311</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>damage (2018)</ten_truyen>
+		<ma_truyen>damage-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>nanatsu no taizai</ten_truyen>
 		<ma_truyen>nanatsu-no-taizai</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
@@ -35,59 +89,5 @@
 		<ma_truyen>yaoguai-mingdan</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/29498/2/200.jpg</hinh_nho>
 		<chap_moi>chap 387</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>haunted horror</ten_truyen>
-		<ma_truyen>haunted-horror</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/h/haunted-horrors/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 35</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dollface</ten_truyen>
-		<ma_truyen>dollface</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/d/dollface/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 16</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>ninja-k</ten_truyen>
-		<ma_truyen>ninja-k</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/n/ninja-k-(2017)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 12</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>black clover</ten_truyen>
-		<ma_truyen>black-clover</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<chap_moi>chap 177</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-		<chap_moi>chap 48</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>maou-jou de oyasumi</ten_truyen>
-		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
-		<chap_moi>chap 77</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>robotech (2017)</ten_truyen>
-		<ma_truyen>robotech-2017</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/r/robotech/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 13</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shadow roads</ten_truyen>
-		<ma_truyen>shadow-roads</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/shadow-roads/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>exiles (2018)</ten_truyen>
-		<ma_truyen>exiles-2018</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/e/exiles-(2018)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 9</chap_moi>
 	</truyen>
 </danh_sach_truyen>
