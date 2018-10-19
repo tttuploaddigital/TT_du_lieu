@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="sky blue" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Romance, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>sky blue</ten_truyen>
+		<ma_truyen>sky-blue</ma_truyen>
+		<tac_gia>Kobayashi Daiki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9237/1/200.jpg</hinh_nho>
+		<gioi_thieu>Kazama's family died in a mysterious explosion when he was still young and since then, he has not been able to come to terms with their deaths or even with himself. He emotionally distances himself from everyone and his aggressive nature gets him the nick name 'Real Life Combat Game Character.' Years later, Kazama, now in high school, gets close to death after a car accident. As he accepts his fate, Sky Blue enters his consciousness. Somehow related to the multicolored meteors that were seen all around the world on the same day of Kazama's near fatal accident, Sky Blue is able to control his body. The teenage-looking Sky Blue is able to control Kazama’s body movements and even his speech. He falls for the beautiful but cold Haioka Anna and when she gets kidnapped, Sky Blue takes over Kazama's body, unleashing enormous amounts of power and strength.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sky-blue-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kin no kanojo, gin no kanojo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Fantasy, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kin no kanojo, gin no kanojo</ten_truyen>
+		<ma_truyen>kin-no-kanojo-gin-no-kanojo</ma_truyen>
+		<tac_gia>Akai Maruboro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/29051/2/200.jpg</hinh_nho>
+		<gioi_thieu>The romantic comedy depicts a hapless protagonist and his beautiful love interest - who is split into two girls by a divine power. The 'Golden Girlfriend' is the graceful and ladylike type, while the 'Silver Girlfriend' is the mischievous, foulmouthed, and straightforward type.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kin-no-kanojo-gin-no-kanojo-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="flame of recca" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Martial arts, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>flame of recca</ten_truyen>
+		<ma_truyen>flame-of-recca</ma_truyen>
+		<tac_gia>Anzai Nobuyuki</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://www.mangaupdates.com/image/i165836.jpg</hinh_nho>
+		<gioi_thieu>Flame of Recca follows the story of a teenage boy named Recca Hanabishi, who is interested in ninja and claims to be one himself. He often gets into fights because he made it publicly known that the person who manages to defeat him will earn his services as a loyal ninja. Despite this, he eventually pledges his loyalty and services as a ninja to Yanagi Sakoshita, a girl with the innate ability to heal any wound/injury, because of her kindess and compassion. Recca soon discovers that he possesses the innate ability to control/manipulate flames, and eventually learns that he is actually the son of the sixth generation leader of the Hokage, a ninja clan that was wiped out by Oda Nobunaga in 1576, roughly 400 years before the series' present day!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/flame-of-recca-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="unbalance x 2" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Harem, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>unbalance x 2</ten_truyen>
 		<ma_truyen>unbalance-x-2</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>The manga Nomu Joshi ('Drinking Girls') by Ukatsu ('Careless') debuted in the magazine Manga Club on July 4. It features three friends, all women aged 29, who get together and socialize regularly and indulge in their common passion: drinking. Michiko Takase, the office lady heroine, prefers beer; Misono Miyauchi, a short-haired, muscular book store worker, likes sake; and Yuki Shinonome, the feminine housewife, drinks everything. The manga follows them as they visit hot springs, beer gardens, bars and more to sample different drinks, pair them with delicious side dishes, and chat about work, their family, how to keep warm while wearing skirts, etc.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nomi-joshi-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="hawkman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hawkman (2018)</ten_truyen>
-		<ma_truyen>hawkman-2018</ma_truyen>
-        <tac_gia>Jeff Lemire, Robert Venditti, Bryan Hitch, Andrew currie, Alex Sinclair</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="fathom (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>fathom (2018)</ten_truyen>
-		<ma_truyen>fathom-2018</ma_truyen>
-        <tac_gia>Ron Marz, Siya Oum, Peter Steigerwald</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>This all-new adventure for Aspen's preeminent hero sees her attempt to navigate an ever-changing world where The Blue are not only present above the surface-but exploited in new and dangerous ways. When a rival nation to The States decides to take control of the global landscape by tapping into the power of The Blue, Aspen Matthews discovers that a new adversary has risen to challenge the notion that she is the most powerful person on the planet-and humanity may suffer the consequences!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fathom-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="crossed plus one hundred: mimic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>crossed plus one hundred: mimic</ten_truyen>
-		<ma_truyen>crossed-plus-one-hundred-mimic</ma_truyen>
-        <tac_gia>Christos N. Gage, Patrick Shand, Emiliano Urdinola, Raulo Caceres</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/crossed-plus-100-mimic/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Crossed + One Hundred: Mimic continues to story of the disciples of Beau Salt, the serial killer who despite being infected fully retained his sanity, invading military bases to take their best and turn them to the Crossed side.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/crossed-plus-one-hundred-mimic-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

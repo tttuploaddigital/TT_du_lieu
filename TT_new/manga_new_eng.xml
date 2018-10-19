@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="sky blue" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Romance, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>sky blue</ten_truyen>
+		<ma_truyen>sky-blue</ma_truyen>
+		<tac_gia>Kobayashi Daiki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9237/1/200.jpg</hinh_nho>
+		<gioi_thieu>Kazama's family died in a mysterious explosion when he was still young and since then, he has not been able to come to terms with their deaths or even with himself. He emotionally distances himself from everyone and his aggressive nature gets him the nick name 'Real Life Combat Game Character.' Years later, Kazama, now in high school, gets close to death after a car accident. As he accepts his fate, Sky Blue enters his consciousness. Somehow related to the multicolored meteors that were seen all around the world on the same day of Kazama's near fatal accident, Sky Blue is able to control his body. The teenage-looking Sky Blue is able to control Kazama’s body movements and even his speech. He falls for the beautiful but cold Haioka Anna and when she gets kidnapped, Sky Blue takes over Kazama's body, unleashing enormous amounts of power and strength.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sky-blue-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kin no kanojo, gin no kanojo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Fantasy, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kin no kanojo, gin no kanojo</ten_truyen>
+		<ma_truyen>kin-no-kanojo-gin-no-kanojo</ma_truyen>
+		<tac_gia>Akai Maruboro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/29051/2/200.jpg</hinh_nho>
+		<gioi_thieu>The romantic comedy depicts a hapless protagonist and his beautiful love interest - who is split into two girls by a divine power. The 'Golden Girlfriend' is the graceful and ladylike type, while the 'Silver Girlfriend' is the mischievous, foulmouthed, and straightforward type.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kin-no-kanojo-gin-no-kanojo-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="flame of recca" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Martial arts, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>flame of recca</ten_truyen>
+		<ma_truyen>flame-of-recca</ma_truyen>
+		<tac_gia>Anzai Nobuyuki</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://www.mangaupdates.com/image/i165836.jpg</hinh_nho>
+		<gioi_thieu>Flame of Recca follows the story of a teenage boy named Recca Hanabishi, who is interested in ninja and claims to be one himself. He often gets into fights because he made it publicly known that the person who manages to defeat him will earn his services as a loyal ninja. Despite this, he eventually pledges his loyalty and services as a ninja to Yanagi Sakoshita, a girl with the innate ability to heal any wound/injury, because of her kindess and compassion. Recca soon discovers that he possesses the innate ability to control/manipulate flames, and eventually learns that he is actually the son of the sixth generation leader of the Hokage, a ninja clan that was wiped out by Oda Nobunaga in 1576, roughly 400 years before the series' present day!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/flame-of-recca-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="origin  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>origin  </ten_truyen>
 		<ma_truyen>origin</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/37423/1/200.jpg</hinh_nho>
 		<gioi_thieu>This manga follows the story of 7 high school students, 3 boys and 4 girls in year 1 class A. Their not-so-ordinary ways of thinking and everyday lives are loaded with comedy, dirty jokes. At times, debating about how to use a toilet, at other times, risking their lives over growing body hair in unusual places!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dansan-joshi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="arslan senki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>arslan senki</ten_truyen>
-		<ma_truyen>arslan-senki</ma_truyen>
-		<tac_gia>Tanaka Yoshiki, Arakawa Hiromu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/22658/5/200.jpg</hinh_nho>
-		<gioi_thieu>As an unnaturally heavy mist descends on the battlefield, King Andragoras and his most valued officers confer among the bodies of dead and dying soldiers. When Daryoon, a young but highly skilled officer, voices his reluctance to send men into battle under these conditions, the king, unstable and enraged, banishes him. Now, Daryoon's new mission is to insure the safety of the King's only son, Prince Arislan. Daryoon and Prince Arislan set off on a quest of their own, but they can't succeed alone. They must convince both the Lord Narsus and his companion, the archer Elam, to join them in their quest to somehow help the soldiers win the war. Now a group of only six they must somehow overcome an enemy of 300,000 soldiers! These unlikely soldiers have fate on their side, so anything can happen!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/arslan-senki-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="wagatsuma-san wa ore no yome" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Harem, Romance, School life, Sci-fi, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>wagatsuma-san wa ore no yome</ten_truyen>
-		<ma_truyen>wagatsuma-san-wa-ore-no-yome</ma_truyen>
-		<tac_gia>Kuraishi Yuu, Nishikida Keishi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/10937/7/200.jpg</hinh_nho>
-		<gioi_thieu>Aoshima Hitoshi is a second year student in high school, who wishes he had a girlfriend. One day he wakes up for an unknown reason 10 years in the future, and he is married to the prettiest girl in school, Wagatsuma Ai! How has their relationship grown from mere acquaintances to husband and wife!?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/wagatsuma-san-wa-ore-no-yome-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="aku no hana" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>aku no hana</ten_truyen>
-		<ma_truyen>aku-no-hana</ma_truyen>
-		<tac_gia>Oshimi Shuzo</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/521/3/200.jpg</hinh_nho>
-		<gioi_thieu>The story opens as middle school student Takao Kasuga receives an F on a math test. But he doesn't even seem to notice because he's too engrossed in surreptitiously reading Beaudelaire's The Flowers of Evil. And the day goes downhill from there. In a moment of weakness, he finds and takes home the gym clothes belonging to sweet, pretty Nanako Saeki on whom he has a major crush. Unfortunately for Takao, there's a witness to the theft: Nakamura, who has a huge chip on her shoulder and a sadistic streak. As the saga unfolds, we see Takao struggling to decide whether to confess or cover up his misdeeds at the same time that he tries to win over the girl of his dreams, and avoid the blackmail attempts of Nakamura, his new 'BFF.'</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/aku-no-hana-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
