@@ -360,14 +360,14 @@
         <gioi_thieu>The newest chapter of Batwoman's life begins here! Monster Venom is the hottest new bioweapon on the market…and to break up the syndicate spreading it around the world, Batwoman's going to have to return to the place where she spent some of her darkest hours!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batwoman-2017-eng.xml</file_xml>
     </truyen>
-	<truyen ten="bedtime games" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="bedtime games" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>bedtime games</ten_truyen>
 		<ma_truyen>bedtime-games</ma_truyen>
         <tac_gia>Tini Howard, Celor, K. Michael Russell, Tim Seeley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/bedtime-games/1_medium.jpg</hinh_nho>
         <gioi_thieu>As summer comes to an end, three friends start senior year with a bang by exploring the mysterious past of their school. But before the night is over, their adventure turns into trouble when the kids set loose an evil that seeks to prey on their worst nightmares. </gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bedtime-games-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/bedtime-games-eng.xml</file_xml>
     </truyen>
 	<truyen ten="belle: beast hunter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>belle: beast hunter</ten_truyen>
