@@ -1011,14 +1011,14 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>The story revolves around the lives of two rough-and-tumble high school friends Kato Hiroshi and Nakama Toru, who seemed to make a habit of getting into trouble and starting up fights. In keeping with the spirit of the manga, Toru and Hiroshi sport slicked back 50's style perms and adopted exaggerated swaggers that made them comical and yet also oddly cool. The drama also features an assortment of outlandish characters who sport even weirder fashions and hairdos. To describe the action in this drama, think Fight Club meets The Breakfast Club.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/be-bop-highschool-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="bedtime games" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="bedtime games" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>bedtime games</ten_truyen>
 		<ma_truyen>bedtime-games</ma_truyen>
         <tac_gia>Tini Howard, Celor, K. Michael Russell, Tim Seeley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/bedtime-games/1_medium.jpg</hinh_nho>
         <gioi_thieu>As summer comes to an end, three friends start senior year with a bang by exploring the mysterious past of their school. But before the night is over, their adventure turns into trouble when the kids set loose an evil that seeks to prey on their worst nightmares. </gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bedtime-games-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/bedtime-games-eng.xml</file_xml>
     </truyen>
 	<truyen ten="beelzebub" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>beelzebub</ten_truyen>
