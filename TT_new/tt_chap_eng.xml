@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
-		<ten_truyen>weapon h</ten_truyen>
-		<ma_truyen>weapon-h</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-h/1_medium.jpg</hinh_nho>
+		<ten_truyen>harley quinn (2016)</ten_truyen>
+		<ma_truyen>harley-quinn-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 52</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>old man logan (2016)</ten_truyen>
+		<ma_truyen>old-man-logan-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-logan-(2016)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 49</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hit-girl (2018)</ten_truyen>
+		<ma_truyen>hit-girl-2018</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/h/hit-girl-(2018)/1_medium.jpg</hinh_nho>
 		<chap_moi>issue 9</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>aquaman (2016)</ten_truyen>
-		<ma_truyen>aquaman-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/a/aquaman-(2016)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 41</chap_moi>
+		<ten_truyen>hunter x hunter</ten_truyen>
+		<ma_truyen>hunter-x-hunter</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
+		<chap_moi>chap 385</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>the life of captain marvel</ten_truyen>
-		<ma_truyen>the-life-of-captain-marvel</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/t/the-life-of-captain-marvel/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 4</chap_moi>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<chap_moi>chap 284</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>kingdom</ten_truyen>
-		<ma_truyen>kingdom</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
-		<chap_moi>chap 576</chap_moi>
+		<ten_truyen>boruto : naruto next generations</ten_truyen>
+		<ma_truyen>boruto-naruto-next-generations</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40807/4/200.jpg</hinh_nho>
+		<chap_moi>chap 28</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
-		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
-		<chap_moi>chap 31.2</chap_moi>
+		<ten_truyen>nightwing (2016)</ten_truyen>
+		<ma_truyen>nightwing-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/n/nightwing-(2016)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 51</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>seitokai yakuindomo</ten_truyen>
-		<ma_truyen>seitokai-yakuindomo</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/8728/4/200.jpg</hinh_nho>
-		<chap_moi>chap 493</chap_moi>
+		<ten_truyen>optimus prime</ten_truyen>
+		<ma_truyen>proxima-centauri</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/o/optimus-prime/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 24</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>skyward (2018)</ten_truyen>
-		<ma_truyen>skyward-2018</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/skyward-(2018)/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>sideways</ten_truyen>
-		<ma_truyen>sideways</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/s/sideways/2_medium.jpg</hinh_nho>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>bedtime games</ten_truyen>
+		<ten_truyen>proxima centauri</ten_truyen>
 		<ma_truyen>bedtime-games</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/b/bedtime-games/1_medium.jpg</hinh_nho>
-		<chap_moi>issue 4</chap_moi>
+		<hinh_nho>https://comicbookroundup.com/img/covers/p/proxima-centauri/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 5</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>kengan ashua</ten_truyen>
-		<ma_truyen>kengan-ashua</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
-		<chap_moi>chap 154</chap_moi>
+		<ten_truyen>black clover</ten_truyen>
+		<ma_truyen>black-clover</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
+		<chap_moi>chap 178</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>horimiya</ten_truyen>
-		<ma_truyen>horimiya</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/3949/13/200.jpg</hinh_nho>
-		<chap_moi>chap 92</chap_moi>
+		<ten_truyen>dr. stone</ten_truyen>
+		<ma_truyen>dr-stone</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/47716/2/200.jpg</hinh_nho>
+		<chap_moi>chap 79</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>keijo!!!!!!!!</ten_truyen>
-		<ma_truyen>keijo</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/24760/11/200.jpg</hinh_nho>
-		<chap_moi>chap 165</chap_moi>
+		<ten_truyen>ake no tobari</ten_truyen>
+		<ma_truyen>ake-no-tobari</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/39326/1/200.jpg</hinh_nho>
+		<chap_moi>chap 135</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>wind breaker</ten_truyen>
-		<ma_truyen>wind-breaker</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/24786/3/200.jpg</hinh_nho>
-		<chap_moi>chap 199</chap_moi>
+		<ten_truyen>the god of high school</ten_truyen>
+		<ma_truyen>the-god-of-high-school</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/10053/2/200.jpg</hinh_nho>
+		<chap_moi>chap 381</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>feng qi cang lan</ten_truyen>
-		<ma_truyen>feng-qi-cang-lan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/42847/1/200.jpg</hinh_nho>
-		<chap_moi>chap 90.5</chap_moi>
+		<ten_truyen>19 days</ten_truyen>
+		<ma_truyen>19-days</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28998/1/200.jpg</hinh_nho>
+		<chap_moi>chap 260</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>freezing</ten_truyen>
-		<ma_truyen>freezing</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/2809/12/200.jpg</hinh_nho>
-		<chap_moi>chap 221</chap_moi>
+		<ten_truyen>the gamer</ten_truyen>
+		<ma_truyen>the-gamer</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
+		<chap_moi>chap 245</chap_moi>
 	</truyen>
 </danh_sach_truyen>
