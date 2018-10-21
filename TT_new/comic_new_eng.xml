@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="x-men: black - mystique" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - mystique</ten_truyen>
+		<ma_truyen>x-men-black-mystique</ma_truyen>
+        <tac_gia>Seanan McGuire, Lonnie Nadler, Zac Thompson, Marco Faila</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/mystique_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THAT'S SO RAVEN! What's a day in the life for Raven Darkholme, A.K.A. Mystique? Brutal kills, revenge-fueled chills, seductive thrills...and that's all before breakfast! Award-winning author Seanan McGuire (X-MEN GOLD ANNUAL #2) and rising star Marco Failla take Marvel's multifaceted mutant murderess for a spin! PLUS: Part 3 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-mystique-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="justice league dark (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>justice league dark (2018)</ten_truyen>
+		<ma_truyen>justice-league-dark-2018</ma_truyen>
+        <tac_gia>James Tynion IV, Alvaro Martinez</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-dark-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Earth's magic once belonged to them. Now they want the magic back. But who exactly are they? It's up to the new Justice League Dark to find out and stop this nightmarish new threat at all costs! After the events of NO JUSTICE, team leader Wonder Woman guides the misfit magic mix of Zatanna, Swamp Thing, Man-Bat and Detective Chimp against enemies too fantastic even for the Justice League.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-dark-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="shuri" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>shuri</ten_truyen>
+		<ma_truyen>shuri</ma_truyen>
+        <tac_gia>Nnedi Okorafor, Leonardo Romero</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shuri-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Black Panther has disappeared, lost on a mission in space. And in his absence, everyone's looking at the next in line for the throne. But Shuri is happiest in a lab, surrounded by gadgets of her own creation. She'd rather be testing gauntlets than throwing them. But a nation without a leader is a vulnerable one - and Shuri may have to choose between Wakanda's welfare and her own.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="avengers (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>avengers (2018)</ten_truyen>
 		<ma_truyen>avengers-2018</ma_truyen>
@@ -404,32 +431,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/d/deep-roots/1_medium.jpg</hinh_nho>
         <gioi_thieu>Roots, once suffocating under cement, tear through the streets of London to throttle buildings. Vegetable homunculi hold up banks with automatic weapons. There is a green and blooming world beyond our own, fighting back against the human pollutant. We will launch a rescue mission to this Otherworld. But it is cruel and unknowable, and should we become tangled in its vines, more than cities will fall. From Dan Watters (Limbo, The Shadow, Assassin's Creed) and Val Rodrigues comes a story of two worlds, of myth and man, of science and fiction, and the roots they share.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deep-roots-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="kick-ass (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>kick-ass (2018)</ten_truyen>
-		<ma_truyen>kick-ass-2018</ma_truyen>
-        <tac_gia>Mark Millar, John Romita Jr.</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/k/kick-ass-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>KICK-ASS IS BACK-ready to wipe out the city's criminal lowlives, destroy its gangs, and save its communities from decay. But there's a new face beneath the old mask, a new figure wearing that famous green and yellow spandex. Who is this new vigilante superhero? Who can fill Dave Lizewski's shoes? WHO IS THE NEW KICK-ASS? Find out in the first issue of this new, ongoing monthly series. Comic book legends MARK MILLAR and JOHN ROMITA, JR. reunite for the next chapter of the greatest superhero comic of all time.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kick-ass-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="death of love" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>death of love</ten_truyen>
-		<ma_truyen>death-of-love</ma_truyen>
-        <tac_gia>Justin Jordan, Donal Delay, Omar Trucu Estevez</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/death-of-love/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Love sucks. Philo Harris is going to do something about it. After gaining the ability to see the Cupidae that make love work-after a particularly bad drunken decision-Philo ends up going to war with love itself. With a chainsaw.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/death-of-love-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="copperhead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>copperhead</ten_truyen>
-		<ma_truyen>copperhead</ma_truyen>
-        <tac_gia>Jay Faerber, Scott Godlewski</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/copperhead/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Welcome to Copperhead, a grimy mining town on the edge of a backwater planet. Single mom Clara Bronson is the new sheriff, and on her first day she'll have to contend with a resentful deputy, a shady mining tycoon, and a family of alien hillbillies. And did we mention the massacre?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/copperhead-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
