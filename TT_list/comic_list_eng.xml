@@ -1728,6 +1728,15 @@
         <gioi_thieu>Two of comics greatest teams team up for the very first time! Something terrible has happened in Angel Grove! When the Command Center is breached and the teleporters are damaged, Zack is flung into another universe, where he's mistaken for a villain by a mysterious masked vigilante. Can the other Power Rangers get to their friend in time to save him from Batman? Co-published with BOOM! Studios.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-power-rangers-eng.xml</file_xml>
     </truyen>
+	<truyen ten="justice league dark (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>justice league dark (2018)</ten_truyen>
+		<ma_truyen>justice-league-dark-2018</ma_truyen>
+        <tac_gia>James Tynion IV, Alvaro Martinez</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-dark-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Earth's magic once belonged to them. Now they want the magic back. But who exactly are they? It's up to the new Justice League Dark to find out and stop this nightmarish new threat at all costs! After the events of NO JUSTICE, team leader Wonder Woman guides the misfit magic mix of Zatanna, Swamp Thing, Man-Bat and Detective Chimp against enemies too fantastic even for the Justice League.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-dark-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="justice league of america (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>justice league of america (2017)</ten_truyen>
 		<ma_truyen>justice-league-of-america-2017</ma_truyen>
@@ -2528,6 +2537,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/sheena-queen-of-the-jungle-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>In this riveting relaunch, the guardian of the jungle, SHEENA, pursues a mysterious invader that has come to spy on the Amazon's most ancient secrets... Following the path of the trespasser, she encounters a forbidden ruin in which even more deadly dangers lie in wait and begins an adventure that will take her beyond her wildest imaginings!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sheena-queen-of-the-jungle-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="shuri" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>shuri</ten_truyen>
+		<ma_truyen>shuri</ma_truyen>
+        <tac_gia>Nnedi Okorafor, Leonardo Romero</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shuri-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Black Panther has disappeared, lost on a mission in space. And in his absence, everyone's looking at the next in line for the throne. But Shuri is happiest in a lab, surrounded by gadgets of her own creation. She'd rather be testing gauntlets than throwing them. But a nation without a leader is a vulnerable one - and Shuri may have to choose between Wakanda's welfare and her own.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
     </truyen>
 	<truyen ten="sideways" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>sideways</ten_truyen>
@@ -3656,6 +3674,15 @@ This comic upload for Jitender Kumar via request comic by send email to tttdigit
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/mojo_1_medium.jpg</hinh_nho>
         <gioi_thieu>THE SPINELESS SHOWMAN TAKES CENTER STAGE! That's right - that most successful producer ever to pack the cross-time airwaves, the man himself, MOJO, has yet another plan in place the boost his ratings at the X-Men's expense! And I'm sure he would say it's THE MOST IMPORTANT COMIC BOOK YOU'LL EVER READ! PLUS: Part 2 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-mojo-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="x-men: black - mystique" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - mystique</ten_truyen>
+		<ma_truyen>x-men-black-mystique</ma_truyen>
+        <tac_gia>Seanan McGuire, Lonnie Nadler, Zac Thompson, Marco Faila</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/mystique_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THAT'S SO RAVEN! What's a day in the life for Raven Darkholme, A.K.A. Mystique? Brutal kills, revenge-fueled chills, seductive thrills...and that's all before breakfast! Award-winning author Seanan McGuire (X-MEN GOLD ANNUAL #2) and rising star Marco Failla take Marvel's multifaceted mutant murderess for a spin! PLUS: Part 3 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-mystique-eng.xml</file_xml>
     </truyen>
 	<truyen ten="x-men: blue" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>x-men: blue</ten_truyen>
