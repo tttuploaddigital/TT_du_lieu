@@ -7,11 +7,4 @@
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/uratarou-viet.xml</file_xml>
 		<chap_moi>chap 50</chap_moi>
 	</truyen>
-	<truyen>
-		<ten_truyen>the omega men (2015)</ten_truyen>
-		<ma_truyen>the-omega-men-2015</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/o/omega-men/1_medium.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-omega-men-2015-viet.xml</file_xml>
-		<chap_moi>issue 12</chap_moi>
-	</truyen>
 </danh_sach_truyen>
