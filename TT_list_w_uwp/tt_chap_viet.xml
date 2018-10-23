@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
-		<ten_truyen>uratarou</ten_truyen>
-		<ma_truyen>uratarou</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/44067/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/uratarou-viet.xml</file_xml>
-		<chap_moi>chap 50</chap_moi>
+		<ten_truyen>harley quinn (2016)</ten_truyen>
+		<ma_truyen>harley-quinn-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
+		<chap_moi>issue 52</chap_moi>
 	</truyen>
 </danh_sach_truyen>
