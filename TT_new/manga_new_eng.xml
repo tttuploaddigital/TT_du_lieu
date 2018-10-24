@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="beastars" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>beastars</ten_truyen>
+		<ma_truyen>beastars</ma_truyen>
+		<tac_gia>Itagaki Paru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9237/1/200.jpg</hinh_nho>
+		<gioi_thieu>In a world populated by anthropomorphic animals, herbivores and carnivores coexist with each other. For the adolescences of the Cherryton School, school life is filled with hope, romance, distrust, and uneasiness. The main character is Legosi the wolf, a member of the drama club. Despite his menacing appearance, he has a very gentle heart. Throughout most of his life, he has always been an object of fear and hatred by other animals, and he's been quite accustomed to that lifestyle. But soon, he finds himself becoming more involved with his fellow classmates who have their own share of insecurities and finds his life in school changing slowly.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="chi no wadachi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>chi no wadachi</ten_truyen>
+		<ma_truyen>chi-no-wadachi</ma_truyen>
+		<tac_gia>Oshimi Shuzo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/47610/1/200.jpg</hinh_nho>
+		<gioi_thieu>he illusion of that person leads me astray. Mother and son. This is the ultimate favoritism.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/chi-no-wadachi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="violence action" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>violence action</ten_truyen>
+		<ma_truyen>violence-action</ma_truyen>
+		<tac_gia>Sawada Shin, Asai Renji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/50492/1/200.jpg</hinh_nho>
+		<gioi_thieu>Are you in need of revenge? Is there someone that you need out of your way? The Pururun All-Natural-Girls Express Service would be more than pleased to help you achieve these things. 'Kay' is one such cute girl that works for Pururun, and when duty calls, she is there to eliminate anyone her client wants -- whether it's with knives, guns, or acid! How did she come to be a killing specialist, what kinds of people will she meet -- and what are her goals?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/violence-action-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="sky blue" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Romance, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>sky blue</ten_truyen>
 		<ma_truyen>sky-blue</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/6/5/200.jpg</hinh_nho>
 		<gioi_thieu>What can you do when you get mistaken for murder? Nothing. You go to prison. Lucky you, your inmates are some of the biggest cutthroats in the prison. Seriously you are lucky. Expecially when zombies attack.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/apocalypse-no-toride-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kangoku jikken" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kangoku jikken</ten_truyen>
-		<ma_truyen>kangoku-jikken</ma_truyen>
-		<tac_gia>Kantetsu, Minase Chiho</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42154/3/200.jpg</hinh_nho>
-		<gioi_thieu>Eyama Aito, a high school student, is the victim of daily bullying. One day a strange letter arrives inviting him to a 'captivity game.' He may choose one person to hold captive for one month with a chance at winning a large amount of money. He chooses the ringleader of his bullies, Aya Kirishima, and the only rule of the game is to not kill her. Everything else is fair game. Eyama's revenge begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kangoku-jikken-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="harigane service" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>harigane service</ten_truyen>
-		<ma_truyen>harigane-service</ma_truyen>
-		<tac_gia>Ara Tatsuya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27393/2/200.jpg</hinh_nho>
-		<gioi_thieu>Shimodaira Kanna is a first year at Toritsu Toyose high school. He decides to be in the volley-ball club unfortunately, after an accident in middle school he can no longer jump. Despite being really good at serving he can't be on the regular team without jumping. How will he overcomes that problem?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/harigane-service-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="dansan joshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>dansan joshi</ten_truyen>
-		<ma_truyen>dansan-joshi</ma_truyen>
-		<tac_gia>Mizu Asato</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/37423/1/200.jpg</hinh_nho>
-		<gioi_thieu>This manga follows the story of 7 high school students, 3 boys and 4 girls in year 1 class A. Their not-so-ordinary ways of thinking and everyday lives are loaded with comedy, dirty jokes. At times, debating about how to use a toilet, at other times, risking their lives over growing body hair in unusual places!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dansan-joshi-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
