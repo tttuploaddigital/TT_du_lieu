@@ -7,6 +7,6 @@
         <tinh_trang>Tiếp tục</tinh_trang>
         <hinh_nho>https://www.hazzaonline.com/assets/thumbL/ATB-SERVICE.png</hinh_nho>
         <gioi_thieu>Đã có phiên bản mới. Vui lòng cập nhật ứng dụng.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/TT_list_w_uwp/update.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/TT_list_w_universal/update.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
