@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="beastars" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>beastars</ten_truyen>
+		<ma_truyen>beastars</ma_truyen>
+		<tac_gia>Itagaki Paru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9237/1/200.jpg</hinh_nho>
+		<gioi_thieu>In a world populated by anthropomorphic animals, herbivores and carnivores coexist with each other. For the adolescences of the Cherryton School, school life is filled with hope, romance, distrust, and uneasiness. The main character is Legosi the wolf, a member of the drama club. Despite his menacing appearance, he has a very gentle heart. Throughout most of his life, he has always been an object of fear and hatred by other animals, and he's been quite accustomed to that lifestyle. But soon, he finds himself becoming more involved with his fellow classmates who have their own share of insecurities and finds his life in school changing slowly.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="chi no wadachi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>chi no wadachi</ten_truyen>
+		<ma_truyen>chi-no-wadachi</ma_truyen>
+		<tac_gia>Oshimi Shuzo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/47610/1/200.jpg</hinh_nho>
+		<gioi_thieu>he illusion of that person leads me astray. Mother and son. This is the ultimate favoritism.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/chi-no-wadachi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="violence action" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>violence action</ten_truyen>
+		<ma_truyen>violence-action</ma_truyen>
+		<tac_gia>Sawada Shin, Asai Renji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/50492/1/200.jpg</hinh_nho>
+		<gioi_thieu>Are you in need of revenge? Is there someone that you need out of your way? The Pururun All-Natural-Girls Express Service would be more than pleased to help you achieve these things. 'Kay' is one such cute girl that works for Pururun, and when duty calls, she is there to eliminate anyone her client wants -- whether it's with knives, guns, or acid! How did she come to be a killing specialist, what kinds of people will she meet -- and what are her goals?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/violence-action-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="x-men: black - mystique" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>x-men: black - mystique</ten_truyen>
 		<ma_truyen>x-men-black-mystique</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>Xing Zi hates guys, because whenever she bumps into them she hiccups! However one day she bumped into a guy with a bad reputation, but she didn't even hiccup!?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/wanting-to-touch-you-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="farmhand" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>farmhand</ten_truyen>
-		<ma_truyen>farmhand</ma_truyen>
-        <tac_gia>Rob Guillory, Taylor Wells</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/farmhand/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Jedidiah Jenkins is a farmer-but his cash crop isn't corn or soy. Jed grows fast-healing, plug-and-play human organs. Lose a finger? Need a new liver? He's got you covered. Unfortunately, strange produce isn't the only thing Jed's got buried. Deep in the soil of the Jenkins Family Farm, something dark has taken root, and it's beginning to bloom. From ROB GUILLORY, Eisner-winning co-creator and artist of Image Comics' CHEW, comes a new dark comedy about science gone sinister and agriculture gone apocalyptic. Nature is a Mother.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/farmhand-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the seeds" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Literature, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the seeds</ten_truyen>
-		<ma_truyen>the-seeds</ma_truyen>
-        <tac_gia>Ann Nocenti, David Aja</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-seeds/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In a world much like our own, people are smashing their phones and moving to the lawless tech-free Zone B. A few cantankerous aliens have come to collect the last dregs of humanity's essence for the celestial embryo bank. One of them falls in love. Astra is an idealistic journalist who stumbles into the story of a lifetime, only to realize that if she reports it, she'll destroy the last hope of a dying world. How far will she go to get her story?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-seeds-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="scooby apocalypse" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Horror, Life sucks, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>scooby apocalypse</ten_truyen>
-		<ma_truyen>scooby-apocalypse</ma_truyen>
-        <tac_gia>J.M. DeMatteis, Howard Porter</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/scooby-apocalypse/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Those meddling kids-Fred, Daphne, Velma, Shaggy, and their dog, Scooby-Doo-get more ghost-debunking than they bargained for when faced with a fundamental change in their world. The apocalypse has happened. Old rules about logic no longer apply. The creatures of the night are among us, and the crew of the Magical Mystery Machine has to fight to survive-because in the apocalyptic badlands of the near-future, the horrors are real!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/scooby-apocalypse-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
