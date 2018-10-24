@@ -471,6 +471,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>The story revolves around the lives of two rough-and-tumble high school friends Kato Hiroshi and Nakama Toru, who seemed to make a habit of getting into trouble and starting up fights. In keeping with the spirit of the manga, Toru and Hiroshi sport slicked back 50's style perms and adopted exaggerated swaggers that made them comical and yet also oddly cool. The drama also features an assortment of outlandish characters who sport even weirder fashions and hairdos. To describe the action in this drama, think Fight Club meets The Breakfast Club.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/be-bop-highschool-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="beastars" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>beastars</ten_truyen>
+		<ma_truyen>beastars</ma_truyen>
+		<tac_gia>Itagaki Paru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9237/1/200.jpg</hinh_nho>
+		<gioi_thieu>In a world populated by anthropomorphic animals, herbivores and carnivores coexist with each other. For the adolescences of the Cherryton School, school life is filled with hope, romance, distrust, and uneasiness. The main character is Legosi the wolf, a member of the drama club. Despite his menacing appearance, he has a very gentle heart. Throughout most of his life, he has always been an object of fear and hatred by other animals, and he's been quite accustomed to that lifestyle. But soon, he finds himself becoming more involved with his fellow classmates who have their own share of insecurities and finds his life in school changing slowly.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="beelzebub" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>beelzebub</ten_truyen>
 		<ma_truyen>beelzebub</ma_truyen>
@@ -779,6 +788,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <hinh_nho>https://file-thumb.mpcdn.net/28919/2/200.jpg</hinh_nho>
 		<gioi_thieu>Possessing both flexibility and tenacity, Imomushi (Japanese for Caterpillar) is an assassin that does not kill anyone but those who are assigned to her. She seems to have had something happen between her and her older sister in the past, however. A new spin-off story from the same author of Arachnid, this story looks at the inner workings of a top assassin within The Organization itself.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/caterpillar-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="chi no wadachi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>chi no wadachi</ten_truyen>
+		<ma_truyen>chi-no-wadachi</ma_truyen>
+		<tac_gia>Oshimi Shuzo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/47610/1/200.jpg</hinh_nho>
+		<gioi_thieu>he illusion of that person leads me astray. Mother and son. This is the ultimate favoritism.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/chi-no-wadachi-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="chimamire sukeban chainsaw" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, Horror, Mature, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>chimamire sukeban chainsaw</ten_truyen>
@@ -3644,6 +3662,15 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
 		<hinh_nho>https://file-thumb.mpcdn.net/10869/1/200.jpg</hinh_nho>
 		<gioi_thieu>As a child, Thorfinn sat at the feet of the great Leif Ericson and thrilled to wild tales of a land far to the west. But his youthful fantasies were shattered by a mercenary raid. Raised by the Vikings who murdered his family, Thorfinn became a terrifying warrior, forever seeking to kill the band's leader, Askeladd, and avenge his father. Sustaining Throfinn through his ordeal are his pride in his family and his dreams of a fertile westward land, a land without war or slavery... the land Leif called Vinland. Vinland Saga was nominated for the 2008 Manga Taisho award. Vinland Saga won the Grand Prize in the manga division of the Japan Media Arts awards in 2009. Vinland Saga won the 36th Kodansha Manga Award for Best General Manga in 2012.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/vinland-saga-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="violence action" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>violence action</ten_truyen>
+		<ma_truyen>violence-action</ma_truyen>
+		<tac_gia>Sawada Shin, Asai Renji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/50492/1/200.jpg</hinh_nho>
+		<gioi_thieu>Are you in need of revenge? Is there someone that you need out of your way? The Pururun All-Natural-Girls Express Service would be more than pleased to help you achieve these things. 'Kay' is one such cute girl that works for Pururun, and when duty calls, she is there to eliminate anyone her client wants -- whether it's with knives, guns, or acid! How did she come to be a killing specialist, what kinds of people will she meet -- and what are her goals?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/violence-action-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="waga tousou - imouto no tame nara sekai o shukusei shite mo ii yo ne!" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Harem, Mature, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>waga tousou - imouto no tame nara sekai o shukusei shite mo ii yo ne!</ten_truyen>
