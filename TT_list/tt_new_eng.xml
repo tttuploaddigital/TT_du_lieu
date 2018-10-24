@@ -270,6 +270,7 @@
         <gioi_thieu>THE GOLDEN GUARDIAN IS BACK! FRESH FROM THE PAGES OF DOCTOR STRANGE...but is that really such a good thing? The greatest hero that the Marvel Universe ever forgot has returned! The Sentry - shining sentinel with the power of a thousand exploding suns - is back from the dead, but his troubled mind is far from finding peace. By day, he trudges through a mundane life as Bob Reynolds; at night, the Sentry soars across a gleaming, perfect skyline. But how much of the Sentry's dual existence is real? And what of his dark other self, the Void?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-sentry-2018-eng.xml</file_xml>
     </truyen>
+	<!--
 	<truyen ten="yuusha ga shinda!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>yuusha ga shinda!</ten_truyen>
 		<ma_truyen>yuusha-ga-shinda</ma_truyen>
@@ -405,4 +406,5 @@
 		<gioi_thieu>Xing Zi hates guys, because whenever she bumps into them she hiccups! However one day she bumped into a guy with a bad reputation, but she didn't even hiccup!?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/wanting-to-touch-you-eng.xml</file_xml>
 	</truyen>
+	-->
 </danh_sach_truyen>
