@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="update" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="update" nhan_kieu_truyen="Type" kieu_truyen="update">
+		<ten_truyen>update</ten_truyen>
+		<ma_truyen>update</ma_truyen>
+		<tac_gia>update</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://www.hazzaonline.com/assets/thumbL/ATB-SERVICE.png</hinh_nho>
+		<gioi_thieu>New version avaiable for Comics Planet , Manga Land , Comic Land ( Windows 10 UWP ) with new features.
+Please update app or install it for best experience when reading comic , manga , manhwa , manhua ... on Windows 10.
+Thank you for reading.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/TT_list_w_universal/update.xml</file_xml>
+	</truyen>
+	<truyen ten="beastars" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>beastars</ten_truyen>
+		<ma_truyen>beastars</ma_truyen>
+		<tac_gia>Itagaki Paru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
+		<gioi_thieu>In a world populated by anthropomorphic animals, herbivores and carnivores coexist with each other. For the adolescences of the Cherryton School, school life is filled with hope, romance, distrust, and uneasiness. The main character is Legosi the wolf, a member of the drama club. Despite his menacing appearance, he has a very gentle heart. Throughout most of his life, he has always been an object of fear and hatred by other animals, and he's been quite accustomed to that lifestyle. But soon, he finds himself becoming more involved with his fellow classmates who have their own share of insecurities and finds his life in school changing slowly.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="chi no wadachi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>chi no wadachi</ten_truyen>
+		<ma_truyen>chi-no-wadachi</ma_truyen>
+		<tac_gia>Oshimi Shuzo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/47610/1/200.jpg</hinh_nho>
+		<gioi_thieu>he illusion of that person leads me astray. Mother and son. This is the ultimate favoritism.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/chi-no-wadachi-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="x-men: black - mystique" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>x-men: black - mystique</ten_truyen>
 		<ma_truyen>x-men-black-mystique</ma_truyen>
@@ -27,6 +56,78 @@
         <gioi_thieu>The Black Panther has disappeared, lost on a mission in space. And in his absence, everyone's looking at the next in line for the throne. But Shuri is happiest in a lab, surrounded by gadgets of her own creation. She'd rather be testing gauntlets than throwing them. But a nation without a leader is a vulnerable one - and Shuri may have to choose between Wakanda's welfare and her own.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
     </truyen>
+	<truyen ten="sky blue" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Romance, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>sky blue</ten_truyen>
+		<ma_truyen>sky-blue</ma_truyen>
+		<tac_gia>Kobayashi Daiki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/9237/1/200.jpg</hinh_nho>
+		<gioi_thieu>Kazama's family died in a mysterious explosion when he was still young and since then, he has not been able to come to terms with their deaths or even with himself. He emotionally distances himself from everyone and his aggressive nature gets him the nick name 'Real Life Combat Game Character.' Years later, Kazama, now in high school, gets close to death after a car accident. As he accepts his fate, Sky Blue enters his consciousness. Somehow related to the multicolored meteors that were seen all around the world on the same day of Kazama's near fatal accident, Sky Blue is able to control his body. The teenage-looking Sky Blue is able to control Kazama's body movements and even his speech. He falls for the beautiful but cold Haioka Anna and when she gets kidnapped, Sky Blue takes over Kazama's body, unleashing enormous amounts of power and strength.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sky-blue-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kin no kanojo, gin no kanojo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Fantasy, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kin no kanojo, gin no kanojo</ten_truyen>
+		<ma_truyen>kin-no-kanojo-gin-no-kanojo</ma_truyen>
+		<tac_gia>Akai Maruboro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/29051/2/200.jpg</hinh_nho>
+		<gioi_thieu>The romantic comedy depicts a hapless protagonist and his beautiful love interest - who is split into two girls by a divine power. The 'Golden Girlfriend' is the graceful and ladylike type, while the 'Silver Girlfriend' is the mischievous, foulmouthed, and straightforward type.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kin-no-kanojo-gin-no-kanojo-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="flame of recca" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Martial arts, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>flame of recca</ten_truyen>
+		<ma_truyen>flame-of-recca</ma_truyen>
+		<tac_gia>Anzai Nobuyuki</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://www.mangaupdates.com/image/i165836.jpg</hinh_nho>
+		<gioi_thieu>Flame of Recca follows the story of a teenage boy named Recca Hanabishi, who is interested in ninja and claims to be one himself. He often gets into fights because he made it publicly known that the person who manages to defeat him will earn his services as a loyal ninja. Despite this, he eventually pledges his loyalty and services as a ninja to Yanagi Sakoshita, a girl with the innate ability to heal any wound/injury, because of her kindess and compassion. Recca soon discovers that he possesses the innate ability to control/manipulate flames, and eventually learns that he is actually the son of the sixth generation leader of the Hokage, a ninja clan that was wiped out by Oda Nobunaga in 1576, roughly 400 years before the series' present day!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/flame-of-recca-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="my love tiger" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Fantasy, Harem, Romance, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>my love tiger</ten_truyen>
+		<ma_truyen>my-love-tiger</ma_truyen>
+		<tac_gia>Yoon Jae Ho, Carnel</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/30148/2/200.jpg</hinh_nho>
+		<gioi_thieu>Sung Hoon was a normal High School student, but one day he finds himself with a tiger that Hwangun didn't marry, and is told that the world will end if he doesn't marry that tiger. The story begins with the cute smile of the tiger girl.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/my-love-tiger-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="peerless dad" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Fantasy, Slice of life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>peerless dad</ten_truyen>
+		<ma_truyen>peerless-dad</ma_truyen>
+		<tac_gia>Kyoungchan No, No Kyoung Chan, Hyun Suk Lee</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/d4/c2/d4c210d82e8b386769ddbf06ba4aa913aec2aa72_23577_200_283.jpg</hinh_nho>
+		<gioi_thieu>Amazing story about one martial arts journey through marriage, fatherhood, and battles.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/peerless-dad-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="spirit sword sovereign" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>spirit sword sovereign</ten_truyen>
+		<ma_truyen>spirit-sword-sovereign</ma_truyen>
+		<tac_gia>Iciyuan</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/85/39/853971eb26667561892c03643aef82a4af4e2fd6_28845_200_267.jpg</hinh_nho>
+		<gioi_thieu>Once the spirit sword roars, within heaven, earth and the three worlds, I shall reign as the sovereign! Those who do not submit shall die!</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/spirit-sword-sovereign-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="holy ancestor" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>holy ancestor</ten_truyen>
+		<ma_truyen>holy-ancestor</ma_truyen>
+		<tac_gia>Ao Tian Wu Hen</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/f8/bb/f8bb2a559a65546482a51601e3ef1d76e9254f19_34746_200_280.jpg</hinh_nho>
+		<gioi_thieu>This is a brand new upgraded divine world. There are King Zhou, Jiang Ziya, Su Yuji and Yang Lan. All of them are peak figures here. Also, there are Kings and Three Emperors of Huoyun Cave here. There are Saints and Daoist sects here. Ancient Gods and Devils, Chi You and Xing Tian are here too. Last but not least, we also have a youth named Luo Lie. He will open up a new divine era where</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/holy-ancestor-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="yue shang" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Martial arts, Romance, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>yue shang</ten_truyen>
+		<ma_truyen>yue-shang</ma_truyen>
+		<tac_gia>Ai Qing, Mo Huan</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/44/d1/44d178a3dad7e95fe0ac357cbb78aa4ee749f150_28703_200_267.jpg</hinh_nho>
+		<gioi_thieu>Since ancient times, witches fought demons to save the world. However everything changed 100 years ago. The clan of witches secluded themselves in the mountains with a shield enchantment. Only the talented ones are able to freely enter and exit. And among them predicted that the clan of witches would destroyed by the one with siler hair. Daughter of the clan's patriarch, a head of silver hair, born to change the skies...</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/yue-shang-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="avengers (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>avengers (2018)</ten_truyen>
 		<ma_truyen>avengers-2018</ma_truyen>
@@ -54,6 +155,33 @@
         <gioi_thieu>THE SPINELESS SHOWMAN TAKES CENTER STAGE! That's right - that most successful producer ever to pack the cross-time airwaves, the man himself, MOJO, has yet another plan in place the boost his ratings at the X-Men's expense! And I'm sure he would say it's THE MOST IMPORTANT COMIC BOOK YOU'LL EVER READ! PLUS: Part 2 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-mojo-eng.xml</file_xml>
     </truyen>
+	<truyen ten="origin  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>origin  </ten_truyen>
+		<ma_truyen>origin</ma_truyen>
+		<tac_gia>Boichi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/43656/2/200.jpg</hinh_nho>
+		<gioi_thieu>The year is AD 2048. Japan is connected to the Eurasian continent by a transcontinental railroad. The capital, Tokyo, has become a crucible of criminals and terrorists. And so, in the metropolitan darkness a mysterious presence attacks and slaughters people, unnoticed, night after night... Just what are these 'things that are not human' living in hiding in the human world? And just who is this 'Origin' person who faces them?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/origin-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="rere hello" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="	Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>rere hello</ten_truyen>
+		<ma_truyen>rere-hello</ma_truyen>
+		<tac_gia>Minami Touko</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/21728/3/200.jpg</hinh_nho>
+		<gioi_thieu>When Ririko was five, she lost her mother. Since then, she helps out her father. Her father started a handyman company, but then something horrible happened...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/rere-hello-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="genwaku no kodou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Harem, Horror, Mystery, Romance, Shounen ai, Supernatural, Yaoi" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>genwaku no kodou</ten_truyen>
+		<ma_truyen>genwaku-no-kodou</ma_truyen>
+		<tac_gia>Yoshihara Rieko, Kada Michiru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/3044/1/200.jpg</hinh_nho>
+		<gioi_thieu>Strange things are happening all over town, and Kouichi Amano's nightmares have started again. Several clans have been spurred into action as the past gradually resurfaces. Just what is going on, and how do the Amano brothers fit into the picture?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/genwaku-no-kodou-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="the death of superman: part 1" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the death of superman: part 1</ten_truyen>
 		<ma_truyen>the-death-of-superman-part-1</ma_truyen>
@@ -81,6 +209,33 @@
         <gioi_thieu>MAGNETO IS BACK... and so is Chris Claremont! For years, Magneto has done everything he can to achieve his goals for mutant domination. But now Magneto has declared that enough is enough. So what revolutionary plan does Magneto have that will change the face of mutantkind? And will anyone be able to stop him? Will anyone want to? PLUS: Includes Part 1 of X-MEN BLACK: APOCALYPSE the back up story by Zac Thompson, Lonnie Nadler, and Geraldo Borge!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-magneto-eng.xml</file_xml>
     </truyen>
+	<truyen ten="dragons rioting" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Martial arts, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>dragons rioting</ten_truyen>
+		<ma_truyen>dragons-rioting</ma_truyen>
+		<tac_gia>Watanabe Tsuyoshi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2484/6/200.jpg</hinh_nho>
+		<gioi_thieu>As a 6 Year Old, Rintaro is diagnosed with Henisei Tashu Ijou Syndrome (also known as Hentai Syndrome), a disease that could kill him if he gets sexually aroused. To save him and provide a way for him to live as normal a life as possible, his father teaches him the ways to control his body and mind for ten years in the mountains, with the martial art of the Koei Sougetsu. When he's 16 he chooses to enroll Nangokuren High School, which he assumed to be the biggest all-boys school in the country but is actually the biggest all-girls school that has just gone coed. On his first day he stumbles upon a large scale battle and learns that the first rule of the school is that it 'Abides the Law of Nature' which has turned the campus into a war zone-like environment. Rintaro now sees transferring out as his mission, but will it be that easy now that he's caught the eye of the 3 'Dragons', the bodacious female leaders of the three biggest factions around?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dragons-rioting-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="black torch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>black torch</ten_truyen>
+		<ma_truyen>black-torch</ma_truyen>
+		<tac_gia>Takaki Tsuyoshi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/46706/2/200.jpg</hinh_nho>
+		<gioi_thieu>As a descendant of shinobi, Jirou Azuma has been learning ninja techniques his entire life. But in addition to that, he also has the ability to talk to animals. One day when he rescues a strange black cat named Ragou, he learns that the world is filled with spirits called mononoke that can take the form of both people and animals. However, their meeting is cut short when they are attacked by a hostile mononoke who is after Ragou's power.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-torch-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kyochuu rettou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Fantasy, Horror, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kyochuu rettou</ten_truyen>
+		<ma_truyen>kyochuu-rettou</ma_truyen>
+		<tac_gia>Fujimi Yasutaka, Red Ice</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/36229/1/200.jpg</hinh_nho>
+		<gioi_thieu>After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyochuu-rettou-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="infinity wars: iron hammer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>infinity wars: iron hammer</ten_truyen>
 		<ma_truyen>infinity-wars-iron-hammer</ma_truyen>
@@ -108,6 +263,61 @@
         <gioi_thieu>THE GOLDEN GUARDIAN IS BACK! FRESH FROM THE PAGES OF DOCTOR STRANGE...but is that really such a good thing? The greatest hero that the Marvel Universe ever forgot has returned! The Sentry - shining sentinel with the power of a thousand exploding suns - is back from the dead, but his troubled mind is far from finding peace. By day, he trudges through a mundane life as Bob Reynolds; at night, the Sentry soars across a gleaming, perfect skyline. But how much of the Sentry's dual existence is real? And what of his dark other self, the Void?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-sentry-2018-eng.xml</file_xml>
     </truyen>
+	<!--
+	<truyen ten="yuusha ga shinda!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>yuusha ga shinda!</ten_truyen>
+		<ma_truyen>yuusha-ga-shinda</ma_truyen>
+		<tac_gia>Subaruichi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/29997/3/200.jpg</hinh_nho>
+		<gioi_thieu>Three Years ago a Hero sealed a Hell Gate. The Seal has been weakening ever since, sporadically letting Monsters through. After a big Group of Monsters entered the Country through a Hell Gate, the profession of Heroes was needed again. Touka Scott a small Radish Farmer in the southern Town of Cheza is prepared for sudden Monster Attacks. He built himself a hidden Pittrap with Bamboo spikes, to lure unsuspecting Monsters in if they ever try to Attack the Village. Suddenly a Monster attacks. Touka tries to lure it into the Trap with freshly roasted Bacon, but the Monster dislikes this type of Meat. Thankfully the local Hero saves the Village from the Monster in the nick of Time. The hungry Hero tries to grab a bite of Bacon after vanquishing the Monster, only to stumble into Toukas Pittrap and Die. After causing the local Heros Death, Touka is forced to take matters into his own Hands to protect the Region from attacking Monsters.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuusha-ga-shinda-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="servamp" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Mystery, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>servamp</ten_truyen>
+		<ma_truyen>servamp</ma_truyen>
+		<tac_gia>Tanaka Strike</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/24536/3/200.jpg</hinh_nho>
+		<gioi_thieu>When a stray black cat named Kuro crosses Mahiru Shirota's path, the high school freshman's life will never be the same again. Kuro is, in fact, no ordinary feline, but a servamp: a servant vampire. While Mahiru's personal philosophy is one of non-intervention, he soon becomes embroiled in an ancient, altogether surreal conflict between vampires and humans.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/servamp-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="shinjuku swan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>shinjuku swan</ten_truyen>
+		<ma_truyen>shinjuku-swan</ma_truyen>
+		<tac_gia>Wakui Ken</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/32873/1/200.jpg</hinh_nho>
+		<gioi_thieu>Shiratori Tatsuhiko was a bum wandering the streets with no money to his name when he meets Mako. He works as a scout for an agency called Burst that recruits girls on the streets for adult entertainment in the Shinjuku area of Tokyo. Tatsuhiko quickly learns the techniques of scouting and is even more attracted to how much money he can make. But with how the industry is maintained, Tatsuhiko has to deal with the lying, deception, violence, greed and even the yakuza. He wants to keep the morals that he has, but it gets progressively harder and harder as he gets deeper into the other side of society.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shinjuku-swan-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="double casting" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, Mystery, Romance, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>double casting</ten_truyen>
+		<ma_truyen>double-casting</ma_truyen>
+		<tac_gia>Shin Yeong Woo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/38092/1/200.jpg</hinh_nho>
+		<gioi_thieu>A rising boss in the underworld is forced to lead a double life as a police officer and a gang boss in order to find the killer of his brother.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/double-casting-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="dear, only you don't know!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Josei, Romance, Slice of life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>dear, only you don't know!</ten_truyen>
+		<ma_truyen>dear-only-you-don-t-know</ma_truyen>
+		<tac_gia>Yuria</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2181/1/200.jpg</hinh_nho>
+		<gioi_thieu>Everyone knows women are tricky beings, with layers upon layers of secrets they hide, but there are some secrets women must risk everything in order to keep hidden! These women with such hidden secrets are being revealed in the new series, 'Dear, Only You Don't Know!'</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/dear-only-you-don-t-know-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="skeleton soldier" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Supernatural, Tragedy, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>skeleton soldier</ten_truyen>
+		<ma_truyen>skeleton-soldier</ma_truyen>
+		<tac_gia>Ant Studio, Sosori</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/7a/63/7a63998dbe12a91bc1a7bd46a06fcbd8237c0733_13671_200_248.jpg</hinh_nho>
+		<gioi_thieu>A lowly skeleton soldier had only one purpose: to protect his succubus master. And yet he was powerless to protect her, being crushed by the hero. But fate has more in store for him as he gets another chance to protect his master once more and try to change his destiny despite all odds.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/skeleton-soldier-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="belle: beast hunter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>belle: beast hunter</ten_truyen>
 		<ma_truyen>belle-beast-hunter</ma_truyen>
@@ -135,274 +345,59 @@
         <gioi_thieu>Lady 'Poppy' Pyppenia is guarded by the Sleepless Knight Cyrenic, but danger is around every corner once the new king is coronated.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sleepless-eng.xml</file_xml>
     </truyen>
-	<truyen ten="farmhand" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>farmhand</ten_truyen>
-		<ma_truyen>farmhand</ma_truyen>
-        <tac_gia>Rob Guillory, Taylor Wells</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/farmhand/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Jedidiah Jenkins is a farmer-but his cash crop isn't corn or soy. Jed grows fast-healing, plug-and-play human organs. Lose a finger? Need a new liver? He's got you covered. Unfortunately, strange produce isn't the only thing Jed's got buried. Deep in the soil of the Jenkins Family Farm, something dark has taken root, and it's beginning to bloom. From ROB GUILLORY, Eisner-winning co-creator and artist of Image Comics' CHEW, comes a new dark comedy about science gone sinister and agriculture gone apocalyptic. Nature is a Mother.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/farmhand-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the seeds" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Literature, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the seeds</ten_truyen>
-		<ma_truyen>the-seeds</ma_truyen>
-        <tac_gia>Ann Nocenti, David Aja</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-seeds/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In a world much like our own, people are smashing their phones and moving to the lawless tech-free Zone B. A few cantankerous aliens have come to collect the last dregs of humanity's essence for the celestial embryo bank. One of them falls in love. Astra is an idealistic journalist who stumbles into the story of a lifetime, only to realize that if she reports it, she'll destroy the last hope of a dying world. How far will she go to get her story?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-seeds-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="scooby apocalypse" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Horror, Life sucks, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>scooby apocalypse</ten_truyen>
-		<ma_truyen>scooby-apocalypse</ma_truyen>
-        <tac_gia>J.M. DeMatteis, Howard Porter</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/scooby-apocalypse/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Those meddling kids-Fred, Daphne, Velma, Shaggy, and their dog, Scooby-Doo-get more ghost-debunking than they bargained for when faced with a fundamental change in their world. The apocalypse has happened. Old rules about logic no longer apply. The creatures of the night are among us, and the crew of the Magical Mystery Machine has to fight to survive-because in the apocalyptic badlands of the near-future, the horrors are real!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/scooby-apocalypse-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hawkman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hawkman (2018)</ten_truyen>
-		<ma_truyen>hawkman-2018</ma_truyen>
-        <tac_gia>Jeff Lemire, Robert Venditti, Bryan Hitch, Andrew currie, Alex Sinclair</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="house of whispers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>house of whispers</ten_truyen>
-		<ma_truyen>house-of-whispers</ma_truyen>
-        <tac_gia>Jeff Lemire, Robert Venditti, Bryan Hitch, Andrew currie, Alex Sinclair</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/house-of-whispers-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/house-of-whispers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hawkman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hawkman (2018)</ten_truyen>
-		<ma_truyen>hawkman-2018</ma_truyen>
-        <tac_gia>Jeff Lemire, Robert Venditti, Bryan Hitch, Andrew currie, Alex Sinclair</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hawkman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hawkman (2018)</ten_truyen>
-		<ma_truyen>hawkman-2018</ma_truyen>
-        <tac_gia>Jeff Lemire, Robert Venditti, Bryan Hitch, Andrew currie, Alex Sinclair</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="fathom (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>fathom (2018)</ten_truyen>
-		<ma_truyen>fathom-2018</ma_truyen>
-        <tac_gia>Ron Marz, Siya Oum, Peter Steigerwald</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>This all-new adventure for Aspen's preeminent hero sees her attempt to navigate an ever-changing world where The Blue are not only present above the surface-but exploited in new and dangerous ways. When a rival nation to The States decides to take control of the global landscape by tapping into the power of The Blue, Aspen Matthews discovers that a new adversary has risen to challenge the notion that she is the most powerful person on the planet-and humanity may suffer the consequences!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fathom-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="crossed plus one hundred: mimic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>crossed plus one hundred: mimic</ten_truyen>
-		<ma_truyen>crossed-plus-one-hundred-mimic</ma_truyen>
-        <tac_gia>Christos N. Gage, Patrick Shand, Emiliano Urdinola, Raulo Caceres</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/crossed-plus-100-mimic/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Crossed + One Hundred: Mimic continues to story of the disciples of Beau Salt, the serial killer who despite being infected fully retained his sanity, invading military bases to take their best and turn them to the Crossed side.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/crossed-plus-one-hundred-mimic-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="thanos legacy" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>thanos legacy</ten_truyen>
-		<ma_truyen>thanos-legacy</ma_truyen>
-        <tac_gia>Donny Cates, Gerry Duggan, Brian Level, Cory Smith</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/thanos-legacy/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THANOS WINS... AGAIN! Rising star Donny Cates returns to the Mad Titan to bring the story bridging the gap between his best-selling 'Thanos Wins' and the worldshattering INFINITY WARS! How did Thanos' journey back from the future lead to the events of INFINITY WARS PRIME? Now it can be told!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/thanos-legacy-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="asgardians of the galaxy" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>asgardians of the galaxy</ten_truyen>
-		<ma_truyen>asgardians-of-the-galaxy</ma_truyen>
-        <tac_gia>Cullen Bunn, Matteo Lolli</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/asgardians-of-the-galaxy/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spinning out of the events of INFINITY WARS comes an epic space opera from DEADPOOL veterans Cullen Bunn and Matteo Lolli! Angela, the not-so-beloved half-sister of Thor. The hotheaded Valkyrie - and the human who shares her form, Annabelle Riggs. Skurge the Executioner, freshly returned from Hel. Throg, the mightiest frog of thunder. Kevin Masterson, the boy who took his father's mace to become the hero Thunderstrike. And the Destroyer, the Asgardian armor built to take down Celestials - its wielder unknown. The events of INFINITY WARS set NEBULA off on a quest to rule the galaxy - wielding an Asgardian weapon even Thor would fear - and it's up to this team of gods, assassins, frogs and heroes to stop her.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/asgardians-of-the-galaxy-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="starcraft: scavengers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>starcraft: scavengers</ten_truyen>
-		<ma_truyen>starcraft-scavengers</ma_truyen>
-        <tac_gia>Jody Houser, Gabriel Guzman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/starcraft-scavengers/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A group of terran space scavengers hope to pull off the job of their lifetimes, ignoring a recent United Earth Directorate treaty to pillage a derelict protoss ship.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/starcraft-scavengers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="batman: kings of fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>batman: kings of fear</ten_truyen>
-		<ma_truyen>batman-kings-of-fear</ma_truyen>
-        <tac_gia>Scott Peterson, Kelley Jones</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Batman's been overseeing Gotham City for years now and isn't sure how much of a difference he's making. Doubt, fear and insecurity are starting to take over. And as all of those negative feelings set in the Scarecrow orchestrates a riot at Arkham Asylum to give the Dark Knight one of his greatest challenges yet! This six-issue miniseries will see the Scarecrow in a horrifying new way that you'll have to read to believe.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-kings-of-fear-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="edge of spider-geddon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>edge of spider-geddon</ten_truyen>
-		<ma_truyen>edge-of-spider-geddon</ma_truyen>
-        <tac_gia>Jed McKay, Gerardo Sandoval</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/edge-of-spider-geddon/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spider-Punk is back and better than ever. After SPIDER-VERSE, Hobie Brown was a Web Warrior, but that didn't mean things back in his universe were solved. The writer of the SPIDER-PUNK story in SPIDER-VERSE is back and joined by VENOM'S Gerardo Sandoval! Spider-Punk's Earth is under attack both on the ground and from space, meaning his responsibility seems to outweigh his power.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/edge-of-spider-geddon-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="extermination (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>extermination (2018)</ten_truyen>
-		<ma_truyen>extermination-2018</ma_truyen>
-        <tac_gia>Ed Brisson, Pepe Larraz</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/extermination-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>EXTERMINATE THE PAST. ELIMINATE THE FUTURE. Cyclops. Iceman. Angel. Beast. Marvel Girl. The original team of teen mutants brought together by Professor Charles Xavier many years ago have been shunted through time to find a world they barely recognize but were determined to help. Now, finding themselves targeted for death, the future of mutantkind lies squarely in the hands of its past.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/extermination-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="mr. and mrs. x" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>mr. and mrs. x</ten_truyen>
-		<ma_truyen>mr-and-mrs-x</ma_truyen>
-        <tac_gia>Kelly Thompson, Oscar Bazaldua</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/mr-and-mrs-x/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Straight from the pages of X-MEN GOLD... to the surprise of everyone, the Marvel Universe's hottest couple has finally tied the knot! In their extraordinary lives, they've faced nearly every challenge imaginable, but how will they fare against former flames making trouble? An entire galaxy in jeopardy? You want it? We got it, as Kelly Thompson (HAWKEYE, ROGUE and GAMBIT) and Oscar Bazaldua (SPIDER-MAN, STAR WARS: ROGUE ONE) bring you the tantalizing tale of a modern marriage... X-MEN STYLE!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mr-and-mrs-x-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the silencer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the silencer</ten_truyen>
-		<ma_truyen>the-silencer</ma_truyen>
-        <tac_gia>Dan Abnett, John Romita Jr., Sandra Hope</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-silencer/1_medium.jpg</hinh_nho>
-        <gioi_thieu>She's one of the DC Universe's deadliest assassins... and you've never heard of her. Super-strong, highly trained, armed with devastating and stealthy meta-human abilities, the Silencer is virtually invincible. Or at least she was. After decades as Leviathan's chief assassin, Honor Guest put in her time and managed to get out with her skin intact. Now she lives a normal life with a normal family in a normal house on a normal street. But the past has come back to haunt her in the form of her old employer and a deadly new mission... and Talia Al Ghul won't take no for an answer.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-silencer-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the punisher (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the punisher (2018)</ten_truyen>
-		<ma_truyen>the-punisher-2018</ma_truyen>
-        <tac_gia>Matt Rosenberg, Szymon Kudranski</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/punisher-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>YOU CAN TAKE THE PUNISHER OUT OF THE WAR MACHINE... Punisher no longer has the War Machine armor, but he retained his newly acquired taste for big game, and he's hungry for more. However, the paths to such perilous pursuits are fraught with dangers bigger than any Frank has faced before, and this lone wolf could use otherworldly help on his way up to the world stage.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-punisher-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="injustice vs. masters of the universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>injustice vs. masters of the universe</ten_truyen>
-		<ma_truyen>injustice-vs-masters-of-the-universe</ma_truyen>
-        <tac_gia>Tim Seeley, Freddie E. Williams II, Jeremy Colwell</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/injustice-vs-masters-of-the-universe/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Believing He-man and the Masters of the Universe defeated, a robotic impostor has seized control of Eternia-but not for long! After freeing his kingdom from this strongman's rule, Prince Adam learns not everyone is pleased to see the pretender deposed-but Adam knows the value of freedom. So when heroes from another dimension ask his aid in deposing a super-hero turned dictator, he agrees. Teaming up with Batman against the Superman of the Injustice Universe, He-man and his new allies face dangerous and familiar enemies in a battle where no world is safe!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/injustice-vs-masters-of-the-universe-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="multiple man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>multiple man</ten_truyen>
-		<ma_truyen>multiple-man</ma_truyen>
-        <tac_gia>Matthew Rosenburg, Andy MacDonald</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/multiple-man-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>MATTHEW ROSENBERG and ANDY MACDONALD BRING MULTIPLE MAN BACK FROM THE DEAD...SORT OF...MAYBE? A handful of people's favorite X-Man - Jamie Madrox - was alive for a while. Then he was dead. Now he's not. But he will be again if he doesn't kill himself trying to make sure he doesn't die. It makes sense when you read it. Trust us. In his fight to not die, Jamie has stumbled across a threat even greater than his own death, but fixing it might make it worse. Can he save the world from himself? On top of all that, the X-Men are mad at him now, and a mysterious new group of foes is after him, too. We can't tell you who they are, but they're pretty great.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/multiple-man-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="revenge of wonderland" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>revenge of wonderland</ten_truyen>
-		<ma_truyen>revenge-of-wonderland</ma_truyen>
-        <tac_gia>Joe Brusha, Ralph Tedesco, Dave Franchini, Raven Gregory, Allan Otero, Grostieta</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/revenge-of-wonderland/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The realm of madness is back with a brand new twisted tale of love, loss and vengeance! It's been a long time since Alice Liddle's daughter, Calie, finally escaped the twisted world that her mother was pulled into many years before her. But the insanity of Wonderland has returned and this time around things are much more dangerous and horrifying than ever before. Originally the realm of dreams, but now a realm made up of nightmares, Wonderland has been purged of its original denizens and a new ruler has emerged. The Duchess has been kidnapping people from this world and re-shaping them in her image to use as her personal playthings. Can Calie and her daughter team up to stop a new madness from emerging from Wonderland and invading our world or is it too late to stop the inevitable? Find out here is this insane first issue of a whole new Wonderland!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/revenge-of-wonderland-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="fantastic four (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>fantastic four (2018)</ten_truyen>
-		<ma_truyen>fantastic-four-2018</ma_truyen>
-        <tac_gia>Dan Slott, Simone Bianchi, Sara Pichelli, Elisabetta D'Amico, Skottie Young</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fantastic-four-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Since the end of SECRET WARS, there's been a gap in the Marvel Universe. A void no other team can fill. And it's time for the world to move on. But can it? A life-changing decision by the Thing! A momentous declaration by the Human Torch! A clarion call-to-arms that summons Doctor Doom! And a signal in the sky that heralds the return of hope to the Marvel Universe! All this, and Alicia Masters adopts kittens! So cute! Plus, the Impossible Man!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fantastic-four-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="catwoman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>catwoman (2018)</ten_truyen>
-		<ma_truyen>catwoman-2018</ma_truyen>
-        <tac_gia>Joelle Jones</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/catwoman-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The wedding night's barely over, but Catwoman's back on the streets, this time to expose a copycat who's pulling heists around Gotham City. As Selina cracks the whip on her former criminal cohorts, she's attracting unwanted attention from one of Gotham's most dangerous groups. The mob? Nope. Try the GCPD. And as if the Bat-Bride didn't have enough problems, don't miss the debut of an all-new villain determined to make trouble for all nine of Selina's lives.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/catwoman-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="predator: hunters ii" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>predator: hunters ii</ten_truyen>
-		<ma_truyen>predator-hunters-ii</ma_truyen>
-        <tac_gia>Chris Warner, Neeraj Menon, Agustin Padilla</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/predator-hunters-ii/1_medium.jpg</hinh_nho>
-        <gioi_thieu>From the islands of the South Pacific to the mountains of Afghanistan, the Hunters go wherever the Predators appear--even if it's in a war zone and into conflict with a mysterious government group hunting the same prey! Despite the casualties suffered during their first mission, the Predator Hunters are on the prowl again!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/predator-hunters-ii-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="captain america (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>captain america (2018)</ten_truyen>
-		<ma_truyen>captain-america-2018</ma_truyen>
-        <tac_gia>Ta-Nehisi Coates, Leinil Francis Yu, Gerry Alanguilan, Sunny Gho</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-america-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>IT IS WINTER IN AMERICA.For over 70 years, he has stood in stalwart defense of our country and its people. But in the aftermath of Hydra's takeover of the nation, Captain America is a figure of controversy, carrying a tarnished shield...and a new enemy is rising! Who are the Power Elite? And how do they intend to co-opt and corrupt the symbol that is Captain America?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-america-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="portal bound" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>portal bound</ten_truyen>
-		<ma_truyen>portal-bound</ma_truyen>
-        <tac_gia>Gabe Carrasco, Mark Roslan, Alex Arizmendi, Wes Hartman, Adam Archer</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/portal-bound/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Their Future Depends on Each Other. A parallel otherworld exists as a mirror to our own, where science is melded with nature and a warrior spirit defines their true value. A teenage soldier princess, Sybil, is sent off with her Uncle Horuk in an effort to stop her megalomaniac father, Emperor Atilus from destroying two Earths. With a deadly array of monstrous creatures in hot pursuit, Sybil and her uncle race to activate a portal to Earth to find a savior who is also figuring out how to survive... being a teenager!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/portal-bound-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="fissure" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>fissure</ten_truyen>
-		<ma_truyen>fissure</ma_truyen>
-        <tac_gia>Tim Daniel, Patricio Delpeche</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fissure/1_medium.jpg</hinh_nho>
-        <gioi_thieu>El Sueno, Texas was a single street town withering under the shadow of the Mexico-U.S. Barrier. Then the pavement split, and a massive crack spread from one end to the other, rapidly swallowing El Sueno whole. Young couple Avery Lee Olmos and Hark Wright fight to escape the mysterious sinkhole and the malevolent force that beckons from its depths.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fissure-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="infinity wars  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars  </ten_truyen>
-		<ma_truyen>infinity-wars</ma_truyen>
-        <tac_gia>Gerry Duggan, Mike Deodato Jr.</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-prime/1_medium.jpg</hinh_nho>
-        <gioi_thieu>As the Infinity Stones come to Earth, so too comes the war for control over them. But none who wield the stones know the truth about the power they contain...or what it would take to bring them to their END. The nature of the universe itself hangs in the balance as we learn the answer to the question on everyone's lips since 'Infinity Wars Prime': WHO IS REQUIEM?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="adventures of the super sons" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>adventures of the super sons</ten_truyen>
-		<ma_truyen>adventures-of-the-super-sons</ma_truyen>
-        <tac_gia>Peter J. Tomasi, Carlo Barberi</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/adventures-of-the-super-sons/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Super Sons are back in an all-new 12-issue miniseries written by Peter J. Tomasi! Check out the lost and secret adventures of Damian Wayne (Robin) and Jon Kent (Superboy) in this flashback miniseries that takes a deep dive into the bombastic bromance between the sons of the DC Universe's greatest heroes. It's an epic dual storyline that transcends current events, as Superboy and Robin find themselves targets of an interstellar team of young badasses called the Gang.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/adventures-of-the-super-sons-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="death of the inhumans" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>death of the inhumans</ten_truyen>
-		<ma_truyen>death-of-the-inhumans</ma_truyen>
-        <tac_gia>Donny Cates, Ariel Olivetti, Jordie Bellaire</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/death-of-the-inhumans/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE TITLE SAYS IT ALL - HERE LIE THE INHUMANS. The Kree have gone murdering, leaving behind a message: Join or die. Thousands of Inhumans have already made their choice - the evidence floats bleeding in space. Black Bolt and his family are next. Rising star Donny Cates and PUNISHER: WAR JOURNAL artist Ariel Olivetti bring their brutal talents to the Inhumans!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/death-of-the-inhumans-eng.xml</file_xml>
-    </truyen>
+	<truyen ten="fairy tail: 100 years quest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Ecchi, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
+		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
+		<tac_gia>Mashima Hiro, Ueda Atsuo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
+		<gioi_thieu>After overcoming the threat of Acnologia and Zeref, Fairy Tail has become stronger and more energetic! The 100 year quest which Natsu and company left for, and also to the members who had remained at the guild, something new is going to happen!? Although the story was supposed to have concluded, a new adventure now begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="goblin slayer: side story year one" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>goblin slayer: side story year one</ten_truyen>
+		<ma_truyen>goblin-slayer-side-story-year-one</ma_truyen>
+		<tac_gia>Kagyu Kumo, Kento Sakaeda</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/50806/1/200.jpg</hinh_nho>
+		<gioi_thieu>A prequel series that reveals Goblin Slayer's past and the events that led him to become an adventurer with the sole purpose of exterminating all goblins from the world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-side-story-year-one-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="asa made jugyou chu!" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Comedy, Ecchi, Gender bender, Harem, Mature, Romance, School life, Seinen, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>asa made jugyou chu!</ten_truyen>
+		<ma_truyen>asa-made-jugyou-chu</ma_truyen>
+		<tac_gia>Ohta Akiyoshi, Ayakura Juu, Matsuda98, Minazuki Tooru, Munyu, Ohara Tometa, Sakura Koharu</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/869/1/200.jpg</hinh_nho>
+		<gioi_thieu>Kakinozaki Ayana-sensei and student Kagami Yuuki move into a room in the girls dormitory for the new (co-ed) high school semester, requested by Ayana-sensei and approved by the schools' principal. As one would guess, no one can find out he's living there so other than school classes, he has to cross-dress or else he'll be kicked out of school and dorm.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/asa-made-jugyou-chu-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="apotheosis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>apotheosis</ten_truyen>
+		<ma_truyen>apotheosis</ma_truyen>
+		<tac_gia>Ranzai Studio</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/eb/06/eb06cef64bbb2ffd1675ec13bb7c33006910fe13_35538_200_310.jpg</hinh_nho>
+		<gioi_thieu>Apotheosis - elevation to the status of a god. Luo Zheng, now a humble slave was born as the eldest son of a wealthy family. Due to his family's decline, the kidnapping of his sister by a powerful force, he can now only be stepped upon by others. However, heaven never seals off all exits. An ancient book left by his father reveals a secret divine technique, giving the reader immense power! But what is behind this power? This is a contest against fate.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/apotheosis-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="star martial god technique" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Martial arts, Romance, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>star martial god technique</ten_truyen>
+		<ma_truyen>star-martial-god-technique</ma_truyen>
+		<tac_gia>Mad Snail</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/44777/1/200.jpg</hinh_nho>
+		<gioi_thieu>In the whole world there lay twelve paths to climb the Tower of God, and in legends these twelve pathways lead towards the legendary road of immortality. However the paths in the Tower of God, are far too long, without end. In ancient times there once were many types of martial arts, sadly the world underwent terrible changes, and only three were left: Flame, Dragon and Star Martial Arts. Generations of experts of those three martial arts search for road of immortality. Accompany a Star Martial Arts practitioner on his lifetime journey, with young beauties at his side, and plans to become the Highest God.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/star-martial-god-technique-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="wanting to touch you" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, School life, Shoujo., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>wanting to touch you</ten_truyen>
+		<ma_truyen>wanting-to-touch-you</ma_truyen>
+		<tac_gia>Xi Yu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+		<hinh_nho>https://file-thumb.mpcdn.net/50707/1/200.jpg</hinh_nho>
+		<gioi_thieu>Xing Zi hates guys, because whenever she bumps into them she hiccups! However one day she bumped into a guy with a bad reputation, but she didn't even hiccup!?</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/wanting-to-touch-you-eng.xml</file_xml>
+	</truyen>
+	-->
 </danh_sach_truyen>

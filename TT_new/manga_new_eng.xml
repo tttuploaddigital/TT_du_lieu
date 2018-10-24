@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="update" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="update" nhan_kieu_truyen="Type" kieu_truyen="update">
+		<ten_truyen>update</ten_truyen>
+		<ma_truyen>update</ma_truyen>
+		<tac_gia>update</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://www.hazzaonline.com/assets/thumbL/ATB-SERVICE.png</hinh_nho>
+		<gioi_thieu>New version avaiable for Comics Planet , Manga Land , Comic Land ( Windows 10 UWP ) with new features.
+Please update app or install it for best experience when reading comic , manga , manhwa , manhua ... on Windows 10.
+Thank you for reading.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/TT_list_w_universal/update.xml</file_xml>
+	</truyen>
 	<truyen ten="beastars" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>beastars</ten_truyen>
 		<ma_truyen>beastars</ma_truyen>
