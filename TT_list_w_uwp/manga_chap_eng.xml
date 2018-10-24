@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>nanatsu no taizai</ten_truyen>
+		<ma_truyen>nanatsu-no-taizai</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
+		<chap_moi>chap 286</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 131</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dungeon ni deai o motomeru no wa machigatte iru darou ka</ten_truyen>
+		<ma_truyen>dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/23265/12/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-eng.xml</file_xml>
+		<chap_moi>chap 86</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>baby steps</ten_truyen>
+		<ma_truyen>baby-steps</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
+		<chap_moi>chap 324</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dead tube</ten_truyen>
+		<ma_truyen>dead-tube</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28472/5/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dead-tube-eng.xml</file_xml>
+		<chap_moi>chap 44</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>azumi</ten_truyen>
+		<ma_truyen>azumi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/22943/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/azumi-eng.xml</file_xml>
+		<chap_moi>chap 213</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>hunter x hunter</ten_truyen>
 		<ma_truyen>hunter-x-hunter</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>

@@ -1,6 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>mr. and mrs. x</ten_truyen>
+		<ma_truyen>mr-and-mrs-x</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mr-and-mrs-x/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mr-and-mrs-x-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>new challengers</ten_truyen>
+		<ma_truyen>new-challengers</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/new-challengers-(2018)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hack/slash: resurrection</ten_truyen>
+		<ma_truyen>hack-slash-resurrection</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hackslash-resurrection/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hack-slash-resurrection-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>green lanterns (2016)</ten_truyen>
+		<ma_truyen>green-lanterns-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/green-lanterns/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/green-lanterns-2016-eng.xml</file_xml>
+		<chap_moi>issue 57</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>daredevil (2016)</ten_truyen>
+		<ma_truyen>daredevil-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/daredevil-(2015)/1_medium.jpg</hinh_nho>
+		<chap_moi>issue 609</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>stellar</ten_truyen>
+		<ma_truyen>stellar</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/stellar/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/stellar-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>harley quinn (2016)</ten_truyen>
 		<ma_truyen>harley-quinn-2016</ma_truyen>
 		<hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
