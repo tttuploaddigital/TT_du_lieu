@@ -2115,6 +2115,15 @@
         <gioi_thieu>Super heroes – they're a privileged class. Doing what they want, when they want and suffering no consequences. They have no regard for the ordinary people who are left behind to suffer in their wake. Who will stand up for the little guy? There is a man. If you can find him, and if he believes in your story, he and his friends will put things right. Some call them outlaws, rebels, Robin Hoods. To others, they are heroes. No powers to speak of – just skills, smarts and a burning drive to do the right thing. His name is Hawkeye. Occupy Avengers: It's time to 'Take Back Justice'!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/occupy-avengers-eng.xml</file_xml>
     </truyen>
+	<truyen ten="old lady harley" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>old lady harley</ten_truyen>
+		<ma_truyen>old-lady-harley</ma_truyen>
+        <tac_gia>Frank Teri, Inaki Miranda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-lady-harley/1_medium.jpg</hinh_nho>
+        <gioi_thieu>After liberating New York City from her now-feral Gang of Harleys, poor Harley wants nothing more than to slip back into retirement in her coastal (and heavily guarded) paradise. But the Laughing Boys Gang has another idea-they'll follow her to the ends of the Earth, to drag her back to their leader! It can't actually be... him! Right?! He couldn't possibly still be alive, could he? After all... Harley killed him herself with her bare hands! Should she turn to President Power Girl for help? Or flee to the 51st state, Atlantis? Step into an insane vision of a future DC Universe we all better hope we don't live to see!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-lady-harley-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="old man hawkeye" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>old man hawkeye</ten_truyen>
 		<ma_truyen>old-man-hawkeye</ma_truyen>
@@ -2564,6 +2573,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/silver-surfer-(2016)/1_medium.jpg</hinh_nho>
         <gioi_thieu>The Surfer has taken Dawn Greenwood to the end of the universe, and now he's going to show her the most fantastic planet of them all: Earth! It's your homeworld like you've never seen it before: with monsters, magic and...a secret that will change everything! The perfect jumping-on point for the book everyone's talking about!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/silver-surfer-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="spider-girls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>spider-girls</ten_truyen>
+		<ma_truyen>spider-girls</ma_truyen>
+        <tac_gia>Jody Houser, Andres Genolet</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-girls-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A SPIDER-GEDDON TIE IN! MAY 'MAYDAY' PARKER, the original SPIDER-GIRL, ANYA CORAZON, the Prime Universe SPIDER-GIRL, and ANNIE MAY PARKER, A.K.A. SPIDERLING - together for the first time! May will do anything to protect her brother from the Inheritors, and Anya's knowledge of the mystical Spider-Totems could save the day. But how does Annie fit in? And what chance do three girls have against ageless universal forces?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-girls-eng.xml</file_xml>
     </truyen>
 	<truyen ten="spider-gwen ii" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>spider-gwen ii</ten_truyen>
@@ -3656,6 +3674,15 @@ This comic upload for Jitender Kumar via request comic by send email to tttdigit
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Cloned from a warrior, raised as a killer, Laura Kinney has gone through hell and come out the other side a hero. After a stint as the All-New Wolverine, she returns to her roots as X-23 to make sure no one ever has to go through the horrors she did. With her sister Gabby and their pet Jonathan in tow, X-23 forges her own destiny in this new series by Mariko Tamaki (HULK, HUNT FOR WOLVERINE: CLAWS OF A KILLER) and Juann Cabal (ALL-NEW WOLVERINE, ELEKTRA).</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="x-men: black - juggernaut" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - juggernaut</ten_truyen>
+		<ma_truyen>x-men-black-juggernaut</ma_truyen>
+        <tac_gia>Robbie Thompson, Shawn Crystal</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/juggernaut_1_medium.jpg</hinh_nho>
+        <gioi_thieu>NOTHING CAN STOP THE JUGGERNAUT...until now. What has finally stopped Cain Marko in his tracks? You'll have to see to believe, but we can promise you it's gonna involve nothing but punching for the Juggernaut! PLUS: Part 4 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-juggernaut-eng.xml</file_xml>
     </truyen>
 	<truyen ten="x-men: black - magneto" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>x-men: black - magneto</ten_truyen>

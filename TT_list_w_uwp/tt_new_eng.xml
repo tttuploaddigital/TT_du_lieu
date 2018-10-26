@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="spider-girls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>spider-girls</ten_truyen>
+		<ma_truyen>spider-girls</ma_truyen>
+        <tac_gia>Jody Houser, Andres Genolet</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-girls-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A SPIDER-GEDDON TIE IN! MAY 'MAYDAY' PARKER, the original SPIDER-GIRL, ANYA CORAZON, the Prime Universe SPIDER-GIRL, and ANNIE MAY PARKER, A.K.A. SPIDERLING - together for the first time! May will do anything to protect her brother from the Inheritors, and Anya's knowledge of the mystical Spider-Totems could save the day. But how does Annie fit in? And what chance do three girls have against ageless universal forces?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-girls-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="old lady harley" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>old lady harley</ten_truyen>
+		<ma_truyen>old-lady-harley</ma_truyen>
+        <tac_gia>Frank Teri, Inaki Miranda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-lady-harley/1_medium.jpg</hinh_nho>
+        <gioi_thieu>After liberating New York City from her now-feral Gang of Harleys, poor Harley wants nothing more than to slip back into retirement in her coastal (and heavily guarded) paradise. But the Laughing Boys Gang has another idea-they'll follow her to the ends of the Earth, to drag her back to their leader! It can't actually be... him! Right?! He couldn't possibly still be alive, could he? After all... Harley killed him herself with her bare hands! Should she turn to President Power Girl for help? Or flee to the 51st state, Atlantis? Step into an insane vision of a future DC Universe we all better hope we don't live to see!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-lady-harley-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="x-men: black - juggernaut" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - juggernaut</ten_truyen>
+		<ma_truyen>x-men-black-juggernaut</ma_truyen>
+        <tac_gia>Robbie Thompson, Shawn Crystal</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/juggernaut_1_medium.jpg</hinh_nho>
+        <gioi_thieu>NOTHING CAN STOP THE JUGGERNAUT...until now. What has finally stopped Cain Marko in his tracks? You'll have to see to believe, but we can promise you it's gonna involve nothing but punching for the Juggernaut! PLUS: Part 4 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-juggernaut-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="beastars" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>beastars</ten_truyen>
 		<ma_truyen>beastars</ma_truyen>
@@ -243,168 +270,4 @@
 		<gioi_thieu>After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyochuu-rettou-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="infinity wars: iron hammer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars: iron hammer</ten_truyen>
-		<ma_truyen>infinity-wars-iron-hammer</ma_truyen>
-        <tac_gia>Al Ewing, Humberto Ramos</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-iron-hammer/1_medium.jpg</hinh_nho>
-        <gioi_thieu>INFINITY WARPS?! When Stark Odinson, the brainy but arrogant son of the All-Father, was kidnapped by Ice Giants and forced to make them an armory, he turned their forges against them and became the armored Asgardian, Iron Hammer!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-iron-hammer-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="venom: first host" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>venom: first host</ten_truyen>
-		<ma_truyen>venom-first-host</ma_truyen>
-        <tac_gia>Mike Costa, Mark Bagley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/v/venom-first-host/1_medium.jpg</hinh_nho>
-        <gioi_thieu>MIKE COSTA AND MARK BAGLEY REUNITE FOR A VENOM STORY UNLIKE ANY OTHER! Before the AMAZING SPIDER-MAN...before VENOM... There was the FIRST HOST. And that First Host has returned  in need of Venom's help - only by reuniting can the two avert cosmic ruin! Can Eddie and the symbiote trust one another long enough to save the galaxy, or will the FIRST HOST prove to be Venom's undoing?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venom-first-host-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the sentry (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the sentry (2018)</ten_truyen>
-		<ma_truyen>the-sentry-2018</ma_truyen>
-        <tac_gia>Jeff Lemire, Kim Jacinto</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sentry-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE GOLDEN GUARDIAN IS BACK! FRESH FROM THE PAGES OF DOCTOR STRANGE...but is that really such a good thing? The greatest hero that the Marvel Universe ever forgot has returned! The Sentry - shining sentinel with the power of a thousand exploding suns - is back from the dead, but his troubled mind is far from finding peace. By day, he trudges through a mundane life as Bob Reynolds; at night, the Sentry soars across a gleaming, perfect skyline. But how much of the Sentry's dual existence is real? And what of his dark other self, the Void?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-sentry-2018-eng.xml</file_xml>
-    </truyen>
-	<!--
-	<truyen ten="yuusha ga shinda!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>yuusha ga shinda!</ten_truyen>
-		<ma_truyen>yuusha-ga-shinda</ma_truyen>
-		<tac_gia>Subaruichi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/29997/3/200.jpg</hinh_nho>
-		<gioi_thieu>Three Years ago a Hero sealed a Hell Gate. The Seal has been weakening ever since, sporadically letting Monsters through. After a big Group of Monsters entered the Country through a Hell Gate, the profession of Heroes was needed again. Touka Scott a small Radish Farmer in the southern Town of Cheza is prepared for sudden Monster Attacks. He built himself a hidden Pittrap with Bamboo spikes, to lure unsuspecting Monsters in if they ever try to Attack the Village. Suddenly a Monster attacks. Touka tries to lure it into the Trap with freshly roasted Bacon, but the Monster dislikes this type of Meat. Thankfully the local Hero saves the Village from the Monster in the nick of Time. The hungry Hero tries to grab a bite of Bacon after vanquishing the Monster, only to stumble into Toukas Pittrap and Die. After causing the local Heros Death, Touka is forced to take matters into his own Hands to protect the Region from attacking Monsters.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuusha-ga-shinda-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="servamp" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Mystery, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>servamp</ten_truyen>
-		<ma_truyen>servamp</ma_truyen>
-		<tac_gia>Tanaka Strike</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/24536/3/200.jpg</hinh_nho>
-		<gioi_thieu>When a stray black cat named Kuro crosses Mahiru Shirota's path, the high school freshman's life will never be the same again. Kuro is, in fact, no ordinary feline, but a servamp: a servant vampire. While Mahiru's personal philosophy is one of non-intervention, he soon becomes embroiled in an ancient, altogether surreal conflict between vampires and humans.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/servamp-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="shinjuku swan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>shinjuku swan</ten_truyen>
-		<ma_truyen>shinjuku-swan</ma_truyen>
-		<tac_gia>Wakui Ken</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/32873/1/200.jpg</hinh_nho>
-		<gioi_thieu>Shiratori Tatsuhiko was a bum wandering the streets with no money to his name when he meets Mako. He works as a scout for an agency called Burst that recruits girls on the streets for adult entertainment in the Shinjuku area of Tokyo. Tatsuhiko quickly learns the techniques of scouting and is even more attracted to how much money he can make. But with how the industry is maintained, Tatsuhiko has to deal with the lying, deception, violence, greed and even the yakuza. He wants to keep the morals that he has, but it gets progressively harder and harder as he gets deeper into the other side of society.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shinjuku-swan-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="double casting" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, Mystery, Romance, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>double casting</ten_truyen>
-		<ma_truyen>double-casting</ma_truyen>
-		<tac_gia>Shin Yeong Woo</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/38092/1/200.jpg</hinh_nho>
-		<gioi_thieu>A rising boss in the underworld is forced to lead a double life as a police officer and a gang boss in order to find the killer of his brother.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/double-casting-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="dear, only you don't know!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Josei, Romance, Slice of life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>dear, only you don't know!</ten_truyen>
-		<ma_truyen>dear-only-you-don-t-know</ma_truyen>
-		<tac_gia>Yuria</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/2181/1/200.jpg</hinh_nho>
-		<gioi_thieu>Everyone knows women are tricky beings, with layers upon layers of secrets they hide, but there are some secrets women must risk everything in order to keep hidden! These women with such hidden secrets are being revealed in the new series, 'Dear, Only You Don't Know!'</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/dear-only-you-don-t-know-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="skeleton soldier" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Supernatural, Tragedy, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>skeleton soldier</ten_truyen>
-		<ma_truyen>skeleton-soldier</ma_truyen>
-		<tac_gia>Ant Studio, Sosori</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/7a/63/7a63998dbe12a91bc1a7bd46a06fcbd8237c0733_13671_200_248.jpg</hinh_nho>
-		<gioi_thieu>A lowly skeleton soldier had only one purpose: to protect his succubus master. And yet he was powerless to protect her, being crushed by the hero. But fate has more in store for him as he gets another chance to protect his master once more and try to change his destiny despite all odds.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/skeleton-soldier-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="belle: beast hunter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>belle: beast hunter</ten_truyen>
-		<ma_truyen>belle-beast-hunter</ma_truyen>
-        <tac_gia>Dave Franchini, Bong Dazo, Juan M. Rodriguez</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/belle-beast-hunter/1_medium.jpg</hinh_nho>
-        <gioi_thieu>NEW SERIES! NEW HERO! The Grimm Universe is filled with heroes far and wide dealing with threats from vampires, werewolves, corrupt governmental organizations, to ancient orders battling for control of the realms of power. But what lies in the deepest corners of our world could give the evilest creature nightmares. A threat since the beginning of time is rising and only one person will be there to stop it from destroying everything! Working from the shadows a long lineage of warriors have been defending life from the darkness that exists and from that family of soldiers comes the newest ally in the war of monsters, Belle the Beast Hunter! Don't miss this new series as a new hero is introduced into the Grimm Universe!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/belle-beast-hunter-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="she could fly" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>she could fly</ten_truyen>
-		<ma_truyen>she-could-fly</ma_truyen>
-        <tac_gia>Christopher Cantwell, Martin Morazzo</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/she-could-fly/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In Chicago, an unknown woman appears flying at speeds of 120 miles per hour and at heights reaching 2,000 feet. Then she suddenly dies in a fiery explosion mid-air. No one knows who she was, how she flew, or why. Luna, a disturbed 15-year-old girl becomes obsessed with learning everything about her while rumors and conspiracy theories roil. Will cracking the secrets of the Flying Woman's inner life lead to the liberation from her own troubled mind?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/she-could-fly-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="sleepless" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Romance" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>sleepless</ten_truyen>
-		<ma_truyen>sleepless</ma_truyen>
-        <tac_gia>Sarah Vaughn, Lelia del Duca, Alissa Sallah, Jen Bartel</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sleepless-(2017)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Lady 'Poppy' Pyppenia is guarded by the Sleepless Knight Cyrenic, but danger is around every corner once the new king is coronated.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sleepless-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="fairy tail: 100 years quest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Ecchi, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
-		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
-		<tac_gia>Mashima Hiro, Ueda Atsuo</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
-		<gioi_thieu>After overcoming the threat of Acnologia and Zeref, Fairy Tail has become stronger and more energetic! The 100 year quest which Natsu and company left for, and also to the members who had remained at the guild, something new is going to happen!? Although the story was supposed to have concluded, a new adventure now begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="goblin slayer: side story year one" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>goblin slayer: side story year one</ten_truyen>
-		<ma_truyen>goblin-slayer-side-story-year-one</ma_truyen>
-		<tac_gia>Kagyu Kumo, Kento Sakaeda</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/50806/1/200.jpg</hinh_nho>
-		<gioi_thieu>A prequel series that reveals Goblin Slayer's past and the events that led him to become an adventurer with the sole purpose of exterminating all goblins from the world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-side-story-year-one-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="asa made jugyou chu!" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Comedy, Ecchi, Gender bender, Harem, Mature, Romance, School life, Seinen, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>asa made jugyou chu!</ten_truyen>
-		<ma_truyen>asa-made-jugyou-chu</ma_truyen>
-		<tac_gia>Ohta Akiyoshi, Ayakura Juu, Matsuda98, Minazuki Tooru, Munyu, Ohara Tometa, Sakura Koharu</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/869/1/200.jpg</hinh_nho>
-		<gioi_thieu>Kakinozaki Ayana-sensei and student Kagami Yuuki move into a room in the girls dormitory for the new (co-ed) high school semester, requested by Ayana-sensei and approved by the schools' principal. As one would guess, no one can find out he's living there so other than school classes, he has to cross-dress or else he'll be kicked out of school and dorm.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/asa-made-jugyou-chu-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="apotheosis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>apotheosis</ten_truyen>
-		<ma_truyen>apotheosis</ma_truyen>
-		<tac_gia>Ranzai Studio</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/eb/06/eb06cef64bbb2ffd1675ec13bb7c33006910fe13_35538_200_310.jpg</hinh_nho>
-		<gioi_thieu>Apotheosis - elevation to the status of a god. Luo Zheng, now a humble slave was born as the eldest son of a wealthy family. Due to his family's decline, the kidnapping of his sister by a powerful force, he can now only be stepped upon by others. However, heaven never seals off all exits. An ancient book left by his father reveals a secret divine technique, giving the reader immense power! But what is behind this power? This is a contest against fate.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/apotheosis-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="star martial god technique" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Martial arts, Romance, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>star martial god technique</ten_truyen>
-		<ma_truyen>star-martial-god-technique</ma_truyen>
-		<tac_gia>Mad Snail</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-thumb.mpcdn.net/44777/1/200.jpg</hinh_nho>
-		<gioi_thieu>In the whole world there lay twelve paths to climb the Tower of God, and in legends these twelve pathways lead towards the legendary road of immortality. However the paths in the Tower of God, are far too long, without end. In ancient times there once were many types of martial arts, sadly the world underwent terrible changes, and only three were left: Flame, Dragon and Star Martial Arts. Generations of experts of those three martial arts search for road of immortality. Accompany a Star Martial Arts practitioner on his lifetime journey, with young beauties at his side, and plans to become the Highest God.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/star-martial-god-technique-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="wanting to touch you" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, School life, Shoujo., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>wanting to touch you</ten_truyen>
-		<ma_truyen>wanting-to-touch-you</ma_truyen>
-		<tac_gia>Xi Yu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-thumb.mpcdn.net/50707/1/200.jpg</hinh_nho>
-		<gioi_thieu>Xing Zi hates guys, because whenever she bumps into them she hiccups! However one day she bumped into a guy with a bad reputation, but she didn't even hiccup!?</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/wanting-to-touch-you-eng.xml</file_xml>
-	</truyen>
-	-->
 </danh_sach_truyen>
