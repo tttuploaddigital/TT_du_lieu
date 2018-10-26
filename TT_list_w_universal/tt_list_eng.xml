@@ -9,6 +9,7 @@
         <gioi_thieu>WHAT IF WE FOUND A CURE FOR DEATH? Two of comics' most acclaimed creators, SCOTT SNYDER (WYTCHES, Batman, American Vampire) and JEFF LEMIRE (DESCENDER, Moon Knight, Sweet Tooth) unite to create a three-part epic like no other, set in a future where a genetic cure for death has been found. Years after the discovery, one man starts to question everything, leading him on a mind-bending journey that will bring him face-to-face with his past and his own mortality. A unique combination of comics, prose, and illustration, A.D.: AFTER DEATH will be serialized monthly as three oversized prestige format books written by SNYDER and fully painted by LEMIRE.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/a-d-after-death-eng.xml</file_xml>
     </truyen>
+	<!--
 	<truyen ten="abbott" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>abbott</ten_truyen>
 		<ma_truyen>abbott</ma_truyen>
@@ -18,6 +19,7 @@
         <gioi_thieu>Hugo Award-nominated novelist Saladin Ahmed (Black Bolt) and artist Sami Kivela (Beautiful Canvas) present one woman's search for the truth that destroyed her family. Hard-nosed, chain-smoking tabloid reporter Elena Abbott investigates a series of grisly crimes that the police have ignored. Crimes she knows to be the work of dark occult forces. Forces that took her husband from her. Forces she has sworn to destroy.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/abbott-eng.xml</file_xml>
     </truyen>
+	-->
 	<truyen ten="accell" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>accell</ten_truyen>
 		<ma_truyen>accell</ma_truyen>
