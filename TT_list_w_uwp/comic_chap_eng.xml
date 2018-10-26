@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>star wars: darth vader (2017)</ten_truyen>
+		<ma_truyen>star-wars-darth-vader-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-darth-vader-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-darth-vader-2017-eng.xml</file_xml>
+		<chap_moi>issue 22</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>batgirl (2016)</ten_truyen>
+		<ma_truyen>batgirl-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batgirl-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batgirl-2016-eng.xml</file_xml>
+		<chap_moi>issue 28</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the punisher (2016)</ten_truyen>
+		<ma_truyen>the-punisher-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/punisher-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-punisher-2016-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the flash (2016)</ten_truyen>
+		<ma_truyen>the-flash-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
+		<chap_moi>issue 57</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>aliens: dust to dust</ten_truyen>
+		<ma_truyen>aliens-dust-to-dust</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/aliens-dust-to-dust/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/aliens-dust-to-dust-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>fathom (2018)</ten_truyen>
+		<ma_truyen>fathom-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fathom-2018-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>the death of superman: part 1</ten_truyen>
 		<ma_truyen>the-death-of-superman-part-1</ma_truyen>
         <hinh_nho>https://i.imgur.com/i1ZiqOT.jpg</hinh_nho>

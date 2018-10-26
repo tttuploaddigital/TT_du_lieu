@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 922</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>vinland saga</ten_truyen>
+		<ma_truyen>vinland-saga</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/10869/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/vinland-saga-eng.xml</file_xml>
+		<chap_moi>chap 155</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hajimete no gal</ten_truyen>
+		<ma_truyen>hajimete-no-gal</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41576/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajimete-no-gal-eng.xml</file_xml>
+		<chap_moi>chap 65</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kengan ashua</ten_truyen>
+		<ma_truyen>kengan-ashua</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kengan-ashua-eng.xml</file_xml>
+		<chap_moi>chap 161</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>baby steps</ten_truyen>
+		<ma_truyen>baby-steps</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
+		<chap_moi>chap 325</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hare kon.</ten_truyen>
+		<ma_truyen>hare-kon</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28080/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hare-kon-eng.xml</file_xml>
+		<chap_moi>chap 147</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>kingdom  </ten_truyen>
 		<ma_truyen>kingdom</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
