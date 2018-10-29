@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="kakegurui" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kakegurui</ten_truyen>
+		<ma_truyen>kakegurui</ma_truyen>
+		<tac_gia>Kawamoto Homura, Naomura Tooru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/26758/1/200.jpg</hinh_nho>
+		<gioi_thieu>Hyakkaou Academy, a prestigious private school. Here in this academy, students are divided into social strata. Standing above all others is the student council, who rules over the students with their Gambles. It's heaven if you win, and hell if you lose. Those adept at gambling are the envy of all, while the weak are left to suffer the madness of the academy. One girl transfers to this academy. Her name is Jyabami Yumeko.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakegurui-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="houseki no kuni" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Psychological, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>houseki no kuni</ten_truyen>
+		<ma_truyen>houseki-no-kuni</ma_truyen>
+		<tac_gia>Ichikawa Haruko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27295/1/200.jpg</hinh_nho>
+		<gioi_thieu>In the distant future, a new life form called Houseki (gems) are born. The 28 Houseki must fight against the moon dwellers who want to attack them and turn them into decorations, thus each gem is assigned a role such as a fighter or a medic. Though they hope to fight the moon dwellers, Phos is a gem who is given no assignment until the gems' master Adamantine asks them to edit a natural history magazine.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/houseki-no-kuni-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="radiant" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>radiant</ten_truyen>
+		<ma_truyen>radiant</ma_truyen>
+		<tac_gia>Tony Valente</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/36054/1/200.jpg</hinh_nho>
+		<gioi_thieu>Seth is an apprentice sorcerer from the Pompo Hills. Like all sorcerers, he's an 'infected', one of the few people having survived an encounter with a Nemesis, those creatures falling from the sky and destroying everything around them. Being immune to them, Seth wants to become a Hunter and fight the Nemesis. But what Seth really wants is to find the source of all Nemesis, the Radiant. Helped by his fellow sorcerers, he will seek the Radiant, under the harsh scrutiny of the Inquisition...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/radiant-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="spider-girls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>spider-girls</ten_truyen>
 		<ma_truyen>spider-girls</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>MAGNETO IS BACK... and so is Chris Claremont! For years, Magneto has done everything he can to achieve his goals for mutant domination. But now Magneto has declared that enough is enough. So what revolutionary plan does Magneto have that will change the face of mutantkind? And will anyone be able to stop him? Will anyone want to? PLUS: Includes Part 1 of X-MEN BLACK: APOCALYPSE the back up story by Zac Thompson, Lonnie Nadler, and Geraldo Borge!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-magneto-eng.xml</file_xml>
     </truyen>
-	<truyen ten="dragons rioting" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Martial arts, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>dragons rioting</ten_truyen>
-		<ma_truyen>dragons-rioting</ma_truyen>
-		<tac_gia>Watanabe Tsuyoshi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/2484/6/200.jpg</hinh_nho>
-		<gioi_thieu>As a 6 Year Old, Rintaro is diagnosed with Henisei Tashu Ijou Syndrome (also known as Hentai Syndrome), a disease that could kill him if he gets sexually aroused. To save him and provide a way for him to live as normal a life as possible, his father teaches him the ways to control his body and mind for ten years in the mountains, with the martial art of the Koei Sougetsu. When he's 16 he chooses to enroll Nangokuren High School, which he assumed to be the biggest all-boys school in the country but is actually the biggest all-girls school that has just gone coed. On his first day he stumbles upon a large scale battle and learns that the first rule of the school is that it 'Abides the Law of Nature' which has turned the campus into a war zone-like environment. Rintaro now sees transferring out as his mission, but will it be that easy now that he's caught the eye of the 3 'Dragons', the bodacious female leaders of the three biggest factions around?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dragons-rioting-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="black torch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>black torch</ten_truyen>
-		<ma_truyen>black-torch</ma_truyen>
-		<tac_gia>Takaki Tsuyoshi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/46706/2/200.jpg</hinh_nho>
-		<gioi_thieu>As a descendant of shinobi, Jirou Azuma has been learning ninja techniques his entire life. But in addition to that, he also has the ability to talk to animals. One day when he rescues a strange black cat named Ragou, he learns that the world is filled with spirits called mononoke that can take the form of both people and animals. However, their meeting is cut short when they are attacked by a hostile mononoke who is after Ragou's power.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-torch-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kyochuu rettou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Fantasy, Horror, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kyochuu rettou</ten_truyen>
-		<ma_truyen>kyochuu-rettou</ma_truyen>
-		<tac_gia>Fujimi Yasutaka, Red Ice</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/36229/1/200.jpg</hinh_nho>
-		<gioi_thieu>After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyochuu-rettou-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
