@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>hunter x hunter</ten_truyen>
+		<ma_truyen>hunter-x-hunter</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hunter-x-hunter-eng.xml</file_xml>
+		<chap_moi>chap 386</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
+		<chap_moi>chap 285</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>black clover</ten_truyen>
+		<ma_truyen>black-clover</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
+		<chap_moi>chap 179</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>world trigger</ten_truyen>
+		<ma_truyen>world-trigger</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/11153/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-trigger-eng.xml</file_xml>
+		<chap_moi>chap 165</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>goblin slayer </ten_truyen>
+		<ma_truyen>goblin-slayer</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41855/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-eng.xml</file_xml>
+		<chap_moi>chap 29</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kaguya-sama wa kokurasetai - tensai-tachi no renai zunousen</ten_truyen>
+		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
+		<chap_moi>chap 126</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>demon spirit seed manual</ten_truyen>
+		<ma_truyen>demon-spirit-seed-manual</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/39751/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/demon-spirit-seed-manual-eng.xml</file_xml>
+		<chap_moi>chap 179</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>red storm</ten_truyen>
+		<ma_truyen>red-storm</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/21499/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/red-storm-eng.xml</file_xml>
+		<chap_moi>chap 299</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>autophagy regulation</ten_truyen>
+		<ma_truyen>autophagy-regulation</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/30485/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/autophagy-regulation-eng.xml</file_xml>
+		<chap_moi>chap 201</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>star wars: darth vader (2017)</ten_truyen>
 		<ma_truyen>star-wars-darth-vader-2017</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-darth-vader-(2017)/1_medium.jpg</hinh_nho>
@@ -75,7 +138,7 @@
 		<ma_truyen>baby-steps</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
-		<chap_moi>chap 325</chap_moi>
+		<chap_moi>chap 326</chap_moi>
 	</truyen>
 	<truyen>
 		<ten_truyen>hare kon.</ten_truyen>
@@ -146,68 +209,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/42569/2/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/back-street-girls-washira-idol-hajimemashita-eng.xml</file_xml>
 		<chap_moi>chap 50</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars: doctor aphra</ten_truyen>
-		<ma_truyen>star-wars-doctor-aphra</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-doctor-aphra/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-doctor-aphra-eng.xml</file_xml>
-		<chap_moi>issue 25</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>ghostbusters: crossing over</ten_truyen>
-		<ma_truyen>ghostbusters-crossing-over</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/ghostbusters-crossing-over/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ghostbusters-crossing-over-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gideon falls</ten_truyen>
-		<ma_truyen>gideon-falls</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/gideon-falls/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gideon-falls-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>d.gray-man</ten_truyen>
-		<ma_truyen>d-gray-man</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2055/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/d-gray-man-eng.xml</file_xml>
-		<chap_moi>chap 230</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>skip beat!</ten_truyen>
-		<ma_truyen>skip-beat</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/9232/12/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/skip-beat-eng.xml</file_xml>
-		<chap_moi>chap 264</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>c.m.b.</ten_truyen>
-		<ma_truyen>c-m-b</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/1559/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/c-m-b-eng.xml</file_xml>
-		<chap_moi>chap 90</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wo jia dashi xiong naozi you keng</ten_truyen>
-		<ma_truyen>wo-jia-dashi-xiong-naozi-you-keng</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/39509/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/wo-jia-dashi-xiong-naozi-you-keng-eng.xml</file_xml>
-		<chap_moi>chap 305</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>peerless dad</ten_truyen>
-		<ma_truyen>peerless-dad</ma_truyen>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/d4/c2/d4c210d82e8b386769ddbf06ba4aa913aec2aa72_23577_200_283.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/peerless-dad-eng.xml</file_xml>
-		<chap_moi>chap 50.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wu dong qian kun</ten_truyen>
-		<ma_truyen>wu-dong-qian-kun</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/34897/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/wu-dong-qian-kun-eng.xml</file_xml>
-		<chap_moi>chap 78</chap_moi>
 	</truyen>
 </danh_sach_truyen>
