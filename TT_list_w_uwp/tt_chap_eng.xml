@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>x-men: red</ten_truyen>
+		<ma_truyen>x-men-red</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-red-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-men-red-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>raven: daughter of darkness</ten_truyen>
+		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>coda  </ten_truyen>
+		<ma_truyen>coda</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/coda/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/coda-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nanatsu no taizai</ten_truyen>
+		<ma_truyen>nanatsu-no-taizai</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
+		<chap_moi>chap 287</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yakusoku no neverland</ten_truyen>
+		<ma_truyen>yakusoku-no-neverland</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/42944/5/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yakusoku-no-neverland-eng.xml</file_xml>
+		<chap_moi>chap 109</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the new gate</ten_truyen>
+		<ma_truyen>the-new-gate</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28819/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/the-new-gate-eng.xml</file_xml>
+		<chap_moi>chap 43</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>moon girl and devil dinosaur</ten_truyen>
+		<ma_truyen>moon-girl-and-devil-dinosaur</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/moon-girl-and-devil-dinosaur/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/moon-girl-and-devil-dinosaur-eng.xml</file_xml>
+		<chap_moi>issue 36</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dejah thoris (2018)</ten_truyen>
+		<ma_truyen>dejah-thoris-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dejah-thoris-2018-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>curse words</ten_truyen>
+		<ma_truyen>curse-words</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/curse-words/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/curse-words-eng.xml</file_xml>
+		<chap_moi>issue 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>knight's and magic</ten_truyen>
+		<ma_truyen>knight-s-and-magic</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/43546/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/knight-s-and-magic-eng.xml</file_xml>
+		<chap_moi>chap 51</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>biorg trinity</ten_truyen>
+		<ma_truyen>biorg-trinity</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/1195/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/biorg-trinity-eng.xml</file_xml>
+		<chap_moi>chap 41</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>giant killing</ten_truyen>
+		<ma_truyen>giant-killing</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
+		<chap_moi>chap 278</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dice: the cube that changes everything</ten_truyen>
+		<ma_truyen>dice-the-cube-that-changes-everything</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/22106/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/dice-the-cube-that-changes-everything-eng.xml</file_xml>
+		<chap_moi>chap 257</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shen yin wang zuo</ten_truyen>
+		<ma_truyen>shen-yin-wang-zuo</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/30100/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/shen-yin-wang-zuo-eng.xml</file_xml>
+		<chap_moi>chap 169</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>wind breaker</ten_truyen>
+		<ma_truyen>wind-breaker</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/24786/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/wind-breaker-eng.xml</file_xml>
+		<chap_moi>chap 201</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>batman: kings of fear</ten_truyen>
 		<ma_truyen>batman-kings-of-fear</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
@@ -104,110 +209,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/30485/2/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/autophagy-regulation-eng.xml</file_xml>
 		<chap_moi>chap 201</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars: darth vader (2017)</ten_truyen>
-		<ma_truyen>star-wars-darth-vader-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-darth-vader-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-darth-vader-2017-eng.xml</file_xml>
-		<chap_moi>issue 22</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batgirl (2016)</ten_truyen>
-		<ma_truyen>batgirl-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batgirl-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batgirl-2016-eng.xml</file_xml>
-		<chap_moi>issue 28</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the punisher (2016)</ten_truyen>
-		<ma_truyen>the-punisher-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/punisher-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-punisher-2016-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 922</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>vinland saga</ten_truyen>
-		<ma_truyen>vinland-saga</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/10869/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/vinland-saga-eng.xml</file_xml>
-		<chap_moi>chap 155</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hajimete no gal</ten_truyen>
-		<ma_truyen>hajimete-no-gal</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41576/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajimete-no-gal-eng.xml</file_xml>
-		<chap_moi>chap 65</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the flash (2016)</ten_truyen>
-		<ma_truyen>the-flash-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
-		<chap_moi>issue 57</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>aliens: dust to dust</ten_truyen>
-		<ma_truyen>aliens-dust-to-dust</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/aliens-dust-to-dust/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/aliens-dust-to-dust-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>fathom (2018)</ten_truyen>
-		<ma_truyen>fathom-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fathom-2018-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kengan ashua</ten_truyen>
-		<ma_truyen>kengan-ashua</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kengan-ashua-eng.xml</file_xml>
-		<chap_moi>chap 161</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>baby steps</ten_truyen>
-		<ma_truyen>baby-steps</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
-		<chap_moi>chap 326</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hare kon.</ten_truyen>
-		<ma_truyen>hare-kon</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28080/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hare-kon-eng.xml</file_xml>
-		<chap_moi>chap 147</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tales of demons and gods</ten_truyen>
-		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tales-of-demons-and-gods-eng.xml</file_xml>
-		<chap_moi>chap 195.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>panlong</ten_truyen>
-		<ma_truyen>panlong</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30349/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/panlong-eng.xml</file_xml>
-		<chap_moi>chap 161</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tiger x crane</ten_truyen>
-		<ma_truyen>tiger-x-crane</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/10221/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tiger-x-crane-eng.xml</file_xml>
-		<chap_moi>chap 227</chap_moi>
 	</truyen>
 </danh_sach_truyen>

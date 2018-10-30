@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>x-men: red</ten_truyen>
+		<ma_truyen>x-men-red</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-red-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-men-red-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>raven: daughter of darkness</ten_truyen>
+		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>coda  </ten_truyen>
+		<ma_truyen>coda</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/coda/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/coda-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>moon girl and devil dinosaur</ten_truyen>
+		<ma_truyen>moon-girl-and-devil-dinosaur</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/moon-girl-and-devil-dinosaur/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/moon-girl-and-devil-dinosaur-eng.xml</file_xml>
+		<chap_moi>issue 36</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dejah thoris (2018)</ten_truyen>
+		<ma_truyen>dejah-thoris-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dejah-thoris-2018-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>curse words</ten_truyen>
+		<ma_truyen>curse-words</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/curse-words/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/curse-words-eng.xml</file_xml>
+		<chap_moi>issue 17</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>batman: kings of fear</ten_truyen>
 		<ma_truyen>batman-kings-of-fear</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
@@ -166,48 +208,6 @@
 		<ma_truyen>stellar</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/stellar/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/stellar-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>harley quinn (2016)</ten_truyen>
-		<ma_truyen>harley-quinn-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
-		<chap_moi>issue 52</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>old man logan (2016)</ten_truyen>
-		<ma_truyen>old-man-logan-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-logan-(2016)/1_medium.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-logan-2016-eng.xml</file_xml>
-		<chap_moi>issue 49</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hit-girl (2018)</ten_truyen>
-		<ma_truyen>hit-girl-2018</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/h/hit-girl-(2018)/1_medium.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hit-girl-2018-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nightwing (2016)</ten_truyen>
-		<ma_truyen>nightwing-2016</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/n/nightwing-(2016)/1_medium.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nightwing-2016-eng.xml</file_xml>
-		<chap_moi>issue 51</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>optimus prime</ten_truyen>
-		<ma_truyen>optimus-prime</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/o/optimus-prime/1_medium.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/optimus-prime-eng.xml</file_xml>
-		<chap_moi>issue 24</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>proxima centauri</ten_truyen>
-		<ma_truyen>proxima-centauri</ma_truyen>
-		<hinh_nho>https://comicbookroundup.com/img/covers/p/proxima-centauri/1_medium.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/proxima-centauri-eng.xml</file_xml>
 		<chap_moi>issue 5</chap_moi>
 	</truyen>
 </danh_sach_truyen>
