@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<truyen ten="mister miracle (2017)" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Kiểu" kieu_truyen="Comic">
-		<ten_truyen>mister miracle (2017)</ten_truyen>
-		<ma_truyen>mister-miracle-2017</ma_truyen>
-        <tac_gia>Tom King, Mitch Gerads, Nick Derington</tac_gia>
+	<truyen ten="update" tinh_trang_truyen="con" nhan_the_loai="Thể loại" nhan_tinh_trang="Tình trạng" nhan_tac_gia="Tác giả" nhan_gioi_thieu="Nội dung" the_loai="update" nhan_kieu_truyen="Kiểu" kieu_truyen="update">
+		<ten_truyen>update</ten_truyen>
+		<ma_truyen>update</ma_truyen>
+        <tac_gia>update</tac_gia>
         <tinh_trang>Tiếp tục</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/mister-miracle/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Đang cập nhật .</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mister-miracle-2017-viet.xml</file_xml>
+        <hinh_nho>https://www.hazzaonline.com/assets/thumbL/ATB-SERVICE.png</hinh_nho>
+        <gioi_thieu>
+Đã có phiên bản mới dành cho 'Comics World' , 'Manga 4ever' , 'Comic 4ever' . Vui lòng cập nhật ứng dụng .
+Đã có phiên bản mới dành cho 'Comics Planet' , 'Manga Land' , 'Comic Land' ( chỉ có trên Windows 10 UWP ) với nhiều tính năng mới. Vui lòng cập nhật hoặc cài đặt ứng dụng để có trải nghiệm đọc comic , manga , manhwa , manhua ... tốt nhất trên Windows 10 .
+Vui lòng liên hệ qua email tttdigital.contact@gmail.com hoặc facebook nếu bạn không tìm thấy bất kỳ comic , manga , manhwa , manhua ... nào mà bạn muốn hoặc thêm nhiều tính năng khác cho ứng dụng .
+Và đừng quên ghé thăm 'Comicsmanga.tk' , website dành cho những comic , manga , manhwa , manhua ... hay nhất .
+Cảm ơn đã đọc.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/TT_list_w/update.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
