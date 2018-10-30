@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="kakegurui" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kakegurui</ten_truyen>
+		<ma_truyen>kakegurui</ma_truyen>
+		<tac_gia>Kawamoto Homura, Naomura Tooru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/26758/1/200.jpg</hinh_nho>
+		<gioi_thieu>Hyakkaou Academy, a prestigious private school. Here in this academy, students are divided into social strata. Standing above all others is the student council, who rules over the students with their Gambles. It's heaven if you win, and hell if you lose. Those adept at gambling are the envy of all, while the weak are left to suffer the madness of the academy. One girl transfers to this academy. Her name is Jyabami Yumeko.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakegurui-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="houseki no kuni" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Psychological, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>houseki no kuni</ten_truyen>
+		<ma_truyen>houseki-no-kuni</ma_truyen>
+		<tac_gia>Ichikawa Haruko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27295/1/200.jpg</hinh_nho>
+		<gioi_thieu>In the distant future, a new life form called Houseki (gems) are born. The 28 Houseki must fight against the moon dwellers who want to attack them and turn them into decorations, thus each gem is assigned a role such as a fighter or a medic. Though they hope to fight the moon dwellers, Phos is a gem who is given no assignment until the gems' master Adamantine asks them to edit a natural history magazine.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/houseki-no-kuni-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="radiant" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>radiant</ten_truyen>
+		<ma_truyen>radiant</ma_truyen>
+		<tac_gia>Tony Valente</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/36054/1/200.jpg</hinh_nho>
+		<gioi_thieu>Seth is an apprentice sorcerer from the Pompo Hills. Like all sorcerers, he's an 'infected', one of the few people having survived an encounter with a Nemesis, those creatures falling from the sky and destroying everything around them. Being immune to them, Seth wants to become a Hunter and fight the Nemesis. But what Seth really wants is to find the source of all Nemesis, the Radiant. Helped by his fellow sorcerers, he will seek the Radiant, under the harsh scrutiny of the Inquisition...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/radiant-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="beastars" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>beastars</ten_truyen>
 		<ma_truyen>beastars</ma_truyen>
@@ -17,6 +44,15 @@
         <hinh_nho>https://file-thumb.mpcdn.net/47610/1/200.jpg</hinh_nho>
 		<gioi_thieu>he illusion of that person leads me astray. Mother and son. This is the ultimate favoritism.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/chi-no-wadachi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="violence action" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>violence action</ten_truyen>
+		<ma_truyen>violence-action</ma_truyen>
+		<tac_gia>Sawada Shin, Asai Renji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/50492/1/200.jpg</hinh_nho>
+		<gioi_thieu>Are you in need of revenge? Is there someone that you need out of your way? The Pururun All-Natural-Girls Express Service would be more than pleased to help you achieve these things. 'Kay' is one such cute girl that works for Pururun, and when duty calls, she is there to eliminate anyone her client wants -- whether it's with knives, guns, or acid! How did she come to be a killing specialist, what kinds of people will she meet -- and what are her goals?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/violence-action-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="sky blue" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Romance, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>sky blue</ten_truyen>
@@ -72,6 +108,15 @@
 		<gioi_thieu>Strange things are happening all over town, and Kouichi Amano's nightmares have started again. Several clans have been spurred into action as the past gradually resurfaces. Just what is going on, and how do the Amano brothers fit into the picture?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/genwaku-no-kodou-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="dragons rioting" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Martial arts, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>dragons rioting</ten_truyen>
+		<ma_truyen>dragons-rioting</ma_truyen>
+		<tac_gia>Watanabe Tsuyoshi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2484/6/200.jpg</hinh_nho>
+		<gioi_thieu>As a 6 Year Old, Rintaro is diagnosed with Henisei Tashu Ijou Syndrome (also known as Hentai Syndrome), a disease that could kill him if he gets sexually aroused. To save him and provide a way for him to live as normal a life as possible, his father teaches him the ways to control his body and mind for ten years in the mountains, with the martial art of the Koei Sougetsu. When he's 16 he chooses to enroll Nangokuren High School, which he assumed to be the biggest all-boys school in the country but is actually the biggest all-girls school that has just gone coed. On his first day he stumbles upon a large scale battle and learns that the first rule of the school is that it 'Abides the Law of Nature' which has turned the campus into a war zone-like environment. Rintaro now sees transferring out as his mission, but will it be that easy now that he's caught the eye of the 3 'Dragons', the bodacious female leaders of the three biggest factions around?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dragons-rioting-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="black torch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>black torch</ten_truyen>
 		<ma_truyen>black-torch</ma_truyen>
@@ -89,6 +134,15 @@
         <hinh_nho>https://file-thumb.mpcdn.net/36229/1/200.jpg</hinh_nho>
 		<gioi_thieu>After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyochuu-rettou-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="yuusha ga shinda!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>yuusha ga shinda!</ten_truyen>
+		<ma_truyen>yuusha-ga-shinda</ma_truyen>
+		<tac_gia>Subaruichi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/29997/3/200.jpg</hinh_nho>
+		<gioi_thieu>Three Years ago a Hero sealed a Hell Gate. The Seal has been weakening ever since, sporadically letting Monsters through. After a big Group of Monsters entered the Country through a Hell Gate, the profession of Heroes was needed again. Touka Scott a small Radish Farmer in the southern Town of Cheza is prepared for sudden Monster Attacks. He built himself a hidden Pittrap with Bamboo spikes, to lure unsuspecting Monsters in if they ever try to Attack the Village. Suddenly a Monster attacks. Touka tries to lure it into the Trap with freshly roasted Bacon, but the Monster dislikes this type of Meat. Thankfully the local Hero saves the Village from the Monster in the nick of Time. The hungry Hero tries to grab a bite of Bacon after vanquishing the Monster, only to stumble into Toukas Pittrap and Die. After causing the local Heros Death, Touka is forced to take matters into his own Hands to protect the Region from attacking Monsters.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuusha-ga-shinda-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="servamp" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Mystery, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>servamp</ten_truyen>
@@ -215,23 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/2494/3/200.jpg</hinh_nho>
 		<gioi_thieu>Shimazu Toyohisa, a real-life samurai who fought in the pivotal Battle of Sekigahara. In his dying moments, Shimazu is transported to a world of magic with other famous warriors throughout history. These warriors are forced to fight each other in an endless battle. Drifters was nominated for the 4th and 5th Manga Taishou Awards.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/drifters-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="knight's and magic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Mecha, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>knight's and magic</ten_truyen>
-		<ma_truyen>knight-s-and-magic</ma_truyen>
-		<tac_gia>Amazake No Hisago, Katou Takuji, Kurogin</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43546/1/200.jpg</hinh_nho>
-		<gioi_thieu>A mecha otaku is reincarnated into another world as Ernesti Echevalier (Eru). In this world, exist huge humanoid weapon known as Silhouette Knight. Dreaming of piloting those robots, Eru, with childhood friends, Archid and Adeltrud Olter: together they will aim to become Knight Runner, pilot of Silhoutte Knight.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/knight-s-and-magic-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="area no kishi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, School life, Shounen., Sports, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>area no kishi</ten_truyen>
-		<ma_truyen>area-no-kishi</ma_truyen>
-		<tac_gia>Igano Hiroaki, Tsukiyama Kaya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/841/9/200.jpg</hinh_nho>
-		<gioi_thieu>Believing himself to be useless at football, Aizawa Kakeru opts to become the manager of his school's football team, while his brother Suguru is its ace, and is even good enough to represent Japan. However, Kakeru may be harbouring a strong talent within himself that only Suguru can see, and the two often get into arguments over Kakeru's denial of his skills. Things are made more complicated with the return of Seven, an old playmate of theirs that Kakeru has a crush on. Join the brothers in their journey to the national and even international championships!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/area-no-kishi-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

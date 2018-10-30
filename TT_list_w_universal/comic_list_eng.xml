@@ -54,6 +54,51 @@
         <gioi_thieu>47 and his handler, Diana Burnwood, are a team responsible for some of the most ruthless, efficient and untraceable assassinations across the globe. But before they were operatives of the shadowy International Contracts Association, 47 and Burnwood were on their own separate paths in life streets lined with blood, bullets and revenge. As 14-year-old Diana begins a mission to track down the people who killed her parents, the one responsible, 47, is struggling to free himself and his brother, 6, from the mysterious Institute which has bred them as killers since they were kids. With a story that stretches from the heartland of America to the Berlin Wall, Lone Wolves will trace the birth of the legendary Hitman and the secret past of the woman behind him who pulls the string and knows just how hard taking a life truly is.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/agent-47-birth-of-the-hitman-eng.xml</file_xml>
     </truyen>
+	<truyen ten="aliens vs. predator: life and death" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>aliens vs. predator: life and death</ten_truyen>
+		<ma_truyen>aliens-vs-predator-life-and-death</ma_truyen>
+        <tac_gia>Dan Abnett, Brian Thies, Rainier Beredo</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/alien-vs-predator-life-and-death/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Predators arrive on LV-223! The question is: are they here to finish the fight with the Colonial Marines, or will they join the marines in the battle against the Aliens? And who will Ahab—the Predator from the Fire and Stone story cycle—side with?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/aliens-vs-predator-life-and-death-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="aliens: dead orbit" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>aliens: dead orbit</ten_truyen>
+		<ma_truyen>aliens-dead-orbit</ma_truyen>
+        <tac_gia>James Stokoe</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/aliens-dead-orbit/1_medium.jpg</hinh_nho>
+        <gioi_thieu>After a horrific accident strikes a space station, an engineering officer must use all available tools—a timer, utility kit, and his wits—to survive an attack from the deadliest creature known to man.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/aliens-dead-orbit-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="aliens: defiance" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>aliens: defiance</ten_truyen>
+		<ma_truyen>aliens-defiance</ma_truyen>
+        <tac_gia>Brian Wood, Tristan Jones</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/aliens-defiance/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Colonial Marines arent trained for this. Battling demons from her past while fighting for her life, Colonial Marine Private First Class Zula Hendricks, in the company of Weyland-Yutani synthetics, is forced to question her strength and loyalty when the discovery of an insidious alien species on a derelict hauler sends her on a dangerous journey across the stars. Brian Wood brings his sharp storytelling to Aliens. Rising star Tristan Jones draws the scariest xenomorph youve seen in years.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/aliens-defiance-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="aliens: dust to dust" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>aliens: dust to dust</ten_truyen>
+		<ma_truyen>aliens-dust-to-dust</ma_truyen>
+        <tac_gia>Gabriel Hardman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/aliens-dust-to-dust/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Trono colony on LV-871 is under attack. Emergency evacuations are ordered. Evac shuttles are taking off. All twelve-year-old Maxon and his mom have to do is make it to the spaceport. Except between them and it are... Aliens! A terrifying coming-of-age story by master storyteller Gabriel Hardman.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/aliens-dust-to-dust-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="aliens: life and death" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Gore, Horror, Mature, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>aliens: life and death</ten_truyen>
+		<ma_truyen>aliens-life-and-death</ma_truyen>
+        <tac_gia>Dan Abnett, Moritat</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/aliens-life-and-death/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Those who die are the lucky ones. In the aftermath of the battle with the Engineers, the surviving humans on LV-223 are wounded and scattered, and easy prey for a gathering horde of Aliens! The Colonial Marines get a taste of what its like to be at the bottom of the food chain!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/aliens-life-and-death-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="all-new fathom" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>all-new fathom</ten_truyen>
 		<ma_truyen>all-new-fathom</ma_truyen>
@@ -882,15 +927,6 @@
         <gioi_thieu>Daredevil! Luke Cage! Jessica Jones! Iron Fist! Individually, these four heroes have been on the front lines of the battle to keep the streets of the city safe and secure! But now, with a deadly enemy from the dim past making a major move to unite the underworld, they will need to become more they will need to become DEFENDERS!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/defenders-2017-eng.xml</file_xml>
     </truyen>
-	<truyen ten="dejah thoris (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>dejah thoris (2018)</ten_truyen>
-		<ma_truyen>dejah-thoris-2018</ma_truyen>
-        <tac_gia>Amy Chu, Pasquale Qualano</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The untold story of the Red Martian princess! After learning of the legendary Gardens of Mars from her grandfather, Dejah Thoris, Princess of Helium, sets off on a dangerous scientific expedition to save her dying planet. But things don't go the way she planned when she encounters a mysterious Green Martian prisoner... A prequel to Edgar Rice Burroughs' beloved book A Princess of Mars.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dejah-thoris-2018-eng.xml</file_xml>
-    </truyen>
 	<truyen ten="dejah thoris (2016)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Graphic novels, Mythology, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>dejah thoris (2016)</ten_truyen>
 		<ma_truyen>dejah-thoris-2016</ma_truyen>
@@ -899,6 +935,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris/1_medium.jpg</hinh_nho>
         <gioi_thieu>Prepare yourself for Dejah Thoris as you've never seen her before! A shocking conspiracy unravels in Helium as Dejah's father has gone missing. In the wake of assuming the throne, Dejah learns secret information from her past that will have resounding effects on the kingdom - and her life! Join Frank J. Barbiere (The Howling Commandos of SHIELD, The Precinct) and Francesco Manna (Vampirella #100) as Dejah discovers a secret past that will have her leaving Helium for an all-new adventure on her own!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/dejah-thoris-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dejah thoris (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dejah thoris (2018)</ten_truyen>
+		<ma_truyen>dejah-thoris-2018</ma_truyen>
+        <tac_gia>Amy Chu, Pasquale Qualano</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The untold story of the Red Martian princess! After learning of the legendary Gardens of Mars from her grandfather, Dejah Thoris, Princess of Helium, sets off on a dangerous scientific expedition to save her dying planet. But things don't go the way she planned when she encounters a mysterious Green Martian prisoner... A prequel to Edgar Rice Burroughs' beloved book A Princess of Mars.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dejah-thoris-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="delta 13" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>delta 13</ten_truyen>
@@ -2070,6 +2115,15 @@
         <gioi_thieu>Super heroes – they're a privileged class. Doing what they want, when they want and suffering no consequences. They have no regard for the ordinary people who are left behind to suffer in their wake. Who will stand up for the little guy? There is a man. If you can find him, and if he believes in your story, he and his friends will put things right. Some call them outlaws, rebels, Robin Hoods. To others, they are heroes. No powers to speak of – just skills, smarts and a burning drive to do the right thing. His name is Hawkeye. Occupy Avengers: It's time to 'Take Back Justice'!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/occupy-avengers-eng.xml</file_xml>
     </truyen>
+	<truyen ten="old lady harley" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>old lady harley</ten_truyen>
+		<ma_truyen>old-lady-harley</ma_truyen>
+        <tac_gia>Frank Teri, Inaki Miranda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-lady-harley/1_medium.jpg</hinh_nho>
+        <gioi_thieu>After liberating New York City from her now-feral Gang of Harleys, poor Harley wants nothing more than to slip back into retirement in her coastal (and heavily guarded) paradise. But the Laughing Boys Gang has another idea-they'll follow her to the ends of the Earth, to drag her back to their leader! It can't actually be... him! Right?! He couldn't possibly still be alive, could he? After all... Harley killed him herself with her bare hands! Should she turn to President Power Girl for help? Or flee to the 51st state, Atlantis? Step into an insane vision of a future DC Universe we all better hope we don't live to see!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-lady-harley-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="old man hawkeye" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>old man hawkeye</ten_truyen>
 		<ma_truyen>old-man-hawkeye</ma_truyen>
@@ -2519,6 +2573,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/silver-surfer-(2016)/1_medium.jpg</hinh_nho>
         <gioi_thieu>The Surfer has taken Dawn Greenwood to the end of the universe, and now he's going to show her the most fantastic planet of them all: Earth! It's your homeworld like you've never seen it before: with monsters, magic and...a secret that will change everything! The perfect jumping-on point for the book everyone's talking about!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/silver-surfer-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="spider-girls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>spider-girls</ten_truyen>
+		<ma_truyen>spider-girls</ma_truyen>
+        <tac_gia>Jody Houser, Andres Genolet</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-girls-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A SPIDER-GEDDON TIE IN! MAY 'MAYDAY' PARKER, the original SPIDER-GIRL, ANYA CORAZON, the Prime Universe SPIDER-GIRL, and ANNIE MAY PARKER, A.K.A. SPIDERLING - together for the first time! May will do anything to protect her brother from the Inheritors, and Anya's knowledge of the mystical Spider-Totems could save the day. But how does Annie fit in? And what chance do three girls have against ageless universal forces?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-girls-eng.xml</file_xml>
     </truyen>
 	<truyen ten="spider-gwen ii" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>spider-gwen ii</ten_truyen>
@@ -3611,6 +3674,15 @@ This comic upload for Jitender Kumar via request comic by send email to tttdigit
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Cloned from a warrior, raised as a killer, Laura Kinney has gone through hell and come out the other side a hero. After a stint as the All-New Wolverine, she returns to her roots as X-23 to make sure no one ever has to go through the horrors she did. With her sister Gabby and their pet Jonathan in tow, X-23 forges her own destiny in this new series by Mariko Tamaki (HULK, HUNT FOR WOLVERINE: CLAWS OF A KILLER) and Juann Cabal (ALL-NEW WOLVERINE, ELEKTRA).</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="x-men: black - juggernaut" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - juggernaut</ten_truyen>
+		<ma_truyen>x-men-black-juggernaut</ma_truyen>
+        <tac_gia>Robbie Thompson, Shawn Crystal</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/juggernaut_1_medium.jpg</hinh_nho>
+        <gioi_thieu>NOTHING CAN STOP THE JUGGERNAUT...until now. What has finally stopped Cain Marko in his tracks? You'll have to see to believe, but we can promise you it's gonna involve nothing but punching for the Juggernaut! PLUS: Part 4 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-juggernaut-eng.xml</file_xml>
     </truyen>
 	<truyen ten="x-men: black - magneto" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>x-men: black - magneto</ten_truyen>
