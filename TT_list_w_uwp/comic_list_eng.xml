@@ -927,15 +927,6 @@
         <gioi_thieu>Daredevil! Luke Cage! Jessica Jones! Iron Fist! Individually, these four heroes have been on the front lines of the battle to keep the streets of the city safe and secure! But now, with a deadly enemy from the dim past making a major move to unite the underworld, they will need to become more they will need to become DEFENDERS!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/defenders-2017-eng.xml</file_xml>
     </truyen>
-	<truyen ten="dejah thoris (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>dejah thoris (2018)</ten_truyen>
-		<ma_truyen>dejah-thoris-2018</ma_truyen>
-        <tac_gia>Amy Chu, Pasquale Qualano</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The untold story of the Red Martian princess! After learning of the legendary Gardens of Mars from her grandfather, Dejah Thoris, Princess of Helium, sets off on a dangerous scientific expedition to save her dying planet. But things don't go the way she planned when she encounters a mysterious Green Martian prisoner... A prequel to Edgar Rice Burroughs' beloved book A Princess of Mars.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dejah-thoris-2018-eng.xml</file_xml>
-    </truyen>
 	<truyen ten="dejah thoris (2016)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Graphic novels, Mythology, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>dejah thoris (2016)</ten_truyen>
 		<ma_truyen>dejah-thoris-2016</ma_truyen>
@@ -944,6 +935,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris/1_medium.jpg</hinh_nho>
         <gioi_thieu>Prepare yourself for Dejah Thoris as you've never seen her before! A shocking conspiracy unravels in Helium as Dejah's father has gone missing. In the wake of assuming the throne, Dejah learns secret information from her past that will have resounding effects on the kingdom - and her life! Join Frank J. Barbiere (The Howling Commandos of SHIELD, The Precinct) and Francesco Manna (Vampirella #100) as Dejah discovers a secret past that will have her leaving Helium for an all-new adventure on her own!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/dejah-thoris-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dejah thoris (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dejah thoris (2018)</ten_truyen>
+		<ma_truyen>dejah-thoris-2018</ma_truyen>
+        <tac_gia>Amy Chu, Pasquale Qualano</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The untold story of the Red Martian princess! After learning of the legendary Gardens of Mars from her grandfather, Dejah Thoris, Princess of Helium, sets off on a dangerous scientific expedition to save her dying planet. But things don't go the way she planned when she encounters a mysterious Green Martian prisoner... A prequel to Edgar Rice Burroughs' beloved book A Princess of Mars.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dejah-thoris-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="delta 13" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>delta 13</ten_truyen>
@@ -1512,6 +1512,15 @@
         <gioi_thieu>INFINITY WARPS?! When Stark Odinson, the brainy but arrogant son of the All-Father, was kidnapped by Ice Giants and forced to make them an armory, he turned their forges against them and became the armored Asgardian, Iron Hammer!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-iron-hammer-eng.xml</file_xml>
     </truyen>
+	<truyen ten="infinity wars: sleepwalker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity wars: sleepwalker</ten_truyen>
+		<ma_truyen>infinity-wars-sleepwalker</ma_truyen>
+        <tac_gia>Chad Bowers, Chris Sims, Todd Nauck</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-sleepwalker/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Deep in the mind of man, in the ephemeral land of dreams, he lurks! The Sleepwalker - a guardian of the Mindscape, a realm threatened by the disruptive power of the Infinity Stones! But when all of reality becomes warped in INFINITY WARS, can Sleepwalker find the help he needs to save us all?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-sleepwalker-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="inhumans: once and future kings" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>inhumans: once and future kings</ten_truyen>
 		<ma_truyen>inhumans-once-and-future-kings</ma_truyen>
@@ -1736,6 +1745,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-dark-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Earth's magic once belonged to them. Now they want the magic back. But who exactly are they? It's up to the new Justice League Dark to find out and stop this nightmarish new threat at all costs! After the events of NO JUSTICE, team leader Wonder Woman guides the misfit magic mix of Zatanna, Swamp Thing, Man-Bat and Detective Chimp against enemies too fantastic even for the Justice League.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-dark-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="justice league odyssey" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>justice league odyssey</ten_truyen>
+		<ma_truyen>justice-league-odyssey</ma_truyen>
+        <tac_gia>Joshua Williamson, Stjepan Sejic</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-odyssey/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When a cosmic menace threatens worlds beyond our own in the Ghost Sector, it falls to a new Justice League team to answer the call to battle! Cyborg, Starfire, Green Lantern Jessica Cruz and an out-of-his-element Azrael head to deep space inside a commandeered Brainiac Skull Ship. But as these wildcard teammates try to stop Despero from slave-trading Coluan refugees, they discover something that nothing in the universe could have prepared them for: Darkseid...who says he's there to help?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-odyssey-eng.xml</file_xml>
     </truyen>
 	<truyen ten="justice league of america (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>justice league of america (2017)</ten_truyen>
@@ -2330,6 +2348,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/r/red-sonjatarzan/1_medium.jpg</hinh_nho>
         <gioi_thieu>The She-Devil with a Sword meets the Lord of the Jungle! Eson Duul is an evil man. The mere mention of his name makes powerful quake with fear. He has no regard for life, including that of man. But he may finally have met his match when he finds himself up against Red Sonja and Tarzan! Gail Simone (Birds of Prey, Red Sonja) and Walter Geovani (Red Sonja, Clean Room) reunite to bring us the crossover event featuring two of fiction's greatest heroes side by side at last!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-sonja-tarzan-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="return of wolverine" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>return of wolverine</ten_truyen>
+		<ma_truyen>return-of-wolverine</ma_truyen>
+        <tac_gia>Charles Soule, Steve McNiven</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/return-of-wolverine/1_medium.jpg</hinh_nho>
+        <gioi_thieu>HE'S BACK, BUB.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/return-of-wolverine-eng.xml</file_xml>
     </truyen>
 	<truyen ten="revenge of wonderland" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>revenge of wonderland</ten_truyen>

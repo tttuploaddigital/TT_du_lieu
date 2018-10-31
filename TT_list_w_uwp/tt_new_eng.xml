@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="infinity wars: sleepwalker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity wars: sleepwalker</ten_truyen>
+		<ma_truyen>infinity-wars-sleepwalker</ma_truyen>
+        <tac_gia>Chad Bowers, Chris Sims, Todd Nauck</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-sleepwalker/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Deep in the mind of man, in the ephemeral land of dreams, he lurks! The Sleepwalker - a guardian of the Mindscape, a realm threatened by the disruptive power of the Infinity Stones! But when all of reality becomes warped in INFINITY WARS, can Sleepwalker find the help he needs to save us all?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-sleepwalker-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="justice league odyssey" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>justice league odyssey</ten_truyen>
+		<ma_truyen>justice-league-odyssey</ma_truyen>
+        <tac_gia>Joshua Williamson, Stjepan Sejic</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-odyssey/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When a cosmic menace threatens worlds beyond our own in the Ghost Sector, it falls to a new Justice League team to answer the call to battle! Cyborg, Starfire, Green Lantern Jessica Cruz and an out-of-his-element Azrael head to deep space inside a commandeered Brainiac Skull Ship. But as these wildcard teammates try to stop Despero from slave-trading Coluan refugees, they discover something that nothing in the universe could have prepared them for: Darkseid...who says he's there to help?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-odyssey-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="return of wolverine" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>return of wolverine</ten_truyen>
+		<ma_truyen>return-of-wolverine</ma_truyen>
+        <tac_gia>Charles Soule, Steve McNiven</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/return-of-wolverine/1_medium.jpg</hinh_nho>
+        <gioi_thieu>HE'S BACK, BUB.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/return-of-wolverine-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="kakegurui" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kakegurui</ten_truyen>
 		<ma_truyen>kakegurui</ma_truyen>
@@ -243,31 +270,4 @@
 		<gioi_thieu>Strange things are happening all over town, and Kouichi Amano's nightmares have started again. Several clans have been spurred into action as the past gradually resurfaces. Just what is going on, and how do the Amano brothers fit into the picture?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/genwaku-no-kodou-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="the death of superman: part 1" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the death of superman: part 1</ten_truyen>
-		<ma_truyen>the-death-of-superman-part-1</ma_truyen>
-        <tac_gia>Louise Simonson, Cat Staggs</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://i.imgur.com/i1ZiqOT.jpg</hinh_nho>
-        <gioi_thieu>'POWER' Part 1! How did Superman miss the beginning of Doomsday's rampage? Well, first, he had to save Lois Lane's father from his own folly!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-death-of-superman-part-1-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="cosmic ghost rider" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>cosmic ghost rider</ten_truyen>
-		<ma_truyen>cosmic-ghost-rider</ma_truyen>
-        <tac_gia>Donny Cates, Dylan Burnett</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/cosmic-ghost-rider/1_medium.jpg</hinh_nho>
-        <gioi_thieu>EXPLODING FROM THE PAGES OF THANOS! Frank Castle was the Punisher. A deal with the devil made him Ghost Rider. A deal with Galactus made him cosmic. A deal with Thanos made him... DEAD?!? Not to worry, he's coming back, and he's got a plan to make the universe a better place that's going to lead him into an even CRAZIER adventure than he's ever been in! Join hot new comic (and cosmic?) writer Donny Cates (THANOS, DOCTOR STRANGE) as he pushes his wildest creation past the breaking point!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cosmic-ghost-rider-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-men: black - magneto" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>x-men: black - magneto</ten_truyen>
-		<ma_truyen>x-men-black-magneto</ma_truyen>
-        <tac_gia>Chris Claremont, Dalibor Talajic</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/magneto_1_medium.jpg</hinh_nho>
-        <gioi_thieu>MAGNETO IS BACK... and so is Chris Claremont! For years, Magneto has done everything he can to achieve his goals for mutant domination. But now Magneto has declared that enough is enough. So what revolutionary plan does Magneto have that will change the face of mutantkind? And will anyone be able to stop him? Will anyone want to? PLUS: Includes Part 1 of X-MEN BLACK: APOCALYPSE the back up story by Zac Thompson, Lonnie Nadler, and Geraldo Borge!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-magneto-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
