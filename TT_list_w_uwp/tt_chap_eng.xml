@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>the terrifics</ten_truyen>
+		<ma_truyen>the-terrifics</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-terrifics/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-terrifics-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>red sonja / tarzan</ten_truyen>
+		<ma_truyen>red-sonja-tarzan</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/red-sonjatarzan/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-sonja-tarzan-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>predator: hunters ii</ten_truyen>
+		<ma_truyen>predator-hunters-ii</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/predator-hunters-ii/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/predator-hunters-ii-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>rat queens (2017)</ten_truyen>
+		<ma_truyen>rat-queens-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/rat-queens-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rat-queens-2017-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>quantum and woody! (2017)</ten_truyen>
+		<ma_truyen>quantum-and-woody-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/q/quantum-and-woody-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quantum-and-woody-2017-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>die!die!die!</ten_truyen>
+		<ma_truyen>die-die-die</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/diediedie/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/die-die-die-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>ajin</ten_truyen>
 		<ma_truyen>ajin</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/22705/6/200.jpg</hinh_nho>
@@ -167,47 +209,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/24786/3/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/wind-breaker-eng.xml</file_xml>
 		<chap_moi>chap 201</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batman: kings of fear</ten_truyen>
-		<ma_truyen>batman-kings-of-fear</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-kings-of-fear-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
-		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
-		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>teenage mutant ninja turtles: urban legends</ten_truyen>
-		<ma_truyen>teenage-mutant-ninja-turtles-urban-legends</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-urban-legends/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teenage-mutant-ninja-turtles-urban-legends-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hunter x hunter</ten_truyen>
-		<ma_truyen>hunter-x-hunter</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hunter-x-hunter-eng.xml</file_xml>
-		<chap_moi>chap 386</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 285</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>black clover</ten_truyen>
-		<ma_truyen>black-clover</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
-		<chap_moi>chap 179</chap_moi>
 	</truyen>
 </danh_sach_truyen>
