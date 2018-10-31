@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>ajin</ten_truyen>
+		<ma_truyen>ajin</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/22705/6/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ajin-eng.xml</file_xml>
+		<chap_moi>chap 62</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 132</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ragna crimson</ten_truyen>
+		<ma_truyen>ragna-crimson</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/49622/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ragna-crimson-eng.xml</file_xml>
+		<chap_moi>chap 15</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>urami koi, koi, urami koi.</ten_truyen>
+		<ma_truyen>urami-koi-koi-urami-koi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27916/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/urami-koi-koi-urami-koi-eng.xml</file_xml>
+		<chap_moi>chap 46</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>darwin's game</ten_truyen>
+		<ma_truyen>darwin-s-game</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
+		<chap_moi>chap 54</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>fukigen na mononokean</ten_truyen>
+		<ma_truyen>fukigen-na-mononokean</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/37676/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fukigen-na-mononokean-eng.xml</file_xml>
+		<chap_moi>chap 62</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>nanatsu no taizai</ten_truyen>
 		<ma_truyen>nanatsu-no-taizai</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
@@ -167,47 +209,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/1559/3/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/c-m-b-eng.xml</file_xml>
 		<chap_moi>chap 90</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanatsu no taizai</ten_truyen>
-		<ma_truyen>nanatsu-no-taizai</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
-		<chap_moi>chap 286</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kimetsu no yaiba</ten_truyen>
-		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
-		<chap_moi>chap 131</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dungeon ni deai o motomeru no wa machigatte iru darou ka</ten_truyen>
-		<ma_truyen>dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/23265/12/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darou-ka-eng.xml</file_xml>
-		<chap_moi>chap 86</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>baby steps</ten_truyen>
-		<ma_truyen>baby-steps</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
-		<chap_moi>chap 324</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dead tube</ten_truyen>
-		<ma_truyen>dead-tube</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28472/5/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dead-tube-eng.xml</file_xml>
-		<chap_moi>chap 44</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>azumi</ten_truyen>
-		<ma_truyen>azumi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/22943/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/azumi-eng.xml</file_xml>
-		<chap_moi>chap 213</chap_moi>
 	</truyen>
 </danh_sach_truyen>
