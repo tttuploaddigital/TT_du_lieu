@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="infinity wars: sleepwalker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity wars: sleepwalker</ten_truyen>
+		<ma_truyen>infinity-wars-sleepwalker</ma_truyen>
+        <tac_gia>Chad Bowers, Chris Sims, Todd Nauck</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-sleepwalker/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Deep in the mind of man, in the ephemeral land of dreams, he lurks! The Sleepwalker - a guardian of the Mindscape, a realm threatened by the disruptive power of the Infinity Stones! But when all of reality becomes warped in INFINITY WARS, can Sleepwalker find the help he needs to save us all?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-sleepwalker-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="justice league odyssey" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>justice league odyssey</ten_truyen>
+		<ma_truyen>justice-league-odyssey</ma_truyen>
+        <tac_gia>Joshua Williamson, Stjepan Sejic</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-odyssey/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When a cosmic menace threatens worlds beyond our own in the Ghost Sector, it falls to a new Justice League team to answer the call to battle! Cyborg, Starfire, Green Lantern Jessica Cruz and an out-of-his-element Azrael head to deep space inside a commandeered Brainiac Skull Ship. But as these wildcard teammates try to stop Despero from slave-trading Coluan refugees, they discover something that nothing in the universe could have prepared them for: Darkseid...who says he's there to help?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-odyssey-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="return of wolverine" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>return of wolverine</ten_truyen>
+		<ma_truyen>return-of-wolverine</ma_truyen>
+        <tac_gia>Charles Soule, Steve McNiven</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/return-of-wolverine/1_medium.jpg</hinh_nho>
+        <gioi_thieu>HE'S BACK, BUB.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/return-of-wolverine-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="spider-girls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>spider-girls</ten_truyen>
+		<ma_truyen>spider-girls</ma_truyen>
+        <tac_gia>Jody Houser, Andres Genolet</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-girls-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A SPIDER-GEDDON TIE IN! MAY 'MAYDAY' PARKER, the original SPIDER-GIRL, ANYA CORAZON, the Prime Universe SPIDER-GIRL, and ANNIE MAY PARKER, A.K.A. SPIDERLING - together for the first time! May will do anything to protect her brother from the Inheritors, and Anya's knowledge of the mystical Spider-Totems could save the day. But how does Annie fit in? And what chance do three girls have against ageless universal forces?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-girls-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="old lady harley" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>old lady harley</ten_truyen>
+		<ma_truyen>old-lady-harley</ma_truyen>
+        <tac_gia>Frank Teri, Inaki Miranda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-lady-harley/1_medium.jpg</hinh_nho>
+        <gioi_thieu>After liberating New York City from her now-feral Gang of Harleys, poor Harley wants nothing more than to slip back into retirement in her coastal (and heavily guarded) paradise. But the Laughing Boys Gang has another idea-they'll follow her to the ends of the Earth, to drag her back to their leader! It can't actually be... him! Right?! He couldn't possibly still be alive, could he? After all... Harley killed him herself with her bare hands! Should she turn to President Power Girl for help? Or flee to the 51st state, Atlantis? Step into an insane vision of a future DC Universe we all better hope we don't live to see!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-lady-harley-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="x-men: black - juggernaut" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - juggernaut</ten_truyen>
+		<ma_truyen>x-men-black-juggernaut</ma_truyen>
+        <tac_gia>Robbie Thompson, Shawn Crystal</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/juggernaut_1_medium.jpg</hinh_nho>
+        <gioi_thieu>NOTHING CAN STOP THE JUGGERNAUT...until now. What has finally stopped Cain Marko in his tracks? You'll have to see to believe, but we can promise you it's gonna involve nothing but punching for the Juggernaut! PLUS: Part 4 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-juggernaut-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="x-men: black - mystique" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>x-men: black - mystique</ten_truyen>
 		<ma_truyen>x-men-black-mystique</ma_truyen>
@@ -215,59 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/c/crossed-plus-100-mimic/1_medium.jpg</hinh_nho>
         <gioi_thieu>Crossed + One Hundred: Mimic continues to story of the disciples of Beau Salt, the serial killer who despite being infected fully retained his sanity, invading military bases to take their best and turn them to the Crossed side.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/crossed-plus-one-hundred-mimic-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="thanos legacy" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>thanos legacy</ten_truyen>
-		<ma_truyen>thanos-legacy</ma_truyen>
-        <tac_gia>Donny Cates, Gerry Duggan, Brian Level, Cory Smith</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/thanos-legacy/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THANOS WINS... AGAIN! Rising star Donny Cates returns to the Mad Titan to bring the story bridging the gap between his best-selling 'Thanos Wins' and the worldshattering INFINITY WARS! How did Thanos' journey back from the future lead to the events of INFINITY WARS PRIME? Now it can be told!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/thanos-legacy-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="asgardians of the galaxy" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>asgardians of the galaxy</ten_truyen>
-		<ma_truyen>asgardians-of-the-galaxy</ma_truyen>
-        <tac_gia>Cullen Bunn, Matteo Lolli</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/asgardians-of-the-galaxy/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spinning out of the events of INFINITY WARS comes an epic space opera from DEADPOOL veterans Cullen Bunn and Matteo Lolli! Angela, the not-so-beloved half-sister of Thor. The hotheaded Valkyrie - and the human who shares her form, Annabelle Riggs. Skurge the Executioner, freshly returned from Hel. Throg, the mightiest frog of thunder. Kevin Masterson, the boy who took his father's mace to become the hero Thunderstrike. And the Destroyer, the Asgardian armor built to take down Celestials - its wielder unknown. The events of INFINITY WARS set NEBULA off on a quest to rule the galaxy - wielding an Asgardian weapon even Thor would fear - and it's up to this team of gods, assassins, frogs and heroes to stop her.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/asgardians-of-the-galaxy-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="starcraft: scavengers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>starcraft: scavengers</ten_truyen>
-		<ma_truyen>starcraft-scavengers</ma_truyen>
-        <tac_gia>Jody Houser, Gabriel Guzman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/starcraft-scavengers/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A group of terran space scavengers hope to pull off the job of their lifetimes, ignoring a recent United Earth Directorate treaty to pillage a derelict protoss ship.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/starcraft-scavengers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="batman: kings of fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>batman: kings of fear</ten_truyen>
-		<ma_truyen>batman-kings-of-fear</ma_truyen>
-        <tac_gia>Scott Peterson, Kelley Jones</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Batman's been overseeing Gotham City for years now and isn't sure how much of a difference he's making. Doubt, fear and insecurity are starting to take over. And as all of those negative feelings set in the Scarecrow orchestrates a riot at Arkham Asylum to give the Dark Knight one of his greatest challenges yet! This six-issue miniseries will see the Scarecrow in a horrifying new way that you'll have to read to believe.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-kings-of-fear-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="edge of spider-geddon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>edge of spider-geddon</ten_truyen>
-		<ma_truyen>edge-of-spider-geddon</ma_truyen>
-        <tac_gia>Jed McKay, Gerardo Sandoval</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/edge-of-spider-geddon/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spider-Punk is back and better than ever. After SPIDER-VERSE, Hobie Brown was a Web Warrior, but that didn't mean things back in his universe were solved. The writer of the SPIDER-PUNK story in SPIDER-VERSE is back and joined by VENOM'S Gerardo Sandoval! Spider-Punk's Earth is under attack both on the ground and from space, meaning his responsibility seems to outweigh his power.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/edge-of-spider-geddon-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="extermination (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>extermination (2018)</ten_truyen>
-		<ma_truyen>extermination-2018</ma_truyen>
-        <tac_gia>Ed Brisson, Pepe Larraz</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/extermination-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>EXTERMINATE THE PAST. ELIMINATE THE FUTURE. Cyclops. Iceman. Angel. Beast. Marvel Girl. The original team of teen mutants brought together by Professor Charles Xavier many years ago have been shunted through time to find a world they barely recognize but were determined to help. Now, finding themselves targeted for death, the future of mutantkind lies squarely in the hands of its past.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/extermination-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
