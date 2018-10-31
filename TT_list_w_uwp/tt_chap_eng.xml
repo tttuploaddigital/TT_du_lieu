@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>ajin</ten_truyen>
+		<ma_truyen>ajin</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/22705/6/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ajin-eng.xml</file_xml>
+		<chap_moi>chap 62</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 132</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ragna crimson</ten_truyen>
+		<ma_truyen>ragna-crimson</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/49622/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ragna-crimson-eng.xml</file_xml>
+		<chap_moi>chap 15</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>urami koi, koi, urami koi.</ten_truyen>
+		<ma_truyen>urami-koi-koi-urami-koi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27916/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/urami-koi-koi-urami-koi-eng.xml</file_xml>
+		<chap_moi>chap 46</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>darwin's game</ten_truyen>
+		<ma_truyen>darwin-s-game</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
+		<chap_moi>chap 54</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>fukigen na mononokean</ten_truyen>
+		<ma_truyen>fukigen-na-mononokean</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/37676/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fukigen-na-mononokean-eng.xml</file_xml>
+		<chap_moi>chap 62</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>demon spirit seed manual</ten_truyen>
+		<ma_truyen>demon-spirit-seed-manual</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/39751/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/demon-spirit-seed-manual-eng.xml</file_xml>
+		<chap_moi>chap 180</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>wu dong qian kun</ten_truyen>
+		<ma_truyen>wu-dong-qian-kun</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/34897/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/wu-dong-qian-kun-eng.xml</file_xml>
+		<chap_moi>chap 79</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tiger x crane</ten_truyen>
+		<ma_truyen>tiger-x-crane</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/10221/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tiger-x-crane-eng.xml</file_xml>
+		<chap_moi>chap 228</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>x-men: red</ten_truyen>
 		<ma_truyen>x-men-red</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-red-(2018)/1_medium.jpg</hinh_nho>
@@ -146,68 +209,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
 		<chap_moi>chap 179</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batman beyond (2016)</ten_truyen>
-		<ma_truyen>batman-beyond-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-beyond-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-beyond-2016-eng.xml</file_xml>
-		<chap_moi>issue 25</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the sentry (2018)</ten_truyen>
-		<ma_truyen>the-sentry-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sentry-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-sentry-2018-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>xena: warrior princess (2018)</ten_truyen>
-		<ma_truyen>xena-warrior-princess-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/xena-warrior-princess(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/xena-warrior-princess-2018-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>world trigger</ten_truyen>
-		<ma_truyen>world-trigger</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/11153/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-trigger-eng.xml</file_xml>
-		<chap_moi>chap 165</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>goblin slayer </ten_truyen>
-		<ma_truyen>goblin-slayer</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41855/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-eng.xml</file_xml>
-		<chap_moi>chap 29</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kaguya-sama wa kokurasetai - tensai-tachi no renai zunousen</ten_truyen>
-		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
-		<chap_moi>chap 126</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>demon spirit seed manual</ten_truyen>
-		<ma_truyen>demon-spirit-seed-manual</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/39751/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/demon-spirit-seed-manual-eng.xml</file_xml>
-		<chap_moi>chap 179</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>red storm</ten_truyen>
-		<ma_truyen>red-storm</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/21499/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/red-storm-eng.xml</file_xml>
-		<chap_moi>chap 299</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>autophagy regulation</ten_truyen>
-		<ma_truyen>autophagy-regulation</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30485/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/autophagy-regulation-eng.xml</file_xml>
-		<chap_moi>chap 201</chap_moi>
 	</truyen>
 </danh_sach_truyen>
