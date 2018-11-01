@@ -210,25 +210,4 @@
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hare-kon-eng.xml</file_xml>
 		<chap_moi>chap 147</chap_moi>
 	</truyen>
-	<truyen>
-		<ten_truyen>kingdom  </ten_truyen>
-		<ma_truyen>kingdom</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
-		<chap_moi>chap 577</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>golden kamui</ten_truyen>
-		<ma_truyen>golden-kamui</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/golden-kamui-eng.xml</file_xml>
-		<chap_moi>chap 176</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>back street girls - washira idol hajimemashita.</ten_truyen>
-		<ma_truyen>back-street-girls-washira-idol-hajimemashita</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/42569/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/back-street-girls-washira-idol-hajimemashita-eng.xml</file_xml>
-		<chap_moi>chap 50</chap_moi>
-	</truyen>
 </danh_sach_truyen>
