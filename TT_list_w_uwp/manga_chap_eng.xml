@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>boku no hero academia</ten_truyen>
+		<ma_truyen>boku-no-hero-academia</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
+		<chap_moi>chap 203</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
+		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
+        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
+		<chap_moi>chap 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tomodachi game</ten_truyen>
+		<ma_truyen>tomodachi-game</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28175/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomodachi-game-eng.xml</file_xml>
+		<chap_moi>chap 56</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kengan ashua</ten_truyen>
+		<ma_truyen>kengan-ashua</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kengan-ashua-eng.xml</file_xml>
+		<chap_moi>chap 167</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>saike mata shite mo</ten_truyen>
+		<ma_truyen>saike-mata-shite-mo</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27642/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saike-mata-shite-mo-eng.xml</file_xml>
+		<chap_moi>chap 78</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kono bijutsubu ni wa mondai ga aru!</ten_truyen>
+		<ma_truyen>kono-bijutsubu-ni-wa-mondai-ga-aru</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5405/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kono-bijutsubu-ni-wa-mondai-ga-aru-eng.xml</file_xml>
+		<chap_moi>chap 69</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>ajin</ten_truyen>
 		<ma_truyen>ajin</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/22705/6/200.jpg</hinh_nho>
@@ -188,26 +230,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/42569/2/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/back-street-girls-washira-idol-hajimemashita-eng.xml</file_xml>
 		<chap_moi>chap 50</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>d.gray-man</ten_truyen>
-		<ma_truyen>d-gray-man</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2055/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/d-gray-man-eng.xml</file_xml>
-		<chap_moi>chap 230</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>skip beat!</ten_truyen>
-		<ma_truyen>skip-beat</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/9232/12/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/skip-beat-eng.xml</file_xml>
-		<chap_moi>chap 264</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>c.m.b.</ten_truyen>
-		<ma_truyen>c-m-b</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/1559/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/c-m-b-eng.xml</file_xml>
-		<chap_moi>chap 90</chap_moi>
 	</truyen>
 </danh_sach_truyen>
