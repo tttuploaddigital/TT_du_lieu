@@ -210,25 +210,4 @@
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
 		<chap_moi>chap 126</chap_moi>
 	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 922</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>vinland saga</ten_truyen>
-		<ma_truyen>vinland-saga</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/10869/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/vinland-saga-eng.xml</file_xml>
-		<chap_moi>chap 155</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hajimete no gal</ten_truyen>
-		<ma_truyen>hajimete-no-gal</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41576/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajimete-no-gal-eng.xml</file_xml>
-		<chap_moi>chap 65</chap_moi>
-	</truyen>
 </danh_sach_truyen>
