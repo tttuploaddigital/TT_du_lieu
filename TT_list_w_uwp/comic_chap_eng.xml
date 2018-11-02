@@ -1,6 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>extermination (2018)</ten_truyen>
+		<ma_truyen>extermination-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/extermination-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/extermination-2018-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>titans (2016) </ten_truyen>
+		<ma_truyen>titans-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/titans-2016-eng.xml</file_xml>
+		<chap_moi>issue 28</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>barbarella (2017)</ten_truyen>
+		<ma_truyen>barbarella-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarella-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-2017-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 578</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>old man logan (2016)</ten_truyen>
+		<ma_truyen>old-man-logan-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-logan-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-logan-2016-eng.xml</file_xml>
+		<chap_moi>issue 50</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>teen titans (2016)</ten_truyen>
+		<ma_truyen>teen-titans-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/teen-titans-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teen-titans-2016-eng.xml</file_xml>
+		<chap_moi>issue 23</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>fence</ten_truyen>
+		<ma_truyen>fence</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/fence/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fence-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>injustice vs. masters of the universe</ten_truyen>
 		<ma_truyen>injustice-vs-masters-of-the-universe</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/i/injustice-vs-masters-of-the-universe/1_medium.jpg</hinh_nho>
@@ -167,47 +216,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/x/xena-warrior-princess(2018)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/xena-warrior-princess-2018-eng.xml</file_xml>
 		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars: darth vader (2017)</ten_truyen>
-		<ma_truyen>star-wars-darth-vader-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-darth-vader-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-darth-vader-2017-eng.xml</file_xml>
-		<chap_moi>issue 22</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batgirl (2016)</ten_truyen>
-		<ma_truyen>batgirl-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batgirl-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batgirl-2016-eng.xml</file_xml>
-		<chap_moi>issue 28</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the punisher (2016)</ten_truyen>
-		<ma_truyen>the-punisher-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/punisher-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-punisher-2016-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the flash (2016)</ten_truyen>
-		<ma_truyen>the-flash-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
-		<chap_moi>issue 57</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>aliens: dust to dust</ten_truyen>
-		<ma_truyen>aliens-dust-to-dust</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/aliens-dust-to-dust/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/aliens-dust-to-dust-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>fathom (2018)</ten_truyen>
-		<ma_truyen>fathom-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fathom-2018-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
 	</truyen>
 </danh_sach_truyen>
