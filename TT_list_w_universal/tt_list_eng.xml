@@ -1344,7 +1344,7 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <tac_gia>Horikoshi Kouhei</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
-        <gioi_thieu>The story is set in the modern day, except people with special powers have become commonplace throughout the world. A boy named Izuku Midoriya has no powers, but he still dreams.</gioi_thieu>        
+        <gioi_thieu>The story is set in the modern day, except people with special powers have become commonplace throughout the world. A boy named Izuku Midoriya has no powers, but he still dreams.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
     </truyen>
 	<truyen ten="boku no kanojo ga majime sugiru shojo bitch na ken" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Romance, School life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
@@ -3501,6 +3501,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>When Hideto, a high-school student who is afraid of women, is suddenly targeted by a beautiful older woman whom he believes to be a molester, he runs for his life. Mid-pursuit, he is attacked by what he previously believed to be an illusion, a blur that nobody else could see.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/haru-nee-ga-boku-ni-xx-suru-riyuu-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="haruka 17" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>haruka 17</ten_truyen>
+		<ma_truyen>haruka-17</ma_truyen>
+		<tac_gia>Yamazaki Sayaka</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/3557/1/200.jpg</hinh_nho>
+		<gioi_thieu>Haruka is about to graduate from a first-rate college and is looking for work but no one wants to hire her. Faced with the prospect of becoming a 'shuushoku rounin' she finally lowers her expectations and decides to apply at a tiny talent agency for a job as an agent. When she shows up for the interview however, it's like no interview she's ever had before. She's asked all sorts of embarrasing questions and asked to say lines in front of a camera. Later she finds out that they thought she was interviewing to become a talent, and the agent position she wanted has already been given away. However, they think she has that special quality that can make someone a star. She refuses at first, but finally gives in. Thus starts Haruka's career in the entertainment industry.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haruka-17-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="hatsukoi zombie" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Gender bender, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>hatsukoi zombie</ten_truyen>
 		<ma_truyen>hatsukoi-zombie</ma_truyen>
@@ -4695,7 +4704,7 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<tac_gia>Oima Yoshitoki</tac_gia>
 		<tinh_trang>Completed</tinh_trang>
 		<hinh_nho>https://file-thumb.mpcdn.net/5222/11/200.jpg</hinh_nho>
-		<gioi_thieu>The story revolves around Nishimiya Shōko, a grade school student who has impaired hearing. She transfers into a new school, where she is bullied by her classmates, especially Ishida Shouya. It gets to the point where she transfers to another school and as a result, Shouya is ostracized and bullied himself, with no friends to speak of and no plans for the future. Years later, he sets himself on a path to redemption. Won the 19th Tezuka Osamu Cultural Award New Artist Prize.</gioi_thieu>
+		<gioi_thieu>The story revolves around Nishimiya Shoko, a grade school student who has impaired hearing. She transfers into a new school, where she is bullied by her classmates, especially Ishida Shouya. It gets to the point where she transfers to another school and as a result, Shouya is ostracized and bullied himself, with no friends to speak of and no plans for the future. Years later, he sets himself on a path to redemption. Won the 19th Tezuka Osamu Cultural Award New Artist Prize.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/koe-no-katachi-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="koi inu." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manga">
@@ -4850,6 +4859,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <hinh_nho>https://file-thumb.mpcdn.net/32389/4/200.jpg</hinh_nho>
 		<gioi_thieu>'To Love, or not to Love' Juliet Percia and Inudzuka Romeo are archenemies. They lead two high-school dormitories from to two rivalling countries. Both factions are dead set on defeating the other to gain control over the island they have to share. Beneath the feuding exterior, however, Percia and Inudzuka long for love and peace for their budding relationship...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kushuku-gakkou-no-alice-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kusumi-kun, kuuki yometemasu ka?" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kusumi-kun, kuuki yometemasu ka?</ten_truyen>
+		<ma_truyen>kusumi-kun-kuuki-yometemasu-ka</ma_truyen>
+		<tac_gia>Mosuko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/42058/1/200.jpg</hinh_nho>
+		<gioi_thieu>Erika Sakura is the school's most popular female high schooler, and only met with envious gazes since she is out of everyone's league. However, she is recently interested in a certain male high schooler who can't read between the lines, Kuzumi. While having a relationship between the two is out of the question, her unrequited love will soon change in this romantic comedy. Follow this new inevitably heart pounding, out-of-contact short love comedy!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kusumi-kun-kuuki-yometemasu-ka-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="kyochuu rettou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Fantasy, Horror, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kyochuu rettou</ten_truyen>
@@ -8477,6 +8495,15 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <hinh_nho>https://file-thumb.mpcdn.net/10241/11/200.jpg</hinh_nho>
 		<gioi_thieu>Even though this is a sequel to To-Love-Ru, all of our main characters make an appearance along with some new additions. Rito continues to be caught in over the top uncensored ecchi scenarios. The alien Deviluke sisters still use their unique abilities to grab Rito's love confession. Nana and Momo have transferred into the school and meet Mea, who seems to be a worry free and joyful girl. Momo in particular wants to share Rito and create a harem for him. While scheming her plan, she confronts Golden Darkness also know as Yami (The Japanese name is Konjiki no Yami). They are interrupted by possessed students who begin to fight with abnormal strength. Now the new plot line appears as a mysterious person who's in control of the students tests Yami's assassination skills. Who is this new enemy?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/to-love-ru-darkness-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="to you, the immortal" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Drama, Fantasy, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>to you, the immortal</ten_truyen>
+		<ma_truyen>to-you-the-immortal</ma_truyen>
+		<tac_gia>Oima Yoshitoki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/45063/5/200.jpg</hinh_nho>
+		<gioi_thieu>An immortal being was sent to the surface of the earth and met a boy living alone in the middle of tundra. The being can take the shape of dying things, but only if the 'impetus' is stronger than the previous one. What sort of experiences and meetings will the being encounter while living forever?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/to-you-the-immortal-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="toaru ossan no vrmmo katsudouki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>toaru ossan no vrmmo katsudouki</ten_truyen>

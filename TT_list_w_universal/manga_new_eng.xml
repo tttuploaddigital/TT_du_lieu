@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="to you, the immortal" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Drama, Fantasy, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>to you, the immortal</ten_truyen>
+		<ma_truyen>to-you-the-immortal</ma_truyen>
+		<tac_gia>Oima Yoshitoki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/45063/5/200.jpg</hinh_nho>
+		<gioi_thieu>An immortal being was sent to the surface of the earth and met a boy living alone in the middle of tundra. The being can take the shape of dying things, but only if the 'impetus' is stronger than the previous one. What sort of experiences and meetings will the being encounter while living forever?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/to-you-the-immortal-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kusumi-kun, kuuki yometemasu ka?" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kusumi-kun, kuuki yometemasu ka?</ten_truyen>
+		<ma_truyen>kusumi-kun-kuuki-yometemasu-ka</ma_truyen>
+		<tac_gia>Mosuko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/42058/1/200.jpg</hinh_nho>
+		<gioi_thieu>Erika Sakura is the school's most popular female high schooler, and only met with envious gazes since she is out of everyone's league. However, she is recently interested in a certain male high schooler who can't read between the lines, Kuzumi. While having a relationship between the two is out of the question, her unrequited love will soon change in this romantic comedy. Follow this new inevitably heart pounding, out-of-contact short love comedy!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kusumi-kun-kuuki-yometemasu-ka-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="haruka 17" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>haruka 17</ten_truyen>
+		<ma_truyen>haruka-17</ma_truyen>
+		<tac_gia>Yamazaki Sayaka</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/3557/1/200.jpg</hinh_nho>
+		<gioi_thieu>Haruka is about to graduate from a first-rate college and is looking for work but no one wants to hire her. Faced with the prospect of becoming a 'shuushoku rounin' she finally lowers her expectations and decides to apply at a tiny talent agency for a job as an agent. When she shows up for the interview however, it's like no interview she's ever had before. She's asked all sorts of embarrasing questions and asked to say lines in front of a camera. Later she finds out that they thought she was interviewing to become a talent, and the agent position she wanted has already been given away. However, they think she has that special quality that can make someone a star. She refuses at first, but finally gives in. Thus starts Haruka's career in the entertainment industry.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haruka-17-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="kakegurui" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kakegurui</ten_truyen>
 		<ma_truyen>kakegurui</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/10803/2/200.jpg</hinh_nho>
 		<gioi_thieu> Kurozu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but by a pattern: uzumaki, the spiral, the hypnotic secret shape of the world. It manifests itself in small ways: seashells, ferns, whirlpools in water, whirlwinds in air. And in large ways: the spiral marks on people's bodies, the insane obsessions of Shuichi's father, the voice from the cochlea in your inner ear. As the madness spreads, the inhabitants of Kurozu-cho are pulled ever deeper, as if into a whirlpool from which there is no return...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/uzumaki-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="henjyo - hen na jyoshi kousei amaguri senko" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>henjyo - hen na jyoshi kousei amaguri senko</ten_truyen>
-		<ma_truyen>henjyo-hen-na-jyoshi-kousei-amaguri-senko</ma_truyen>
-		<tac_gia>Konogi Yoshiru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/32972/1/200.jpg</hinh_nho>
-		<gioi_thieu>Amaguri Senko is a high school girl with a cool personality (as in, kuudere) and a big pervert. She openly reads porn and masturbates, and isn't perturbed in the slightest at the sight of penises and such. The story is about two adult men that come to live and work for her father, who runs a company that does various oddjobs, which she helps out with. And the various forms of sexual harassment to which she subjects the one which she has taken a liking to.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/henjyo-hen-na-jyoshi-kousei-amaguri-senko-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="koisuru harinezumi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>koisuru harinezumi</ten_truyen>
-		<ma_truyen>koisuru-harinezumi</ma_truyen>
-		<tac_gia>Hinachi Nao</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27248/1/200.jpg</hinh_nho>
-		<gioi_thieu>To change from 'like' to 'love', what strategies must Ozawa use on Kazuki? Kazuki Heiji is the troublemaker. He gets into fights and is very cold to everyone. Ozawa Kii witnesses a fight between a classmate and Kazuki but he unexpectedly says he wants to become friends? And what's this about 'like' and 'love'...?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koisuru-harinezumi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="drifters" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Historical, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>drifters</ten_truyen>
-		<ma_truyen>drifters</ma_truyen>
-		<tac_gia>Hirano Kouta</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/2494/3/200.jpg</hinh_nho>
-		<gioi_thieu>Shimazu Toyohisa, a real-life samurai who fought in the pivotal Battle of Sekigahara. In his dying moments, Shimazu is transported to a world of magic with other famous warriors throughout history. These warriors are forced to fight each other in an endless battle. Drifters was nominated for the 4th and 5th Manga Taishou Awards.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/drifters-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
