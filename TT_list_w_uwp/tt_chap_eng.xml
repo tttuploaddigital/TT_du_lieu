@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>infinity wars: iron hammer</ten_truyen>
+		<ma_truyen>infinity-wars-iron-hammer</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-iron-hammer/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-iron-hammer-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>revenge of wonderland</ten_truyen>
+		<ma_truyen>revenge-of-wonderland</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/revenge-of-wonderland/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/revenge-of-wonderland-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>belle: beast hunter</ten_truyen>
+		<ma_truyen>belle-beast-hunter</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/belle-beast-hunter/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/belle-beast-hunter-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 923</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hunter x hunter</ten_truyen>
+		<ma_truyen>hunter-x-hunter</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hunter-x-hunter-eng.xml</file_xml>
+		<chap_moi>chap 387</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>boku no hero academia</ten_truyen>
+		<ma_truyen>boku-no-hero-academia</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
+		<chap_moi>chap 204</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>multiple man</ten_truyen>
+		<ma_truyen>multiple-man</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/multiple-man-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/multiple-man-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>grimm fairy tales (2016)</ten_truyen>
+		<ma_truyen>grimm-fairy-tales-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-fairy-tales-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/grimm-fairy-tales-2016-eng.xml</file_xml>
+		<chap_moi>issue 22</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nancy drew (2018)</ten_truyen>
+		<ma_truyen>nancy-drew-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/nancy-drew-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nancy-drew-2018-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>vinland saga</ten_truyen>
+		<ma_truyen>vinland-saga</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/10869/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/vinland-saga-eng.xml</file_xml>
+		<chap_moi>chap 156</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tate no yuusha no nariagari</ten_truyen>
+		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tate-no-yuusha-no-nariagari-eng.xml</file_xml>
+		<chap_moi>chap 48</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hantsu x torasshu</ten_truyen>
+		<ma_truyen>hantsu-x-torasshu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3495/9/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hantsu-x-torasshu-eng.xml</file_xml>
+		<chap_moi>chap 138</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>my wives</ten_truyen>
+		<ma_truyen>my-wives</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/40829/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/my-wives-eng.xml</file_xml>
+		<chap_moi>chap 40</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>panlong</ten_truyen>
+		<ma_truyen>panlong</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/30349/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/panlong-eng.xml</file_xml>
+		<chap_moi>chap 162</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tales of the unusual</ten_truyen>
+		<ma_truyen>tales-of-the-unusual</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28553/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/tales-of-the-unusual-eng.xml</file_xml>
+		<chap_moi>chap 217</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>extermination (2018)</ten_truyen>
 		<ma_truyen>extermination-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/e/extermination-(2018)/1_medium.jpg</hinh_nho>
@@ -104,110 +209,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/28553/1/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/tales-of-the-unusual-eng.xml</file_xml>
 		<chap_moi>chap 217</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>injustice vs. masters of the universe</ten_truyen>
-		<ma_truyen>injustice-vs-masters-of-the-universe</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/injustice-vs-masters-of-the-universe/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/injustice-vs-masters-of-the-universe-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars adventures (2017)</ten_truyen>
-		<ma_truyen>star-wars-adventures-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-adventures/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-adventures-2017-eng.xml</file_xml>
-		<chap_moi>issue 15</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-o manowar (2017)</ten_truyen>
-		<ma_truyen>x-o-manowar-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-o-manowar-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-o-manowar-2017-eng.xml</file_xml>
-		<chap_moi>issue 20</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>boku no hero academia</ten_truyen>
-		<ma_truyen>boku-no-hero-academia</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
-		<chap_moi>chap 203</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
-		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
-        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
-		<chap_moi>chap 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tomodachi game</ten_truyen>
-		<ma_truyen>tomodachi-game</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/28175/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomodachi-game-eng.xml</file_xml>
-		<chap_moi>chap 56</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the silencer</ten_truyen>
-		<ma_truyen>the-silencer</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-silencer/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-silencer-eng.xml</file_xml>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>uber: invasion</ten_truyen>
-		<ma_truyen>uber-invasion</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/u/uber-invasion/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uber-invasion-eng.xml</file_xml>
-		<chap_moi>issue 17</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>crossed plus one hundred: mimic</ten_truyen>
-		<ma_truyen>crossed-plus-one-hundred-mimic</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/crossed-plus-100-mimic/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/crossed-plus-one-hundred-mimic-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kengan ashua</ten_truyen>
-		<ma_truyen>kengan-ashua</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kengan-ashua-eng.xml</file_xml>
-		<chap_moi>chap 167</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>saike mata shite mo</ten_truyen>
-		<ma_truyen>saike-mata-shite-mo</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/27642/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saike-mata-shite-mo-eng.xml</file_xml>
-		<chap_moi>chap 80</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kono bijutsubu ni wa mondai ga aru!</ten_truyen>
-		<ma_truyen>kono-bijutsubu-ni-wa-mondai-ga-aru</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5405/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kono-bijutsubu-ni-wa-mondai-ga-aru-eng.xml</file_xml>
-		<chap_moi>chap 69</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the god of high school</ten_truyen>
-		<ma_truyen>the-god-of-high-school</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/10053/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/the-god-of-high-school-eng.xml</file_xml>
-		<chap_moi>chap 382</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the gamer</ten_truyen>
-		<ma_truyen>the-gamer</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/the-gamer-eng.xml</file_xml>
-		<chap_moi>chap 246</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>unbalance x 2</ten_truyen>
-		<ma_truyen>unbalance-x-2</ma_truyen>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/29/f8/29f804f24a3a565cd194c2e6e841b86a545996fb_41135_200_288.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/unbalance-x-2-eng.xml</file_xml>
-		<chap_moi>chap 24</chap_moi>
 	</truyen>
 </danh_sach_truyen>

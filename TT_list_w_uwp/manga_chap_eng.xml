@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 923</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hunter x hunter</ten_truyen>
+		<ma_truyen>hunter-x-hunter</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hunter-x-hunter-eng.xml</file_xml>
+		<chap_moi>chap 387</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>boku no hero academia</ten_truyen>
+		<ma_truyen>boku-no-hero-academia</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
+		<chap_moi>chap 204</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>vinland saga</ten_truyen>
+		<ma_truyen>vinland-saga</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/10869/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/vinland-saga-eng.xml</file_xml>
+		<chap_moi>chap 156</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tate no yuusha no nariagari</ten_truyen>
+		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tate-no-yuusha-no-nariagari-eng.xml</file_xml>
+		<chap_moi>chap 48</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hantsu x torasshu</ten_truyen>
+		<ma_truyen>hantsu-x-torasshu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3495/9/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hantsu-x-torasshu-eng.xml</file_xml>
+		<chap_moi>chap 138</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>kingdom  </ten_truyen>
 		<ma_truyen>kingdom</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
@@ -167,47 +209,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
 		<chap_moi>chap 278</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hunter x hunter</ten_truyen>
-		<ma_truyen>hunter-x-hunter</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hunter-x-hunter-eng.xml</file_xml>
-		<chap_moi>chap 386</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 285</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>black clover</ten_truyen>
-		<ma_truyen>black-clover</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
-		<chap_moi>chap 179</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>world trigger</ten_truyen>
-		<ma_truyen>world-trigger</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/11153/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-trigger-eng.xml</file_xml>
-		<chap_moi>chap 165</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>goblin slayer </ten_truyen>
-		<ma_truyen>goblin-slayer</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41855/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-eng.xml</file_xml>
-		<chap_moi>chap 29</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kaguya-sama wa kokurasetai - tensai-tachi no renai zunousen</ten_truyen>
-		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
-		<chap_moi>chap 126</chap_moi>
 	</truyen>
 </danh_sach_truyen>
