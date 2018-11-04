@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="heroes in crisis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>heroes in crisis</ten_truyen>
+		<ma_truyen>heroes-in-crisis</ma_truyen>
+        <tac_gia>Tom King, Clay Mann</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/heroes-in-crisis/1_medium.jpg</hinh_nho>
+        <gioi_thieu>There's a new kind of crisis threatening the heroes of the DC Universe, ripped from real-world headlines by C.I.A.-operative-turned-comics-writer Tom King: How does a superhero handle PTSD? Welcome to Sanctuary, an ultra-secret hospital for superheroes who've been traumatized by crime-fighting and cosmic combat. But something goes inexplicably wrong when many patients wind up dead, with two well-known operators as the prime suspects: Harley Quinn and Booster Gold! It's up to the DC Trinity of Superman, Wonder Woman and Batman to investigate but can they get the job done in the face of overwhelming opposition?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/heroes-in-crisis-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="spider-force" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>spider-force</ten_truyen>
+		<ma_truyen>spider-force</ma_truyen>
+        <tac_gia>Christopher Priest, Shane Davis, Siquiera</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-force/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A SPIDER-GEDDON TIE IN! The deadliest task in all of SPIDER-GEDDON has come up and Kaine has stepped forward for what he's sure will be a suicide mission. But he can't do it alone and Jessica Drew, A.K.A. Spider-Woman has signed on to help, but has Kaine told her the whole truth? With Ashley Barton, from the OLD MAN LOGAN universe, and two new characters (Astro-Spider and Spider-Kid), Kaine’s team is complete and their first mission may be their last!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-force-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="batman: secret files" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman: secret files</ten_truyen>
+		<ma_truyen>batman-secret-files</ma_truyen>
+        <tac_gia>Jordie Bellaire, Cheryl Lynn Eaton, Tom King, Tom Taylor, Ram V, Elena Casagrande, Jorge Fornes, Mikel Janin, Jill Thompson, Brad Walker</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-(2016)/secret-files_1_medium.jpg</hinh_nho>
+        <gioi_thieu>Delve into Batman's case histories and discover brand-new stories by some of comics' most exciting talents. The BATMAN team of Tom King and Mikel Janin provides a framing sequence, setting up our hand-picked teams of creators to take a look at Bat-mysteries past and present. Featuring a bevy of Batman villains, including a look at how the Scarecrow's fear toxin affects the common man, and a special story written by Tom Taylor with art by Brad Walker that teams the Dark Knight Detective with Detective Chimp.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-secret-files-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="to you, the immortal" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Drama, Fantasy, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>to you, the immortal</ten_truyen>
 		<ma_truyen>to-you-the-immortal</ma_truyen>
@@ -243,31 +270,4 @@
 		<gioi_thieu>Since ancient times, witches fought demons to save the world. However everything changed 100 years ago. The clan of witches secluded themselves in the mountains with a shield enchantment. Only the talented ones are able to freely enter and exit. And among them predicted that the clan of witches would destroyed by the one with siler hair. Daughter of the clan's patriarch, a head of silver hair, born to change the skies...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/yue-shang-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="avengers (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>avengers (2018)</ten_truyen>
-		<ma_truyen>avengers-2018</ma_truyen>
-        <tac_gia>Jason Aaron, Ed McGuinness</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Thor Odinson. Steve Rogers. Tony Stark. The Big Three of the Avengers are reunited at last! And just in time to save the world from total annihilation at the hands of their most powerful enemies yet: the 2000-foot-tall space gods known as Celestials. Behold the coming of the Final Host. Who will answer the call to assemble for a wild new era of Earth's Mightiest Heroes? Hint: one of them has a flaming skull for a head. And what strange, world-shaking connection exists between the Final Host and Odin's ancient band of Prehistoric Avengers?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="go go power rangers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>go go power rangers</ten_truyen>
-		<ma_truyen>go-go-power-rangers</ma_truyen>
-        <tac_gia>Ryan Parrott, Dan Mora</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/go-go-power-rangers/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The untold, personal story of what happens to Jason, Kim, Trini, Zack, and Billy following in the days after they first became Power Rangers. Fighting evil is hard, but surviving high school may be even harder-welcome to real life in Angel Grove.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/go-go-power-rangers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-men: black - mojo" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>x-men: black - mojo</ten_truyen>
-		<ma_truyen>x-men-black-mojo</ma_truyen>
-        <tac_gia>Scott Aukerman, Lonnie Nadler, Zac Thompson, Andre Lima Araujo, Geraldo Borges, Nick Bradshaw</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/mojo_1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE SPINELESS SHOWMAN TAKES CENTER STAGE! That's right - that most successful producer ever to pack the cross-time airwaves, the man himself, MOJO, has yet another plan in place the boost his ratings at the X-Men's expense! And I'm sure he would say it's THE MOST IMPORTANT COMIC BOOK YOU'LL EVER READ! PLUS: Part 2 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-mojo-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

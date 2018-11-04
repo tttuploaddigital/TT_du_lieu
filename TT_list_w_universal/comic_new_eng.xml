@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="heroes in crisis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>heroes in crisis</ten_truyen>
+		<ma_truyen>heroes-in-crisis</ma_truyen>
+        <tac_gia>Tom King, Clay Mann</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/heroes-in-crisis/1_medium.jpg</hinh_nho>
+        <gioi_thieu>There's a new kind of crisis threatening the heroes of the DC Universe, ripped from real-world headlines by C.I.A.-operative-turned-comics-writer Tom King: How does a superhero handle PTSD? Welcome to Sanctuary, an ultra-secret hospital for superheroes who've been traumatized by crime-fighting and cosmic combat. But something goes inexplicably wrong when many patients wind up dead, with two well-known operators as the prime suspects: Harley Quinn and Booster Gold! It's up to the DC Trinity of Superman, Wonder Woman and Batman to investigate but can they get the job done in the face of overwhelming opposition?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/heroes-in-crisis-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="spider-force" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>spider-force</ten_truyen>
+		<ma_truyen>spider-force</ma_truyen>
+        <tac_gia>Christopher Priest, Shane Davis, Siquiera</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-force/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A SPIDER-GEDDON TIE IN! The deadliest task in all of SPIDER-GEDDON has come up and Kaine has stepped forward for what he's sure will be a suicide mission. But he can't do it alone and Jessica Drew, A.K.A. Spider-Woman has signed on to help, but has Kaine told her the whole truth? With Ashley Barton, from the OLD MAN LOGAN universe, and two new characters (Astro-Spider and Spider-Kid), Kaine’s team is complete and their first mission may be their last!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-force-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="batman: secret files" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman: secret files</ten_truyen>
+		<ma_truyen>batman-secret-files</ma_truyen>
+        <tac_gia>Jordie Bellaire, Cheryl Lynn Eaton, Tom King, Tom Taylor, Ram V, Elena Casagrande, Jorge Fornes, Mikel Janin, Jill Thompson, Brad Walker</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-(2016)/secret-files_1_medium.jpg</hinh_nho>
+        <gioi_thieu>Delve into Batman's case histories and discover brand-new stories by some of comics' most exciting talents. The BATMAN team of Tom King and Mikel Janin provides a framing sequence, setting up our hand-picked teams of creators to take a look at Bat-mysteries past and present. Featuring a bevy of Batman villains, including a look at how the Scarecrow's fear toxin affects the common man, and a special story written by Tom Taylor with art by Brad Walker that teams the Dark Knight Detective with Detective Chimp.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-secret-files-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="infinity wars: sleepwalker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>infinity wars: sleepwalker</ten_truyen>
 		<ma_truyen>infinity-wars-sleepwalker</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hawkman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hawkman (2018)</ten_truyen>
-		<ma_truyen>hawkman-2018</ma_truyen>
-        <tac_gia>Jeff Lemire, Robert Venditti, Bryan Hitch, Andrew currie, Alex Sinclair</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="fathom (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>fathom (2018)</ten_truyen>
-		<ma_truyen>fathom-2018</ma_truyen>
-        <tac_gia>Ron Marz, Siya Oum, Peter Steigerwald</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>This all-new adventure for Aspen's preeminent hero sees her attempt to navigate an ever-changing world where The Blue are not only present above the surface-but exploited in new and dangerous ways. When a rival nation to The States decides to take control of the global landscape by tapping into the power of The Blue, Aspen Matthews discovers that a new adversary has risen to challenge the notion that she is the most powerful person on the planet-and humanity may suffer the consequences!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fathom-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="crossed plus one hundred: mimic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Post-apocalyptic" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>crossed plus one hundred: mimic</ten_truyen>
-		<ma_truyen>crossed-plus-one-hundred-mimic</ma_truyen>
-        <tac_gia>Christos N. Gage, Patrick Shand, Emiliano Urdinola, Raulo Caceres</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/crossed-plus-100-mimic/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Crossed + One Hundred: Mimic continues to story of the disciples of Beau Salt, the serial killer who despite being infected fully retained his sanity, invading military bases to take their best and turn them to the Crossed side.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/crossed-plus-one-hundred-mimic-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
