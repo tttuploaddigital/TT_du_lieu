@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="hunter age" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Romance" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>hunter age</ten_truyen>
+		<ma_truyen>hunter-age</ma_truyen>
+		<tac_gia>Firepower Panda</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>http://avatar.mkklcdnv2.com/avatar_manga/21553-tf917684.jpg</hinh_nho>
+		<gioi_thieu>A naive youngster, ignorant of the tragedy that happened 16 years ago, travels with the sworn enemy of his tribe; a Princess out on an excursion, due to the internal conflicts within the royal family, has to risk her life and survive in the mountains; A prodigy carrying the hopes of the entire tribe, at this very moment, doesn't have much time left in this world... The 3 of them meet in a world fraught with dangers, will they be able to free themselves from their accursed fate?</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/hunter-age-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hardcore leveling warrior" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Shounen., Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>hardcore leveling warrior</ten_truyen>
+		<ma_truyen>hardcore-leveling-warrior</ma_truyen>
+		<tac_gia>Kim Se Hun</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/38858/1/200.jpg</hinh_nho>
+		<gioi_thieu>'Those who clear quests, shall receive everything.' An RPG adventure with Hardcore Leveling Warrior and his allies, set in a lucid reality.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/hardcore-leveling-warrior-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="immortal merchant" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Harem" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>immortal merchant</ten_truyen>
+		<ma_truyen>immortal-merchant</ma_truyen>
+		<tac_gia>Liuhua Man Chuang Tu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/fd/88/fd8805a34c74666e7c48f37baf83233d36de62ab_29238_200_280.jpg</hinh_nho>
+		<gioi_thieu>Other people cultivate I open my store, other people shut in and cultivate I go for bidding sales, people tease me full of bronze smell, I tease other people full of fakes pride/honour, looking at those upper deities have to kneel down and negotiate with me makes me happy... watch me using gold silver jade to make my dao...</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/immortal-merchant-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="heroes in crisis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>heroes in crisis</ten_truyen>
 		<ma_truyen>heroes-in-crisis</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/d4/c2/d4c210d82e8b386769ddbf06ba4aa913aec2aa72_23577_200_283.jpg</hinh_nho>
 		<gioi_thieu>Amazing story about one martial arts journey through marriage, fatherhood, and battles.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/peerless-dad-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="spirit sword sovereign" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>spirit sword sovereign</ten_truyen>
-		<ma_truyen>spirit-sword-sovereign</ma_truyen>
-		<tac_gia>Iciyuan</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/85/39/853971eb26667561892c03643aef82a4af4e2fd6_28845_200_267.jpg</hinh_nho>
-		<gioi_thieu>Once the spirit sword roars, within heaven, earth and the three worlds, I shall reign as the sovereign! Those who do not submit shall die!</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/spirit-sword-sovereign-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="holy ancestor" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Martial arts" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>holy ancestor</ten_truyen>
-		<ma_truyen>holy-ancestor</ma_truyen>
-		<tac_gia>Ao Tian Wu Hen</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/f8/bb/f8bb2a559a65546482a51601e3ef1d76e9254f19_34746_200_280.jpg</hinh_nho>
-		<gioi_thieu>This is a brand new upgraded divine world. There are King Zhou, Jiang Ziya, Su Yuji and Yang Lan. All of them are peak figures here. Also, there are Kings and Three Emperors of Huoyun Cave here. There are Saints and Daoist sects here. Ancient Gods and Devils, Chi You and Xing Tian are here too. Last but not least, we also have a youth named Luo Lie. He will open up a new divine era where</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/holy-ancestor-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="yue shang" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Martial arts, Romance, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>yue shang</ten_truyen>
-		<ma_truyen>yue-shang</ma_truyen>
-		<tac_gia>Ai Qing, Mo Huan</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-		<hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/44/d1/44d178a3dad7e95fe0ac357cbb78aa4ee749f150_28703_200_267.jpg</hinh_nho>
-		<gioi_thieu>Since ancient times, witches fought demons to save the world. However everything changed 100 years ago. The clan of witches secluded themselves in the mountains with a shield enchantment. Only the talented ones are able to freely enter and exit. And among them predicted that the clan of witches would destroyed by the one with siler hair. Daughter of the clan's patriarch, a head of silver hair, born to change the skies...</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/yue-shang-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
