@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>beastars</ten_truyen>
+		<ma_truyen>beastars</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
+		<chap_moi>chap 104</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>golden kamui</ten_truyen>
+		<ma_truyen>golden-kamui</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/golden-kamui-eng.xml</file_xml>
+		<chap_moi>chap 178</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>overlord</ten_truyen>
+		<ma_truyen>overlord</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/29252/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/overlord-eng.xml</file_xml>
+		<chap_moi>chap 42</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kengan ashua</ten_truyen>
+		<ma_truyen>kengan-ashua</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kengan-ashua-eng.xml</file_xml>
+		<chap_moi>chap 171</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>giant killing</ten_truyen>
+		<ma_truyen>giant-killing</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
+		<chap_moi>chap 279</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>darwin's game</ten_truyen>
+		<ma_truyen>darwin-s-game</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
+		<chap_moi>chap 55</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dice: the cube that changes everything</ten_truyen>
+		<ma_truyen>dice-the-cube-that-changes-everything</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/22106/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/dice-the-cube-that-changes-everything-eng.xml</file_xml>
+		<chap_moi>chap 258</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>doulou dalu</ten_truyen>
+		<ma_truyen>doulou-dalu</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/26543/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/doulou-dalu-eng.xml</file_xml>
+		<chap_moi>chap 214</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>noblesse</ten_truyen>
+		<ma_truyen>noblesse</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/noblesse-eng.xml</file_xml>
+		<chap_moi>chap 535</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>tony stark: iron man</ten_truyen>
 		<ma_truyen>tony-stark-iron-man</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/tony-stark-iron-man/1_medium.jpg</hinh_nho>
@@ -167,47 +230,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/n/nancy-drew-(2018)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nancy-drew-2018-eng.xml</file_xml>
 		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>vinland saga</ten_truyen>
-		<ma_truyen>vinland-saga</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/10869/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/vinland-saga-eng.xml</file_xml>
-		<chap_moi>chap 156</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tate no yuusha no nariagari</ten_truyen>
-		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tate-no-yuusha-no-nariagari-eng.xml</file_xml>
-		<chap_moi>chap 48</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hantsu x torasshu</ten_truyen>
-		<ma_truyen>hantsu-x-torasshu</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3495/9/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hantsu-x-torasshu-eng.xml</file_xml>
-		<chap_moi>chap 138</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tales of demons and gods</ten_truyen>
-		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tales-of-demons-and-gods-eng.xml</file_xml>
-		<chap_moi>chap 196.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tamen de gushi</ten_truyen>
-		<ma_truyen>tamen-de-gushi</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/29522/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tamen-de-gushi-eng.xml</file_xml>
-		<chap_moi>chap 179</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>19 days</ten_truyen>
-		<ma_truyen>19-days</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28998/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/19-days-eng.xml</file_xml>
-		<chap_moi>chap 262</chap_moi>
 	</truyen>
 </danh_sach_truyen>
