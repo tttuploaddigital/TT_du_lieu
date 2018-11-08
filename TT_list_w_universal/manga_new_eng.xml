@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="platinum end" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Ecchi, Mature, Mystery, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>platinum end</ten_truyen>
+		<ma_truyen>platinum-end</ma_truyen>
+		<tac_gia>Ohba Tsugumi, Obata Takeshi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/36176/4/200.jpg</hinh_nho>
+		<gioi_thieu>The story tells of a human and an angel, and centers around Mirai Kakehashi, a boy who 'does not seek out hope in order to live.'</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/platinum-end-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="p to jk" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>p to jk</ten_truyen>
+		<ma_truyen>p-to-jk</ma_truyen>
+		<tac_gia>Miyoshi Maki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27317/2/200.jpg</hinh_nho>
+		<gioi_thieu>Kako fell in love with Kouta, a guy who saved her in a mixer while she's posing as a 22-year-old girl, only to find out the next day that he's a police officer. Just when they were getting closer to each other, he realized she's actually a high school student and distanced himself from her. But Kako continued her advances and accidentally got injured while protecting him, so he eventually decided to give into his feelings and face the complications of a policeman having a relationship with a high school girl.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/p-to-jk-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="eyeshield 21" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>eyeshield 21</ten_truyen>
+		<ma_truyen>eyeshield-21</ma_truyen>
+		<tac_gia>Inagaki Riichiro, Murata Yuusuke</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2658/1/200.jpg</hinh_nho>
+		<gioi_thieu>Wimpy Sena Kobayakawa has been running away from bullies all his life. But when the football gear comes on, things change--Sena's speed and uncanny ability to elude big bullies just might give him what it takes to become a great high school football hero! Enjoy all the bone-crushing action and slapstick comedy that this heartwarming coming-of-age story has to offer.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/eyeshield-21-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="to you, the immortal" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Drama, Fantasy, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>to you, the immortal</ten_truyen>
 		<ma_truyen>to-you-the-immortal</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/35974/1/200.jpg</hinh_nho>
 		<gioi_thieu>The manga Nomu Joshi ('Drinking Girls') by Ukatsu ('Careless') debuted in the magazine Manga Club on July 4. It features three friends, all women aged 29, who get together and socialize regularly and indulge in their common passion: drinking. Michiko Takase, the office lady heroine, prefers beer; Misono Miyauchi, a short-haired, muscular book store worker, likes sake; and Yuki Shinonome, the feminine housewife, drinks everything. The manga follows them as they visit hot springs, beer gardens, bars and more to sample different drinks, pair them with delicious side dishes, and chat about work, their family, how to keep warm while wearing skirts, etc.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nomi-joshi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="himekishi ga classmate!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Ecchi, Fantasy, Harem, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>himekishi ga classmate!</ten_truyen>
-		<ma_truyen>himekishi-ga-classmate</ma_truyen>
-		<tac_gia>Ekz, No. Gomesu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/33088/1/200.jpg</hinh_nho>
-		<gioi_thieu>After he and his entire class die on a field trip, Odamori accepts an offer from a mysterious man to be reincarnated. However his new job turns out to be that of a 'Slavemancer' with the power to dominate the minds of others and turn them into his toys, which he happily takes on. Soon however his evil actions lead to a Princess Knight (who turns out to be one of his previous, more popular classmates) being dispatched to apprehend him. But Odamori of course has something different planned for their reunion.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/himekishi-ga-classmate-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="sidooh" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Historical, Mature, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>sidooh</ten_truyen>
-		<ma_truyen>sidooh</ma_truyen>
-		<tac_gia>Takahashi Tsutomu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9200/2/200.jpg</hinh_nho>
-		<gioi_thieu>During the political upheavals and social strife at the end of the Tokugawa Shogunate in Japan (1855), two parentless brothers Yukimura Shoutarou and Yukimura Gentarou struggles to survive in these turbulent times. With their only possession being their deceased father's sword and clinging onto the wisdom of their mother's final words, the brothers seek to embark on the Path of the Warrior: Sidooh!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sidooh-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="uzumaki" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mature, Mystery, Psychological, Seinen, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>uzumaki</ten_truyen>
-		<ma_truyen>uzumaki</ma_truyen>
-		<tac_gia>Itou Junji</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/10803/2/200.jpg</hinh_nho>
-		<gioi_thieu> Kurozu-cho, a small fogbound town on the coast of Japan, is cursed. According to Shuichi Saito, the withdrawn boyfriend of teenager Kirie Goshima, their town is haunted not by a person or being but by a pattern: uzumaki, the spiral, the hypnotic secret shape of the world. It manifests itself in small ways: seashells, ferns, whirlpools in water, whirlwinds in air. And in large ways: the spiral marks on people's bodies, the insane obsessions of Shuichi's father, the voice from the cochlea in your inner ear. As the madness spreads, the inhabitants of Kurozu-cho are pulled ever deeper, as if into a whirlpool from which there is no return...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/uzumaki-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

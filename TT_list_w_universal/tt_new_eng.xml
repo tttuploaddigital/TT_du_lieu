@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="platinum end" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Ecchi, Mature, Mystery, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>platinum end</ten_truyen>
+		<ma_truyen>platinum-end</ma_truyen>
+		<tac_gia>Ohba Tsugumi, Obata Takeshi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/36176/4/200.jpg</hinh_nho>
+		<gioi_thieu>The story tells of a human and an angel, and centers around Mirai Kakehashi, a boy who 'does not seek out hope in order to live.'</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/platinum-end-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="p to jk" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>p to jk</ten_truyen>
+		<ma_truyen>p-to-jk</ma_truyen>
+		<tac_gia>Miyoshi Maki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27317/2/200.jpg</hinh_nho>
+		<gioi_thieu>Kako fell in love with Kouta, a guy who saved her in a mixer while she's posing as a 22-year-old girl, only to find out the next day that he's a police officer. Just when they were getting closer to each other, he realized she's actually a high school student and distanced himself from her. But Kako continued her advances and accidentally got injured while protecting him, so he eventually decided to give into his feelings and face the complications of a policeman having a relationship with a high school girl.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/p-to-jk-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="eyeshield 21" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>eyeshield 21</ten_truyen>
+		<ma_truyen>eyeshield-21</ma_truyen>
+		<tac_gia>Inagaki Riichiro, Murata Yuusuke</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2658/1/200.jpg</hinh_nho>
+		<gioi_thieu>Wimpy Sena Kobayakawa has been running away from bullies all his life. But when the football gear comes on, things change--Sena's speed and uncanny ability to elude big bullies just might give him what it takes to become a great high school football hero! Enjoy all the bone-crushing action and slapstick comedy that this heartwarming coming-of-age story has to offer.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/eyeshield-21-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="hunter age" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Romance" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>hunter age</ten_truyen>
 		<ma_truyen>hunter-age</ma_truyen>
@@ -233,41 +260,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/29051/2/200.jpg</hinh_nho>
 		<gioi_thieu>The romantic comedy depicts a hapless protagonist and his beautiful love interest - who is split into two girls by a divine power. The 'Golden Girlfriend' is the graceful and ladylike type, while the 'Silver Girlfriend' is the mischievous, foulmouthed, and straightforward type.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kin-no-kanojo-gin-no-kanojo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="flame of recca" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Martial arts, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>flame of recca</ten_truyen>
-		<ma_truyen>flame-of-recca</ma_truyen>
-		<tac_gia>Anzai Nobuyuki</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://www.mangaupdates.com/image/i165836.jpg</hinh_nho>
-		<gioi_thieu>Flame of Recca follows the story of a teenage boy named Recca Hanabishi, who is interested in ninja and claims to be one himself. He often gets into fights because he made it publicly known that the person who manages to defeat him will earn his services as a loyal ninja. Despite this, he eventually pledges his loyalty and services as a ninja to Yanagi Sakoshita, a girl with the innate ability to heal any wound/injury, because of her kindess and compassion. Recca soon discovers that he possesses the innate ability to control/manipulate flames, and eventually learns that he is actually the son of the sixth generation leader of the Hokage, a ninja clan that was wiped out by Oda Nobunaga in 1576, roughly 400 years before the series' present day!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/flame-of-recca-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="unbalance x 2" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Harem, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>unbalance x 2</ten_truyen>
-		<ma_truyen>unbalance-x-2</ma_truyen>
-		<tac_gia>Lim Dall-young, Lee Soo Hyun</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/29/f8/29f804f24a3a565cd194c2e6e841b86a545996fb_41135_200_288.jpg</hinh_nho>
-		<gioi_thieu>A young man finds and returns a lost wallet and cell phone to a beautiful young lady, thus begins the destined relationship between two strangers. Sound typical? Well then, how about making the young lady the young man's future homeroom teacher, and give them both a twisted sense of right and wrong. And just for kicks, let's have the young man help himself to a self proclaimed reward from the lost wallet before returning it... but of course, this scenario wouldn't be complete unless the young lady was very unforgiving when it came to teaching one of her students a lesson on morals.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/unbalance-x-2-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="my love tiger" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Fantasy, Harem, Romance, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>my love tiger</ten_truyen>
-		<ma_truyen>my-love-tiger</ma_truyen>
-		<tac_gia>Yoon Jae Ho, Carnel</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/30148/2/200.jpg</hinh_nho>
-		<gioi_thieu>Sung Hoon was a normal High School student, but one day he finds himself with a tiger that Hwangun didn't marry, and is told that the world will end if he doesn't marry that tiger. The story begins with the cute smile of the tiger girl.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/my-love-tiger-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="peerless dad" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Fantasy, Slice of life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>peerless dad</ten_truyen>
-		<ma_truyen>peerless-dad</ma_truyen>
-		<tac_gia>Kyoungchan No, No Kyoung Chan, Hyun Suk Lee</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/d4/c2/d4c210d82e8b386769ddbf06ba4aa913aec2aa72_23577_200_283.jpg</hinh_nho>
-		<gioi_thieu>Amazing story about one martial arts journey through marriage, fatherhood, and battles.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/peerless-dad-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
