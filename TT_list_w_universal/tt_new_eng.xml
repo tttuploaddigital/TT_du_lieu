@@ -261,4 +261,13 @@
 		<gioi_thieu>The romantic comedy depicts a hapless protagonist and his beautiful love interest - who is split into two girls by a divine power. The 'Golden Girlfriend' is the graceful and ladylike type, while the 'Silver Girlfriend' is the mischievous, foulmouthed, and straightforward type.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kin-no-kanojo-gin-no-kanojo-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="flame of recca" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Martial arts, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>flame of recca</ten_truyen>
+		<ma_truyen>flame-of-recca</ma_truyen>
+		<tac_gia>Anzai Nobuyuki</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://www.mangaupdates.com/image/i165836.jpg</hinh_nho>
+		<gioi_thieu>Flame of Recca follows the story of a teenage boy named Recca Hanabishi, who is interested in ninja and claims to be one himself. He often gets into fights because he made it publicly known that the person who manages to defeat him will earn his services as a loyal ninja. Despite this, he eventually pledges his loyalty and services as a ninja to Yanagi Sakoshita, a girl with the innate ability to heal any wound/injury, because of her kindess and compassion. Recca soon discovers that he possesses the innate ability to control/manipulate flames, and eventually learns that he is actually the son of the sixth generation leader of the Hokage, a ninja clan that was wiped out by Oda Nobunaga in 1576, roughly 400 years before the series' present day!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/flame-of-recca-eng.xml</file_xml>
+	</truyen>
 </danh_sach_truyen>
