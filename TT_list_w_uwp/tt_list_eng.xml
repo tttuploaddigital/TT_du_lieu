@@ -2718,6 +2718,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>EXTERMINATE THE PAST. ELIMINATE THE FUTURE. Cyclops. Iceman. Angel. Beast. Marvel Girl. The original team of teen mutants brought together by Professor Charles Xavier many years ago have been shunted through time to find a world they barely recognize but were determined to help. Now, finding themselves targeted for death, the future of mutantkind lies squarely in the hands of its past.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/extermination-2018-eng.xml</file_xml>
     </truyen>
+	<truyen ten="eyeshield 21" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>eyeshield 21</ten_truyen>
+		<ma_truyen>eyeshield-21</ma_truyen>
+		<tac_gia>Inagaki Riichiro, Murata Yuusuke</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2658/1/200.jpg</hinh_nho>
+		<gioi_thieu>Wimpy Sena Kobayakawa has been running away from bullies all his life. But when the football gear comes on, things change--Sena's speed and uncanny ability to elude big bullies just might give him what it takes to become a great high school football hero! Enjoy all the bone-crushing action and slapstick comedy that this heartwarming coming-of-age story has to offer.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/eyeshield-21-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="falcon (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>falcon (2017)</ten_truyen>
 		<ma_truyen>falcon-2017</ma_truyen>
@@ -3816,14 +3825,14 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>Surh Jung-woo developed Gynophobia because of his trauma when he was younger. Even as a college student he is still afraid of woman, but Yoon hae-soo is a angel like existence for Jung-woo because of his fear. He starts dating after thinking he could trust Hae-soo, but while putting everything he has on line for her he falls into debt and gets cornered. After he gets betrayed by Hae-soo the person to save him is the most beautiful girl of this college, and the famous professor Pi Eun-na. What is this beautiful teacher after, and why did she help jung-woo?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/hyulla-s-race-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="i am a hero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Horror, Mature, Psychological, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+	<truyen ten="i am a hero" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Horror, Mature, Psychological, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>i am a hero</ten_truyen>
 		<ma_truyen>i-am-a-hero</ma_truyen>
 		<tac_gia>Hanazawa Kengo</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
+		<tinh_trang>Completed</tinh_trang>
 		<hinh_nho>https://file-thumb.mpcdn.net/4062/1/200.jpg</hinh_nho>
 		<gioi_thieu>Hideo Suzuki is a thirty-five year old mangaka assistant struggling to be the hero in his own life by breaking back into the lime light with a new serial all the while juggling his relationship with his girlfriend and his own delusions. However, as hard as Hideo may try, the world seems to have a different set of plans for him; sinister and dark machinations that completely overturn his reality as he knows it.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/i-am-a-hero-eng.xml</file_xml>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/i-am-a-hero-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="i am a killer maid" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Gender bender, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>i am a killer maid</ten_truyen>
@@ -6063,6 +6072,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>Witness the titular Punpun - who is depicted as a tiny, caricatured bird in an otherwise normal human setting - as he copes with his dysfunctional family and friends, his love interest, his oncoming adolescence and his hyperactive mind.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/oyasumi-punpun-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="p to jk" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>p to jk</ten_truyen>
+		<ma_truyen>p-to-jk</ma_truyen>
+		<tac_gia>Miyoshi Maki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/27317/2/200.jpg</hinh_nho>
+		<gioi_thieu>Kako fell in love with Kouta, a guy who saved her in a mixer while she's posing as a 22-year-old girl, only to find out the next day that he's a police officer. Just when they were getting closer to each other, he realized she's actually a high school student and distanced himself from her. But Kako continued her advances and accidentally got injured while protecting him, so he eventually decided to give into his feelings and face the complications of a policeman having a relationship with a high school girl.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/p-to-jk-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="panlong" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>panlong</ten_truyen>
 		<ma_truyen>panlong</ma_truyen>
@@ -6162,6 +6180,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <gioi_thieu>Meet Eel O'Brian: a petty thug, thief and con artist who runs a strip club. Hey, he's also dead, at least according to the gang that tossed him out like last week's garbage. Literally. Don't worry, though he bounced back from all that, and now he's trying to make a new life for himself, but the effort is stretching him pretty thin.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/plastic-man-2018-eng.xml</file_xml>
     </truyen>
+	<truyen ten="platinum end" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Ecchi, Mature, Mystery, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>platinum end</ten_truyen>
+		<ma_truyen>platinum-end</ma_truyen>
+		<tac_gia>Ohba Tsugumi, Obata Takeshi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/36176/4/200.jpg</hinh_nho>
+		<gioi_thieu>The story tells of a human and an angel, and centers around Mirai Kakehashi, a boy who 'does not seek out hope in order to live.'</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/platinum-end-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="pokemon special" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>pokemon special</ten_truyen>
 		<ma_truyen>pokemon-special</ma_truyen>
