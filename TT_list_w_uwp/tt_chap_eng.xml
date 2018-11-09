@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>champions (2016)</ten_truyen>
+		<ma_truyen>champions-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/champions/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/champions-2016-eng.xml</file_xml>
+		<chap_moi>issue 26</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nightwing (2016)</ten_truyen>
+		<ma_truyen>nightwing-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/nightwing-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nightwing-2016-eng.xml</file_xml>
+		<chap_moi>issue 52</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>weapon x (2017)</ten_truyen>
+		<ma_truyen>weapon-x-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-x-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weapon-x-2017-eng.xml</file_xml>
+		<chap_moi>issue 25</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shingeki no kyojin</ten_truyen>
+		<ma_truyen>shingeki-no-kyojin</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shingeki-no-kyojin-eng.xml</file_xml>
+		<chap_moi>chap 111</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nanatsu no taizai</ten_truyen>
+		<ma_truyen>nanatsu-no-taizai</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
+		<chap_moi>chap 288</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 579</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>death of the inhumans</ten_truyen>
+		<ma_truyen>death-of-the-inhumans</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/death-of-the-inhumans/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/death-of-the-inhumans-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>deathstroke (2016)</ten_truyen>
+		<ma_truyen>deathstroke-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deathstroke-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deathstroke-2016-eng.xml</file_xml>
+		<chap_moi>issue 37</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the walking dead  </ten_truyen>
+		<ma_truyen>the-walking-dead</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-walking-dead/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-walking-dead-eng.xml</file_xml>
+		<chap_moi>issue 185</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ao no exorcist</ten_truyen>
+		<ma_truyen>ao-no-exorcist</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/772/12/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ao-no-exorcist-eng.xml</file_xml>
+		<chap_moi>chap 105</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>death march kara hajimaru isekai kyousoukyoku</ten_truyen>
+		<ma_truyen>death-march-kara-hajimaru-isekai-kyousoukyoku</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/34701/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/death-march-kara-hajimaru-isekai-kyousoukyoku-eng.xml</file_xml>
+		<chap_moi>chap 46</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>world's end harem</ten_truyen>
+		<ma_truyen>world-s-end-harem</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
+		<chap_moi>chap 52</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the great ruler</ten_truyen>
+		<ma_truyen>the-great-ruler</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/34654/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/the-great-ruler-eng.xml</file_xml>
+		<chap_moi>chap 77</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>my love tiger</ten_truyen>
+		<ma_truyen>my-love-tiger</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/30148/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/my-love-tiger-eng.xml</file_xml>
+		<chap_moi>chap 118</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>autophagy regulation</ten_truyen>
+		<ma_truyen>autophagy-regulation</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/30485/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/autophagy-regulation-eng.xml</file_xml>
+		<chap_moi>chap 202</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>infinity wars  </ten_truyen>
 		<ma_truyen>infinity-wars</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-prime/1_medium.jpg</hinh_nho>
@@ -104,110 +209,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/noblesse-eng.xml</file_xml>
 		<chap_moi>chap 535</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tony stark: iron man</ten_truyen>
-		<ma_truyen>tony-stark-iron-man</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/tony-stark-iron-man/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/tony-stark-iron-man-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>marvel two-in-one (2017)</ten_truyen>
-		<ma_truyen>marvel-two-in-one-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-two-in-one/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-two-in-one-2017-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the wild storm</ten_truyen>
-		<ma_truyen>the-wild-storm</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wild-storm/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-wild-storm-eng.xml</file_xml>
-		<chap_moi>issue 18</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>onepunch-man</ten_truyen>
-		<ma_truyen>onepunch-man</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onepunch-man-eng.xml</file_xml>
-		<chap_moi>chap 146</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 286</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>black clover</ten_truyen>
-		<ma_truyen>black-clover</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
-		<chap_moi>chap 180</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>old man hawkeye</ten_truyen>
-		<ma_truyen>old-man-hawkeye</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-hawkeye/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-hawkeye-eng.xml</file_xml>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>invader zim</ten_truyen>
-		<ma_truyen>invader-zim</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/invader-zim/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invader-zim-eng.xml</file_xml>
-		<chap_moi>issue 36</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shanghai red</ten_truyen>
-		<ma_truyen>shanghai-red</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shanghai-red/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shanghai-red-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>haikyuu!!</ten_truyen>
-		<ma_truyen>haikyuu</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/21593/26/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haikyuu-eng.xml</file_xml>
-		<chap_moi>chap 325</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>sidooh</ten_truyen>
-		<ma_truyen>sidooh</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/9200/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sidooh-eng.xml</file_xml>
-		<chap_moi>chap 181</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kekkon yubiwa monogatari</ten_truyen>
-		<ma_truyen>kekkon-yubiwa-monogatari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/26026/7/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kekkon-yubiwa-monogatari-eng.xml</file_xml>
-		<chap_moi>chap 42</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>doupo cangqiong</ten_truyen>
-		<ma_truyen>doupo-cangqiong</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27914/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/doupo-cangqiong-eng.xml</file_xml>
-		<chap_moi>chap 236</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>red storm</ten_truyen>
-		<ma_truyen>red-storm</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/21499/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/red-storm-eng.xml</file_xml>
-		<chap_moi>chap 300</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the ravages of time</ten_truyen>
-		<ma_truyen>the-ravages-of-time</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/10144/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/the-ravages-of-time-eng.xml</file_xml>
-		<chap_moi>chap 509</chap_moi>
 	</truyen>
 </danh_sach_truyen>
