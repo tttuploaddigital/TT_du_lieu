@@ -1641,7 +1641,7 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <tac_gia>Mark Waid, Humberto Ramos</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/c/champions/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Following the fallout of CIVIL WAR II, Avengers Ms. Marvel, Nova and Spider-Man strike out on their own — joined by Cyclops, Viv Vision and the Totally Awesome Hulk! Six young heroes determined to change the world — and they're only the beginning!</gioi_thieu>
+        <gioi_thieu>Following the fallout of CIVIL WAR II, Avengers Ms. Marvel, Nova and Spider-Man strike out on their own - joined by Cyclops, Viv Vision and the Totally Awesome Hulk! Six young heroes determined to change the world — and they're only the beginning!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/champions-2016-eng.xml</file_xml>
     </truyen>
 	<truyen ten="chang ge xing" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Gender bender, Historical, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
@@ -6687,6 +6687,15 @@ This manga upload for Sie Per from Vietnam via request manga on website winphone
 		<gioi_thieu>Bi-Kwang is a handsome young warrior who becomes a drooling mess whenever he sees a pretty girl. Out on the road he meets an extraordinary swordfighter with no name who is searching for a legendary master warrior. Bi-Kwang promises to aid the swordfighter if he lets Bi-Kwang meet his beautiful sister. Of course, it turns out the swordfighter is the sister, Hwa-Rin Dahm, and she must switch identities to keep the plot moving along. Bi-Kwang is immediately smitten, and thus we have a triangle involving only two people.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/ruler-of-the-land-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="runaways (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>runaways (2017)</ten_truyen>
+		<ma_truyen>runaways-2017</ma_truyen>
+        <tac_gia> Rainbow Rowell, Kris Anka</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/runaways-(2017)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>GET READY TO RUN! The 'IT' book of the early 2000s with the original cast is back – Nico! Karolina! Molly! Chase! Old Lace! And, could it be? GERT?! The heart of the Runaways died years ago, but you won't believe how she returns! Superstar author Rainbow Rowell (Eleanor and Park, Carry On) makes her Marvel debut with fan-favorite artist Kris Anka (ALL-NEW X-MEN, CAPTAIN MARVEL) in the series that will shock you and break your heart!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/runaways-2017-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="rurouni kenshin" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Historical, Martial arts, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>rurouni kenshin</ten_truyen>
 		<ma_truyen>rurouni-kenshin</ma_truyen>
@@ -7577,6 +7586,15 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
         <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-(2016)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Soldier. War hero. Traitor. Captain Rick Flag was one of America's greatest military commanders before he was banished to a secret military prison. But after years of isolation, Flag's life changes forever when a woman called Amanda Waller offers him redemption in exchange for taking on the single most dangerous job in the entire DC Universe: keeping the Suicide Squad alive!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="suicide squad: black files" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>suicide squad: black files</ten_truyen>
+		<ma_truyen>suicide-squad-black-files</ma_truyen>
+        <tac_gia>Mike W. Barr, Jai Nitz, Phil Briones, Scot Eaton</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-black-files/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sebastian Faust, the U.S. government's top arcane operative, has gone rogue! To track down America’s most dangerous magician, Amanda Waller assembles a special-ops team unlike any other: an expendable coven of dark-arts experts including El Diablo, Enchantress and Gentleman Ghost. They are Suicide Squad Black, and they will take you to places where even the dead can die!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-black-files-eng.xml</file_xml>
     </truyen>
 	<truyen ten="suicide squad: hell to pay" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>suicide squad: hell to pay</ten_truyen>
@@ -9479,6 +9497,15 @@ This comic upload for Jitender Kumar via request comic by send email to tttdigit
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Cloned from a warrior, raised as a killer, Laura Kinney has gone through hell and come out the other side a hero. After a stint as the All-New Wolverine, she returns to her roots as X-23 to make sure no one ever has to go through the horrors she did. With her sister Gabby and their pet Jonathan in tow, X-23 forges her own destiny in this new series by Mariko Tamaki (HULK, HUNT FOR WOLVERINE: CLAWS OF A KILLER) and Juann Cabal (ALL-NEW WOLVERINE, ELEKTRA).</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="x-men: black - emma frost" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - emma frost</ten_truyen>
+		<ma_truyen>x-men-black-emma-frost</ma_truyen>
+        <tac_gia>Leah Williams, Chris Bachalo</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/emma-frost_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE DIAMOND DIVA STRIKES BACK! Before she was an X-Man, Emma Frost was White Queen of the Hellfire Club where she labored under the yolk of Sebastian Shaw, the Black King. Now she sets her sights on the club, determined to tear down the organization that wronged her...if she can convince the X-Men to help out. PLUS: Part 5 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-emma-frost-eng.xml</file_xml>
     </truyen>
 	<truyen ten="x-men: black - juggernaut" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>x-men: black - juggernaut</ten_truyen>
