@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 924</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hunter x hunter</ten_truyen>
+		<ma_truyen>hunter-x-hunter</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hunter-x-hunter-eng.xml</file_xml>
+		<chap_moi>chap 388</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dr. stone</ten_truyen>
+		<ma_truyen>dr-stone</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47716/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr-stone-eng.xml</file_xml>
+		<chap_moi>chap 82</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>world trigger</ten_truyen>
+		<ma_truyen>world-trigger</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/11153/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-trigger-eng.xml</file_xml>
+		<chap_moi>chap 167</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
+		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kumo-desu-ga-nani-ka-eng.xml</file_xml>
+		<chap_moi>chap 32.1</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>baby steps</ten_truyen>
+		<ma_truyen>baby-steps</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
+		<chap_moi>chap 327</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>shingeki no kyojin</ten_truyen>
 		<ma_truyen>shingeki-no-kyojin</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
@@ -167,47 +209,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/3495/9/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hantsu-x-torasshu-eng.xml</file_xml>
 		<chap_moi>chap 138</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kingdom  </ten_truyen>
-		<ma_truyen>kingdom</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
-		<chap_moi>chap 578</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>eden's zero</ten_truyen>
-		<ma_truyen>eden-s-zero</ma_truyen>
-        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
-		<chap_moi>chap 18</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>azumi</ten_truyen>
-		<ma_truyen>azumi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/22943/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/azumi-eng.xml</file_xml>
-		<chap_moi>chap 214</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kuroshitsuji</ten_truyen>
-		<ma_truyen>kuroshitsuji</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/5536/10/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kuroshitsuji-eng.xml</file_xml>
-		<chap_moi>chap 145</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gigant</ten_truyen>
-		<ma_truyen>gigant</ma_truyen>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/96/04/9604402428c74a40bce9f9d31ae89b5d05c4aa17_29170_200_310.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gigant-eng.xml</file_xml>
-		<chap_moi>chap 20</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>koi inu.</ten_truyen>
-		<ma_truyen>koi-inu</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/33554/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-inu-eng.xml</file_xml>
-		<chap_moi>chap 149</chap_moi>
 	</truyen>
 </danh_sach_truyen>
