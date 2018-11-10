@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="x-men: black - emma frost" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - emma frost</ten_truyen>
+		<ma_truyen>x-men-black-emma-frost</ma_truyen>
+        <tac_gia>Leah Williams, Chris Bachalo</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/emma-frost_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE DIAMOND DIVA STRIKES BACK! Before she was an X-Man, Emma Frost was White Queen of the Hellfire Club where she labored under the yolk of Sebastian Shaw, the Black King. Now she sets her sights on the club, determined to tear down the organization that wronged her...if she can convince the X-Men to help out. PLUS: Part 5 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-emma-frost-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="suicide squad: black files" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>suicide squad: black files</ten_truyen>
+		<ma_truyen>suicide-squad-black-files</ma_truyen>
+        <tac_gia>Mike W. Barr, Jai Nitz, Phil Briones, Scot Eaton</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-black-files/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sebastian Faust, the U.S. government's top arcane operative, has gone rogue! To track down America’s most dangerous magician, Amanda Waller assembles a special-ops team unlike any other: an expendable coven of dark-arts experts including El Diablo, Enchantress and Gentleman Ghost. They are Suicide Squad Black, and they will take you to places where even the dead can die!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-black-files-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="runaways (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>runaways (2017)</ten_truyen>
+		<ma_truyen>runaways-2017</ma_truyen>
+        <tac_gia> Rainbow Rowell, Kris Anka</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/runaways-(2017)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>GET READY TO RUN! The 'IT' book of the early 2000s with the original cast is back – Nico! Karolina! Molly! Chase! Old Lace! And, could it be? GERT?! The heart of the Runaways died years ago, but you won't believe how she returns! Superstar author Rainbow Rowell (Eleanor and Park, Carry On) makes her Marvel debut with fan-favorite artist Kris Anka (ALL-NEW X-MEN, CAPTAIN MARVEL) in the series that will shock you and break your heart!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/runaways-2017-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="heroes in crisis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>heroes in crisis</ten_truyen>
 		<ma_truyen>heroes-in-crisis</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/scooby-apocalypse/1_medium.jpg</hinh_nho>
         <gioi_thieu>Those meddling kids-Fred, Daphne, Velma, Shaggy, and their dog, Scooby-Doo-get more ghost-debunking than they bargained for when faced with a fundamental change in their world. The apocalypse has happened. Old rules about logic no longer apply. The creatures of the night are among us, and the crew of the Magical Mystery Machine has to fight to survive-because in the apocalyptic badlands of the near-future, the horrors are real!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/scooby-apocalypse-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hawkman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hawkman (2018)</ten_truyen>
-		<ma_truyen>hawkman-2018</ma_truyen>
-        <tac_gia>Jeff Lemire, Robert Venditti, Bryan Hitch, Andrew currie, Alex Sinclair</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="house of whispers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>house of whispers</ten_truyen>
-		<ma_truyen>house-of-whispers</ma_truyen>
-        <tac_gia>Jeff Lemire, Robert Venditti, Bryan Hitch, Andrew currie, Alex Sinclair</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/house-of-whispers-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/house-of-whispers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hawkman (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hawkman (2018)</ten_truyen>
-		<ma_truyen>hawkman-2018</ma_truyen>
-        <tac_gia>Jeff Lemire, Robert Venditti, Bryan Hitch, Andrew currie, Alex Sinclair</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Spinning out of the events of DARK NIGHTS: METAL, Carter Hall returns to the DC Universe! An explorer of the ancient and unknown, Hawkman finds himself embroiled in a long-standing mission to discover the true purpose of his many reincarnations. Carter races around the globe trying to piece together an ancient prophecy, but will he be able to face down his past lives lurking around every corner?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

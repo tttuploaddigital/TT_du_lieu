@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="x-men: black - emma frost" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-men: black - emma frost</ten_truyen>
+		<ma_truyen>x-men-black-emma-frost</ma_truyen>
+        <tac_gia>Leah Williams, Chris Bachalo</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/emma-frost_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE DIAMOND DIVA STRIKES BACK! Before she was an X-Man, Emma Frost was White Queen of the Hellfire Club where she labored under the yolk of Sebastian Shaw, the Black King. Now she sets her sights on the club, determined to tear down the organization that wronged her...if she can convince the X-Men to help out. PLUS: Part 5 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-emma-frost-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="suicide squad: black files" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>suicide squad: black files</ten_truyen>
+		<ma_truyen>suicide-squad-black-files</ma_truyen>
+        <tac_gia>Mike W. Barr, Jai Nitz, Phil Briones, Scot Eaton</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-black-files/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sebastian Faust, the U.S. government's top arcane operative, has gone rogue! To track down America’s most dangerous magician, Amanda Waller assembles a special-ops team unlike any other: an expendable coven of dark-arts experts including El Diablo, Enchantress and Gentleman Ghost. They are Suicide Squad Black, and they will take you to places where even the dead can die!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-black-files-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="runaways (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>runaways (2017)</ten_truyen>
+		<ma_truyen>runaways-2017</ma_truyen>
+        <tac_gia> Rainbow Rowell, Kris Anka</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/runaways-(2017)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>GET READY TO RUN! The 'IT' book of the early 2000s with the original cast is back – Nico! Karolina! Molly! Chase! Old Lace! And, could it be? GERT?! The heart of the Runaways died years ago, but you won't believe how she returns! Superstar author Rainbow Rowell (Eleanor and Park, Carry On) makes her Marvel debut with fan-favorite artist Kris Anka (ALL-NEW X-MEN, CAPTAIN MARVEL) in the series that will shock you and break your heart!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/runaways-2017-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="platinum end" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Ecchi, Mature, Mystery, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>platinum end</ten_truyen>
 		<ma_truyen>platinum-end</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>The Black Panther has disappeared, lost on a mission in space. And in his absence, everyone's looking at the next in line for the throne. But Shuri is happiest in a lab, surrounded by gadgets of her own creation. She'd rather be testing gauntlets than throwing them. But a nation without a leader is a vulnerable one - and Shuri may have to choose between Wakanda's welfare and her own.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
     </truyen>
-	<truyen ten="sky blue" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Romance, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>sky blue</ten_truyen>
-		<ma_truyen>sky-blue</ma_truyen>
-		<tac_gia>Kobayashi Daiki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9237/1/200.jpg</hinh_nho>
-		<gioi_thieu>Kazama's family died in a mysterious explosion when he was still young and since then, he has not been able to come to terms with their deaths or even with himself. He emotionally distances himself from everyone and his aggressive nature gets him the nick name 'Real Life Combat Game Character.' Years later, Kazama, now in high school, gets close to death after a car accident. As he accepts his fate, Sky Blue enters his consciousness. Somehow related to the multicolored meteors that were seen all around the world on the same day of Kazama's near fatal accident, Sky Blue is able to control his body. The teenage-looking Sky Blue is able to control Kazama's body movements and even his speech. He falls for the beautiful but cold Haioka Anna and when she gets kidnapped, Sky Blue takes over Kazama's body, unleashing enormous amounts of power and strength.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sky-blue-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kin no kanojo, gin no kanojo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Fantasy, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kin no kanojo, gin no kanojo</ten_truyen>
-		<ma_truyen>kin-no-kanojo-gin-no-kanojo</ma_truyen>
-		<tac_gia>Akai Maruboro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/29051/2/200.jpg</hinh_nho>
-		<gioi_thieu>The romantic comedy depicts a hapless protagonist and his beautiful love interest - who is split into two girls by a divine power. The 'Golden Girlfriend' is the graceful and ladylike type, while the 'Silver Girlfriend' is the mischievous, foulmouthed, and straightforward type.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kin-no-kanojo-gin-no-kanojo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="flame of recca" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Martial arts, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>flame of recca</ten_truyen>
-		<ma_truyen>flame-of-recca</ma_truyen>
-		<tac_gia>Anzai Nobuyuki</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://www.mangaupdates.com/image/i165836.jpg</hinh_nho>
-		<gioi_thieu>Flame of Recca follows the story of a teenage boy named Recca Hanabishi, who is interested in ninja and claims to be one himself. He often gets into fights because he made it publicly known that the person who manages to defeat him will earn his services as a loyal ninja. Despite this, he eventually pledges his loyalty and services as a ninja to Yanagi Sakoshita, a girl with the innate ability to heal any wound/injury, because of her kindess and compassion. Recca soon discovers that he possesses the innate ability to control/manipulate flames, and eventually learns that he is actually the son of the sixth generation leader of the Hokage, a ninja clan that was wiped out by Oda Nobunaga in 1576, roughly 400 years before the series' present day!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/flame-of-recca-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
