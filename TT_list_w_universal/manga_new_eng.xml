@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
-	<truyen ten="mahou shoujo site" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Horror, Mature, Mystery, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>mahou shoujo site</ten_truyen>
-		<ma_truyen>mahou-shoujo-site</ma_truyen>
-		<tac_gia>Sato Kentarou</tac_gia>
+	<truyen ten="akb49 - renai kinshi jourei" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Gender bender, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>akb49 - renai kinshi jourei</ten_truyen>
+		<ma_truyen>akb49-renai-kinshi-jourei</ma_truyen>
+		<tac_gia>Motoazabu Factory, Miyajima Reiji</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
-		<gioi_thieu>Asagiri Aya, a girl bullied at school and at home. One day, an eerie website, Mahou Shoujo Site, flashes on her computer screen and welcomes her to the Mahou Shoujo World.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
+        <hinh_nho>https://file-thumb.mpcdn.net/505/3/200.jpg</hinh_nho>
+		<gioi_thieu>This series is about a guy called Urakawa Minoru crossdressing as a girl to participate in a female idol group audition (akb48). The main objective is to help the girl he likes, Yoshinaga Hiroko, pass the audition. Yoshinaga Hiroko's dream is to become like her favorite idol who is in the akb48 group. This audition happens to be her final try, so Minoru crossdresses as Minori and took part in the audition to make sure she realizes her dream. Hiroko got qualified eventually, however, the shocking news was Minoru was qualified as well. Thus, the road to becoming a female idol begins...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akb49-renai-kinshi-jourei-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="kurosagi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mystery, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kurosagi</ten_truyen>
@@ -18,14 +18,14 @@
 		<gioi_thieu>White swindlers (shirosagi) are those that cheat people to take their money, red swindlers (akasagi) are those that swindle the opposite sex, and black swindlers (kurosagi) are those that cheat the white and red swindlers. After his family is swindled by white swindlers, Kurosaki sets out to avenge them by becoming a black swindler. Kurosagi won the 2008 Shogakukan Manga Award for seinen/general manga along with Tetsuji Sekiya's Bambino!.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kurosagi-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="akb49 - renai kinshi jourei" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Gender bender, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>akb49 - renai kinshi jourei</ten_truyen>
-		<ma_truyen>akb49-renai-kinshi-jourei</ma_truyen>
-		<tac_gia>Motoazabu Factory, Miyajima Reiji</tac_gia>
+	<truyen ten="mahou shoujo site" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Horror, Mature, Mystery, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>mahou shoujo site</ten_truyen>
+		<ma_truyen>mahou-shoujo-site</ma_truyen>
+		<tac_gia>Sato Kentarou</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/505/2/200.jpg</hinh_nho>
-		<gioi_thieu>This series is about a guy called Urakawa Minoru crossdressing as a girl to participate in a female idol group audition (akb48). The main objective is to help the girl he likes, Yoshinaga Hiroko, pass the audition. Yoshinaga Hiroko's dream is to become like her favorite idol who is in the akb48 group. This audition happens to be her final try, so Minoru crossdresses as Minori and took part in the audition to make sure she realizes her dream. Hiroko got qualified eventually, however, the shocking news was Minoru was qualified as well. Thus, the road to becoming a female idol begins...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akb49-renai-kinshi-jourei-eng.xml</file_xml>
+        <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
+		<gioi_thieu>Asagiri Aya, a girl bullied at school and at home. One day, an eerie website, Mahou Shoujo Site, flashes on her computer screen and welcomes her to the Mahou Shoujo World.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="platinum end" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Ecchi, Mature, Mystery, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>platinum end</ten_truyen>
