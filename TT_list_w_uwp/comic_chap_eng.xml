@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>star wars (2015)</ten_truyen>
+		<ma_truyen>star-wars-2015</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
+		<chap_moi>issue 56</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>harley quinn (2016)</ten_truyen>
+		<ma_truyen>harley-quinn-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
+		<chap_moi>issue 53</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>grimm fairy tales (2016)</ten_truyen>
+		<ma_truyen>grimm-fairy-tales-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-fairy-tales-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/grimm-fairy-tales-2016-eng.xml</file_xml>
+		<chap_moi>issue 23</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>adventures of the super sons</ten_truyen>
+		<ma_truyen>adventures-of-the-super-sons</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/adventures-of-the-super-sons/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/adventures-of-the-super-sons-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the last siege</ten_truyen>
+		<ma_truyen>the-last-siege</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-last-siege/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-last-siege-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the wicked righteous</ten_truyen>
+		<ma_truyen>the-wicked-righteous</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-wicked-righteous/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-wicked-righteous-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>cloak and dagger (2018)</ten_truyen>
 		<ma_truyen>cloak-and-dagger-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/c/cloak-and-dagger-(2018)/1_medium.jpg</hinh_nho>
@@ -187,27 +229,6 @@
 		<ma_truyen>belle-beast-hunter</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/belle-beast-hunter/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/belle-beast-hunter-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>multiple man</ten_truyen>
-		<ma_truyen>multiple-man</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/multiple-man-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/multiple-man-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>grimm fairy tales (2016)</ten_truyen>
-		<ma_truyen>grimm-fairy-tales-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-fairy-tales-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/grimm-fairy-tales-2016-eng.xml</file_xml>
-		<chap_moi>issue 22</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nancy drew (2018)</ten_truyen>
-		<ma_truyen>nancy-drew-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/nancy-drew-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nancy-drew-2018-eng.xml</file_xml>
 		<chap_moi>issue 5</chap_moi>
 	</truyen>
 </danh_sach_truyen>
