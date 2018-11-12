@@ -210,25 +210,4 @@
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shanghai-red-eng.xml</file_xml>
 		<chap_moi>issue 5</chap_moi>
 	</truyen>
-	<truyen>
-		<ten_truyen>infinity wars: iron hammer</ten_truyen>
-		<ma_truyen>infinity-wars-iron-hammer</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-iron-hammer/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-iron-hammer-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>revenge of wonderland</ten_truyen>
-		<ma_truyen>revenge-of-wonderland</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/revenge-of-wonderland/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/revenge-of-wonderland-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>belle: beast hunter</ten_truyen>
-		<ma_truyen>belle-beast-hunter</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/belle-beast-hunter/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/belle-beast-hunter-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
 </danh_sach_truyen>
