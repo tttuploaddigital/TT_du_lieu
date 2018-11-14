@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="batman/the maxx: arkham dreams" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman/the maxx: arkham dreams</ten_truyen>
+		<ma_truyen>batman-the-maxx-arkham-dreams</ma_truyen>
+        <tac_gia>Sam Kieth, John Layman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batmanthe-maxx/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Batman must face the strangest and most bizarre adventure of his career, as he meets comics' strangest and most bizarre hero... THE MAXX! IDW and DC Comics proudly present the most surreal, quirky, and wonderful crossover of all time! A devious new doctor at Arkham Asylum is conducting unconventional experiments into the human psyche, and he kicks off a chain reaction of disaster when he experiments on Arkham's newest patient, The Maxx! The city of Gotham is starting to merge with The Maxx's psychedelic mental landscape, known as the Outback, blurring the line between real and unreal. It's up to Batman to save not just Gotham, but all of reality, and he and The Maxx are going to have to travel through some of the darkest places imaginable-the twisted minds of Batman's greatest enemies!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-the-maxx-arkham-dreams-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="marvel knights: 20th" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>marvel knights: 20th</ten_truyen>
+		<ma_truyen>marvel-knights-20th</ma_truyen>
+        <tac_gia>Donny Cates, Travel Foreman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-knights-20th/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In celebration of the legendary imprint founded by Marvel's CCO Joe Quesada, a new crop of talent stands poised to tell a groundbreaking story across the Marvel Universe! In the cemetery, the blind man does not know who he is, or why he has come to this particular grave at this moment. He doesn't know the burly police officer with the wild story who has approached him. Or the strangely intense man who sits in the rear seat of the patrol car, his eyes flashing green. But all of that is about to change.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-knights-20th-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="van helsing: sword of heaven" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>van helsing: sword of heaven</ten_truyen>
+		<ma_truyen>van-helsing-sword-of-heaven</ma_truyen>
+        <tac_gia>Chuck Dixon, Julius Abrera</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/van-helsing-sword-of-heaven/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Is an ancient weapon feared by every undead creature a myth or a reality? Liesel is willing to risk everything, her life included, to get her hands on the legendary blade that could bring an end to vampirism the world over. Her quest takes her to a remote corner of India and beyond reality on an adventure that could bring her the vengeance she seeks if it doesn't drive her mad first.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/van-helsing-sword-of-heaven-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="x-men: black - emma frost" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>x-men: black - emma frost</ten_truyen>
 		<ma_truyen>x-men-black-emma-frost</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/sleepless-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Lady 'Poppy' Pyppenia is guarded by the Sleepless Knight Cyrenic, but danger is around every corner once the new king is coronated.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sleepless-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="farmhand" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>farmhand</ten_truyen>
-		<ma_truyen>farmhand</ma_truyen>
-        <tac_gia>Rob Guillory, Taylor Wells</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/farmhand/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Jedidiah Jenkins is a farmer-but his cash crop isn't corn or soy. Jed grows fast-healing, plug-and-play human organs. Lose a finger? Need a new liver? He's got you covered. Unfortunately, strange produce isn't the only thing Jed's got buried. Deep in the soil of the Jenkins Family Farm, something dark has taken root, and it's beginning to bloom. From ROB GUILLORY, Eisner-winning co-creator and artist of Image Comics' CHEW, comes a new dark comedy about science gone sinister and agriculture gone apocalyptic. Nature is a Mother.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/farmhand-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the seeds" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Literature, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the seeds</ten_truyen>
-		<ma_truyen>the-seeds</ma_truyen>
-        <tac_gia>Ann Nocenti, David Aja</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-seeds/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In a world much like our own, people are smashing their phones and moving to the lawless tech-free Zone B. A few cantankerous aliens have come to collect the last dregs of humanity's essence for the celestial embryo bank. One of them falls in love. Astra is an idealistic journalist who stumbles into the story of a lifetime, only to realize that if she reports it, she'll destroy the last hope of a dying world. How far will she go to get her story?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-seeds-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="scooby apocalypse" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Horror, Life sucks, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>scooby apocalypse</ten_truyen>
-		<ma_truyen>scooby-apocalypse</ma_truyen>
-        <tac_gia>J.M. DeMatteis, Howard Porter</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/scooby-apocalypse/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Those meddling kids-Fred, Daphne, Velma, Shaggy, and their dog, Scooby-Doo-get more ghost-debunking than they bargained for when faced with a fundamental change in their world. The apocalypse has happened. Old rules about logic no longer apply. The creatures of the night are among us, and the crew of the Magical Mystery Machine has to fight to survive-because in the apocalyptic badlands of the near-future, the horrors are real!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/scooby-apocalypse-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
