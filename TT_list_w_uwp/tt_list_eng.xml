@@ -939,15 +939,6 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <gioi_thieu>No one has ever stopped the Caped Crusader. Not The Joker. Not Two-Face. Not even the entire Justice League. But how does Batman confront a new hero who wants to save the city from the Dark Knight?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-2016-eng.xml</file_xml>
     </truyen>
-	<truyen ten="batman / teenage mutant ninja turtles ii" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Movies-tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>batman / teenage mutant ninja turtles ii</ten_truyen>
-		<ma_truyen>batman-teenage-mutant-ninja-turtles-ii</ma_truyen>
-        <tac_gia>James Tynion IV, Freddie E. Williams II, Jeremy Colwell</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batmanteenage-mutant-ninja-turtles-ii/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The team behind the smash-hit crossover series is back to reunite the Dark Knight and the Heroes in a Half-Shell. When Donatello goes looking for a new mentor to help him improve his fighting skills, he opens a doorway to another reality, hoping to summon the Turtles' one-time ally, Batman. But instead, he gets sent to Gotham City and someone else comes through the open portal-Bane! Suddenly, there's a new gang boss in New York and he's out to unite all the other bad guys under him. Can Donnie get back in time and bring Batman with him to help his brothers before Bane causes irreparable destruction? Co-published with IDW.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/batman-teenage-mutant-ninja-turtles-ii-eng.xml</file_xml>
-    </truyen>
 	<truyen ten="batman and the signal" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batman and the signal</ten_truyen>
 		<ma_truyen>batman-and-the-signal</ma_truyen>
@@ -1010,6 +1001,24 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-white-knight/1_medium.jpg</hinh_nho>
         <gioi_thieu>He's been called a maniac, a killer and the 'Clown Prince of Crime' but 'white knight'? Never. Until now... Set in a world where the Joker is cured of his insanity and homicidal tendencies, The Joker, now known as 'Jack,' sets about trying to right his wrongs. First he plans to reconcile with Harley Quinn, and then he'll try to save the city from the one person who he thinks is truly Gotham City's greatest villain: Batman! Superstar writer and artist Sean Murphy (PUNK ROCK JESUS, THE WAKE) presents a seven-issue miniseries of a twisted Gotham City with a massive cast of heroes and villains that, at its heart, is a tragic story of a hero and a villain: Batman and The Joker. But which is the hero-and which the villain?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-white-knight-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="batman/teenage mutant ninja turtles ii" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Movies-tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman/teenage mutant ninja turtles ii</ten_truyen>
+		<ma_truyen>batman-teenage-mutant-ninja-turtles-ii</ma_truyen>
+        <tac_gia>James Tynion IV, Freddie E. Williams II, Jeremy Colwell</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batmanteenage-mutant-ninja-turtles-ii/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The team behind the smash-hit crossover series is back to reunite the Dark Knight and the Heroes in a Half-Shell. When Donatello goes looking for a new mentor to help him improve his fighting skills, he opens a doorway to another reality, hoping to summon the Turtles' one-time ally, Batman. But instead, he gets sent to Gotham City and someone else comes through the open portal-Bane! Suddenly, there's a new gang boss in New York and he's out to unite all the other bad guys under him. Can Donnie get back in time and bring Batman with him to help his brothers before Bane causes irreparable destruction? Co-published with IDW.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/batman-teenage-mutant-ninja-turtles-ii-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="batman/the maxx: arkham dreams" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman/the maxx: arkham dreams</ten_truyen>
+		<ma_truyen>batman-the-maxx-arkham-dreams</ma_truyen>
+        <tac_gia>Sam Kieth, John Layman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batmanthe-maxx/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Batman must face the strangest and most bizarre adventure of his career, as he meets comics' strangest and most bizarre hero... THE MAXX! IDW and DC Comics proudly present the most surreal, quirky, and wonderful crossover of all time! A devious new doctor at Arkham Asylum is conducting unconventional experiments into the human psyche, and he kicks off a chain reaction of disaster when he experiments on Arkham's newest patient, The Maxx! The city of Gotham is starting to merge with The Maxx's psychedelic mental landscape, known as the Outback, blurring the line between real and unreal. It's up to Batman to save not just Gotham, but all of reality, and he and The Maxx are going to have to travel through some of the darkest places imaginable-the twisted minds of Batman's greatest enemies!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-the-maxx-arkham-dreams-eng.xml</file_xml>
     </truyen>
 	<truyen ten="batwoman (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batwoman (2017)</ten_truyen>
@@ -3312,14 +3321,14 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>Britt Reid Jr., the scion of the Daily Sentinel publishing empire, vanishes during a wild party on his friend's yacht. Meanwhile, crime spikes in the streets of Century City with the mysterious criminal/secret vigilante the Green Hornet absent. It's only a matter of time before SOMEONE puts two and two together, and it's up to Kato, former partner of Britt's father, and his daughter Mulan to protect the city AND the Green Hornet legacy, while finding out what happened to Britt. Amy Chu (Red Sonja, Poison Ivy, KISS) picks up where Kevin Smith left off with an action packed mystery.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/green-hornet-2018-eng.xml</file_xml>
     </truyen>
-	<truyen ten="green lanterns (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="green lanterns (2016)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>green lanterns (2016)</ten_truyen>
 		<ma_truyen>green-lanterns-2016</ma_truyen>
         <tac_gia>Sam Humphries, Robson Rocha</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/g/green-lanterns/1_medium.jpg</hinh_nho>
         <gioi_thieu>New Lanterns Jessica Cruz and Simon Baz promised to protect others in brightest day or blackest night, but as 'Red Planet' begins to rise, the partners find themselves confronted with an unimaginable threat from Bleez and the Red Lanterns!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/green-lanterns-2016-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/green-lanterns-2016-eng.xml</file_xml>
     </truyen>
 	<truyen ten="grimm fairy tales (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fanservice, Fantasy, Mature, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>grimm fairy tales (2016)</ten_truyen>
@@ -5295,6 +5304,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>The princess of the human kingdom has been kidnapped by the demon king! But all she wants to do is get a good night's sleep!?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="marvel knights: 20th" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>marvel knights: 20th</ten_truyen>
+		<ma_truyen>marvel-knights-20th</ma_truyen>
+        <tac_gia>Donny Cates, Travel Foreman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-knights-20th/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In celebration of the legendary imprint founded by Marvel's CCO Joe Quesada, a new crop of talent stands poised to tell a groundbreaking story across the Marvel Universe! In the cemetery, the blind man does not know who he is, or why he has come to this particular grave at this moment. He doesn't know the burly police officer with the wild story who has approached him. Or the strangely intense man who sits in the rear seat of the patrol car, his eyes flashing green. But all of that is about to change.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-knights-20th-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="marvel two-in-one (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>marvel two-in-one (2017)</ten_truyen>
 		<ma_truyen>marvel-two-in-one-2017</ma_truyen>
@@ -9116,6 +9134,15 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <hinh_nho>https://comicbookroundup.com/img/covers/v/van-helsing-vs-the-werewolf/1_medium.jpg</hinh_nho>
         <gioi_thieu>A brutal werewolf attack on a high mountain ledge! A heist in the Forbidden City. An epic kung-fu brawl at the airport! A battle with a vampire at 35,000 feet! A horrific crash I the Himalayas! And that's only the start of the newest Liesel Van Helsing adventure! The legendary vampire killer is on a global hunt for the Sword of Heaven, the ultimate demon-killing weapon. This new limited series features the Zenescope premiere of writer Chuck Dixon (Batman, Punisher, Bane: Conquest).</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/van-helsing-vs-the-werewolf-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="van helsing: sword of heaven" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>van helsing: sword of heaven</ten_truyen>
+		<ma_truyen>van-helsing-sword-of-heaven</ma_truyen>
+        <tac_gia>Chuck Dixon, Julius Abrera</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/van-helsing-sword-of-heaven/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Is an ancient weapon feared by every undead creature a myth or a reality? Liesel is willing to risk everything, her life included, to get her hands on the legendary blade that could bring an end to vampirism the world over. Her quest takes her to a remote corner of India and beyond reality on an adventure that could bring her the vengeance she seeks if it doesn't drive her mad first.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/van-helsing-sword-of-heaven-eng.xml</file_xml>
     </truyen>
 	<truyen ten="vanilla frosting" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Romance, Shoujo., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>vanilla frosting</ten_truyen>
