@@ -2250,14 +2250,14 @@
         <gioi_thieu>SPIDER-MAN RETURNS TO THE FRIENDLY NEIGHBORHOOD! The webslinging, wallcrawling wonder returns to New York City in the all-new PETER PARKER: THE SPECTACULAR SPIDER-MAN. A companion series to the best-selling Amazing Spider-Man series, Peter Parker is going back-to-basics for big heroics in the Big Apple. Featuring adversaries old and new, be there as Spider-Man returns to his friendly neighborhood for his never ending battle against crime and the dreaded 'Parker Luck'.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/peter-parker-the-spectacular-spider-man-eng.xml</file_xml>
     </truyen>
-	<truyen ten="plastic man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="plastic man (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>plastic man (2018)</ten_truyen>
 		<ma_truyen>plastic-man-2018</ma_truyen>
         <tac_gia>Gail Simone, Adriana Melo</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/p/plastic-man-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Meet Eel O'Brian: a petty thug, thief and con artist who runs a strip club. Hey, he's also dead, at least according to the gang that tossed him out like last week's garbage. Literally. Don't worry, though he bounced back from all that, and now he's trying to make a new life for himself, but the effort is stretching him pretty thin.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/plastic-man-2018-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/plastic-man-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="port of earth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>port of earth</ten_truyen>

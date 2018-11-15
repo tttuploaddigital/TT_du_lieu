@@ -1,6 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>peter parker: the spectacular spider-man</ten_truyen>
+		<ma_truyen>peter-parker-the-spectacular-spider-man</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/peter-parker-the-spectacular-spider-man/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/peter-parker-the-spectacular-spider-man-eng.xml</file_xml>
+		<chap_moi>issue 312</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>plastic man (2018)</ten_truyen>
+		<ma_truyen>plastic-man-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/plastic-man-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/plastic-man-2018-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>go go power rangers</ten_truyen>
+		<ma_truyen>go-go-power-rangers</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/go-go-power-rangers/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/go-go-power-rangers-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
+		<chap_moi>chap 287</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>btooom!</ten_truyen>
+		<ma_truyen>btooom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/12/9/200.jpg</hinh_nho>     
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/btooom-eng.xml</file_xml>
+		<chap_moi>chap 93</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>eden's zero</ten_truyen>
+		<ma_truyen>eden-s-zero</ma_truyen>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
+		<chap_moi>chap 19</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ghostbusters: crossing over</ten_truyen>
+		<ma_truyen>ghostbusters-crossing-over</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/ghostbusters-crossing-over/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ghostbusters-crossing-over-eng.xml</file_xml>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ninja-k</ten_truyen>
+		<ma_truyen>ninja-k</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/ninja-k-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ninja-k-eng.xml</file_xml>
+		<chap_moi>issue 13</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>rose  </ten_truyen>
+		<ma_truyen>rose</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/rose/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rose-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>back street girls - washira idol hajimemashita.</ten_truyen>
+		<ma_truyen>back-street-girls-washira-idol-hajimemashita</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/42569/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/back-street-girls-washira-idol-hajimemashita-eng.xml</file_xml>
+		<chap_moi>chap 53</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gal gohan</ten_truyen>
+		<ma_truyen>gal-gohan</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/46625/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gal-gohan-eng.xml</file_xml>
+		<chap_moi>chap 38</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>boku no kanojo ga majime sugiru shojo bitch na ken</ten_truyen>
+		<ma_truyen>boku-no-kanojo-ga-majime-sugiru-shojo-bitch-na-ken</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/40872/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-kanojo-ga-majime-sugiru-shojo-bitch-na-ken-eng.xml</file_xml>
+		<chap_moi>chap 49</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dice: the cube that changes everything</ten_truyen>
+		<ma_truyen>dice-the-cube-that-changes-everything</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/22106/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/dice-the-cube-that-changes-everything-eng.xml</file_xml>
+		<chap_moi>chap 259</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>doulou dalu</ten_truyen>
+		<ma_truyen>doulou-dalu</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/26543/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/doulou-dalu-eng.xml</file_xml>
+		<chap_moi>chap 215</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>trinity wonder</ten_truyen>
+		<ma_truyen>trinity-wonder</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/40277/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/trinity-wonder-eng.xml</file_xml>
+		<chap_moi>chap 81</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>star wars (2015)</ten_truyen>
 		<ma_truyen>star-wars-2015</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
@@ -104,110 +208,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/21499/2/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/red-storm-eng.xml</file_xml>
 		<chap_moi>chap 301</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>cloak and dagger (2018)</ten_truyen>
-		<ma_truyen>cloak-and-dagger-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/cloak-and-dagger-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cloak-and-dagger-2018-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>green arrow (2016)</ten_truyen>
-		<ma_truyen>green-arrow-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/green-arrow-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/green-arrow-2016-eng.xml</file_xml>
-		<chap_moi>issue 46</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>transformers: lost light</ten_truyen>
-		<ma_truyen>transformers-lost-light</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-lost-light/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-lost-light-eng.xml</file_xml>
-		<chap_moi>issue 25</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 924</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hunter x hunter</ten_truyen>
-		<ma_truyen>hunter-x-hunter</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hunter-x-hunter-eng.xml</file_xml>
-		<chap_moi>chap 388</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dr. stone</ten_truyen>
-		<ma_truyen>dr-stone</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47716/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr-stone-eng.xml</file_xml>
-		<chap_moi>chap 82</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kick-ass (2018)</ten_truyen>
-		<ma_truyen>kick-ass-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/k/kick-ass-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kick-ass-2018-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>zombie tramp (2014)</ten_truyen>
-		<ma_truyen>zombie-tramp-2014</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/z/zombie-tramp/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/zombie-tramp-2014-eng.xml</file_xml>
-		<chap_moi>issue 53</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>farmhand</ten_truyen>
-		<ma_truyen>farmhand</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/farmhand/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/farmhand-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>world trigger</ten_truyen>
-		<ma_truyen>world-trigger</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/11153/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-trigger-eng.xml</file_xml>
-		<chap_moi>chap 167</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
-		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kumo-desu-ga-nani-ka-eng.xml</file_xml>
-		<chap_moi>chap 32.1</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>baby steps</ten_truyen>
-		<ma_truyen>baby-steps</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
-		<chap_moi>chap 327</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tales of demons and gods</ten_truyen>
-		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tales-of-demons-and-gods-eng.xml</file_xml>
-		<chap_moi>chap 197.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the gamer</ten_truyen>
-		<ma_truyen>the-gamer</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/the-gamer-eng.xml</file_xml>
-		<chap_moi>chap 248</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>spirit blade mountain</ten_truyen>
-		<ma_truyen>spirit-blade-mountain</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/38167/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/spirit-blade-mountain-eng.xml</file_xml>
-		<chap_moi>chap 330</chap_moi>
 	</truyen>
 </danh_sach_truyen>

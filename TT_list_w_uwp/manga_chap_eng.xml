@@ -1,6 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
+		<chap_moi>chap 287</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>btooom!</ten_truyen>
+		<ma_truyen>btooom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/12/9/200.jpg</hinh_nho>     
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/btooom-eng.xml</file_xml>
+		<chap_moi>chap 93</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>eden's zero</ten_truyen>
+		<ma_truyen>eden-s-zero</ma_truyen>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
+		<chap_moi>chap 19</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>back street girls - washira idol hajimemashita.</ten_truyen>
+		<ma_truyen>back-street-girls-washira-idol-hajimemashita</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/42569/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/back-street-girls-washira-idol-hajimemashita-eng.xml</file_xml>
+		<chap_moi>chap 53</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gal gohan</ten_truyen>
+		<ma_truyen>gal-gohan</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/46625/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gal-gohan-eng.xml</file_xml>
+		<chap_moi>chap 38</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>boku no kanojo ga majime sugiru shojo bitch na ken</ten_truyen>
+		<ma_truyen>boku-no-kanojo-ga-majime-sugiru-shojo-bitch-na-ken</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/40872/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-kanojo-ga-majime-sugiru-shojo-bitch-na-ken-eng.xml</file_xml>
+		<chap_moi>chap 49</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>enen no shouboutai</ten_truyen>
 		<ma_truyen>enen-no-shouboutai</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/35965/6/200.jpg</hinh_nho>
@@ -167,47 +208,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
 		<chap_moi>chap 55</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>onepunch-man</ten_truyen>
-		<ma_truyen>onepunch-man</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onepunch-man-eng.xml</file_xml>
-		<chap_moi>chap 146</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 286</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>black clover</ten_truyen>
-		<ma_truyen>black-clover</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
-		<chap_moi>chap 180</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>haikyuu!!</ten_truyen>
-		<ma_truyen>haikyuu</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/21593/26/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haikyuu-eng.xml</file_xml>
-		<chap_moi>chap 325</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>sidooh</ten_truyen>
-		<ma_truyen>sidooh</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/9200/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sidooh-eng.xml</file_xml>
-		<chap_moi>chap 181</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kekkon yubiwa monogatari</ten_truyen>
-		<ma_truyen>kekkon-yubiwa-monogatari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/26026/7/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kekkon-yubiwa-monogatari-eng.xml</file_xml>
-		<chap_moi>chap 42</chap_moi>
 	</truyen>
 </danh_sach_truyen>
