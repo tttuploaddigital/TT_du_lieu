@@ -1491,13 +1491,13 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>Werewolves! Truckers! Magic! Monstrous cicadas! The unquiet dead! It's all here... on the road! Nash is a haunted trucker who can see ghosts, can talk with spirits, senses evil, and hides a dark secret... When Nash takes on a mysterious hitchhiker heading for Tucson, he and his friends are dragged head first into his biggest and most dangerous adventure yet.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/brother-nash-eng.xml</file_xml>
     </truyen>
-    <truyen ten="btooom!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Ecchi, Mature, Romance, Sci-fi, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+	<truyen ten="btooom!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Ecchi, Mature, Romance, Sci-fi, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>btooom!</ten_truyen>
 		<ma_truyen>btooom</ma_truyen>
         <tac_gia>Inoue Junya</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://file-thumb.mpcdn.net/12/9/200.jpg</hinh_nho>
-        <gioi_thieu>Ryouta Sakamoto is one of the top-ranked players of BTOOOM!, an online battle game. But no amount of simulated warfare could have prepared him for what is to come... Ryouta wakes one evening to find himself dangling from a tree by a parachute with no recollection of how he got there. Before he can orient himself to his unfamiliar surroundings, Ryouta is attacked. As a barrage of explosives rain down on him, Ryouta realizes that he too has a pack of bombs... bombs that look very similar to the ones used in BTOOOM! Ryouta may have mastered the online game, but can he come out on top in this real-life game of survival?</gioi_thieu>        
+        <gioi_thieu>Ryouta Sakamoto is one of the top-ranked players of BTOOOM!, an online battle game. But no amount of simulated warfare could have prepared him for what is to come... Ryouta wakes one evening to find himself dangling from a tree by a parachute with no recollection of how he got there. Before he can orient himself to his unfamiliar surroundings, Ryouta is attacked. As a barrage of explosives rain down on him, Ryouta realizes that he too has a pack of bombs... bombs that look very similar to the ones used in BTOOOM! Ryouta may have mastered the online game, but can he come out on top in this real-life game of survival?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/btooom-eng.xml</file_xml>
     </truyen>
 	<truyen ten="buddy go!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Gender bender, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
@@ -6216,14 +6216,14 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>A tranquil tale about two boys from very different upbringings. On one hand you have Kai, born as the son of a prostitute, who's been playing the abandoned piano in the forest near his home ever since he was young. And on the other you have Syuhei, practically breast-fed by the piano as the son of a family of prestigious pianists. Yet it is their common bond with the piano that eventually intertwines their paths in life.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/piano-no-mori-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="plastic man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="plastic man (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>plastic man (2018)</ten_truyen>
 		<ma_truyen>plastic-man-2018</ma_truyen>
         <tac_gia>Gail Simone, Adriana Melo</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/p/plastic-man-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Meet Eel O'Brian: a petty thug, thief and con artist who runs a strip club. Hey, he's also dead, at least according to the gang that tossed him out like last week's garbage. Literally. Don't worry, though he bounced back from all that, and now he's trying to make a new life for himself, but the effort is stretching him pretty thin.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/plastic-man-2018-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/plastic-man-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="platinum end" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Ecchi, Mature, Mystery, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>platinum end</ten_truyen>
