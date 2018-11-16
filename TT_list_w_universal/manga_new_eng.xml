@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="flying witch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>flying witch</ten_truyen>
+		<ma_truyen>flying-witch</ma_truyen>
+		<tac_gia>Ishizuka Chihiro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2769/3/200.jpg</hinh_nho>
+		<gioi_thieu>Kowata Makoto is an airhead with a bad sense of direction who just moved into her relative's house but is that all? A manga about the coming of age of a witch in modern day japan.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/flying-witch-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="nanba mg5" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>nanba mg5</ten_truyen>
+		<ma_truyen>nanba-mg5</ma_truyen>
+		<tac_gia>Ozawa Toshio</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/e7/68/e768083f1f755f2ef4e5e5ddb703722e6dbcaa5e_18516_200_310.jpg</hinh_nho>
+		<gioi_thieu>Born in a family of delinquents, Nanba Tsuyoshi is expected to succeed his older brother as the strongest delinquent in school. Unbeknownst to his family however, he decides to enroll in the top high school in town to live as a normal high schooler. Can he maintain his double life as the strongest delinquent in town and as a normal high schooler?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanba-mg5-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="enigma" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Drama, Horror, Mystery, Psychological, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>enigma</ten_truyen>
+		<ma_truyen>enigma</ma_truyen>
+		<tac_gia>Sakaki Kenji</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/2586/1/200.jpg</hinh_nho>
+		<gioi_thieu>Haiba Sumio is a student at a Tokyo High School with an interesting ability... He occasionally falls asleep and wakes up with premonitions of the future written out on his 'Dream Diary'. With this ability, Sumio helps out people in trouble before anything bad happens, until one day when his peaceful life completely changes.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/enigma-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="akb49 - renai kinshi jourei" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Gender bender, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>akb49 - renai kinshi jourei</ten_truyen>
 		<ma_truyen>akb49-renai-kinshi-jourei</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/32873/1/200.jpg</hinh_nho>
 		<gioi_thieu>Shiratori Tatsuhiko was a bum wandering the streets with no money to his name when he meets Mako. He works as a scout for an agency called Burst that recruits girls on the streets for adult entertainment in the Shinjuku area of Tokyo. Tatsuhiko quickly learns the techniques of scouting and is even more attracted to how much money he can make. But with how the industry is maintained, Tatsuhiko has to deal with the lying, deception, violence, greed and even the yakuza. He wants to keep the morals that he has, but it gets progressively harder and harder as he gets deeper into the other side of society.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shinjuku-swan-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="fairy tail: 100 years quest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Ecchi, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
-		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
-		<tac_gia>Mashima Hiro, Ueda Atsuo</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
-		<gioi_thieu>After overcoming the threat of Acnologia and Zeref, Fairy Tail has become stronger and more energetic! The 100 year quest which Natsu and company left for, and also to the members who had remained at the guild, something new is going to happen!? Although the story was supposed to have concluded, a new adventure now begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="goblin slayer: side story year one" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>goblin slayer: side story year one</ten_truyen>
-		<ma_truyen>goblin-slayer-side-story-year-one</ma_truyen>
-		<tac_gia>Kagyu Kumo, Kento Sakaeda</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/50806/1/200.jpg</hinh_nho>
-		<gioi_thieu>A prequel series that reveals Goblin Slayer's past and the events that led him to become an adventurer with the sole purpose of exterminating all goblins from the world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-side-story-year-one-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="asa made jugyou chu!" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Comedy, Ecchi, Gender bender, Harem, Mature, Romance, School life, Seinen, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>asa made jugyou chu!</ten_truyen>
-		<ma_truyen>asa-made-jugyou-chu</ma_truyen>
-		<tac_gia>Ohta Akiyoshi, Ayakura Juu, Matsuda98, Minazuki Tooru, Munyu, Ohara Tometa, Sakura Koharu</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/869/1/200.jpg</hinh_nho>
-		<gioi_thieu>Kakinozaki Ayana-sensei and student Kagami Yuuki move into a room in the girls dormitory for the new (co-ed) high school semester, requested by Ayana-sensei and approved by the schools' principal. As one would guess, no one can find out he's living there so other than school classes, he has to cross-dress or else he'll be kicked out of school and dorm.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/asa-made-jugyou-chu-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
