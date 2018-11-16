@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 580</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dungeon meshi</ten_truyen>
+		<ma_truyen>dungeon-meshi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-meshi-eng.xml</file_xml>
+		<chap_moi>chap 49</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
+		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
+        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
+		<chap_moi>chap 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kaguya-sama wa kokurasetai - tensai-tachi no renai zunousen</ten_truyen>
+		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
+		<chap_moi>chap 127</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tsugumomo</ten_truyen>
+		<ma_truyen>tsugumomo</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/10524/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsugumomo-eng.xml</file_xml>
+		<chap_moi>chap 114</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>namaikizakari</ten_truyen>
+		<ma_truyen>namaikizakari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27263/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/namaikizakari-eng.xml</file_xml>
+		<chap_moi>chap 91</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>shokugeki no soma</ten_truyen>
 		<ma_truyen>shokugeki-no-soma</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
@@ -167,47 +209,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
 		<chap_moi>chap 52</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>beastars</ten_truyen>
-		<ma_truyen>beastars</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
-		<chap_moi>chap 104</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>golden kamui</ten_truyen>
-		<ma_truyen>golden-kamui</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/golden-kamui-eng.xml</file_xml>
-		<chap_moi>chap 178</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>overlord</ten_truyen>
-		<ma_truyen>overlord</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/29252/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/overlord-eng.xml</file_xml>
-		<chap_moi>chap 42</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kengan ashua</ten_truyen>
-		<ma_truyen>kengan-ashua</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kengan-ashua-eng.xml</file_xml>
-		<chap_moi>chap 171</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>giant killing</ten_truyen>
-		<ma_truyen>giant-killing</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
-		<chap_moi>chap 279</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>darwin's game</ten_truyen>
-		<ma_truyen>darwin-s-game</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
-		<chap_moi>chap 55</chap_moi>
 	</truyen>
 </danh_sach_truyen>

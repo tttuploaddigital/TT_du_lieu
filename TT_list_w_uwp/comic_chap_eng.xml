@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
+		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>birthright</ten_truyen>
+		<ma_truyen>birthright</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/birthright/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/birthright-eng.xml</file_xml>
+		<chap_moi>issue 33</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>cyber force (2018)</ten_truyen>
+		<ma_truyen>cyber-force-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/cyber-force-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cyber-force-2018-eng.xml</file_xml>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shadow roads</ten_truyen>
+		<ma_truyen>shadow-roads</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shadow-roads/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shadow-roads-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>thief of thieves</ten_truyen>
+		<ma_truyen>thief-of-thieves</ma_truyen>
+        <hinh_nho>https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Thief_of_Thieves.jpg/200px-Thief_of_Thieves.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thief-of-thieves-eng.xml</file_xml>
+		<chap_moi>issue 42</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>oblivion song</ten_truyen>
+		<ma_truyen>oblivion-song</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/oblivion-song/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oblivion-song-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>peter parker: the spectacular spider-man</ten_truyen>
 		<ma_truyen>peter-parker-the-spectacular-spider-man</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/p/peter-parker-the-spectacular-spider-man/1_medium.jpg</hinh_nho>
@@ -167,47 +209,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-walking-dead/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-walking-dead-eng.xml</file_xml>
 		<chap_moi>issue 185</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>infinity wars  </ten_truyen>
-		<ma_truyen>infinity-wars</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-prime/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dc nation</ten_truyen>
-		<ma_truyen>dc-nation</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dc-nation-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-men: red</ten_truyen>
-		<ma_truyen>x-men-red</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-red-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-men-red-eng.xml</file_xml>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>justice league (2018)</ten_truyen>
-		<ma_truyen>justice-league-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-2018-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>asgardians of the galaxy</ten_truyen>
-		<ma_truyen>asgardians-of-the-galaxy</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/asgardians-of-the-galaxy/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/asgardians-of-the-galaxy-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batman (2016)</ten_truyen>
-		<ma_truyen>batman-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-2016-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
 	</truyen>
 </danh_sach_truyen>
