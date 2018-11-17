@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>superman (2018)</ten_truyen>
+		<ma_truyen>superman-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/superman-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superman-2018-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>robotech (2017)</ten_truyen>
+		<ma_truyen>robotech-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robotech/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robotech-2017-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>proxima centauri</ten_truyen>
+		<ma_truyen>proxima-centauri</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/proxima-centauri/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/proxima-centauri-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>scooby apocalypse</ten_truyen>
+		<ma_truyen>scooby-apocalypse</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/scooby-apocalypse/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/scooby-apocalypse-eng.xml</file_xml>
+		<chap_moi>issue 31</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the beauty</ten_truyen>
+		<ma_truyen>the-beauty</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-beauty/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-beauty-eng.xml</file_xml>
+		<chap_moi>issue 25</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>skyward (2018)</ten_truyen>
+		<ma_truyen>skyward-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/skyward-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/skyward-2018-eng.xml</file_xml>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
 		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
@@ -167,47 +209,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/f/farmhand/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/farmhand-eng.xml</file_xml>
 		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>champions (2016)</ten_truyen>
-		<ma_truyen>champions-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/champions/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/champions-2016-eng.xml</file_xml>
-		<chap_moi>issue 26</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nightwing (2016)</ten_truyen>
-		<ma_truyen>nightwing-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/nightwing-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nightwing-2016-eng.xml</file_xml>
-		<chap_moi>issue 52</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>weapon x (2017)</ten_truyen>
-		<ma_truyen>weapon-x-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-x-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weapon-x-2017-eng.xml</file_xml>
-		<chap_moi>issue 25</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>death of the inhumans</ten_truyen>
-		<ma_truyen>death-of-the-inhumans</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/death-of-the-inhumans/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/death-of-the-inhumans-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>deathstroke (2016)</ten_truyen>
-		<ma_truyen>deathstroke-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deathstroke-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deathstroke-2016-eng.xml</file_xml>
-		<chap_moi>issue 37</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the walking dead  </ten_truyen>
-		<ma_truyen>the-walking-dead</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-walking-dead/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-walking-dead-eng.xml</file_xml>
-		<chap_moi>issue 185</chap_moi>
 	</truyen>
 </danh_sach_truyen>
