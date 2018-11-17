@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danh_sach_truyen>
+	<truyen>
+		<ten_truyen>superman (2018)</ten_truyen>
+		<ma_truyen>superman-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/superman-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superman-2018-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>robotech (2017)</ten_truyen>
+		<ma_truyen>robotech-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robotech/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robotech-2017-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>proxima centauri</ten_truyen>
+		<ma_truyen>proxima-centauri</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/proxima-centauri/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/proxima-centauri-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hunter x hunter</ten_truyen>
+		<ma_truyen>hunter-x-hunter</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hunter-x-hunter-eng.xml</file_xml>
+		<chap_moi>chap 389</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yakusoku no neverland</ten_truyen>
+		<ma_truyen>yakusoku-no-neverland</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/42944/5/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yakusoku-no-neverland-eng.xml</file_xml>
+		<chap_moi>chap 112</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kengan ashua</ten_truyen>
+		<ma_truyen>kengan-ashua</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kengan-ashua-eng.xml</file_xml>
+		<chap_moi>chap 183</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>scooby apocalypse</ten_truyen>
+		<ma_truyen>scooby-apocalypse</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/scooby-apocalypse/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/scooby-apocalypse-eng.xml</file_xml>
+		<chap_moi>issue 31</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the beauty</ten_truyen>
+		<ma_truyen>the-beauty</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-beauty/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-beauty-eng.xml</file_xml>
+		<chap_moi>issue 25</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>skyward (2018)</ten_truyen>
+		<ma_truyen>skyward-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/skyward-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/skyward-2018-eng.xml</file_xml>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>haikyuu!!</ten_truyen>
+		<ma_truyen>haikyuu</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/21593/26/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haikyuu-eng.xml</file_xml>
+		<chap_moi>chap 327</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dr. stone</ten_truyen>
+		<ma_truyen>dr-stone</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47716/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr-stone-eng.xml</file_xml>
+		<chap_moi>chap 83</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mai ball!</ten_truyen>
+		<ma_truyen>mai-ball</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38802/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mai-ball-eng.xml</file_xml>
+		<chap_moi>chap 102.2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>panlong</ten_truyen>
+		<ma_truyen>panlong</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/30349/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/panlong-eng.xml</file_xml>
+		<chap_moi>chap 163</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hardcore leveling warrior</ten_truyen>
+		<ma_truyen>hardcore-leveling-warrior</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38858/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/hardcore-leveling-warrior-eng.xml</file_xml>
+		<chap_moi>chap 109</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yin zhi shoumuren</ten_truyen>
+		<ma_truyen>yin-zhi-shoumuren</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/37911/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/yin-zhi-shoumuren-eng.xml</file_xml>
+		<chap_moi>chap 203</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
+		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>birthright</ten_truyen>
+		<ma_truyen>birthright</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/birthright/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/birthright-eng.xml</file_xml>
+		<chap_moi>issue 33</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>cyber force (2018)</ten_truyen>
+		<ma_truyen>cyber-force-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/cyber-force-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cyber-force-2018-eng.xml</file_xml>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 580</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dungeon meshi</ten_truyen>
+		<ma_truyen>dungeon-meshi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-meshi-eng.xml</file_xml>
+		<chap_moi>chap 49</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
+		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
+        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
+		<chap_moi>chap 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shadow roads</ten_truyen>
+		<ma_truyen>shadow-roads</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shadow-roads/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shadow-roads-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>thief of thieves</ten_truyen>
+		<ma_truyen>thief-of-thieves</ma_truyen>
+        <hinh_nho>https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Thief_of_Thieves.jpg/200px-Thief_of_Thieves.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thief-of-thieves-eng.xml</file_xml>
+		<chap_moi>issue 42</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>oblivion song</ten_truyen>
+		<ma_truyen>oblivion-song</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/oblivion-song/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oblivion-song-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kaguya-sama wa kokurasetai - tensai-tachi no renai zunousen</ten_truyen>
+		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
+		<chap_moi>chap 127</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tsugumomo</ten_truyen>
+		<ma_truyen>tsugumomo</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/10524/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsugumomo-eng.xml</file_xml>
+		<chap_moi>chap 114</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>namaikizakari</ten_truyen>
+		<ma_truyen>namaikizakari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27263/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/namaikizakari-eng.xml</file_xml>
+		<chap_moi>chap 91</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tower of god</ten_truyen>
+		<ma_truyen>tower-of-god</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/10442/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/tower-of-god-eng.xml</file_xml>
+		<chap_moi>chap 407</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hunter age</ten_truyen>
+		<ma_truyen>hunter-age</ma_truyen>
+        <hinh_nho>http://avatar.mkklcdnv2.com/avatar_manga/21553-tf917684.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/hunter-age-eng.xml</file_xml>
+		<chap_moi>chap 66</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>noblesse</ten_truyen>
+		<ma_truyen>noblesse</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/noblesse-eng.xml</file_xml>
+		<chap_moi>chap 537</chap_moi>
+	</truyen>
+</danh_sach_truyen>
