@@ -6333,14 +6333,14 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>Provence is a popular cafe that is owned by brother and sister, Hayes and Hayumi. Many young girls come to Provence just to meet Hayes. In the first story we meet Yune who is a high school student who illustrates childrens books, who is enamored of Hayes. Will she be able to confess how she feels? In the second arc we switch to Hayumi and Alan. Alan has been in love with Hayumi for a long time, however is constantly rejected by her. Will he finally win her over?</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Completed/provence-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="proxima centauri" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="proxima centauri" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>proxima centauri</ten_truyen>
 		<ma_truyen>proxima-centauri</ma_truyen>
         <tac_gia>Farel Dalrymple</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/p/proxima-centauri/1_medium.jpg</hinh_nho>
         <gioi_thieu>4.243 light-years from Earth, the teenage wizard adventurer Sherwood Breadcoat is stuck in the confounding spectral zone on the manufactured dimensional sphere, Proxima Centauri, looking for escape and a way back to his brother while dealing with his confusing emotions, alien creatures, and all sorts of unknown, fantastic dangers.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/proxima-centauri-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/proxima-centauri-eng.xml</file_xml>
     </truyen>
 	<truyen ten="pumpkinhead" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Horror, Movies-tv, Mythology" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>pumpkinhead</ten_truyen>
