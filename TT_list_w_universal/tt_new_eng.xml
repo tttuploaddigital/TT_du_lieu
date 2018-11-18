@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="uncanny x-men (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>uncanny x-men (2018)</ten_truyen>
+		<ma_truyen>uncanny-x-men-2018</ma_truyen>
+        <tac_gia>Ed Brisson, Matthew Rosenberg, Kelly Thompson, Mahmud A. Asrar, Mark Bagley, Mirko Colak</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE CHILDREN OF THE ATOM ARE BACK! New ongoing series kicking off with a 10-part weekly epic, the flagship X-Men series that started it all is back and better than ever! Starting with a mysterious and tragic disappearance, the X-Men are drawn into what might be...their final adventure?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="electric warriors" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>electric warriors</ten_truyen>
+		<ma_truyen>electric-warriors</ma_truyen>
+        <tac_gia>Steve Orlando, Travel Foreman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/electric-warriors/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A new tale of the future DC Universe, set in a previously unexplored timeline-the Cosmic Dark Age! Years after the Great Disaster, the Earth has started to rebuild and rejoin the universal coalition. In order to prevent a galactic war, different worlds throughout the known cosmos have created a new system of competitive combat to give each participating planet their own voice in the intergalactic struggle. Each world has one diplomatic gladiator, chosen to possess the Electric Seed and fight for their homeland as the Electric Warrior!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/electric-warriors-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="daughters of the dragon (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>daughters of the dragon (2018)</ten_truyen>
+		<ma_truyen>daughters-of-the-dragon-2018</ma_truyen>
+        <tac_gia>Jed Mackay, Travel Foreman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/daughters-of-the-dragon-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A DOUBLE-SIZED Marvel Digital Original you don't want to miss! MISTY KNIGHT and COLLEEN WING have stolen the shows on Marvel's LUKE CAGE, IRON FIST and DEFENDERS on Netflix and now they have their own MDO series! This duo has been fighting crime as the Daughters of the Dragon for years but with Misty's new job with the FBI, does this mean the two are splitzies? NOT ON YOUR LIFE! A crazy adventure that Colleen initiates puts comics' two greatest ass-kickers on a collision course with a weird and scary side of the Marvel Universe that will have you on the edge of your seat.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/daughters-of-the-dragon-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="flying witch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>flying witch</ten_truyen>
 		<ma_truyen>flying-witch</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>HE'S BACK, BUB.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/return-of-wolverine-eng.xml</file_xml>
     </truyen>
-	<truyen ten="kakegurui" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kakegurui</ten_truyen>
-		<ma_truyen>kakegurui</ma_truyen>
-		<tac_gia>Kawamoto Homura, Naomura Tooru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/26758/1/200.jpg</hinh_nho>
-		<gioi_thieu>Hyakkaou Academy, a prestigious private school. Here in this academy, students are divided into social strata. Standing above all others is the student council, who rules over the students with their Gambles. It's heaven if you win, and hell if you lose. Those adept at gambling are the envy of all, while the weak are left to suffer the madness of the academy. One girl transfers to this academy. Her name is Jyabami Yumeko.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakegurui-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="houseki no kuni" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Psychological, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>houseki no kuni</ten_truyen>
-		<ma_truyen>houseki-no-kuni</ma_truyen>
-		<tac_gia>Ichikawa Haruko</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27295/1/200.jpg</hinh_nho>
-		<gioi_thieu>In the distant future, a new life form called Houseki (gems) are born. The 28 Houseki must fight against the moon dwellers who want to attack them and turn them into decorations, thus each gem is assigned a role such as a fighter or a medic. Though they hope to fight the moon dwellers, Phos is a gem who is given no assignment until the gems' master Adamantine asks them to edit a natural history magazine.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/houseki-no-kuni-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="radiant" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>radiant</ten_truyen>
-		<ma_truyen>radiant</ma_truyen>
-		<tac_gia>Tony Valente</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/36054/1/200.jpg</hinh_nho>
-		<gioi_thieu>Seth is an apprentice sorcerer from the Pompo Hills. Like all sorcerers, he's an 'infected', one of the few people having survived an encounter with a Nemesis, those creatures falling from the sky and destroying everything around them. Being immune to them, Seth wants to become a Hunter and fight the Nemesis. But what Seth really wants is to find the source of all Nemesis, the Radiant. Helped by his fellow sorcerers, he will seek the Radiant, under the harsh scrutiny of the Inquisition...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/radiant-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
