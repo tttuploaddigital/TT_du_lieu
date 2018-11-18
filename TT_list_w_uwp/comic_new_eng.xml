@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="uncanny x-men (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>uncanny x-men (2018)</ten_truyen>
+		<ma_truyen>uncanny-x-men-2018</ma_truyen>
+        <tac_gia>Ed Brisson, Matthew Rosenberg, Kelly Thompson, Mahmud A. Asrar, Mark Bagley, Mirko Colak</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE CHILDREN OF THE ATOM ARE BACK! New ongoing series kicking off with a 10-part weekly epic, the flagship X-Men series that started it all is back and better than ever! Starting with a mysterious and tragic disappearance, the X-Men are drawn into what might be...their final adventure?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="electric warriors" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>electric warriors</ten_truyen>
+		<ma_truyen>electric-warriors</ma_truyen>
+        <tac_gia>Steve Orlando, Travel Foreman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/electric-warriors/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A new tale of the future DC Universe, set in a previously unexplored timeline-the Cosmic Dark Age! Years after the Great Disaster, the Earth has started to rebuild and rejoin the universal coalition. In order to prevent a galactic war, different worlds throughout the known cosmos have created a new system of competitive combat to give each participating planet their own voice in the intergalactic struggle. Each world has one diplomatic gladiator, chosen to possess the Electric Seed and fight for their homeland as the Electric Warrior!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/electric-warriors-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="daughters of the dragon (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>daughters of the dragon (2018)</ten_truyen>
+		<ma_truyen>daughters-of-the-dragon-2018</ma_truyen>
+        <tac_gia>Jed Mackay, Travel Foreman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/daughters-of-the-dragon-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A DOUBLE-SIZED Marvel Digital Original you don't want to miss! MISTY KNIGHT and COLLEEN WING have stolen the shows on Marvel's LUKE CAGE, IRON FIST and DEFENDERS on Netflix and now they have their own MDO series! This duo has been fighting crime as the Daughters of the Dragon for years but with Misty's new job with the FBI, does this mean the two are splitzies? NOT ON YOUR LIFE! A crazy adventure that Colleen initiates puts comics' two greatest ass-kickers on a collision course with a weird and scary side of the Marvel Universe that will have you on the edge of your seat.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/daughters-of-the-dragon-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="batman/the maxx: arkham dreams" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batman/the maxx: arkham dreams</ten_truyen>
 		<ma_truyen>batman-the-maxx-arkham-dreams</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/sentry-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>THE GOLDEN GUARDIAN IS BACK! FRESH FROM THE PAGES OF DOCTOR STRANGE...but is that really such a good thing? The greatest hero that the Marvel Universe ever forgot has returned! The Sentry - shining sentinel with the power of a thousand exploding suns - is back from the dead, but his troubled mind is far from finding peace. By day, he trudges through a mundane life as Bob Reynolds; at night, the Sentry soars across a gleaming, perfect skyline. But how much of the Sentry's dual existence is real? And what of his dark other self, the Void?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-sentry-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="belle: beast hunter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>belle: beast hunter</ten_truyen>
-		<ma_truyen>belle-beast-hunter</ma_truyen>
-        <tac_gia>Dave Franchini, Bong Dazo, Juan M. Rodriguez</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/belle-beast-hunter/1_medium.jpg</hinh_nho>
-        <gioi_thieu>NEW SERIES! NEW HERO! The Grimm Universe is filled with heroes far and wide dealing with threats from vampires, werewolves, corrupt governmental organizations, to ancient orders battling for control of the realms of power. But what lies in the deepest corners of our world could give the evilest creature nightmares. A threat since the beginning of time is rising and only one person will be there to stop it from destroying everything! Working from the shadows a long lineage of warriors have been defending life from the darkness that exists and from that family of soldiers comes the newest ally in the war of monsters, Belle the Beast Hunter! Don't miss this new series as a new hero is introduced into the Grimm Universe!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/belle-beast-hunter-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="she could fly" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>she could fly</ten_truyen>
-		<ma_truyen>she-could-fly</ma_truyen>
-        <tac_gia>Christopher Cantwell, Martin Morazzo</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/she-could-fly/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In Chicago, an unknown woman appears flying at speeds of 120 miles per hour and at heights reaching 2,000 feet. Then she suddenly dies in a fiery explosion mid-air. No one knows who she was, how she flew, or why. Luna, a disturbed 15-year-old girl becomes obsessed with learning everything about her while rumors and conspiracy theories roil. Will cracking the secrets of the Flying Woman's inner life lead to the liberation from her own troubled mind?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/she-could-fly-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="sleepless" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Romance" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>sleepless</ten_truyen>
-		<ma_truyen>sleepless</ma_truyen>
-        <tac_gia>Sarah Vaughn, Lelia del Duca, Alissa Sallah, Jen Bartel</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sleepless-(2017)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Lady 'Poppy' Pyppenia is guarded by the Sleepless Knight Cyrenic, but danger is around every corner once the new king is coronated.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sleepless-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
