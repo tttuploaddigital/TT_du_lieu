@@ -3,9 +3,48 @@
     <noi_dung>
 
         <!-- http://mangapark.me/manga/demon-spirit-seed-manual-dazui -->
-		<!-- mangakakalot chap 123 124 141 153 156 den 158 163 169 177 -->
+		<!-- mangakakalot chap 123 124 141 153 156 157 158 163 169 177 -->
 
 		<!-- them -->
+
+		<!-- chap 186 -->
+		<chuong ten_chuong="chap 186"><hinh>http://file-comic-4.anyacg.co/images/6d/60/6d6076c6f9fe795392c5352663f0d9713848077c_282438_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 186"><hinh>http://file-comic-4.anyacg.co/images/1f/f8/1ff81e8db0452a404fcd8b5117cb2aeb7afbb7b1_180351_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 186"><hinh>http://file-comic-4.anyacg.co/images/66/43/6643afc986174ecd3dc1940f266805297f5ac55f_157586_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 186"><hinh>http://file-comic-4.anyacg.co/images/31/ab/31ab9ad5c8876bed06579ce493d7fa6f2220e6e7_161322_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 186"><hinh>http://file-comic-4.anyacg.co/images/24/ad/24adbf5aea25922996a76a40efd71c6051120ff7_154739_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 186"><hinh>http://file-comic-4.anyacg.co/images/08/29/0829815ccb2a192cdc51df5ac78cdf655443fdf5_169898_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 186"><hinh>http://file-comic-4.anyacg.co/images/08/79/08792d43f3a5d3749f79813926966fe35d03ae5a_165601_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 186"><hinh>http://file-comic-4.anyacg.co/images/77/d9/77d9fceaed0e3a92a81cc256a09663762c490fb0_185121_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 186"><hinh>http://file-comic-4.anyacg.co/images/67/73/6773e4693bb0ca2171abb80d56abfdff512beb45_147430_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 186"><hinh>http://file-comic-4.anyacg.co/images/90/2e/902e1684cc751ae54ca159140afbf6350913f96a_140142_800_1131.jpg</hinh></chuong>
+
+		<!-- chap 185 -->
+		<chuong ten_chuong="chap 185"><hinh>http://file-comic-4.anyacg.co/images/17/b4/17b42192f4364b1c16e730393d7712cf49f55205_144688_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 185"><hinh>http://file-comic-4.anyacg.co/images/d3/8f/d38fea1dc2b5aecc44ae682fba3a48d87d9fdfbb_201628_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 185"><hinh>http://file-comic-4.anyacg.co/images/94/3c/943cb129a3ce9b59178a4c236ac1c5a0b7c8566d_187491_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 185"><hinh>http://file-comic-4.anyacg.co/images/98/a5/98a52babe65e8afc5db1d243c7d730ac06ce208e_183326_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 185"><hinh>http://file-comic-4.anyacg.co/images/d5/bc/d5bc6bca600362a4343f45cdf58449a117ac0908_213304_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 185"><hinh>http://file-comic-4.anyacg.co/images/13/22/1322c558f98d5c6d4f1cb7d54b0177db51739125_169579_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 185"><hinh>http://file-comic-4.anyacg.co/images/8a/6a/8a6a0b5ff940bb029c161d15547bd317173e6148_157051_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 185"><hinh>http://file-comic-4.anyacg.co/images/98/03/980365d4262c2d38b6d48939d5312f0ed3cc48a5_121942_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 185"><hinh>http://file-comic-4.anyacg.co/images/f8/2e/f82e5088ff21979e981458e42f2ffc6cf5638b2b_170753_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 185"><hinh>http://file-comic-4.anyacg.co/images/5d/6d/5d6d0d07509480aa04d1c2042e66b39db0add3d9_157125_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 185"><hinh>http://file-comic-4.anyacg.co/images/ba/45/ba45c670a5a250e10bd6d54a1d138220904d229d_98180_420_560.jpg</hinh></chuong>
+
+		<!-- chap 184 -->
+		<chuong ten_chuong="chap 184"><hinh>http://file-comic-4.anyacg.co/images/16/60/16608b54c25086d5503d7321987b662dab9b5d4f_229458_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 184"><hinh>http://file-comic-4.anyacg.co/images/b7/44/b7447e4f1bf8762ee4de45375859d8d29c12d98f_205957_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 184"><hinh>http://file-comic-4.anyacg.co/images/4e/dd/4edd4b871c3e587226727441fca531a77c598e2d_182683_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 184"><hinh>http://file-comic-4.anyacg.co/images/56/6b/566b3060f040b5c2d885fe002c21e9378dcb703e_171173_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 184"><hinh>http://file-comic-4.anyacg.co/images/d5/d4/d5d4ba552bebed7bb95c5349ddfcb4e21c8b7a6e_168247_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 184"><hinh>http://file-comic-4.anyacg.co/images/13/f6/13f6e181458a5c7ac88a3aca90859e608fd62d78_123103_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 184"><hinh>http://file-comic-4.anyacg.co/images/5a/9a/5a9ad885fcaf7432d987a61a8af8ea22eec37329_173744_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 184"><hinh>http://file-comic-4.anyacg.co/images/22/a3/22a3fa31b24a79bff7675b91c127a42f684a6d1e_187443_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 184"><hinh>http://file-comic-4.anyacg.co/images/be/29/be29e45c2285fa2c0f8990ee6aa5c1009705fcd9_218499_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 184"><hinh>http://file-comic-4.anyacg.co/images/80/54/8054e32d0b56fdd5a65852751a63df0d4bd8fc38_160883_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 184"><hinh>http://file-comic-4.anyacg.co/images/f3/29/f329c40a95e1f247b0ae5d82ba52e692f8f4a3d1_130898_800_1131.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 184"><hinh>http://file-comic-4.anyacg.co/images/ba/45/ba45c670a5a250e10bd6d54a1d138220904d229d_98180_420_560.jpg</hinh></chuong>
 
 		<!-- chap 183 -->
 		<chuong ten_chuong="chap 183"><hinh>http://file-comic-4.anyacg.co/images/0f/f8/0ff89482f707c4f74191e0feadaef2f5c9e32271_182481_800_1131.jpg</hinh></chuong>
