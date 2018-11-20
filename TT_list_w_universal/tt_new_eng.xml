@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="solo leveling" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Shounen., Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>solo leveling</ten_truyen>
+		<ma_truyen>solo-leveling</ma_truyen>
+		<tac_gia>Jang Sung-Lak, Gee So-Lyung</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/85/6f/856fdf5722eabbfe45cf0313d8f663621e74801c_36353_200_270.jpg</hinh_nho>
+		<gioi_thieu>10 years ago, after 'the Gate' that connected the real world with the monster world opened, some of the ordinary, everyday people received the power to hunt monsters within the Gate. They are known as 'Hunters'. However, not all Hunters are powerful. My name is Sung Jin-Woo, an E-rank Hunter. I'm someone who has to risk his life in the lowliest of dungeons, the 'World's Weakest'. Having no skills whatsoever to display, I barely earned the required money by fighting in low-leveled dungeons... at least until I found a hidden dungeon with the hardest difficulty within the D-rank dungeons! In the end, as I was accepting death, I suddenly received a strange power, a quest log that only I could see, a secret to leveling up that only I know about! If I trained in accordance with my quests and hunted monsters, my level would rise. Changing from the weakest Hunter to the strongest S-rank Hunter!</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/solo-leveling-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="shen yi di nu" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Historical, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>shen yi di nu</ten_truyen>
+		<ma_truyen>shen-yi-di-nu</ma_truyen>
+		<tac_gia>Ping Ping Jun, Yang Shi Liu, Keai Bu Yu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/49103/1/200.jpg</hinh_nho>
+		<gioi_thieu>Passing to another world at the sound of duang, divine doctor in both Chinese and western medicine Feng YuHeng became the abused first wife's daughter of Da Shun Dynasty at the fraction of a minute. Wanting to kill me, one scalpel will cause you hemiplegia? Fighting with me? Carrying the pharmacy, holding fame and profit, even the Emperor worms his way into being friends with me! But what is the circumstances with that engagement, a disfigured lame person wall thumbed me, also wanting to help labor and capital to gain the world? Rogue Prince are you foolish!</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/shen-yi-di-nu-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="s. i. d." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Horror, Mystery, Supernatural, Webtoon" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>s. i. d.</ten_truyen>
+		<ma_truyen>s-i-d</ma_truyen>
+		<tac_gia>Sa Da Ham</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/63/5b/635bde5404d03ce837dc7f7725c58b8e47990d8a_21004_200_314.jpg</hinh_nho>
+		<gioi_thieu>As a little boy, Si Mun, the grandson of a famous shaman, had the ability to see - and communicate with - ghosts. His grandmother gave him a talisman which temporarily rid him of this ability and erased his memories of any supernatural phenomena he had witnessed. Years later, Si Mun is working a hectic, yet ordinary, job as a homicide detective in the Korean police force. His grandmother has since passed on - and the powers she sealed away appear to be reawakening...</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/s-i-d-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="uncanny x-men (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>uncanny x-men (2018)</ten_truyen>
 		<ma_truyen>uncanny-x-men-2018</ma_truyen>
@@ -243,31 +270,4 @@
 		<gioi_thieu>Haruka is about to graduate from a first-rate college and is looking for work but no one wants to hire her. Faced with the prospect of becoming a 'shuushoku rounin' she finally lowers her expectations and decides to apply at a tiny talent agency for a job as an agent. When she shows up for the interview however, it's like no interview she's ever had before. She's asked all sorts of embarrasing questions and asked to say lines in front of a camera. Later she finds out that they thought she was interviewing to become a talent, and the agent position she wanted has already been given away. However, they think she has that special quality that can make someone a star. She refuses at first, but finally gives in. Thus starts Haruka's career in the entertainment industry.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haruka-17-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="infinity wars: sleepwalker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars: sleepwalker</ten_truyen>
-		<ma_truyen>infinity-wars-sleepwalker</ma_truyen>
-        <tac_gia>Chad Bowers, Chris Sims, Todd Nauck</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-sleepwalker/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Deep in the mind of man, in the ephemeral land of dreams, he lurks! The Sleepwalker - a guardian of the Mindscape, a realm threatened by the disruptive power of the Infinity Stones! But when all of reality becomes warped in INFINITY WARS, can Sleepwalker find the help he needs to save us all?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-sleepwalker-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="justice league odyssey" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>justice league odyssey</ten_truyen>
-		<ma_truyen>justice-league-odyssey</ma_truyen>
-        <tac_gia>Joshua Williamson, Stjepan Sejic</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-odyssey/1_medium.jpg</hinh_nho>
-        <gioi_thieu>When a cosmic menace threatens worlds beyond our own in the Ghost Sector, it falls to a new Justice League team to answer the call to battle! Cyborg, Starfire, Green Lantern Jessica Cruz and an out-of-his-element Azrael head to deep space inside a commandeered Brainiac Skull Ship. But as these wildcard teammates try to stop Despero from slave-trading Coluan refugees, they discover something that nothing in the universe could have prepared them for: Darkseid...who says he's there to help?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-odyssey-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="return of wolverine" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>return of wolverine</ten_truyen>
-		<ma_truyen>return-of-wolverine</ma_truyen>
-        <tac_gia>Charles Soule, Steve McNiven</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/return-of-wolverine/1_medium.jpg</hinh_nho>
-        <gioi_thieu>HE'S BACK, BUB.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/return-of-wolverine-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
