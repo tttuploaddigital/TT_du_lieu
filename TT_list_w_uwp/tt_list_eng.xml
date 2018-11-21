@@ -9243,14 +9243,14 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
 		<gioi_thieu>Nitta Shin finds himself saddled with a sudden, crushing debt. His loan agent tells him he can escape repayment if he keeps a particular woman company. He gradually learns that this arrangement might not be as easy as he once thought.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/velvet-kiss-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="venom (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="venom (2016)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>venom (2016)</ten_truyen>
 		<ma_truyen>venom-2016</ma_truyen>
         <tac_gia>Mike Costa, Gerardo Sandoval</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/v/venom-(2016)/1_medium.jpg</hinh_nho>
         <gioi_thieu>VENOM IS BACK AND BADDER THAN EVER! The symbiote you know and love has returned to New York City. No more 'Agent of the Cosmos.' No more 'Lethal Protector.' It's time for a new Venom, and it's great to be bad.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venom-2016-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/venom-2016-eng.xml</file_xml>
     </truyen>
 	<truyen ten="venom: first host" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>venom: first host</ten_truyen>

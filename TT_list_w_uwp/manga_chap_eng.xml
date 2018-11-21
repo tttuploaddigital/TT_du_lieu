@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>kengan ashua</ten_truyen>
+		<ma_truyen>kengan-ashua</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kengan-ashua-eng.xml</file_xml>
+		<chap_moi>chap 187</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>knight's and magic</ten_truyen>
+		<ma_truyen>knight-s-and-magic</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/43546/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/knight-s-and-magic-eng.xml</file_xml>
+		<chap_moi>chap 52</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dragons rioting</ten_truyen>
+		<ma_truyen>dragons-rioting</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/2484/6/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dragons-rioting-eng.xml</file_xml>
+		<chap_moi>chap 44.5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>grand blue</ten_truyen>
+		<ma_truyen>grand-blue</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/42623/7/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/grand-blue-eng.xml</file_xml>
+		<chap_moi>chap 49</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>rikudou</ten_truyen>
+		<ma_truyen>rikudou</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28741/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/rikudou-eng.xml</file_xml>
+		<chap_moi>chap 84</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kaguya-sama wa kokurasetai - tensai-tachi no renai zunousen</ten_truyen>
+		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
+		<chap_moi>chap 128</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>uq holder!</ten_truyen>
 		<ma_truyen>uq-holder</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/23460/17/200.jpg</hinh_nho>
@@ -167,47 +209,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/27263/4/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/namaikizakari-eng.xml</file_xml>
 		<chap_moi>chap 91</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 287</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>btooom!</ten_truyen>
-		<ma_truyen>btooom</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/12/9/200.jpg</hinh_nho>     
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/btooom-eng.xml</file_xml>
-		<chap_moi>chap 93</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>eden's zero</ten_truyen>
-		<ma_truyen>eden-s-zero</ma_truyen>
-        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
-		<chap_moi>chap 19</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>back street girls - washira idol hajimemashita.</ten_truyen>
-		<ma_truyen>back-street-girls-washira-idol-hajimemashita</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/42569/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/back-street-girls-washira-idol-hajimemashita-eng.xml</file_xml>
-		<chap_moi>chap 53</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gal gohan</ten_truyen>
-		<ma_truyen>gal-gohan</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/46625/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gal-gohan-eng.xml</file_xml>
-		<chap_moi>chap 38</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>boku no kanojo ga majime sugiru shojo bitch na ken</ten_truyen>
-		<ma_truyen>boku-no-kanojo-ga-majime-sugiru-shojo-bitch-na-ken</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/40872/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-kanojo-ga-majime-sugiru-shojo-bitch-na-ken-eng.xml</file_xml>
-		<chap_moi>chap 49</chap_moi>
 	</truyen>
 </danh_sach_truyen>
