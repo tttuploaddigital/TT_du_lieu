@@ -758,7 +758,7 @@
     </truyen>
 	<truyen ten="dark ark" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>dark ark</ten_truyen>
-		<ma_truyen>dark ark</ma_truyen>
+		<ma_truyen>dark-ark</ma_truyen>
         <tac_gia>Cullen Bunn, Juan Doe, Ryane Hill</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/d/dark-ark/1_medium.jpg</hinh_nho>
