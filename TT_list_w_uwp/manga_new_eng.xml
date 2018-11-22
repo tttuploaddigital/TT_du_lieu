@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="happiness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>happiness</ten_truyen>
+		<ma_truyen>happiness</ma_truyen>
+		<tac_gia>Oshimi Shuzo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/30345/6/200.jpg</hinh_nho>
+		<gioi_thieu>Makoto Okazaki is your run of the mill high-schooler, a perfect bullying target and a closet pervert. One night he decides to return a DVD to a friend of his and ventures out into the darkness. He notices a person on a nearby rooftop. The person lunges at him before he is able to make sense of this, and bites into his neck, drinking his blood. The attacker stops. At this point Makoto notices that the attacker is a beautiful girl. She asks him: 'Do you want to die or become like me?' He decides to live...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/happiness-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="ratman" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Romance, School life, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>ratman</ten_truyen>
+		<ma_truyen>ratman</ma_truyen>
+		<tac_gia>Inui Sekihiko</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/8106/2/200.jpg</hinh_nho>
+		<gioi_thieu>Meet Shooto. He's a big hero fan and wants to become a hero! The problem is that he's mocked for being too short. One day, his classmate Mizushima invites him to become a 'hero' at her home which is actually a criminal organization called Jackal. Shooto then gets tricked by Jackal's leader Crea to become their supervillian, Ratman! Now the world's smallest hero will embark on his battle against heroes and villains alike!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ratman-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="accel world" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Romance, School life, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>accel world</ten_truyen>
+		<ma_truyen>accel-world</ma_truyen>
+		<tac_gia>Kawahara reki, Aigamo Hiroyuki</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/300/3/200.jpg</hinh_nho>
+		<gioi_thieu>No matter how much the times change, bullied kids aren't going anywhere. And fat junior high school student Haruyuki is one of them. But one day, Haruyuki encounters Kuroyukihime, the most beautiful and elegant girl at school, who gives him a mysterious program: 'Brain Burst'...and the secret of the 'Accelerated World.' He may be at the bottom of the food chain at school, but Haruyuki and his destiny begin to 'accelerate' with incredible speed in the virtual realm as he aims for the top.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/accel-world-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="flying witch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>flying witch</ten_truyen>
 		<ma_truyen>flying-witch</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/36229/1/200.jpg</hinh_nho>
 		<gioi_thieu>After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyochuu-rettou-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="yuusha ga shinda!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>yuusha ga shinda!</ten_truyen>
-		<ma_truyen>yuusha-ga-shinda</ma_truyen>
-		<tac_gia>Subaruichi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/29997/3/200.jpg</hinh_nho>
-		<gioi_thieu>Three Years ago a Hero sealed a Hell Gate. The Seal has been weakening ever since, sporadically letting Monsters through. After a big Group of Monsters entered the Country through a Hell Gate, the profession of Heroes was needed again. Touka Scott a small Radish Farmer in the southern Town of Cheza is prepared for sudden Monster Attacks. He built himself a hidden Pittrap with Bamboo spikes, to lure unsuspecting Monsters in if they ever try to Attack the Village. Suddenly a Monster attacks. Touka tries to lure it into the Trap with freshly roasted Bacon, but the Monster dislikes this type of Meat. Thankfully the local Hero saves the Village from the Monster in the nick of Time. The hungry Hero tries to grab a bite of Bacon after vanquishing the Monster, only to stumble into Toukas Pittrap and Die. After causing the local Heros Death, Touka is forced to take matters into his own Hands to protect the Region from attacking Monsters.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuusha-ga-shinda-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="servamp" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Mystery, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>servamp</ten_truyen>
-		<ma_truyen>servamp</ma_truyen>
-		<tac_gia>Tanaka Strike</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/24536/3/200.jpg</hinh_nho>
-		<gioi_thieu>When a stray black cat named Kuro crosses Mahiru Shirota's path, the high school freshman's life will never be the same again. Kuro is, in fact, no ordinary feline, but a servamp: a servant vampire. While Mahiru's personal philosophy is one of non-intervention, he soon becomes embroiled in an ancient, altogether surreal conflict between vampires and humans.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/servamp-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="shinjuku swan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>shinjuku swan</ten_truyen>
-		<ma_truyen>shinjuku-swan</ma_truyen>
-		<tac_gia>Wakui Ken</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/32873/1/200.jpg</hinh_nho>
-		<gioi_thieu>Shiratori Tatsuhiko was a bum wandering the streets with no money to his name when he meets Mako. He works as a scout for an agency called Burst that recruits girls on the streets for adult entertainment in the Shinjuku area of Tokyo. Tatsuhiko quickly learns the techniques of scouting and is even more attracted to how much money he can make. But with how the industry is maintained, Tatsuhiko has to deal with the lying, deception, violence, greed and even the yakuza. He wants to keep the morals that he has, but it gets progressively harder and harder as he gets deeper into the other side of society.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shinjuku-swan-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
