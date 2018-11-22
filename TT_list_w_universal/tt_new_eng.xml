@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="happiness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>happiness</ten_truyen>
+		<ma_truyen>happiness</ma_truyen>
+		<tac_gia>Oshimi Shuzo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/30345/6/200.jpg</hinh_nho>
+		<gioi_thieu>Makoto Okazaki is your run of the mill high-schooler, a perfect bullying target and a closet pervert. One night he decides to return a DVD to a friend of his and ventures out into the darkness. He notices a person on a nearby rooftop. The person lunges at him before he is able to make sense of this, and bites into his neck, drinking his blood. The attacker stops. At this point Makoto notices that the attacker is a beautiful girl. She asks him: 'Do you want to die or become like me?' He decides to live...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/happiness-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="ratman" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Romance, School life, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>ratman</ten_truyen>
+		<ma_truyen>ratman</ma_truyen>
+		<tac_gia>Inui Sekihiko</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/8106/2/200.jpg</hinh_nho>
+		<gioi_thieu>Meet Shooto. He's a big hero fan and wants to become a hero! The problem is that he's mocked for being too short. One day, his classmate Mizushima invites him to become a 'hero' at her home which is actually a criminal organization called Jackal. Shooto then gets tricked by Jackal's leader Crea to become their supervillian, Ratman! Now the world's smallest hero will embark on his battle against heroes and villains alike!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ratman-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="accel world" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Romance, School life, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>accel world</ten_truyen>
+		<ma_truyen>accel-world</ma_truyen>
+		<tac_gia>Kawahara reki, Aigamo Hiroyuki</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/300/3/200.jpg</hinh_nho>
+		<gioi_thieu>No matter how much the times change, bullied kids aren't going anywhere. And fat junior high school student Haruyuki is one of them. But one day, Haruyuki encounters Kuroyukihime, the most beautiful and elegant girl at school, who gives him a mysterious program: 'Brain Burst'...and the secret of the 'Accelerated World.' He may be at the bottom of the food chain at school, but Haruyuki and his destiny begin to 'accelerate' with incredible speed in the virtual realm as he aims for the top.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/accel-world-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="solo leveling" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Shounen., Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>solo leveling</ten_truyen>
 		<ma_truyen>solo-leveling</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>Delve into Batman's case histories and discover brand-new stories by some of comics' most exciting talents. The BATMAN team of Tom King and Mikel Janin provides a framing sequence, setting up our hand-picked teams of creators to take a look at Bat-mysteries past and present. Featuring a bevy of Batman villains, including a look at how the Scarecrow's fear toxin affects the common man, and a special story written by Tom Taylor with art by Brad Walker that teams the Dark Knight Detective with Detective Chimp.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-secret-files-eng.xml</file_xml>
     </truyen>
-	<truyen ten="to you, the immortal" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Drama, Fantasy, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>to you, the immortal</ten_truyen>
-		<ma_truyen>to-you-the-immortal</ma_truyen>
-		<tac_gia>Oima Yoshitoki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/45063/5/200.jpg</hinh_nho>
-		<gioi_thieu>An immortal being was sent to the surface of the earth and met a boy living alone in the middle of tundra. The being can take the shape of dying things, but only if the 'impetus' is stronger than the previous one. What sort of experiences and meetings will the being encounter while living forever?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/to-you-the-immortal-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kusumi-kun, kuuki yometemasu ka?" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kusumi-kun, kuuki yometemasu ka?</ten_truyen>
-		<ma_truyen>kusumi-kun-kuuki-yometemasu-ka</ma_truyen>
-		<tac_gia>Mosuko</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42058/1/200.jpg</hinh_nho>
-		<gioi_thieu>Erika Sakura is the school's most popular female high schooler, and only met with envious gazes since she is out of everyone's league. However, she is recently interested in a certain male high schooler who can't read between the lines, Kuzumi. While having a relationship between the two is out of the question, her unrequited love will soon change in this romantic comedy. Follow this new inevitably heart pounding, out-of-contact short love comedy!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kusumi-kun-kuuki-yometemasu-ka-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="haruka 17" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>haruka 17</ten_truyen>
-		<ma_truyen>haruka-17</ma_truyen>
-		<tac_gia>Yamazaki Sayaka</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3557/1/200.jpg</hinh_nho>
-		<gioi_thieu>Haruka is about to graduate from a first-rate college and is looking for work but no one wants to hire her. Faced with the prospect of becoming a 'shuushoku rounin' she finally lowers her expectations and decides to apply at a tiny talent agency for a job as an agent. When she shows up for the interview however, it's like no interview she's ever had before. She's asked all sorts of embarrasing questions and asked to say lines in front of a camera. Later she finds out that they thought she was interviewing to become a talent, and the agent position she wanted has already been given away. However, they think she has that special quality that can make someone a star. She refuses at first, but finally gives in. Thus starts Haruka's career in the entertainment industry.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haruka-17-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
