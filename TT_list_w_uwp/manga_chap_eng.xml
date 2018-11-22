@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>nanatsu no taizai</ten_truyen>
+		<ma_truyen>nanatsu-no-taizai</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
+		<chap_moi>chap 290</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>eden's zero</ten_truyen>
+		<ma_truyen>eden-s-zero</ma_truyen>
+        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
+		<chap_moi>chap 21</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gate - jietai kare no chi nite, kaku tatakeri</ten_truyen>
+		<ma_truyen>gate-jietai-kare-no-chi-nite-kaku-tatakeri</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/2999/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gate-jietai-kare-no-chi-nite-kaku-tatakeri-eng.xml</file_xml>
+		<chap_moi>chap 79</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>konjiki no moji tsukai - yuusha yonin ni makikomareta unique cheat</ten_truyen>
+		<ma_truyen>konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/29695/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat-eng.xml</file_xml>
+		<chap_moi>chap 46</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mahou tsukai no yome</ten_truyen>
+		<ma_truyen>mahou-tsukai-no-yome</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/25056/8/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-tsukai-no-yome-eng.xml</file_xml>
+		<chap_moi>chap 51</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shirogane no nina</ten_truyen>
+		<ma_truyen>shirogane-no-nina</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/24387/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shirogane-no-nina-eng.xml</file_xml>
+		<chap_moi>chap 120</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>kengan ashua</ten_truyen>
 		<ma_truyen>kengan-ashua</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
@@ -167,47 +209,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/38802/1/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mai-ball-eng.xml</file_xml>
 		<chap_moi>chap 102.2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kingdom  </ten_truyen>
-		<ma_truyen>kingdom</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
-		<chap_moi>chap 580</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-meshi-eng.xml</file_xml>
-		<chap_moi>chap 49</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
-		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
-        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
-		<chap_moi>chap 12</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kaguya-sama wa kokurasetai - tensai-tachi no renai zunousen</ten_truyen>
-		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
-		<chap_moi>chap 127</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tsugumomo</ten_truyen>
-		<ma_truyen>tsugumomo</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/10524/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsugumomo-eng.xml</file_xml>
-		<chap_moi>chap 114</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>namaikizakari</ten_truyen>
-		<ma_truyen>namaikizakari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/27263/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/namaikizakari-eng.xml</file_xml>
-		<chap_moi>chap 91</chap_moi>
 	</truyen>
 </danh_sach_truyen>

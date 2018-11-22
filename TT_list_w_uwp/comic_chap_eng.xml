@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>uncanny x-men (2018)</ten_truyen>
+		<ma_truyen>uncanny-x-men-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>optimus prime</ten_truyen>
+		<ma_truyen>optimus-prime</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/optimus-prime/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/optimus-prime-eng.xml</file_xml>
+		<chap_moi>issue 25</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dejah thoris (2016)</ten_truyen>
+		<ma_truyen>dejah-thoris-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/dejah-thoris-2016-eng.xml</file_xml>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>marvel knights: 20th</ten_truyen>
+		<ma_truyen>marvel-knights-20th</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-knights-20th/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-knights-20th-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>stellar</ten_truyen>
+		<ma_truyen>stellar</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/stellar/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/stellar-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>quantum and woody! (2017)</ten_truyen>
+		<ma_truyen>quantum-and-woody-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/q/quantum-and-woody-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quantum-and-woody-2017-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>thor (2018)</ten_truyen>
 		<ma_truyen>thor-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
@@ -167,47 +209,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/skyward-(2018)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/skyward-2018-eng.xml</file_xml>
 		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
-		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>birthright</ten_truyen>
-		<ma_truyen>birthright</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/birthright/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/birthright-eng.xml</file_xml>
-		<chap_moi>issue 33</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>cyber force (2018)</ten_truyen>
-		<ma_truyen>cyber-force-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/cyber-force-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cyber-force-2018-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shadow roads</ten_truyen>
-		<ma_truyen>shadow-roads</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shadow-roads/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shadow-roads-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>thief of thieves</ten_truyen>
-		<ma_truyen>thief-of-thieves</ma_truyen>
-        <hinh_nho>https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Thief_of_Thieves.jpg/200px-Thief_of_Thieves.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thief-of-thieves-eng.xml</file_xml>
-		<chap_moi>issue 42</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>oblivion song</ten_truyen>
-		<ma_truyen>oblivion-song</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/oblivion-song/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oblivion-song-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
 	</truyen>
 </danh_sach_truyen>
