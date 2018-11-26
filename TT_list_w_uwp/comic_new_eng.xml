@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="west coast avengers (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>west coast avengers (2018)</ten_truyen>
+		<ma_truyen>west-coast-avengers-2018</ma_truyen>
+        <tac_gia>Kelly Thompson, Stefano Caselli</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/west-coast-avengers-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A NEW ERA DAWNS...AVENGERS ASSEMBLE! HAWKEYE (KATE BISHOP). HAWKEYE (CLINT BARTON). A guy named FUSE. Never have they ever been called 'the big three' of...anything. And now here they are, reunited for, okay, well, it's only the second time ever. Thank god they also brought AMERICA CHAVEZ, GWENPOOL and KID OMEGA. Wait. What? That's right, it's the new West Coast Avengers, son. And you better hope they can figure out how to save the world because BIG things are headed for the West Coast.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/west-coast-avengers-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="robots versus princesses" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Children, Comedy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>robots versus princesses</ten_truyen>
+		<ma_truyen>robots-versus-princesses</ma_truyen>
+        <tac_gia>Todd Matthy, Nicolas Chapuis</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robots-vs-princesses/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The comic event of the year has arrived! When plucky Princess Zara stumbles upon the Decimator defector Wheeler, she sets in motion events that will pit the spritely cleverness of fairy tale princesses against the raw power of giant robots! The dream match you never thought you'd see begins here. Don't miss it!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robots-versus-princesses-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="middlewest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>middlewest</ten_truyen>
+		<ma_truyen>middlewest</ma_truyen>
+        <tac_gia>Skottie Young, Jorge Corona</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/middlewest/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The lands between the coasts are vast, slow to change, and full of hidden magics. Mistakes have been made, and in this NEW ONGOING SERIES, an unwitting adventurer searches for answers to quell a coming storm that knows his name. From author SKOTTIE YOUNG (I HATE FAIRYLAND, Deadpool) and artist JORGE CORONA (NO. 1 WITH A BULLET, Feathers, Big Trouble in Little China: Old Man Jack) comes the tale of Abel, a young boy who must navigate an old land in order to reconcile his family's history.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/middlewest-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="uncanny x-men (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>uncanny x-men (2018)</ten_truyen>
 		<ma_truyen>uncanny-x-men-2018</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/magneto_1_medium.jpg</hinh_nho>
         <gioi_thieu>MAGNETO IS BACK... and so is Chris Claremont! For years, Magneto has done everything he can to achieve his goals for mutant domination. But now Magneto has declared that enough is enough. So what revolutionary plan does Magneto have that will change the face of mutantkind? And will anyone be able to stop him? Will anyone want to? PLUS: Includes Part 1 of X-MEN BLACK: APOCALYPSE the back up story by Zac Thompson, Lonnie Nadler, and Geraldo Borge!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-magneto-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="infinity wars: iron hammer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars: iron hammer</ten_truyen>
-		<ma_truyen>infinity-wars-iron-hammer</ma_truyen>
-        <tac_gia>Al Ewing, Humberto Ramos</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-iron-hammer/1_medium.jpg</hinh_nho>
-        <gioi_thieu>INFINITY WARPS?! When Stark Odinson, the brainy but arrogant son of the All-Father, was kidnapped by Ice Giants and forced to make them an armory, he turned their forges against them and became the armored Asgardian, Iron Hammer!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-iron-hammer-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="venom: first host" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>venom: first host</ten_truyen>
-		<ma_truyen>venom-first-host</ma_truyen>
-        <tac_gia>Mike Costa, Mark Bagley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/v/venom-first-host/1_medium.jpg</hinh_nho>
-        <gioi_thieu>MIKE COSTA AND MARK BAGLEY REUNITE FOR A VENOM STORY UNLIKE ANY OTHER! Before the AMAZING SPIDER-MAN...before VENOM... There was the FIRST HOST. And that First Host has returned  in need of Venom's help - only by reuniting can the two avert cosmic ruin! Can Eddie and the symbiote trust one another long enough to save the galaxy, or will the FIRST HOST prove to be Venom's undoing?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venom-first-host-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the sentry (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the sentry (2018)</ten_truyen>
-		<ma_truyen>the-sentry-2018</ma_truyen>
-        <tac_gia>Jeff Lemire, Kim Jacinto</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sentry-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE GOLDEN GUARDIAN IS BACK! FRESH FROM THE PAGES OF DOCTOR STRANGE...but is that really such a good thing? The greatest hero that the Marvel Universe ever forgot has returned! The Sentry - shining sentinel with the power of a thousand exploding suns - is back from the dead, but his troubled mind is far from finding peace. By day, he trudges through a mundane life as Bob Reynolds; at night, the Sentry soars across a gleaming, perfect skyline. But how much of the Sentry's dual existence is real? And what of his dark other self, the Void?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-sentry-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

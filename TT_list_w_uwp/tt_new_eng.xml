@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="west coast avengers (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>west coast avengers (2018)</ten_truyen>
+		<ma_truyen>west-coast-avengers-2018</ma_truyen>
+        <tac_gia>Kelly Thompson, Stefano Caselli</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/west-coast-avengers-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A NEW ERA DAWNS...AVENGERS ASSEMBLE! HAWKEYE (KATE BISHOP). HAWKEYE (CLINT BARTON). A guy named FUSE. Never have they ever been called 'the big three' of...anything. And now here they are, reunited for, okay, well, it's only the second time ever. Thank god they also brought AMERICA CHAVEZ, GWENPOOL and KID OMEGA. Wait. What? That's right, it's the new West Coast Avengers, son. And you better hope they can figure out how to save the world because BIG things are headed for the West Coast.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/west-coast-avengers-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="robots versus princesses" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Children, Comedy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>robots versus princesses</ten_truyen>
+		<ma_truyen>robots-versus-princesses</ma_truyen>
+        <tac_gia>Todd Matthy, Nicolas Chapuis</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robots-vs-princesses/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The comic event of the year has arrived! When plucky Princess Zara stumbles upon the Decimator defector Wheeler, she sets in motion events that will pit the spritely cleverness of fairy tale princesses against the raw power of giant robots! The dream match you never thought you'd see begins here. Don't miss it!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robots-versus-princesses-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="middlewest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>middlewest</ten_truyen>
+		<ma_truyen>middlewest</ma_truyen>
+        <tac_gia>Skottie Young, Jorge Corona</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/middlewest/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The lands between the coasts are vast, slow to change, and full of hidden magics. Mistakes have been made, and in this NEW ONGOING SERIES, an unwitting adventurer searches for answers to quell a coming storm that knows his name. From author SKOTTIE YOUNG (I HATE FAIRYLAND, Deadpool) and artist JORGE CORONA (NO. 1 WITH A BULLET, Feathers, Big Trouble in Little China: Old Man Jack) comes the tale of Abel, a young boy who must navigate an old land in order to reconcile his family's history.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/middlewest-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="happiness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>happiness</ten_truyen>
 		<ma_truyen>happiness</ma_truyen>
@@ -243,31 +270,4 @@
 		<gioi_thieu>Other people cultivate I open my store, other people shut in and cultivate I go for bidding sales, people tease me full of bronze smell, I tease other people full of fakes pride/honour, looking at those upper deities have to kneel down and negotiate with me makes me happy... watch me using gold silver jade to make my dao...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/immortal-merchant-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="heroes in crisis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>heroes in crisis</ten_truyen>
-		<ma_truyen>heroes-in-crisis</ma_truyen>
-        <tac_gia>Tom King, Clay Mann</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/heroes-in-crisis/1_medium.jpg</hinh_nho>
-        <gioi_thieu>There's a new kind of crisis threatening the heroes of the DC Universe, ripped from real-world headlines by C.I.A.-operative-turned-comics-writer Tom King: How does a superhero handle PTSD? Welcome to Sanctuary, an ultra-secret hospital for superheroes who've been traumatized by crime-fighting and cosmic combat. But something goes inexplicably wrong when many patients wind up dead, with two well-known operators as the prime suspects: Harley Quinn and Booster Gold! It's up to the DC Trinity of Superman, Wonder Woman and Batman to investigate but can they get the job done in the face of overwhelming opposition?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/heroes-in-crisis-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="spider-force" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>spider-force</ten_truyen>
-		<ma_truyen>spider-force</ma_truyen>
-        <tac_gia>Christopher Priest, Shane Davis, Siquiera</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-force/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A SPIDER-GEDDON TIE IN! The deadliest task in all of SPIDER-GEDDON has come up and Kaine has stepped forward for what he's sure will be a suicide mission. But he can't do it alone and Jessica Drew, A.K.A. Spider-Woman has signed on to help, but has Kaine told her the whole truth? With Ashley Barton, from the OLD MAN LOGAN universe, and two new characters (Astro-Spider and Spider-Kid), Kaine's team is complete and their first mission may be their last!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-force-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="batman: secret files" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>batman: secret files</ten_truyen>
-		<ma_truyen>batman-secret-files</ma_truyen>
-        <tac_gia>Jordie Bellaire, Cheryl Lynn Eaton, Tom King, Tom Taylor, Ram V, Elena Casagrande, Jorge Fornes, Mikel Janin, Jill Thompson, Brad Walker</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-(2016)/secret-files_1_medium.jpg</hinh_nho>
-        <gioi_thieu>Delve into Batman's case histories and discover brand-new stories by some of comics' most exciting talents. The BATMAN team of Tom King and Mikel Janin provides a framing sequence, setting up our hand-picked teams of creators to take a look at Bat-mysteries past and present. Featuring a bevy of Batman villains, including a look at how the Scarecrow's fear toxin affects the common man, and a special story written by Tom Taylor with art by Brad Walker that teams the Dark Knight Detective with Detective Chimp.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-secret-files-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
