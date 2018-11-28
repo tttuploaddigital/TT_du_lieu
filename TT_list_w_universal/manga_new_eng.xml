@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="new prince of tennis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>new prince of tennis</ten_truyen>
+		<ma_truyen>new-prince-of-tennis</ma_truyen>
+		<tac_gia>Konomi Takeshi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/6990/9/200.jpg</hinh_nho>
+		<gioi_thieu>The purported advertisement from the Jump Square issue says that everything in The Prince of Tennis up to now has been 'prologue' and that 'a new legend for [the main character] Ryoma and the others will begin.' This continues what happened in the 'Prince of Tennis', after the end of the tournament . In 'The New Prince of Tennis', Ryoma and the others (team members and teams they faced) begin a new adventure when they are the only 50 middle school students to be invited to the Japanese High School Representatives Selection Camp where only the top potentials in the Japanese tennis world train.What will happen now?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/new-prince-of-tennis-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="prince of tennis " tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>prince of tennis </ten_truyen>
+		<ma_truyen>prince-of-tennis</ma_truyen>
+		<tac_gia>Konomi Takeshi</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/7918/1/200.jpg</hinh_nho>
+		<gioi_thieu>Ryoma Echizen just joined the Seishun Academy's tennis team, which is known for being one of the most competitive teams in Japan. Its members are incredibly talented, gifted, and athletic. With rigorous and extremely intense practices, the upperclassmen of the team expect the very best from themselves and they expect even more from the new members of the team. While most of the freshmen are on pins and needles hoping they won't get cut from the team, Ryoma Echizen is confident, cool, and collected. Some might even say he's cocky, but at least he's got the skills to back up his attitude. With his virtually unreturnable 'twist serve', Ryoma is sure to make the starting team. Join Ryoma and the other first years, as they train hard, make friends, and try to find a place for themselves on the team. And meet Ryoma's cute but chronically shy classmate Sakuno Ryuzaki. She's got a big crush on Ryoma, but will he ever notice her? Ryoma Echizen is the Prince of Tennis. He may be ready for the Seishun Academy tennis team, but are they ready for him?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/prince-of-tennis-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="zipang" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Historical, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>zipang</ten_truyen>
+		<ma_truyen>zipang</ma_truyen>
+		<tac_gia>Kawaguchi Kaiji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/11587/1/200.jpg</hinh_nho>
+		<gioi_thieu>In the year 200X, a Japanese fleet consisting of 3 vessels leave on a mission to South America. After encountering a storm, the ship JDS Mirai find themselves without their escorts and in 1942, traveling towards the island of Midway to face the American fleet in one of largest battles in naval history. The crew of MIrai must decide whether or not to change the course of history by involving itself in WWII.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/zipang-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="happiness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>happiness</ten_truyen>
 		<ma_truyen>happiness</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/3044/1/200.jpg</hinh_nho>
 		<gioi_thieu>Strange things are happening all over town, and Kouichi Amano's nightmares have started again. Several clans have been spurred into action as the past gradually resurfaces. Just what is going on, and how do the Amano brothers fit into the picture?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/genwaku-no-kodou-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="dragons rioting" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Harem, Martial arts, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>dragons rioting</ten_truyen>
-		<ma_truyen>dragons-rioting</ma_truyen>
-		<tac_gia>Watanabe Tsuyoshi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/2484/6/200.jpg</hinh_nho>
-		<gioi_thieu>As a 6 Year Old, Rintaro is diagnosed with Henisei Tashu Ijou Syndrome (also known as Hentai Syndrome), a disease that could kill him if he gets sexually aroused. To save him and provide a way for him to live as normal a life as possible, his father teaches him the ways to control his body and mind for ten years in the mountains, with the martial art of the Koei Sougetsu. When he's 16 he chooses to enroll Nangokuren High School, which he assumed to be the biggest all-boys school in the country but is actually the biggest all-girls school that has just gone coed. On his first day he stumbles upon a large scale battle and learns that the first rule of the school is that it 'Abides the Law of Nature' which has turned the campus into a war zone-like environment. Rintaro now sees transferring out as his mission, but will it be that easy now that he's caught the eye of the 3 'Dragons', the bodacious female leaders of the three biggest factions around?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dragons-rioting-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="black torch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>black torch</ten_truyen>
-		<ma_truyen>black-torch</ma_truyen>
-		<tac_gia>Takaki Tsuyoshi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/46706/2/200.jpg</hinh_nho>
-		<gioi_thieu>As a descendant of shinobi, Jirou Azuma has been learning ninja techniques his entire life. But in addition to that, he also has the ability to talk to animals. One day when he rescues a strange black cat named Ragou, he learns that the world is filled with spirits called mononoke that can take the form of both people and animals. However, their meeting is cut short when they are attacked by a hostile mononoke who is after Ragou's power.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-torch-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kyochuu rettou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Fantasy, Horror, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kyochuu rettou</ten_truyen>
-		<ma_truyen>kyochuu-rettou</ma_truyen>
-		<tac_gia>Fujimi Yasutaka, Red Ice</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/36229/1/200.jpg</hinh_nho>
-		<gioi_thieu>After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyochuu-rettou-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
