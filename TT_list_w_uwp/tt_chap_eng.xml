@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
+		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mighty morphin power rangers</ten_truyen>
+		<ma_truyen>mighty-morphin-power-rangers</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mighty-morphin-power-rangers/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mighty-morphin-power-rangers-eng.xml</file_xml>
+		<chap_moi>issue 33</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>revenge of wonderland</ten_truyen>
+		<ma_truyen>revenge-of-wonderland</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/revenge-of-wonderland/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/revenge-of-wonderland-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nanatsu no taizai</ten_truyen>
+		<ma_truyen>nanatsu-no-taizai</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
+		<chap_moi>chap 291</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>golden kamui</ten_truyen>
+		<ma_truyen>golden-kamui</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/golden-kamui-eng.xml</file_xml>
+		<chap_moi>chap 180</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>boruto : naruto next generations</ten_truyen>
+		<ma_truyen>boruto-naruto-next-generations</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40807/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boruto-naruto-next-generations-eng.xml</file_xml>
+		<chap_moi>chap 29</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>x-o manowar (2017)</ten_truyen>
+		<ma_truyen>x-o-manowar-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-o-manowar-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-o-manowar-2017-eng.xml</file_xml>
+		<chap_moi>issue 21</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>die!die!die!</ten_truyen>
+		<ma_truyen>die-die-die</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/diediedie/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/die-die-die-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>coda  </ten_truyen>
+		<ma_truyen>coda</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/coda/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/coda-eng.xml</file_xml>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>world trigger</ten_truyen>
+		<ma_truyen>world-trigger</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/11153/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-trigger-eng.xml</file_xml>
+		<chap_moi>chap 169</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>jagaaaaaan</ten_truyen>
+		<ma_truyen>jagaaaaaan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/47205/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jagaaaaaan-eng.xml</file_xml>
+		<chap_moi>chap 62</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>world's end harem</ten_truyen>
+		<ma_truyen>world-s-end-harem</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
+		<chap_moi>chap 54.1</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tales of demons and gods</ten_truyen>
+		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tales-of-demons-and-gods-eng.xml</file_xml>
+		<chap_moi>chap 200.5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tower of god</ten_truyen>
+		<ma_truyen>tower-of-god</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/10442/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/tower-of-god-eng.xml</file_xml>
+		<chap_moi>chap 409</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>doulou dalu</ten_truyen>
+		<ma_truyen>doulou-dalu</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/26543/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/doulou-dalu-eng.xml</file_xml>
+		<chap_moi>chap 216</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>star wars (2015)</ten_truyen>
 		<ma_truyen>star-wars-2015</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
@@ -104,110 +209,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/37911/1/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/yin-zhi-shoumuren-eng.xml</file_xml>
 		<chap_moi>chap 205</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>uncanny x-men (2018)</ten_truyen>
-		<ma_truyen>uncanny-x-men-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>optimus prime</ten_truyen>
-		<ma_truyen>optimus-prime</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/optimus-prime/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/optimus-prime-eng.xml</file_xml>
-		<chap_moi>issue 25</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dejah thoris (2018)</ten_truyen>
-		<ma_truyen>dejah-thoris-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dejah-thoris-2018-eng.xml</file_xml>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanatsu no taizai</ten_truyen>
-		<ma_truyen>nanatsu-no-taizai</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
-		<chap_moi>chap 290</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>eden's zero</ten_truyen>
-		<ma_truyen>eden-s-zero</ma_truyen>
-        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
-		<chap_moi>chap 21</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gate - jietai kare no chi nite, kaku tatakeri</ten_truyen>
-		<ma_truyen>gate-jietai-kare-no-chi-nite-kaku-tatakeri</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2999/7/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gate-jietai-kare-no-chi-nite-kaku-tatakeri-eng.xml</file_xml>
-		<chap_moi>chap 79</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>marvel knights: 20th</ten_truyen>
-		<ma_truyen>marvel-knights-20th</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-knights-20th/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-knights-20th-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>stellar</ten_truyen>
-		<ma_truyen>stellar</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/stellar/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/stellar-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>quantum and woody! (2017)</ten_truyen>
-		<ma_truyen>quantum-and-woody-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/q/quantum-and-woody-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quantum-and-woody-2017-eng.xml</file_xml>
-		<chap_moi>issue 12</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>konjiki no moji tsukai - yuusha yonin ni makikomareta unique cheat</ten_truyen>
-		<ma_truyen>konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/29695/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat-eng.xml</file_xml>
-		<chap_moi>chap 46</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mahou tsukai no yome</ten_truyen>
-		<ma_truyen>mahou-tsukai-no-yome</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/25056/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-tsukai-no-yome-eng.xml</file_xml>
-		<chap_moi>chap 51</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shirogane no nina</ten_truyen>
-		<ma_truyen>shirogane-no-nina</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/24387/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shirogane-no-nina-eng.xml</file_xml>
-		<chap_moi>chap 120</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hunter age</ten_truyen>
-		<ma_truyen>hunter-age</ma_truyen>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/31/27/312761804f8e9164dcd08000954b3104c34da801_18586_200_259.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/hunter-age-eng.xml</file_xml>
-		<chap_moi>chap 75</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hardcore leveling warrior</ten_truyen>
-		<ma_truyen>hardcore-leveling-warrior</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/38858/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/hardcore-leveling-warrior-eng.xml</file_xml>
-		<chap_moi>chap 111</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>immortal merchant</ten_truyen>
-		<ma_truyen>immortal-merchant</ma_truyen>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/fd/88/fd8805a34c74666e7c48f37baf83233d36de62ab_29238_200_280.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/immortal-merchant-eng.xml</file_xml>
-		<chap_moi>chap 23</chap_moi>
 	</truyen>
 </danh_sach_truyen>
