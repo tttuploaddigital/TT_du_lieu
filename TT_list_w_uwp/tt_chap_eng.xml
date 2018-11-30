@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>fantastic four (2018)</ten_truyen>
+		<ma_truyen>fantastic-four-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/fantastic-four-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fantastic-four-2018-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>wonder woman (2016)</ten_truyen>
+		<ma_truyen>wonder-woman-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-woman-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-woman-2016-eng.xml</file_xml>
+		<chap_moi>issue 59</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>spider-man / deadpool</ten_truyen>
+		<ma_truyen>spider-man-deadpool</ma_truyen>
+        <hinh_nho>https://images-na.ssl-images-amazon.com/images/I/61pFDQdn%2BJL._SY346_.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-man-deadpool-eng.xml</file_xml>
+		<chap_moi>issue 42</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>goblin slayer </ten_truyen>
+		<ma_truyen>goblin-slayer</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41855/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-eng.xml</file_xml>
+		<chap_moi>chap 30</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>black clover</ten_truyen>
+		<ma_truyen>black-clover</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
+		<chap_moi>chap 184</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>baby steps</ten_truyen>
+		<ma_truyen>baby-steps</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
+		<chap_moi>chap 331</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>titans (2016) </ten_truyen>
+		<ma_truyen>titans-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/titans-2016-eng.xml</file_xml>
+		<chap_moi>issue 30</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>x-23 (2018)</ten_truyen>
+		<ma_truyen>x-23-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>fence</ten_truyen>
+		<ma_truyen>fence</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/fence/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fence-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>made in abyss</ten_truyen>
+		<ma_truyen>made-in-abyss</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/37438/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/made-in-abyss-eng.xml</file_xml>
+		<chap_moi>chap 49</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>murenase! shiiton gakuen</ten_truyen>
+		<ma_truyen>murenase-shiiton-gakuen</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41813/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/murenase-shiiton-gakuen-eng.xml</file_xml>
+		<chap_moi>chap 58</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>horimiya</ten_truyen>
+		<ma_truyen>horimiya</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3949/13/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/horimiya-eng.xml</file_xml>
+		<chap_moi>chap 93</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the god of high school</ten_truyen>
+		<ma_truyen>the-god-of-high-school</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/10053/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/the-god-of-high-school-eng.xml</file_xml>
+		<chap_moi>chap 384</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>noblesse</ten_truyen>
+		<ma_truyen>noblesse</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/noblesse-eng.xml</file_xml>
+		<chap_moi>chap 539</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>skeleton soldier</ten_truyen>
+		<ma_truyen>skeleton-soldier</ma_truyen>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/7a/63/7a63998dbe12a91bc1a7bd46a06fcbd8237c0733_13671_200_248.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/skeleton-soldier-eng.xml</file_xml>
+		<chap_moi>chap 38</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
 		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
@@ -104,110 +209,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/26543/2/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/doulou-dalu-eng.xml</file_xml>
 		<chap_moi>chap 216</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars (2015)</ten_truyen>
-		<ma_truyen>star-wars-2015</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
-		<chap_moi>issue 57</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>teen titans (2016)</ten_truyen>
-		<ma_truyen>teen-titans-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/teen-titans-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teen-titans-2016-eng.xml</file_xml>
-		<chap_moi>issue 24</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>evolution  </ten_truyen>
-		<ma_truyen>evolution</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/evolution-eng.xml</file_xml>
-		<chap_moi>issue 12</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 925</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hunter x hunter</ten_truyen>
-		<ma_truyen>hunter-x-hunter</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/4026/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hunter-x-hunter-eng.xml</file_xml>
-		<chap_moi>chap 390</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 289</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>sideways</ten_truyen>
-		<ma_truyen>sideways</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sideways/2_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sideways-eng.xml</file_xml>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars: doctor aphra</ten_truyen>
-		<ma_truyen>star-wars-doctor-aphra</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-doctor-aphra/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-doctor-aphra-eng.xml</file_xml>
-		<chap_moi>issue 26</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>pestilence: a story of satan</ten_truyen>
-		<ma_truyen>pestilence-a-story-of-satan</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/pestilence-a-story-of-satan/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pestilence-a-story-of-satan-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>black clover</ten_truyen>
-		<ma_truyen>black-clover</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
-		<chap_moi>chap 183</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kimetsu no yaiba</ten_truyen>
-		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
-		<chap_moi>chap 135</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>enen no shouboutai</ten_truyen>
-		<ma_truyen>enen-no-shouboutai</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35965/6/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/enen-no-shouboutai-eng.xml</file_xml>
-		<chap_moi>chap 146</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>panlong</ten_truyen>
-		<ma_truyen>panlong</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30349/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/panlong-eng.xml</file_xml>
-		<chap_moi>chap 164</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dice: the cube that changes everything</ten_truyen>
-		<ma_truyen>dice-the-cube-that-changes-everything</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/22106/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/dice-the-cube-that-changes-everything-eng.xml</file_xml>
-		<chap_moi>chap 261</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yin zhi shoumuren</ten_truyen>
-		<ma_truyen>yin-zhi-shoumuren</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/37911/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/yin-zhi-shoumuren-eng.xml</file_xml>
-		<chap_moi>chap 205</chap_moi>
 	</truyen>
 </danh_sach_truyen>
