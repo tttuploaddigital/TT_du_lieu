@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="infinity wars: weapon hex" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity wars: weapon hex</ten_truyen>
+		<ma_truyen>infinity-wars-weapon-hex</ma_truyen>
+        <tac_gia>Ben Acker, Ben Blacker, Gerardo Sandoval</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-weapon-hex/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In a dark weapons program breeding subjects specifically for magic use, the 23rd attempt, now called Wanda, was finally able to connect to violent magics - making her one of the deadliest people on the planet!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-weapon-hex-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="infinity wars: arachknight" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity wars: arachknight</ten_truyen>
+		<ma_truyen>infinity-wars-arachknight</ma_truyen>
+        <tac_gia>Dennis Hopeless, Ale Garza</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-arachknight/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Chosen as the Avatar of the Spider-Totem, Peter Parker is the dark guardian of destiny doing the bidding of the great weaver of fate... a role that has shattered his mind into multiple personas: a tech genius, a photographer, a teacher...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-arachknight-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="spider-gwen: ghost-spider" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>spider-gwen: ghost-spider</ten_truyen>
+		<ma_truyen>spider-gwen-ghost-spider</ma_truyen>
+        <tac_gia>Seanan McGuire, Rosi Kampe</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-gwen-ghost-spider-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A SPIDER-GEDDON TIE IN! What? You thought we were done with Gwen Stacy after the first two landmark volumes of her series?! GET OUTTA HERE. It's a whole new spin on Gwen and her world of Earth-65, brought to you by none other than SEANAN MCGUIRE and ROSI KAMPE! We pick up with Gwen right where we left her - fighting crime through her home reality, unaware that it sits on the precipice of interdimensional calamity! Someone's gonna be late to band practice...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-gwen-ghost-spider-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="new prince of tennis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>new prince of tennis</ten_truyen>
 		<ma_truyen>new-prince-of-tennis</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>GET READY TO RUN! The 'IT' book of the early 2000s with the original cast is back - Nico! Karolina! Molly! Chase! Old Lace! And, could it be? GERT?! The heart of the Runaways died years ago, but you won't believe how she returns! Superstar author Rainbow Rowell (Eleanor and Park, Carry On) makes her Marvel debut with fan-favorite artist Kris Anka (ALL-NEW X-MEN, CAPTAIN MARVEL) in the series that will shock you and break your heart!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/runaways-2017-eng.xml</file_xml>
     </truyen>
-	<truyen ten="platinum end" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Ecchi, Mature, Mystery, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>platinum end</ten_truyen>
-		<ma_truyen>platinum-end</ma_truyen>
-		<tac_gia>Ohba Tsugumi, Obata Takeshi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/36176/4/200.jpg</hinh_nho>
-		<gioi_thieu>The story tells of a human and an angel, and centers around Mirai Kakehashi, a boy who 'does not seek out hope in order to live.'</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/platinum-end-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="p to jk" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>p to jk</ten_truyen>
-		<ma_truyen>p-to-jk</ma_truyen>
-		<tac_gia>Miyoshi Maki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27317/2/200.jpg</hinh_nho>
-		<gioi_thieu>Kako fell in love with Kouta, a guy who saved her in a mixer while she's posing as a 22-year-old girl, only to find out the next day that he's a police officer. Just when they were getting closer to each other, he realized she's actually a high school student and distanced himself from her. But Kako continued her advances and accidentally got injured while protecting him, so he eventually decided to give into his feelings and face the complications of a policeman having a relationship with a high school girl.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/p-to-jk-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="eyeshield 21" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>eyeshield 21</ten_truyen>
-		<ma_truyen>eyeshield-21</ma_truyen>
-		<tac_gia>Inagaki Riichiro, Murata Yuusuke</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/2658/1/200.jpg</hinh_nho>
-		<gioi_thieu>Wimpy Sena Kobayakawa has been running away from bullies all his life. But when the football gear comes on, things change--Sena's speed and uncanny ability to elude big bullies just might give him what it takes to become a great high school football hero! Enjoy all the bone-crushing action and slapstick comedy that this heartwarming coming-of-age story has to offer.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/eyeshield-21-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
