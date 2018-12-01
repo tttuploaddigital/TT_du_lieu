@@ -210,25 +210,4 @@
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shirogane-no-nina-eng.xml</file_xml>
 		<chap_moi>chap 120</chap_moi>
 	</truyen>
-	<truyen>
-		<ten_truyen>kengan ashua</ten_truyen>
-		<ma_truyen>kengan-ashua</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kengan-ashua-eng.xml</file_xml>
-		<chap_moi>chap 187</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>knight's and magic</ten_truyen>
-		<ma_truyen>knight-s-and-magic</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/43546/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/knight-s-and-magic-eng.xml</file_xml>
-		<chap_moi>chap 52</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dragons rioting</ten_truyen>
-		<ma_truyen>dragons-rioting</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2484/6/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dragons-rioting-eng.xml</file_xml>
-		<chap_moi>chap 44.5</chap_moi>
-	</truyen>
 </danh_sach_truyen>
