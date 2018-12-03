@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="isobe isobee monogatari - ukiyo wa tsurai yo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Historical,	Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>isobe isobee monogatari - ukiyo wa tsurai yo</ten_truyen>
+		<ma_truyen>isobe-isobee-monogatari-ukiyo-wa-tsurai-yo</ma_truyen>
+		<tac_gia>Nakama Ryou</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/43295/2/200.jpg</hinh_nho>
+		<gioi_thieu>In this ukiyoe-style manga, Isobe Isobee is a lazy, slacker samurai with big dreams. He lives with his mother, who thinks highly of him. He lays around the house, sneakily looks at Edo-period pornography without his mother noticing, naps at school... but he plans to become a respectable samurai one day!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isobe-isobee-monogatari-ukiyo-wa-tsurai-yo-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="chihayafuru" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Josei, Romance, School life, Slice of life, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>chihayafuru</ten_truyen>
+		<ma_truyen>chihayafuru</ma_truyen>
+		<tac_gia>Suetsugu Yuki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/1716/10/200.jpg</hinh_nho>
+		<gioi_thieu>All her life, Chihaya's dream was to see her model sister become Japan's best... That is, until a quiet, unassuming transfer student named Arata tells her otherwise. A dream, he explains to her, is something she needs to work at herself. Arata plays a competitive version of a traditional Japanese card game--known as Hyakunin Isshu--in a way Chihaya has never seen before. After taking Arata's place in a game, Chihaya discovers she has a passion for it. Now Chihaya wants to become number one in the world, the Queen of Karuta. Chihayafuru won the 2nd Manga Taisho Award. Winner of the 35th annual Kodansha Manga Award for Best Shoujo. Nominated for the 16th (2012) and 20th (2016) Tezuka Osamu Cultural Prize.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/chihayafuru-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="coffee and vanilla" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Romance, Shoujo., Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>coffee and vanilla</ten_truyen>
+		<ma_truyen>coffee-and-vanilla</ma_truyen>
+		<tac_gia>Akegami Takara</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/37842/3/200.jpg</hinh_nho>
+		<gioi_thieu>Would you like an older man dressed in suits? She was never this popular before university but before she knew it, Risa was way out of everyone's league. The one who saves her from this cruel fate is a handsome man who can rock his suits, Fukami-san. What will he offer Risa, who is a beginner at love...!?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/coffee-and-vanilla-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="new prince of tennis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>new prince of tennis</ten_truyen>
 		<ma_truyen>new-prince-of-tennis</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://www.mangaupdates.com/image/i165836.jpg</hinh_nho>
 		<gioi_thieu>Flame of Recca follows the story of a teenage boy named Recca Hanabishi, who is interested in ninja and claims to be one himself. He often gets into fights because he made it publicly known that the person who manages to defeat him will earn his services as a loyal ninja. Despite this, he eventually pledges his loyalty and services as a ninja to Yanagi Sakoshita, a girl with the innate ability to heal any wound/injury, because of her kindess and compassion. Recca soon discovers that he possesses the innate ability to control/manipulate flames, and eventually learns that he is actually the son of the sixth generation leader of the Hokage, a ninja clan that was wiped out by Oda Nobunaga in 1576, roughly 400 years before the series' present day!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/flame-of-recca-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="origin  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>origin  </ten_truyen>
-		<ma_truyen>origin</ma_truyen>
-		<tac_gia>Boichi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43656/2/200.jpg</hinh_nho>
-		<gioi_thieu>The year is AD 2048. Japan is connected to the Eurasian continent by a transcontinental railroad. The capital, Tokyo, has become a crucible of criminals and terrorists. And so, in the metropolitan darkness a mysterious presence attacks and slaughters people, unnoticed, night after night... Just what are these 'things that are not human' living in hiding in the human world? And just who is this 'Origin' person who faces them?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/origin-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="rere hello" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="	Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>rere hello</ten_truyen>
-		<ma_truyen>rere-hello</ma_truyen>
-		<tac_gia>Minami Touko</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/21728/3/200.jpg</hinh_nho>
-		<gioi_thieu>When Ririko was five, she lost her mother. Since then, she helps out her father. Her father started a handyman company, but then something horrible happened...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/rere-hello-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="genwaku no kodou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Harem, Horror, Mystery, Romance, Shounen ai, Supernatural, Yaoi" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>genwaku no kodou</ten_truyen>
-		<ma_truyen>genwaku-no-kodou</ma_truyen>
-		<tac_gia>Yoshihara Rieko, Kada Michiru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3044/1/200.jpg</hinh_nho>
-		<gioi_thieu>Strange things are happening all over town, and Kouichi Amano's nightmares have started again. Several clans have been spurred into action as the past gradually resurfaces. Just what is going on, and how do the Amano brothers fit into the picture?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/genwaku-no-kodou-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
