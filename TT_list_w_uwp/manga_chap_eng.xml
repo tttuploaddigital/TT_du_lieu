@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 926</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>beastars</ten_truyen>
+		<ma_truyen>beastars</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
+		<chap_moi>chap 108</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nanba mg5</ten_truyen>
+		<ma_truyen>nanba-mg5</ma_truyen>
+        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/e7/68/e768083f1f755f2ef4e5e5ddb703722e6dbcaa5e_18516_200_310.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanba-mg5-eng.xml</file_xml>
+		<chap_moi>chap 42</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
+		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuragi-sou-no-yuuna-san-eng.xml</file_xml>
+		<chap_moi>chap 137</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>koi to uso</ten_truyen>
+		<ma_truyen>koi-to-uso</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28014/9/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-to-uso-eng.xml</file_xml>
+		<chap_moi>chap 187</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kaguya-sama wa kokurasetai - tensai-tachi no renai zunousen</ten_truyen>
+		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
+		<chap_moi>chap 130</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>boku no hero academia</ten_truyen>
 		<ma_truyen>boku-no-hero-academia</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
@@ -167,47 +209,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/35965/6/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/enen-no-shouboutai-eng.xml</file_xml>
 		<chap_moi>chap 146</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanatsu no taizai</ten_truyen>
-		<ma_truyen>nanatsu-no-taizai</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
-		<chap_moi>chap 290</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>eden's zero</ten_truyen>
-		<ma_truyen>eden-s-zero</ma_truyen>
-        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
-		<chap_moi>chap 21</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gate - jietai kare no chi nite, kaku tatakeri</ten_truyen>
-		<ma_truyen>gate-jietai-kare-no-chi-nite-kaku-tatakeri</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2999/7/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gate-jietai-kare-no-chi-nite-kaku-tatakeri-eng.xml</file_xml>
-		<chap_moi>chap 79</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>konjiki no moji tsukai - yuusha yonin ni makikomareta unique cheat</ten_truyen>
-		<ma_truyen>konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/29695/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat-eng.xml</file_xml>
-		<chap_moi>chap 46</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mahou tsukai no yome</ten_truyen>
-		<ma_truyen>mahou-tsukai-no-yome</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/25056/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-tsukai-no-yome-eng.xml</file_xml>
-		<chap_moi>chap 51</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shirogane no nina</ten_truyen>
-		<ma_truyen>shirogane-no-nina</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/24387/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shirogane-no-nina-eng.xml</file_xml>
-		<chap_moi>chap 120</chap_moi>
 	</truyen>
 </danh_sach_truyen>

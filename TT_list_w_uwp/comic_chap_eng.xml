@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>batman beyond (2016)</ten_truyen>
+		<ma_truyen>batman-beyond-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-beyond-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-beyond-2016-eng.xml</file_xml>
+		<chap_moi>issue 26</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>return of wolverine</ten_truyen>
+		<ma_truyen>return-of-wolverine</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/return-of-wolverine/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/return-of-wolverine-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>old lady harley</ten_truyen>
+		<ma_truyen>old-lady-harley</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-lady-harley/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-lady-harley-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the flash (2016)</ten_truyen>
+		<ma_truyen>the-flash-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
+		<chap_moi>issue 59</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>old man hawkeye</ten_truyen>
+		<ma_truyen>old-man-hawkeye</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-hawkeye/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-hawkeye-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>raven: daughter of darkness</ten_truyen>
+		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>star wars: darth vader (2017)</ten_truyen>
 		<ma_truyen>star-wars-darth-vader-2017</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-darth-vader-(2017)/1_medium.jpg</hinh_nho>
@@ -167,47 +209,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/p/pestilence-a-story-of-satan/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/pestilence-a-story-of-satan-eng.xml</file_xml>
 		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>uncanny x-men (2018)</ten_truyen>
-		<ma_truyen>uncanny-x-men-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>optimus prime</ten_truyen>
-		<ma_truyen>optimus-prime</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/optimus-prime/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/optimus-prime-eng.xml</file_xml>
-		<chap_moi>issue 25</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dejah thoris (2018)</ten_truyen>
-		<ma_truyen>dejah-thoris-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dejah-thoris-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dejah-thoris-2018-eng.xml</file_xml>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>marvel knights: 20th</ten_truyen>
-		<ma_truyen>marvel-knights-20th</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-knights-20th/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-knights-20th-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>stellar</ten_truyen>
-		<ma_truyen>stellar</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/stellar/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/stellar-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>quantum and woody! (2017)</ten_truyen>
-		<ma_truyen>quantum-and-woody-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/q/quantum-and-woody-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/quantum-and-woody-2017-eng.xml</file_xml>
-		<chap_moi>issue 12</chap_moi>
 	</truyen>
 </danh_sach_truyen>
