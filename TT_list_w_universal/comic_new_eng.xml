@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="ironheart" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>ironheart</ten_truyen>
+		<ma_truyen>ironheart</ma_truyen>
+        <tac_gia>Eve Ewing, Kevin Libranda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/ironheart/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE FORMER STAR OF INVINCIBLE IRON MAN HEADLINES HER OWN SOLO SERIES! When a group of world leaders is taken hostage by one of Spider-Man's old foes, Riri Williams will have to step up her game. And she'll be stunned when someone from back in Sweet Home Chicago enters her life... CHAMPIONS artist Kevin Libranda joins award-winning poet Eve Ewing, as Ironheart steps boldly out of Tony Stark's shadow to forge her own future!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ironheart-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dead man logan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dead man logan</ten_truyen>
+		<ma_truyen>dead-man-logan</ma_truyen>
+        <tac_gia>Ed Brisson, Mike Henderson</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dead-man-logan/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DEAD MEANS DEAD. The writing's been on the wall for months now... Logan is dying. And he ain't getting any better. Sick from the Adamantium coating his skeleton, his search for a cure has led to nothing but dead ends. But for once he's actually trying to leave this world with some unfinished business... Can Logan take his last breath without slaughtering the X-Men again? Not if Mysterio has anything to say about it...Superstar creative team ED BRISSON (OLD MAN LOGAN, UNCANNY X-MEN) and MIKE HENDERSON (DEADPOOL VS. OLD MAN LOGAN), with covers by DECLAN SHALVEY (MOON KNIGHT), is putting this old dog out of his misery with a bang!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dead-man-logan-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="vampirella / dejah thoris" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>vampirella / dejah thoris</ten_truyen>
+		<ma_truyen>vampirella-dejah-thoris</ma_truyen>
+        <tac_gia>Erik Burnham, Ediano Silva</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/vampirelladejah-thoris/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The encounter that was destined to happen! When an alien scout ship crashes on Mars, Dejah Thoris must risk reigniting war with the Green Martians and becoming dinner for the white apes. But the stakes are raised so much higher when the ship is revealed to carry Vampirella, who is on a desperate mission of survival-one that might end before it truly begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/vampirella-dejah-thoris-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="infinity wars: weapon hex" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>infinity wars: weapon hex</ten_truyen>
 		<ma_truyen>infinity-wars-weapon-hex</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/shuri-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>The Black Panther has disappeared, lost on a mission in space. And in his absence, everyone's looking at the next in line for the throne. But Shuri is happiest in a lab, surrounded by gadgets of her own creation. She'd rather be testing gauntlets than throwing them. But a nation without a leader is a vulnerable one - and Shuri may have to choose between Wakanda's welfare and her own.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="avengers (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>avengers (2018)</ten_truyen>
-		<ma_truyen>avengers-2018</ma_truyen>
-        <tac_gia>Jason Aaron, Ed McGuinness</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Thor Odinson. Steve Rogers. Tony Stark. The Big Three of the Avengers are reunited at last! And just in time to save the world from total annihilation at the hands of their most powerful enemies yet: the 2000-foot-tall space gods known as Celestials. Behold the coming of the Final Host. Who will answer the call to assemble for a wild new era of Earth's Mightiest Heroes? Hint: one of them has a flaming skull for a head. And what strange, world-shaking connection exists between the Final Host and Odin's ancient band of Prehistoric Avengers?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="go go power rangers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>go go power rangers</ten_truyen>
-		<ma_truyen>go-go-power-rangers</ma_truyen>
-        <tac_gia>Ryan Parrott, Dan Mora</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/go-go-power-rangers/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The untold, personal story of what happens to Jason, Kim, Trini, Zack, and Billy following in the days after they first became Power Rangers. Fighting evil is hard, but surviving high school may be even harder-welcome to real life in Angel Grove.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/go-go-power-rangers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-men: black - mojo" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>x-men: black - mojo</ten_truyen>
-		<ma_truyen>x-men-black-mojo</ma_truyen>
-        <tac_gia>Scott Aukerman, Lonnie Nadler, Zac Thompson, Andre Lima Araujo, Geraldo Borges, Nick Bradshaw</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/mojo_1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE SPINELESS SHOWMAN TAKES CENTER STAGE! That's right - that most successful producer ever to pack the cross-time airwaves, the man himself, MOJO, has yet another plan in place the boost his ratings at the X-Men's expense! And I'm sure he would say it's THE MOST IMPORTANT COMIC BOOK YOU'LL EVER READ! PLUS: Part 2 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-mojo-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

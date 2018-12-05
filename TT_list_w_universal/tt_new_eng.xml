@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="ironheart" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>ironheart</ten_truyen>
+		<ma_truyen>ironheart</ma_truyen>
+        <tac_gia>Eve Ewing, Kevin Libranda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/ironheart/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE FORMER STAR OF INVINCIBLE IRON MAN HEADLINES HER OWN SOLO SERIES! When a group of world leaders is taken hostage by one of Spider-Man's old foes, Riri Williams will have to step up her game. And she'll be stunned when someone from back in Sweet Home Chicago enters her life... CHAMPIONS artist Kevin Libranda joins award-winning poet Eve Ewing, as Ironheart steps boldly out of Tony Stark's shadow to forge her own future!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ironheart-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dead man logan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dead man logan</ten_truyen>
+		<ma_truyen>dead-man-logan</ma_truyen>
+        <tac_gia>Ed Brisson, Mike Henderson</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dead-man-logan/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DEAD MEANS DEAD. The writing's been on the wall for months now... Logan is dying. And he ain't getting any better. Sick from the Adamantium coating his skeleton, his search for a cure has led to nothing but dead ends. But for once he's actually trying to leave this world with some unfinished business... Can Logan take his last breath without slaughtering the X-Men again? Not if Mysterio has anything to say about it...Superstar creative team ED BRISSON (OLD MAN LOGAN, UNCANNY X-MEN) and MIKE HENDERSON (DEADPOOL VS. OLD MAN LOGAN), with covers by DECLAN SHALVEY (MOON KNIGHT), is putting this old dog out of his misery with a bang!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dead-man-logan-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="vampirella / dejah thoris" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>vampirella / dejah thoris</ten_truyen>
+		<ma_truyen>vampirella-dejah-thoris</ma_truyen>
+        <tac_gia>Erik Burnham, Ediano Silva</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/vampirelladejah-thoris/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The encounter that was destined to happen! When an alien scout ship crashes on Mars, Dejah Thoris must risk reigniting war with the Green Martians and becoming dinner for the white apes. But the stakes are raised so much higher when the ship is revealed to carry Vampirella, who is on a desperate mission of survival-one that might end before it truly begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/vampirella-dejah-thoris-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="isobe isobee monogatari - ukiyo wa tsurai yo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Historical,	Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>isobe isobee monogatari - ukiyo wa tsurai yo</ten_truyen>
 		<ma_truyen>isobe-isobee-monogatari-ukiyo-wa-tsurai-yo</ma_truyen>
@@ -243,31 +270,4 @@
         <gioi_thieu>Is an ancient weapon feared by every undead creature a myth or a reality? Liesel is willing to risk everything, her life included, to get her hands on the legendary blade that could bring an end to vampirism the world over. Her quest takes her to a remote corner of India and beyond reality on an adventure that could bring her the vengeance she seeks if it doesn't drive her mad first.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/van-helsing-sword-of-heaven-eng.xml</file_xml>
     </truyen>
-	<truyen ten="akb49 - renai kinshi jourei" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Gender bender, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>akb49 - renai kinshi jourei</ten_truyen>
-		<ma_truyen>akb49-renai-kinshi-jourei</ma_truyen>
-		<tac_gia>Motoazabu Factory, Miyajima Reiji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/505/3/200.jpg</hinh_nho>
-		<gioi_thieu>This series is about a guy called Urakawa Minoru crossdressing as a girl to participate in a female idol group audition (akb48). The main objective is to help the girl he likes, Yoshinaga Hiroko, pass the audition. Yoshinaga Hiroko's dream is to become like her favorite idol who is in the akb48 group. This audition happens to be her final try, so Minoru crossdresses as Minori and took part in the audition to make sure she realizes her dream. Hiroko got qualified eventually, however, the shocking news was Minoru was qualified as well. Thus, the road to becoming a female idol begins...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akb49-renai-kinshi-jourei-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kurosagi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mystery, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kurosagi</ten_truyen>
-		<ma_truyen>kurosagi</ma_truyen>
-		<tac_gia>Takeshi Natsuhara, Kuromaru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/5535/1/200.jpg</hinh_nho>
-		<gioi_thieu>White swindlers (shirosagi) are those that cheat people to take their money, red swindlers (akasagi) are those that swindle the opposite sex, and black swindlers (kurosagi) are those that cheat the white and red swindlers. After his family is swindled by white swindlers, Kurosaki sets out to avenge them by becoming a black swindler. Kurosagi won the 2008 Shogakukan Manga Award for seinen/general manga along with Tetsuji Sekiya's Bambino!.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kurosagi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mahou shoujo site" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Horror, Mature, Mystery, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>mahou shoujo site</ten_truyen>
-		<ma_truyen>mahou-shoujo-site</ma_truyen>
-		<tac_gia>Sato Kentarou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
-		<gioi_thieu>Asagiri Aya, a girl bullied at school and at home. One day, an eerie website, Mahou Shoujo Site, flashes on her computer screen and welcomes her to the Mahou Shoujo World.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>

@@ -2112,6 +2112,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>There is a secret black market in New York. It is hidden in plain sight – in our streets, trains, restaurants. Those who know how to navigate it exchange secrets of extraordinary nature. But when the secret in circulation is a biological weapon derived from Vine technology, the gloves are off – and the most extraordinary agents are released to stop the disaster before it occurs.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/dead-drop-eng.xml</file_xml>
     </truyen>
+	<truyen ten="dead man logan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dead man logan</ten_truyen>
+		<ma_truyen>dead-man-logan</ma_truyen>
+        <tac_gia>Ed Brisson, Mike Henderson</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dead-man-logan/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DEAD MEANS DEAD. The writing's been on the wall for months now... Logan is dying. And he ain't getting any better. Sick from the Adamantium coating his skeleton, his search for a cure has led to nothing but dead ends. But for once he's actually trying to leave this world with some unfinished business... Can Logan take his last breath without slaughtering the X-Men again? Not if Mysterio has anything to say about it...Superstar creative team ED BRISSON (OLD MAN LOGAN, UNCANNY X-MEN) and MIKE HENDERSON (DEADPOOL VS. OLD MAN LOGAN), with covers by DECLAN SHALVEY (MOON KNIGHT), is putting this old dog out of his misery with a bang!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dead-man-logan-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="dead tube" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mature, Mystery, Psychological, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>dead tube</ten_truyen>
 		<ma_truyen>dead-tube</ma_truyen>
@@ -4322,6 +4331,15 @@ This manga upload for Rocío Yael from Argentina via request manga on Windows st
         <hinh_nho>https://comicbookroundup.com/img/covers/i/iron-maiden-legacy-of-the-beast/1_medium.jpg</hinh_nho>
         <gioi_thieu>When dark forces conspire to corrupt the fabric of reality, Eddie's immortal soul is shattered and strewn across the cosmos, his unbound essence corrupting countless worlds! Now, a weakened, primal Eddie must journey across space and time to battle the twisted legions of The Beast, seek out the lost shards of his soul, and bring order to the realms. With each victory, and with the aid of old friends, Eddie will restore his fearsome powers as he draws ever closer to facing the Unholy foe behind his fall - and thwarting a plot to unravel all of Creation! The first official Iron Maiden comic series, based on the band's hit mobile role playing game, Iron Maiden: Legacy Of The Beast, where players battle as Eddie across the many worlds of Iron Maiden's discography, from the ancient sands of Powerslave to the far future of the Final Frontier.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/iron-maiden-legacy-of-the-beast-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="ironheart" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>ironheart</ten_truyen>
+		<ma_truyen>ironheart</ma_truyen>
+        <tac_gia>Eve Ewing, Kevin Libranda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/ironheart/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE FORMER STAR OF INVINCIBLE IRON MAN HEADLINES HER OWN SOLO SERIES! When a group of world leaders is taken hostage by one of Spider-Man's old foes, Riri Williams will have to step up her game. And she'll be stunned when someone from back in Sweet Home Chicago enters her life... CHAMPIONS artist Kevin Libranda joins award-winning poet Eve Ewing, as Ironheart steps boldly out of Tony Stark's shadow to forge her own future!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ironheart-eng.xml</file_xml>
     </truyen>
 	<truyen ten="isekai maou to shoukan shoujo dorei majutsu" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>isekai maou to shoukan shoujo dorei majutsu</ten_truyen>
@@ -9323,7 +9341,16 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <hinh_nho>https://comicbookroundup.com/img/covers/v/vampirella-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>After a sleep of over a thousand years, Vampirella finds herself back among the land of the living, but in a world far different than the one she remembers, where hope is laced with fear and blood has a far different taste.  And speaking of taste, finding an appropriate outfit for the era leads our fanged fatale to a chance encounter that will garner her not one but two potential allies.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/vampirella-2017-eng.xml</file_xml>
-    </truyen>	
+    </truyen>
+	<truyen ten="vampirella / dejah thoris" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>vampirella / dejah thoris</ten_truyen>
+		<ma_truyen>vampirella-dejah-thoris</ma_truyen>
+        <tac_gia>Erik Burnham, Ediano Silva</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/vampirelladejah-thoris/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The encounter that was destined to happen! When an alien scout ship crashes on Mars, Dejah Thoris must risk reigniting war with the Green Martians and becoming dinner for the white apes. But the stakes are raised so much higher when the ship is revealed to carry Vampirella, who is on a desperate mission of survival-one that might end before it truly begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/vampirella-dejah-thoris-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="van helsing vs. the werewolf" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>van helsing vs. the werewolf</ten_truyen>
 		<ma_truyen>van-helsing-vs-the-werewolf</ma_truyen>
