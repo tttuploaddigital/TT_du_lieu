@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>superman (2018)</ten_truyen>
+		<ma_truyen>superman-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/superman-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superman-2018-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>spider-force</ten_truyen>
+		<ma_truyen>spider-force</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-force/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-force-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>adventures of the super sons</ten_truyen>
+		<ma_truyen>adventures-of-the-super-sons</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/adventures-of-the-super-sons/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/adventures-of-the-super-sons-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shingeki no kyojin</ten_truyen>
+		<ma_truyen>shingeki-no-kyojin</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shingeki-no-kyojin-eng.xml</file_xml>
+		<chap_moi>chap 112</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 927</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 583</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>suicide squad: black files</ten_truyen>
+		<ma_truyen>suicide-squad-black-files</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-black-files/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-black-files-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>star wars (2015)</ten_truyen>
+		<ma_truyen>star-wars-2015</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
+		<chap_moi>issue 58</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nightwing (2016)</ten_truyen>
+		<ma_truyen>nightwing-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/nightwing-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nightwing-2016-eng.xml</file_xml>
+		<chap_moi>issue 54</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
+		<chap_moi>chap 291</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 138</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ao no exorcist</ten_truyen>
+		<ma_truyen>ao-no-exorcist</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/772/12/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ao-no-exorcist-eng.xml</file_xml>
+		<chap_moi>chap 106</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>noblesse</ten_truyen>
+		<ma_truyen>noblesse</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/noblesse-eng.xml</file_xml>
+		<chap_moi>chap 541</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tamen de gushi</ten_truyen>
+		<ma_truyen>tamen-de-gushi</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/29522/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tamen-de-gushi-eng.xml</file_xml>
+		<chap_moi>chap 180</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tower of god</ten_truyen>
+		<ma_truyen>tower-of-god</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/10442/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/tower-of-god-eng.xml</file_xml>
+		<chap_moi>chap 411</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>injustice vs. masters of the universe</ten_truyen>
 		<ma_truyen>injustice-vs-masters-of-the-universe</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/i/injustice-vs-masters-of-the-universe/1_medium.jpg</hinh_nho>
@@ -104,110 +209,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/27914/2/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/doupo-cangqiong-eng.xml</file_xml>
 		<chap_moi>chap 237</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batman beyond (2016)</ten_truyen>
-		<ma_truyen>batman-beyond-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-beyond-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-beyond-2016-eng.xml</file_xml>
-		<chap_moi>issue 26</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>return of wolverine</ten_truyen>
-		<ma_truyen>return-of-wolverine</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/return-of-wolverine/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/return-of-wolverine-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>old lady harley</ten_truyen>
-		<ma_truyen>old-lady-harley</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-lady-harley/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-lady-harley-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 926</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>beastars</ten_truyen>
-		<ma_truyen>beastars</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
-		<chap_moi>chap 108</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanba mg5</ten_truyen>
-		<ma_truyen>nanba-mg5</ma_truyen>
-        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/e7/68/e768083f1f755f2ef4e5e5ddb703722e6dbcaa5e_18516_200_310.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanba-mg5-eng.xml</file_xml>
-		<chap_moi>chap 42</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the flash (2016)</ten_truyen>
-		<ma_truyen>the-flash-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
-		<chap_moi>issue 59</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>old man hawkeye</ten_truyen>
-		<ma_truyen>old-man-hawkeye</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-hawkeye/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-hawkeye-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>raven: daughter of darkness</ten_truyen>
-		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
-		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuragi-sou-no-yuuna-san-eng.xml</file_xml>
-		<chap_moi>chap 137</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>koi to uso</ten_truyen>
-		<ma_truyen>koi-to-uso</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/28014/9/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-to-uso-eng.xml</file_xml>
-		<chap_moi>chap 187</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kaguya-sama wa kokurasetai - tensai-tachi no renai zunousen</ten_truyen>
-		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
-		<chap_moi>chap 130</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>spirit blade mountain</ten_truyen>
-		<ma_truyen>spirit-blade-mountain</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/38167/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/spirit-blade-mountain-eng.xml</file_xml>
-		<chap_moi>chap 332</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>solo leveling</ten_truyen>
-		<ma_truyen>solo-leveling</ma_truyen>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/85/6f/856fdf5722eabbfe45cf0313d8f663621e74801c_36353_200_270.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/solo-leveling-eng.xml</file_xml>
-		<chap_moi>chap 24</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>doulou dalu</ten_truyen>
-		<ma_truyen>doulou-dalu</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/26543/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/doulou-dalu-eng.xml</file_xml>
-		<chap_moi>chap 218</chap_moi>
 	</truyen>
 </danh_sach_truyen>

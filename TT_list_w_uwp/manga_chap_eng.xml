@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>shingeki no kyojin</ten_truyen>
+		<ma_truyen>shingeki-no-kyojin</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shingeki-no-kyojin-eng.xml</file_xml>
+		<chap_moi>chap 112</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 927</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 583</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
+		<chap_moi>chap 291</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 138</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ao no exorcist</ten_truyen>
+		<ma_truyen>ao-no-exorcist</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/772/12/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ao-no-exorcist-eng.xml</file_xml>
+		<chap_moi>chap 106</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>nanatsu no taizai</ten_truyen>
 		<ma_truyen>nanatsu-no-taizai</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
@@ -167,47 +209,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/3949/13/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/horimiya-eng.xml</file_xml>
 		<chap_moi>chap 93</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanatsu no taizai</ten_truyen>
-		<ma_truyen>nanatsu-no-taizai</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
-		<chap_moi>chap 291</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>golden kamui</ten_truyen>
-		<ma_truyen>golden-kamui</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/golden-kamui-eng.xml</file_xml>
-		<chap_moi>chap 180</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>boruto : naruto next generations</ten_truyen>
-		<ma_truyen>boruto-naruto-next-generations</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/40807/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boruto-naruto-next-generations-eng.xml</file_xml>
-		<chap_moi>chap 29</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>world trigger</ten_truyen>
-		<ma_truyen>world-trigger</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/11153/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-trigger-eng.xml</file_xml>
-		<chap_moi>chap 169</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>jagaaaaaan</ten_truyen>
-		<ma_truyen>jagaaaaaan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/47205/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jagaaaaaan-eng.xml</file_xml>
-		<chap_moi>chap 62</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>world's end harem</ten_truyen>
-		<ma_truyen>world-s-end-harem</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
-		<chap_moi>chap 54.1</chap_moi>
 	</truyen>
 </danh_sach_truyen>
