@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="infinity wars: ghost panther" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity wars: ghost panther</ten_truyen>
+		<ma_truyen>infinity-wars-ghost-panther</ma_truyen>
+        <tac_gia>Jed Mackay, Jefte Palo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-ghost-panther/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Stripped of his kingdom, Prince T'Challa of Wakanda becomes a stunt performer under an assumed name... until a tragic accident and a sinister deal give him the power he needs to free his people!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-ghost-panther-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the batman who laughs" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the batman who laughs</ten_truyen>
+		<ma_truyen>the-batman-who-laughs</ma_truyen>
+        <tac_gia>Scott Snyder, Jock</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-batman-who-laughs-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Left rattled by the events of DARK NIGHTS: METAL, Bruce Wayne must come face to face with the nightmares spawned from the Dark Multiverse. But even though evil devoured evil in the collapse of Challengers Mountain, the Dark Knight still has his doubts. He discovers that the Batman Who Laughs not only survived the fight with The Joker at the end of METAL, but now he is enacting a sinister plan across the Multiverse-something both terrifying and oddly familiar. But when Bruce Wayne realizes the only way to stop this madman is to kill him, he must consider violating the very rule Batman won't break...the same rule that created this insatiable villain-the Batman Who Laughs!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-batman-who-laughs-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="infinity wars: soldier supreme" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity wars: soldier supreme</ten_truyen>
+		<ma_truyen>infinity-wars-soldier-supreme</ma_truyen>
+        <tac_gia>Gerry Duggan, Adam Kubert</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-soldier-supreme/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Classified 4-F by the military, Stephen Rogers was unable to serve his country in World War II...until a secret government program tapping into arcane sorcery transformed him into the Soldier Supreme, the magical warrior embodiment of the American spirit!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/infinity-wars-soldier-supreme-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="ironheart" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>ironheart</ten_truyen>
 		<ma_truyen>ironheart</ma_truyen>
@@ -242,32 +269,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/juggernaut_1_medium.jpg</hinh_nho>
         <gioi_thieu>NOTHING CAN STOP THE JUGGERNAUT...until now. What has finally stopped Cain Marko in his tracks? You'll have to see to believe, but we can promise you it's gonna involve nothing but punching for the Juggernaut! PLUS: Part 4 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-juggernaut-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-men: black - mystique" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>x-men: black - mystique</ten_truyen>
-		<ma_truyen>x-men-black-mystique</ma_truyen>
-        <tac_gia>Seanan McGuire, Lonnie Nadler, Zac Thompson, Marco Faila</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/mystique_1_medium.jpg</hinh_nho>
-        <gioi_thieu>THAT'S SO RAVEN! What's a day in the life for Raven Darkholme, A.K.A. Mystique? Brutal kills, revenge-fueled chills, seductive thrills...and that's all before breakfast! Award-winning author Seanan McGuire (X-MEN GOLD ANNUAL #2) and rising star Marco Failla take Marvel's multifaceted mutant murderess for a spin! PLUS: Part 3 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-mystique-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="justice league dark (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>justice league dark (2018)</ten_truyen>
-		<ma_truyen>justice-league-dark-2018</ma_truyen>
-        <tac_gia>James Tynion IV, Alvaro Martinez</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-dark-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Earth's magic once belonged to them. Now they want the magic back. But who exactly are they? It's up to the new Justice League Dark to find out and stop this nightmarish new threat at all costs! After the events of NO JUSTICE, team leader Wonder Woman guides the misfit magic mix of Zatanna, Swamp Thing, Man-Bat and Detective Chimp against enemies too fantastic even for the Justice League.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-dark-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="shuri" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>shuri</ten_truyen>
-		<ma_truyen>shuri</ma_truyen>
-        <tac_gia>Nnedi Okorafor, Leonardo Romero</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shuri-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Black Panther has disappeared, lost on a mission in space. And in his absence, everyone's looking at the next in line for the throne. But Shuri is happiest in a lab, surrounded by gadgets of her own creation. She'd rather be testing gauntlets than throwing them. But a nation without a leader is a vulnerable one - and Shuri may have to choose between Wakanda's welfare and her own.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
