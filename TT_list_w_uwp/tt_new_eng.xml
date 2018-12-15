@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="isanghago aleumdaun" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Mystery, Romance, Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>isanghago aleumdaun</ten_truyen>
+		<ma_truyen>isanghago-aleumdaun</ma_truyen>
+		<tac_gia>Honey Bee</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W180/18/8a/188a484a6d3b9d7d677484f993c44db1543380c1_24340_200_297.jpg</hinh_nho>
+		<gioi_thieu>The secret behind the goblin's wife that appears once every one thousand years....</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/isanghago-aleumdaun-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tale of nezha" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Martial arts, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>tale of nezha</ten_truyen>
+		<ma_truyen>tale-of-nezha</ma_truyen>
+		<tac_gia>Mao Mao Jia</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W180/af/15/af15786defa9ca5d9624981064130d27f0737aac_31288_200_316.jpg</hinh_nho>
+		<gioi_thieu>Nezha, born in the form of a 3 year old boy with celestial power, inadvertently becomes enmeshed in a conspiracy by evil spirits. He is forced to commit suicide at a tender age. Story based around a Chinese deity.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tale-of-nezha-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="the devil king is bored" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>the devil king is bored</ten_truyen>
+		<ma_truyen>the-devil-king-is-bored</ma_truyen>
+		<tac_gia>Kim Sang Min</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W180/79/97/7997c82d1eb1748a42acc3362612120989ca9c5e_20326_200_283.jpg</hinh_nho>
+		<gioi_thieu>About a peaceful(?) Hell, a peacefully(?) BORED Demon King, and how the bored Demon King gets not-so-bored.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/the-devil-king-is-bored-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="infinity wars: ghost panther" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>infinity wars: ghost panther</ten_truyen>
 		<ma_truyen>infinity-wars-ghost-panther</ma_truyen>
@@ -243,31 +270,4 @@
 		<gioi_thieu>As a little boy, Si Mun, the grandson of a famous shaman, had the ability to see - and communicate with - ghosts. His grandmother gave him a talisman which temporarily rid him of this ability and erased his memories of any supernatural phenomena he had witnessed. Years later, Si Mun is working a hectic, yet ordinary, job as a homicide detective in the Korean police force. His grandmother has since passed on - and the powers she sealed away appear to be reawakening...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/s-i-d-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="uncanny x-men (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>uncanny x-men (2018)</ten_truyen>
-		<ma_truyen>uncanny-x-men-2018</ma_truyen>
-        <tac_gia>Ed Brisson, Matthew Rosenberg, Kelly Thompson, Mahmud A. Asrar, Mark Bagley, Mirko Colak</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE CHILDREN OF THE ATOM ARE BACK! New ongoing series kicking off with a 10-part weekly epic, the flagship X-Men series that started it all is back and better than ever! Starting with a mysterious and tragic disappearance, the X-Men are drawn into what might be...their final adventure?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="electric warriors" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>electric warriors</ten_truyen>
-		<ma_truyen>electric-warriors</ma_truyen>
-        <tac_gia>Steve Orlando, Travel Foreman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/electric-warriors/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A new tale of the future DC Universe, set in a previously unexplored timeline-the Cosmic Dark Age! Years after the Great Disaster, the Earth has started to rebuild and rejoin the universal coalition. In order to prevent a galactic war, different worlds throughout the known cosmos have created a new system of competitive combat to give each participating planet their own voice in the intergalactic struggle. Each world has one diplomatic gladiator, chosen to possess the Electric Seed and fight for their homeland as the Electric Warrior!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/electric-warriors-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="daughters of the dragon (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>daughters of the dragon (2018)</ten_truyen>
-		<ma_truyen>daughters-of-the-dragon-2018</ma_truyen>
-        <tac_gia>Jed Mackay, Travel Foreman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/daughters-of-the-dragon-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A DOUBLE-SIZED Marvel Digital Original you don't want to miss! MISTY KNIGHT and COLLEEN WING have stolen the shows on Marvel's LUKE CAGE, IRON FIST and DEFENDERS on Netflix and now they have their own MDO series! This duo has been fighting crime as the Daughters of the Dragon for years but with Misty's new job with the FBI, does this mean the two are splitzies? NOT ON YOUR LIFE! A crazy adventure that Colleen initiates puts comics' two greatest ass-kickers on a collision course with a weird and scary side of the Marvel Universe that will have you on the edge of your seat.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/daughters-of-the-dragon-2018-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
