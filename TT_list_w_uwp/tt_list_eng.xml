@@ -9957,14 +9957,14 @@ This comic upload for Jitender Kumar via request comic by send email to tttdigit
         <gioi_thieu>'Born under the oppressive thumb of the Roman Empire, Aric of Dacia learned warfare at an early age. It was amid such violence that he was abducted by an alien race. Forced into slavery, he survived where others perished. His escape would come from bonding with a weapon of immeasurable power: the X-O Manowar armor. With it, he returned to Earth... only to find himself stranded in the modern day. But that was a lifetime ago. Now, far from home on a strange and primitive new world, Aric has begun a new life. Liberated from his past, he tends to his crops. Free from war. Free from violence. Free from the armor. But the machinery of death marches his way once again. Conscripted into an alien army and thrown into an unforgiving conflict, the fury inside him finds voice as he is forced to embrace the armor once more. With it, he will decimate armies, topple empires and incite interplanetary warfare as he rises from SOLDIER to GENERAL to EMPEROR to VISIGOTH. They wanted a weapon. He will give them war!'</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-o-manowar-2017-eng.xml</file_xml>
     </truyen>
-	<truyen ten="xena: warrior princess (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Movies-tv" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="xena: warrior princess (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Movies-tv" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>xena: warrior princess (2018)</ten_truyen>
 		<ma_truyen>xena-warrior-princess-2018</ma_truyen>
         <tac_gia>Meredith Finch, Vicente Cifuentes</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/x/xena-warrior-princess(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>The path to redemption is never easy, and the journey of a warrior princess seeking to wash the blood of innocents from her hands is no exception. Xena travels to Athens, to plead for redemption in the temple of Eleos. But some things can never be forgiven and the shadows of past sins are long. Will Xena find redemption or betrayal waiting for her in the temple of the gods? The power, the passion, the danger... her courage would change the world. Xena: Warrior Princess.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/xena-warrior-princess-2018-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/xena-warrior-princess-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="xian ni" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Martial arts, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>xian ni</ten_truyen>

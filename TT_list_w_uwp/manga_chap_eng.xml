@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>boku no hero academia</ten_truyen>
+		<ma_truyen>boku-no-hero-academia</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
+		<chap_moi>chap 210</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yakusoku no neverland</ten_truyen>
+		<ma_truyen>yakusoku-no-neverland</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/42944/5/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yakusoku-no-neverland-eng.xml</file_xml>
+		<chap_moi>chap 116</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>haikyuu!!</ten_truyen>
+		<ma_truyen>haikyuu</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/21593/26/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haikyuu-eng.xml</file_xml>
+		<chap_moi>chap 331</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dr. stone</ten_truyen>
+		<ma_truyen>dr-stone</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47716/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr-stone-eng.xml</file_xml>
+		<chap_moi>chap 87.1</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hinomaru-zumou</ten_truyen>
+		<ma_truyen>hinomaru-zumou</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28267/9/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hinomaru-zumou-eng.xml</file_xml>
+		<chap_moi>chap 216</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>minamoto-kun monogatari</ten_truyen>
+		<ma_truyen>minamoto-kun-monogatari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/6428/10/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/minamoto-kun-monogatari-eng.xml</file_xml>
+		<chap_moi>chap 257</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>nanatsu no taizai</ten_truyen>
 		<ma_truyen>nanatsu-no-taizai</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
@@ -167,47 +209,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/26251/12/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youkai-shoujo-monsuga-eng.xml</file_xml>
 		<chap_moi>chap 116</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 926</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>beastars</ten_truyen>
-		<ma_truyen>beastars</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
-		<chap_moi>chap 108</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanba mg5</ten_truyen>
-		<ma_truyen>nanba-mg5</ma_truyen>
-        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/e7/68/e768083f1f755f2ef4e5e5ddb703722e6dbcaa5e_18516_200_310.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanba-mg5-eng.xml</file_xml>
-		<chap_moi>chap 42</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
-		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuragi-sou-no-yuuna-san-eng.xml</file_xml>
-		<chap_moi>chap 137</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>koi to uso</ten_truyen>
-		<ma_truyen>koi-to-uso</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/28014/9/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-to-uso-eng.xml</file_xml>
-		<chap_moi>chap 187</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kaguya-sama wa kokurasetai - tensai-tachi no renai zunousen</ten_truyen>
-		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
-		<chap_moi>chap 130</chap_moi>
 	</truyen>
 </danh_sach_truyen>

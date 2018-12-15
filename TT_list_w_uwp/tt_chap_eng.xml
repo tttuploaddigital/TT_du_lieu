@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>batman/the maxx: arkham dreams</ten_truyen>
+		<ma_truyen>batman-the-maxx-arkham-dreams</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batmanthe-maxx/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-the-maxx-arkham-dreams-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>west coast avengers (2018)</ten_truyen>
+		<ma_truyen>west-coast-avengers-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/west-coast-avengers-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/west-coast-avengers-2018-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>barbarella (2017)</ten_truyen>
+		<ma_truyen>barbarella-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarella-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-2017-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>boku no hero academia</ten_truyen>
+		<ma_truyen>boku-no-hero-academia</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
+		<chap_moi>chap 210</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yakusoku no neverland</ten_truyen>
+		<ma_truyen>yakusoku-no-neverland</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/42944/5/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yakusoku-no-neverland-eng.xml</file_xml>
+		<chap_moi>chap 116</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>haikyuu!!</ten_truyen>
+		<ma_truyen>haikyuu</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/21593/26/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haikyuu-eng.xml</file_xml>
+		<chap_moi>chap 331</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>wonder woman (2016)</ten_truyen>
+		<ma_truyen>wonder-woman-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-woman-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-woman-2016-eng.xml</file_xml>
+		<chap_moi>issue 60</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>daughters of the dragon (2018)</ten_truyen>
+		<ma_truyen>daughters-of-the-dragon-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/daughters-of-the-dragon-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/daughters-of-the-dragon-2018-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>accell</ten_truyen>
+		<ma_truyen>accell</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-accell/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/accell-eng.xml</file_xml>
+		<chap_moi>issue 16</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dr. stone</ten_truyen>
+		<ma_truyen>dr-stone</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47716/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr-stone-eng.xml</file_xml>
+		<chap_moi>chap 87.1</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hinomaru-zumou</ten_truyen>
+		<ma_truyen>hinomaru-zumou</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28267/9/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hinomaru-zumou-eng.xml</file_xml>
+		<chap_moi>chap 216</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>minamoto-kun monogatari</ten_truyen>
+		<ma_truyen>minamoto-kun-monogatari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/6428/10/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/minamoto-kun-monogatari-eng.xml</file_xml>
+		<chap_moi>chap 257</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hunter age</ten_truyen>
+		<ma_truyen>hunter-age</ma_truyen>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/31/27/312761804f8e9164dcd08000954b3104c34da801_18586_200_259.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/hunter-age-eng.xml</file_xml>
+		<chap_moi>chap 125</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>solo leveling</ten_truyen>
+		<ma_truyen>solo-leveling</ma_truyen>
+        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/85/6f/856fdf5722eabbfe45cf0313d8f663621e74801c_36353_200_270.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/solo-leveling-eng.xml</file_xml>
+		<chap_moi>chap 41</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>spirit sword sovereign</ten_truyen>
+		<ma_truyen>spirit-sword-sovereign</ma_truyen>
+		<hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/85/39/853971eb26667561892c03643aef82a4af4e2fd6_28845_200_267.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/spirit-sword-sovereign-eng.xml</file_xml>
+		<chap_moi>chap 51</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>avengers (2018)</ten_truyen>
 		<ma_truyen>avengers-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
@@ -104,110 +209,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/39751/1/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/demon-spirit-seed-manual-eng.xml</file_xml>
 		<chap_moi>chap 193</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mr. and mrs. x</ten_truyen>
-		<ma_truyen>mr-and-mrs-x</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/mr-and-mrs-x/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mr-and-mrs-x-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>red hood and the outlaws (2016)</ten_truyen>
-		<ma_truyen>red-hood-and-the-outlaws-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/red-hood-and-the-outlaws-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-hood-and-the-outlaws-2016-eng.xml</file_xml>
-		<chap_moi>issue 29</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>weapon x (2017)</ten_truyen>
-		<ma_truyen>weapon-x-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-x-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weapon-x-2017-eng.xml</file_xml>
-		<chap_moi>issue 26</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tenkuu shinpan</ten_truyen>
-		<ma_truyen>tenkuu-shinpan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tenkuu-shinpan-eng.xml</file_xml>
-		<chap_moi>chap 243</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>minamoto-kun monogatari</ten_truyen>
-		<ma_truyen>minamoto-kun-monogatari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/6428/10/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/minamoto-kun-monogatari-eng.xml</file_xml>
-		<chap_moi>chap 255</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>baby steps</ten_truyen>
-		<ma_truyen>baby-steps</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
-		<chap_moi>chap 333</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>asgardians of the galaxy</ten_truyen>
-		<ma_truyen>asgardians-of-the-galaxy</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/asgardians-of-the-galaxy/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/asgardians-of-the-galaxy-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hawkman (2018)</ten_truyen>
-		<ma_truyen>hawkman-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-23 (2018)</ten_truyen>
-		<ma_truyen>x-23-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>watashi ga motete dousunda</ten_truyen>
-		<ma_truyen>watashi-ga-motete-dousunda</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/22881/7/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/watashi-ga-motete-dousunda-eng.xml</file_xml>
-		<chap_moi>chap 55</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kono bijutsubu ni wa mondai ga aru!</ten_truyen>
-		<ma_truyen>kono-bijutsubu-ni-wa-mondai-ga-aru</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5405/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kono-bijutsubu-ni-wa-mondai-ga-aru-eng.xml</file_xml>
-		<chap_moi>chap 71</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>days  </ten_truyen>
-		<ma_truyen>days</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28078/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/days-eng.xml</file_xml>
-		<chap_moi>chap 167</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wu dong qian kun</ten_truyen>
-		<ma_truyen>wu-dong-qian-kun</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/34897/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/wu-dong-qian-kun-eng.xml</file_xml>
-		<chap_moi>chap 80</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>my love tiger</ten_truyen>
-		<ma_truyen>my-love-tiger</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/30148/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/my-love-tiger-eng.xml</file_xml>
-		<chap_moi>chap 122</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>19 days</ten_truyen>
-		<ma_truyen>19-days</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28998/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/19-days-eng.xml</file_xml>
-		<chap_moi>chap 268</chap_moi>
 	</truyen>
 </danh_sach_truyen>
