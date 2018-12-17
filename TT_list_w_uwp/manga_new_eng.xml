@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="saguri-chan tankentai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Romance, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>saguri-chan tankentai</ten_truyen>
+		<ma_truyen>saguri-chan-tankentai</ma_truyen>
+		<tac_gia>Akiyama Yoco</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/c9/0f/c90f202c513a84b8b6208328ca1b3c47001ef337_39645_200_314.jpg</hinh_nho>
+		<gioi_thieu>Let's go exploring with a cute girl!! A landscape painted by the beautiful stroke of a paintbrush can be found anywhere!! An exploration manga filled with comedy that will make you say, 'Let's go there tomorrow!'</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saguri-chan-tankentai-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hawkwood" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Historical, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hawkwood</ten_truyen>
+		<ma_truyen>hawkwood</ma_truyen>
+		<tac_gia>Tommy Ohtsuka</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/41/c3/41c3b07ecdfbc8c3b966005836ed18f26d5649bc_33350_200_286.jpg</hinh_nho>
+		<gioi_thieu>The story takes place in the 14th century during the 100 years war between France and Great Britain.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hawkwood-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="sentou jousai masurawo" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Romance, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>sentou jousai masurawo</ten_truyen>
+		<ma_truyen>sentou-jousai-masurawo</ma_truyen>
+		<tac_gia>Hayashi Tomoaki, Asai Renji</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/3b/87/3b8729669d684b4fa41c8eecbff20408871ec23d_31758_200_314.jpg</hinh_nho>
+		<gioi_thieu>Hideo Kawamura has a really terrifying look, but soft heart. While contemplating suicide, he stumbled upon this computer that contained the virus, 'Wiruko', who convinced him to join the 'Seimahei', a fighting tournament that has the world as its prize. However, Hideo happens to not have any fighting skills whatsoever, so he has to get through on his wits (and luck) alone.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/sentou-jousai-masurawo-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="tokiwa kitareri!!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, Harem, Romance, School life, Sci-fi, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>tokiwa kitareri!!</ten_truyen>
 		<ma_truyen>tokiwa-kitareri</ma_truyen>
