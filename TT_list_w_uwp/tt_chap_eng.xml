@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>eden's zero</ten_truyen>
+		<ma_truyen>eden-s-zero</ma_truyen>
+        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
+		<chap_moi>chap 23</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dragon ball super</ten_truyen>
+		<ma_truyen>dragon-ball-super</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/33921/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dragon-ball-super-eng.xml</file_xml>
+		<chap_moi>chap 42</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>zekkyou gakkyuu</ten_truyen>
+		<ma_truyen>zekkyou-gakkyuu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/11524/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/zekkyou-gakkyuu-eng.xml</file_xml>
+		<chap_moi>chap 57.3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>harley quinn (2016)</ten_truyen>
+		<ma_truyen>harley-quinn-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
+		<chap_moi>issue 55</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kick-ass (2018)</ten_truyen>
+		<ma_truyen>kick-ass-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/k/kick-ass-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kick-ass-2018-eng.xml</file_xml>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gasolina</ten_truyen>
+		<ma_truyen>gasolina</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/gasolina/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gasolina-eng.xml</file_xml>
+		<chap_moi>issue 13</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gal gohan</ten_truyen>
+		<ma_truyen>gal-gohan</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/46625/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gal-gohan-eng.xml</file_xml>
+		<chap_moi>chap 40</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>koi inu.</ten_truyen>
+		<ma_truyen>koi-inu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/33554/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-inu-eng.xml</file_xml>
+		<chap_moi>chap 156</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>radiant</ten_truyen>
+		<ma_truyen>radiant</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/36054/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/radiant-eng.xml</file_xml>
+		<chap_moi>chap 20</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>marvel knights: 20th</ten_truyen>
 		<ma_truyen>marvel-knights-20th</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-knights-20th/1_medium.jpg</hinh_nho>
