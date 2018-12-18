@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>grimm fairy tales (2016)</ten_truyen>
+		<ma_truyen>grimm-fairy-tales-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-fairy-tales-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/grimm-fairy-tales-2016-eng.xml</file_xml>
+		<chap_moi>issue 24</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dark ark</ten_truyen>
+		<ma_truyen>dark-ark</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dark-ark/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dark-ark-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>astonisher</ten_truyen>
+		<ma_truyen>astonisher</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-astonisher/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/astonisher-eng.xml</file_xml>
+		<chap_moi>issue 13</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>overlord</ten_truyen>
+		<ma_truyen>overlord</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/29252/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/overlord-eng.xml</file_xml>
+		<chap_moi>chap 43</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>bungou stray dogs</ten_truyen>
+		<ma_truyen>bungou-stray-dogs</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/25742/6/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bungou-stray-dogs-eng.xml</file_xml>
+		<chap_moi>chap 68</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
+		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuragi-sou-no-yuuna-san-eng.xml</file_xml>
+		<chap_moi>chap 140</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>robotech (2017)</ten_truyen>
+		<ma_truyen>robotech-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robotech/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robotech-2017-eng.xml</file_xml>
+		<chap_moi>issue 15</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>skyward (2018)</ten_truyen>
+		<ma_truyen>skyward-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/skyward-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/skyward-2018-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>her infernal descent</ten_truyen>
+		<ma_truyen>her-infernal-descent</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/her-infernal-descent/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/her-infernal-descent-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>eden's zero</ten_truyen>
 		<ma_truyen>eden-s-zero</ma_truyen>
         <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
@@ -251,26 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/6428/10/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/minamoto-kun-monogatari-eng.xml</file_xml>
 		<chap_moi>chap 257</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hunter age</ten_truyen>
-		<ma_truyen>hunter-age</ma_truyen>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/31/27/312761804f8e9164dcd08000954b3104c34da801_18586_200_259.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/hunter-age-eng.xml</file_xml>
-		<chap_moi>chap 125</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>solo leveling</ten_truyen>
-		<ma_truyen>solo-leveling</ma_truyen>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/85/6f/856fdf5722eabbfe45cf0313d8f663621e74801c_36353_200_270.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/solo-leveling-eng.xml</file_xml>
-		<chap_moi>chap 41</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>spirit sword sovereign</ten_truyen>
-		<ma_truyen>spirit-sword-sovereign</ma_truyen>
-		<hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/85/39/853971eb26667561892c03643aef82a4af4e2fd6_28845_200_267.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/spirit-sword-sovereign-eng.xml</file_xml>
-		<chap_moi>chap 51</chap_moi>
 	</truyen>
 </danh_sach_truyen>
