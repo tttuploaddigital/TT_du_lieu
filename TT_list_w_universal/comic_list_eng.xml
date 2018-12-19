@@ -315,6 +315,15 @@
         <gioi_thieu>Terry McGinnis is back as Batman, much to the delight of his family and friends. But is the original Joker really back as well? Inspired by the possible return of their role model, the Jokerz have taken over an entire section of Gotham City and are determined to wreak havoc in the still-rebuilding city. While Batman battles chaos on the streets, his friend Dana is at the mercy of the new leader of the now-unified gang.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-beyond-2016-eng.xml</file_xml>
     </truyen>
+	<truyen ten="batman: damned" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Psychological, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman: damned</ten_truyen>
+		<ma_truyen>batman-damned</ma_truyen>
+        <tac_gia>Brian Azzarello, Lee Bermejo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-damned/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Joker is dead. There is no doubt about that. But whether Batman finally snapped his scrawny neck or some other sinister force in Gotham City did the deed is still a mystery.Problem is, Batman can't remember...and the more he digs into this labyrinthian case, the more his mind starts to doubt everything he's uncovering. So who better to set him straight than...John Constantine? Problem with that is as much as John loves a good mystery, he loves messing with people's heads even more. So with John's 'help,' the pair will delve into the sordid underbelly of Gotham as they race toward the mind-blowing truth of who murdered The Joker.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-damned-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="batman: kings of fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batman: kings of fear</ten_truyen>
 		<ma_truyen>batman-kings-of-fear</ma_truyen>
@@ -2079,6 +2088,15 @@
         <gioi_thieu>It's Morphin Time! Saban's Mighty Morphin Power Rangers make their BOOM! Studios comic debut in this kick-off #0 issue, which sets the stage for the rest of the series. After escaping Rita Repulsa's mind control, Tommy Oliver, the Green Ranger, joins up with the rest of the Power Rangers to combat her never-ending evil plans. Any semblance of a normal life is gone for Tommy now, but with his newfound family there lies hope for a brighter path. Includes the short story from the San Diego Comic-Con exclusive Mighty Morphin Power Rangers comics!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mighty-morphin-power-rangers-eng.xml</file_xml>
     </truyen>
+	<truyen ten="miles morales: spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>miles morales: spider-man</ten_truyen>
+		<ma_truyen>miles-morales-spider-man</ma_truyen>
+        <tac_gia>Saladin Ahmed, Javier Garron</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/miles-morales-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Balancing his normal life, school, parents, etc...and super-heroing has never been easy, but when the Rhino and a cadre of mysterious criminals start plaguing Brooklyn, things take a dark turn. And Miles doesn't even know the half of it yet. Eisner Award-winner Saladin Ahmed (BLACK BOLT) and Young Gun Javier Garron (ANT-MAN and THE WASP) bring you the latest incarnation of the coolest character in the Marvel Universe!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/miles-morales-spider-man-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="misfit city" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Leading ladies, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>misfit city</ten_truyen>
 		<ma_truyen>misfit-city</ma_truyen>
@@ -3734,6 +3752,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/v/venom-(2016)/1_medium.jpg</hinh_nho>
         <gioi_thieu>VENOM IS BACK AND BADDER THAN EVER! The symbiote you know and love has returned to New York City. No more 'Agent of the Cosmos.' No more 'Lethal Protector.' It's time for a new Venom, and it's great to be bad.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/venom-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="venom (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>venom (2018)</ten_truyen>
+		<ma_truyen>venom-2018</ma_truyen>
+        <tac_gia>Donny Cates, Ryan Stegman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/venom-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In the wake of S.H.I.E.L.D.'s collapse, an ancient and primordial evil has been awakened beneath the streets of New York, and with it, something equally evil has awakened in that most Wicked of Webslingers – VENOM! Still a Lethal Protector of the innocents in New York, this never-before-seen threat could force Venom to relinquish everything it holds dear – including Eddie Brock! Join two of the hottest creators in comics today, Donny Cates and Ryan Stegman, for a VENOM adventure a thousand years in the making!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venom-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="venom: first host" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>venom: first host</ten_truyen>

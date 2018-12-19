@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="miles morales: spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>miles morales: spider-man</ten_truyen>
+		<ma_truyen>miles-morales-spider-man</ma_truyen>
+        <tac_gia>Saladin Ahmed, Javier Garron</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/miles-morales-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Balancing his normal life, school, parents, etc...and super-heroing has never been easy, but when the Rhino and a cadre of mysterious criminals start plaguing Brooklyn, things take a dark turn. And Miles doesn't even know the half of it yet. Eisner Award-winner Saladin Ahmed (BLACK BOLT) and Young Gun Javier Garron (ANT-MAN and THE WASP) bring you the latest incarnation of the coolest character in the Marvel Universe!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/miles-morales-spider-man-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="batman: damned" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Psychological, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman: damned</ten_truyen>
+		<ma_truyen>batman-damned</ma_truyen>
+        <tac_gia>Brian Azzarello, Lee Bermejo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-damned/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Joker is dead. There is no doubt about that. But whether Batman finally snapped his scrawny neck or some other sinister force in Gotham City did the deed is still a mystery.Problem is, Batman can't remember...and the more he digs into this labyrinthian case, the more his mind starts to doubt everything he's uncovering. So who better to set him straight than...John Constantine? Problem with that is as much as John loves a good mystery, he loves messing with people's heads even more. So with John's 'help,' the pair will delve into the sordid underbelly of Gotham as they race toward the mind-blowing truth of who murdered The Joker.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-damned-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="venom (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>venom (2018)</ten_truyen>
+		<ma_truyen>venom-2018</ma_truyen>
+        <tac_gia>Donny Cates, Ryan Stegman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/venom-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In the wake of S.H.I.E.L.D.'s collapse, an ancient and primordial evil has been awakened beneath the streets of New York, and with it, something equally evil has awakened in that most Wicked of Webslingers – VENOM! Still a Lethal Protector of the innocents in New York, this never-before-seen threat could force Venom to relinquish everything it holds dear – including Eddie Brock! Join two of the hottest creators in comics today, Donny Cates and Ryan Stegman, for a VENOM adventure a thousand years in the making!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venom-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="saguri-chan tankentai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Romance, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>saguri-chan tankentai</ten_truyen>
 		<ma_truyen>saguri-chan-tankentai</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>Is an ancient weapon feared by every undead creature a myth or a reality? Liesel is willing to risk everything, her life included, to get her hands on the legendary blade that could bring an end to vampirism the world over. Her quest takes her to a remote corner of India and beyond reality on an adventure that could bring her the vengeance she seeks if it doesn't drive her mad first.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/van-helsing-sword-of-heaven-eng.xml</file_xml>
     </truyen>
-	<truyen ten="akb49 - renai kinshi jourei" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Gender bender, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>akb49 - renai kinshi jourei</ten_truyen>
-		<ma_truyen>akb49-renai-kinshi-jourei</ma_truyen>
-		<tac_gia>Motoazabu Factory, Miyajima Reiji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/505/3/200.jpg</hinh_nho>
-		<gioi_thieu>This series is about a guy called Urakawa Minoru crossdressing as a girl to participate in a female idol group audition (akb48). The main objective is to help the girl he likes, Yoshinaga Hiroko, pass the audition. Yoshinaga Hiroko's dream is to become like her favorite idol who is in the akb48 group. This audition happens to be her final try, so Minoru crossdresses as Minori and took part in the audition to make sure she realizes her dream. Hiroko got qualified eventually, however, the shocking news was Minoru was qualified as well. Thus, the road to becoming a female idol begins...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akb49-renai-kinshi-jourei-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kurosagi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mystery, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kurosagi</ten_truyen>
-		<ma_truyen>kurosagi</ma_truyen>
-		<tac_gia>Takeshi Natsuhara, Kuromaru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/5535/1/200.jpg</hinh_nho>
-		<gioi_thieu>White swindlers (shirosagi) are those that cheat people to take their money, red swindlers (akasagi) are those that swindle the opposite sex, and black swindlers (kurosagi) are those that cheat the white and red swindlers. After his family is swindled by white swindlers, Kurosaki sets out to avenge them by becoming a black swindler. Kurosagi won the 2008 Shogakukan Manga Award for seinen/general manga along with Tetsuji Sekiya's Bambino!.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kurosagi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mahou shoujo site" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Horror, Mature, Mystery, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>mahou shoujo site</ten_truyen>
-		<ma_truyen>mahou-shoujo-site</ma_truyen>
-		<tac_gia>Sato Kentarou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
-		<gioi_thieu>Asagiri Aya, a girl bullied at school and at home. One day, an eerie website, Mahou Shoujo Site, flashes on her computer screen and welcomes her to the Mahou Shoujo World.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
