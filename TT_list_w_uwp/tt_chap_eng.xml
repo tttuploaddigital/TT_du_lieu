@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>sideways</ten_truyen>
+		<ma_truyen>sideways</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/sideways/2_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sideways-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>b.p.r.d. the devil you know</ten_truyen>
+		<ma_truyen>b-p-r-d-the-devil-you-know</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/bprd-the-devil-you-know/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/b-p-r-d-the-devil-you-know-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>rose  </ten_truyen>
+		<ma_truyen>rose</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/rose/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rose-eng.xml</file_xml>
+		<chap_moi>issue 15</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tsuyokute new saga</ten_truyen>
+		<ma_truyen>tsuyokute-new-saga</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
+		<chap_moi>chap 58</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>akb49 - renai kinshi jourei</ten_truyen>
+		<ma_truyen>akb49-renai-kinshi-jourei</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/505/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akb49-renai-kinshi-jourei-eng.xml</file_xml>
+		<chap_moi>chap 238</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hare kon.</ten_truyen>
+		<ma_truyen>hare-kon</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28080/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hare-kon-eng.xml</file_xml>
+		<chap_moi>chap 149</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>grimm fairy tales (2016)</ten_truyen>
 		<ma_truyen>grimm-fairy-tales-2016</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-fairy-tales-(2016)/1_medium.jpg</hinh_nho>
@@ -272,47 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/21593/26/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haikyuu-eng.xml</file_xml>
 		<chap_moi>chap 331</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wonder woman (2016)</ten_truyen>
-		<ma_truyen>wonder-woman-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-woman-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-woman-2016-eng.xml</file_xml>
-		<chap_moi>issue 60</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>daughters of the dragon (2018)</ten_truyen>
-		<ma_truyen>daughters-of-the-dragon-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/daughters-of-the-dragon-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/daughters-of-the-dragon-2018-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>accell</ten_truyen>
-		<ma_truyen>accell</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-accell/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/accell-eng.xml</file_xml>
-		<chap_moi>issue 16</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dr. stone</ten_truyen>
-		<ma_truyen>dr-stone</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47716/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr-stone-eng.xml</file_xml>
-		<chap_moi>chap 87.1</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hinomaru-zumou</ten_truyen>
-		<ma_truyen>hinomaru-zumou</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28267/9/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hinomaru-zumou-eng.xml</file_xml>
-		<chap_moi>chap 216</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>minamoto-kun monogatari</ten_truyen>
-		<ma_truyen>minamoto-kun-monogatari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/6428/10/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/minamoto-kun-monogatari-eng.xml</file_xml>
-		<chap_moi>chap 257</chap_moi>
 	</truyen>
 </danh_sach_truyen>

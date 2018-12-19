@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>tsuyokute new saga</ten_truyen>
+		<ma_truyen>tsuyokute-new-saga</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
+		<chap_moi>chap 58</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>akb49 - renai kinshi jourei</ten_truyen>
+		<ma_truyen>akb49-renai-kinshi-jourei</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/505/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akb49-renai-kinshi-jourei-eng.xml</file_xml>
+		<chap_moi>chap 238</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hare kon.</ten_truyen>
+		<ma_truyen>hare-kon</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28080/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hare-kon-eng.xml</file_xml>
+		<chap_moi>chap 149</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>overlord</ten_truyen>
 		<ma_truyen>overlord</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/29252/4/200.jpg</hinh_nho>

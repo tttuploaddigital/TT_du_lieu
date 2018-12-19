@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>sideways</ten_truyen>
+		<ma_truyen>sideways</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/sideways/2_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sideways-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>b.p.r.d. the devil you know</ten_truyen>
+		<ma_truyen>b-p-r-d-the-devil-you-know</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/bprd-the-devil-you-know/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/b-p-r-d-the-devil-you-know-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>rose  </ten_truyen>
+		<ma_truyen>rose</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/rose/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rose-eng.xml</file_xml>
+		<chap_moi>issue 15</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>grimm fairy tales (2016)</ten_truyen>
 		<ma_truyen>grimm-fairy-tales-2016</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-fairy-tales-(2016)/1_medium.jpg</hinh_nho>
