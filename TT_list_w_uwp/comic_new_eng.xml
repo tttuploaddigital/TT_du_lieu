@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="miles morales: spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>miles morales: spider-man</ten_truyen>
+		<ma_truyen>miles-morales-spider-man</ma_truyen>
+        <tac_gia>Saladin Ahmed, Javier Garron</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/miles-morales-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Balancing his normal life, school, parents, etc...and super-heroing has never been easy, but when the Rhino and a cadre of mysterious criminals start plaguing Brooklyn, things take a dark turn. And Miles doesn't even know the half of it yet. Eisner Award-winner Saladin Ahmed (BLACK BOLT) and Young Gun Javier Garron (ANT-MAN and THE WASP) bring you the latest incarnation of the coolest character in the Marvel Universe!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/miles-morales-spider-man-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="batman: damned" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Psychological, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman: damned</ten_truyen>
+		<ma_truyen>batman-damned</ma_truyen>
+        <tac_gia>Brian Azzarello, Lee Bermejo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-damned/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Joker is dead. There is no doubt about that. But whether Batman finally snapped his scrawny neck or some other sinister force in Gotham City did the deed is still a mystery.Problem is, Batman can't remember...and the more he digs into this labyrinthian case, the more his mind starts to doubt everything he's uncovering. So who better to set him straight than...John Constantine? Problem with that is as much as John loves a good mystery, he loves messing with people's heads even more. So with John's 'help,' the pair will delve into the sordid underbelly of Gotham as they race toward the mind-blowing truth of who murdered The Joker.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-damned-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="venom (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>venom (2018)</ten_truyen>
+		<ma_truyen>venom-2018</ma_truyen>
+        <tac_gia>Donny Cates, Ryan Stegman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/venom-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In the wake of S.H.I.E.L.D.'s collapse, an ancient and primordial evil has been awakened beneath the streets of New York, and with it, something equally evil has awakened in that most Wicked of Webslingers – VENOM! Still a Lethal Protector of the innocents in New York, this never-before-seen threat could force Venom to relinquish everything it holds dear – including Eddie Brock! Join two of the hottest creators in comics today, Donny Cates and Ryan Stegman, for a VENOM adventure a thousand years in the making!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venom-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="infinity wars: ghost panther" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>infinity wars: ghost panther</ten_truyen>
 		<ma_truyen>infinity-wars-ghost-panther</ma_truyen>
