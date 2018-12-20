@@ -3078,14 +3078,14 @@
         <gioi_thieu>Lois Lane takes flight! Now powered up with the abilities of Superman, Lois pledges to carry on the super-legacy as Superwoman! There's only one problem: Lois' new powers are killing her, and neither she nor her friend and confidant Lana Lang know what to do about it. Will Lois even survive long enough to learn the deadly secret of Ultra Woman?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superwoman-2016-eng.xml</file_xml>
     </truyen>
-	<truyen ten="sword daughter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="sword daughter" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>sword daughter</ten_truyen>
 		<ma_truyen>sword-daughter</ma_truyen>
         <tac_gia>Brian Wood, Mack Chater, Lauren Affe</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/sword-daughter/1_medium.jpg</hinh_nho>
         <gioi_thieu>The Forty Swords came at night and murdered the entire village, save for two people: the infant Elsbeth and her grief-stricken father, Dag. Setting off on a revenge quest that will span the width of Viking Age Europe, they find the key to repairing their damaged relationship lies in the swords they carry. Created by Brian Wood (Northlanders, The Massive, DMZ) and Mack Chater (Briggs Land, Lazarus), Sword Daughter is a visually stunning, emotionally poignant story of parental guilt and acceptance of loss.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sword-daughter-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/sword-daughter-eng.xml</file_xml>
     </truyen>
 	<truyen ten="teen titans (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>teen titans (2016)</ten_truyen>
