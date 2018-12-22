@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 928</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 140</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>it's my life</ten_truyen>
+		<ma_truyen>it-s-my-life</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40060/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/it-s-my-life-eng.xml</file_xml>
+		<chap_moi>chap 41</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>boku no hero academia</ten_truyen>
 		<ma_truyen>boku-no-hero-academia</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
 		<chap_moi>chap 333</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>watashi ga motete dousunda</ten_truyen>
-		<ma_truyen>watashi-ga-motete-dousunda</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/22881/7/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/watashi-ga-motete-dousunda-eng.xml</file_xml>
-		<chap_moi>chap 55</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kono bijutsubu ni wa mondai ga aru!</ten_truyen>
-		<ma_truyen>kono-bijutsubu-ni-wa-mondai-ga-aru</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5405/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kono-bijutsubu-ni-wa-mondai-ga-aru-eng.xml</file_xml>
-		<chap_moi>chap 71</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>days  </ten_truyen>
-		<ma_truyen>days</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28078/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/days-eng.xml</file_xml>
-		<chap_moi>chap 167</chap_moi>
 	</truyen>
 </danh_sach_truyen>
