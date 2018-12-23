@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>black clover</ten_truyen>
+		<ma_truyen>black-clover</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
+		<chap_moi>chap 187</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kengan ashua</ten_truyen>
+		<ma_truyen>kengan-ashua</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kengan-ashua-eng.xml</file_xml>
+		<chap_moi>chap 219</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mushoku tensei - isekai ittara honki dasu</ten_truyen>
+		<ma_truyen>mushoku-tensei-isekai-ittara-honki-dasu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27951/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mushoku-tensei-isekai-ittara-honki-dasu-eng.xml</file_xml>
+		<chap_moi>chap 49</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>minamoto-kun monogatari</ten_truyen>
+		<ma_truyen>minamoto-kun-monogatari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/6428/10/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/minamoto-kun-monogatari-eng.xml</file_xml>
+		<chap_moi>chap 261</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>karakai jouzu no takagi-san</ten_truyen>
+		<ma_truyen>karakai-jouzu-no-takagi-san</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27906/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/karakai-jouzu-no-takagi-san-eng.xml</file_xml>
+		<chap_moi>chap 93</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>akagami no shirayukihime</ten_truyen>
+		<ma_truyen>akagami-no-shirayukihime</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/464/8/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akagami-no-shirayukihime-eng.xml</file_xml>
+		<chap_moi>chap 102</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>one piece</ten_truyen>
 		<ma_truyen>one-piece</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
@@ -272,47 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
 		<chap_moi>chap 186</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>sousei no onmyouji</ten_truyen>
-		<ma_truyen>sousei-no-onmyouji</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/24603/11/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sousei-no-onmyouji-eng.xml</file_xml>
-		<chap_moi>chap 59</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>world's end harem</ten_truyen>
-		<ma_truyen>world-s-end-harem</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
-		<chap_moi>chap 54.2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>henjyo - hen na jyoshi kousei amaguri senko</ten_truyen>
-		<ma_truyen>henjyo-hen-na-jyoshi-kousei-amaguri-senko</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/32972/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/henjyo-hen-na-jyoshi-kousei-amaguri-senko-eng.xml</file_xml>
-		<chap_moi>chap 34</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tenkuu shinpan</ten_truyen>
-		<ma_truyen>tenkuu-shinpan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tenkuu-shinpan-eng.xml</file_xml>
-		<chap_moi>chap 243</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>minamoto-kun monogatari</ten_truyen>
-		<ma_truyen>minamoto-kun-monogatari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/6428/10/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/minamoto-kun-monogatari-eng.xml</file_xml>
-		<chap_moi>chap 255</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>baby steps</ten_truyen>
-		<ma_truyen>baby-steps</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
-		<chap_moi>chap 333</chap_moi>
 	</truyen>
 </danh_sach_truyen>

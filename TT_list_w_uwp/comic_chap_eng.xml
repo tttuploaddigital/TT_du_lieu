@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>weapon h</ten_truyen>
+		<ma_truyen>weapon-h</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-h/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weapon-h-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the flash (2016)</ten_truyen>
+		<ma_truyen>the-flash-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
+		<chap_moi>issue 60</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>x-o manowar (2017)</ten_truyen>
+		<ma_truyen>x-o-manowar-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-o-manowar-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-o-manowar-2017-eng.xml</file_xml>
+		<chap_moi>issue 22</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>van helsing: sword of heaven</ten_truyen>
+		<ma_truyen>van-helsing-sword-of-heaven</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/van-helsing-sword-of-heaven/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/van-helsing-sword-of-heaven-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>red sonja / tarzan</ten_truyen>
+		<ma_truyen>red-sonja-tarzan</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/red-sonjatarzan/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-sonja-tarzan-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>curse words</ten_truyen>
+		<ma_truyen>curse-words</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/curse-words/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/curse-words-eng.xml</file_xml>
+		<chap_moi>issue 18</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>spider-girls</ten_truyen>
 		<ma_truyen>spider-girls</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-girls-(2018)/1_medium.jpg</hinh_nho>
@@ -272,47 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/g/go-go-power-rangers/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/go-go-power-rangers-eng.xml</file_xml>
 		<chap_moi>issue 15</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-men: red</ten_truyen>
-		<ma_truyen>x-men-red</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-red-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-men-red-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>champions (2016)</ten_truyen>
-		<ma_truyen>champions-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/champions/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/champions-2016-eng.xml</file_xml>
-		<chap_moi>issue 27</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars: doctor aphra</ten_truyen>
-		<ma_truyen>star-wars-doctor-aphra</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-doctor-aphra/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-doctor-aphra-eng.xml</file_xml>
-		<chap_moi>issue 27</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mr. and mrs. x</ten_truyen>
-		<ma_truyen>mr-and-mrs-x</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/mr-and-mrs-x/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mr-and-mrs-x-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>red hood and the outlaws (2016)</ten_truyen>
-		<ma_truyen>red-hood-and-the-outlaws-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/red-hood-and-the-outlaws-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-hood-and-the-outlaws-2016-eng.xml</file_xml>
-		<chap_moi>issue 29</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>weapon x (2017)</ten_truyen>
-		<ma_truyen>weapon-x-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-x-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weapon-x-2017-eng.xml</file_xml>
-		<chap_moi>issue 26</chap_moi>
 	</truyen>
 </danh_sach_truyen>
