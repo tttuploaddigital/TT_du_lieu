@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="freedom fighters (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>freedom fighters (2019)</ten_truyen>
+		<ma_truyen>freedom-fighters-2019</ma_truyen>
+        <tac_gia>Robert Venditti, Eddy Barrows</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/freedom-fighters-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Line up for this all-new maxiseries set on Earth X, where the Nazis won World War II! Twenty years after invading and occupying America, Germany wiped out all metahuman resistance, including the original Freedom Fighters. Fast-forward to the present day, and a new team of Freedom Fighters emerges to challenge the Nazi occupation once again. But if they're to have any chance of victory, they're going to need Uncle Sam-who disappeared after his original team was killed. The 12-part epic 'Death of a Nation' storyline kicks off here!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/freedom-fighters-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="black panther vs. deadpool" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>black panther vs. deadpool</ten_truyen>
+		<ma_truyen>black-panther-vs-deadpool</ma_truyen>
+        <tac_gia>Daniel Kibblesmith, Ricardo Lopez Ortiz</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/miles-morales-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>VIBRANIUM BULLETS AND REGROWING LIMBS - EVERYTHING YOU WANT FROM A COMIC IS HERE! Deadpool's teamed up with, taken down or taken a beating from just about every hero in the Marvel Universe - And no way is the Black Panther going to miss out on his turn! From Late Show writer Daniel Kibblesmith comes a hilarious romp through Wakanda as Deadpool goes on the hunt for the world's most valuable resource: Vibranium! When a beloved figure of the Marvel Universe becomes collateral damage in a fight between Deadpool and the Wrecker, the heroic Deadpool sets out to obtain a fragment of Vibranium that could save the victim’s life. But his unconventional methods - ranging from poaching to dismemberment - don't sit well with the King of Wakanda, and Deadpool's about to learn that you don't bring a sword to a claw fight!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-panther-vs-deadpool-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="john wick" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>john wick</ten_truyen>
+		<ma_truyen>john-wick</ma_truyen>
+        <tac_gia>Greg Pak, Giovanni Valletta</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/john-wick/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When a young John Wick emerges from prison and embarks upon his first, epic vendetta, he comes up against a strange, powerful community of assassins and must learn how to master the Book of Rules that guides their lethal business. What are the Three Bills? Who is Calamity? And who was John Wick before he became the Baba Yaga? Here for the first time, read the thrilling origin story of John Wick, from 'Planet Hulk' writer Greg Pak and 'Dark Horse Presents' artist Giovanni Valletta.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/john-wick-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="miles morales: spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>miles morales: spider-man</ten_truyen>
 		<ma_truyen>miles-morales-spider-man</ma_truyen>
