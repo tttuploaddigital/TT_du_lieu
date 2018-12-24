@@ -1,6 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>thor (2018)</ten_truyen>
+		<ma_truyen>thor-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thor-2018-eng.xml</file_xml>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>damage (2018)</ten_truyen>
+		<ma_truyen>damage-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/damage-2018-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>zombie tramp (2014)</ten_truyen>
+		<ma_truyen>zombie-tramp-2014</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/z/zombie-tramp/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/zombie-tramp-2014-eng.xml</file_xml>
+		<chap_moi>issue 55</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>eden's zero</ten_truyen>
+		<ma_truyen>eden-s-zero</ma_truyen>
+        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
+		<chap_moi>chap 24</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>golden kamui</ten_truyen>
+		<ma_truyen>golden-kamui</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/golden-kamui-eng.xml</file_xml>
+		<chap_moi>chap 184</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>urami koi, koi, urami koi.</ten_truyen>
+		<ma_truyen>urami-koi-koi-urami-koi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27916/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/urami-koi-koi-urami-koi-eng.xml</file_xml>
+		<chap_moi>chap 48</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dead man logan</ten_truyen>
+		<ma_truyen>dead-man-logan</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dead-man-logan/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dead-man-logan-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nightwing (2016)</ten_truyen>
+		<ma_truyen>nightwing-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/nightwing-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nightwing-2016-eng.xml</file_xml>
+		<chap_moi>issue 55</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gideon falls</ten_truyen>
+		<ma_truyen>gideon-falls</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/gideon-falls/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gideon-falls-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>baki dou</ten_truyen>
+		<ma_truyen>baki-dou</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26738/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baki-dou-eng.xml</file_xml>
+		<chap_moi>chap 158</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>akatsuki no yona</ten_truyen>
+		<ma_truyen>akatsuki-no-yona</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/496/9/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akatsuki-no-yona-eng.xml</file_xml>
+		<chap_moi>chap 167</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mai ball!</ten_truyen>
+		<ma_truyen>mai-ball</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38802/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mai-ball-eng.xml</file_xml>
+		<chap_moi>chap 104.2</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>weapon h</ten_truyen>
 		<ma_truyen>weapon-h</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-h/1_medium.jpg</hinh_nho>
@@ -230,89 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/noblesse-eng.xml</file_xml>
 		<chap_moi>chap 542</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>spider-gwen: ghost-spider</ten_truyen>
-		<ma_truyen>spider-gwen-ghost-spider</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-gwen-ghost-spider-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-gwen-ghost-spider-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>suicide squad (2016)</ten_truyen>
-		<ma_truyen>suicide-squad-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-2016-eng.xml</file_xml>
-		<chap_moi>issue 49</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the last siege</ten_truyen>
-		<ma_truyen>the-last-siege</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-last-siege/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-last-siege-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>youkai shoujo - monsuga</ten_truyen>
-		<ma_truyen>youkai-shoujo-monsuga</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/26251/12/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youkai-shoujo-monsuga-eng.xml</file_xml>
-		<chap_moi>chap 117</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>maou-jou de oyasumi</ten_truyen>
-		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
-		<chap_moi>chap 84</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hatsukoi zombie</ten_truyen>
-		<ma_truyen>hatsukoi-zombie</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/38108/6/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hatsukoi-zombie-eng.xml</file_xml>
-		<chap_moi>chap 137</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>sideways</ten_truyen>
-		<ma_truyen>sideways</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sideways/2_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sideways-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>b.p.r.d. the devil you know</ten_truyen>
-		<ma_truyen>b-p-r-d-the-devil-you-know</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/bprd-the-devil-you-know/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/b-p-r-d-the-devil-you-know-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>rose  </ten_truyen>
-		<ma_truyen>rose</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/rose/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rose-eng.xml</file_xml>
-		<chap_moi>issue 15</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tsuyokute new saga</ten_truyen>
-		<ma_truyen>tsuyokute-new-saga</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
-		<chap_moi>chap 58</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>akb49 - renai kinshi jourei</ten_truyen>
-		<ma_truyen>akb49-renai-kinshi-jourei</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/505/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akb49-renai-kinshi-jourei-eng.xml</file_xml>
-		<chap_moi>chap 238</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hare kon.</ten_truyen>
-		<ma_truyen>hare-kon</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28080/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hare-kon-eng.xml</file_xml>
-		<chap_moi>chap 149</chap_moi>
 	</truyen>
 </danh_sach_truyen>

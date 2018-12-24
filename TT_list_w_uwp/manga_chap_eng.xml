@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>eden's zero</ten_truyen>
+		<ma_truyen>eden-s-zero</ma_truyen>
+        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
+		<chap_moi>chap 24</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>golden kamui</ten_truyen>
+		<ma_truyen>golden-kamui</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/golden-kamui-eng.xml</file_xml>
+		<chap_moi>chap 184</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>urami koi, koi, urami koi.</ten_truyen>
+		<ma_truyen>urami-koi-koi-urami-koi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27916/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/urami-koi-koi-urami-koi-eng.xml</file_xml>
+		<chap_moi>chap 48</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>baki dou</ten_truyen>
+		<ma_truyen>baki-dou</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26738/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baki-dou-eng.xml</file_xml>
+		<chap_moi>chap 158</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>akatsuki no yona</ten_truyen>
+		<ma_truyen>akatsuki-no-yona</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/496/9/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akatsuki-no-yona-eng.xml</file_xml>
+		<chap_moi>chap 167</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mai ball!</ten_truyen>
+		<ma_truyen>mai-ball</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38802/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mai-ball-eng.xml</file_xml>
+		<chap_moi>chap 104.2</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>black clover</ten_truyen>
 		<ma_truyen>black-clover</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
@@ -272,47 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/21593/26/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haikyuu-eng.xml</file_xml>
 		<chap_moi>chap 331</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dr. stone</ten_truyen>
-		<ma_truyen>dr-stone</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47716/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr-stone-eng.xml</file_xml>
-		<chap_moi>chap 87.1</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hinomaru-zumou</ten_truyen>
-		<ma_truyen>hinomaru-zumou</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28267/9/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hinomaru-zumou-eng.xml</file_xml>
-		<chap_moi>chap 216</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>minamoto-kun monogatari</ten_truyen>
-		<ma_truyen>minamoto-kun-monogatari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/6428/10/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/minamoto-kun-monogatari-eng.xml</file_xml>
-		<chap_moi>chap 257</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanatsu no taizai</ten_truyen>
-		<ma_truyen>nanatsu-no-taizai</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
-		<chap_moi>chap 293</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 292</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>black clover</ten_truyen>
-		<ma_truyen>black-clover</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
-		<chap_moi>chap 186</chap_moi>
 	</truyen>
 </danh_sach_truyen>
