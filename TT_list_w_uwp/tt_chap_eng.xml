@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>batman: kings of fear</ten_truyen>
+		<ma_truyen>batman-kings-of-fear</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-kings-of-fear-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>marvel knights: 20th</ten_truyen>
+		<ma_truyen>marvel-knights-20th</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-knights-20th/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-knights-20th-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mighty morphin power rangers</ten_truyen>
+		<ma_truyen>mighty-morphin-power-rangers</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mighty-morphin-power-rangers/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mighty-morphin-power-rangers-eng.xml</file_xml>
+		<chap_moi>issue 34</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>youjo senki</ten_truyen>
+		<ma_truyen>youjo-senki</ma_truyen>
+		<hinh_nho>https://i.ebayimg.com/images/g/gVQAAOSwY3BZN1Cj/s-l300.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youjo-senki-eng.xml</file_xml>
+		<chap_moi>chap 33</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>biorg trinity</ten_truyen>
+		<ma_truyen>biorg-trinity</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/1195/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/biorg-trinity-eng.xml</file_xml>
+		<chap_moi>chap 43</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>darwin's game</ten_truyen>
+		<ma_truyen>darwin-s-game</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
+		<chap_moi>chap 60</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>wind breaker</ten_truyen>
+		<ma_truyen>wind-breaker</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/24786/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/wind-breaker-eng.xml</file_xml>
+		<chap_moi>chap 209</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>autophagy regulation</ten_truyen>
+		<ma_truyen>autophagy-regulation</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/30485/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/autophagy-regulation-eng.xml</file_xml>
+		<chap_moi>chap 210</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tower of god</ten_truyen>
+		<ma_truyen>tower-of-god</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/10442/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/tower-of-god-eng.xml</file_xml>
+		<chap_moi>chap 413</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>thor (2018)</ten_truyen>
 		<ma_truyen>thor-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
@@ -251,68 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/21593/26/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haikyuu-eng.xml</file_xml>
 		<chap_moi>chap 332</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>uncanny x-men (2018)</ten_truyen>
-		<ma_truyen>uncanny-x-men-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>supergirl (2016)</ten_truyen>
-		<ma_truyen>supergirl-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/supergirl-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/supergirl-2016-eng.xml</file_xml>
-		<chap_moi>issue 25</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>birthright</ten_truyen>
-		<ma_truyen>birthright</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/birthright/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/birthright-eng.xml</file_xml>
-		<chap_moi>issue 34</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kingdom  </ten_truyen>
-		<ma_truyen>kingdom</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
-		<chap_moi>chap 584</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mahou tsukai no yome</ten_truyen>
-		<ma_truyen>mahou-tsukai-no-yome</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/25056/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-tsukai-no-yome-eng.xml</file_xml>
-		<chap_moi>chap 52</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>darwin's game</ten_truyen>
-		<ma_truyen>darwin-s-game</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
-		<chap_moi>chap 59</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tower of god</ten_truyen>
-		<ma_truyen>tower-of-god</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/10442/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/tower-of-god-eng.xml</file_xml>
-		<chap_moi>chap 412</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the great ruler</ten_truyen>
-		<ma_truyen>the-great-ruler</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/34654/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/the-great-ruler-eng.xml</file_xml>
-		<chap_moi>chap 78</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>noblesse</ten_truyen>
-		<ma_truyen>noblesse</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/noblesse-eng.xml</file_xml>
-		<chap_moi>chap 542</chap_moi>
 	</truyen>
 </danh_sach_truyen>

@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>batman: kings of fear</ten_truyen>
+		<ma_truyen>batman-kings-of-fear</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-kings-of-fear-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>marvel knights: 20th</ten_truyen>
+		<ma_truyen>marvel-knights-20th</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-knights-20th/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-knights-20th-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mighty morphin power rangers</ten_truyen>
+		<ma_truyen>mighty-morphin-power-rangers</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mighty-morphin-power-rangers/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mighty-morphin-power-rangers-eng.xml</file_xml>
+		<chap_moi>issue 34</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>thor (2018)</ten_truyen>
 		<ma_truyen>thor-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/n/ninja-k-(2017)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ninja-k-eng.xml</file_xml>
 		<chap_moi>issue 14</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batman/the maxx: arkham dreams</ten_truyen>
-		<ma_truyen>batman-the-maxx-arkham-dreams</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batmanthe-maxx/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-the-maxx-arkham-dreams-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>west coast avengers (2018)</ten_truyen>
-		<ma_truyen>west-coast-avengers-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/west-coast-avengers-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/west-coast-avengers-2018-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>barbarella (2017)</ten_truyen>
-		<ma_truyen>barbarella-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarella-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-2017-eng.xml</file_xml>
-		<chap_moi>issue 12</chap_moi>
 	</truyen>
 </danh_sach_truyen>

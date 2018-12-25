@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>youjo senki</ten_truyen>
+		<ma_truyen>youjo-senki</ma_truyen>
+		<hinh_nho>https://i.ebayimg.com/images/g/gVQAAOSwY3BZN1Cj/s-l300.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youjo-senki-eng.xml</file_xml>
+		<chap_moi>chap 33</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>biorg trinity</ten_truyen>
+		<ma_truyen>biorg-trinity</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/1195/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/biorg-trinity-eng.xml</file_xml>
+		<chap_moi>chap 43</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>darwin's game</ten_truyen>
+		<ma_truyen>darwin-s-game</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
+		<chap_moi>chap 60</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>eden's zero</ten_truyen>
 		<ma_truyen>eden-s-zero</ma_truyen>
         <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/28014/9/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-to-uso-eng.xml</file_xml>
 		<chap_moi>chap 189</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>boku no hero academia</ten_truyen>
-		<ma_truyen>boku-no-hero-academia</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
-		<chap_moi>chap 210</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yakusoku no neverland</ten_truyen>
-		<ma_truyen>yakusoku-no-neverland</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/42944/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yakusoku-no-neverland-eng.xml</file_xml>
-		<chap_moi>chap 116</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>haikyuu!!</ten_truyen>
-		<ma_truyen>haikyuu</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/21593/26/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haikyuu-eng.xml</file_xml>
-		<chap_moi>chap 331</chap_moi>
 	</truyen>
 </danh_sach_truyen>
