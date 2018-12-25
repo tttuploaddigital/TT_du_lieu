@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="amatsuki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Historical, Josei, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>amatsuki</ten_truyen>
+		<ma_truyen>amatsuki</ma_truyen>
+		<tac_gia>Takayama Shinobu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/a7/1c/a71c3e87bb8e16f244a7bc3d9f6c76aeec1505ee_32870_200_314.jpg</hinh_nho>
+		<gioi_thieu>History isn't Tokidoki's strong subject. He's even forced to do make-up work at a high-tech history museum to bring up his failing grades. After losing an eye to a virtual reality monster in an Edo-period simulation, he finds himself unable to leave the game. Could it be real?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/amatsuki-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kanamemo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Seinen, Shoujo ai, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kanamemo</ten_truyen>
+		<ma_truyen>kanamemo</ma_truyen>
+		<tac_gia>Iwami Shouko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/26/c7/26c7e682668b7fe2d47e0d1a7f8eaf80bc45a607_35176_200_290.jpg</hinh_nho>
+		<gioi_thieu>Nakamachi Kana is a junior high school girl. Her grandmother passed away and she was left all alone. She finds a newspaper carrier station and starts working as a live-in carrier. Her room has a hole in the wall. Other female workers living next doors come in through the hole and start a wild merrymaking.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kanamemo-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hataraku saibou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hataraku saibou</ten_truyen>
+		<ma_truyen>hataraku-saibou</ma_truyen>
+		<tac_gia>Shimizu Akane</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/1b/6d/1b6dbbac9669c2b7e491606c35eac89fc68811a4_31145_200_266.jpg</hinh_nho>
+		<gioi_thieu>Within the human body there is said to be approximately 60 million cells. White blood cells, red blood cells, platelets, macrophages, memory cells, killer T cells, natural killer cells, B cells, mast cells and many more! All these different cells work tirelessly within the body, never resting for a moment, at any time willing to resist invading foreign entities like germs and viruses to the bitter end! From Akane Shimizu, winner of Shounen Sirius' Rookie Award, comes an informative tale about anthropomorthized cells!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hataraku-saibou-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="freedom fighters (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>freedom fighters (2019)</ten_truyen>
 		<ma_truyen>freedom-fighters-2019</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>As a little boy, Si Mun, the grandson of a famous shaman, had the ability to see - and communicate with - ghosts. His grandmother gave him a talisman which temporarily rid him of this ability and erased his memories of any supernatural phenomena he had witnessed. Years later, Si Mun is working a hectic, yet ordinary, job as a homicide detective in the Korean police force. His grandmother has since passed on - and the powers she sealed away appear to be reawakening...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/s-i-d-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="uncanny x-men (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>uncanny x-men (2018)</ten_truyen>
-		<ma_truyen>uncanny-x-men-2018</ma_truyen>
-        <tac_gia>Ed Brisson, Matthew Rosenberg, Kelly Thompson, Mahmud A. Asrar, Mark Bagley, Mirko Colak</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE CHILDREN OF THE ATOM ARE BACK! New ongoing series kicking off with a 10-part weekly epic, the flagship X-Men series that started it all is back and better than ever! Starting with a mysterious and tragic disappearance, the X-Men are drawn into what might be...their final adventure?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="electric warriors" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>electric warriors</ten_truyen>
-		<ma_truyen>electric-warriors</ma_truyen>
-        <tac_gia>Steve Orlando, Travel Foreman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/electric-warriors/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A new tale of the future DC Universe, set in a previously unexplored timeline-the Cosmic Dark Age! Years after the Great Disaster, the Earth has started to rebuild and rejoin the universal coalition. In order to prevent a galactic war, different worlds throughout the known cosmos have created a new system of competitive combat to give each participating planet their own voice in the intergalactic struggle. Each world has one diplomatic gladiator, chosen to possess the Electric Seed and fight for their homeland as the Electric Warrior!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/electric-warriors-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="daughters of the dragon (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>daughters of the dragon (2018)</ten_truyen>
-		<ma_truyen>daughters-of-the-dragon-2018</ma_truyen>
-        <tac_gia>Jed Mackay, Travel Foreman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/daughters-of-the-dragon-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A DOUBLE-SIZED Marvel Digital Original you don't want to miss! MISTY KNIGHT and COLLEEN WING have stolen the shows on Marvel's LUKE CAGE, IRON FIST and DEFENDERS on Netflix and now they have their own MDO series! This duo has been fighting crime as the Daughters of the Dragon for years but with Misty's new job with the FBI, does this mean the two are splitzies? NOT ON YOUR LIFE! A crazy adventure that Colleen initiates puts comics' two greatest ass-kickers on a collision course with a weird and scary side of the Marvel Universe that will have you on the edge of your seat.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/daughters-of-the-dragon-2018-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
