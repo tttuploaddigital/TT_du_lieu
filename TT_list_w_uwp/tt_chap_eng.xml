@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>harley quinn (2016)</ten_truyen>
+		<ma_truyen>harley-quinn-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
+		<chap_moi>issue 56</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>old man hawkeye</ten_truyen>
+		<ma_truyen>old-man-hawkeye</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-hawkeye/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-hawkeye-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>rat queens (2017)</ten_truyen>
+		<ma_truyen>rat-queens-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/rat-queens-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rat-queens-2017-eng.xml</file_xml>
+		<chap_moi>issue 13</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nanatsu no taizai</ten_truyen>
+		<ma_truyen>nanatsu-no-taizai</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
+		<chap_moi>chap 294</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>boku no kanojo ga majime sugiru shojo bitch na ken</ten_truyen>
+		<ma_truyen>boku-no-kanojo-ga-majime-sugiru-shojo-bitch-na-ken</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/40872/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-kanojo-ga-majime-sugiru-shojo-bitch-na-ken-eng.xml</file_xml>
+		<chap_moi>chap 52</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hantsu x torasshu</ten_truyen>
+		<ma_truyen>hantsu-x-torasshu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3495/9/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hantsu-x-torasshu-eng.xml</file_xml>
+		<chap_moi>chap 142.1</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>batman: kings of fear</ten_truyen>
 		<ma_truyen>batman-kings-of-fear</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
@@ -272,47 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/40060/3/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/it-s-my-life-eng.xml</file_xml>
 		<chap_moi>chap 41</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>spider-man / deadpool</ten_truyen>
-		<ma_truyen>spider-man-deadpool</ma_truyen>
-        <hinh_nho>https://images-na.ssl-images-amazon.com/images/I/61pFDQdn%2BJL._SY346_.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-man-deadpool-eng.xml</file_xml>
-		<chap_moi>issue 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>titans (2016) </ten_truyen>
-		<ma_truyen>titans-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/titans-2016-eng.xml</file_xml>
-		<chap_moi>issue 31</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the walking dead  </ten_truyen>
-		<ma_truyen>the-walking-dead</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-walking-dead/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-walking-dead-eng.xml</file_xml>
-		<chap_moi>issue 186</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>boku no hero academia</ten_truyen>
-		<ma_truyen>boku-no-hero-academia</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
-		<chap_moi>chap 211</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 293</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>haikyuu!!</ten_truyen>
-		<ma_truyen>haikyuu</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/21593/26/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haikyuu-eng.xml</file_xml>
-		<chap_moi>chap 332</chap_moi>
 	</truyen>
 </danh_sach_truyen>

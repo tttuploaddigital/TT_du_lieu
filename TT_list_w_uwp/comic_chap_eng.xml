@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>harley quinn (2016)</ten_truyen>
+		<ma_truyen>harley-quinn-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
+		<chap_moi>issue 56</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>old man hawkeye</ten_truyen>
+		<ma_truyen>old-man-hawkeye</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-hawkeye/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-hawkeye-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>rat queens (2017)</ten_truyen>
+		<ma_truyen>rat-queens-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/rat-queens-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rat-queens-2017-eng.xml</file_xml>
+		<chap_moi>issue 13</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>batman: kings of fear</ten_truyen>
 		<ma_truyen>batman-kings-of-fear</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-kings-of-fear/1_medium.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/h/hit-girl-(2018)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hit-girl-2018-eng.xml</file_xml>
 		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>belle: beast hunter</ten_truyen>
-		<ma_truyen>belle-beast-hunter</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/belle-beast-hunter/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/belle-beast-hunter-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>oblivion song</ten_truyen>
-		<ma_truyen>oblivion-song</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/oblivion-song/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oblivion-song-eng.xml</file_xml>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>ninja-k</ten_truyen>
-		<ma_truyen>ninja-k</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/ninja-k-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ninja-k-eng.xml</file_xml>
-		<chap_moi>issue 14</chap_moi>
 	</truyen>
 </danh_sach_truyen>
