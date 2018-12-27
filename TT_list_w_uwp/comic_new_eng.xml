@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="x-force (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-force (2018)</ten_truyen>
+		<ma_truyen>x-force-2018</ma_truyen>
+        <tac_gia>Ed Brisson, Dylan Burnett</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-force-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>FROM THE ASHES OF EXTERMINATION! Cable is dead...and now, the original X-Force team of Domino, Cannonball, Shatterstar, Boom Boom and Warpath. must hunt down the murderer of their former leader! The mutant militia are hot for blood… but when their target is the time-traveling younger version of their fallen mentor, is there a line they absolutely cannot cross? And what does Deathlok have to do with all of it? From Ed Brisson (EXTERMINATION, OLD MAN LOGAN) and Dylan Burnett (COSMIC GHOST RIDER), comes an all-new, high-octane mutant adventure! A reckoning will come!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-force-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="shazam! (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>shazam! (2018)</ten_truyen>
+		<ma_truyen>shazam-2018</ma_truyen>
+        <tac_gia>Geoff Johns, Dale Eaglesham, Mayo 'SEN' Naito</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shazam-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Teenager turned super-hero Billy Batson struggles to balance school and superheroics! (Guess which one is more fun?) But when Shazam unlocks a shocking secret deep within the Rock of Eternity, it challenges everything he knows about the worlds of magic and his family's future as its champions! Also, witness the bizarre team-up of Dr. Sivana and Mr. Mind as they set off to build a society all their own! Don't miss the start of an epic run in the making as 'Shazam and the Seven Realms' begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shazam-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="superior spider-man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>superior spider-man (2018)</ten_truyen>
+		<ma_truyen>superior-spider-man-2018</ma_truyen>
+        <tac_gia>Christos N. Gage, Mike Hawthorne</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/superior-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Otto Octavius leaves the moniker of Doctor Octopus behind and once again becomes THE SUPERIOR SPIDER-MAN! If you think you've already read the most intense and surprisingly heartbreaking Superior Spider-Man story, prepare to be wrong. Otto is going to prove to the world that he's the most effective and (to him at least) the best super hero in the world. But when a villain that overpowers him by so much shows up in San Francisco, there's no way Ock can win, right? Can you see Otto smirking from where you're reading this?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superior-spider-man-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="freedom fighters (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>freedom fighters (2019)</ten_truyen>
 		<ma_truyen>freedom-fighters-2019</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/mojo_1_medium.jpg</hinh_nho>
         <gioi_thieu>THE SPINELESS SHOWMAN TAKES CENTER STAGE! That's right - that most successful producer ever to pack the cross-time airwaves, the man himself, MOJO, has yet another plan in place the boost his ratings at the X-Men's expense! And I'm sure he would say it's THE MOST IMPORTANT COMIC BOOK YOU'LL EVER READ! PLUS: Part 2 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-mojo-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the death of superman: part 1" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the death of superman: part 1</ten_truyen>
-		<ma_truyen>the-death-of-superman-part-1</ma_truyen>
-        <tac_gia>Louise Simonson, Cat Staggs</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://i.imgur.com/i1ZiqOT.jpg</hinh_nho>
-        <gioi_thieu>'POWER' Part 1! How did Superman miss the beginning of Doomsday's rampage? Well, first, he had to save Lois Lane's father from his own folly!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-death-of-superman-part-1-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="cosmic ghost rider" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>cosmic ghost rider</ten_truyen>
-		<ma_truyen>cosmic-ghost-rider</ma_truyen>
-        <tac_gia>Donny Cates, Dylan Burnett</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/cosmic-ghost-rider/1_medium.jpg</hinh_nho>
-        <gioi_thieu>EXPLODING FROM THE PAGES OF THANOS! Frank Castle was the Punisher. A deal with the devil made him Ghost Rider. A deal with Galactus made him cosmic. A deal with Thanos made him... DEAD?!? Not to worry, he's coming back, and he's got a plan to make the universe a better place that's going to lead him into an even CRAZIER adventure than he's ever been in! Join hot new comic (and cosmic?) writer Donny Cates (THANOS, DOCTOR STRANGE) as he pushes his wildest creation past the breaking point!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cosmic-ghost-rider-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-men: black - magneto" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>x-men: black - magneto</ten_truyen>
-		<ma_truyen>x-men-black-magneto</ma_truyen>
-        <tac_gia>Chris Claremont, Dalibor Talajic</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/magneto_1_medium.jpg</hinh_nho>
-        <gioi_thieu>MAGNETO IS BACK... and so is Chris Claremont! For years, Magneto has done everything he can to achieve his goals for mutant domination. But now Magneto has declared that enough is enough. So what revolutionary plan does Magneto have that will change the face of mutantkind? And will anyone be able to stop him? Will anyone want to? PLUS: Includes Part 1 of X-MEN BLACK: APOCALYPSE the back up story by Zac Thompson, Lonnie Nadler, and Geraldo Borge!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-magneto-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
