@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="x-force (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>x-force (2018)</ten_truyen>
+		<ma_truyen>x-force-2018</ma_truyen>
+        <tac_gia>Ed Brisson, Dylan Burnett</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-force-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>FROM THE ASHES OF EXTERMINATION! Cable is dead...and now, the original X-Force team of Domino, Cannonball, Shatterstar, Boom Boom and Warpath. must hunt down the murderer of their former leader! The mutant militia are hot for blood… but when their target is the time-traveling younger version of their fallen mentor, is there a line they absolutely cannot cross? And what does Deathlok have to do with all of it? From Ed Brisson (EXTERMINATION, OLD MAN LOGAN) and Dylan Burnett (COSMIC GHOST RIDER), comes an all-new, high-octane mutant adventure! A reckoning will come!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-force-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="shazam! (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>shazam! (2018)</ten_truyen>
+		<ma_truyen>shazam-2018</ma_truyen>
+        <tac_gia>Geoff Johns, Dale Eaglesham, Mayo 'SEN' Naito</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shazam-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Teenager turned super-hero Billy Batson struggles to balance school and superheroics! (Guess which one is more fun?) But when Shazam unlocks a shocking secret deep within the Rock of Eternity, it challenges everything he knows about the worlds of magic and his family's future as its champions! Also, witness the bizarre team-up of Dr. Sivana and Mr. Mind as they set off to build a society all their own! Don't miss the start of an epic run in the making as 'Shazam and the Seven Realms' begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shazam-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="superior spider-man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>superior spider-man (2018)</ten_truyen>
+		<ma_truyen>superior-spider-man-2018</ma_truyen>
+        <tac_gia>Christos N. Gage, Mike Hawthorne</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/superior-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Otto Octavius leaves the moniker of Doctor Octopus behind and once again becomes THE SUPERIOR SPIDER-MAN! If you think you've already read the most intense and surprisingly heartbreaking Superior Spider-Man story, prepare to be wrong. Otto is going to prove to the world that he's the most effective and (to him at least) the best super hero in the world. But when a villain that overpowers him by so much shows up in San Francisco, there's no way Ock can win, right? Can you see Otto smirking from where you're reading this?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superior-spider-man-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="amatsuki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Historical, Josei, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>amatsuki</ten_truyen>
 		<ma_truyen>amatsuki</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/300/3/200.jpg</hinh_nho>
 		<gioi_thieu>No matter how much the times change, bullied kids aren't going anywhere. And fat junior high school student Haruyuki is one of them. But one day, Haruyuki encounters Kuroyukihime, the most beautiful and elegant girl at school, who gives him a mysterious program: 'Brain Burst'...and the secret of the 'Accelerated World.' He may be at the bottom of the food chain at school, but Haruyuki and his destiny begin to 'accelerate' with incredible speed in the virtual realm as he aims for the top.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/accel-world-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="solo leveling" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Shounen., Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>solo leveling</ten_truyen>
-		<ma_truyen>solo-leveling</ma_truyen>
-		<tac_gia>Jang Sung-Lak, Gee So-Lyung</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/85/6f/856fdf5722eabbfe45cf0313d8f663621e74801c_36353_200_270.jpg</hinh_nho>
-		<gioi_thieu>10 years ago, after 'the Gate' that connected the real world with the monster world opened, some of the ordinary, everyday people received the power to hunt monsters within the Gate. They are known as 'Hunters'. However, not all Hunters are powerful. My name is Sung Jin-Woo, an E-rank Hunter. I'm someone who has to risk his life in the lowliest of dungeons, the 'World's Weakest'. Having no skills whatsoever to display, I barely earned the required money by fighting in low-leveled dungeons... at least until I found a hidden dungeon with the hardest difficulty within the D-rank dungeons! In the end, as I was accepting death, I suddenly received a strange power, a quest log that only I could see, a secret to leveling up that only I know about! If I trained in accordance with my quests and hunted monsters, my level would rise. Changing from the weakest Hunter to the strongest S-rank Hunter!</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/solo-leveling-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="shen yi di nu" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Historical, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>shen yi di nu</ten_truyen>
-		<ma_truyen>shen-yi-di-nu</ma_truyen>
-		<tac_gia>Ping Ping Jun, Yang Shi Liu, Keai Bu Yu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/49103/1/200.jpg</hinh_nho>
-		<gioi_thieu>Passing to another world at the sound of duang, divine doctor in both Chinese and western medicine Feng YuHeng became the abused first wife's daughter of Da Shun Dynasty at the fraction of a minute. Wanting to kill me, one scalpel will cause you hemiplegia? Fighting with me? Carrying the pharmacy, holding fame and profit, even the Emperor worms his way into being friends with me! But what is the circumstances with that engagement, a disfigured lame person wall thumbed me, also wanting to help labor and capital to gain the world? Rogue Prince are you foolish!</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/shen-yi-di-nu-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="s. i. d." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Horror, Mystery, Supernatural, Webtoon" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>s. i. d.</ten_truyen>
-		<ma_truyen>s-i-d</ma_truyen>
-		<tac_gia>Sa Da Ham</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/63/5b/635bde5404d03ce837dc7f7725c58b8e47990d8a_21004_200_314.jpg</hinh_nho>
-		<gioi_thieu>As a little boy, Si Mun, the grandson of a famous shaman, had the ability to see - and communicate with - ghosts. His grandmother gave him a talisman which temporarily rid him of this ability and erased his memories of any supernatural phenomena he had witnessed. Years later, Si Mun is working a hectic, yet ordinary, job as a homicide detective in the Korean police force. His grandmother has since passed on - and the powers she sealed away appear to be reawakening...</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/s-i-d-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
