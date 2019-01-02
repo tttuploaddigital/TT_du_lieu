@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="usogui" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mystery, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>usogui</ten_truyen>
+		<ma_truyen>usogui</ma_truyen>
+		<tac_gia>Sako Toshio</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
+		<gioi_thieu>There are gamblers out there who even bet their lives as ante. But to secure the integrity of these life-threatening gambles, a violent and powerful organization by the name of 'Kagerou' referees these games as a neutral party. Follow Bak Madarame a.k.a. Usogui (The Lie Eater) as he gambles against maniacal opponents at games - such as Escape the Abandoned Building, Old Maid, and Hangman - to ultimately 'out-gamble' and control the neutral organization of Kagerou itself.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="atsumare! fushigi kenkyu-bu" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>atsumare! fushigi kenkyu-bu</ten_truyen>
+		<ma_truyen>atsumare-fushigi-kenkyu-bu</ma_truyen>
+		<tac_gia>Anbe Masahiro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/d5/8e/d58e847456231e06e9e8cd460a5de434a4eb1a29_35741_200_310.jpg</hinh_nho>
+		<gioi_thieu>Goryo Daisuke is still unsure about which club to join. When he meets the three girl members of Mysterious Research Club while looking for the school's warehouse, he gets hypnotized to sign the registration form. Suzu who is obsessed with scary curses, Chiaki who only relies on her monstrous strength to perform dangerous magic tricks, and Kotone who can control people by hypnosis... Now, Daisuke's comical, yet chaotic life as the club’s guinea pig to conduct mysterious research begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/atsumare-fushigi-kenkyu-bu-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="a story about treating a female knight who has never been treated as a woman as a woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>a story about treating a female knight who has never been treated as a woman as a woman</ten_truyen>
+		<ma_truyen>a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman</ma_truyen>
+		<tac_gia>Matsumoto Kengo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/0f/07/0f0796223ac589a3936e2ee1ce269e8ab9940857_30130_200_284.jpg</hinh_nho>
+		<gioi_thieu>Female knight Leo has never been treated as a woman...until the magician Fooly treats her as one. These two will challenge the quest named 'Romance', which is tougher to complete than a super hard dungeon!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="x-force (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>x-force (2018)</ten_truyen>
 		<ma_truyen>x-force-2018</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>The lands between the coasts are vast, slow to change, and full of hidden magics. Mistakes have been made, and in this NEW ONGOING SERIES, an unwitting adventurer searches for answers to quell a coming storm that knows his name. From author SKOTTIE YOUNG (I HATE FAIRYLAND, Deadpool) and artist JORGE CORONA (NO. 1 WITH A BULLET, Feathers, Big Trouble in Little China: Old Man Jack) comes the tale of Abel, a young boy who must navigate an old land in order to reconcile his family's history.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/middlewest-eng.xml</file_xml>
     </truyen>
-	<truyen ten="happiness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>happiness</ten_truyen>
-		<ma_truyen>happiness</ma_truyen>
-		<tac_gia>Oshimi Shuzo</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/30345/6/200.jpg</hinh_nho>
-		<gioi_thieu>Makoto Okazaki is your run of the mill high-schooler, a perfect bullying target and a closet pervert. One night he decides to return a DVD to a friend of his and ventures out into the darkness. He notices a person on a nearby rooftop. The person lunges at him before he is able to make sense of this, and bites into his neck, drinking his blood. The attacker stops. At this point Makoto notices that the attacker is a beautiful girl. She asks him: 'Do you want to die or become like me?' He decides to live...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/happiness-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ratman" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Romance, School life, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ratman</ten_truyen>
-		<ma_truyen>ratman</ma_truyen>
-		<tac_gia>Inui Sekihiko</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/8106/2/200.jpg</hinh_nho>
-		<gioi_thieu>Meet Shooto. He's a big hero fan and wants to become a hero! The problem is that he's mocked for being too short. One day, his classmate Mizushima invites him to become a 'hero' at her home which is actually a criminal organization called Jackal. Shooto then gets tricked by Jackal's leader Crea to become their supervillian, Ratman! Now the world's smallest hero will embark on his battle against heroes and villains alike!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ratman-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="accel world" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Romance, School life, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>accel world</ten_truyen>
-		<ma_truyen>accel-world</ma_truyen>
-		<tac_gia>Kawahara reki, Aigamo Hiroyuki</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/300/3/200.jpg</hinh_nho>
-		<gioi_thieu>No matter how much the times change, bullied kids aren't going anywhere. And fat junior high school student Haruyuki is one of them. But one day, Haruyuki encounters Kuroyukihime, the most beautiful and elegant girl at school, who gives him a mysterious program: 'Brain Burst'...and the secret of the 'Accelerated World.' He may be at the bottom of the food chain at school, but Haruyuki and his destiny begin to 'accelerate' with incredible speed in the virtual realm as he aims for the top.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/accel-world-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>

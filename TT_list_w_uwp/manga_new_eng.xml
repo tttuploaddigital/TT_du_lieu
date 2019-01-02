@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="usogui" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mystery, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>usogui</ten_truyen>
+		<ma_truyen>usogui</ma_truyen>
+		<tac_gia>Sako Toshio</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
+		<gioi_thieu>There are gamblers out there who even bet their lives as ante. But to secure the integrity of these life-threatening gambles, a violent and powerful organization by the name of 'Kagerou' referees these games as a neutral party. Follow Bak Madarame a.k.a. Usogui (The Lie Eater) as he gambles against maniacal opponents at games - such as Escape the Abandoned Building, Old Maid, and Hangman - to ultimately 'out-gamble' and control the neutral organization of Kagerou itself.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="atsumare! fushigi kenkyu-bu" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>atsumare! fushigi kenkyu-bu</ten_truyen>
+		<ma_truyen>atsumare-fushigi-kenkyu-bu</ma_truyen>
+		<tac_gia>Anbe Masahiro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/d5/8e/d58e847456231e06e9e8cd460a5de434a4eb1a29_35741_200_310.jpg</hinh_nho>
+		<gioi_thieu>Goryo Daisuke is still unsure about which club to join. When he meets the three girl members of Mysterious Research Club while looking for the school's warehouse, he gets hypnotized to sign the registration form. Suzu who is obsessed with scary curses, Chiaki who only relies on her monstrous strength to perform dangerous magic tricks, and Kotone who can control people by hypnosis... Now, Daisuke's comical, yet chaotic life as the club’s guinea pig to conduct mysterious research begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/atsumare-fushigi-kenkyu-bu-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="a story about treating a female knight who has never been treated as a woman as a woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>a story about treating a female knight who has never been treated as a woman as a woman</ten_truyen>
+		<ma_truyen>a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman</ma_truyen>
+		<tac_gia>Matsumoto Kengo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/0f/07/0f0796223ac589a3936e2ee1ce269e8ab9940857_30130_200_284.jpg</hinh_nho>
+		<gioi_thieu>Female knight Leo has never been treated as a woman...until the magician Fooly treats her as one. These two will challenge the quest named 'Romance', which is tougher to complete than a super hard dungeon!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="amatsuki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Historical, Josei, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>amatsuki</ten_truyen>
 		<ma_truyen>amatsuki</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://www.mangaupdates.com/image/i165836.jpg</hinh_nho>
 		<gioi_thieu>Flame of Recca follows the story of a teenage boy named Recca Hanabishi, who is interested in ninja and claims to be one himself. He often gets into fights because he made it publicly known that the person who manages to defeat him will earn his services as a loyal ninja. Despite this, he eventually pledges his loyalty and services as a ninja to Yanagi Sakoshita, a girl with the innate ability to heal any wound/injury, because of her kindess and compassion. Recca soon discovers that he possesses the innate ability to control/manipulate flames, and eventually learns that he is actually the son of the sixth generation leader of the Hokage, a ninja clan that was wiped out by Oda Nobunaga in 1576, roughly 400 years before the series' present day!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/flame-of-recca-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="origin  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>origin  </ten_truyen>
-		<ma_truyen>origin</ma_truyen>
-		<tac_gia>Boichi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43656/2/200.jpg</hinh_nho>
-		<gioi_thieu>The year is AD 2048. Japan is connected to the Eurasian continent by a transcontinental railroad. The capital, Tokyo, has become a crucible of criminals and terrorists. And so, in the metropolitan darkness a mysterious presence attacks and slaughters people, unnoticed, night after night... Just what are these 'things that are not human' living in hiding in the human world? And just who is this 'Origin' person who faces them?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/origin-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="rere hello" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="	Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>rere hello</ten_truyen>
-		<ma_truyen>rere-hello</ma_truyen>
-		<tac_gia>Minami Touko</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/21728/3/200.jpg</hinh_nho>
-		<gioi_thieu>When Ririko was five, she lost her mother. Since then, she helps out her father. Her father started a handyman company, but then something horrible happened...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/rere-hello-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="genwaku no kodou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Harem, Horror, Mystery, Romance, Shounen ai, Supernatural, Yaoi" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>genwaku no kodou</ten_truyen>
-		<ma_truyen>genwaku-no-kodou</ma_truyen>
-		<tac_gia>Yoshihara Rieko, Kada Michiru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3044/1/200.jpg</hinh_nho>
-		<gioi_thieu>Strange things are happening all over town, and Kouichi Amano's nightmares have started again. Several clans have been spurred into action as the past gradually resurfaces. Just what is going on, and how do the Amano brothers fit into the picture?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/genwaku-no-kodou-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
