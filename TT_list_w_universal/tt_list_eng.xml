@@ -4284,14 +4284,14 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>Superman is in prison, as are most of the founding members of the regime. Adamant as ever, the man of steel blames Batman for his failures, and rants about how his actions will allow crime and corruption to return to the world. However, the universe is a alot bigger than two men on a small planet; there are otherworldly forces at work that wish to conquer their little home in the cosmos. Will they allow their personal greivances to get in the way of that which is most important -- protecting the Earth?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/injustice-2-eng.xml</file_xml>
     </truyen>
-	<truyen ten="injustice vs. masters of the universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="injustice vs. masters of the universe" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>injustice vs. masters of the universe</ten_truyen>
 		<ma_truyen>injustice-vs-masters-of-the-universe</ma_truyen>
         <tac_gia>Tim Seeley, Freddie E. Williams II, Jeremy Colwell</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/i/injustice-vs-masters-of-the-universe/1_medium.jpg</hinh_nho>
         <gioi_thieu>Believing He-man and the Masters of the Universe defeated, a robotic impostor has seized control of Eternia-but not for long! After freeing his kingdom from this strongman's rule, Prince Adam learns not everyone is pleased to see the pretender deposed-but Adam knows the value of freedom. So when heroes from another dimension ask his aid in deposing a super-hero turned dictator, he agrees. Teaming up with Batman against the Superman of the Injustice Universe, He-man and his new allies face dangerous and familiar enemies in a battle where no world is safe!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/injustice-vs-masters-of-the-universe-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/injustice-vs-masters-of-the-universe-eng.xml</file_xml>
     </truyen>
     <truyen ten="injustice: gods among us: year 1" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>injustice: gods among us: year 1</ten_truyen>
