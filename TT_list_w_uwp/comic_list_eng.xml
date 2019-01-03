@@ -1656,7 +1656,7 @@
         <gioi_thieu>Superman is in prison, as are most of the founding members of the regime. Adamant as ever, the man of steel blames Batman for his failures, and rants about how his actions will allow crime and corruption to return to the world. However, the universe is a alot bigger than two men on a small planet; there are otherworldly forces at work that wish to conquer their little home in the cosmos. Will they allow their personal greivances to get in the way of that which is most important -- protecting the Earth?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/injustice-2-eng.xml</file_xml>
     </truyen>
-	<truyen ten="injustice vs. masters of the universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="injustice vs. masters of the universe" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>injustice vs. masters of the universe</ten_truyen>
 		<ma_truyen>injustice-vs-masters-of-the-universe</ma_truyen>
         <tac_gia>Tim Seeley, Freddie E. Williams II, Jeremy Colwell</tac_gia>
