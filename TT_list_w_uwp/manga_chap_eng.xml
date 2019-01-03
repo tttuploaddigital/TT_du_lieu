@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>gintama</ten_truyen>
+		<ma_truyen>gintama</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3096/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gintama-eng.xml</file_xml>
+		<chap_moi>chap 699</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tenkuu shinpan</ten_truyen>
+		<ma_truyen>tenkuu-shinpan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tenkuu-shinpan-eng.xml</file_xml>
+		<chap_moi>chap 245</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hajimete no gal</ten_truyen>
+		<ma_truyen>hajimete-no-gal</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41576/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajimete-no-gal-eng.xml</file_xml>
+		<chap_moi>chap 67</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>amano megumi wa suki darake!</ten_truyen>
+		<ma_truyen>amano-megumi-wa-suki-darake</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/40038/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/amano-megumi-wa-suki-darake-eng.xml</file_xml>
+		<chap_moi>chap 143</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>konjiki no moji tsukai - yuusha yonin ni makikomareta unique cheat</ten_truyen>
+		<ma_truyen>konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/29695/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat-eng.xml</file_xml>
+		<chap_moi>chap 47</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>world's end harem</ten_truyen>
+		<ma_truyen>world-s-end-harem</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
+		<chap_moi>chap 55</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>one piece</ten_truyen>
 		<ma_truyen>one-piece</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
@@ -272,47 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/38108/6/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hatsukoi-zombie-eng.xml</file_xml>
 		<chap_moi>chap 137</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tsuyokute new saga</ten_truyen>
-		<ma_truyen>tsuyokute-new-saga</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
-		<chap_moi>chap 58</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>akb49 - renai kinshi jourei</ten_truyen>
-		<ma_truyen>akb49-renai-kinshi-jourei</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/505/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akb49-renai-kinshi-jourei-eng.xml</file_xml>
-		<chap_moi>chap 238</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hare kon.</ten_truyen>
-		<ma_truyen>hare-kon</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28080/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hare-kon-eng.xml</file_xml>
-		<chap_moi>chap 149</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>overlord</ten_truyen>
-		<ma_truyen>overlord</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/29252/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/overlord-eng.xml</file_xml>
-		<chap_moi>chap 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>bungou stray dogs</ten_truyen>
-		<ma_truyen>bungou-stray-dogs</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/25742/6/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bungou-stray-dogs-eng.xml</file_xml>
-		<chap_moi>chap 68</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
-		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuragi-sou-no-yuuna-san-eng.xml</file_xml>
-		<chap_moi>chap 140</chap_moi>
 	</truyen>
 </danh_sach_truyen>
