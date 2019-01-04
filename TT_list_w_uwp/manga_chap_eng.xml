@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>boku no hero academia</ten_truyen>
+		<ma_truyen>boku-no-hero-academia</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
+		<chap_moi>chap 212</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yuusha ga shinda!</ten_truyen>
+		<ma_truyen>yuusha-ga-shinda</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/29997/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuusha-ga-shinda-eng.xml</file_xml>
+		<chap_moi>chap 146</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>enen no shouboutai</ten_truyen>
+		<ma_truyen>enen-no-shouboutai</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/35965/6/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/enen-no-shouboutai-eng.xml</file_xml>
+		<chap_moi>chap 699</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>gintama</ten_truyen>
 		<ma_truyen>gintama</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/3096/2/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
 		<chap_moi>chap 59</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>youkai shoujo - monsuga</ten_truyen>
-		<ma_truyen>youkai-shoujo-monsuga</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/26251/12/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youkai-shoujo-monsuga-eng.xml</file_xml>
-		<chap_moi>chap 117</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>maou-jou de oyasumi</ten_truyen>
-		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
-		<chap_moi>chap 84</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hatsukoi zombie</ten_truyen>
-		<ma_truyen>hatsukoi-zombie</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/38108/6/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hatsukoi-zombie-eng.xml</file_xml>
-		<chap_moi>chap 137</chap_moi>
 	</truyen>
 </danh_sach_truyen>

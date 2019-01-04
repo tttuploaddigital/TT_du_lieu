@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>old lady harley</ten_truyen>
+		<ma_truyen>old-lady-harley</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-lady-harley/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-lady-harley-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>immortal hulk</ten_truyen>
+		<ma_truyen>immortal-hulk</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/immortal-hulk-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>raven: daughter of darkness</ten_truyen>
+		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>injustice vs. masters of the universe</ten_truyen>
 		<ma_truyen>injustice-vs-masters-of-the-universe</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/i/injustice-vs-masters-of-the-universe/1_medium.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/b/birthright/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/birthright-eng.xml</file_xml>
 		<chap_moi>issue 34</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>spider-gwen: ghost-spider</ten_truyen>
-		<ma_truyen>spider-gwen-ghost-spider</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-gwen-ghost-spider-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-gwen-ghost-spider-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>suicide squad (2016)</ten_truyen>
-		<ma_truyen>suicide-squad-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-2016-eng.xml</file_xml>
-		<chap_moi>issue 49</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the last siege</ten_truyen>
-		<ma_truyen>the-last-siege</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-last-siege/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-last-siege-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
 	</truyen>
 </danh_sach_truyen>
