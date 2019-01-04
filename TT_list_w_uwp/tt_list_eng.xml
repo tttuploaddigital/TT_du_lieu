@@ -2583,6 +2583,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>Impossible curves. Impossible shots. Impossible targets. Marvel's #1 soldier of fortune is back in an explosive new ongoing series! The product of a failed super-soldier program, Neena Thurman always made her own luck as the sharpshooting mercenary known as Domino... but what happens when her own powers betray her? The hunter becomes the hunted as every mercenary in the game smells blood in the water! Plus: A pair of beloved Marvel characters return!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/domino-2018-eng.xml</file_xml>
     </truyen>
+	<truyen ten="doomsday clock" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>doomsday clock</ten_truyen>
+		<ma_truyen>doomsday-clock</ma_truyen>
+        <tac_gia>Geoff Johns, Gary Frank, Brad Anderson</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/doomsday-clock/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DC Comics presents to you a 12-issue maxiseries from the critically acclaimed team of writer Geoff Johns, artist Gary Frank and colorist Brad Anderson. You are not prepared for what lies ahead within these pages, good readers.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doomsday-clock-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="double casting" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, Mystery, Romance, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>double casting</ten_truyen>
 		<ma_truyen>double-casting</ma_truyen>
@@ -4893,6 +4902,15 @@ This manga upload for Rocío Yael from Argentina via request manga on Windows st
 		<gioi_thieu>The story follows the motivated detective Asano Misaki and her slacker partner Hijirihara Takumi. They work in the Special Crime Investigation agency (SCI), which is in charge of cases judged abnormal or bizarre.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/killer-killer-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="killmonger" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>killmonger</ten_truyen>
+		<ma_truyen>killmonger</ma_truyen>
+        <tac_gia>Bryan Hill, Juan E. Ferreyra</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/k/killmonger-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE BRUTAL TALE OF A MAN WHO WILL STOP AT NOTHING FOR FREEDOM...One day, Erik Killmonger will rise up and attempt to steal the throne of Wakanda. The throne he believes he is owed. But long before he became 'Killmonger', there was a boy known as N'Jadaka. A boy who was stolen from his home and taught only the world's cruelties. A boy who knew the Black Panther only as a fairy tale, a whisper from strangers. This is the story of a man who is driven by revenge. This is the legend of Killmonger.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/killmonger-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="kimetsu no yaiba" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Historical, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kimetsu no yaiba</ten_truyen>
 		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
@@ -5529,6 +5547,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>Ohyama Takeru happily enrolls in a co-ed school that didn't required any entrance exams and has hostels to boot... Only to find out that there's more to the school than he thought!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maken-ki-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="man without fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>man without fear</ten_truyen>
+		<ma_truyen>man-without-fear</ma_truyen>
+        <tac_gia>Jed Mackay, Danilo Beyruth</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/man-without-fear-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Daredevil is gone, but Hell's Kitchen is still a place of heroes and villains. Foggy Nelson will learn what it means to live in a world without a Daredevil. And without a Daredevil to protect it, has hell come for his city? Who is The Man Without Fear?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/man-without-fear-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="man-thing (2017)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>man-thing (2017)</ten_truyen>
 		<ma_truyen>man-thing-2017</ma_truyen>

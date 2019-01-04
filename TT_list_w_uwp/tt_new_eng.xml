@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="man without fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>man without fear</ten_truyen>
+		<ma_truyen>man-without-fear</ma_truyen>
+        <tac_gia>Jed Mackay, Danilo Beyruth</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/man-without-fear-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Daredevil is gone, but Hell's Kitchen is still a place of heroes and villains. Foggy Nelson will learn what it means to live in a world without a Daredevil. And without a Daredevil to protect it, has hell come for his city? Who is The Man Without Fear?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/man-without-fear-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="doomsday clock" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>doomsday clock</ten_truyen>
+		<ma_truyen>doomsday-clock</ma_truyen>
+        <tac_gia>Geoff Johns, Gary Frank, Brad Anderson</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/doomsday-clock/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DC Comics presents to you a 12-issue maxiseries from the critically acclaimed team of writer Geoff Johns, artist Gary Frank and colorist Brad Anderson. You are not prepared for what lies ahead within these pages, good readers.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doomsday-clock-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="killmonger" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>killmonger</ten_truyen>
+		<ma_truyen>killmonger</ma_truyen>
+        <tac_gia>Bryan Hill, Juan E. Ferreyra</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/k/killmonger-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE BRUTAL TALE OF A MAN WHO WILL STOP AT NOTHING FOR FREEDOM...One day, Erik Killmonger will rise up and attempt to steal the throne of Wakanda. The throne he believes he is owed. But long before he became 'Killmonger', there was a boy known as N'Jadaka. A boy who was stolen from his home and taught only the world's cruelties. A boy who knew the Black Panther only as a fairy tale, a whisper from strangers. This is the story of a man who is driven by revenge. This is the legend of Killmonger.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/killmonger-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="usogui" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mystery, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>usogui</ten_truyen>
 		<ma_truyen>usogui</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>In the year 200X, a Japanese fleet consisting of 3 vessels leave on a mission to South America. After encountering a storm, the ship JDS Mirai find themselves without their escorts and in 1942, traveling towards the island of Midway to face the American fleet in one of largest battles in naval history. The crew of MIrai must decide whether or not to change the course of history by involving itself in WWII.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/zipang-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="west coast avengers (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>west coast avengers (2018)</ten_truyen>
-		<ma_truyen>west-coast-avengers-2018</ma_truyen>
-        <tac_gia>Kelly Thompson, Stefano Caselli</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/west-coast-avengers-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A NEW ERA DAWNS...AVENGERS ASSEMBLE! HAWKEYE (KATE BISHOP). HAWKEYE (CLINT BARTON). A guy named FUSE. Never have they ever been called 'the big three' of...anything. And now here they are, reunited for, okay, well, it's only the second time ever. Thank god they also brought AMERICA CHAVEZ, GWENPOOL and KID OMEGA. Wait. What? That's right, it's the new West Coast Avengers, son. And you better hope they can figure out how to save the world because BIG things are headed for the West Coast.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/west-coast-avengers-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="robots versus princesses" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Children, Comedy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>robots versus princesses</ten_truyen>
-		<ma_truyen>robots-versus-princesses</ma_truyen>
-        <tac_gia>Todd Matthy, Nicolas Chapuis</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/robots-vs-princesses/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The comic event of the year has arrived! When plucky Princess Zara stumbles upon the Decimator defector Wheeler, she sets in motion events that will pit the spritely cleverness of fairy tale princesses against the raw power of giant robots! The dream match you never thought you'd see begins here. Don't miss it!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robots-versus-princesses-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="middlewest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>middlewest</ten_truyen>
-		<ma_truyen>middlewest</ma_truyen>
-        <tac_gia>Skottie Young, Jorge Corona</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/middlewest/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The lands between the coasts are vast, slow to change, and full of hidden magics. Mistakes have been made, and in this NEW ONGOING SERIES, an unwitting adventurer searches for answers to quell a coming storm that knows his name. From author SKOTTIE YOUNG (I HATE FAIRYLAND, Deadpool) and artist JORGE CORONA (NO. 1 WITH A BULLET, Feathers, Big Trouble in Little China: Old Man Jack) comes the tale of Abel, a young boy who must navigate an old land in order to reconcile his family's history.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/middlewest-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
