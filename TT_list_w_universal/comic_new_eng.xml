@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="man without fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>man without fear</ten_truyen>
+		<ma_truyen>man-without-fear</ma_truyen>
+        <tac_gia>Jed Mackay, Danilo Beyruth</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/man-without-fear-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Daredevil is gone, but Hell's Kitchen is still a place of heroes and villains. Foggy Nelson will learn what it means to live in a world without a Daredevil. And without a Daredevil to protect it, has hell come for his city? Who is The Man Without Fear?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/man-without-fear-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="doomsday clock" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>doomsday clock</ten_truyen>
+		<ma_truyen>doomsday-clock</ma_truyen>
+        <tac_gia>Geoff Johns, Gary Frank, Brad Anderson</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/doomsday-clock/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DC Comics presents to you a 12-issue maxiseries from the critically acclaimed team of writer Geoff Johns, artist Gary Frank and colorist Brad Anderson. You are not prepared for what lies ahead within these pages, good readers.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doomsday-clock-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="killmonger" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>killmonger</ten_truyen>
+		<ma_truyen>killmonger</ma_truyen>
+        <tac_gia>Bryan Hill, Juan E. Ferreyra</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/k/killmonger-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE BRUTAL TALE OF A MAN WHO WILL STOP AT NOTHING FOR FREEDOM...One day, Erik Killmonger will rise up and attempt to steal the throne of Wakanda. The throne he believes he is owed. But long before he became 'Killmonger', there was a boy known as N'Jadaka. A boy who was stolen from his home and taught only the world's cruelties. A boy who knew the Black Panther only as a fairy tale, a whisper from strangers. This is the story of a man who is driven by revenge. This is the legend of Killmonger.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/killmonger-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="x-force (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>x-force (2018)</ten_truyen>
 		<ma_truyen>x-force-2018</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/shuri-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>The Black Panther has disappeared, lost on a mission in space. And in his absence, everyone's looking at the next in line for the throne. But Shuri is happiest in a lab, surrounded by gadgets of her own creation. She'd rather be testing gauntlets than throwing them. But a nation without a leader is a vulnerable one - and Shuri may have to choose between Wakanda's welfare and her own.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="avengers (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>avengers (2018)</ten_truyen>
-		<ma_truyen>avengers-2018</ma_truyen>
-        <tac_gia>Jason Aaron, Ed McGuinness</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Thor Odinson. Steve Rogers. Tony Stark. The Big Three of the Avengers are reunited at last! And just in time to save the world from total annihilation at the hands of their most powerful enemies yet: the 2000-foot-tall space gods known as Celestials. Behold the coming of the Final Host. Who will answer the call to assemble for a wild new era of Earth's Mightiest Heroes? Hint: one of them has a flaming skull for a head. And what strange, world-shaking connection exists between the Final Host and Odin's ancient band of Prehistoric Avengers?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="go go power rangers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>go go power rangers</ten_truyen>
-		<ma_truyen>go-go-power-rangers</ma_truyen>
-        <tac_gia>Ryan Parrott, Dan Mora</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/go-go-power-rangers/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The untold, personal story of what happens to Jason, Kim, Trini, Zack, and Billy following in the days after they first became Power Rangers. Fighting evil is hard, but surviving high school may be even harder-welcome to real life in Angel Grove.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/go-go-power-rangers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-men: black - mojo" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>x-men: black - mojo</ten_truyen>
-		<ma_truyen>x-men-black-mojo</ma_truyen>
-        <tac_gia>Scott Aukerman, Lonnie Nadler, Zac Thompson, Andre Lima Araujo, Geraldo Borges, Nick Bradshaw</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/mojo_1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE SPINELESS SHOWMAN TAKES CENTER STAGE! That's right - that most successful producer ever to pack the cross-time airwaves, the man himself, MOJO, has yet another plan in place the boost his ratings at the X-Men's expense! And I'm sure he would say it's THE MOST IMPORTANT COMIC BOOK YOU'LL EVER READ! PLUS: Part 2 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-mojo-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
