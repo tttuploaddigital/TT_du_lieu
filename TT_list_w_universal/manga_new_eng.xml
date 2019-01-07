@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="murabito desu ga nani ka?" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>murabito desu ga nani ka?</ten_truyen>
+		<ma_truyen>murabito-desu-ga-nani-ka</ma_truyen>
+		<tac_gia>Shiraishi Arata, Sabamu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/40/46/40465d9f542faf8fa07c1a0c0599f22cb9c7dad7_37575_200_310.jpg</hinh_nho>
+		<gioi_thieu>Our protagonist was reincarnated in a world with goblin and dragon....but his optimal job is 'villager'. Using the Tutorial mode' Cheat 'getting one chance to redo life after death' he will show you what a villager can do.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/murabito-desu-ga-nani-ka-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="rokudou no onna-tachi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>rokudou no onna-tachi</ten_truyen>
+		<ma_truyen>rokudou-no-onna-tachi</ma_truyen>
+		<tac_gia>Nakamura Yuji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/cd/2e/cd2efd94fcac78155f060ac6d27986ba8273bd7a_42590_200_314.jpg</hinh_nho>
+		<gioi_thieu>Rokudou is a loser, and everyone knows it. He gets picked on at school, gets snide looks from passersby, and can only muster up the courage to complain in secret with his equally hapless friends. Looking to turn his life around, he desperately uses an ancestral artifact passed down in his family for generations: a scroll that is capable of subduing all demons. However, in the modern age it has a different effect-it makes all bad girls fall in love with him.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/rokudou-no-onna-tachi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="yu-gi-oh! gx" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>yu-gi-oh! gx</ten_truyen>
+		<ma_truyen>yu-gi-oh-gx</ma_truyen>
+		<tac_gia>Sako Toshio</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/4e/af/4eaf78b8ec712017adb9fac2ba1d9584ba4bdf28_42600_200_315.jpg</hinh_nho>
+		<gioi_thieu>Years have passed after Yugi's adventures and now it's Yuki Judai's turn. Yuki Judai is a new student in the school Duel Academy, a school dedicated to teach duelist the basics and advanced techniques. Judai is determined to be world's #1 duelist, accepting challenges from his rivals (and friends). Although the manga is based on the anime, the story is really different and unrelated.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/yu-gi-oh-gx-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="usogui" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mystery, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>usogui</ten_truyen>
 		<ma_truyen>usogui</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/50492/1/200.jpg</hinh_nho>
 		<gioi_thieu>Are you in need of revenge? Is there someone that you need out of your way? The Pururun All-Natural-Girls Express Service would be more than pleased to help you achieve these things. 'Kay' is one such cute girl that works for Pururun, and when duty calls, she is there to eliminate anyone her client wants -- whether it's with knives, guns, or acid! How did she come to be a killing specialist, what kinds of people will she meet -- and what are her goals?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/violence-action-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="sky blue" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Romance, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>sky blue</ten_truyen>
-		<ma_truyen>sky-blue</ma_truyen>
-		<tac_gia>Kobayashi Daiki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/9237/1/200.jpg</hinh_nho>
-		<gioi_thieu>Kazama's family died in a mysterious explosion when he was still young and since then, he has not been able to come to terms with their deaths or even with himself. He emotionally distances himself from everyone and his aggressive nature gets him the nick name 'Real Life Combat Game Character.' Years later, Kazama, now in high school, gets close to death after a car accident. As he accepts his fate, Sky Blue enters his consciousness. Somehow related to the multicolored meteors that were seen all around the world on the same day of Kazama's near fatal accident, Sky Blue is able to control his body. The teenage-looking Sky Blue is able to control Kazama's body movements and even his speech. He falls for the beautiful but cold Haioka Anna and when she gets kidnapped, Sky Blue takes over Kazama's body, unleashing enormous amounts of power and strength.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sky-blue-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kin no kanojo, gin no kanojo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Fantasy, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kin no kanojo, gin no kanojo</ten_truyen>
-		<ma_truyen>kin-no-kanojo-gin-no-kanojo</ma_truyen>
-		<tac_gia>Akai Maruboro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/29051/2/200.jpg</hinh_nho>
-		<gioi_thieu>The romantic comedy depicts a hapless protagonist and his beautiful love interest - who is split into two girls by a divine power. The 'Golden Girlfriend' is the graceful and ladylike type, while the 'Silver Girlfriend' is the mischievous, foulmouthed, and straightforward type.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kin-no-kanojo-gin-no-kanojo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="flame of recca" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Martial arts, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>flame of recca</ten_truyen>
-		<ma_truyen>flame-of-recca</ma_truyen>
-		<tac_gia>Anzai Nobuyuki</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://www.mangaupdates.com/image/i165836.jpg</hinh_nho>
-		<gioi_thieu>Flame of Recca follows the story of a teenage boy named Recca Hanabishi, who is interested in ninja and claims to be one himself. He often gets into fights because he made it publicly known that the person who manages to defeat him will earn his services as a loyal ninja. Despite this, he eventually pledges his loyalty and services as a ninja to Yanagi Sakoshita, a girl with the innate ability to heal any wound/injury, because of her kindess and compassion. Recca soon discovers that he possesses the innate ability to control/manipulate flames, and eventually learns that he is actually the son of the sixth generation leader of the Hokage, a ninja clan that was wiped out by Oda Nobunaga in 1576, roughly 400 years before the series' present day!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/flame-of-recca-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
