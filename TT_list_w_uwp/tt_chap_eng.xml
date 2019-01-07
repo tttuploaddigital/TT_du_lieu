@@ -1,6 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>heroes in crisis</ten_truyen>
+		<ma_truyen>heroes-in-crisis</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/heroes-in-crisis/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/heroes-in-crisis-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>runaways (2017)</ten_truyen>
+		<ma_truyen>runaways-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/runaways-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/runaways-2017-eng.xml</file_xml>
+		<chap_moi>issue 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>justice league odyssey</ten_truyen>
+		<ma_truyen>justice-league-odyssey</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-odyssey/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-odyssey-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tate no yuusha no nariagari</ten_truyen>
+		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tate-no-yuusha-no-nariagari-eng.xml</file_xml>
+		<chap_moi>chap 50</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>youjo senki</ten_truyen>
+		<ma_truyen>youjo-senki</ma_truyen>
+		<hinh_nho>https://i.ebayimg.com/images/g/gVQAAOSwY3BZN1Cj/s-l300.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youjo-senki-eng.xml</file_xml>
+		<chap_moi>chap 37</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>koi inu.</ten_truyen>
+		<ma_truyen>koi-inu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/33554/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-inu-eng.xml</file_xml>
+		<chap_moi>chap 158</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the curse of brimstone</ten_truyen>
+		<ma_truyen>the-curse-of-brimstone</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-curse-of-brimstone/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-curse-of-brimstone-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>coda  </ten_truyen>
+		<ma_truyen>coda</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/coda/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/coda-eng.xml</file_xml>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>invader zim</ten_truyen>
+		<ma_truyen>invader-zim</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/invader-zim/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invader-zim-eng.xml</file_xml>
+		<chap_moi>issue 38</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>houseki no kuni</ten_truyen>
+		<ma_truyen>houseki-no-kuni</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27295/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/houseki-no-kuni-eng.xml</file_xml>
+		<chap_moi>chap 74</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>youkai shoujo - monsuga</ten_truyen>
+		<ma_truyen>youkai-shoujo-monsuga</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26251/12/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youkai-shoujo-monsuga-eng.xml</file_xml>
+		<chap_moi>chap 118</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>namaikizakari</ten_truyen>
+		<ma_truyen>namaikizakari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27263/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/namaikizakari-eng.xml</file_xml>
+		<chap_moi>chap 92</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>marvel knights: 20th</ten_truyen>
 		<ma_truyen>marvel-knights-20th</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-knights-20th/1_medium.jpg</hinh_nho>
@@ -230,89 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
 		<chap_moi>chap 55</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>west coast avengers (2018)</ten_truyen>
-		<ma_truyen>west-coast-avengers-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/west-coast-avengers-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/west-coast-avengers-2018-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>uncanny x-men (2018)</ten_truyen>
-		<ma_truyen>uncanny-x-men-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>fantastic four (2018)</ten_truyen>
-		<ma_truyen>fantastic-four-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fantastic-four-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fantastic-four-2018-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 929</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kingdom  </ten_truyen>
-		<ma_truyen>kingdom</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
-		<chap_moi>chap 585</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>black clover</ten_truyen>
-		<ma_truyen>black-clover</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
-		<chap_moi>chap 188</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars adventures (2017)</ten_truyen>
-		<ma_truyen>star-wars-adventures-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-adventures/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-adventures-2017-eng.xml</file_xml>
-		<chap_moi>issue 16</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>middlewest</ten_truyen>
-		<ma_truyen>middlewest</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/middlewest/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/middlewest-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>deep roots</ten_truyen>
-		<ma_truyen>deep-roots</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deep-roots/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deep-roots-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yakusoku no neverland</ten_truyen>
-		<ma_truyen>yakusoku-no-neverland</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/42944/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yakusoku-no-neverland-eng.xml</file_xml>
-		<chap_moi>chap 118</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kengan ashua</ten_truyen>
-		<ma_truyen>kengan-ashua</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kengan-ashua-eng.xml</file_xml>
-		<chap_moi>chap 229.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>maou-jou de oyasumi</ten_truyen>
-		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
-		<chap_moi>chap 88</chap_moi>
 	</truyen>
 </danh_sach_truyen>

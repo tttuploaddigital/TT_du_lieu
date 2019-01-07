@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>heroes in crisis</ten_truyen>
+		<ma_truyen>heroes-in-crisis</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/heroes-in-crisis/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/heroes-in-crisis-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>runaways (2017)</ten_truyen>
+		<ma_truyen>runaways-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/runaways-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/runaways-2017-eng.xml</file_xml>
+		<chap_moi>issue 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>justice league odyssey</ten_truyen>
+		<ma_truyen>justice-league-odyssey</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-odyssey/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-odyssey-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the curse of brimstone</ten_truyen>
+		<ma_truyen>the-curse-of-brimstone</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-curse-of-brimstone/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-curse-of-brimstone-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>coda  </ten_truyen>
+		<ma_truyen>coda</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/coda/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/coda-eng.xml</file_xml>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>invader zim</ten_truyen>
+		<ma_truyen>invader-zim</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/invader-zim/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invader-zim-eng.xml</file_xml>
+		<chap_moi>issue 38</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>marvel knights: 20th</ten_truyen>
 		<ma_truyen>marvel-knights-20th</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-knights-20th/1_medium.jpg</hinh_nho>
@@ -272,47 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-o-manowar-(2017)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-o-manowar-2017-eng.xml</file_xml>
 		<chap_moi>issue 22</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>van helsing: sword of heaven</ten_truyen>
-		<ma_truyen>van-helsing-sword-of-heaven</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/v/van-helsing-sword-of-heaven/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/van-helsing-sword-of-heaven-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>red sonja / tarzan</ten_truyen>
-		<ma_truyen>red-sonja-tarzan</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/red-sonjatarzan/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-sonja-tarzan-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>curse words</ten_truyen>
-		<ma_truyen>curse-words</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/curse-words/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/curse-words-eng.xml</file_xml>
-		<chap_moi>issue 18</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>spider-girls</ten_truyen>
-		<ma_truyen>spider-girls</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-girls-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-girls-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the magic order</ten_truyen>
-		<ma_truyen>the-magic-order</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-magic-order/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-magic-order-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>sleepless</ten_truyen>
-		<ma_truyen>sleepless</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sleepless-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sleepless-eng.xml</file_xml>
-		<chap_moi>issue 10</chap_moi>
 	</truyen>
 </danh_sach_truyen>

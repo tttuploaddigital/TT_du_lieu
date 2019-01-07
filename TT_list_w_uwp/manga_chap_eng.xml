@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>tate no yuusha no nariagari</ten_truyen>
+		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tate-no-yuusha-no-nariagari-eng.xml</file_xml>
+		<chap_moi>chap 50</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>youjo senki</ten_truyen>
+		<ma_truyen>youjo-senki</ma_truyen>
+		<hinh_nho>https://i.ebayimg.com/images/g/gVQAAOSwY3BZN1Cj/s-l300.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youjo-senki-eng.xml</file_xml>
+		<chap_moi>chap 37</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>koi inu.</ten_truyen>
+		<ma_truyen>koi-inu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/33554/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-inu-eng.xml</file_xml>
+		<chap_moi>chap 158</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>houseki no kuni</ten_truyen>
+		<ma_truyen>houseki-no-kuni</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27295/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/houseki-no-kuni-eng.xml</file_xml>
+		<chap_moi>chap 74</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>youkai shoujo - monsuga</ten_truyen>
+		<ma_truyen>youkai-shoujo-monsuga</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26251/12/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youkai-shoujo-monsuga-eng.xml</file_xml>
+		<chap_moi>chap 118</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>namaikizakari</ten_truyen>
+		<ma_truyen>namaikizakari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27263/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/namaikizakari-eng.xml</file_xml>
+		<chap_moi>chap 92</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>shingeki no kyojin</ten_truyen>
 		<ma_truyen>shingeki-no-kyojin</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
@@ -272,47 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/27951/3/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mushoku-tensei-isekai-ittara-honki-dasu-eng.xml</file_xml>
 		<chap_moi>chap 49</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>minamoto-kun monogatari</ten_truyen>
-		<ma_truyen>minamoto-kun-monogatari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/6428/10/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/minamoto-kun-monogatari-eng.xml</file_xml>
-		<chap_moi>chap 261</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>karakai jouzu no takagi-san</ten_truyen>
-		<ma_truyen>karakai-jouzu-no-takagi-san</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/27906/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/karakai-jouzu-no-takagi-san-eng.xml</file_xml>
-		<chap_moi>chap 93</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>akagami no shirayukihime</ten_truyen>
-		<ma_truyen>akagami-no-shirayukihime</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/464/8/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akagami-no-shirayukihime-eng.xml</file_xml>
-		<chap_moi>chap 102</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 928</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kimetsu no yaiba</ten_truyen>
-		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
-		<chap_moi>chap 140</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>it's my life</ten_truyen>
-		<ma_truyen>it-s-my-life</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/40060/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/it-s-my-life-eng.xml</file_xml>
-		<chap_moi>chap 41</chap_moi>
 	</truyen>
 </danh_sach_truyen>
