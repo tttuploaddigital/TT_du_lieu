@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="murabito desu ga nani ka?" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>murabito desu ga nani ka?</ten_truyen>
+		<ma_truyen>murabito-desu-ga-nani-ka</ma_truyen>
+		<tac_gia>Shiraishi Arata, Sabamu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/40/46/40465d9f542faf8fa07c1a0c0599f22cb9c7dad7_37575_200_310.jpg</hinh_nho>
+		<gioi_thieu>Our protagonist was reincarnated in a world with goblin and dragon....but his optimal job is 'villager'. Using the Tutorial mode' Cheat 'getting one chance to redo life after death' he will show you what a villager can do.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/murabito-desu-ga-nani-ka-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="rokudou no onna-tachi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>rokudou no onna-tachi</ten_truyen>
+		<ma_truyen>rokudou-no-onna-tachi</ma_truyen>
+		<tac_gia>Nakamura Yuji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/cd/2e/cd2efd94fcac78155f060ac6d27986ba8273bd7a_42590_200_314.jpg</hinh_nho>
+		<gioi_thieu>Rokudou is a loser, and everyone knows it. He gets picked on at school, gets snide looks from passersby, and can only muster up the courage to complain in secret with his equally hapless friends. Looking to turn his life around, he desperately uses an ancestral artifact passed down in his family for generations: a scroll that is capable of subduing all demons. However, in the modern age it has a different effect-it makes all bad girls fall in love with him.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/rokudou-no-onna-tachi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="yu-gi-oh! gx" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>yu-gi-oh! gx</ten_truyen>
+		<ma_truyen>yu-gi-oh-gx</ma_truyen>
+		<tac_gia>Sako Toshio</tac_gia>
+		<tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/4e/af/4eaf78b8ec712017adb9fac2ba1d9584ba4bdf28_42600_200_315.jpg</hinh_nho>
+		<gioi_thieu>Years have passed after Yugi's adventures and now it's Yuki Judai's turn. Yuki Judai is a new student in the school Duel Academy, a school dedicated to teach duelist the basics and advanced techniques. Judai is determined to be world's #1 duelist, accepting challenges from his rivals (and friends). Although the manga is based on the anime, the story is really different and unrelated.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/yu-gi-oh-gx-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="man without fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>man without fear</ten_truyen>
 		<ma_truyen>man-without-fear</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>A SPIDER-GEDDON TIE IN! What? You thought we were done with Gwen Stacy after the first two landmark volumes of her series?! GET OUTTA HERE. It's a whole new spin on Gwen and her world of Earth-65, brought to you by none other than SEANAN MCGUIRE and ROSI KAMPE! We pick up with Gwen right where we left her - fighting crime through her home reality, unaware that it sits on the precipice of interdimensional calamity! Someone's gonna be late to band practice...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-gwen-ghost-spider-eng.xml</file_xml>
     </truyen>
-	<truyen ten="new prince of tennis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>new prince of tennis</ten_truyen>
-		<ma_truyen>new-prince-of-tennis</ma_truyen>
-		<tac_gia>Konomi Takeshi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/6990/9/200.jpg</hinh_nho>
-		<gioi_thieu>The purported advertisement from the Jump Square issue says that everything in The Prince of Tennis up to now has been 'prologue' and that 'a new legend for [the main character] Ryoma and the others will begin.' This continues what happened in the 'Prince of Tennis', after the end of the tournament . In 'The New Prince of Tennis', Ryoma and the others (team members and teams they faced) begin a new adventure when they are the only 50 middle school students to be invited to the Japanese High School Representatives Selection Camp where only the top potentials in the Japanese tennis world train.What will happen now?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/new-prince-of-tennis-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="prince of tennis " tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>prince of tennis </ten_truyen>
-		<ma_truyen>prince-of-tennis</ma_truyen>
-		<tac_gia>Konomi Takeshi</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/7918/1/200.jpg</hinh_nho>
-		<gioi_thieu>Ryoma Echizen just joined the Seishun Academy's tennis team, which is known for being one of the most competitive teams in Japan. Its members are incredibly talented, gifted, and athletic. With rigorous and extremely intense practices, the upperclassmen of the team expect the very best from themselves and they expect even more from the new members of the team. While most of the freshmen are on pins and needles hoping they won't get cut from the team, Ryoma Echizen is confident, cool, and collected. Some might even say he's cocky, but at least he's got the skills to back up his attitude. With his virtually unreturnable 'twist serve', Ryoma is sure to make the starting team. Join Ryoma and the other first years, as they train hard, make friends, and try to find a place for themselves on the team. And meet Ryoma's cute but chronically shy classmate Sakuno Ryuzaki. She's got a big crush on Ryoma, but will he ever notice her? Ryoma Echizen is the Prince of Tennis. He may be ready for the Seishun Academy tennis team, but are they ready for him?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/prince-of-tennis-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="zipang" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Historical, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>zipang</ten_truyen>
-		<ma_truyen>zipang</ma_truyen>
-		<tac_gia>Kawaguchi Kaiji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/11587/1/200.jpg</hinh_nho>
-		<gioi_thieu>In the year 200X, a Japanese fleet consisting of 3 vessels leave on a mission to South America. After encountering a storm, the ship JDS Mirai find themselves without their escorts and in 1942, traveling towards the island of Midway to face the American fleet in one of largest battles in naval history. The crew of MIrai must decide whether or not to change the course of history by involving itself in WWII.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/zipang-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
