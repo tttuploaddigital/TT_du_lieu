@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>wonder woman (2016)</ten_truyen>
+		<ma_truyen>wonder-woman-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-woman-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-woman-2016-eng.xml</file_xml>
+		<chap_moi>issue 61</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the punisher (2018)</ten_truyen>
+		<ma_truyen>the-punisher-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/punisher-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-punisher-2018-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gasolina</ten_truyen>
+		<ma_truyen>gasolina</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/gasolina/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gasolina-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>heroes in crisis</ten_truyen>
 		<ma_truyen>heroes-in-crisis</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/h/heroes-in-crisis/1_medium.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/g/gideon-falls/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gideon-falls-eng.xml</file_xml>
 		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>weapon h</ten_truyen>
-		<ma_truyen>weapon-h</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/weapon-h/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/weapon-h-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the flash (2016)</ten_truyen>
-		<ma_truyen>the-flash-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
-		<chap_moi>issue 60</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-o manowar (2017)</ten_truyen>
-		<ma_truyen>x-o-manowar-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-o-manowar-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-o-manowar-2017-eng.xml</file_xml>
-		<chap_moi>issue 22</chap_moi>
 	</truyen>
 </danh_sach_truyen>

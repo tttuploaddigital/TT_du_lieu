@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>wonder woman (2016)</ten_truyen>
+		<ma_truyen>wonder-woman-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-woman-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-woman-2016-eng.xml</file_xml>
+		<chap_moi>issue 61</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the punisher (2018)</ten_truyen>
+		<ma_truyen>the-punisher-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/punisher-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-punisher-2018-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gasolina</ten_truyen>
+		<ma_truyen>gasolina</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/gasolina/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gasolina-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>bungou stray dogs</ten_truyen>
+		<ma_truyen>bungou-stray-dogs</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/25742/6/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bungou-stray-dogs-eng.xml</file_xml>
+		<chap_moi>chap 69</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>koi to uso</ten_truyen>
+		<ma_truyen>koi-to-uso</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28014/9/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-to-uso-eng.xml</file_xml>
+		<chap_moi>chap 190</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hare kon.</ten_truyen>
+		<ma_truyen>hare-kon</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28080/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hare-kon-eng.xml</file_xml>
+		<chap_moi>chap 150</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>heroes in crisis</ten_truyen>
 		<ma_truyen>heroes-in-crisis</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/h/heroes-in-crisis/1_medium.jpg</hinh_nho>
@@ -272,47 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/41576/4/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajimete-no-gal-eng.xml</file_xml>
 		<chap_moi>chap 67</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batman beyond (2016)</ten_truyen>
-		<ma_truyen>batman-beyond-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-beyond-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-beyond-2016-eng.xml</file_xml>
-		<chap_moi>issue 27</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tony stark: iron man</ten_truyen>
-		<ma_truyen>tony-stark-iron-man</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/tony-stark-iron-man/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/tony-stark-iron-man-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the silencer</ten_truyen>
-		<ma_truyen>the-silencer</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-silencer/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-silencer-eng.xml</file_xml>
-		<chap_moi>issue 12</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>amano megumi wa suki darake!</ten_truyen>
-		<ma_truyen>amano-megumi-wa-suki-darake</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/40038/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/amano-megumi-wa-suki-darake-eng.xml</file_xml>
-		<chap_moi>chap 143</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>konjiki no moji tsukai - yuusha yonin ni makikomareta unique cheat</ten_truyen>
-		<ma_truyen>konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/29695/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat-eng.xml</file_xml>
-		<chap_moi>chap 47</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>world's end harem</ten_truyen>
-		<ma_truyen>world-s-end-harem</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
-		<chap_moi>chap 55</chap_moi>
 	</truyen>
 </danh_sach_truyen>
