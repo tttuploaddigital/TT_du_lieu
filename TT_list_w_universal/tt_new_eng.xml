@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="champions (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>champions (2019)</ten_truyen>
+		<ma_truyen>champions-2019</ma_truyen>
+        <tac_gia>Jim Zubkavich, Steven Cummings</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/champions-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE WORLD STILL NEEDS HEROES - AND THERE ARE HEROES ALL OVER THE WORLD! The Champions have gone global! The team has seen explosive growth under Ms. Marvel's leadership, with super-powered members ready to answer the call in a dozen different countries. They're saving people and improving lives across the planet while they inspire the next generation... but something sinister lurks beneath the surface of their expanded mission. It's a dark secret that could destroy the team and everything they stand for! Jim Zub (AVENGERS: NO SURRENDER, UNCANNY AVENGERS) and Steven Cummings (Wayward, Legends of the Dark Knight) ignite a new era of CHAMPIONS, filled to the brim with action, adventure and drama in the Mighty Marvel Manner!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/champions-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="martian manhunter (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>martian manhunter (2018)</ten_truyen>
+		<ma_truyen>martian-manhunter-2018</ma_truyen>
+        <tac_gia>Steve Orlando, Riley Rossmo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/martian-manhunter-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The acclaimed team of writer Steve Orlando and artist Riley Rossmo (BATMAN / THE SHADOW, BATMAN: NIGHT OF THE MONSTER MEN) reteam for a reinvention of the Manhunter from Mars in this twisted, unexpected series. Back on Mars, J'onn was about as corrupt as a law officer can be, and when a reckoning comes for his entire society, he'll get a second chance he doesn't want or deserve! One shocking murder, and an unexpected fragment of the Mars he lost, will change his life-and the course of the Earth-forever!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/martian-manhunter-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="deadpool (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>deadpool (2018)</ten_truyen>
+		<ma_truyen>deadpool-2018</ma_truyen>
+        <tac_gia>Skottie Young, Scott Hepburn, Nic Klein</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/martian-manhunter-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>MERCIN' FOR A LIVING! Skottie Young and Nic Klein bring you the craziest tales of the Regeneratin' Degenerate yet! It's been a while since Deadpool's had to merc to make ends meet, but things are tough all over. While Deadpool tries to get his humble mercenary-for-hire business back off the ground, a catastrophic threat so unfathomably huge, so mind-breakingly cataclysmic it defies description, is heading toward Earth, and there's only ONE PERSON WHO CAN STOP IT!!! Oh no, wait... it's not Wade, is it? Oh, It's Wade.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="man without fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>man without fear</ten_truyen>
+		<ma_truyen>man-without-fear</ma_truyen>
+        <tac_gia>Jed Mackay, Danilo Beyruth</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/man-without-fear-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Daredevil is gone, but Hell's Kitchen is still a place of heroes and villains. Foggy Nelson will learn what it means to live in a world without a Daredevil. And without a Daredevil to protect it, has hell come for his city? Who is The Man Without Fear?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/man-without-fear-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="murabito desu ga nani ka?" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>murabito desu ga nani ka?</ten_truyen>
 		<ma_truyen>murabito-desu-ga-nani-ka</ma_truyen>
@@ -378,31 +414,4 @@
 		<gioi_thieu>Would you like an older man dressed in suits? She was never this popular before university but before she knew it, Risa was way out of everyone's league. The one who saves her from this cruel fate is a handsome man who can rock his suits, Fukami-san. What will he offer Risa, who is a beginner at love...!?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/coffee-and-vanilla-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="infinity wars: weapon hex" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars: weapon hex</ten_truyen>
-		<ma_truyen>infinity-wars-weapon-hex</ma_truyen>
-        <tac_gia>Ben Acker, Ben Blacker, Gerardo Sandoval</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-weapon-hex/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In a dark weapons program breeding subjects specifically for magic use, the 23rd attempt, now called Wanda, was finally able to connect to violent magics - making her one of the deadliest people on the planet!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-weapon-hex-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="infinity wars: arachknight" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars: arachknight</ten_truyen>
-		<ma_truyen>infinity-wars-arachknight</ma_truyen>
-        <tac_gia>Dennis Hopeless, Ale Garza</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-arachknight/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Chosen as the Avatar of the Spider-Totem, Peter Parker is the dark guardian of destiny doing the bidding of the great weaver of fate... a role that has shattered his mind into multiple personas: a tech genius, a photographer, a teacher...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-arachknight-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="spider-gwen: ghost-spider" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>spider-gwen: ghost-spider</ten_truyen>
-		<ma_truyen>spider-gwen-ghost-spider</ma_truyen>
-        <tac_gia>Seanan McGuire, Rosi Kampe</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-gwen-ghost-spider-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A SPIDER-GEDDON TIE IN! What? You thought we were done with Gwen Stacy after the first two landmark volumes of her series?! GET OUTTA HERE. It's a whole new spin on Gwen and her world of Earth-65, brought to you by none other than SEANAN MCGUIRE and ROSI KAMPE! We pick up with Gwen right where we left her - fighting crime through her home reality, unaware that it sits on the precipice of interdimensional calamity! Someone's gonna be late to band practice...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-gwen-ghost-spider-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

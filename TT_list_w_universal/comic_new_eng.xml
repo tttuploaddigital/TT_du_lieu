@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="champions (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>champions (2019)</ten_truyen>
+		<ma_truyen>champions-2019</ma_truyen>
+        <tac_gia>Jim Zubkavich, Steven Cummings</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/champions-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE WORLD STILL NEEDS HEROES - AND THERE ARE HEROES ALL OVER THE WORLD! The Champions have gone global! The team has seen explosive growth under Ms. Marvel's leadership, with super-powered members ready to answer the call in a dozen different countries. They're saving people and improving lives across the planet while they inspire the next generation... but something sinister lurks beneath the surface of their expanded mission. It's a dark secret that could destroy the team and everything they stand for! Jim Zub (AVENGERS: NO SURRENDER, UNCANNY AVENGERS) and Steven Cummings (Wayward, Legends of the Dark Knight) ignite a new era of CHAMPIONS, filled to the brim with action, adventure and drama in the Mighty Marvel Manner!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/champions-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="martian manhunter (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>martian manhunter (2018)</ten_truyen>
+		<ma_truyen>martian-manhunter-2018</ma_truyen>
+        <tac_gia>Steve Orlando, Riley Rossmo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/martian-manhunter-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The acclaimed team of writer Steve Orlando and artist Riley Rossmo (BATMAN / THE SHADOW, BATMAN: NIGHT OF THE MONSTER MEN) reteam for a reinvention of the Manhunter from Mars in this twisted, unexpected series. Back on Mars, J'onn was about as corrupt as a law officer can be, and when a reckoning comes for his entire society, he'll get a second chance he doesn't want or deserve! One shocking murder, and an unexpected fragment of the Mars he lost, will change his life-and the course of the Earth-forever!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/martian-manhunter-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="deadpool (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>deadpool (2018)</ten_truyen>
+		<ma_truyen>deadpool-2018</ma_truyen>
+        <tac_gia>Skottie Young, Scott Hepburn, Nic Klein</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>MERCIN' FOR A LIVING! Skottie Young and Nic Klein bring you the craziest tales of the Regeneratin' Degenerate yet! It's been a while since Deadpool's had to merc to make ends meet, but things are tough all over. While Deadpool tries to get his humble mercenary-for-hire business back off the ground, a catastrophic threat so unfathomably huge, so mind-breakingly cataclysmic it defies description, is heading toward Earth, and there's only ONE PERSON WHO CAN STOP IT!!! Oh no, wait... it's not Wade, is it? Oh, It's Wade.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="man without fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>man without fear</ten_truyen>
 		<ma_truyen>man-without-fear</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/juggernaut_1_medium.jpg</hinh_nho>
         <gioi_thieu>NOTHING CAN STOP THE JUGGERNAUT...until now. What has finally stopped Cain Marko in his tracks? You'll have to see to believe, but we can promise you it's gonna involve nothing but punching for the Juggernaut! PLUS: Part 4 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-juggernaut-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-men: black - mystique" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>x-men: black - mystique</ten_truyen>
-		<ma_truyen>x-men-black-mystique</ma_truyen>
-        <tac_gia>Seanan McGuire, Lonnie Nadler, Zac Thompson, Marco Faila</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/mystique_1_medium.jpg</hinh_nho>
-        <gioi_thieu>THAT'S SO RAVEN! What's a day in the life for Raven Darkholme, A.K.A. Mystique? Brutal kills, revenge-fueled chills, seductive thrills...and that's all before breakfast! Award-winning author Seanan McGuire (X-MEN GOLD ANNUAL #2) and rising star Marco Failla take Marvel's multifaceted mutant murderess for a spin! PLUS: Part 3 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-mystique-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="justice league dark (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>justice league dark (2018)</ten_truyen>
-		<ma_truyen>justice-league-dark-2018</ma_truyen>
-        <tac_gia>James Tynion IV, Alvaro Martinez</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-dark-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Earth's magic once belonged to them. Now they want the magic back. But who exactly are they? It's up to the new Justice League Dark to find out and stop this nightmarish new threat at all costs! After the events of NO JUSTICE, team leader Wonder Woman guides the misfit magic mix of Zatanna, Swamp Thing, Man-Bat and Detective Chimp against enemies too fantastic even for the Justice League.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-dark-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="shuri" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>shuri</ten_truyen>
-		<ma_truyen>shuri</ma_truyen>
-        <tac_gia>Nnedi Okorafor, Leonardo Romero</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shuri-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Black Panther has disappeared, lost on a mission in space. And in his absence, everyone's looking at the next in line for the throne. But Shuri is happiest in a lab, surrounded by gadgets of her own creation. She'd rather be testing gauntlets than throwing them. But a nation without a leader is a vulnerable one - and Shuri may have to choose between Wakanda's welfare and her own.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

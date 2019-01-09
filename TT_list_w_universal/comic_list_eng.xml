@@ -639,6 +639,15 @@
         <gioi_thieu>Following the fallout of CIVIL WAR II, Avengers Ms. Marvel, Nova and Spider-Man strike out on their own - joined by Cyclops, Viv Vision and the Totally Awesome Hulk! Six young heroes determined to change the world - and they're only the beginning!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/champions-2016-eng.xml</file_xml>
     </truyen>
+	<truyen ten="champions (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>champions (2019)</ten_truyen>
+		<ma_truyen>champions-2019</ma_truyen>
+        <tac_gia>Jim Zubkavich, Steven Cummings</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/champions-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE WORLD STILL NEEDS HEROES - AND THERE ARE HEROES ALL OVER THE WORLD! The Champions have gone global! The team has seen explosive growth under Ms. Marvel's leadership, with super-powered members ready to answer the call in a dozen different countries. They're saving people and improving lives across the planet while they inspire the next generation... but something sinister lurks beneath the surface of their expanded mission. It's a dark secret that could destroy the team and everything they stand for! Jim Zub (AVENGERS: NO SURRENDER, UNCANNY AVENGERS) and Steven Cummings (Wayward, Legends of the Dark Knight) ignite a new era of CHAMPIONS, filled to the brim with action, adventure and drama in the Mighty Marvel Manner!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/champions-2019-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="charismagic (2018)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>charismagic (2018)</ten_truyen>
 		<ma_truyen>charismagic-2018</ma_truyen>
@@ -863,6 +872,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-(2015)/1_medium.jpg</hinh_nho>
         <gioi_thieu>He's annoying. He's dangerous. He smells terrible. But the public love him. That's right-the Merc with the Mouth may make money for missions of murky morality... but he's become the most popular hero in the world for it. Eat that, Spidey! The world belongs to... DEADPOOL. The fan favorite team of Gerry Duggan and Mike Hawthorne return to bring Deadpool in to his most successful adventures yet!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/deadpool-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="deadpool (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>deadpool (2018)</ten_truyen>
+		<ma_truyen>deadpool-2018</ma_truyen>
+        <tac_gia>Skottie Young, Scott Hepburn, Nic Klein</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>MERCIN' FOR A LIVING! Skottie Young and Nic Klein bring you the craziest tales of the Regeneratin' Degenerate yet! It's been a while since Deadpool's had to merc to make ends meet, but things are tough all over. While Deadpool tries to get his humble mercenary-for-hire business back off the ground, a catastrophic threat so unfathomably huge, so mind-breakingly cataclysmic it defies description, is heading toward Earth, and there's only ONE PERSON WHO CAN STOP IT!!! Oh no, wait... it's not Wade, is it? Oh, It's Wade.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="deadpool kills the marvel universe again" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>deadpool kills the marvel universe again</ten_truyen>
@@ -2051,6 +2069,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/m/man-thing-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Beloved writer R.L. STINE (Goosebumps, Fear Street) brings his special brand of horror to MAN-THING! After working for years, MAN-THING has regained his ability to speak and has taken Hollywood by storm... But when an ancient and mysterious danger threatens the swamp, Man-Thing is going to have to choose between his new life and celebrity, and the world he used to call home…PLUS! A bone chilling new horror story, written by the master himself, R.L. STINE, and illustrated by the incomparable Daniel Warren Johnson!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/man-thing-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="martian manhunter (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>martian manhunter (2018)</ten_truyen>
+		<ma_truyen>martian-manhunter-2018</ma_truyen>
+        <tac_gia>Steve Orlando, Riley Rossmo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/martian-manhunter-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The acclaimed team of writer Steve Orlando and artist Riley Rossmo (BATMAN / THE SHADOW, BATMAN: NIGHT OF THE MONSTER MEN) reteam for a reinvention of the Manhunter from Mars in this twisted, unexpected series. Back on Mars, J'onn was about as corrupt as a law officer can be, and when a reckoning comes for his entire society, he'll get a second chance he doesn't want or deserve! One shocking murder, and an unexpected fragment of the Mars he lost, will change his life-and the course of the Earth-forever!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/martian-manhunter-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="marvel knights: 20th" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>marvel knights: 20th</ten_truyen>
