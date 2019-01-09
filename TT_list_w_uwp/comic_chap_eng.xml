@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>justice league (2018)</ten_truyen>
+		<ma_truyen>justice-league-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-2018-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>green arrow (2016)</ten_truyen>
+		<ma_truyen>green-arrow-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/green-arrow-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/green-arrow-2016-eng.xml</file_xml>
+		<chap_moi>issue 47</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>deathstroke (2016)</ten_truyen>
+		<ma_truyen>deathstroke-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deathstroke-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deathstroke-2016-eng.xml</file_xml>
+		<chap_moi>issue 38</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>wonder woman (2016)</ten_truyen>
 		<ma_truyen>wonder-woman-2016</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-woman-(2016)/1_medium.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/z/zombie-tramp/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/zombie-tramp-2014-eng.xml</file_xml>
 		<chap_moi>issue 55</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dead man logan</ten_truyen>
-		<ma_truyen>dead-man-logan</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dead-man-logan/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dead-man-logan-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nightwing (2016)</ten_truyen>
-		<ma_truyen>nightwing-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/nightwing-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nightwing-2016-eng.xml</file_xml>
-		<chap_moi>issue 55</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gideon falls</ten_truyen>
-		<ma_truyen>gideon-falls</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/gideon-falls/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gideon-falls-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
 	</truyen>
 </danh_sach_truyen>
