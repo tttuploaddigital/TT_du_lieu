@@ -1148,7 +1148,7 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<ma_truyen>eden-s-zero</ma_truyen>
 		<tac_gia>Mashima Hiro</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/eb/36/eb36df4b390a69a81498ebd021956adfe1fb9514_39872_200_297.jpg</hinh_nho>
 		<gioi_thieu>The amusement park planet of Granbell Kingdom has been abandoned for 100 years. Rebecca and her talking cat Happy are the first visitors in years, causing excitement among the robot inhabitants. However, Rebecca soon discovers that she's not the only human in the park! Shiki has lived on Granbell for most of his life after being taken in by the Demon King robot, who became his grandfather-figure. Now he does repairs for the robots in the park. But the robots then strangely turn against Shiki to force him to leave the planet with Rebecca in order to fulfill their promise to the Demon King, who knew Shiki was destined for greatness. With the ancient powers of Ether Gear, Shiki begins his journey into space, where dragons roam the stars!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
 	</truyen>
@@ -1400,7 +1400,7 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<ma_truyen>gigant</ma_truyen>
 		<tac_gia>Oku Hiroya</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/96/04/9604402428c74a40bce9f9d31ae89b5d05c4aa17_29170_200_310.jpg</hinh_nho>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/1c/6c/1c6cef497ad9ede51ab63f2eeed80f9de808566a_47309_200_310.jpg</hinh_nho>
 		<gioi_thieu>Yamada Yoko, a high school boy who has a movie producer father. One day, while out with friends to shoot a film that he plans to enter into a film festival, a poster of Papiko, an adult video actress with big breasts, catches his eye.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gigant-eng.xml</file_xml>
 	</truyen>
@@ -1466,6 +1466,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <hinh_nho>https://file-thumb.mpcdn.net/3185/2/200.jpg</hinh_nho>
 		<gioi_thieu>When he was a child, Murakami was infatuated with a girl he called Kuroneko. She insisted on knowing about aliens and having met them, but no one believed her, even young Murakami was skeptical. One day, she decides to show him the aliens, but an accident occurs and Kuroneko dies while Murakami is left seriously wounded in the hospital. Years go by and Murakami obsesses on finding proof of the existence of aliens because of a promise he had made with Kuroneko. Then, one day, a new transfer student comes to his class, who not only looks a lot like Kuroneko but is named Kuroha Neko. And even though she insists on never having met Murakami before, the girl has superhuman strength and seems to even be able to predict the future! How will Murakami's life change now that he has been saved by this mysterious girl that claims to be a magician?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/gokukoku-no-brynhildr-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="gokushufudou: the way of the house husband" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>gokushufudou: the way of the house husband</ten_truyen>
+		<ma_truyen>gokushufudou-the-way-of-the-house-husband</ma_truyen>
+		<tac_gia>Oono Kousuke</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/1c/81/1c8179fca5157a2175838326afca8a93e11f6c58_41758_200_284.jpg</hinh_nho>
+		<gioi_thieu>Immortal Tatsu is an ex-yakuza who's given up violence for making an honest man of himself - but is it still possible for a devoted stay-at-home husband to get into a few scrapes?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokushufudou-the-way-of-the-house-husband-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="golden kamui" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Historical, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>golden kamui</ten_truyen>
@@ -1977,6 +1986,15 @@ This manga upload for Rocío Yael from Argentina via request manga on Windows st
 *****</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/kaichou-wa-maid-sama-eng.xml</file_xml>
     </truyen>
+	<truyen ten="kaifuku jutsushi no yarinaoshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Adventure, Drama, Fantasy, Harem, Mature, Seinen," nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kaifuku jutsushi no yarinaoshi</ten_truyen>
+		<ma_truyen>kaifuku-jutsushi-no-yarinaoshi</ma_truyen>
+		<tac_gia>Tsukiyo Rui, Haga Souken</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/e0/cb/e0cbb96e121d98ad3c2c9070b6415fe06274dc9e_47183_200_310.jpg</hinh_nho>
+		<gioi_thieu>Healing magicians cannot fight alone.' Keare, who was bound by this common knowledge, was exploited again and again by others. But one day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything. This is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaifuku-jutsushi-no-yarinaoshi-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="kakao 79%" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo., Slice of life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kakao 79%</ten_truyen>
 		<ma_truyen>kakao-79</ma_truyen>
@@ -2444,7 +2462,7 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<ma_truyen>mad-chimera-world</ma_truyen>
 		<tac_gia>Kishimoto Seishi</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/cc/7a/cc7ab330db52883e1c4189f82833e6938513b1d9_34470_200_310.jpg</hinh_nho>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/45/64/45645dc02dbebef393fbb91eaea9f98557fb5bd6_45672_200_310.jpg</hinh_nho>
 		<gioi_thieu>Set in a ruined world overrun with chimerical creatures where the female creatures eat the males. Two creatures explore the land: Usagi, the elder sister, protects her brother Mitsuki, a curious chronicler who is able to read the books in their secret hiding place to know that the world was once different.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mad-chimera-world-eng.xml</file_xml>
 	</truyen>
@@ -2735,7 +2753,7 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<ma_truyen>nanba-mg5</ma_truyen>
 		<tac_gia>Ozawa Toshio</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/e7/68/e768083f1f755f2ef4e5e5ddb703722e6dbcaa5e_18516_200_310.jpg</hinh_nho>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/48/20/4820fce9937baac5b52b39379393a6ea79940233_39720_200_310.jpg</hinh_nho>
 		<gioi_thieu>Born in a family of delinquents, Nanba Tsuyoshi is expected to succeed his older brother as the strongest delinquent in school. Unbeknownst to his family however, he decides to enroll in the top high school in town to live as a normal high schooler. Can he maintain his double life as the strongest delinquent in town and as a normal high schooler?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanba-mg5-eng.xml</file_xml>
 	</truyen>
@@ -3390,6 +3408,15 @@ This manga upload for Trí Newton 535 from Vietnam via request manga on website 
         <gioi_thieu>Several hundred years ago, humans were nearly exterminated by giants. Giants are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of giants. Flash forward to the present and the city has not seen a giant in over 100 years. Teenage boy Elen and his foster sister Mikasa witness something horrific as the city walls are destroyed by a super giant that appears out of thin air. As the smaller giants flood the city, the two kids watch in horror as their mother is eaten alive. Elen vows that he will murder every single giant and take revenge for all of mankind.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shingeki-no-kyojin-eng.xml</file_xml>
     </truyen>
+	<truyen ten="shikkaku mon no saikyou kenja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Historical, Martial arts, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>shikkaku mon no saikyou kenja</ten_truyen>
+		<ma_truyen>shikkaku-mon-no-saikyou-kenja</ma_truyen>
+		<tac_gia>Shinkou Shotou, Liverjam (Friendly Land)</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/ed/07/ed07678f636a2a2003afbb8f45e1a8181fb59c4c_41383_200_277.jpg</hinh_nho>
+		<gioi_thieu>In a certain world, there was someone who excelled in magic combat, people called him 'Sage'. Seeking the strongest combat art, he devoted himself to research every magic and combat arts in existence. And the conclusion he arrived at was very cruel, 'My body is not fit for magic combat'. Yet he didn't give up. He sealed his own soul with a magic art, and was reborn in a far-off future. And the magic theory in the completely changed world he saw there was of unbelievably low level.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shikkaku-mon-no-saikyou-kenja-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="shinjuku swan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Ecchi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>shinjuku swan</ten_truyen>
 		<ma_truyen>shinjuku-swan</ma_truyen>
