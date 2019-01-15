@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>minamoto-kun monogatari</ten_truyen>
+		<ma_truyen>minamoto-kun-monogatari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/6428/10/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/minamoto-kun-monogatari-eng.xml</file_xml>
+		<chap_moi>chap 267</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>domestic na kanojo</ten_truyen>
+		<ma_truyen>domestic-na-kanojo</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/29089/10/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/domestic-na-kanojo-eng.xml</file_xml>
+		<chap_moi>chap 212</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>chi no wadachi</ten_truyen>
+		<ma_truyen>chi-no-wadachi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47610/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/chi-no-wadachi-eng.xml</file_xml>
+		<chap_moi>chap 42</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
 		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
         <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
@@ -10,7 +31,7 @@
 	<truyen>
 		<ten_truyen>eden's zero</ten_truyen>
 		<ma_truyen>eden-s-zero</ma_truyen>
-        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/f3/af/f3af94f522f852c642881025fee569fb31bee89b_29037_225_334.jpg</hinh_nho>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/eb/36/eb36df4b390a69a81498ebd021956adfe1fb9514_39872_200_297.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
 		<chap_moi>chap 26</chap_moi>
 	</truyen>
@@ -122,7 +143,7 @@
 	<truyen>
 		<ten_truyen>gigant</ten_truyen>
 		<ma_truyen>gigant</ma_truyen>
-        <hinh_nho>https://file-comic-4.anyacg.co/thumbs/w300/96/04/9604402428c74a40bce9f9d31ae89b5d05c4aa17_29170_200_310.jpg</hinh_nho>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/1c/6c/1c6cef497ad9ede51ab63f2eeed80f9de808566a_47309_200_310.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gigant-eng.xml</file_xml>
 		<chap_moi>chap 22</chap_moi>
 	</truyen>
