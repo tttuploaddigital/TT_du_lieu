@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="kaifuku jutsushi no yarinaoshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Adventure, Drama, Fantasy, Harem, Mature, Seinen," nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kaifuku jutsushi no yarinaoshi</ten_truyen>
+		<ma_truyen>kaifuku-jutsushi-no-yarinaoshi</ma_truyen>
+		<tac_gia>Tsukiyo Rui, Haga Souken</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/e0/cb/e0cbb96e121d98ad3c2c9070b6415fe06274dc9e_47183_200_310.jpg</hinh_nho>
+		<gioi_thieu>Healing magicians cannot fight alone.' Keare, who was bound by this common knowledge, was exploited again and again by others. But one day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything. This is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaifuku-jutsushi-no-yarinaoshi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="shikkaku mon no saikyou kenja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Historical, Martial arts, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>shikkaku mon no saikyou kenja</ten_truyen>
+		<ma_truyen>shikkaku-mon-no-saikyou-kenja</ma_truyen>
+		<tac_gia>Shinkou Shotou, Liverjam (Friendly Land)</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/ed/07/ed07678f636a2a2003afbb8f45e1a8181fb59c4c_41383_200_277.jpg</hinh_nho>
+		<gioi_thieu>In a certain world, there was someone who excelled in magic combat, people called him 'Sage'. Seeking the strongest combat art, he devoted himself to research every magic and combat arts in existence. And the conclusion he arrived at was very cruel, 'My body is not fit for magic combat'. Yet he didn't give up. He sealed his own soul with a magic art, and was reborn in a far-off future. And the magic theory in the completely changed world he saw there was of unbelievably low level.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shikkaku-mon-no-saikyou-kenja-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="gokushufudou: the way of the house husband" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>gokushufudou: the way of the house husband</ten_truyen>
+		<ma_truyen>gokushufudou-the-way-of-the-house-husband</ma_truyen>
+		<tac_gia>Oono Kousuke</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/1c/81/1c8179fca5157a2175838326afca8a93e11f6c58_41758_200_284.jpg</hinh_nho>
+		<gioi_thieu>Immortal Tatsu is an ex-yakuza who's given up violence for making an honest man of himself - but is it still possible for a devoted stay-at-home husband to get into a few scrapes?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokushufudou-the-way-of-the-house-husband-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="champions (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>champions (2019)</ten_truyen>
 		<ma_truyen>champions-2019</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>The encounter that was destined to happen! When an alien scout ship crashes on Mars, Dejah Thoris must risk reigniting war with the Green Martians and becoming dinner for the white apes. But the stakes are raised so much higher when the ship is revealed to carry Vampirella, who is on a desperate mission of survival-one that might end before it truly begins!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/vampirella-dejah-thoris-eng.xml</file_xml>
     </truyen>
-	<truyen ten="isobe isobee monogatari - ukiyo wa tsurai yo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Historical,	Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>isobe isobee monogatari - ukiyo wa tsurai yo</ten_truyen>
-		<ma_truyen>isobe-isobee-monogatari-ukiyo-wa-tsurai-yo</ma_truyen>
-		<tac_gia>Nakama Ryou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43295/2/200.jpg</hinh_nho>
-		<gioi_thieu>In this ukiyoe-style manga, Isobe Isobee is a lazy, slacker samurai with big dreams. He lives with his mother, who thinks highly of him. He lays around the house, sneakily looks at Edo-period pornography without his mother noticing, naps at school... but he plans to become a respectable samurai one day!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isobe-isobee-monogatari-ukiyo-wa-tsurai-yo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="chihayafuru" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Josei, Romance, School life, Slice of life, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>chihayafuru</ten_truyen>
-		<ma_truyen>chihayafuru</ma_truyen>
-		<tac_gia>Suetsugu Yuki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/1716/10/200.jpg</hinh_nho>
-		<gioi_thieu>All her life, Chihaya's dream was to see her model sister become Japan's best... That is, until a quiet, unassuming transfer student named Arata tells her otherwise. A dream, he explains to her, is something she needs to work at herself. Arata plays a competitive version of a traditional Japanese card game--known as Hyakunin Isshu--in a way Chihaya has never seen before. After taking Arata's place in a game, Chihaya discovers she has a passion for it. Now Chihaya wants to become number one in the world, the Queen of Karuta. Chihayafuru won the 2nd Manga Taisho Award. Winner of the 35th annual Kodansha Manga Award for Best Shoujo. Nominated for the 16th (2012) and 20th (2016) Tezuka Osamu Cultural Prize.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/chihayafuru-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="coffee and vanilla" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Romance, Shoujo., Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>coffee and vanilla</ten_truyen>
-		<ma_truyen>coffee-and-vanilla</ma_truyen>
-		<tac_gia>Akegami Takara</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/37842/3/200.jpg</hinh_nho>
-		<gioi_thieu>Would you like an older man dressed in suits? She was never this popular before university but before she knew it, Risa was way out of everyone's league. The one who saves her from this cruel fate is a handsome man who can rock his suits, Fukami-san. What will he offer Risa, who is a beginner at love...!?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/coffee-and-vanilla-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>

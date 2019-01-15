@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="kaifuku jutsushi no yarinaoshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Adventure, Drama, Fantasy, Harem, Mature, Seinen," nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kaifuku jutsushi no yarinaoshi</ten_truyen>
+		<ma_truyen>kaifuku-jutsushi-no-yarinaoshi</ma_truyen>
+		<tac_gia>Tsukiyo Rui, Haga Souken</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/e0/cb/e0cbb96e121d98ad3c2c9070b6415fe06274dc9e_47183_200_310.jpg</hinh_nho>
+		<gioi_thieu>Healing magicians cannot fight alone.' Keare, who was bound by this common knowledge, was exploited again and again by others. But one day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything. This is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaifuku-jutsushi-no-yarinaoshi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="shikkaku mon no saikyou kenja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Historical, Martial arts, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>shikkaku mon no saikyou kenja</ten_truyen>
+		<ma_truyen>shikkaku-mon-no-saikyou-kenja</ma_truyen>
+		<tac_gia>Shinkou Shotou, Liverjam (Friendly Land)</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/ed/07/ed07678f636a2a2003afbb8f45e1a8181fb59c4c_41383_200_277.jpg</hinh_nho>
+		<gioi_thieu>In a certain world, there was someone who excelled in magic combat, people called him 'Sage'. Seeking the strongest combat art, he devoted himself to research every magic and combat arts in existence. And the conclusion he arrived at was very cruel, 'My body is not fit for magic combat'. Yet he didn't give up. He sealed his own soul with a magic art, and was reborn in a far-off future. And the magic theory in the completely changed world he saw there was of unbelievably low level.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shikkaku-mon-no-saikyou-kenja-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="gokushufudou: the way of the house husband" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>gokushufudou: the way of the house husband</ten_truyen>
+		<ma_truyen>gokushufudou-the-way-of-the-house-husband</ma_truyen>
+		<tac_gia>Oono Kousuke</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/1c/81/1c8179fca5157a2175838326afca8a93e11f6c58_41758_200_284.jpg</hinh_nho>
+		<gioi_thieu>Immortal Tatsu is an ex-yakuza who's given up violence for making an honest man of himself - but is it still possible for a devoted stay-at-home husband to get into a few scrapes?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokushufudou-the-way-of-the-house-husband-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="murabito desu ga nani ka?" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>murabito desu ga nani ka?</ten_truyen>
 		<ma_truyen>murabito-desu-ga-nani-ka</ma_truyen>
@@ -257,7 +284,7 @@
 		<ma_truyen>nanba-mg5</ma_truyen>
 		<tac_gia>Ozawa Toshio</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-comic-5.anyacg.co/thumbs/w300/e7/68/e768083f1f755f2ef4e5e5ddb703722e6dbcaa5e_18516_200_310.jpg</hinh_nho>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/48/20/4820fce9937baac5b52b39379393a6ea79940233_39720_200_310.jpg</hinh_nho>
 		<gioi_thieu>Born in a family of delinquents, Nanba Tsuyoshi is expected to succeed his older brother as the strongest delinquent in school. Unbeknownst to his family however, he decides to enroll in the top high school in town to live as a normal high schooler. Can he maintain his double life as the strongest delinquent in town and as a normal high schooler?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanba-mg5-eng.xml</file_xml>
 	</truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/36054/1/200.jpg</hinh_nho>
 		<gioi_thieu>Seth is an apprentice sorcerer from the Pompo Hills. Like all sorcerers, he's an 'infected', one of the few people having survived an encounter with a Nemesis, those creatures falling from the sky and destroying everything around them. Being immune to them, Seth wants to become a Hunter and fight the Nemesis. But what Seth really wants is to find the source of all Nemesis, the Radiant. Helped by his fellow sorcerers, he will seek the Radiant, under the harsh scrutiny of the Inquisition...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/radiant-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="beastars" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>beastars</ten_truyen>
-		<ma_truyen>beastars</ma_truyen>
-		<tac_gia>Itagaki Paru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
-		<gioi_thieu>In a world populated by anthropomorphic animals, herbivores and carnivores coexist with each other. For the adolescences of the Cherryton School, school life is filled with hope, romance, distrust, and uneasiness. The main character is Legosi the wolf, a member of the drama club. Despite his menacing appearance, he has a very gentle heart. Throughout most of his life, he has always been an object of fear and hatred by other animals, and he's been quite accustomed to that lifestyle. But soon, he finds himself becoming more involved with his fellow classmates who have their own share of insecurities and finds his life in school changing slowly.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="chi no wadachi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Psychological, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>chi no wadachi</ten_truyen>
-		<ma_truyen>chi-no-wadachi</ma_truyen>
-		<tac_gia>Oshimi Shuzo</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/47610/1/200.jpg</hinh_nho>
-		<gioi_thieu>he illusion of that person leads me astray. Mother and son. This is the ultimate favoritism.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/chi-no-wadachi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="violence action" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>violence action</ten_truyen>
-		<ma_truyen>violence-action</ma_truyen>
-		<tac_gia>Sawada Shin, Asai Renji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/50492/1/200.jpg</hinh_nho>
-		<gioi_thieu>Are you in need of revenge? Is there someone that you need out of your way? The Pururun All-Natural-Girls Express Service would be more than pleased to help you achieve these things. 'Kay' is one such cute girl that works for Pururun, and when duty calls, she is there to eliminate anyone her client wants -- whether it's with knives, guns, or acid! How did she come to be a killing specialist, what kinds of people will she meet -- and what are her goals?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/violence-action-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
