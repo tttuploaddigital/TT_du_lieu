@@ -870,14 +870,14 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>Geeko's weird, creepy, friendless classmate Nero has destroyed all of their mutual classmates, perverting them into her grotesque, monstrous minions. Now she's sending them after Geeko, the only survivor. However, Geeko is setting out, dressed in her skimpy school uniform and armed with a big chainsaw, to end Nero's mad science, no matter how many undead former friends she has to saw down on the way.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/chimamire-sukeban-chainsaw-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="chronos ruler" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+	<truyen ten="chronos ruler" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>chronos ruler</ten_truyen>
 		<ma_truyen>chronos-ruler</ma_truyen>
 		<tac_gia>Pon Jea</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
+		<tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://file-thumb.mpcdn.net/1805/3/200.jpg</hinh_nho>
 		<gioi_thieu>The story centers on 'Chronos Rulers,' those who fight the time-eating demons that appear when people wish they could turn back time. The Chronos Rulers fight a time-manipulation battle against these demons.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/chronos-ruler-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/chronos-ruler-eng.xml</file_xml>
 	</truyen>
     <truyen ten="claymore" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Mature, Mystery, Shounen., Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>claymore</ten_truyen>
