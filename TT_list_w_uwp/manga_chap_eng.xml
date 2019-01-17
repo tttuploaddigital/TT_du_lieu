@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>karate shoukoushi kohinata minoru</ten_truyen>
+		<ma_truyen>karate-shoukoushi-kohinata-minoru</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/36/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/karate-shoukoushi-kohinata-minoru-eng.xml</file_xml>
+		<chap_moi>chap 497</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>keijo!!!!!!!!</ten_truyen>
+		<ma_truyen>keijo</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/24760/11/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/keijo-eng.xml</file_xml>
+		<chap_moi>chap 167</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>giant killing</ten_truyen>
+		<ma_truyen>giant-killing</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
+		<chap_moi>chap 288</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>knight's and magic</ten_truyen>
 		<ma_truyen>knight-s-and-magic</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/43546/1/200.jpg</hinh_nho>
@@ -314,26 +335,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/3495/9/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hantsu-x-torasshu-eng.xml</file_xml>
 		<chap_moi>chap 142.1</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>youjo senki</ten_truyen>
-		<ma_truyen>youjo-senki</ma_truyen>
-		<hinh_nho>https://i.ebayimg.com/images/g/gVQAAOSwY3BZN1Cj/s-l300.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youjo-senki-eng.xml</file_xml>
-		<chap_moi>chap 33</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>biorg trinity</ten_truyen>
-		<ma_truyen>biorg-trinity</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/1195/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/biorg-trinity-eng.xml</file_xml>
-		<chap_moi>chap 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>darwin's game</ten_truyen>
-		<ma_truyen>darwin-s-game</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
-		<chap_moi>chap 60</chap_moi>
 	</truyen>
 </danh_sach_truyen>

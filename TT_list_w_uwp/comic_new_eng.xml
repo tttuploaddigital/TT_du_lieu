@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="invaders (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>invaders (2019)</ten_truyen>
+		<ma_truyen>invaders-2019</ma_truyen>
+        <tac_gia>Chip Zdarsky, Butch Guice, Carlos Magno</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/invaders-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE GREATEST GENERATION OF MARVEL HEROES IS BACK - TO STOP ONE OF THEIR OWN! In commemoration of Marvel's 80th anniversary and springing from events in the pages of AVENGERS and THE BEST DEFENSE, the Marvel Universe's first super-team is back! CAPTAIN AMERICA. THE HUMAN TORCH. THE WINTER SOLDIER. NAMOR. They fought in WORLD WAR II together as THE INVADERS. But now NAMOR is the enemy, a global threat more powerful than ever. His deadly plans are as deep and far-reaching as the ocean and REVELATIONS about his past could THREATEN the MARVEL UNIVERSE! It's up to his old teammates to stop him, but what chance do they have against the man who knows their every move? 'War Ghost' begins here!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invaders-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="young justice (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>young justice (2019)</ten_truyen>
+		<ma_truyen>young-justice-2019</ma_truyen>
+        <tac_gia>Brian Michael Bendis, Patrick Gleason</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/y/young-justice-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Superboy! Wonder Girl! Robin! Impulse! Amethyst! They're all united in YOUNG JUSTICE #1, the debut issue of a brand-new series that also introduces new heroes Teen Lantern and Jinny Hex! When the nightmare dimension known as Gemworld invades Metropolis, these teen heroes reunite to deal with the situation-but they're shocked to discover the battle may be the key to the return of Conner Kent, a.k.a. Superboy! This mix of fan favorites and new legacy heroes will be the center point for some of the biggest goings-on at DC! As if that weren't enough, Bendis reunites with all-star artist Patrick Gleason (SUPERMAN, ACTION COMICS, GREEN LANTERN CORPS) to bring the new heroes of DC’s Wonder Comics to life!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/young-justice-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="infinity wars: infinity warps" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>infinity wars: infinity warps</ten_truyen>
+		<ma_truyen>infinity-wars-infinity-warps</ma_truyen>
+        <tac_gia>Ryan North, Mariko Tamaki, Jim Zub, Natacha Bustos, Francisco Herrera, Ozgur Yildirim</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-infinity-warps/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When you gaze into the warp...you get more stories of mad Two-In-One heroes! Read about the Star Siblings of the Warped Universe - MISTER INVISIBLE and HOT ROCKS, the TERRIFIC TWO! Then, see how the covert programs of the Green Room created the gamma-powered GREEN WIDOW! And join MOON SQUIRREL AND TIPPYSAUR as they save the planet from the most dangerous threat it's ever faced!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-infinity-warps-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="champions (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>champions (2019)</ten_truyen>
 		<ma_truyen>champions-2019</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/r/return-of-wolverine/1_medium.jpg</hinh_nho>
         <gioi_thieu>HE'S BACK, BUB.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/return-of-wolverine-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="spider-girls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>spider-girls</ten_truyen>
-		<ma_truyen>spider-girls</ma_truyen>
-        <tac_gia>Jody Houser, Andres Genolet</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-girls-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A SPIDER-GEDDON TIE IN! MAY 'MAYDAY' PARKER, the original SPIDER-GIRL, ANYA CORAZON, the Prime Universe SPIDER-GIRL, and ANNIE MAY PARKER, A.K.A. SPIDERLING - together for the first time! May will do anything to protect her brother from the Inheritors, and Anya's knowledge of the mystical Spider-Totems could save the day. But how does Annie fit in? And what chance do three girls have against ageless universal forces?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-girls-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="old lady harley" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>old lady harley</ten_truyen>
-		<ma_truyen>old-lady-harley</ma_truyen>
-        <tac_gia>Frank Teri, Inaki Miranda</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-lady-harley/1_medium.jpg</hinh_nho>
-        <gioi_thieu>After liberating New York City from her now-feral Gang of Harleys, poor Harley wants nothing more than to slip back into retirement in her coastal (and heavily guarded) paradise. But the Laughing Boys Gang has another idea-they'll follow her to the ends of the Earth, to drag her back to their leader! It can't actually be... him! Right?! He couldn't possibly still be alive, could he? After all... Harley killed him herself with her bare hands! Should she turn to President Power Girl for help? Or flee to the 51st state, Atlantis? Step into an insane vision of a future DC Universe we all better hope we don't live to see!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-lady-harley-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-men: black - juggernaut" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>x-men: black - juggernaut</ten_truyen>
-		<ma_truyen>x-men-black-juggernaut</ma_truyen>
-        <tac_gia>Robbie Thompson, Shawn Crystal</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/juggernaut_1_medium.jpg</hinh_nho>
-        <gioi_thieu>NOTHING CAN STOP THE JUGGERNAUT...until now. What has finally stopped Cain Marko in his tracks? You'll have to see to believe, but we can promise you it's gonna involve nothing but punching for the Juggernaut! PLUS: Part 4 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-juggernaut-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
