@@ -315,25 +315,4 @@
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hatsukoi-zombie-eng.xml</file_xml>
 		<chap_moi>chap 138</chap_moi>
 	</truyen>
-	<truyen>
-		<ten_truyen>nanatsu no taizai</ten_truyen>
-		<ma_truyen>nanatsu-no-taizai</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
-		<chap_moi>chap 294</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>boku no kanojo ga majime sugiru shojo bitch na ken</ten_truyen>
-		<ma_truyen>boku-no-kanojo-ga-majime-sugiru-shojo-bitch-na-ken</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/40872/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-kanojo-ga-majime-sugiru-shojo-bitch-na-ken-eng.xml</file_xml>
-		<chap_moi>chap 52</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hantsu x torasshu</ten_truyen>
-		<ma_truyen>hantsu-x-torasshu</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3495/9/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hantsu-x-torasshu-eng.xml</file_xml>
-		<chap_moi>chap 142.1</chap_moi>
-	</truyen>
 </danh_sach_truyen>
