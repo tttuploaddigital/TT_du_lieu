@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
+		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kumo-desu-ga-nani-ka-eng.xml</file_xml>
+		<chap_moi>chap 33.2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>it's my life</ten_truyen>
+		<ma_truyen>it-s-my-life</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40060/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/it-s-my-life-eng.xml</file_xml>
+		<chap_moi>chap 42</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>sousei no onmyouji</ten_truyen>
+		<ma_truyen>sousei-no-onmyouji</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/24603/11/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sousei-no-onmyouji-eng.xml</file_xml>
+		<chap_moi>chap 62</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>one piece</ten_truyen>
 		<ma_truyen>one-piece</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
 		<chap_moi>chap 188</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yakusoku no neverland</ten_truyen>
-		<ma_truyen>yakusoku-no-neverland</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/42944/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yakusoku-no-neverland-eng.xml</file_xml>
-		<chap_moi>chap 118</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kengan ashua</ten_truyen>
-		<ma_truyen>kengan-ashua</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31115/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kengan-ashua-eng.xml</file_xml>
-		<chap_moi>chap 229.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>maou-jou de oyasumi</ten_truyen>
-		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
-		<chap_moi>chap 88</chap_moi>
 	</truyen>
 </danh_sach_truyen>

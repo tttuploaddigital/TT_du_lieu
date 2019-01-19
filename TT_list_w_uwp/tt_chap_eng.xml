@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>fantastic four (2018)</ten_truyen>
+		<ma_truyen>fantastic-four-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/fantastic-four-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fantastic-four-2018-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>supergirl (2016)</ten_truyen>
+		<ma_truyen>supergirl-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/supergirl-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/supergirl-2016-eng.xml</file_xml>
+		<chap_moi>issue 26</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dark ark</ten_truyen>
+		<ma_truyen>dark-ark</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dark-ark/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dark-ark-eng.xml</file_xml>
+		<chap_moi>issue 13</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
+		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kumo-desu-ga-nani-ka-eng.xml</file_xml>
+		<chap_moi>chap 33.2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>it's my life</ten_truyen>
+		<ma_truyen>it-s-my-life</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40060/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/it-s-my-life-eng.xml</file_xml>
+		<chap_moi>chap 42</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>sousei no onmyouji</ten_truyen>
+		<ma_truyen>sousei-no-onmyouji</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/24603/11/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sousei-no-onmyouji-eng.xml</file_xml>
+		<chap_moi>chap 62</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>accell</ten_truyen>
 		<ma_truyen>accell</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-accell/1_medium.jpg</hinh_nho>
@@ -272,47 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/28080/4/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hare-kon-eng.xml</file_xml>
 		<chap_moi>chap 150</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>heroes in crisis</ten_truyen>
-		<ma_truyen>heroes-in-crisis</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/heroes-in-crisis/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/heroes-in-crisis-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>runaways (2017)</ten_truyen>
-		<ma_truyen>runaways-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/runaways-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/runaways-2017-eng.xml</file_xml>
-		<chap_moi>issue 17</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>justice league odyssey</ten_truyen>
-		<ma_truyen>justice-league-odyssey</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-odyssey/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-odyssey-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tate no yuusha no nariagari</ten_truyen>
-		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tate-no-yuusha-no-nariagari-eng.xml</file_xml>
-		<chap_moi>chap 50</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>youjo senki</ten_truyen>
-		<ma_truyen>youjo-senki</ma_truyen>
-		<hinh_nho>https://i.ebayimg.com/images/g/gVQAAOSwY3BZN1Cj/s-l300.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youjo-senki-eng.xml</file_xml>
-		<chap_moi>chap 37</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>koi inu.</ten_truyen>
-		<ma_truyen>koi-inu</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/33554/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-inu-eng.xml</file_xml>
-		<chap_moi>chap 158</chap_moi>
 	</truyen>
 </danh_sach_truyen>
