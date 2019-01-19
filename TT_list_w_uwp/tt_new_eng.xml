@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="maken no daydreamer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Harem, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>maken no daydreamer</ten_truyen>
+		<ma_truyen>maken-no-daydreamer</ma_truyen>
+		<tac_gia>Nishi Osyou, Muramatsu Mayu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/72/58/725847839abfa163f37e952a560565e26b297773_46032_200_284.jpg</hinh_nho>
+		<gioi_thieu>Minato is a college student who died in a plane crash and was reincarnated in a fantasy world. He was raised alone in the wilderness by his succubus mother, and now he tries to make his way as an adventurer.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maken-no-daydreamer-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="saru lock" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>saru lock</ten_truyen>
+		<ma_truyen>saru-lock</ma_truyen>
+		<tac_gia>Serizawa Naoki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/a4/f1/a4f1a7835512af7976124517a1be8ccaa42eefe9_10878_200_286.jpg</hinh_nho>
+		<gioi_thieu>Yataro Sarumaru, nicknamed Saru, is an ace in the locksmith trade and is obsessed with girls. This (almost) average teenager is given a hardly ordinary mission which marks the beginning of his adventures!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saru-lock-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="parallel paradise" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Ecchi, Fantasy, Harem, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>parallel paradise</ten_truyen>
+		<ma_truyen>parallel-paradise</ma_truyen>
+		<tac_gia>Okamoto Lynn</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/93/3c/933c14caeabc3f73cb389d236ce03f4155d55ea8_37007_200_310.jpg</hinh_nho>
+		<gioi_thieu>One day at school, Youta sees someone strange entering school. Out of nowhere this being appears next to him and makes him fall from the 3rd floor! But he stops in a strange world, where beings like dragons exist! Youta meets a young paladine, and discovers that he is the only man inhabiting that planet, and that its inhabitants are extremely 'weak' to his presence... would this be a paradise?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/parallel-paradise-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="invaders (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>invaders (2019)</ten_truyen>
 		<ma_truyen>invaders-2019</ma_truyen>
@@ -27,7 +54,7 @@
         <gioi_thieu>When you gaze into the warp...you get more stories of mad Two-In-One heroes! Read about the Star Siblings of the Warped Universe - MISTER INVISIBLE and HOT ROCKS, the TERRIFIC TWO! Then, see how the covert programs of the Green Room created the gamma-powered GREEN WIDOW! And join MOON SQUIRREL AND TIPPYSAUR as they save the planet from the most dangerous threat it's ever faced!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-infinity-warps-eng.xml</file_xml>
     </truyen>
-	<truyen ten="kaifuku jutsushi no yarinaoshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Adventure, Drama, Fantasy, Harem, Mature, Seinen," nhan_kieu_truyen="Type" kieu_truyen="Manga">
+	<truyen ten="kaifuku jutsushi no yarinaoshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Adventure, Drama, Fantasy, Harem, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kaifuku jutsushi no yarinaoshi</ten_truyen>
 		<ma_truyen>kaifuku-jutsushi-no-yarinaoshi</ma_truyen>
 		<tac_gia>Tsukiyo Rui, Haga Souken</tac_gia>
@@ -378,31 +405,4 @@
         <gioi_thieu>Classified 4-F by the military, Stephen Rogers was unable to serve his country in World War II...until a secret government program tapping into arcane sorcery transformed him into the Soldier Supreme, the magical warrior embodiment of the American spirit!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/infinity-wars-soldier-supreme-eng.xml</file_xml>
     </truyen>
-	<truyen ten="tokiwa kitareri!!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, Harem, Romance, School life, Sci-fi, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>tokiwa kitareri!!</ten_truyen>
-		<ma_truyen>tokiwa-kitareri</ma_truyen>
-		<tac_gia>Matsuena Syun</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/29978/4/200.jpg</hinh_nho>
-		<gioi_thieu>Yasaka Tokiwa lives in an unusual time, and according to his dreams, it's about to become even stranger. He's been having a dream of a woman called Ri'in ever since the robot, who he calls Makina, came to his home. He and Makina attend the same school, where their other classmates include a secret ninja (Kusanagi Kanata) and a sorcerer (Yata Haruka). When Tokiwa, the robot, the ninja, and the sorcerer rush to rescue the student council president from a demon, the boys find that they've all been having the same dream! What is going to happen to their world?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tokiwa-kitareri-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kagerou daze" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Psychological, Romance, Shounen., Slice of life, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kagerou daze</ten_truyen>
-		<ma_truyen>kagerou-daze</ma_truyen>
-		<tac_gia>Jin (Shizennoteki-P), Shidu, Satou Mahiro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/28205/3/200.jpg</hinh_nho>
-		<gioi_thieu>A story based on the new popular series of songs by Jin (Shizennoteki-p) titled 'Kagerou Project (Heat-Haze Daze)'. Shintaro Kisaragi--a HikiNEET who shut himself inside his room for 2 years--has been living his life normally until he met a cyber girl named Ene, who appeared in his computer screen when someone anonymously sent him a mysterious e-mail with an attached file--which was Ene--one year ago. One day, Ene had been messing up with Shintaro's PC. which causing him to go to the outside world for the first time in 2 years.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kagerou-daze-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="shinobi shijuusou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Harem, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>shinobi shijuusou</ten_truyen>
-		<ma_truyen>shinobi-shijuusou</ma_truyen>
-		<tac_gia>Himuka Tohru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/30413/3/200.jpg</hinh_nho>
-		<gioi_thieu>Chouko Manaka is the next heir to the prestigeous Manaka family. Now she is entering high school and she has had enough with being surrounded by bodyguards, who have prevented her from making any friends. Her father is still worried though, so he makes a deal with her. If she transfers to Mizuno-o high school, where many of the students are also studying to be shinobi, and can get one of these people to be her right-hand man before graduation, he'll consider her to be able to make decisions for herself. On the first day of school Chouko meets the son of their butler, who suddenly declares that he wants her to be his master?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shinobi-shijuusou-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
