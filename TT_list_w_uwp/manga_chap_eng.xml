@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>to you, the immortal</ten_truyen>
+		<ma_truyen>to-you-the-immortal</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/45063/5/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/to-you-the-immortal-eng.xml</file_xml>
+		<chap_moi>chap 89</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
+		<chap_moi>chap 295</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mushoku tensei - isekai ittara honki dasu</ten_truyen>
+		<ma_truyen>mushoku-tensei-isekai-ittara-honki-dasu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27951/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mushoku-tensei-isekai-ittara-honki-dasu-eng.xml</file_xml>
+		<chap_moi>chap 50</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
 		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
 		<chap_moi>chap 55</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 929</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kingdom  </ten_truyen>
-		<ma_truyen>kingdom</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
-		<chap_moi>chap 585</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>black clover</ten_truyen>
-		<ma_truyen>black-clover</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
-		<chap_moi>chap 188</chap_moi>
 	</truyen>
 </danh_sach_truyen>

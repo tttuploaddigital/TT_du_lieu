@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>suicide squad (2016)</ten_truyen>
+		<ma_truyen>suicide-squad-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-2016-eng.xml</file_xml>
+		<chap_moi>issue 50</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hawkman (2018)</ten_truyen>
+		<ma_truyen>hawkman-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>isola</ten_truyen>
+		<ma_truyen>isola</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/isola/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/isola-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>fantastic four (2018)</ten_truyen>
 		<ma_truyen>fantastic-four-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/f/fantastic-four-(2018)/1_medium.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-silencer/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-silencer-eng.xml</file_xml>
 		<chap_moi>issue 12</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>west coast avengers (2018)</ten_truyen>
-		<ma_truyen>west-coast-avengers-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/west-coast-avengers-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/west-coast-avengers-2018-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>uncanny x-men (2018)</ten_truyen>
-		<ma_truyen>uncanny-x-men-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>fantastic four (2018)</ten_truyen>
-		<ma_truyen>fantastic-four-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fantastic-four-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fantastic-four-2018-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
 	</truyen>
 </danh_sach_truyen>
