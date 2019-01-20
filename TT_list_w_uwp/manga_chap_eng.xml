@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>origin  </ten_truyen>
+		<ma_truyen>origin</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/43656/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/origin-eng.xml</file_xml>
+		<chap_moi>chap 79</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mahou tsukai no yome</ten_truyen>
+		<ma_truyen>mahou-tsukai-no-yome</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/25056/8/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-tsukai-no-yome-eng.xml</file_xml>
+		<chap_moi>chap 53</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mahou shoujo site</ten_truyen>
+		<ma_truyen>mahou-shoujo-site</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
+		<chap_moi>chap 112</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>to you, the immortal</ten_truyen>
 		<ma_truyen>to-you-the-immortal</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/45063/5/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/41576/4/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajimete-no-gal-eng.xml</file_xml>
 		<chap_moi>chap 67</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>amano megumi wa suki darake!</ten_truyen>
-		<ma_truyen>amano-megumi-wa-suki-darake</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/40038/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/amano-megumi-wa-suki-darake-eng.xml</file_xml>
-		<chap_moi>chap 143</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>konjiki no moji tsukai - yuusha yonin ni makikomareta unique cheat</ten_truyen>
-		<ma_truyen>konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/29695/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/konjiki-no-moji-tsukai-yuusha-yonin-ni-makikomareta-unique-cheat-eng.xml</file_xml>
-		<chap_moi>chap 47</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>world's end harem</ten_truyen>
-		<ma_truyen>world-s-end-harem</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
-		<chap_moi>chap 55</chap_moi>
 	</truyen>
 </danh_sach_truyen>
