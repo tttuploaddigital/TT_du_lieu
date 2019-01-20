@@ -2205,6 +2205,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>Uni is a prodigy with a cool reserve who is accomplished in everything except for English. One day, she insults her temporary English teacher and he overhears her. He asks her to come to his office after school and, somehow, she starts receiving private tutoring from him.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kinkyori-renai-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="kishuku gakkou no juliet" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kishuku gakkou no juliet</ten_truyen>
+		<ma_truyen>kishuku-gakkou-no-juliet</ma_truyen>
+		<tac_gia>Kaneda Yousuke</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.mpcdn.net/32389/4/200.jpg</hinh_nho>
+		<gioi_thieu>Juliet Persia and Inuzuka Romio are archenemies. They lead two high school dormitories from two rivaling countries. Both factions are dead set on defeating the other to gain control over the island they have to share. Beneath the feuding exterior, however, Persia and Inuzuka long for love and peace for their budding relationship...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kishuku-gakkou-no-juliet-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="kiss and never cry" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Josei, Romance, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kiss and never cry</ten_truyen>
 		<ma_truyen>kiss-and-never-cry</ma_truyen>
@@ -2384,15 +2393,6 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<hinh_nho>https://file-thumb.mpcdn.net/5536/10/200.jpg</hinh_nho>
 		<gioi_thieu>Just a stone's throw from London lies the manor house of the illustrious Phantomhive earldom and its master, one Ciel Phantomhive. Earl Phantomhive is a giant in the world of commerce, Queen Victoria's faithful servant and a slip of a twelve-year-old boy. Fortunately his loyal butler Sebastian is ever at his side, ready to carry out the young master's wishes. And whether Sebastian is called to save a dinner party gone awry or probe the dark secrets of London's underbelly, there apparently is nothing Sebastian cannot do. In fact, one might even say Sebastian is too good to be true or at least, too good to be human.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kuroshitsuji-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kushuku gakkou no alice" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kushuku gakkou no alice</ten_truyen>
-		<ma_truyen>kushuku-gakkou-no-alice</ma_truyen>
-		<tac_gia>Kaneda Yousuke</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/32389/4/200.jpg</hinh_nho>
-		<gioi_thieu>'To Love, or not to Love' Juliet Percia and Inudzuka Romeo are archenemies. They lead two high-school dormitories from to two rivalling countries. Both factions are dead set on defeating the other to gain control over the island they have to share. Beneath the feuding exterior, however, Percia and Inudzuka long for love and peace for their budding relationship...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kushuku-gakkou-no-alice-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="kusumi-kun, kuuki yometemasu ka?" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kusumi-kun, kuuki yometemasu ka?</ten_truyen>
