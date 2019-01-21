@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="black widow (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Spy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>black widow (2019)</ten_truyen>
+		<ma_truyen>black-widow-2019</ma_truyen>
+        <tac_gia>Jen Soska, Sylvia Soska, Flaviano</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/black-widow-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Natasha Romanoff was trained to kill. For years now she's tried to overcome that programming, to side with the angels...to be a hero. And where'd that get her? Killed. By one of the few true friends she allowed herself to have. Now she's back from the dead, angry as hell and finding those better angels harder and harder to hear. Jen and Sylvia Soska - the Twisted Twins of horror - join rising artist Flaviano to weave a web of vice, violence and vengeance that will net Natasha the biggest bad men she's ever faced... or put her back in the ground for good.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-widow-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="barbarella / dejah thoris" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>barbarella / dejah thoris</ten_truyen>
+		<ma_truyen>barbarella-dejah-thoris</ma_truyen>
+        <tac_gia>Leah Williams, German Garcia</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarelladejah-thoris/1_medium.jpg</hinh_nho>
+        <gioi_thieu>From opposite ends of time, two heroines unite for an otherworldly adventure! Barbarella, the siren of space, meets Dejah Thoris, Princess of Barsoom, and together they must solve a murder mystery that spans time and space in order to find their way home. Leah Williams (Adventure Time Comics, X-Men: Black) teams with German García (Action Comics, X-men) for a fun, deadly, mind-bending epic!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-dejah-thoris-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="babyteeth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>babyteeth</ten_truyen>
+		<ma_truyen>babyteeth</ma_truyen>
+        <tac_gia>Donny Cates, Garry Brown</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/babyteeth/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sadie Ritter is sixteen years old, nine months pregnant, and scared out of her sweet nerdy mind. Having a baby that young is tough, but with the support of her loving family behind her, everything should be okay. OH YEAH, and also her baby is the antichrist and it's going to break open the barriers between the earthly and demonic planes and unleash eternal suffering to all of humankind. Other than that, though...should be fine.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/babyteeth-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="maken no daydreamer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Harem, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>maken no daydreamer</ten_truyen>
 		<ma_truyen>maken-no-daydreamer</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>About a peaceful(?) Hell, a peacefully(?) BORED Demon King, and how the bored Demon King gets not-so-bored.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/the-devil-king-is-bored-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="infinity wars: ghost panther" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars: ghost panther</ten_truyen>
-		<ma_truyen>infinity-wars-ghost-panther</ma_truyen>
-        <tac_gia>Jed Mackay, Jefte Palo</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-ghost-panther/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Stripped of his kingdom, Prince T'Challa of Wakanda becomes a stunt performer under an assumed name... until a tragic accident and a sinister deal give him the power he needs to free his people!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-ghost-panther-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the batman who laughs" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the batman who laughs</ten_truyen>
-		<ma_truyen>the-batman-who-laughs</ma_truyen>
-        <tac_gia>Scott Snyder, Jock</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-batman-who-laughs-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Left rattled by the events of DARK NIGHTS: METAL, Bruce Wayne must come face to face with the nightmares spawned from the Dark Multiverse. But even though evil devoured evil in the collapse of Challengers Mountain, the Dark Knight still has his doubts. He discovers that the Batman Who Laughs not only survived the fight with The Joker at the end of METAL, but now he is enacting a sinister plan across the Multiverse-something both terrifying and oddly familiar. But when Bruce Wayne realizes the only way to stop this madman is to kill him, he must consider violating the very rule Batman won't break...the same rule that created this insatiable villain-the Batman Who Laughs!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-batman-who-laughs-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="infinity wars: soldier supreme" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars: soldier supreme</ten_truyen>
-		<ma_truyen>infinity-wars-soldier-supreme</ma_truyen>
-        <tac_gia>Gerry Duggan, Adam Kubert</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-soldier-supreme/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Classified 4-F by the military, Stephen Rogers was unable to serve his country in World War II...until a secret government program tapping into arcane sorcery transformed him into the Soldier Supreme, the magical warrior embodiment of the American spirit!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/infinity-wars-soldier-supreme-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="black widow (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Spy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>black widow (2019)</ten_truyen>
+		<ma_truyen>black-widow-2019</ma_truyen>
+        <tac_gia>Jen Soska, Sylvia Soska, Flaviano</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/black-widow-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Natasha Romanoff was trained to kill. For years now she's tried to overcome that programming, to side with the angels...to be a hero. And where'd that get her? Killed. By one of the few true friends she allowed herself to have. Now she's back from the dead, angry as hell and finding those better angels harder and harder to hear. Jen and Sylvia Soska - the Twisted Twins of horror - join rising artist Flaviano to weave a web of vice, violence and vengeance that will net Natasha the biggest bad men she's ever faced... or put her back in the ground for good.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-widow-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="barbarella / dejah thoris" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>barbarella / dejah thoris</ten_truyen>
+		<ma_truyen>barbarella-dejah-thoris</ma_truyen>
+        <tac_gia>Leah Williams, German Garcia</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarelladejah-thoris/1_medium.jpg</hinh_nho>
+        <gioi_thieu>From opposite ends of time, two heroines unite for an otherworldly adventure! Barbarella, the siren of space, meets Dejah Thoris, Princess of Barsoom, and together they must solve a murder mystery that spans time and space in order to find their way home. Leah Williams (Adventure Time Comics, X-Men: Black) teams with German García (Action Comics, X-men) for a fun, deadly, mind-bending epic!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-dejah-thoris-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="babyteeth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>babyteeth</ten_truyen>
+		<ma_truyen>babyteeth</ma_truyen>
+        <tac_gia>Donny Cates, Garry Brown</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/babyteeth/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sadie Ritter is sixteen years old, nine months pregnant, and scared out of her sweet nerdy mind. Having a baby that young is tough, but with the support of her loving family behind her, everything should be okay. OH YEAH, and also her baby is the antichrist and it's going to break open the barriers between the earthly and demonic planes and unleash eternal suffering to all of humankind. Other than that, though...should be fine.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/babyteeth-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="invaders (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>invaders (2019)</ten_truyen>
 		<ma_truyen>invaders-2019</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-(2016)/secret-files_1_medium.jpg</hinh_nho>
         <gioi_thieu>Delve into Batman's case histories and discover brand-new stories by some of comics' most exciting talents. The BATMAN team of Tom King and Mikel Janin provides a framing sequence, setting up our hand-picked teams of creators to take a look at Bat-mysteries past and present. Featuring a bevy of Batman villains, including a look at how the Scarecrow's fear toxin affects the common man, and a special story written by Tom Taylor with art by Brad Walker that teams the Dark Knight Detective with Detective Chimp.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-secret-files-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="infinity wars: sleepwalker" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars: sleepwalker</ten_truyen>
-		<ma_truyen>infinity-wars-sleepwalker</ma_truyen>
-        <tac_gia>Chad Bowers, Chris Sims, Todd Nauck</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-sleepwalker/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Deep in the mind of man, in the ephemeral land of dreams, he lurks! The Sleepwalker - a guardian of the Mindscape, a realm threatened by the disruptive power of the Infinity Stones! But when all of reality becomes warped in INFINITY WARS, can Sleepwalker find the help he needs to save us all?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-sleepwalker-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="justice league odyssey" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>justice league odyssey</ten_truyen>
-		<ma_truyen>justice-league-odyssey</ma_truyen>
-        <tac_gia>Joshua Williamson, Stjepan Sejic</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-odyssey/1_medium.jpg</hinh_nho>
-        <gioi_thieu>When a cosmic menace threatens worlds beyond our own in the Ghost Sector, it falls to a new Justice League team to answer the call to battle! Cyborg, Starfire, Green Lantern Jessica Cruz and an out-of-his-element Azrael head to deep space inside a commandeered Brainiac Skull Ship. But as these wildcard teammates try to stop Despero from slave-trading Coluan refugees, they discover something that nothing in the universe could have prepared them for: Darkseid...who says he's there to help?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-odyssey-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="return of wolverine" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>return of wolverine</ten_truyen>
-		<ma_truyen>return-of-wolverine</ma_truyen>
-        <tac_gia>Charles Soule, Steve McNiven</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/return-of-wolverine/1_medium.jpg</hinh_nho>
-        <gioi_thieu>HE'S BACK, BUB.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/return-of-wolverine-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
