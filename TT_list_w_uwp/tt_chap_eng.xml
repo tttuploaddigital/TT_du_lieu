@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>justice league dark (2018)</ten_truyen>
+		<ma_truyen>justice-league-dark-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-dark-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-dark-2018-eng.xml</file_xml>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>electric warriors</ten_truyen>
+		<ma_truyen>electric-warriors</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/electric-warriors/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/electric-warriors-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>middlewest</ten_truyen>
+		<ma_truyen>middlewest</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/middlewest/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/middlewest-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>usogui</ten_truyen>
+		<ma_truyen>usogui</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
+		<chap_moi>chap 189</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
+		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuragi-sou-no-yuuna-san-eng.xml</file_xml>
+		<chap_moi>chap 143</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>maou no hajimekata</ten_truyen>
+		<ma_truyen>maou-no-hajimekata</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/33201/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-no-hajimekata-eng.xml</file_xml>
+		<chap_moi>chap 23</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>titans (2016) </ten_truyen>
 		<ma_truyen>titans-2016</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
@@ -292,26 +334,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/c/curse-words/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/curse-words-eng.xml</file_xml>
 		<chap_moi>issue 19</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>minamoto-kun monogatari</ten_truyen>
-		<ma_truyen>minamoto-kun-monogatari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/6428/10/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/minamoto-kun-monogatari-eng.xml</file_xml>
-		<chap_moi>chap 267</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>domestic na kanojo</ten_truyen>
-		<ma_truyen>domestic-na-kanojo</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/29089/10/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/domestic-na-kanojo-eng.xml</file_xml>
-		<chap_moi>chap 212</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>chi no wadachi</ten_truyen>
-		<ma_truyen>chi-no-wadachi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47610/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/chi-no-wadachi-eng.xml</file_xml>
-		<chap_moi>chap 42</chap_moi>
 	</truyen>
 </danh_sach_truyen>

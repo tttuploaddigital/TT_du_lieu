@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>justice league dark (2018)</ten_truyen>
+		<ma_truyen>justice-league-dark-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-dark-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-dark-2018-eng.xml</file_xml>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>electric warriors</ten_truyen>
+		<ma_truyen>electric-warriors</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/electric-warriors/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/electric-warriors-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>middlewest</ten_truyen>
+		<ma_truyen>middlewest</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/middlewest/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/middlewest-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>titans (2016) </ten_truyen>
 		<ma_truyen>titans-2016</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
@@ -292,27 +313,6 @@
 		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>injustice vs. masters of the universe</ten_truyen>
-		<ma_truyen>injustice-vs-masters-of-the-universe</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/injustice-vs-masters-of-the-universe/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/injustice-vs-masters-of-the-universe-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mr. and mrs. x</ten_truyen>
-		<ma_truyen>mr-and-mrs-x</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/mr-and-mrs-x/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mr-and-mrs-x-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the terrifics</ten_truyen>
-		<ma_truyen>the-terrifics</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-terrifics/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-terrifics-eng.xml</file_xml>
 		<chap_moi>issue 11</chap_moi>
 	</truyen>
 </danh_sach_truyen>

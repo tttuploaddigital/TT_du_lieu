@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>usogui</ten_truyen>
+		<ma_truyen>usogui</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
+		<chap_moi>chap 189</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
+		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuragi-sou-no-yuuna-san-eng.xml</file_xml>
+		<chap_moi>chap 143</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>maou no hajimekata</ten_truyen>
+		<ma_truyen>maou-no-hajimekata</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/33201/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-no-hajimekata-eng.xml</file_xml>
+		<chap_moi>chap 23</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>origin  </ten_truyen>
 		<ma_truyen>origin</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/43656/2/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/35965/6/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/enen-no-shouboutai-eng.xml</file_xml>
 		<chap_moi>chap 154</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gintama</ten_truyen>
-		<ma_truyen>gintama</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3096/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gintama-eng.xml</file_xml>
-		<chap_moi>chap 699</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tenkuu shinpan</ten_truyen>
-		<ma_truyen>tenkuu-shinpan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tenkuu-shinpan-eng.xml</file_xml>
-		<chap_moi>chap 245</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hajimete no gal</ten_truyen>
-		<ma_truyen>hajimete-no-gal</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41576/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajimete-no-gal-eng.xml</file_xml>
-		<chap_moi>chap 67</chap_moi>
 	</truyen>
 </danh_sach_truyen>
