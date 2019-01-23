@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="the last human" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Horror, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>the last human</ten_truyen>
+		<ma_truyen>the-last-human</ma_truyen>
+		<tac_gia>Amazing Works</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/08/e8/08e8a46cb50e65ee7ee27488ecc0cf24ac54136f_27153_200_266.jpg</hinh_nho>
+		<gioi_thieu>Zuo Tianchen is the last living human in a mutated zombie-infested city. Just when he was sure he'd died, he finds his soul returned to just before that ill-fated day ten years ago. He swears he'll protect the people important to him this time round and reunite with his past lover. Watch his struggles to survive equipped with his memory of the next ten years!</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/the-last-human-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hero? i quit a long time ago" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
+		<ten_truyen>hero? i quit a long time ago</ten_truyen>
+		<ma_truyen>hero-i-quit-a-long-time-ago</ma_truyen>
+		<tac_gia>Novelist SF, Hai Luo, Wu Liao Kan Kan Tian</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/42/33/4233c306ecd7682f33ad64e8983834dddbd0c6e6_34954_200_266.jpg</hinh_nho>
+		<gioi_thieu>Zero was mankind's first real superhero. Under his watch, countless other superheros appeared and followed in his footsteps. However, after 5 years of war, Zero disappeared without a trace.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/hero-i-quit-a-long-time-ago-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="lawless zone" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Romance, School life, Shounen., Slice of life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>lawless zone</ten_truyen>
+		<ma_truyen>lawless-zone</ma_truyen>
+		<tac_gia>H20</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://avt.mkklcdnv3.com/avatar_225/21440-gq917826.jpg</hinh_nho>
+		<gioi_thieu>Two high school students, Lee Sang-Hyun and Bae Ji-Hyun, live their lives as normal high school students, while secretly hiding their true identities: Mages of Law. But on one eventful day, Bae Ji-Hyun reveals her true identity of being a Law Mage in an attempt to rescue Lee Sang-Hyun from a deadly attack from the Corruptors, but to her surprise, Lee Sang-Hyun has a secret to show of his own! Join Lee Sang-Hyun and Bae Ji-Hyun, as they make numerous sacrifices and attempts in order to fight and exterminate the Corruptors that are plaguing the world in which they live in.</gioi_thieu>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/lawless-zone-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="black widow (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Spy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>black widow (2019)</ten_truyen>
 		<ma_truyen>black-widow-2019</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W300/3b/87/3b8729669d684b4fa41c8eecbff20408871ec23d_31758_200_314.jpg</hinh_nho>
 		<gioi_thieu>Hideo Kawamura has a really terrifying look, but soft heart. While contemplating suicide, he stumbled upon this computer that contained the virus, 'Wiruko', who convinced him to join the 'Seimahei', a fighting tournament that has the world as its prize. However, Hideo happens to not have any fighting skills whatsoever, so he has to get through on his wits (and luck) alone.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/sentou-jousai-masurawo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="isanghago aleumdaun" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Mystery, Romance, Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>isanghago aleumdaun</ten_truyen>
-		<ma_truyen>isanghago-aleumdaun</ma_truyen>
-		<tac_gia>Honey Bee</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W180/18/8a/188a484a6d3b9d7d677484f993c44db1543380c1_24340_200_297.jpg</hinh_nho>
-		<gioi_thieu>The secret behind the goblin's wife that appears once every one thousand years....</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/isanghago-aleumdaun-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="tale of nezha" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Historical, Martial arts, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
-		<ten_truyen>tale of nezha</ten_truyen>
-		<ma_truyen>tale-of-nezha</ma_truyen>
-		<tac_gia>Mao Mao Jia</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W180/af/15/af15786defa9ca5d9624981064130d27f0737aac_31288_200_316.jpg</hinh_nho>
-		<gioi_thieu>Nezha, born in the form of a 3 year old boy with celestial power, inadvertently becomes enmeshed in a conspiracy by evil spirits. He is forced to commit suicide at a tender age. Story based around a Chinese deity.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tale-of-nezha-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="the devil king is bored" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>the devil king is bored</ten_truyen>
-		<ma_truyen>the-devil-king-is-bored</ma_truyen>
-		<tac_gia>Kim Sang Min</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W180/79/97/7997c82d1eb1748a42acc3362612120989ca9c5e_20326_200_283.jpg</hinh_nho>
-		<gioi_thieu>About a peaceful(?) Hell, a peacefully(?) BORED Demon King, and how the bored Demon King gets not-so-bored.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/the-devil-king-is-bored-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
