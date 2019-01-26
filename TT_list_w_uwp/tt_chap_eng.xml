@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>star wars (2015)</ten_truyen>
+		<ma_truyen>star-wars-2015</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
+		<chap_moi>issue 60</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>aquaman (2016)</ten_truyen>
+		<ma_truyen>aquaman-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/aquaman-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/aquaman-2016-eng.xml</file_xml>
+		<chap_moi>issue 44</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the wild storm</ten_truyen>
+		<ma_truyen>the-wild-storm</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wild-storm/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-wild-storm-eng.xml</file_xml>
+		<chap_moi>issue 19</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>boruto : naruto next generations</ten_truyen>
+		<ma_truyen>boruto-naruto-next-generations</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40807/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boruto-naruto-next-generations-eng.xml</file_xml>
+		<chap_moi>chap 31</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ragna crimson</ten_truyen>
+		<ma_truyen>ragna-crimson</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/49622/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ragna-crimson-eng.xml</file_xml>
+		<chap_moi>chap 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tsuyokute new saga</ten_truyen>
+		<ma_truyen>tsuyokute-new-saga</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
+		<chap_moi>chap 59</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>justice league dark (2018)</ten_truyen>
 		<ma_truyen>justice-league-dark-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-dark-(2018)/1_medium.jpg</hinh_nho>
@@ -271,47 +313,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
 		<chap_moi>chap 288</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>suicide squad: black files</ten_truyen>
-		<ma_truyen>suicide-squad-black-files</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-black-files/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-black-files-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hit-girl (2018)</ten_truyen>
-		<ma_truyen>hit-girl-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hit-girl-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hit-girl-2018-eng.xml</file_xml>
-		<chap_moi>issue 12</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>rose  </ten_truyen>
-		<ma_truyen>rose</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/rose/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rose-eng.xml</file_xml>
-		<chap_moi>issue 16</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>knight's and magic</ten_truyen>
-		<ma_truyen>knight-s-and-magic</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/43546/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/knight-s-and-magic-eng.xml</file_xml>
-		<chap_moi>chap 55</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hatsukoi zombie</ten_truyen>
-		<ma_truyen>hatsukoi-zombie</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/38108/6/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hatsukoi-zombie-eng.xml</file_xml>
-		<chap_moi>chap 146</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>radiant</ten_truyen>
-		<ma_truyen>radiant</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/36054/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/radiant-eng.xml</file_xml>
-		<chap_moi>chap 40</chap_moi>
 	</truyen>
 </danh_sach_truyen>

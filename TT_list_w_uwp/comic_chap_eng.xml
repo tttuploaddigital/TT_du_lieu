@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>star wars (2015)</ten_truyen>
+		<ma_truyen>star-wars-2015</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
+		<chap_moi>issue 60</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>aquaman (2016)</ten_truyen>
+		<ma_truyen>aquaman-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/aquaman-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/aquaman-2016-eng.xml</file_xml>
+		<chap_moi>issue 44</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the wild storm</ten_truyen>
+		<ma_truyen>the-wild-storm</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wild-storm/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-wild-storm-eng.xml</file_xml>
+		<chap_moi>issue 19</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>justice league dark (2018)</ten_truyen>
 		<ma_truyen>justice-league-dark-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-dark-(2018)/1_medium.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fathom-2018-eng.xml</file_xml>
 		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>old lady harley</ten_truyen>
-		<ma_truyen>old-lady-harley</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-lady-harley/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-lady-harley-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>immortal hulk</ten_truyen>
-		<ma_truyen>immortal-hulk</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/immortal-hulk-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>raven: daughter of darkness</ten_truyen>
-		<ma_truyen>raven-daughter-of-darkness</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/raven-daughter-of-darkness/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/raven-daughter-of-darkness-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
 	</truyen>
 </danh_sach_truyen>

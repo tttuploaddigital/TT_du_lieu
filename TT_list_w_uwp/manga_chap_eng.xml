@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>boruto : naruto next generations</ten_truyen>
+		<ma_truyen>boruto-naruto-next-generations</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40807/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boruto-naruto-next-generations-eng.xml</file_xml>
+		<chap_moi>chap 31</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ragna crimson</ten_truyen>
+		<ma_truyen>ragna-crimson</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/49622/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ragna-crimson-eng.xml</file_xml>
+		<chap_moi>chap 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tsuyokute new saga</ten_truyen>
+		<ma_truyen>tsuyokute-new-saga</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
+		<chap_moi>chap 59</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>usogui</ten_truyen>
 		<ma_truyen>usogui</ma_truyen>
         <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W300/1c/6c/1c6cef497ad9ede51ab63f2eeed80f9de808566a_47309_200_310.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gigant-eng.xml</file_xml>
 		<chap_moi>chap 22</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>boku no hero academia</ten_truyen>
-		<ma_truyen>boku-no-hero-academia</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
-		<chap_moi>chap 212</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yuusha ga shinda!</ten_truyen>
-		<ma_truyen>yuusha-ga-shinda</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/29997/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuusha-ga-shinda-eng.xml</file_xml>
-		<chap_moi>chap 146</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>enen no shouboutai</ten_truyen>
-		<ma_truyen>enen-no-shouboutai</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35965/6/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/enen-no-shouboutai-eng.xml</file_xml>
-		<chap_moi>chap 154</chap_moi>
 	</truyen>
 </danh_sach_truyen>
