@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="shin mazinger zero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Drama, Ecchi, Mature, Mecha, Romance, School life, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>shin mazinger zero</ten_truyen>
+		<ma_truyen>shin-mazinger-zero</ma_truyen>
+		<tac_gia>Nagai Go, Tabata Yoshiaki, Yugo Yuuki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/9d/6e/9d6e9ad2999788c4af5dabd79539a06fc3b2b7c1_24586_200_314.jpg</hinh_nho>
+		<gioi_thieu>In the near future, a mineral known as 'Japanium' is discovered under Mt. Fuji. This ore is discovered to produce a powerful energy source known as 'Photon Energy'. Dr. Juzo Kabuto and his associates have begun researching Photon Energy, planning to use it as a solution to the energy crisis plaguing the earth, when the nefarious Dr. Hell and his associate, Baron Ashura attack his lab. Along with this, the mysterious 'Kurogane House' also has begun to become entwined with the affairs of these two parties. During all of this, Juzo's grandchildren, Kouji and Shiro, encounter one of Baron Ashura's robots on its way to attack Dr. Kabuto's mansion, where he has begun work on his greatest invention. Dr. Kabuto, seeing the danger at hand, sends out the Pilder to Kouji, allowing him to combine with the giant robot, Mazinger Z, to fight against Dr. Hell's forces.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shin-mazinger-zero-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="memesis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>memesis</ten_truyen>
+		<ma_truyen>memesis</ma_truyen>
+		<tac_gia>Yagyuu Takuya</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/52/39/5239a38ebb2f4d7002fb3960524918e03d05852f_31168_200_314.jpg</hinh_nho>
+		<gioi_thieu>In a fantasy world where monsters roam the land, the heroes party of Leon, Kijira and Ash traveled and slayed monsters together. But when Leon broke up with his partners so he could hang out with cute girls, Kijira and Ash starts carving their own legacy and it's one built on the back of jealousy as they look to overcome Leon in both monster slaying and women wooing.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/memesis-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="bougyaku no kokekko" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>bougyaku no kokekko</ten_truyen>
+		<ma_truyen>bougyaku-no-kokekko</ma_truyen>
+		<tac_gia>Suzaki Yousuke</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/bd/d4/bdd47155735b4eaa3a58d698d77a8d4453772d2c_44968_200_299.jpg</hinh_nho>
+		<gioi_thieu>Meet Yuu Enji, a boy abandoned by his father, and the oldest kid in his foster home who's fed up with adults like his selfish orphanage principal. His dream is to buy the orphanage, so that everyone there can live happily together. With that goal in mind, he decided to get a job, and went to his high school graduation. But from that day forward, the world suddenly changed! Adults have now started to morph into giant chickens and attack children! Can Yuu protect the children and his dream during this crisis!?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bougyaku-no-kokekko-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="maken no daydreamer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Harem, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>maken no daydreamer</ten_truyen>
 		<ma_truyen>maken-no-daydreamer</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/2658/1/200.jpg</hinh_nho>
 		<gioi_thieu>Wimpy Sena Kobayakawa has been running away from bullies all his life. But when the football gear comes on, things change--Sena's speed and uncanny ability to elude big bullies just might give him what it takes to become a great high school football hero! Enjoy all the bone-crushing action and slapstick comedy that this heartwarming coming-of-age story has to offer.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/eyeshield-21-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="to you, the immortal" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Drama, Fantasy, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>to you, the immortal</ten_truyen>
-		<ma_truyen>to-you-the-immortal</ma_truyen>
-		<tac_gia>Oima Yoshitoki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/45063/5/200.jpg</hinh_nho>
-		<gioi_thieu>An immortal being was sent to the surface of the earth and met a boy living alone in the middle of tundra. The being can take the shape of dying things, but only if the 'impetus' is stronger than the previous one. What sort of experiences and meetings will the being encounter while living forever?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/to-you-the-immortal-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kusumi-kun, kuuki yometemasu ka?" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kusumi-kun, kuuki yometemasu ka?</ten_truyen>
-		<ma_truyen>kusumi-kun-kuuki-yometemasu-ka</ma_truyen>
-		<tac_gia>Mosuko</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/42058/1/200.jpg</hinh_nho>
-		<gioi_thieu>Erika Sakura is the school's most popular female high schooler, and only met with envious gazes since she is out of everyone's league. However, she is recently interested in a certain male high schooler who can't read between the lines, Kuzumi. While having a relationship between the two is out of the question, her unrequited love will soon change in this romantic comedy. Follow this new inevitably heart pounding, out-of-contact short love comedy!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kusumi-kun-kuuki-yometemasu-ka-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="haruka 17" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>haruka 17</ten_truyen>
-		<ma_truyen>haruka-17</ma_truyen>
-		<tac_gia>Yamazaki Sayaka</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/3557/1/200.jpg</hinh_nho>
-		<gioi_thieu>Haruka is about to graduate from a first-rate college and is looking for work but no one wants to hire her. Faced with the prospect of becoming a 'shuushoku rounin' she finally lowers her expectations and decides to apply at a tiny talent agency for a job as an agent. When she shows up for the interview however, it's like no interview she's ever had before. She's asked all sorts of embarrasing questions and asked to say lines in front of a camera. Later she finds out that they thought she was interviewing to become a talent, and the agent position she wanted has already been given away. However, they think she has that special quality that can make someone a star. She refuses at first, but finally gives in. Thus starts Haruka's career in the entertainment industry.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haruka-17-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
