@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="guardians of the galaxy (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>guardians of the galaxy (2019)</ten_truyen>
+		<ma_truyen>guardians-of-the-galaxy-2019</ma_truyen>
+        <tac_gia>Donny Cates, Geoff Shaw</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-infinity-warps/1_medium.jpg</hinh_nho>
+        <gioi_thieu>WHO WILL STAND? The universe is on fire. Hundreds of worlds are at war. Never has there been such hatred and division across the cosmos. And in spite of all this, Thanos of Titan is still dead...or is he? Now, more than ever, the cosmos need the Guardians of the Galaxy...but in the aftermath of the Infinity Wars, who is left to answer the call? Featuring every cosmic super hero in the known universe by the THANOS WINS creative team of Donny Cates and Geoff Shaw!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/guardians-of-the-galaxy-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="naomi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>naomi</ten_truyen>
+		<ma_truyen>naomi</ma_truyen>
+        <tac_gia>Brian Michael Bendis, David F. Walker, Jamal Campbell</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/naomi/1_medium.jpg</hinh_nho>
+        <gioi_thieu>DC's biggest, newest mystery starts here! When a fight between Superman and Mongul crashes into a small Northwestern town, Naomi (last name?) begins a quest to uncover the last time a super-powered person visited her home-and how that might tie into her own origins and adoption. Follow Naomi's journey on a quest that will take her to the heart of the DC Universe and unfold a universe of ideas and stories that have never been seen before. Join writers Brian Michael Bendis, David Walker and breakout artist Jamal Campbell in Wonder Comics' massively ambitious new series and star... NAOMI.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/naomi-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="wolverine: the long night" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>wolverine: the long night</ten_truyen>
+		<ma_truyen>wolverine-the-long-night</ma_truyen>
+        <tac_gia>Benjamin Percy, Marcio Takara</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wolverine-the-long-night-adaptation/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Following a string of mysterious deaths in Burns, Alaska, Special Agents Sally Pierce and Tad Marshall arrive to investigate. They soon find there's more going on than meets the eye... Marvel's hit scripted podcast, 'Wolverine: The Dark Night,' comes to life on the page! Chilling twists and turns, brought to you by the original author of the podcast, Benjamin Percy, and the art talents of Marcio Takara!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wolverine-the-long-night-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="black widow (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Spy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>black widow (2019)</ten_truyen>
 		<ma_truyen>black-widow-2019</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/r/runaways-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>GET READY TO RUN! The 'IT' book of the early 2000s with the original cast is back - Nico! Karolina! Molly! Chase! Old Lace! And, could it be? GERT?! The heart of the Runaways died years ago, but you won't believe how she returns! Superstar author Rainbow Rowell (Eleanor and Park, Carry On) makes her Marvel debut with fan-favorite artist Kris Anka (ALL-NEW X-MEN, CAPTAIN MARVEL) in the series that will shock you and break your heart!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/runaways-2017-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="heroes in crisis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>heroes in crisis</ten_truyen>
-		<ma_truyen>heroes-in-crisis</ma_truyen>
-        <tac_gia>Tom King, Clay Mann</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/heroes-in-crisis/1_medium.jpg</hinh_nho>
-        <gioi_thieu>There's a new kind of crisis threatening the heroes of the DC Universe, ripped from real-world headlines by C.I.A.-operative-turned-comics-writer Tom King: How does a superhero handle PTSD? Welcome to Sanctuary, an ultra-secret hospital for superheroes who've been traumatized by crime-fighting and cosmic combat. But something goes inexplicably wrong when many patients wind up dead, with two well-known operators as the prime suspects: Harley Quinn and Booster Gold! It's up to the DC Trinity of Superman, Wonder Woman and Batman to investigate but can they get the job done in the face of overwhelming opposition?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/heroes-in-crisis-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="spider-force" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>spider-force</ten_truyen>
-		<ma_truyen>spider-force</ma_truyen>
-        <tac_gia>Christopher Priest, Shane Davis, Siquiera</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-force/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A SPIDER-GEDDON TIE IN! The deadliest task in all of SPIDER-GEDDON has come up and Kaine has stepped forward for what he's sure will be a suicide mission. But he can't do it alone and Jessica Drew, A.K.A. Spider-Woman has signed on to help, but has Kaine told her the whole truth? With Ashley Barton, from the OLD MAN LOGAN universe, and two new characters (Astro-Spider and Spider-Kid), Kaine's team is complete and their first mission may be their last!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-force-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="batman: secret files" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>batman: secret files</ten_truyen>
-		<ma_truyen>batman-secret-files</ma_truyen>
-        <tac_gia>Jordie Bellaire, Cheryl Lynn Eaton, Tom King, Tom Taylor, Ram V, Elena Casagrande, Jorge Fornes, Mikel Janin, Jill Thompson, Brad Walker</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-(2016)/secret-files_1_medium.jpg</hinh_nho>
-        <gioi_thieu>Delve into Batman's case histories and discover brand-new stories by some of comics' most exciting talents. The BATMAN team of Tom King and Mikel Janin provides a framing sequence, setting up our hand-picked teams of creators to take a look at Bat-mysteries past and present. Featuring a bevy of Batman villains, including a look at how the Scarecrow's fear toxin affects the common man, and a special story written by Tom Taylor with art by Brad Walker that teams the Dark Knight Detective with Detective Chimp.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-secret-files-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
