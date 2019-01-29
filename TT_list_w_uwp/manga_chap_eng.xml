@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>boku no hero academia</ten_truyen>
+		<ma_truyen>boku-no-hero-academia</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
+		<chap_moi>chap 214</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>black clover</ten_truyen>
+		<ma_truyen>black-clover</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
+		<chap_moi>chap 190</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
+		<chap_moi>chap 296</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>boruto : naruto next generations</ten_truyen>
 		<ma_truyen>boruto-naruto-next-generations</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/40807/4/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/golden-kamui-eng.xml</file_xml>
 		<chap_moi>chap 185</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kaguya-sama wa kokurasetai - tensai-tachi no renai zunousen</ten_truyen>
-		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
-		<chap_moi>chap 133</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>monster musume no iru nichijou</ten_truyen>
-		<ma_truyen>monster-musume-no-iru-nichijou</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/6594/10/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/monster-musume-no-iru-nichijou-eng.xml</file_xml>
-		<chap_moi>chap 62</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gigant</ten_truyen>
-		<ma_truyen>gigant</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1c/6c/1c6cef497ad9ede51ab63f2eeed80f9de808566a_47309_200_310.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gigant-eng.xml</file_xml>
-		<chap_moi>chap 22</chap_moi>
 	</truyen>
 </danh_sach_truyen>

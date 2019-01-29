@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>captain america (2018)</ten_truyen>
+		<ma_truyen>captain-america-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-america-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-america-2018-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>catwoman (2018)</ten_truyen>
+		<ma_truyen>catwoman-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/catwoman-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/catwoman-2018-eng.xml</file_xml>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>grimm fairy tales (2016)</ten_truyen>
+		<ma_truyen>grimm-fairy-tales-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-fairy-tales-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/grimm-fairy-tales-2016-eng.xml</file_xml>
+		<chap_moi>issue 25</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>star wars (2015)</ten_truyen>
 		<ma_truyen>star-wars-2015</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-walking-dead/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-walking-dead-eng.xml</file_xml>
 		<chap_moi>issue 187</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>uncanny x-men (2018)</ten_truyen>
-		<ma_truyen>uncanny-x-men-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
-		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the flash (2016)</ten_truyen>
-		<ma_truyen>the-flash-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
-		<chap_moi>issue 61</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>fathom (2018)</ten_truyen>
-		<ma_truyen>fathom-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fathom-2018-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
 	</truyen>
 </danh_sach_truyen>

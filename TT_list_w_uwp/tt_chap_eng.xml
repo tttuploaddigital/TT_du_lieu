@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>captain america (2018)</ten_truyen>
+		<ma_truyen>captain-america-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-america-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-america-2018-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>catwoman (2018)</ten_truyen>
+		<ma_truyen>catwoman-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/catwoman-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/catwoman-2018-eng.xml</file_xml>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>grimm fairy tales (2016)</ten_truyen>
+		<ma_truyen>grimm-fairy-tales-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-fairy-tales-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/grimm-fairy-tales-2016-eng.xml</file_xml>
+		<chap_moi>issue 25</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>boku no hero academia</ten_truyen>
+		<ma_truyen>boku-no-hero-academia</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
+		<chap_moi>chap 214</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>black clover</ten_truyen>
+		<ma_truyen>black-clover</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
+		<chap_moi>chap 190</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
+		<chap_moi>chap 296</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>star wars (2015)</ten_truyen>
 		<ma_truyen>star-wars-2015</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
@@ -271,47 +313,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W300/1b/67/1b67039dc8e2b00e0fecd3098f26fc4aa03bd388_36819_200_313.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/marry-grave-eng.xml</file_xml>
 		<chap_moi>chap 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
-		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
-		<chap_moi>issue 13</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>harley quinn (2016)</ten_truyen>
-		<ma_truyen>harley-quinn-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
-		<chap_moi>issue 57</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-23 (2018)</ten_truyen>
-		<ma_truyen>x-23-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
-		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>karate shoukoushi kohinata minoru</ten_truyen>
-		<ma_truyen>karate-shoukoushi-kohinata-minoru</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/36/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/karate-shoukoushi-kohinata-minoru-eng.xml</file_xml>
-		<chap_moi>chap 497</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>keijo!!!!!!!!</ten_truyen>
-		<ma_truyen>keijo</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/24760/11/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/keijo-eng.xml</file_xml>
-		<chap_moi>chap 167</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>giant killing</ten_truyen>
-		<ma_truyen>giant-killing</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
-		<chap_moi>chap 288</chap_moi>
 	</truyen>
 </danh_sach_truyen>
