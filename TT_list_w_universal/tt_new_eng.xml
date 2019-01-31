@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="saikyou mahoushi no inton keikaku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, School life, Shounen., Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>saikyou mahoushi no inton keikaku</ten_truyen>
+		<ma_truyen>saikyou-mahoushi-no-inton-keikaku</ma_truyen>
+		<tac_gia>Miyuki Ruria, Uonu Mayuu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/71/24/7124c272a6fc864b9a17e2fc38e80399f58d8ca9_50800_200_310.jpg</hinh_nho>
+		<gioi_thieu>In a world filled with monsters, we follow the journey of the 16 years old genius mage Alusu Reigin.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saikyou-mahoushi-no-inton-keikaku-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="go-toubun no hanayome" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>go-toubun no hanayome</ten_truyen>
+		<ma_truyen>go-toubun-no-hanayome</ma_truyen>
+		<tac_gia>Haruba negi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/84/5c/845c03de249fcbd7a7bac73cd0cfac6fc76f28a2_39178_200_299.jpg</hinh_nho>
+		<gioi_thieu>Fuutarou Uesugi is a poor, antisocial ace student who one day meets the rich transfer student Itsuki Nakano. They argue but when Uesugi realizes he is to be her tutor, he tries to get on better terms. While trying to do so he meets four other girls.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/go-toubun-no-hanayome-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="act-age" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>act-age</ten_truyen>
+		<ma_truyen>act-age</ma_truyen>
+		<tac_gia>Matsuki Tatsuya, Usazaki Shiro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/49/84/4984827829b8343c7188ea2772af1c208b28258c_32570_200_314.jpg</hinh_nho>
+		<gioi_thieu>ACT-AGE centers on a certain young woman and a genius director who meet at an audition for rookie actresses.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/act-age-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="guardians of the galaxy (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>guardians of the galaxy (2019)</ten_truyen>
 		<ma_truyen>guardians-of-the-galaxy-2019</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>When a young John Wick emerges from prison and embarks upon his first, epic vendetta, he comes up against a strange, powerful community of assassins and must learn how to master the Book of Rules that guides their lethal business. What are the Three Bills? Who is Calamity? And who was John Wick before he became the Baba Yaga? Here for the first time, read the thrilling origin story of John Wick, from 'Planet Hulk' writer Greg Pak and 'Dark Horse Presents' artist Giovanni Valletta.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/john-wick-eng.xml</file_xml>
     </truyen>
-	<truyen ten="captain tsubasa - rising sun" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>captain tsubasa - rising sun</ten_truyen>
-		<ma_truyen>captain-tsubasa-rising-sun</ma_truyen>
-		<tac_gia>Takahashi Yoichi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1a/88/1a882cec4848ba991b6f0e070acc6e1c0488347f_30007_200_313.jpg</hinh_nho>
-		<gioi_thieu>Rising Sun will revolve around Tsubasa as he aims to participate in the Olympics as a representative from Japan.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/captain-tsubasa-rising-sun-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="marry grave" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>marry grave</ten_truyen>
-		<ma_truyen>marry-grave</ma_truyen>
-		<tac_gia>Yamaji Hidenori</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1b/67/1b67039dc8e2b00e0fecd3098f26fc4aa03bd388_36819_200_313.jpg</hinh_nho>
-		<gioi_thieu>In a world where demons seek to destroy humanity, a vagabond named Riseman Sawyer travels in search of the ingredients for the spell called 'Deadman's Recipe'. This magic has the power to resurrect the dead, and thereby revive his late wife who had died using the spell herself to save Riseman.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/marry-grave-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="satanofani" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mature, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>satanofani</ten_truyen>
-		<ma_truyen>satanofani</ma_truyen>
-		<tac_gia>Yamada Yoshinobu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/c1/83/c1838585935591a8018f04b6a2e917bb4018dc1a_45352_200_310.jpg</hinh_nho>
-		<gioi_thieu>A mysterious syndrome turns schoolgirls into homicidal monsters behind numerous atrocities in Japan. However, nothing is what it seems and when Chika Amagi is arrested for the brutal murder of five people, which starts a journey into uncharted and troubled waters!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/satanofani-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>

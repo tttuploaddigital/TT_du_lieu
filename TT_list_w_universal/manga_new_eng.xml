@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="saikyou mahoushi no inton keikaku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, School life, Shounen., Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>saikyou mahoushi no inton keikaku</ten_truyen>
+		<ma_truyen>saikyou-mahoushi-no-inton-keikaku</ma_truyen>
+		<tac_gia>Miyuki Ruria, Uonu Mayuu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/71/24/7124c272a6fc864b9a17e2fc38e80399f58d8ca9_50800_200_310.jpg</hinh_nho>
+		<gioi_thieu>In a world filled with monsters, we follow the journey of the 16 years old genius mage Alusu Reigin.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saikyou-mahoushi-no-inton-keikaku-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="go-toubun no hanayome" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>go-toubun no hanayome</ten_truyen>
+		<ma_truyen>go-toubun-no-hanayome</ma_truyen>
+		<tac_gia>Haruba negi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/84/5c/845c03de249fcbd7a7bac73cd0cfac6fc76f28a2_39178_200_299.jpg</hinh_nho>
+		<gioi_thieu>Fuutarou Uesugi is a poor, antisocial ace student who one day meets the rich transfer student Itsuki Nakano. They argue but when Uesugi realizes he is to be her tutor, he tries to get on better terms. While trying to do so he meets four other girls.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/go-toubun-no-hanayome-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="act-age" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>act-age</ten_truyen>
+		<ma_truyen>act-age</ma_truyen>
+		<tac_gia>Matsuki Tatsuya, Usazaki Shiro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/49/84/4984827829b8343c7188ea2772af1c208b28258c_32570_200_314.jpg</hinh_nho>
+		<gioi_thieu>ACT-AGE centers on a certain young woman and a genius director who meet at an audition for rookie actresses.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/act-age-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="shin mazinger zero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Drama, Ecchi, Mature, Mecha, Romance, School life, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>shin mazinger zero</ten_truyen>
 		<ma_truyen>shin-mazinger-zero</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
 		<gioi_thieu>Asagiri Aya, a girl bullied at school and at home. One day, an eerie website, Mahou Shoujo Site, flashes on her computer screen and welcomes her to the Mahou Shoujo World.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="platinum end" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Ecchi, Mature, Mystery, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>platinum end</ten_truyen>
-		<ma_truyen>platinum-end</ma_truyen>
-		<tac_gia>Ohba Tsugumi, Obata Takeshi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/36176/4/200.jpg</hinh_nho>
-		<gioi_thieu>The story tells of a human and an angel, and centers around Mirai Kakehashi, a boy who 'does not seek out hope in order to live.'</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/platinum-end-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="p to jk" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>p to jk</ten_truyen>
-		<ma_truyen>p-to-jk</ma_truyen>
-		<tac_gia>Miyoshi Maki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/27317/2/200.jpg</hinh_nho>
-		<gioi_thieu>Kako fell in love with Kouta, a guy who saved her in a mixer while she's posing as a 22-year-old girl, only to find out the next day that he's a police officer. Just when they were getting closer to each other, he realized she's actually a high school student and distanced himself from her. But Kako continued her advances and accidentally got injured while protecting him, so he eventually decided to give into his feelings and face the complications of a policeman having a relationship with a high school girl.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/p-to-jk-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="eyeshield 21" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>eyeshield 21</ten_truyen>
-		<ma_truyen>eyeshield-21</ma_truyen>
-		<tac_gia>Inagaki Riichiro, Murata Yuusuke</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/2658/1/200.jpg</hinh_nho>
-		<gioi_thieu>Wimpy Sena Kobayakawa has been running away from bullies all his life. But when the football gear comes on, things change--Sena's speed and uncanny ability to elude big bullies just might give him what it takes to become a great high school football hero! Enjoy all the bone-crushing action and slapstick comedy that this heartwarming coming-of-age story has to offer.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/eyeshield-21-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
