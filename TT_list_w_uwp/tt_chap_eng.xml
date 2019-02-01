@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>x-force (2018)</ten_truyen>
+		<ma_truyen>x-force-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-force-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-force-2018-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the terrifics</ten_truyen>
+		<ma_truyen>the-terrifics</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-terrifics/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-terrifics-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>invader zim</ten_truyen>
+		<ma_truyen>invader-zim</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/invader-zim/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invader-zim-eng.xml</file_xml>
+		<chap_moi>issue 39</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 931</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>haikyuu!!</ten_truyen>
+		<ma_truyen>haikyuu</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/21593/26/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haikyuu-eng.xml</file_xml>
+		<chap_moi>chap 336</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>azumi</ten_truyen>
+		<ma_truyen>azumi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/22943/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/azumi-eng.xml</file_xml>
+		<chap_moi>chap 220</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>wonder woman (2016)</ten_truyen>
 		<ma_truyen>wonder-woman-2016</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-woman-(2016)/1_medium.jpg</hinh_nho>
@@ -271,47 +313,5 @@
 		<ma_truyen>star-martial-god-technique</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/44777/1/200.jpg</hinh_nho>
 		<chap_moi>chap 212</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>suicide squad (2016)</ten_truyen>
-		<ma_truyen>suicide-squad-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-2016-eng.xml</file_xml>
-		<chap_moi>issue 50</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hawkman (2018)</ten_truyen>
-		<ma_truyen>hawkman-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
-		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>isola</ten_truyen>
-		<ma_truyen>isola</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/isola/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/isola-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>to you, the immortal</ten_truyen>
-		<ma_truyen>to-you-the-immortal</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/45063/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/to-you-the-immortal-eng.xml</file_xml>
-		<chap_moi>chap 89</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 295</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mushoku tensei - isekai ittara honki dasu</ten_truyen>
-		<ma_truyen>mushoku-tensei-isekai-ittara-honki-dasu</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/27951/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mushoku-tensei-isekai-ittara-honki-dasu-eng.xml</file_xml>
-		<chap_moi>chap 50</chap_moi>
 	</truyen>
 </danh_sach_truyen>

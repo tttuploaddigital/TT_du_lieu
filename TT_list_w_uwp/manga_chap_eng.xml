@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 931</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>haikyuu!!</ten_truyen>
+		<ma_truyen>haikyuu</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/21593/26/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haikyuu-eng.xml</file_xml>
+		<chap_moi>chap 336</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>azumi</ten_truyen>
+		<ma_truyen>azumi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/22943/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/azumi-eng.xml</file_xml>
+		<chap_moi>chap 220</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>tate no yuusha no nariagari</ten_truyen>
 		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/28080/4/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hare-kon-eng.xml</file_xml>
 		<chap_moi>chap 150</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tate no yuusha no nariagari</ten_truyen>
-		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tate-no-yuusha-no-nariagari-eng.xml</file_xml>
-		<chap_moi>chap 50</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>youjo senki</ten_truyen>
-		<ma_truyen>youjo-senki</ma_truyen>
-		<hinh_nho>https://i.ebayimg.com/images/g/gVQAAOSwY3BZN1Cj/s-l300.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youjo-senki-eng.xml</file_xml>
-		<chap_moi>chap 37</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>koi inu.</ten_truyen>
-		<ma_truyen>koi-inu</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/33554/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-inu-eng.xml</file_xml>
-		<chap_moi>chap 158</chap_moi>
 	</truyen>
 </danh_sach_truyen>
