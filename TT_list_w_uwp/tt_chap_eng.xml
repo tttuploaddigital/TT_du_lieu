@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>west coast avengers (2018)</ten_truyen>
+		<ma_truyen>west-coast-avengers-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/west-coast-avengers-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/west-coast-avengers-2018-eng.xml</file_xml>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the flash (2016)</ten_truyen>
+		<ma_truyen>the-flash-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
+		<chap_moi>issue 63</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>zombie tramp (2014)</ten_truyen>
+		<ma_truyen>zombie-tramp-2014</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/z/zombie-tramp/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/zombie-tramp-2014-eng.xml</file_xml>
+		<chap_moi>issue 56</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tenkuu shinpan</ten_truyen>
+		<ma_truyen>tenkuu-shinpan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tenkuu-shinpan-eng.xml</file_xml>
+		<chap_moi>chap 248</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kiss x sis</ten_truyen>
+		<ma_truyen>kiss-x-sis</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5162/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kiss-x-sis-eng.xml</file_xml>
+		<chap_moi>chap 129</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mai ball!</ten_truyen>
+		<ma_truyen>mai-ball</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38802/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mai-ball-eng.xml</file_xml>
+		<chap_moi>chap 106.1</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>i the female robot</ten_truyen>
+		<ma_truyen>i-the-female-robot</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/4082/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/i-the-female-robot-eng.xml</file_xml>
+		<chap_moi>chap 165</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>my love tiger</ten_truyen>
+		<ma_truyen>my-love-tiger</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/30148/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/my-love-tiger-eng.xml</file_xml>
+		<chap_moi>chap 132</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>a journey to the past</ten_truyen>
+		<ma_truyen>a-journey-to-the-past</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/42922/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/a-journey-to-the-past-eng.xml</file_xml>
+		<chap_moi>chap 113</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>x-force (2018)</ten_truyen>
 		<ma_truyen>x-force-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-force-(2018)/1_medium.jpg</hinh_nho>
@@ -251,67 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/33201/4/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-no-hajimekata-eng.xml</file_xml>
 		<chap_moi>chap 23</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>titans (2016) </ten_truyen>
-		<ma_truyen>titans-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/titans-2016-eng.xml</file_xml>
-		<chap_moi>issue 33</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the flash (2016)</ten_truyen>
-		<ma_truyen>the-flash-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
-		<chap_moi>issue 62</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gideon falls</ten_truyen>
-		<ma_truyen>gideon-falls</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/gideon-falls/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gideon-falls-eng.xml</file_xml>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>origin  </ten_truyen>
-		<ma_truyen>origin</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/43656/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/origin-eng.xml</file_xml>
-		<chap_moi>chap 79</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mahou tsukai no yome</ten_truyen>
-		<ma_truyen>mahou-tsukai-no-yome</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/25056/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-tsukai-no-yome-eng.xml</file_xml>
-		<chap_moi>chap 53</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mahou shoujo site</ten_truyen>
-		<ma_truyen>mahou-shoujo-site</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
-		<chap_moi>chap 112</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tales of demons and gods</ten_truyen>
-		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tales-of-demons-and-gods-eng.xml</file_xml>
-		<chap_moi>chap 207.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hunter age</ten_truyen>
-		<ma_truyen>hunter-age</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/0b/a4/0ba4a72a80865369353d93afb10c6dfc90595237_30222_200_282.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/hunter-age-eng.xml</file_xml>
-		<chap_moi>chap 186</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star martial god technique</ten_truyen>
-		<ma_truyen>star-martial-god-technique</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/44777/1/200.jpg</hinh_nho>
-		<chap_moi>chap 212</chap_moi>
 	</truyen>
 </danh_sach_truyen>

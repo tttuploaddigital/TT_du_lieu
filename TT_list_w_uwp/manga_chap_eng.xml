@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>tenkuu shinpan</ten_truyen>
+		<ma_truyen>tenkuu-shinpan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tenkuu-shinpan-eng.xml</file_xml>
+		<chap_moi>chap 248</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kiss x sis</ten_truyen>
+		<ma_truyen>kiss-x-sis</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5162/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kiss-x-sis-eng.xml</file_xml>
+		<chap_moi>chap 129</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mai ball!</ten_truyen>
+		<ma_truyen>mai-ball</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38802/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mai-ball-eng.xml</file_xml>
+		<chap_moi>chap 106.1</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>one piece</ten_truyen>
 		<ma_truyen>one-piece</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/38108/6/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hatsukoi-zombie-eng.xml</file_xml>
 		<chap_moi>chap 143</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>bungou stray dogs</ten_truyen>
-		<ma_truyen>bungou-stray-dogs</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/25742/6/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bungou-stray-dogs-eng.xml</file_xml>
-		<chap_moi>chap 69</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>koi to uso</ten_truyen>
-		<ma_truyen>koi-to-uso</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/28014/9/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-to-uso-eng.xml</file_xml>
-		<chap_moi>chap 190</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hare kon.</ten_truyen>
-		<ma_truyen>hare-kon</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28080/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hare-kon-eng.xml</file_xml>
-		<chap_moi>chap 150</chap_moi>
 	</truyen>
 </danh_sach_truyen>
