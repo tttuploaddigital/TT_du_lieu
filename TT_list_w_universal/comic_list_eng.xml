@@ -1917,6 +1917,15 @@
         <gioi_thieu>When a young John Wick emerges from prison and embarks upon his first, epic vendetta, he comes up against a strange, powerful community of assassins and must learn how to master the Book of Rules that guides their lethal business. What are the Three Bills? Who is Calamity? And who was John Wick before he became the Baba Yaga? Here for the first time, read the thrilling origin story of John Wick, from 'Planet Hulk' writer Greg Pak and 'Dark Horse Presents' artist Giovanni Valletta.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/john-wick-eng.xml</file_xml>
     </truyen>
+	<truyen ten="journey into unknown worlds" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>journey into unknown worlds</ten_truyen>
+		<ma_truyen>journey-into-unknown-worlds</ma_truyen>
+        <tac_gia>Cullen Bunn, Clay McLeod Chapman, Francesco Manna</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/journey-into-unknown-worlds/1_medium.jpgg</hinh_nho>
+        <gioi_thieu>ALL-NEW SCI-FI STORY! In celebration of Marvel's 80th anniversary and the comic books that captivated hearts and minds across generations, join us for two scintillating sci-fi stories - the first an extraterrestrial adventure by Cullen Bunn the likes of which haven't been seen in this or any other decade, and the second a tale of terror by Clay McLeod Chapman that could take place in your very own back yard! The secrets of the universe lie waiting to be discovered, True-Believers, on a JOURNEY TO UNKNOWN WORLDS!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/journey-into-unknown-worlds-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="judge dredd: under siege" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>judge dredd: under siege</ten_truyen>
 		<ma_truyen>judge-dredd-under-siege</ma_truyen>
@@ -2312,6 +2321,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/m/multiple-man-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>MATTHEW ROSENBERG and ANDY MACDONALD BRING MULTIPLE MAN BACK FROM THE DEAD...SORT OF...MAYBE? A handful of people's favorite X-Man - Jamie Madrox - was alive for a while. Then he was dead. Now he's not. But he will be again if he doesn't kill himself trying to make sure he doesn't die. It makes sense when you read it. Trust us. In his fight to not die, Jamie has stumbled across a threat even greater than his own death, but fixing it might make it worse. Can he save the world from himself? On top of all that, the X-Men are mad at him now, and a mysterious new group of foes is after him, too. We can't tell you who they are, but they're pretty great.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/multiple-man-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="mysteries of love in space" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>mysteries of love in space</ten_truyen>
+		<ma_truyen>mysteries-of-love-in-space</ma_truyen>
+        <tac_gia>James Tynion IV, Tom Grummett</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mysteries-of-love-in-space/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sometimes love can make you feel like you’re from another planet...but what if you actually were? Join Superman, The New Gods, Green Lantern, Starro, Hawkgirl and even the Teen Titans' new sensation Crush for eight tales of romance that will whisk you to the moon and back!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/mysteries-of-love-in-space-eng.xml</file_xml>
     </truyen>
 	<truyen ten="nancy drew (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>nancy drew (2018)</ten_truyen>
@@ -3959,6 +3977,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/v/voltron-legendary-defender-(2017)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Voltron Legendary Defender returns! Voltron responds to a distress call, and discovers a group of alien settlers on a mining planet under attack by the Galra. But the attempted rescue is only the beginning of more exciting Voltron adventures from Tim Hedrick and Mitch Iverson, writers on the hit DreamWorks series on Netflix.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/voltron-legendary-defender-2017-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war is hell" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Life sucks, Military" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war is hell</ten_truyen>
+		<ma_truyen>war-is-hell</ma_truyen>
+        <tac_gia>Howard Chaykin, Phillip K. Johnson, Howard Chaykin</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-is-hell-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ALL-NEW WAR STORY! In honor of Marvel's 80th Anniversary and history with War Comics comes a brand new edition of WAR IS HELL with two fascinating and soul-crushing tales of War. 'In the Mood' by Howard Chaykin takes you to the skies as the Luftwaffe and RAF battle over the English Channel for a battle tale of bitter irony and 'War Glammer' by Phillip Kennedy Johnson brings you back to Earth in modern day Afghanistan with a story that will chill you to the bone.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/war-is-hell-eng.xml</file_xml>
     </truyen>
 	<truyen ten="warframe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>warframe</ten_truyen>
