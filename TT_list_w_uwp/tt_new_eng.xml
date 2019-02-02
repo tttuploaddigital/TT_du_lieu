@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="war is hell" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Life sucks, Military" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war is hell</ten_truyen>
+		<ma_truyen>war-is-hell</ma_truyen>
+        <tac_gia>Howard Chaykin, Phillip K. Johnson, Howard Chaykin</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-is-hell-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ALL-NEW WAR STORY! In honor of Marvel's 80th Anniversary and history with War Comics comes a brand new edition of WAR IS HELL with two fascinating and soul-crushing tales of War. 'In the Mood' by Howard Chaykin takes you to the skies as the Luftwaffe and RAF battle over the English Channel for a battle tale of bitter irony and 'War Glammer' by Phillip Kennedy Johnson brings you back to Earth in modern day Afghanistan with a story that will chill you to the bone.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/war-is-hell-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="mysteries of love in space" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>mysteries of love in space</ten_truyen>
+		<ma_truyen>mysteries-of-love-in-space</ma_truyen>
+        <tac_gia>James Tynion IV, Tom Grummett</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mysteries-of-love-in-space/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sometimes love can make you feel like you’re from another planet...but what if you actually were? Join Superman, The New Gods, Green Lantern, Starro, Hawkgirl and even the Teen Titans' new sensation Crush for eight tales of romance that will whisk you to the moon and back!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/mysteries-of-love-in-space-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="journey into unknown worlds" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>journey into unknown worlds</ten_truyen>
+		<ma_truyen>journey-into-unknown-worlds</ma_truyen>
+        <tac_gia>Cullen Bunn, Clay McLeod Chapman, Francesco Manna</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/journey-into-unknown-worlds/1_medium.jpgg</hinh_nho>
+        <gioi_thieu>ALL-NEW SCI-FI STORY! In celebration of Marvel's 80th anniversary and the comic books that captivated hearts and minds across generations, join us for two scintillating sci-fi stories - the first an extraterrestrial adventure by Cullen Bunn the likes of which haven't been seen in this or any other decade, and the second a tale of terror by Clay McLeod Chapman that could take place in your very own back yard! The secrets of the universe lie waiting to be discovered, True-Believers, on a JOURNEY TO UNKNOWN WORLDS!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/journey-into-unknown-worlds-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="saikyou mahoushi no inton keikaku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, School life, Shounen., Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>saikyou mahoushi no inton keikaku</ten_truyen>
 		<ma_truyen>saikyou-mahoushi-no-inton-keikaku</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>Within the human body there is said to be approximately 60 million cells. White blood cells, red blood cells, platelets, macrophages, memory cells, killer T cells, natural killer cells, B cells, mast cells and many more! All these different cells work tirelessly within the body, never resting for a moment, at any time willing to resist invading foreign entities like germs and viruses to the bitter end! From Akane Shimizu, winner of Shounen Sirius' Rookie Award, comes an informative tale about anthropomorthized cells!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hataraku-saibou-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="freedom fighters (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>freedom fighters (2018)</ten_truyen>
-		<ma_truyen>freedom-fighters-2018</ma_truyen>
-        <tac_gia>Robert Venditti, Eddy Barrows</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/freedom-fighters-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Line up for this all-new maxiseries set on Earth X, where the Nazis won World War II! Twenty years after invading and occupying America, Germany wiped out all metahuman resistance, including the original Freedom Fighters. Fast-forward to the present day, and a new team of Freedom Fighters emerges to challenge the Nazi occupation once again. But if they're to have any chance of victory, they're going to need Uncle Sam-who disappeared after his original team was killed. The 12-part epic 'Death of a Nation' storyline kicks off here!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/freedom-fighters-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="black panther vs. deadpool" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>black panther vs. deadpool</ten_truyen>
-		<ma_truyen>black-panther-vs-deadpool</ma_truyen>
-        <tac_gia>Daniel Kibblesmith, Ricardo Lopez Ortiz</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/miles-morales-spider-man-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>VIBRANIUM BULLETS AND REGROWING LIMBS - EVERYTHING YOU WANT FROM A COMIC IS HERE! Deadpool's teamed up with, taken down or taken a beating from just about every hero in the Marvel Universe - And no way is the Black Panther going to miss out on his turn! From Late Show writer Daniel Kibblesmith comes a hilarious romp through Wakanda as Deadpool goes on the hunt for the world's most valuable resource: Vibranium! When a beloved figure of the Marvel Universe becomes collateral damage in a fight between Deadpool and the Wrecker, the heroic Deadpool sets out to obtain a fragment of Vibranium that could save the victim's life. But his unconventional methods - ranging from poaching to dismemberment - don't sit well with the King of Wakanda, and Deadpool's about to learn that you don't bring a sword to a claw fight!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-panther-vs-deadpool-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="john wick" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>john wick</ten_truyen>
-		<ma_truyen>john-wick</ma_truyen>
-        <tac_gia>Greg Pak, Giovanni Valletta</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/john-wick/1_medium.jpg</hinh_nho>
-        <gioi_thieu>When a young John Wick emerges from prison and embarks upon his first, epic vendetta, he comes up against a strange, powerful community of assassins and must learn how to master the Book of Rules that guides their lethal business. What are the Three Bills? Who is Calamity? And who was John Wick before he became the Baba Yaga? Here for the first time, read the thrilling origin story of John Wick, from 'Planet Hulk' writer Greg Pak and 'Dark Horse Presents' artist Giovanni Valletta.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/john-wick-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

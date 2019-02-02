@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="war is hell" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Life sucks, Military" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war is hell</ten_truyen>
+		<ma_truyen>war-is-hell</ma_truyen>
+        <tac_gia>Howard Chaykin, Phillip K. Johnson, Howard Chaykin</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-is-hell-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ALL-NEW WAR STORY! In honor of Marvel's 80th Anniversary and history with War Comics comes a brand new edition of WAR IS HELL with two fascinating and soul-crushing tales of War. 'In the Mood' by Howard Chaykin takes you to the skies as the Luftwaffe and RAF battle over the English Channel for a battle tale of bitter irony and 'War Glammer' by Phillip Kennedy Johnson brings you back to Earth in modern day Afghanistan with a story that will chill you to the bone.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/war-is-hell-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="mysteries of love in space" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>mysteries of love in space</ten_truyen>
+		<ma_truyen>mysteries-of-love-in-space</ma_truyen>
+        <tac_gia>James Tynion IV, Tom Grummett</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mysteries-of-love-in-space/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Sometimes love can make you feel like you’re from another planet...but what if you actually were? Join Superman, The New Gods, Green Lantern, Starro, Hawkgirl and even the Teen Titans' new sensation Crush for eight tales of romance that will whisk you to the moon and back!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/mysteries-of-love-in-space-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="journey into unknown worlds" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>journey into unknown worlds</ten_truyen>
+		<ma_truyen>journey-into-unknown-worlds</ma_truyen>
+        <tac_gia>Cullen Bunn, Clay McLeod Chapman, Francesco Manna</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/journey-into-unknown-worlds/1_medium.jpgg</hinh_nho>
+        <gioi_thieu>ALL-NEW SCI-FI STORY! In celebration of Marvel's 80th anniversary and the comic books that captivated hearts and minds across generations, join us for two scintillating sci-fi stories - the first an extraterrestrial adventure by Cullen Bunn the likes of which haven't been seen in this or any other decade, and the second a tale of terror by Clay McLeod Chapman that could take place in your very own back yard! The secrets of the universe lie waiting to be discovered, True-Believers, on a JOURNEY TO UNKNOWN WORLDS!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/journey-into-unknown-worlds-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="guardians of the galaxy (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>guardians of the galaxy (2019)</ten_truyen>
 		<ma_truyen>guardians-of-the-galaxy-2019</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/v/van-helsing-sword-of-heaven/1_medium.jpg</hinh_nho>
         <gioi_thieu>Is an ancient weapon feared by every undead creature a myth or a reality? Liesel is willing to risk everything, her life included, to get her hands on the legendary blade that could bring an end to vampirism the world over. Her quest takes her to a remote corner of India and beyond reality on an adventure that could bring her the vengeance she seeks if it doesn't drive her mad first.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/van-helsing-sword-of-heaven-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-men: black - emma frost" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>x-men: black - emma frost</ten_truyen>
-		<ma_truyen>x-men-black-emma-frost</ma_truyen>
-        <tac_gia>Leah Williams, Chris Bachalo</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-men-black-(2018)/emma-frost_1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE DIAMOND DIVA STRIKES BACK! Before she was an X-Man, Emma Frost was White Queen of the Hellfire Club where she labored under the yolk of Sebastian Shaw, the Black King. Now she sets her sights on the club, determined to tear down the organization that wronged her...if she can convince the X-Men to help out. PLUS: Part 5 of X-MEN BLACK: APOCALYPSE!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/x-men-black-emma-frost-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="suicide squad: black files" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>suicide squad: black files</ten_truyen>
-		<ma_truyen>suicide-squad-black-files</ma_truyen>
-        <tac_gia>Mike W. Barr, Jai Nitz, Phil Briones, Scot Eaton</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-black-files/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Sebastian Faust, the U.S. government's top arcane operative, has gone rogue! To track down America's most dangerous magician, Amanda Waller assembles a special-ops team unlike any other: an expendable coven of dark-arts experts including El Diablo, Enchantress and Gentleman Ghost. They are Suicide Squad Black, and they will take you to places where even the dead can die!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-black-files-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="runaways (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>runaways (2017)</ten_truyen>
-		<ma_truyen>runaways-2017</ma_truyen>
-        <tac_gia> Rainbow Rowell, Kris Anka</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/runaways-(2017)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>GET READY TO RUN! The 'IT' book of the early 2000s with the original cast is back - Nico! Karolina! Molly! Chase! Old Lace! And, could it be? GERT?! The heart of the Runaways died years ago, but you won't believe how she returns! Superstar author Rainbow Rowell (Eleanor and Park, Carry On) makes her Marvel debut with fan-favorite artist Kris Anka (ALL-NEW X-MEN, CAPTAIN MARVEL) in the series that will shock you and break your heart!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/runaways-2017-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
