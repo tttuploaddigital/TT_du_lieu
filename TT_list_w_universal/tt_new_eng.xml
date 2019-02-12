@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="isekai nonbiri nouka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Harem, Romance, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>isekai nonbiri nouka</ten_truyen>
+		<ma_truyen>isekai-nonbiri-nouka</ma_truyen>
+		<tac_gia>Naitou Kinosuke, Tsurugi Yasuyuki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/76/1d/761d5a2bf2928affa2a11536252d59c2f3dc162d_38842_200_283.jpg</hinh_nho>
+		<gioi_thieu>You know the deal by now. Middle-aged office worker gets sick and dies. He meets God, who tells him that he can be reincarnated in a new world. Our main character accepts, and decides to become a farmer. Welcome to farming in an alternate world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-nonbiri-nouka-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="nekomusume shoukougun" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shoujo ai, Supernatural, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>nekomusume shoukougun</ten_truyen>
+		<ma_truyen>nekomusume-shoukougun</ma_truyen>
+		<tac_gia>Nekotarou</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/0f/82/0f82e1b5191aef747f773c56f356890646246320_45357_200_284.jpg</hinh_nho>
+		<gioi_thieu>Catulus Syndrome - A strange illness which causes girls to develop catlike traits. Modern science has figured out two things about this illness: 1. They're really cute! 2. There's a high chance of making girls' hearts flutter.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nekomusume-shoukougun-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="yowamushi pedal" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>yowamushi pedal</ten_truyen>
+		<ma_truyen>yowamushi-pedal</ma_truyen>
+		<tac_gia>Watanabe Wataru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/0c/bf/0cbf048ba5291455f3e61fec50a745f57ea4343b_48679_200_308.jpg</hinh_nho>
+		<gioi_thieu>Otaku Sakamichi Onoda has just entered high school and plans to join the anime club. In middle school, Onoda didn't have any friends with whom he could talk about anime, games, Akihabara and other otaku things, and he is hoping he can make such friends in the anime club, but he finds out it's been disbanded. In order to reestablish the club he tries to find 4 other people who would like to join. Since he was a little boy, Onoda has ridden his mamachari–a bulky bicycle with a step-through frame mainly used for short rides, such as for casual fun or to pick up groceries-to go to Akihabara every week to check out or buy otaku things. Fellow freshman Shunsuke Imaizumi and bicyclist, while training, notices a boy (Onoda) riding his mamachari up a steep road. Freshman and road racing cyclist, Shokichi Naruko visits Akihabara to get some Gundam plastic models for his younger brothers and meets Onoda who catches his attention because of the his cycling skill on the mamachari and later find out they go to the same school. Later on, both Naruko and Imaizumi try to convince him to join the bicycle racing club, but will he?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yowamushi-pedal-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="war is hell" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Life sucks, Military" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>war is hell</ten_truyen>
 		<ma_truyen>war-is-hell</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>Otto Octavius leaves the moniker of Doctor Octopus behind and once again becomes THE SUPERIOR SPIDER-MAN! If you think you've already read the most intense and surprisingly heartbreaking Superior Spider-Man story, prepare to be wrong. Otto is going to prove to the world that he's the most effective and (to him at least) the best super hero in the world. But when a villain that overpowers him by so much shows up in San Francisco, there's no way Ock can win, right? Can you see Otto smirking from where you're reading this?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superior-spider-man-2018-eng.xml</file_xml>
     </truyen>
-	<truyen ten="amatsuki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Historical, Josei, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>amatsuki</ten_truyen>
-		<ma_truyen>amatsuki</ma_truyen>
-		<tac_gia>Takayama Shinobu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/a7/1c/a71c3e87bb8e16f244a7bc3d9f6c76aeec1505ee_32870_200_314.jpg</hinh_nho>
-		<gioi_thieu>History isn't Tokidoki's strong subject. He's even forced to do make-up work at a high-tech history museum to bring up his failing grades. After losing an eye to a virtual reality monster in an Edo-period simulation, he finds himself unable to leave the game. Could it be real?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/amatsuki-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kanamemo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Seinen, Shoujo ai, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kanamemo</ten_truyen>
-		<ma_truyen>kanamemo</ma_truyen>
-		<tac_gia>Iwami Shouko</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/26/c7/26c7e682668b7fe2d47e0d1a7f8eaf80bc45a607_35176_200_290.jpg</hinh_nho>
-		<gioi_thieu>Nakamachi Kana is a junior high school girl. Her grandmother passed away and she was left all alone. She finds a newspaper carrier station and starts working as a live-in carrier. Her room has a hole in the wall. Other female workers living next doors come in through the hole and start a wild merrymaking.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kanamemo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="hataraku saibou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>hataraku saibou</ten_truyen>
-		<ma_truyen>hataraku-saibou</ma_truyen>
-		<tac_gia>Shimizu Akane</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1b/6d/1b6dbbac9669c2b7e491606c35eac89fc68811a4_31145_200_266.jpg</hinh_nho>
-		<gioi_thieu>Within the human body there is said to be approximately 60 million cells. White blood cells, red blood cells, platelets, macrophages, memory cells, killer T cells, natural killer cells, B cells, mast cells and many more! All these different cells work tirelessly within the body, never resting for a moment, at any time willing to resist invading foreign entities like germs and viruses to the bitter end! From Akane Shimizu, winner of Shounen Sirius' Rookie Award, comes an informative tale about anthropomorthized cells!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hataraku-saibou-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
