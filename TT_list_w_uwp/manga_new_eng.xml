@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="isekai nonbiri nouka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Harem, Romance, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>isekai nonbiri nouka</ten_truyen>
+		<ma_truyen>isekai-nonbiri-nouka</ma_truyen>
+		<tac_gia>Naitou Kinosuke, Tsurugi Yasuyuki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/76/1d/761d5a2bf2928affa2a11536252d59c2f3dc162d_38842_200_283.jpg</hinh_nho>
+		<gioi_thieu>You know the deal by now. Middle-aged office worker gets sick and dies. He meets God, who tells him that he can be reincarnated in a new world. Our main character accepts, and decides to become a farmer. Welcome to farming in an alternate world.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-nonbiri-nouka-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="nekomusume shoukougun" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shoujo ai, Supernatural, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>nekomusume shoukougun</ten_truyen>
+		<ma_truyen>nekomusume-shoukougun</ma_truyen>
+		<tac_gia>Nekotarou</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/0f/82/0f82e1b5191aef747f773c56f356890646246320_45357_200_284.jpg</hinh_nho>
+		<gioi_thieu>Catulus Syndrome - A strange illness which causes girls to develop catlike traits. Modern science has figured out two things about this illness: 1. They're really cute! 2. There's a high chance of making girls' hearts flutter.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nekomusume-shoukougun-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="yowamushi pedal" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>yowamushi pedal</ten_truyen>
+		<ma_truyen>yowamushi-pedal</ma_truyen>
+		<tac_gia>Watanabe Wataru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/0c/bf/0cbf048ba5291455f3e61fec50a745f57ea4343b_48679_200_308.jpg</hinh_nho>
+		<gioi_thieu>Otaku Sakamichi Onoda has just entered high school and plans to join the anime club. In middle school, Onoda didn't have any friends with whom he could talk about anime, games, Akihabara and other otaku things, and he is hoping he can make such friends in the anime club, but he finds out it's been disbanded. In order to reestablish the club he tries to find 4 other people who would like to join. Since he was a little boy, Onoda has ridden his mamachari–a bulky bicycle with a step-through frame mainly used for short rides, such as for casual fun or to pick up groceries-to go to Akihabara every week to check out or buy otaku things. Fellow freshman Shunsuke Imaizumi and bicyclist, while training, notices a boy (Onoda) riding his mamachari up a steep road. Freshman and road racing cyclist, Shokichi Naruko visits Akihabara to get some Gundam plastic models for his younger brothers and meets Onoda who catches his attention because of the his cycling skill on the mamachari and later find out they go to the same school. Later on, both Naruko and Imaizumi try to convince him to join the bicycle racing club, but will he?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yowamushi-pedal-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="saikyou mahoushi no inton keikaku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, School life, Shounen., Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>saikyou mahoushi no inton keikaku</ten_truyen>
 		<ma_truyen>saikyou-mahoushi-no-inton-keikaku</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/2586/1/200.jpg</hinh_nho>
 		<gioi_thieu>Haiba Sumio is a student at a Tokyo High School with an interesting ability... He occasionally falls asleep and wakes up with premonitions of the future written out on his 'Dream Diary'. With this ability, Sumio helps out people in trouble before anything bad happens, until one day when his peaceful life completely changes.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/enigma-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="akb49 - renai kinshi jourei" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Ecchi, Gender bender, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>akb49 - renai kinshi jourei</ten_truyen>
-		<ma_truyen>akb49-renai-kinshi-jourei</ma_truyen>
-		<tac_gia>Motoazabu Factory, Miyajima Reiji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/505/3/200.jpg</hinh_nho>
-		<gioi_thieu>This series is about a guy called Urakawa Minoru crossdressing as a girl to participate in a female idol group audition (akb48). The main objective is to help the girl he likes, Yoshinaga Hiroko, pass the audition. Yoshinaga Hiroko's dream is to become like her favorite idol who is in the akb48 group. This audition happens to be her final try, so Minoru crossdresses as Minori and took part in the audition to make sure she realizes her dream. Hiroko got qualified eventually, however, the shocking news was Minoru was qualified as well. Thus, the road to becoming a female idol begins...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akb49-renai-kinshi-jourei-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kurosagi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mystery, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kurosagi</ten_truyen>
-		<ma_truyen>kurosagi</ma_truyen>
-		<tac_gia>Takeshi Natsuhara, Kuromaru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/5535/1/200.jpg</hinh_nho>
-		<gioi_thieu>White swindlers (shirosagi) are those that cheat people to take their money, red swindlers (akasagi) are those that swindle the opposite sex, and black swindlers (kurosagi) are those that cheat the white and red swindlers. After his family is swindled by white swindlers, Kurosaki sets out to avenge them by becoming a black swindler. Kurosagi won the 2008 Shogakukan Manga Award for seinen/general manga along with Tetsuji Sekiya's Bambino!.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kurosagi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mahou shoujo site" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Horror, Mature, Mystery, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>mahou shoujo site</ten_truyen>
-		<ma_truyen>mahou-shoujo-site</ma_truyen>
-		<tac_gia>Sato Kentarou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
-		<gioi_thieu>Asagiri Aya, a girl bullied at school and at home. One day, an eerie website, Mahou Shoujo Site, flashes on her computer screen and welcomes her to the Mahou Shoujo World.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
