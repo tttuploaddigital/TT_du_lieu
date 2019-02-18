@@ -291,6 +291,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>Strange things are appearing from the sky, and the world is slowly dying. In Korea, there aren't enough military men to fight these enemies off, and high-school and college students have no choice but to join the military and help the others survive - at the risk of their own lives.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/afterschool-war-activities-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="age of x-man: nextgen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>age of x-man: nextgen</ten_truyen>
+		<ma_truyen>age-of-x-man-nextgen</ma_truyen>
+        <tac_gia>Ed Brisson, Marcus To</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-nextgen/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ENTER THE AGE OF X-MAN! The perfect heroes for a perfect world! The X-Men have helped make the world into a utopia where living in fear and hatred is a thing of the past. All people are united under the banner of mutantkind, and all of mutantkind idolizes the X-Men. Jean Grey! Colossus! Storm! X-23! X-Man! Nature Girl! Magneto! And of course, the amazing Nightcrawler! When danger threatens the world, the Marvelous X-Men set things right for the good of all. And no one dares say otherwise.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-nextgen-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="agent 47: birth of the hitman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Spy, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>agent 47: birth of the hitman</ten_truyen>
 		<ma_truyen>agent-47-birth-of-the-hitman</ma_truyen>
@@ -809,6 +818,15 @@ This manga upload for Alisha from United Kingdom via request manga on Windows st
         <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Thor Odinson. Steve Rogers. Tony Stark. The Big Three of the Avengers are reunited at last! And just in time to save the world from total annihilation at the hands of their most powerful enemies yet: the 2000-foot-tall space gods known as Celestials. Behold the coming of the Final Host. Who will answer the call to assemble for a wild new era of Earth's Mightiest Heroes? Hint: one of them has a flaming skull for a head. And what strange, world-shaking connection exists between the Final Host and Odin's ancient band of Prehistoric Avengers?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="avengers: no road home" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>avengers: no road home</ten_truyen>
+		<ma_truyen>avengers-no-road-home</ma_truyen>
+        <tac_gia>Al Ewing, Mark Waid, Jim Zub, Paco Medina</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-no-road-home/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The team that brought you AVENGERS: NO SURRENDER REUNITES for an all-new weekly AVENGERS adventure! Night has fallen across the universe. Now seven Avengers - and one new addition - journey forth to bring back the light. But when the threat they face has destroyed even the gods...will anyone make it home?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-no-road-home-eng.xml</file_xml>
     </truyen>
 	<truyen ten="ayakashi koi emaki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Shoujo., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ayakashi koi emaki</ten_truyen>
@@ -10278,6 +10296,15 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
 		<gioi_thieu>On the planet of Hekiou, there is a continuing war between the first wave of immigrants and the second. An important section of the military uses a native creature, the Niebass, to give its soldiers translocation abilities. These soldiers are all women, with the alien creature transplanted into their wombs. Some people see this practice as a violation of human women by aliens, and Mana Oga's boyfriend has a similar perspective on the matter. Mana Oga is a new soldier in this section, and the story follows her and the other women in her group who accept the alien creatures into their wombs in order to defend their homes.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/wombs-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="wonder twins" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>wonder twins</ten_truyen>
+		<ma_truyen>wonder-twins</ma_truyen>
+        <tac_gia>Mark Russell, Stephen Byrne</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-twins-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Exiled from their home planet, alien heroes Zan and Jayna must navigate life as teens on Earth at South Metropolis High School, where they're even bigger outsiders than the typical awkward young adults. Under the watchful eye of Superman, the brother and sister pull monitor duty at the Hall of Justice as interns, while also trying to overcome the pitfalls of Zan's brash confidence and Jayna's shy but streetwise persona. If you think you know the Wonder Twins, think again-this book takes the form of the unexpected.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-twins-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="wonder woman (1987)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies, Mythology, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>wonder woman (1987)</ten_truyen>
 		<ma_truyen>wonder-woman-1987</ma_truyen>
