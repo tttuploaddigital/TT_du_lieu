@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>superman (2018)</ten_truyen>
+		<ma_truyen>superman-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/superman-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superman-2018-eng.xml</file_xml>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mr. and mrs. x</ten_truyen>
+		<ma_truyen>mr-and-mrs-x</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mr-and-mrs-x/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mr-and-mrs-x-eng.xml</file_xml>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>red hood and the outlaws (2016)</ten_truyen>
+		<ma_truyen>red-hood-and-the-outlaws-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/red-hood-and-the-outlaws-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-hood-and-the-outlaws-2016-eng.xml</file_xml>
+		<chap_moi>issue 16</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>spider-man / deadpool</ten_truyen>
 		<ma_truyen>spider-man-deadpool</ma_truyen>
         <hinh_nho>https://images-na.ssl-images-amazon.com/images/I/61pFDQdn%2BJL._SY346_.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-astonisher/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/astonisher-eng.xml</file_xml>
 		<chap_moi>issue 14</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
-		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
-		<chap_moi>issue 13</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>harley quinn (2016)</ten_truyen>
-		<ma_truyen>harley-quinn-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
-		<chap_moi>issue 57</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-23 (2018)</ten_truyen>
-		<ma_truyen>x-23-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
-		<chap_moi>issue 8</chap_moi>
 	</truyen>
 </danh_sach_truyen>

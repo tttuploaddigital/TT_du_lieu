@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 933</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tsuyokute new saga</ten_truyen>
+		<ma_truyen>tsuyokute-new-saga</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
+		<chap_moi>chap 60</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tsuki ga michibiku isekai douchuu</ten_truyen>
+		<ma_truyen>tsuki-ga-michibiku-isekai-douchuu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/35174/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuki-ga-michibiku-isekai-douchuu-eng.xml</file_xml>
+		<chap_moi>chap 38</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>onepunch-man</ten_truyen>
 		<ma_truyen>onepunch-man</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W300/1b/67/1b67039dc8e2b00e0fecd3098f26fc4aa03bd388_36819_200_313.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/marry-grave-eng.xml</file_xml>
 		<chap_moi>chap 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>karate shoukoushi kohinata minoru</ten_truyen>
-		<ma_truyen>karate-shoukoushi-kohinata-minoru</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/36/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/karate-shoukoushi-kohinata-minoru-eng.xml</file_xml>
-		<chap_moi>chap 497</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>keijo!!!!!!!!</ten_truyen>
-		<ma_truyen>keijo</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/24760/11/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/keijo-eng.xml</file_xml>
-		<chap_moi>chap 167</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>giant killing</ten_truyen>
-		<ma_truyen>giant-killing</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
-		<chap_moi>chap 288</chap_moi>
 	</truyen>
 </danh_sach_truyen>
