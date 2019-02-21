@@ -3,769 +3,1040 @@
     <noi_dung>
 
         <!-- https://mangapark.me/manga/shen-yi-di-nu-ping-ping-jun -->
-		<!-- thieu chap 7 den 10 39 40 47 48 60 61 -->
+		<!-- https://manganelo.com/manga/shen_yi_di_nu -->
 
 		<!-- them -->
 
+		<!-- chap 86.5 -->
+		<chuong ten_chuong="chap 86.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_865/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 86.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_865/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 86.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_865/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 86.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_865/4.jpg</hinh></chuong>
+
+		<!-- chap 86 -->
+		<chuong ten_chuong="chap 86"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_86/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 86"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_86/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 86"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_86/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 86"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_86/4.jpg</hinh></chuong>
+
+		<!-- chap 85.5 -->
+		<chuong ten_chuong="chap 85.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_855/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 85.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_855/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 85.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_855/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 85.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_855/4.jpg</hinh></chuong>
+
+		<!-- chap 85 -->
+		<chuong ten_chuong="chap 85"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_85/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 85"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_85/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 85"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_85/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 85"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_85/4.jpg</hinh></chuong>
+
+		<!-- chap 84.5 -->
+		<chuong ten_chuong="chap 84.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_845/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 84.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_845/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 84.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_845/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 84.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_845/4.jpg</hinh></chuong>
+
+		<!-- chap 84 -->
+		<chuong ten_chuong="chap 84"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_84/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 84"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_84/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 84"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_84/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 84"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_84/4.jpg</hinh></chuong>
+
+		<!-- chap 83.5 -->
+		<chuong ten_chuong="chap 83.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_835/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 83.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_835/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 83.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_835/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 83.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_835/4.jpg</hinh></chuong>
+
+		<!-- chap 83 -->
+		<chuong ten_chuong="chap 83"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_83/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 83"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_83/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 83"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_83/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 83"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_83/4.jpg</hinh></chuong>
+
+		<!-- chap 82.5 -->
+		<chuong ten_chuong="chap 82.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_825/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 82.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_825/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 82.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_825/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 82.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_825/4.jpg</hinh></chuong>
+
+		<!-- chap 82 -->
+		<chuong ten_chuong="chap 82"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_82/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 82"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_82/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 82"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_82/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 82"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_82/4.jpg</hinh></chuong>
+
+		<!-- chap 81.5 -->
+		<chuong ten_chuong="chap 81.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_815/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 81.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_815/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 81.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_815/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 81.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_815/4.jpg</hinh></chuong>
+
+		<!-- chap 81 -->
+		<chuong ten_chuong="chap 81"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_81/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 81"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_81/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 81"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_81/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 81"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_81/4.jpg</hinh></chuong>
+
+		<!-- chap 80.5 -->
+		<chuong ten_chuong="chap 80.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_805/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 80.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_805/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 80.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_805/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 80.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_805/4.jpg</hinh></chuong>
+
+		<!-- chap 80 -->
+		<chuong ten_chuong="chap 80"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_80/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 80"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_80/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 80"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_80/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 80"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_80/5.jpg</hinh></chuong>
+
+		<!-- chap 79.5 -->
+		<chuong ten_chuong="chap 79.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_795/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 79.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_795/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 79.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_795/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 79.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_795/4.jpg</hinh></chuong>
+
+		<!-- chap 79 -->
+		<chuong ten_chuong="chap 79"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_79/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 79"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_79/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 79"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_79/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 79"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_79/4.jpg</hinh></chuong>
+
+		<!-- chap 78.5 -->
+		<chuong ten_chuong="chap 78.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_785/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 78.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_785/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 78.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_785/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 78.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_785/4.jpg</hinh></chuong>
+
+		<!-- chap 78 -->
+		<chuong ten_chuong="chap 78"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_78/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 78"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_78/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 78"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_78/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 78"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_78/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 78"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_78/5.jpg</hinh></chuong>
+
+		<!-- chap 77.5 -->
+		<chuong ten_chuong="chap 77.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_775/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 77.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_775/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 77.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_775/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 77.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_775/4.jpg</hinh></chuong>
+
+		<!-- chap 77 -->
+		<chuong ten_chuong="chap 77"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_77/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 77"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_77/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 77"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_77/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 77"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_77/4.jpg</hinh></chuong>
+
+		<!-- chap 76.5 -->
+		<chuong ten_chuong="chap 76.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_765/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 76.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_765/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 76.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_765/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 76.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_765/4.jpg</hinh></chuong>
+
+		<!-- chap 76 -->
+		<chuong ten_chuong="chap 76"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_76/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 76"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_76/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 76"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_76/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 76"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_76/4.jpg</hinh></chuong>
+
+		<!-- chap 75.5 -->
+		<chuong ten_chuong="chap 75.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_755/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 75.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_755/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 75.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_755/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 75.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_755/4.jpg</hinh></chuong>
+
+		<!-- chap 75 -->
+		<chuong ten_chuong="chap 75"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_75/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 75"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_75/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 75"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_75/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 75"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_75/4.jpg</hinh></chuong>
+
+		<!-- chap 74.5 -->
+		<chuong ten_chuong="chap 74.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_745/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 74.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_745/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 74.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_745/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 74.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_745/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 74.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_745/5.jpg</hinh></chuong>
+
+		<!-- chap 74 -->
+		<chuong ten_chuong="chap 74"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_74/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 74"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_74/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 74"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_74/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 74"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_74/4.jpg</hinh></chuong>
+
+		<!-- chap 73.5 -->
+		<chuong ten_chuong="chap 73.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_735/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 73.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_735/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 73.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_735/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 73.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_735/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 73.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_735/5.jpg</hinh></chuong>
+
+		<!-- chap 73 -->
+		<chuong ten_chuong="chap 73"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_73/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 73"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_73/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 73"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_73/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 73"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_73/4.jpg</hinh></chuong>
+
+		<!-- chap 72.5 -->
+		<chuong ten_chuong="chap 72.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_725/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 72.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_725/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 72.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_725/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 72.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_725/4.jpg</hinh></chuong>
+
+		<!-- chap 72 -->
+		<chuong ten_chuong="chap 72"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_72/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 72"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_72/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 72"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_72/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 72"><hinh>https://s8.mkklcdnv8.com/mangakakalot/s1/shen_yi_di_nu/chapter_72/4.jpg</hinh></chuong>
+
+		<!-- chap 71.5 -->
+		<chuong ten_chuong="chap 71.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_715/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 71.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_715/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 71.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_715/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 71.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_715/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 71.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_715/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 71.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_715/6.jpg</hinh></chuong>
+
+		<!-- chap 70.5 -->
+		<chuong ten_chuong="chap 70.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_705/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 70.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_705/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 70.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_705/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 70.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_705/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 70.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_705/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 70.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_705/6.jpg</hinh></chuong>
+
 		<!-- chap 67.5 -->
-		<chuong ten_chuong="chap 67.5"><hinh>http://file-comic-4.anyacg.co/images/82/ac/82accbc88ac203ae58aae376ab04257525e523f9_219814_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 67.5"><hinh>http://file-comic-4.anyacg.co/images/fa/2a/fa2a0dd6520a663de6730f67e4f6a77dd6b388f9_250012_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 67.5"><hinh>http://file-comic-4.anyacg.co/images/5f/67/5f673e0a4d638bdad111b2d53ae9494019fe9b9a_221483_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 67.5"><hinh>http://file-comic-4.anyacg.co/images/ea/76/ea76f8e132b51db9454338566b9f6117e45179b0_219077_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 67.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_675/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 67.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_675/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 67.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_675/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 67.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_675/4.jpg</hinh></chuong>
 
 		<!-- chap 67 -->
-		<chuong ten_chuong="chap 67"><hinh>http://file-comic-4.anyacg.co/images/f1/66/f1660aef7c5946bc52d08fb22eb0c4c8f5c2fb55_272754_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 67"><hinh>http://file-comic-4.anyacg.co/images/76/99/7699e1decedc9421eddb5b9218fd6cca5512bf73_259865_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 67"><hinh>http://file-comic-4.anyacg.co/images/ee/d3/eed3be15df0cc93c07ea32fedd51fcb782806d7b_255978_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 67"><hinh>http://file-comic-4.anyacg.co/images/5e/35/5e356de16f0c2406b0e974d0ac438140ed3ddeef_245084_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 67"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_67/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 67"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_67/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 67"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_67/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 67"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_67/4.jpg</hinh></chuong>
 
 		<!-- chap 66.5 -->
-		<chuong ten_chuong="chap 66.5"><hinh>http://file-comic-4.anyacg.co/images/96/81/968163ecbd56d15a514d41900dc1cbe813e00843_227759_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 66.5"><hinh>http://file-comic-4.anyacg.co/images/42/09/42099745cdd4f217b5775b920a390f9778c548fe_258772_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 66.5"><hinh>http://file-comic-4.anyacg.co/images/8a/6c/8a6c97405348c1295a0e63ce62bc419c1950ea76_244823_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 66.5"><hinh>http://file-comic-4.anyacg.co/images/4d/05/4d05c4898a0cf510120609e133e99a40645babeb_244809_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 66.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_665/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 66.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_665/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 66.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_665/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 66.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_665/4.jpg</hinh></chuong>
 
 		<!-- chap 66 -->
-		<chuong ten_chuong="chap 66"><hinh>http://file-comic-4.anyacg.co/images/f6/de/f6de3428fad7f5d12336dd7378642a8320bb022a_269507_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 66"><hinh>http://file-comic-4.anyacg.co/images/70/45/70454cb309d36dd52ceba7ec17d6e0a1c486c9f7_264169_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 66"><hinh>http://file-comic-4.anyacg.co/images/d8/b2/d8b293967208d7b6cdb301ce1fe2bfc24c2234bf_196515_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 66"><hinh>http://file-comic-4.anyacg.co/images/db/a2/dba2d381551ea903974c39710c8a22fb698d7207_235107_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 66"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_66/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 66"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_66/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 66"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_66/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 66"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_66/4.jpg</hinh></chuong>
 
 		<!-- chap 65.5 -->
-		<chuong ten_chuong="chap 65.5"><hinh>http://file-comic-4.anyacg.co/images/59/94/5994b48ba5e9427948c1f7198c8c60c5813a8fb4_278132_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 65.5"><hinh>http://file-comic-4.anyacg.co/images/94/bf/94bfae8eccaf9bc2c7b9b28bb7d351a14c2a6463_238221_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 65.5"><hinh>http://file-comic-4.anyacg.co/images/74/1c/741c528b4c45f1c6f7f2f5b8fb5cc801a5427070_258496_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 65.5"><hinh>http://file-comic-4.anyacg.co/images/9f/31/9f312dab91cf1320e3b454ef6bf417bf2a593d26_248693_800_1200.jpg</hinh></chuong>
-
-		<!-- chap 65 -->
-		<chuong ten_chuong="chap 65"><hinh>http://file-comic-4.anyacg.co/images/ef/34/ef34d050fec0324b907281d9d38f640b94d940a1_228158_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 65"><hinh>http://file-comic-4.anyacg.co/images/6f/96/6f9667275babe0d967355de433313789997626bf_263763_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 65"><hinh>http://file-comic-4.anyacg.co/images/62/6e/626e3d813bc07db8ab8ba32345df356e8d9a9a6b_241648_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 65"><hinh>http://file-comic-4.anyacg.co/images/22/d9/22d93f254cd3c1850250d6758d1137dcde7b5eb3_272162_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 65.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_655/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 65.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_655/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 65.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_655/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 65.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_655/4.jpg</hinh></chuong>
 
 		<!-- chap 64.5 -->
-		<chuong ten_chuong="chap 64.5"><hinh>http://file-comic-4.anyacg.co/images/9b/48/9b48e9353c5ecd40e72c33c17db1740d96b6fb7c_234784_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 64.5"><hinh>http://file-comic-4.anyacg.co/images/8a/d1/8ad1c7d217cd6979c67d38599d0ae1bf5fe39b23_261395_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 64.5"><hinh>http://file-comic-4.anyacg.co/images/5c/52/5c52ba5b7c20cedf671dcf5181609cfef1765b06_253204_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 64.5"><hinh>http://file-comic-4.anyacg.co/images/cf/32/cf322607510f43473d018aa2c9c32a54fbfa81b3_233344_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 64.5"><hinh>http://file-comic-4.anyacg.co/images/6a/ee/6aee448fb703f5769b686ee102326e13bbc5bc7a_13995_630_972.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 64.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_645/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 64.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_645/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 64.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_645/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 64.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_645/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 64.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_645/5.jpg</hinh></chuong>
 
 		<!-- chap 64 -->
-		<chuong ten_chuong="chap 64"><hinh>http://file-comic-4.anyacg.co/images/61/30/61305acb9a0c8a6310845760f21dcf1993ba6a63_255807_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 64"><hinh>http://file-comic-4.anyacg.co/images/c9/a0/c9a097c321bb520b081fd81a19fc3334d1086b5c_254052_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 64"><hinh>http://file-comic-4.anyacg.co/images/49/75/49757080a4e7e0adb742ba7023bc63fb0cfa3753_238937_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 64"><hinh>http://file-comic-4.anyacg.co/images/2b/d8/2bd890520bae2ec275b2646afab54a4907a679bf_252142_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 64"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_64/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 64"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_64/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 64"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_64/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 64"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_64/4.jpg</hinh></chuong>
 
 		<!-- chap 63.5 -->
-		<chuong ten_chuong="chap 63.5"><hinh>http://file-comic-4.anyacg.co/images/ff/38/ff38fdd2e338267224e1b5b4b8f9d154e4b02cb3_240520_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 63.5"><hinh>http://file-comic-4.anyacg.co/images/d8/9d/d89dcff7c0408eeafad85be7d37bf72e5787869f_240422_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 63.5"><hinh>http://file-comic-4.anyacg.co/images/3d/a8/3da8c981fd83a1f2ef029db326dc5d2db5511f0b_232006_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 63.5"><hinh>http://file-comic-4.anyacg.co/images/01/ff/01ffd2da47c2acae1bb5e6b5e17070822099db8a_281688_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 63.5"><hinh>http://file-comic-4.anyacg.co/images/6a/ee/6aee448fb703f5769b686ee102326e13bbc5bc7a_13995_630_972.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 63.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_635/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 63.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_635/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 63.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_635/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 63.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_635/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 63.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_635/5.jpg</hinh></chuong>
 
 		<!-- chap 63 -->
-		<chuong ten_chuong="chap 63"><hinh>http://file-comic-4.anyacg.co/images/1a/ec/1aec1a4a4ae3e8dc181bb1cd1ac6b4ba2a35ca3a_258721_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 63"><hinh>http://file-comic-4.anyacg.co/images/29/70/2970733e5b14ebfc317da7ea662a500504c27f81_287107_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 63"><hinh>http://file-comic-4.anyacg.co/images/1f/21/1f210b2b54ca3eb9656132323b1721498df4b025_223512_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 63"><hinh>http://file-comic-4.anyacg.co/images/16/1a/161a02c1627de1c6cea63c46ad60f600d3a2e896_265667_800_1200.jpg</hinh></chuong>
-
-		<!-- chap 62.5 -->
-		<chuong ten_chuong="chap 62.5"><hinh>http://file-comic-4.anyacg.co/images/c2/54/c2547f023a75df71f8c836ec692550645750e141_221223_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 62.5"><hinh>http://file-comic-4.anyacg.co/images/3b/37/3b372b5ba3ddf06f82a6635402ed86ce37c8b0af_221229_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 62.5"><hinh>http://file-comic-4.anyacg.co/images/f3/5f/f35f96a731398fb44f26e139341d442cb4cc49be_260323_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 62.5"><hinh>http://file-comic-4.anyacg.co/images/76/25/7625d892e9fd5102d32ae88ce2c2478e3ce65eb3_244997_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 62.5"><hinh>http://file-comic-4.anyacg.co/images/6a/ee/6aee448fb703f5769b686ee102326e13bbc5bc7a_13995_630_972.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 63"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_63/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 63"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_63/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 63"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_63/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 63"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_63/4.jpg</hinh></chuong>
 
 		<!-- chap 62 -->
-		<chuong ten_chuong="chap 62"><hinh>http://file-comic-4.anyacg.co/images/33/31/3331f6afd5758ed7e5d8d78b185778ff22015cc5_266024_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 62"><hinh>http://file-comic-4.anyacg.co/images/56/9d/569d1bded55e3d39c0a81e7754913420d6f8053c_254216_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 62"><hinh>http://file-comic-4.anyacg.co/images/62/d9/62d977fd31859fc0a28c2c09fb86ec0c43cfb4fb_261794_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 62"><hinh>http://file-comic-4.anyacg.co/images/d1/19/d11962f9ba696926e3f83b8d8dbc790d3761b185_249621_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 62"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_62/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 62"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_62/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 62"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_62/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 62"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_62/4.jpg</hinh></chuong>
 
 		<!-- chap 60.5 -->
-		<chuong ten_chuong="chap 60.5"><hinh>http://file-comic-4.anyacg.co/images/0a/1f/0a1f08f15f8ce1fb4de294168ad7ec5ec6972e35_136833_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 60.5"><hinh>http://file-comic-4.anyacg.co/images/e8/52/e852179ff43b130f66abff6c1612ae5ede445d4f_144590_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 60.5"><hinh>http://file-comic-4.anyacg.co/images/9b/39/9b394dc41e43aad7a1ed871e0891029f8d528d06_130752_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 60.5"><hinh>http://file-comic-4.anyacg.co/images/46/d4/46d4ebfee549efa083610acdf75a5c49bb719824_134632_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 60.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 60.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_605/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 60.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_605/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 60.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_605/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 60.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_605/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 60.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_605/5.jpg</hinh></chuong>
 
 		<!-- chap 59.5 -->
-		<chuong ten_chuong="chap 59.5"><hinh>http://file-comic-4.anyacg.co/images/f6/8c/f68c42f08472e4538d9600c16d5e012d5ce3c474_141878_715_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 59.5"><hinh>http://file-comic-4.anyacg.co/images/87/b1/87b192fa8921bf7aa6258caac055a2f5134890c1_150286_715_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 59.5"><hinh>http://file-comic-4.anyacg.co/images/aa/17/aa1721d0693a3da3279b80aacd8c2c2ef8af8ac3_147521_715_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 59.5"><hinh>http://file-comic-4.anyacg.co/images/a1/57/a15774f22721fe303929fba43517b1323280f281_142624_715_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 59.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 59.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_595/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 59.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_595/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 59.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_595/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 59.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_595/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 59.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_595/5.jpg</hinh></chuong>
 
 		<!-- chap 59 -->
-		<chuong ten_chuong="chap 59"><hinh>http://file-comic-4.anyacg.co/images/4d/ab/4dab81aaf5114f2ac6aed13becec35dda46c3c7e_141520_715_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 59"><hinh>http://file-comic-4.anyacg.co/images/18/8d/188dd7e8d085f8335b7c8e18adc07b2601bc1ba2_152991_715_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 59"><hinh>http://file-comic-4.anyacg.co/images/93/e6/93e6fc20d341f238fbd7da145be8939b0ee9679b_151482_715_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 59"><hinh>http://file-comic-4.anyacg.co/images/f6/7a/f67a35a4b87969c2e2b785e16093921adc3015dc_121126_715_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 59"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_59/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 59"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_59/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 59"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_59/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 59"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_59/4.jpg</hinh></chuong>
 
 		<!-- chap 58.5 -->
-		<chuong ten_chuong="chap 58.5"><hinh>http://file-comic-4.anyacg.co/images/5d/63/5d63fa5d383507b01c17546c78cb3233ff082e75_137531_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 58.5"><hinh>http://file-comic-4.anyacg.co/images/4a/fb/4afb93ef9de62e1a5b95b35c9d482d2fa807830a_145443_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 58.5"><hinh>http://file-comic-4.anyacg.co/images/76/79/767987559b0678799bb6f4abbb5e6d22967c6040_159386_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 58.5"><hinh>http://file-comic-4.anyacg.co/images/89/c0/89c0378a8c359633251a209c7af1d5d9d292c415_133057_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 58.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 58.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_585/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 58.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_585/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 58.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_585/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 58.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_585/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 58.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_585/5.jpg</hinh></chuong>
 
 		<!-- chap 58 -->
-		<chuong ten_chuong="chap 58"><hinh>http://file-comic-4.anyacg.co/images/a9/3e/a93e447668777ee772e0da7b53c477ca787db337_118600_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 58"><hinh>http://file-comic-4.anyacg.co/images/39/93/39934c6cab3d84486b21b5126156ed2605066e58_157644_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 58"><hinh>http://file-comic-4.anyacg.co/images/b2/3e/b23e3212c341244fe3a92514d633fab881378e39_127710_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 58"><hinh>http://file-comic-4.anyacg.co/images/67/b5/67b531c9003e2818e9c60dd26d7ea4939877873e_131260_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 58"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_58/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 58"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_58/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 58"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_58/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 58"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_58/4.jpg</hinh></chuong>
 
 		<!-- chap 57.5 -->
-		<chuong ten_chuong="chap 57.5"><hinh>http://file-comic-4.anyacg.co/images/2c/e7/2ce7c5814886aece8ba91f4a9facddcb7cf7ca53_123715_589_894.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 57.5"><hinh>http://file-comic-4.anyacg.co/images/31/ba/31ba135c3ab3480dee01f4cbe69481cfd09ac366_137056_589_892.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 57.5"><hinh>http://file-comic-4.anyacg.co/images/68/92/689248f0a64534408867cd0a72c527bdaf796c15_142116_592_898.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 57.5"><hinh>http://file-comic-4.anyacg.co/images/e7/0e/e70e1eda62e6adefb88a6216ea9f77b93ffe77ad_128619_595_897.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 57.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 57.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_575/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 57.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_575/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 57.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_575/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 57.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_575/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 57.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_575/5.jpg</hinh></chuong>
 
 		<!-- chap 57 -->
-		<chuong ten_chuong="chap 57"><hinh>http://file-comic-4.anyacg.co/images/61/86/6186c8a8ac73bbddd99f89769d060648edb4bcd2_131864_597_886.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 57"><hinh>http://file-comic-4.anyacg.co/images/4b/5f/4b5fc1e650b1c1c147b78beb3a500dc9b9f56801_133813_590_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 57"><hinh>http://file-comic-4.anyacg.co/images/a9/76/a9767f960ba21cea8a5384009b2aaac188d92b01_138366_588_895.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 57"><hinh>http://file-comic-4.anyacg.co/images/c8/a4/c8a435ad708398528147fc561b1749a7a13482b4_136614_590_895.jpg</hinh></chuong>
-
-		<!-- chap 56.5 -->
-		<chuong ten_chuong="chap 56.5"><hinh>http://file-comic-4.anyacg.co/images/69/ed/69edc6e762fc13590a20e6d11049d569698837f2_155869_680_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 56.5"><hinh>http://file-comic-4.anyacg.co/images/0c/c3/0cc3e8a7cf312132a7aaf37a7d4d42e66e8f2e40_147355_680_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 56.5"><hinh>http://file-comic-4.anyacg.co/images/18/d7/18d74b6c52eb5bd3f04768003ee874123ada9070_138494_680_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 56.5"><hinh>http://file-comic-4.anyacg.co/images/bd/2a/bd2aad3a6d2fd15cbe0b1654aaaa0917073c6f3f_147027_680_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 56.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 57"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_57/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 57"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_57/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 57"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_57/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 57"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_57/4.jpg</hinh></chuong>
 
 		<!-- chap 56 -->
-		<chuong ten_chuong="chap 56"><hinh>http://file-comic-4.anyacg.co/images/58/13/581359c0282a2e88538eea240522c398980061eb_140213_680_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 56"><hinh>http://file-comic-4.anyacg.co/images/c8/8f/c88f8faa8caff507fb3de86694c62c399a2628f6_131954_680_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 56"><hinh>http://file-comic-4.anyacg.co/images/58/28/5828fd04a00d05d5def80aaf0bf9890e12a32bea_129544_680_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 56"><hinh>http://file-comic-4.anyacg.co/images/09/58/0958277db2112f89d519e0eed4457b98c2eefc3e_138083_680_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 56"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_56/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 56"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_56/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 56"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_56/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 56"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_56/4.jpg</hinh></chuong>
 
 		<!-- chap 55.5 -->
-		<chuong ten_chuong="chap 55.5"><hinh>http://file-comic-4.anyacg.co/images/53/f8/53f877a14d8b903250060dc3579c0734f429e849_134964_695_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 55.5"><hinh>http://file-comic-4.anyacg.co/images/a7/d1/a7d1e2af48efb711e937b61e1a5312a584737c25_134762_695_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 55.5"><hinh>http://file-comic-4.anyacg.co/images/cb/a5/cba54af5b1732532fd1618a627c4c8db79e0c1cf_135225_695_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 55.5"><hinh>http://file-comic-4.anyacg.co/images/5a/1d/5a1dca7d5db1aecc127f90982f0a3b036c617a72_138644_695_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 55.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_555/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 55.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_555/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 55.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_555/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 55.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_555/4.jpg</hinh></chuong>
 
 		<!-- chap 55 -->
-		<chuong ten_chuong="chap 55"><hinh>http://file-comic-4.anyacg.co/images/e6/6a/e66a927d0abd74678924e6f68b1f016949d5c06a_124966_695_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 55"><hinh>http://file-comic-4.anyacg.co/images/fd/a2/fda2bfa7785b5132dcd5061d31e4782c8cc02fb6_130890_695_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 55"><hinh>http://file-comic-4.anyacg.co/images/e1/d1/e1d143bc0f229188967316d933acf290005905ae_151298_695_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 55"><hinh>http://file-comic-4.anyacg.co/images/b2/67/b267a260f0da772d314e02f117e762bb90fa8f5c_149608_695_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 55"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_55/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 55"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_55/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 55"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_55/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 55"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_55/4.jpg</hinh></chuong>
 
 		<!-- chap 54.5 -->
-		<chuong ten_chuong="chap 54.5"><hinh>http://file-comic-4.anyacg.co/images/65/9f/659f278b1052de3ffc2446ddb7d12641d8719247_146244_633_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 54.5"><hinh>http://file-comic-4.anyacg.co/images/b8/a6/b8a6a0932dd15e23a5cfd0ee17172c42cd6e9f47_136322_633_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 54.5"><hinh>http://file-comic-4.anyacg.co/images/b7/b6/b7b6699bdf3cfe79ba3d23f3a4b360d9007ef231_154475_633_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 54.5"><hinh>http://file-comic-4.anyacg.co/images/68/1e/681ed01787bd0f3b120dbf53399c4c09ecb5821a_137752_633_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 54.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_545/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 54.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_545/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 54.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_545/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 54.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_545/4.jpg</hinh></chuong>
 
 		<!-- chap 54 -->
-		<chuong ten_chuong="chap 54"><hinh>http://file-comic-4.anyacg.co/images/04/25/042500cd08d2b4a7d86d170a034cefc7d3cd6bef_145464_633_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 54"><hinh>http://file-comic-4.anyacg.co/images/c5/96/c596bd500ad54295b4a2f9a567f5ef77ee896438_148672_633_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 54"><hinh>http://file-comic-4.anyacg.co/images/1f/71/1f7133ed85cb03d6d403106e26342258d3ff9d06_140538_633_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 54"><hinh>http://file-comic-4.anyacg.co/images/ba/68/ba683c51a0b9b2d7a100aa5bd2145778f63260f7_153707_633_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 54"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_54/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 54"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_54/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 54"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_54/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 54"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_54/4.jpg</hinh></chuong>
 
 		<!-- chap 53.5 -->
-		<chuong ten_chuong="chap 53.5"><hinh>http://file-comic-4.anyacg.co/images/b6/c3/b6c3e601db80a63bfe56504b744aa1d2e6c555f2_154307_667_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 53.5"><hinh>http://file-comic-4.anyacg.co/images/16/4e/164e6f10a3440fd55f20a5d9f03265fdba14ebda_156225_667_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 53.5"><hinh>http://file-comic-4.anyacg.co/images/65/13/65139c1412b4d7205c9d72b59483a954e7c514b1_157833_667_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 53.5"><hinh>http://file-comic-4.anyacg.co/images/1f/c7/1fc76816d0fc4211d8404eaedfc9b77eb209cabd_157168_667_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 53.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_535/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 53.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_535/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 53.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_535/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 53.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_535/4.jpg</hinh></chuong>
 
 		<!-- chap 53 -->
-		<chuong ten_chuong="chap 53"><hinh>http://file-comic-4.anyacg.co/images/ae/e7/aee7140393b93d20e957c8459b19cc3a865096e1_177038_667_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 53"><hinh>http://file-comic-4.anyacg.co/images/8c/c9/8cc94a44a2f8356a68d3118409f75824e5b8c649_157627_667_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 53"><hinh>http://file-comic-4.anyacg.co/images/5b/eb/5beb7ac9da14f44013ad684330c34b99c06ef255_159521_667_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 53"><hinh>http://file-comic-4.anyacg.co/images/75/79/75797da8ee08d351175b778328f536b394c7ac6c_148614_667_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 53"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_53/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 53"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_53/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 53"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_53/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 53"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_53/4.jpg</hinh></chuong>
 
 		<!-- chap 52.5 -->
-		<chuong ten_chuong="chap 52.5"><hinh>http://file-comic-4.anyacg.co/images/5e/e2/5ee2b2d0d54cb7e205a44cf701125b5797b2e0a0_156966_690_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 52.5"><hinh>http://file-comic-4.anyacg.co/images/a3/37/a337ad2edc2dc8962a466209724765137f38aef9_144375_690_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 52.5"><hinh>http://file-comic-4.anyacg.co/images/22/b1/22b1204b689d66346a3b28a535c70f6ad309ec2c_158792_690_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 52.5"><hinh>http://file-comic-4.anyacg.co/images/f0/14/f014517e93ab939ade89dfcbcfbd770f476cbacd_155516_690_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 52.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_525/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 52.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_525/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 52.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_525/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 52.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_525/4.jpg</hinh></chuong>
 
 		<!-- chap 52 -->
-		<chuong ten_chuong="chap 52"><hinh>http://file-comic-4.anyacg.co/images/a3/a3/a3a34c44be35729457aee632ae1e07ef5163bad5_149711_690_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 52"><hinh>http://file-comic-4.anyacg.co/images/07/58/0758e734a0ff0ffeb2650f8deac266ca22974493_155636_690_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 52"><hinh>http://file-comic-4.anyacg.co/images/f1/f3/f1f3ae2d3e1632697c7c9af7a324bfde849370ae_156262_690_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 52"><hinh>http://file-comic-4.anyacg.co/images/7f/6c/7f6cc010de7d913ded66647fbe7460c3243b53a9_147583_690_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 52"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_52/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 52"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_52/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 52"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_52/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 52"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_52/4.jpg</hinh></chuong>
 
 		<!-- chap 51.5 -->
-		<chuong ten_chuong="chap 51.5"><hinh>http://file-comic-4.anyacg.co/images/5e/f7/5ef772381e6b67b66bfa29ed71101ba3e7088353_159501_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 51.5"><hinh>http://file-comic-4.anyacg.co/images/8f/38/8f380d0ac7cd8378b95c0a21edc7a547961dc002_148543_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 51.5"><hinh>http://file-comic-4.anyacg.co/images/8c/c0/8cc0e5fdcfbaa61b50ae6a5def83166f2c8ce6ef_154832_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 51.5"><hinh>http://file-comic-4.anyacg.co/images/08/02/08026a8f2480df7636a7d98f8a261384c2677aa2_172087_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 51.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_515/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 51.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_515/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 51.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_515/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 51.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_515/4.jpg</hinh></chuong>
 
 		<!-- chap 51 -->
-		<chuong ten_chuong="chap 51"><hinh>http://file-comic-4.anyacg.co/images/2e/16/2e16829ac44a42beedc519c7513bb093a3fc64d8_166736_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 51"><hinh>http://file-comic-4.anyacg.co/images/67/38/673819ed7eb9c3d2d0850e846f5eb231c318e69e_158250_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 51"><hinh>http://file-comic-4.anyacg.co/images/a2/c8/a2c8561ecf501f2c14062066df505b0a37d8c2df_161311_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 51"><hinh>http://file-comic-4.anyacg.co/images/8d/43/8d43c45ca003810a641f4e460070a5ed40e35543_160875_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 51"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_51/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 51"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_51/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 51"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_51/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 51"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_51/4.jpg</hinh></chuong>
 
 		<!-- chap 50.5 -->
-		<chuong ten_chuong="chap 50.5"><hinh>http://file-comic-4.anyacg.co/images/1d/5c/1d5c274c931811ecc2ea42cd54f03a8987a9178b_137825_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 50.5"><hinh>http://file-comic-4.anyacg.co/images/ac/45/ac45fa53d7d3227ef689a82b4f1a1005469358b2_135389_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 50.5"><hinh>http://file-comic-4.anyacg.co/images/22/c7/22c7b125d8b6246c3fcf4274a966f0cb3e1e75a9_164214_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 50.5"><hinh>http://file-comic-4.anyacg.co/images/53/38/53384d98a3f24d1074c059d3643e3236158eab2d_151720_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 50.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 50.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_505/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 50.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_505/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 50.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_505/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 50.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_505/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 50.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_505/5.jpg</hinh></chuong>
 
 		<!-- chap 50 -->
-		<chuong ten_chuong="chap 50"><hinh>http://file-comic-4.anyacg.co/images/3e/0f/3e0f9960562d61cec4c8ea37ce59b5653546b80a_150870_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 50"><hinh>http://file-comic-4.anyacg.co/images/7a/0b/7a0bc35503a8a9c1c9038ed613b92d15c426bc03_140007_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 50"><hinh>http://file-comic-4.anyacg.co/images/f5/39/f539851e34476bd08c7e5b0ab1615f831cd2d576_146713_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 50"><hinh>http://file-comic-4.anyacg.co/images/3b/61/3b612b4b6a4026d1921a8e802cb201445b2ad451_158058_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 50"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_50/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 50"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_50/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 50"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_50/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 50"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_50/4.jpg</hinh></chuong>
 
 		<!-- chap 49.5 -->
-		<chuong ten_chuong="chap 49.5"><hinh>http://file-comic-4.anyacg.co/images/75/54/7554315fe78bf65c3c44045e476edf004e179e33_132129_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 49.5"><hinh>http://file-comic-4.anyacg.co/images/b2/ae/b2ae96a7bfc2b2ad41f2778d9ce907d5cf67f416_123435_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 49.5"><hinh>http://file-comic-4.anyacg.co/images/d4/61/d46173dedf6f8c2b5e51f26728fcd84662909bfb_125343_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 49.5"><hinh>http://file-comic-4.anyacg.co/images/aa/8d/aa8dee598c86ee9da731b183699b036a9068f30e_110717_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 49.5"><hinh>http://file-comic-4.anyacg.co/images/ec/1e/ec1e83d42b1ba754544ddece06e06f83ce166a5a_114014_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 49.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 49.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_495/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 49.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_495/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 49.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_495/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 49.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_495/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 49.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_495/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 49.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_495/6.jpg</hinh></chuong>
 
 		<!-- chap 49 -->
-		<chuong ten_chuong="chap 49"><hinh>http://file-comic-4.anyacg.co/images/41/6a/416a2aab952fd574cd91c049220006879eab9082_149244_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 49"><hinh>http://file-comic-4.anyacg.co/images/4c/61/4c615ca0041d78b39bb41d001e15d662ae0cf6c2_137658_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 49"><hinh>http://file-comic-4.anyacg.co/images/8f/0e/8f0e54883a775daa048122f8fe1dfd9485146fb7_140681_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 49"><hinh>http://file-comic-4.anyacg.co/images/f3/af/f3afe358db1848b2903109c6ad38d18810997018_120750_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 49"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_49/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 49"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_49/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 49"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_49/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 49"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_49/4.jpg</hinh></chuong>
 
 		<!-- chap 48.5 -->
-		<chuong ten_chuong="chap 48.5"><hinh>http://file-comic-4.anyacg.co/images/0b/8a/0b8a71ac64813dcbaffb8f0736ce183edf0996d1_137284_660_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 48.5"><hinh>http://file-comic-4.anyacg.co/images/16/18/161862f2823b1b1686219f241a307aaf5da21f79_113006_660_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 48.5"><hinh>http://file-comic-4.anyacg.co/images/ca/df/cadfd226065bb877f68fff299593ba35fc99eb65_126988_660_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 48.5"><hinh>http://file-comic-4.anyacg.co/images/14/18/14182006e97e9fcb7ce98cc5b69685e692256c01_124344_660_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 48.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 48.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_485/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 48.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_485/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 48.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_485/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 48.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_485/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 48.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_485/5.jpg</hinh></chuong>
 
 		<!-- chap 46.5 -->
-		<chuong ten_chuong="chap 46.5"><hinh>http://file-comic-4.anyacg.co/images/16/66/1666690f8f223220b8433e1383e7ca6cb98057b3_122576_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 46.5"><hinh>http://file-comic-4.anyacg.co/images/bf/18/bf18384d91d512e6bd59fe20ec87c4a389782e2c_117745_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 46.5"><hinh>http://file-comic-4.anyacg.co/images/0e/68/0e68452f1d852ae391c5ecf12bacb75b18bf97f8_103014_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 46.5"><hinh>http://file-comic-4.anyacg.co/images/27/47/2747217635590dc1f97fdafe545beecf3374bb26_116911_670_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 46.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_465/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 46.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_465/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 46.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_465/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 46.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_465/4.jpg</hinh></chuong>
 
 		<!-- chap 46 -->
-		<chuong ten_chuong="chap 46"><hinh>http://file-comic-4.anyacg.co/images/a8/48/a848ac8e39bbf67e66d44e30c8b285420d3011d9_113761_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 46"><hinh>http://file-comic-4.anyacg.co/images/da/a9/daa959b5b9d0924f5711d5533477373f6537ccf2_132924_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 46"><hinh>http://file-comic-4.anyacg.co/images/33/c0/33c0dcbcd1227037efc5a4e90d5a59a703e7aa13_101316_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 46"><hinh>http://file-comic-4.anyacg.co/images/61/ae/61aec6482231a856c789632af26724ccf07eec05_129273_670_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 46"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_46/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 46"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_46/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 46"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_46/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 46"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_46/4.jpg</hinh></chuong>
 
 		<!-- chap 45.5 -->
-		<chuong ten_chuong="chap 45.5"><hinh>http://file-comic-4.anyacg.co/images/11/08/1108f1d7cec2f7958e4ed12701c2b1d44308b42d_111378_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 45.5"><hinh>http://file-comic-4.anyacg.co/images/80/fc/80fce06da48168c95e182eab5bd720911252095e_118661_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 45.5"><hinh>http://file-comic-4.anyacg.co/images/1d/ac/1dac79252e4e8429952fa498ad56f4f4dfbd216c_124180_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 45.5"><hinh>http://file-comic-4.anyacg.co/images/58/8e/588e21f3e15df77b67dfb935b0608c7252dda5bd_110408_670_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 45.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_455/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 45.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_455/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 45.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_455/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 45.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_455/4.jpg</hinh></chuong>
 
 		<!-- chap 45 -->
-		<chuong ten_chuong="chap 45"><hinh>http://file-comic-4.anyacg.co/images/2c/52/2c52e5ff2d5183d1690861ddc186495e208b64b5_102712_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 45"><hinh>http://file-comic-4.anyacg.co/images/4d/92/4d92d07d8db97943777848aed2265c2d5b12d2a7_121084_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 45"><hinh>http://file-comic-4.anyacg.co/images/05/d2/05d29358c928a207013cf0185100297c6bdb8353_137964_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 45"><hinh>http://file-comic-4.anyacg.co/images/76/4b/764b871fdee40a6fd357d501eb846ed7080fc295_114562_670_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 45"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_45/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 45"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_45/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 45"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_45/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 45"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_45/4.jpg</hinh></chuong>
 
 		<!-- chap 44.5 -->
-		<chuong ten_chuong="chap 44.5"><hinh>http://file-comic-4.anyacg.co/images/9d/b6/9db64712cf8418d27f829e9fbe64108c2120ca65_128027_666_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 44.5"><hinh>http://file-comic-4.anyacg.co/images/61/b4/61b40cca8420441a0bf5dc7938d1911e8bb5c9dc_122366_666_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 44.5"><hinh>http://file-comic-4.anyacg.co/images/37/0f/370f67041c71dd763d9315ea2f4f9916674df4c4_121880_666_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 44.5"><hinh>http://file-comic-4.anyacg.co/images/39/7f/397fceed8eabd03696a6bc1c80efaa4461f21da6_109736_666_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 44.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_445/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 44.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_445/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 44.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_445/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 44.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_445/4.jpg</hinh></chuong>
 
 		<!-- chap 44 -->
-		<chuong ten_chuong="chap 44"><hinh>http://file-comic-4.anyacg.co/images/8e/ef/8eef422607fdfb35b6878657a1d893f813637888_130418_666_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 44"><hinh>http://file-comic-4.anyacg.co/images/be/5a/be5a6509ae0604eccc1b20b397e4d9d041ecf8f3_126233_666_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 44"><hinh>http://file-comic-4.anyacg.co/images/09/17/09170c517941c9d963efdb00d9e58603af0ea255_131739_666_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 44"><hinh>http://file-comic-4.anyacg.co/images/47/ce/47ce329d6279b01457f03d6bdada6ee7cf63e4fe_123919_666_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 44"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_44/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 44"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_44/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 44"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_44/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 44"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_44/4.jpg</hinh></chuong>
 
 		<!-- chap 43.5 -->
-		<chuong ten_chuong="chap 43.5"><hinh>http://file-comic-4.anyacg.co/images/b2/9b/b29b09c7135a58885a20f8a8c44656ca934ccdb7_106945_666_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 43.5"><hinh>http://file-comic-4.anyacg.co/images/fc/d6/fcd636bd66534c9f74d1b6d2aec443fc075d0797_122854_666_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 43.5"><hinh>http://file-comic-4.anyacg.co/images/ef/2f/ef2f7d96161c036744de09a925b9921c286096eb_121904_666_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 43.5"><hinh>http://file-comic-4.anyacg.co/images/50/92/5092d9743da425667e94ae2754fb11d1d3e0bcda_118347_666_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 43.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_435/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 43.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_435/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 43.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_435/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 43.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_435/4.jpg</hinh></chuong>
 
 		<!-- chap 43 -->
-		<chuong ten_chuong="chap 43"><hinh>http://file-comic-4.anyacg.co/images/02/b4/02b4ce493be38d643defef0d9e51e33990280db2_129147_666_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 43"><hinh>http://file-comic-4.anyacg.co/images/7b/c8/7bc80d664297315c841323f65b09b232a06fd0e8_120520_666_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 43"><hinh>http://file-comic-4.anyacg.co/images/95/14/95140b0123c955f5d6c95741272dd22bddf239b0_111290_666_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 43"><hinh>http://file-comic-4.anyacg.co/images/fd/6f/fd6fb2929be498f576b890c4d4ff99c3f0323f18_118268_666_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 43"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_43/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 43"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_43/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 43"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_43/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 43"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_43/4.jpg</hinh></chuong>
 
 		<!-- chap 42.5 -->
-		<chuong ten_chuong="chap 42.5"><hinh>http://file-comic-4.anyacg.co/images/9d/f7/9df7f2e873db46124b3a8047f90bb1c7163fc0a4_134268_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 42.5"><hinh>http://file-comic-4.anyacg.co/images/f5/90/f590e31ffcb618186ad1d168654cf7f26cc4fe32_133277_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 42.5"><hinh>http://file-comic-4.anyacg.co/images/55/27/5527ed13e18af65f3f5137492d8ad33fee6ac2c7_121102_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 42.5"><hinh>http://file-comic-4.anyacg.co/images/2a/45/2a45d6c3e4cec71938ea53e50274b18278a6ce7d_125384_670_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 42.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_425/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 42.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_425/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 42.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_425/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 42.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_425/4.jpg</hinh></chuong>
 
 		<!-- chap 42 -->
-		<chuong ten_chuong="chap 42"><hinh>http://file-comic-4.anyacg.co/images/ee/3b/ee3b8cffda7708c47fc34ec7c97b8d10d6e9ccec_129425_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 42"><hinh>http://file-comic-4.anyacg.co/images/ad/0e/ad0e1ec4102a2e63bb9de57a7086e1c87a50940b_125424_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 42"><hinh>http://file-comic-4.anyacg.co/images/cd/d5/cdd5b887b8f88dcb6f59a236f32359b91dc31960_127208_670_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 42"><hinh>http://file-comic-4.anyacg.co/images/4d/03/4d03b78c4491b19c8503183e31940b3960015cd8_126341_670_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 42"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_42/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 42"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_42/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 42"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_42/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 42"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_42/4.jpg</hinh></chuong>
 
 		<!-- chap 41.5 -->
-		<chuong ten_chuong="chap 41.5"><hinh>http://file-comic-4.anyacg.co/images/8f/aa/8faa3e58e74b410d178c06c4b13880018c14c643_118335_660_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 41.5"><hinh>http://file-comic-4.anyacg.co/images/ef/9e/ef9e2935d61b09c30d66a778fbdc50d89a6ea5e3_131301_660_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 41.5"><hinh>http://file-comic-4.anyacg.co/images/e2/69/e2697d2144900171a4410d4c7104e4b22f8e8a41_101125_660_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 41.5"><hinh>http://file-comic-4.anyacg.co/images/a2/76/a276b4e2995dced5df1f898330996569def68eda_128503_660_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 41.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_415/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 41.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_415/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 41.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_415/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 41.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_415/4.jpg</hinh></chuong>
 
 		<!-- chap 41 -->
-		<chuong ten_chuong="chap 41"><hinh>http://file-comic-4.anyacg.co/images/35/b2/35b20689e8b35bb64d1b703d795b3e3d9b8852d5_116746_660_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 41"><hinh>http://file-comic-4.anyacg.co/images/34/34/34349e6dde198e597b3b20f5f909c1a64c680b2c_140711_660_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 41"><hinh>http://file-comic-4.anyacg.co/images/f3/93/f393e20f7f2c60f8df7b7b72067a958c898ba261_123874_660_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 41"><hinh>http://file-comic-4.anyacg.co/images/e0/c4/e0c487e5072e8c13b978dc2a8c53e88dfafaf308_131469_660_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 41"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_41/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 41"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_41/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 41"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_41/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 41"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_41/4.jpg</hinh></chuong>
+
+		<!-- chap 40.5 -->
+		<chuong ten_chuong="chap 40.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_405/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 40.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_405/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 40.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_405/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 40.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_405/4.jpg</hinh></chuong>
+
+		<!-- chap 40 -->
+		<chuong ten_chuong="chap 40"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_40/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 40"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_40/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 40"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_40/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 40"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_40/4.jpg</hinh></chuong>
+
+		<!-- chap 39.5 -->
+		<chuong ten_chuong="chap 39.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_395/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_395/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_395/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_395/4.jpg</hinh></chuong>
+
+		<!-- chap 39 -->
+		<chuong ten_chuong="chap 39"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_39/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_39/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_39/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_39/4.jpg</hinh></chuong>
 
 		<!-- chap 38.5 -->
-		<chuong ten_chuong="chap 38.5"><hinh>http://file-comic-4.anyacg.co/images/4a/0b/4a0b3b76f5d8a4c957054c4694627b3abe569313_203471_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 38.5"><hinh>http://file-comic-4.anyacg.co/images/83/f1/83f1e348eeba838a89839ca5d46409a5f5fce50f_214608_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 38.5"><hinh>http://file-comic-4.anyacg.co/images/3b/8f/3b8f782faac21c9088f84beb0a1f0ccd4e5e0e3a_201380_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 38.5"><hinh>http://file-comic-4.anyacg.co/images/4a/ab/4aab4267be4e3ee4e2acc09337d8d0aeff732cd5_218735_740_1140.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_385/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_385/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_385/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_385/4.jpg</hinh></chuong>
 
 		<!-- chap 38 -->
-		<chuong ten_chuong="chap 38"><hinh>http://file-comic-4.anyacg.co/images/46/bd/46bd81759ff3a74f9b11c58d747fa49d81230d71_193957_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 38"><hinh>http://file-comic-4.anyacg.co/images/a1/c5/a1c50ec0dc9201b80233fdd841753487682a9a11_215273_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 38"><hinh>http://file-comic-4.anyacg.co/images/9f/b9/9fb92804f174d8f3a0ff0c5bde200dff079feb34_213963_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 38"><hinh>http://file-comic-4.anyacg.co/images/74/ba/74ba876f694bd7b4824c6e314d1571110eec7be8_209954_740_1140.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_38/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_38/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_38/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_38/4.jpg</hinh></chuong>
 
 		<!-- chap 37.5 -->
-		<chuong ten_chuong="chap 37.5"><hinh>http://file-comic-4.anyacg.co/images/4e/cc/4ecc5b917b8ed875b052445c78891bedce645ae9_185599_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 37.5"><hinh>http://file-comic-4.anyacg.co/images/37/78/3778ea134abf7fd0e932bf686d2b0f8e42f7a4d6_175169_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 37.5"><hinh>http://file-comic-4.anyacg.co/images/01/ad/01ad160ecab8c35cb4be3638e572d29ab7c2b37c_184064_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 37.5"><hinh>http://file-comic-4.anyacg.co/images/0c/fc/0cfc54fe036c29a4bb742a9828e5c12e0b83a211_197628_740_1140.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_375/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_375/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_375/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_375/4.jpg</hinh></chuong>
 
 		<!-- chap 37 -->
-		<chuong ten_chuong="chap 37"><hinh>http://file-comic-4.anyacg.co/images/86/ad/86ad6639c6c1ecce378aeff596a37c49eedfd831_184033_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 37"><hinh>http://file-comic-4.anyacg.co/images/d4/5b/d45bb7b97d427c1029cd02f09dd939d1c00891d9_189915_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 37"><hinh>http://file-comic-4.anyacg.co/images/7c/b2/7cb28480fdf67769ee125e7b86fffe672d4aba74_175110_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 37"><hinh>http://file-comic-4.anyacg.co/images/e1/65/e1650630790af86c3e3f847c8fabf959176324e1_195216_740_1140.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_37/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_37/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_37/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_37/4.jpg</hinh></chuong>
 
 		<!-- chap 36.5 -->
-		<chuong ten_chuong="chap 36.5"><hinh>http://file-comic-4.anyacg.co/images/d9/20/d920947ee0da24be1b3afe527d5e154462b5a117_204464_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 36.5"><hinh>http://file-comic-4.anyacg.co/images/50/ae/50ae4e043e756ec81e473c8c6a2cbeffe5066f8c_185099_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 36.5"><hinh>http://file-comic-4.anyacg.co/images/af/39/af393ed39ca608b02eb8aba7e101e7f983e2c730_196899_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 36.5"><hinh>http://file-comic-4.anyacg.co/images/61/83/6183ea80ef322491acc048d54d4b0c087aa12caf_176120_740_1140.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_365/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_365/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_365/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_365/4.jpg</hinh></chuong>
 
 		<!-- chap 36 -->
-		<chuong ten_chuong="chap 36"><hinh>http://file-comic-4.anyacg.co/images/0d/77/0d77b585d40bae828b10e79feee189e1fe620d78_180599_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 36"><hinh>http://file-comic-4.anyacg.co/images/43/34/4334395661f4f27afe669597a6ec069e987d647f_195312_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 36"><hinh>http://file-comic-4.anyacg.co/images/52/2a/522ac45c119c3c8d1ffdd4359e360beedd249f4c_176632_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 36"><hinh>http://file-comic-4.anyacg.co/images/17/68/1768f50283752607fb36901e4e5b898b4a6f3fa1_194088_740_1140.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_36/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_36/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_36/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_36/4.jpg</hinh></chuong>
 
 		<!-- chap 35.5 -->
-		<chuong ten_chuong="chap 35.5"><hinh>http://file-comic-4.anyacg.co/images/89/ce/89ceb810619ddb2a3b5ae1d1b02a559ce540c8bf_190371_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 35.5"><hinh>http://file-comic-4.anyacg.co/images/ba/91/ba91a74f2e18a84c1abdce8bd749b5d6699b55d7_193274_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 35.5"><hinh>http://file-comic-4.anyacg.co/images/80/7e/807e9dee25b6a222c89ba7b76df8c5fe1e71cbbe_197341_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 35.5"><hinh>http://file-comic-4.anyacg.co/images/42/c2/42c2f5f799ea4343c47aac0b8ff53650319978cd_176936_740_1140.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_355/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_355/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_355/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_355/4.jpg</hinh></chuong>
 
 		<!-- chap 35 -->
-		<chuong ten_chuong="chap 35"><hinh>http://file-comic-4.anyacg.co/images/ea/c7/eac7e17ea45b09d698dfd0de09bbc2a90a92cd4d_137538_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 35"><hinh>http://file-comic-4.anyacg.co/images/ac/a3/aca3b556b7ef44414d36266aa149ed11b3c19cb6_172175_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 35"><hinh>http://file-comic-4.anyacg.co/images/d5/ec/d5ec3c8b1978c7f7c51961bfa71d3d6868d87d8b_199544_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 35"><hinh>http://file-comic-4.anyacg.co/images/5b/f8/5bf856e06ecb9960c0fe3812b94718f8b6909e65_209267_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 35"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_35/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_35/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_35/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_35/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_35/5.jpg</hinh></chuong>
 
 		<!-- chap 34.5 -->
-		<chuong ten_chuong="chap 34.5"><hinh>http://file-comic-4.anyacg.co/images/e1/ab/e1abf16d01dc711cc27d171fda252490452c8d26_85516_591_549.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 34.5"><hinh>http://file-comic-4.anyacg.co/images/74/28/7428a7f607acc9a2a6a0c526886f147a130613bc_60098_593_359.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 34.5"><hinh>http://file-comic-4.anyacg.co/images/1e/73/1e73282822b33a90c9933b9fec954bc9e1749204_107733_595_638.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 34.5"><hinh>http://file-comic-4.anyacg.co/images/69/a1/69a15768d552c51701c09c3e4e4fc52ae3dce735_39091_590_256.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 34.5"><hinh>http://file-comic-4.anyacg.co/images/be/43/be43e647dfe26a93ce2d9fa3d12ed9fa45879b87_100112_588_634.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 34.5"><hinh>http://file-comic-4.anyacg.co/images/9f/59/9f5961cf0ff12ff4c118ff2f2a69f268d3ac3c99_45307_592_268.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 34.5"><hinh>http://file-comic-4.anyacg.co/images/5e/b6/5eb6474b230a1211d5ec1a882139b941ee0f0819_90954_592_606.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 34.5"><hinh>http://file-comic-4.anyacg.co/images/b5/c3/b5c365a365438b2d779c59581ed7049e19717a3d_43702_593_305.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_345/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_345/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_345/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_345/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_345/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_345/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_345/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_345/8.jpg</hinh></chuong>
 
 		<!-- chap 34 -->
-		<chuong ten_chuong="chap 34"><hinh>http://file-comic-4.anyacg.co/images/77/a8/77a8ef28b5cb2c436f77b22b11e2fd0e72a791c0_120116_562_891.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 34"><hinh>http://file-comic-4.anyacg.co/images/28/7d/287d63c89667833fbfd3ec5994c381c1a4bbd00e_120738_588_663.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 34"><hinh>http://file-comic-4.anyacg.co/images/c2/2d/c22d2b79550e5dfe0a707ea58303a47323134ffc_36603_592_252.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 34"><hinh>http://file-comic-4.anyacg.co/images/73/a9/73a914a0671c18ecb86fe400341623caee5fa832_81805_592_560.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 34"><hinh>http://file-comic-4.anyacg.co/images/33/75/33756eaba9da1f664f7bb0b0388e30b554223f1e_54961_593_358.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 34"><hinh>http://file-comic-4.anyacg.co/images/e3/03/e3038284a4dc6a339d7e519ba8681a7b1e9d7eee_98363_593_612.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 34"><hinh>http://file-comic-4.anyacg.co/images/2a/e6/2ae67a499c2acb3d3e2ef2df679b08509fea3c49_49530_591_283.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_34/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_34/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_34/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_34/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_34/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_34/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_34/7.jpg</hinh></chuong>
 
 		<!-- chap 33.5 -->
-		<chuong ten_chuong="chap 33.5"><hinh>http://file-comic-4.anyacg.co/images/10/68/1068d45f969eab4aaf8330e650f6885bb13d54d2_190977_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 33.5"><hinh>http://file-comic-4.anyacg.co/images/9f/82/9f8264f954be806149324488be5ea214fb53d04f_187486_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 33.5"><hinh>http://file-comic-4.anyacg.co/images/82/d7/82d73335767d4aa4c76d2a2b7c0ddb58990c2ddd_200471_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 33.5"><hinh>http://file-comic-4.anyacg.co/images/ae/cd/aecd2bb43d8ecb00db22dbadb24451392f8938f2_198549_740_1140.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_335/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_335/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_335/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_335/4.jpg</hinh></chuong>
 
 		<!-- chap 33 -->
-		<chuong ten_chuong="chap 33"><hinh>http://file-comic-4.anyacg.co/images/9b/de/9bdea64f2f6e085e427075f0e6a9573a0bddbf3d_179093_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 33"><hinh>http://file-comic-4.anyacg.co/images/4a/60/4a60e8ed5dff38b61d11b8df737a80657cd9f785_180988_740_1140.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 33"><hinh>http://file-comic-4.anyacg.co/images/fe/f6/fef6c267f6feec5959ddde7b5b897cfc7edc550d_182240_740_1140.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_33/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_33/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_33/3.jpg</hinh></chuong>
 
 		<!-- chap 32.5 -->
-		<chuong ten_chuong="chap 32.5"><hinh>http://file-comic-4.anyacg.co/images/31/77/3177cc746a39e852010a72c900504e4a2f7592de_64144_740_400.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32.5"><hinh>http://file-comic-4.anyacg.co/images/75/90/75900bfb39921ef9c632db688fcb0944f020f1ab_47830_744_336.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32.5"><hinh>http://file-comic-4.anyacg.co/images/5c/6d/5c6d82f4d331cfb056f6c5caaf32cbaa9fa9ac94_92431_740_480.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32.5"><hinh>http://file-comic-4.anyacg.co/images/bf/08/bf08172953f6b0a677eebb34748762d5d164e809_45704_742_313.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32.5"><hinh>http://file-comic-4.anyacg.co/images/60/9c/609ce1abafbda2149e3895734c9fa88043d80f5a_61391_742_363.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32.5"><hinh>http://file-comic-4.anyacg.co/images/35/9d/359dd26269d5c007db0c29acf793e69adee215e6_91979_787_503.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32.5"><hinh>http://file-comic-4.anyacg.co/images/7c/7c/7c7cb1c7a1072a05ea659170f986f27cbea2a2e9_106838_768_633.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32.5"><hinh>http://file-comic-4.anyacg.co/images/be/2b/be2b2719d49a0db7319f268fb541ba8fa90f92b1_57162_759_350.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32.5"><hinh>http://file-comic-4.anyacg.co/images/f2/c4/f2c41ae7e073357256d558a45805446e5ddce9d6_132741_759_661.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_325/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_325/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_325/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_325/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_325/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_325/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_325/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_325/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_325/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_325/10.jpg</hinh></chuong>
 
 		<!-- chap 32 -->
-		<chuong ten_chuong="chap 32"><hinh>http://file-comic-4.anyacg.co/images/06/88/06887b6ee29193feca7cc788edaf00e92fa7f4fa_135131_741_662.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32"><hinh>http://file-comic-4.anyacg.co/images/a1/a9/a1a96bb0e98e10a9a872f2cd58862298dcdc8db7_105173_742_460.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32"><hinh>http://file-comic-4.anyacg.co/images/88/d7/88d7ec16cb68e5cc6e7590c1ddb438fc66abf582_93892_740_464.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32"><hinh>http://file-comic-4.anyacg.co/images/e3/ae/e3ae4d052730166125230932adb48c4f69adffaf_65960_741_349.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32"><hinh>http://file-comic-4.anyacg.co/images/41/3e/413e9e024a7bdbfefd92ad5c0349ec0b0db67478_63415_738_344.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32"><hinh>http://file-comic-4.anyacg.co/images/c9/88/c988a54465b762852a27f36e61a90f980df80133_90694_744_452.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32"><hinh>http://file-comic-4.anyacg.co/images/09/c7/09c75f8ad299e368c632a059799893ffca70381f_131757_738_641.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32"><hinh>http://file-comic-4.anyacg.co/images/85/01/85018f35fb3087ea63a8e6bc49445ac1c6f4355b_148626_1440_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 32"><hinh>http://file-comic-4.anyacg.co/images/42/79/42791327533ca1ea982a039621aea87150d28bba_69151_741_413.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_32/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_32/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_32/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_32/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_32/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_32/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_32/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_32/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_32/9.jpg</hinh></chuong>
 
 		<!-- chap 31.5 -->
-		<chuong ten_chuong="chap 31.5"><hinh>http://file-comic-4.anyacg.co/images/88/df/88df820edc082d98ff1664f0d6a9a1008e35372a_192881_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 31.5"><hinh>http://file-comic-4.anyacg.co/images/b2/80/b280f73e141801429cd21f97c529f3dce01c4645_172064_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 31.5"><hinh>http://file-comic-4.anyacg.co/images/01/c2/01c2ab71f29bf5c8952e1a3b32b3c4588817129e_195687_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 31.5"><hinh>http://file-comic-4.anyacg.co/images/93/96/93964c13f1f1b3cb5470c2ea59e72b8e1b104c8c_206304_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 31.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_315/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 31.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_315/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 31.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_315/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 31.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_315/4.jpg</hinh></chuong>
 
 		<!-- chap 31 -->
-		<chuong ten_chuong="chap 31"><hinh>http://file-comic-4.anyacg.co/images/5e/1d/5e1d04d8375243f43f0dc7c2bfd30ead7442053e_284637_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 31"><hinh>http://file-comic-4.anyacg.co/images/84/2b/842b7979553bd9dbcb3ba9960ce90db79dc18ebb_161014_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 31"><hinh>http://file-comic-4.anyacg.co/images/77/9e/779e86200aae2b0a0aa044d965758fabdced7ca9_204639_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 31"><hinh>http://file-comic-4.anyacg.co/images/27/e3/27e3dd0e0434c99f0853d7af92ae3fa0b3aea214_177537_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 31"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_31/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 31"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_31/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 31"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_31/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 31"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_31/4.jpg</hinh></chuong>
 
 		<!-- chap 30.5 -->
-		<chuong ten_chuong="chap 30.5"><hinh>http://file-comic-4.anyacg.co/images/b0/e5/b0e557087b07e97854fbb7d2c132007ed14dff26_208510_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30.5"><hinh>http://file-comic-4.anyacg.co/images/14/f4/14f4fd86d29b403299ee11dce2a6e343a1f859a2_230462_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30.5"><hinh>http://file-comic-4.anyacg.co/images/45/7d/457d48cb4e9a4a49e4eca9d5976033fe85d583fa_230373_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30.5"><hinh>http://file-comic-4.anyacg.co/images/28/60/28607e793dd42fb063968344063f036590d21307_227668_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_305/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_305/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_305/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_305/4.jpg</hinh></chuong>
 
 		<!-- chap 30 -->
-		<chuong ten_chuong="chap 30"><hinh>http://file-comic-4.anyacg.co/images/a0/59/a0595983081f63e7dd710e04d2b55bf2c753d4c1_197436_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30"><hinh>http://file-comic-4.anyacg.co/images/fb/39/fb39421d8e0a6682b928cad210e84ccab346234c_206931_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30"><hinh>http://file-comic-4.anyacg.co/images/36/f1/36f1f301a80417b61910a7956bd83c065ebd0120_225655_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30"><hinh>http://file-comic-4.anyacg.co/images/a5/6b/a56b8ad75d605867f503c0399f5afc785d5d90e4_208246_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_30/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_30/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_30/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_30/4.jpg</hinh></chuong>
 
 		<!-- chap 29.5 -->
-		<chuong ten_chuong="chap 29.5"><hinh>http://file-comic-4.anyacg.co/images/6b/ff/6bfffb66757b46609f2fc245d207d6fccf6360d7_130317_640_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 29.5"><hinh>http://file-comic-4.anyacg.co/images/45/b1/45b17d984fcc529fd48de231798db4e03082dc3c_115505_640_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 29.5"><hinh>http://file-comic-4.anyacg.co/images/5a/e8/5ae860e1c780828b13cc4ee04cd85a7c0287f645_125752_640_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 29.5"><hinh>http://file-comic-4.anyacg.co/images/62/7c/627c0a48c4e68b01460b5dc9b32829735b123e8e_113676_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_295/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_295/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_295/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_295/4.jpg</hinh></chuong>
 
 		<!-- chap 29 -->
-		<chuong ten_chuong="chap 29"><hinh>http://file-comic-4.anyacg.co/images/dd/32/dd321bba8c5f02f2a25cff52c87a87abcb27fff9_121800_640_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 29"><hinh>http://file-comic-4.anyacg.co/images/68/83/688338411863404cc6192ab7fad9735f4ef63bb0_118616_640_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 29"><hinh>http://file-comic-4.anyacg.co/images/05/f7/05f7dcf7a127243898b14e60db5f7d3977e83161_127753_640_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_29/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_29/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_29/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_29/4.jpg</hinh></chuong>
 
 		<!-- chap 28 -->
-		<chuong ten_chuong="chap 28"><hinh>http://file-comic-4.anyacg.co/images/d5/0a/d50a01d262c915283343434c1981930cdbaff059_125905_639_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28"><hinh>http://file-comic-4.anyacg.co/images/8c/d2/8cd2362ae3c83d6d39d184d4a998de21b6f6f31a_113023_639_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28"><hinh>http://file-comic-4.anyacg.co/images/a1/74/a1744312e209dfdc98df5c3fd1fe8b6c24885dd4_119157_639_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28"><hinh>http://file-comic-4.anyacg.co/images/66/27/6627f7a2a61a18d7a500d45419904ae2169738eb_103275_639_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28"><hinh>http://file-comic-4.anyacg.co/images/db/61/db614c62ec8ebd2afc07aff33a06a2e98e21b4a6_96456_639_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28"><hinh>http://file-comic-4.anyacg.co/images/a4/35/a435685af7cd6d9fbdc67d3502d630efbaa1216b_125434_639_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28"><hinh>http://file-comic-4.anyacg.co/images/93/87/9387873bf06c743c2c19e34222b5b8635e34edee_130376_639_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28"><hinh>http://file-comic-4.anyacg.co/images/c9/99/c999c26a244160230587976cc6e7ca9a85325362_107378_639_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_28/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_28/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_28/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_28/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_28/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_28/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_28/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_28/8.jpg</hinh></chuong>
 
 		<!-- chap 27 -->
-		<chuong ten_chuong="chap 27"><hinh>http://file-comic-4.anyacg.co/images/c8/3e/c83e7442cbfbadde10dd12f92c782f1bac6c54ce_154111_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27"><hinh>http://file-comic-4.anyacg.co/images/c2/2e/c22e59ef13a144afc21a0164066da90868efbb91_171260_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27"><hinh>http://file-comic-4.anyacg.co/images/86/ce/86ce47baef599fe20799348fd7c27025cc81c4a0_159093_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27"><hinh>http://file-comic-4.anyacg.co/images/6a/2a/6a2a40682742beae1a24dd63b2fe7be0e4bc0bf1_198958_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27"><hinh>http://file-comic-4.anyacg.co/images/16/79/1679502fec7b4f883493f4548a53c0393d801a51_199081_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27"><hinh>http://file-comic-4.anyacg.co/images/81/82/8182f239561f316368a03381cc9b4a105fd8ec4b_164941_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27"><hinh>http://file-comic-4.anyacg.co/images/55/2e/552ecbea71f41f1689dfa17bba0b8b0cea39970f_185738_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_27/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_27/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_27/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_27/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_27/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_27/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_27/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_27/8.jpg</hinh></chuong>
 
 		<!-- chap 26 -->
-		<chuong ten_chuong="chap 26"><hinh>http://file-comic-4.anyacg.co/images/45/6f/456fabb7d30d945d15ca4da1b0ef1f684e185f24_192912_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 26"><hinh>http://file-comic-4.anyacg.co/images/57/c6/57c674feb6595c65798c907a95da8c232f424db0_193693_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 26"><hinh>http://file-comic-4.anyacg.co/images/15/ff/15fff7c8081aeaaba97e7f6065e8f9593f345c6f_197522_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 26"><hinh>http://file-comic-4.anyacg.co/images/8d/7c/8d7c67a24aaf0e69d2d047a51c7b2fdf3a366626_177722_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 26"><hinh>http://file-comic-4.anyacg.co/images/58/5a/585a3af1dca39555e67d7b62fb0140c0a5ececcd_196023_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 26"><hinh>http://file-comic-4.anyacg.co/images/b4/79/b4794ae114b8bdc4e5ba1e034aeedb1ccff3686a_195851_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 26"><hinh>http://file-comic-4.anyacg.co/images/d8/f1/d8f1156ae06bb1c1b62ce7b580d3350fe764f5ca_186985_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 26"><hinh>http://file-comic-4.anyacg.co/images/d9/08/d908dbf9587d32616eb2ff3e662f1b3d4f35a23c_193045_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 26"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_26/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 26"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_26/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 26"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_26/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 26"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_26/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 26"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_26/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 26"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_26/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 26"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_26/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 26"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_26/8.jpg</hinh></chuong>
 
 		<!-- chap 25 -->
-		<chuong ten_chuong="chap 25"><hinh>http://file-comic-4.anyacg.co/images/08/ac/08ac630fbd6213c4f44d4b235f567691ef42fb9c_216387_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 25"><hinh>http://file-comic-4.anyacg.co/images/9c/28/9c287ff24811586f356ba35583a6993733a45eaa_205262_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 25"><hinh>http://file-comic-4.anyacg.co/images/67/b9/67b97f365a0eec76cb92ec81cb742f769cfa62d3_171241_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 25"><hinh>http://file-comic-4.anyacg.co/images/36/2a/362a6b0fe83ada05adfa872199f01abb4640870d_202518_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 25"><hinh>http://file-comic-4.anyacg.co/images/78/32/78322f24f572c12c67b68617de5432f86faff90f_194283_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 25"><hinh>http://file-comic-4.anyacg.co/images/bc/56/bc565c1cb0adc92eac59bae9597cd65295399f2b_194118_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 25"><hinh>http://file-comic-4.anyacg.co/images/ef/ea/efea33a109f4a90ae6cbc1a730c24eb1c08008ab_191333_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 25"><hinh>http://file-comic-4.anyacg.co/images/82/d8/82d8dca3dd4e830ced108ffaf646209c8cc6ed67_196660_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_25/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_25/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_25/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_25/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_25/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_25/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_25/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_25/8.jpg</hinh></chuong>
 
 		<!-- chap 24 -->
-		<chuong ten_chuong="chap 24"><hinh>http://file-comic-4.anyacg.co/images/3a/bf/3abfe1078ce2cd443a689acda64c615f60170735_131108_586_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24"><hinh>http://file-comic-4.anyacg.co/images/02/76/0276b8898bd18b27f991dc5acc8840ba51bf40c3_124600_576_884.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24"><hinh>http://file-comic-4.anyacg.co/images/1f/b6/1fb658d031a46029c371765eadffc5545d0f7b28_123709_568_855.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24"><hinh>http://file-comic-4.anyacg.co/images/1d/75/1d7583409241585b3861d9db8d481ac031cc30a7_120871_566_889.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24"><hinh>http://file-comic-4.anyacg.co/images/53/91/539182410c49b26a92303a0a4c38b4dcf22204b1_116174_580_879.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24"><hinh>http://file-comic-4.anyacg.co/images/ff/29/ff298e666dbfd3c59fdcab60a29bee6408e438a5_128764_573_888.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24"><hinh>http://file-comic-4.anyacg.co/images/f9/ef/f9efe72783c5d331250579fb97848dcc6464670f_113721_576_875.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24"><hinh>http://file-comic-4.anyacg.co/images/c2/af/c2afc4ae863983c45679096e3043fbd038f0efec_101096_572_865.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_24/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_24/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_24/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_24/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_24/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_24/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_24/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_24/8.jpg</hinh></chuong>
 
 		<!-- chap 23 -->
-		<chuong ten_chuong="chap 23"><hinh>http://file-comic-4.anyacg.co/images/ee/f5/eef5efe542eba09de6d70131ebd3f0d582102e6a_91718_601_895.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23"><hinh>http://file-comic-4.anyacg.co/images/ee/a1/eea17063f77c57656eecd265f5dd43a714e04bd6_92258_600_896.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23"><hinh>http://file-comic-4.anyacg.co/images/10/76/107634c75f1618dbdf120c93ba904abfa6556f7b_99186_597_886.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23"><hinh>http://file-comic-4.anyacg.co/images/ef/50/ef509c9608b991a1acf0f189b8a29c52de3c50d4_109747_602_892.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23"><hinh>http://file-comic-4.anyacg.co/images/58/04/58040545cdf9f92b07c95bb0f7ae5c0214458fde_107088_602_897.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23"><hinh>http://file-comic-4.anyacg.co/images/2c/74/2c7467188528046a6550e704223e5c11a01720d6_109314_600_896.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23"><hinh>http://file-comic-4.anyacg.co/images/5e/03/5e0301ee1a6b93761dc30285f6c3a202401aa89c_100040_602_895.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_23/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_23/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_23/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_23/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_23/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_23/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_23/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_23/8.jpg</hinh></chuong>
 
 		<!-- chap 22 -->
-		<chuong ten_chuong="chap 22"><hinh>http://file-comic-4.anyacg.co/images/f5/2b/f52bdd0edd075214f2715b56dca4b65e11e32918_116373_598_883.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 22"><hinh>http://file-comic-4.anyacg.co/images/ab/28/ab28c18f45cfedca87e8133697112fbbec775448_119668_585_875.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 22"><hinh>http://file-comic-4.anyacg.co/images/36/d3/36d39aea4f1c1ebb464e1ae637ef37a09e9b9a29_116633_584_880.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 22"><hinh>http://file-comic-4.anyacg.co/images/52/d2/52d2fe8e072fc3d3950759b3819d1b00e15c23e9_124971_571_876.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 22"><hinh>http://file-comic-4.anyacg.co/images/f5/1a/f51a8bc545d2f63f7039259ad5cb9f1acfc225ca_81805_577_872.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 22"><hinh>http://file-comic-4.anyacg.co/images/d7/bb/d7bbb3ac71a2c9cee1f12047b231f8c971bfc302_107052_581_875.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 22"><hinh>http://file-comic-4.anyacg.co/images/ac/19/ac19e49c95ac1c3d1941774ee6025d4c87ce21d2_108128_576_864.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_22/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_22/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_22/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_22/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_22/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_22/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_22/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_22/8.jpg</hinh></chuong>
 
 		<!-- chap 21 -->
-		<chuong ten_chuong="chap 21"><hinh>http://file-comic-4.anyacg.co/images/70/97/7097307218d617b3d381987b73094f24d85e7840_137160_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 21"><hinh>http://file-comic-4.anyacg.co/images/33/29/3329d16951261a1b012c670dcfffe3ddf5908432_138389_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 21"><hinh>http://file-comic-4.anyacg.co/images/15/99/1599084eb0f2e750491e3c32a7c65782a83a225e_118352_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 21"><hinh>http://file-comic-4.anyacg.co/images/e4/3f/e43f8a24c9cccd036dce91f1764186e81f28ffa0_132476_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 21"><hinh>http://file-comic-4.anyacg.co/images/f4/35/f435139bb27158358bb569469db03ee9f62ad4f2_133911_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 21"><hinh>http://file-comic-4.anyacg.co/images/de/1b/de1b9ec07d908a8f80414fccecbad999022efe5f_138293_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 21"><hinh>http://file-comic-4.anyacg.co/images/7f/3e/7f3e83770dbe7bcf019dd5d7bafe268cfaa2556d_116846_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 21"><hinh>http://file-comic-4.anyacg.co/images/2f/20/2f2014e6b5204fe0b49eb7c2627727c2ac39690a_111613_594_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_21/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_21/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_21/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_21/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_21/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_21/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_21/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_21/8.jpg</hinh></chuong>
 
 		<!-- chap 20 -->
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/d2/cb/d2cb0b43f5c02a2b558819167815b20694fada91_134295_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/b6/6e/b66ee7384c6d223ce921c187a8a803830fa1dc8f_136045_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/d2/73/d273dbe34e02c712921c4d4efbf17dfdc496a7da_126714_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/c7/3e/c73e03210333aa790434ae23b2c75101a452557b_148005_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/c3/1c/c31c7288743c28ca1fcebac00239c772da8d2342_137511_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/4c/37/4c3701c4c35ef1bd2a366cdc41440dabcac09172_146817_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/f3/39/f3399657776a67e50c86e236654e3e7d7ed4d455_148098_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/d0/a8/d0a8d3916b24fe330a7b5a86e16c73192de55749_134800_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/9d/cd/9dcd2578d4fa52860d87090f579427c7c8c979b6_139155_594_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/49/65/49657d1615e1a291fa4afe59e151f6eb80c2b246_140748_594_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_20/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_20/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_20/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_20/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_20/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_20/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_20/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_20/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_20/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_20/10.jpg</hinh></chuong>
 
 		<!-- chap 19 -->
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/86/53/8653e78d1338df4164b7329e31d4c27871ee1a3e_139319_593_888.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/52/d5/52d5bdc3cc6766615866e6a21f9044146b92b41d_137291_592_889.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/6a/6e/6a6e9e54750355cd63c38b3b03c736bbb2d22815_126878_588_879.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/ca/08/ca08b4eec899bac59de83480a515b60e14370c48_126739_591_884.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/66/0f/660fda4dc7c35c1e08ac06170ea1ded3dd79589b_121988_591_889.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/bb/d9/bbd96143c250b0c55f79e052b997a141e97533c0_141206_591_881.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/f4/68/f468f242d06e110666c9720a21eb2e9d1b30576a_131358_590_885.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/e1/69/e169c661db917ae7a8a8026b8890fcdd281a1c77_113896_591_884.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/c0/12/c012b3abc9d15411c4e5abea6e3269f961ff1b27_128512_588_875.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/4d/b9/4db97b5c93dbd3286a0c1a8f3586a315b815a0d5_143940_596_891.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_19/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_19/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_19/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_19/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_19/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_19/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_19/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_19/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_19/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_19/10.jpg</hinh></chuong>
 
 		<!-- chap 18 -->
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/5f/c6/5fc6dd0be2b2ee9f6aa9cc2afc012651a0d2f397_181840_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/b0/c5/b0c5363268d34a58c0d3fdeee0ca492fb8347c5d_182306_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/f7/a1/f7a15826db19dc536ff8c237f3e623fce49304c9_180493_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/db/2a/db2a19fd922de7dddb7680e395f92ac7430825b5_178316_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/e3/29/e329454f8f7096ed90a40b960f91671d84d7994b_172528_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/91/79/91792c46a81c9bcee5c78d7b17320b4c3516e5c7_168732_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/d4/38/d438eeeb14ad557239c34e1ec504a793eefe207e_166581_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/85/9c/859c4aa993da67f7533c24e8346ce8c0a8168f33_177679_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/14/73/1473d845e9c61132eea196b7b10ffc66a60f01d2_169667_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/6f/e3/6fe3e76eaa154c1efca1c7165b32d82ee5c3c807_179407_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_18/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_18/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_18/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_18/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_18/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_18/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_18/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_18/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_18/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_18/10.jpg</hinh></chuong>
 
 		<!-- chap 17.5 -->
-		<chuong ten_chuong="chap 17.5"><hinh>http://file-comic-4.anyacg.co/images/73/2b/732b18c63b768a1e1fcf2554aa33ee34126c14c4_187838_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17.5"><hinh>http://file-comic-4.anyacg.co/images/a4/a5/a4a5c8479d2c02b3813d78f1447b10548cff62b6_200447_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17.5"><hinh>http://file-comic-4.anyacg.co/images/43/bf/43bf4cebcdcbfebb078c0b0b6436b9a31e5bdcb8_160751_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17.5"><hinh>http://file-comic-4.anyacg.co/images/c8/e5/c8e5c591b83520bc08790c9af6342099cd594bef_186458_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17.5"><hinh>http://file-comic-4.anyacg.co/images/68/f7/68f73273fc9290d252d42285eac097a13b717179_162340_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_175/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_175/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_175/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_175/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17.5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_175/5.jpg</hinh></chuong>
 
 		<!-- chap 17 -->
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/f8/94/f894af2691257a11ed4bdca3a188aed4cd34391c_142685_1000_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/25/5d/255da80c066f2f2d698e7f4632baa7c0f2cdbb40_226954_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/4b/06/4b06d02d227eb077f9e19ac2dec7eb3b27c8f3c0_225990_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/fe/f9/fef93ec5a13c6a136cd7dd40b8d97a4891c988a7_207998_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/2b/1e/2b1eb0b5b905e4c4861db0ab894451b0524dc074_226213_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/d4/35/d435d6e2bd5ec199e94fe4547804e2c210b22f1c_211821_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/c9/f4/c9f4df9bb13bce3428e0031943d0bb5fca1d13dc_215983_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/5b/14/5b1419d1badeaaa742afb7700fc110a0d7ba1069_241100_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/d1/59/d159c62f22d34cbfc90c07a5f799cf1ccfe7179e_209324_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/20/5d/205dc96142ac7fff334680ace6aacd75773f6f0e_216173_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/3b/7d/3b7dfab5fed38e7c80f3b37c82bc7ba5f0f6d120_201652_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-3.anyacg.co/images/be/f0/bef0bb9b1a01083898a3ea57c22cf373337b0fee_157758_824_1080.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/ae/53/ae532d053f5ed3935f821ebc5439a48c405e10bc_116045_600_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_17_exaltation_upon_fulfillment/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_17_exaltation_upon_fulfillment/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_17_exaltation_upon_fulfillment/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_17_exaltation_upon_fulfillment/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_17_exaltation_upon_fulfillment/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_17_exaltation_upon_fulfillment/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_17_exaltation_upon_fulfillment/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_17_exaltation_upon_fulfillment/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_17_exaltation_upon_fulfillment/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_17_exaltation_upon_fulfillment/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_17_exaltation_upon_fulfillment/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_17_exaltation_upon_fulfillment/12.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_17_exaltation_upon_fulfillment/13.jpg</hinh></chuong>
 
 		<!-- chap 16 -->
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/3f/c9/3fc99fbffbde1badd6d60d54d3be2882c1f397bf_145514_1000_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/71/3d/713ddbb25fee8fe46b359f5bd60ed426141dc507_229039_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/89/c3/89c3bce504a20b4d188f86a3d866bc26cb24741c_217756_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/82/46/82461c4519e375fda7a2e0fe45db660ceb2e30c4_232381_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/e5/bd/e5bdc9bb41a97dcf5cd4ff2cb0f81c8f78af85a0_217938_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/17/1f/171f54ac27d14971e633d6b3c493d24df7494d3e_181194_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/ea/70/ea70716426aade1cddb97e4d99a8e6383e20dae2_214638_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/15/02/1502d9cd79ca239a69256fe3e2252a60f8db3d8d_239550_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/41/e8/41e846624910a26f4f5a53a239652d57aaa16e7b_215344_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/54/ab/54ab262b0bf419a7ef41289051a40533042d5c8d_198129_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/b4/4e/b44e3e273c1ca375f6e3e27bbf48004229f7812d_218525_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/36/5c/365ca95e7516c03d4485d780b16266dca83573b2_171498_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/e9/1c/e91c3ac5595e6ba8fcbd7171609d26116e76e1b0_174732_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-3.anyacg.co/images/be/f0/bef0bb9b1a01083898a3ea57c22cf373337b0fee_157758_824_1080.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/ae/53/ae532d053f5ed3935f821ebc5439a48c405e10bc_116045_600_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/12.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/13.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/14.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_16_personal_special_dot/15.jpg</hinh></chuong>
 
 		<!-- chap 15 -->
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/ff/8d/ff8df10f427fcbdc8c57c16585dc027698cc72d1_217356_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/e9/03/e903872e6f35f8bf497fd1fdce2c0e0e5314743c_190126_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/3a/93/3a93b4bdeba41d3f8dc8c02c50e5979480d4142c_171366_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/18/6c/186ce9265e9861fb257f538b4259eb901a63d29e_192547_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/ca/1c/ca1c1efc20a7ac4d1343853274f6b6939e48953c_175422_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/78/16/7816fdf9f73700949ca01be2018e98896f15fae4_170429_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/4b/94/4b9429e245d4f829f5c8a1f131bb0ea6b82797b3_187627_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/24/8f/248fb7104689f50bde2d81d9db9678ee4669946c_210317_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/31/c8/31c8912b12f1a3dbefcfad34a2c41ea8e463b363_197197_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/73/de/73de9aa19d0f183c5e699800c4c6396b6fef6dc1_176813_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_15_betrothal_gifts_and_dowry/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_15_betrothal_gifts_and_dowry/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_15_betrothal_gifts_and_dowry/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_15_betrothal_gifts_and_dowry/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_15_betrothal_gifts_and_dowry/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_15_betrothal_gifts_and_dowry/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_15_betrothal_gifts_and_dowry/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_15_betrothal_gifts_and_dowry/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_15_betrothal_gifts_and_dowry/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_15_betrothal_gifts_and_dowry/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_15_betrothal_gifts_and_dowry/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_15_betrothal_gifts_and_dowry/12.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_15_betrothal_gifts_and_dowry/13.jpg</hinh></chuong>
 
 		<!-- chap 14 -->
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/8e/4b/8e4b6afbee4c90e61e495db95ab77688730e18e2_267179_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/90/35/9035c887207c4e5ad47047e33ad65b68165d72f0_240564_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/e2/d7/e2d7ad8940b8b978dd05258002aaa072d7cf1127_214070_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/4d/c1/4dc139dc85ee12967c38a650abeff42270e32849_228918_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/5f/2c/5f2c305453810ca24a16c85de031137922106b50_250986_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/86/23/86233366e9e88e8307d20316df3e0b5feb046099_234172_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/dd/de/ddde0f710e26d1a012a553055d8f0647f466e804_233716_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/4c/47/4c4751af4ccc4e2c9910786717c3c30f9a14bc2c_208167_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/72/62/72623553ca3b7d5392135597d98c2b48f459dd41_218836_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/ca/0b/ca0bfc1d2ae4da2ce80d25cc131ec8d731cac8af_246092_800_1200.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_14_not_sparing_anyone/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_14_not_sparing_anyone/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_14_not_sparing_anyone/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_14_not_sparing_anyone/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_14_not_sparing_anyone/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_14_not_sparing_anyone/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_14_not_sparing_anyone/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_14_not_sparing_anyone/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_14_not_sparing_anyone/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_14_not_sparing_anyone/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_14_not_sparing_anyone/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_14_not_sparing_anyone/12.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_14_not_sparing_anyone/13.jpg</hinh></chuong>
 
 		<!-- chap 13 -->
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/78/d1/78d1ce45e12d95c0b89bf368a1f8f7552242a6ef_117167_1000_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/d1/e9/d1e968acd61b5349ff020054fad8c1db0841042e_205490_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/c1/0d/c10d1d09b97102c0daedd6bb5e4646178429f167_177322_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/2a/a0/2aa01bb8d9247a83934028c129b1450b90bd483a_179404_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/35/25/3525fd3713a04568d178d10a2635addc3fc2a5b0_174201_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/c3/f4/c3f46a94c7214d75ee4f428bf0eee388cd19d61e_167107_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/ca/56/ca56eab734b27e50efe128656a2cc8c2c48e6569_181717_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/fb/11/fb11f9234634b658c87067259c7a8ae207a57000_167245_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/8b/2b/8b2b4aa5517afd827560595ca4ec652c629ad0fb_161551_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/56/89/5689621e38e01b76fdfb9600d3c42eb2a1790808_157238_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/98/20/9820ff6ed1d48dd2b20942bb66e88e11401f0fef_177247_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/78/ef/78efcc8bebdabb648b27fb74da5d9caf74007233_136762_824_1080.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/e4/43/e443fc4251e697841372f72eb221fed4dad951f3_88025_600_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_13_the_battle_of_changing_clothes/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_13_the_battle_of_changing_clothes/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_13_the_battle_of_changing_clothes/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_13_the_battle_of_changing_clothes/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_13_the_battle_of_changing_clothes/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_13_the_battle_of_changing_clothes/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_13_the_battle_of_changing_clothes/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_13_the_battle_of_changing_clothes/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_13_the_battle_of_changing_clothes/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_13_the_battle_of_changing_clothes/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_13_the_battle_of_changing_clothes/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_13_the_battle_of_changing_clothes/12.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_13_the_battle_of_changing_clothes/13.jpg</hinh></chuong>
 
 		<!-- chap 12 -->
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/a8/47/a847db724e254f1d81cfba450a745fb5df91571d_119641_1000_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/18/52/1852691c0bdfe88d54ccc77de53d2ef4a0710c7c_233489_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/6c/35/6c350366679ed939b2954d756ace151c6a4e04e6_184078_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/1b/16/1b1601489db51b3e0b33d8ebcba8fc8839fbc444_205057_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/fd/04/fd04ff997ae60ad4e1cfd1bf6d98958e4e60cfb7_186304_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/5e/5d/5e5d23abcc8c919389043e3d596a40a14780fc8a_186473_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/0e/7e/0e7e4d7e2a55d115af896a5e007adaf798164ed0_185114_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/b0/6b/b06b10024e353a8c0d08cd883c5f74b08cc3cc17_194173_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/f4/a3/f4a37c644a33ff3bdf0542cfb44b89754966dfaf_182205_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/77/f6/77f6d7e4c6fc136ea0bd27faddb4ec4795946903_146577_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/96/24/96248e4441baa4be71b8f18df70b028800d66c90_320125_870_1226.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-3.anyacg.co/images/be/f0/bef0bb9b1a01083898a3ea57c22cf373337b0fee_157758_824_1080.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/ae/53/ae532d053f5ed3935f821ebc5439a48c405e10bc_116045_600_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_12_legs_wasted_appearance_ruined/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_12_legs_wasted_appearance_ruined/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_12_legs_wasted_appearance_ruined/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_12_legs_wasted_appearance_ruined/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_12_legs_wasted_appearance_ruined/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_12_legs_wasted_appearance_ruined/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_12_legs_wasted_appearance_ruined/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_12_legs_wasted_appearance_ruined/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_12_legs_wasted_appearance_ruined/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_12_legs_wasted_appearance_ruined/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_12_legs_wasted_appearance_ruined/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_12_legs_wasted_appearance_ruined/12.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_12_legs_wasted_appearance_ruined/13.jpg</hinh></chuong>
 
 		<!-- chap 11 -->
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/86/db/86db07675cf5c90ae5e7ec9d1c30aada581af80c_147635_1000_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/74/d8/74d8c8e5cf29430547a32d7560afe3c62ce93e9d_203599_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/37/c2/37c20db143e36573f284af7ff816f5214675b566_196912_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/2e/60/2e60fd73913b9cd04d377e4c23748e5d71f739d2_192950_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/dd/fa/ddfab89d520447056dea52f185d04b9dab9512cd_175621_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/e9/a3/e9a3a60611d57461196130ddd93ceaae49a28bac_191891_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/bf/c5/bfc513a9cd82286418fa79fef7193b29090955c6_185551_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/c0/3a/c03a30beda580a7ee8cb8d37a4c326a779a4d7e3_211283_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/d3/8a/d38a901be7fb75403f2def40c1d0411ae39fa1b4_163785_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/92/ea/92eab76f4cfeb8517ba834b026f5ff90e9e02115_220663_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/a0/83/a0839dd3681c2a2b1c04b30cf490e6db385d2d89_179958_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/bc/11/bc1161c105888b24a688bb6aa81de008c6c4739c_183184_800_1200.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/96/24/96248e4441baa4be71b8f18df70b028800d66c90_320125_870_1226.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-3.anyacg.co/images/be/f0/bef0bb9b1a01083898a3ea57c22cf373337b0fee_157758_824_1080.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/ae/53/ae532d053f5ed3935f821ebc5439a48c405e10bc_116045_600_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/12.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/13.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/14.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_11_sharp_tongue_chef/15.jpg</hinh></chuong>
+
+		<!-- chap 10 -->
+		<chuong ten_chuong="chap 10"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_10_fendai_ziangrong/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_10_fendai_ziangrong/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_10_fendai_ziangrong/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_10_fendai_ziangrong/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_10_fendai_ziangrong/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_10_fendai_ziangrong/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_10_fendai_ziangrong/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_10_fendai_ziangrong/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_10_fendai_ziangrong/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_10_fendai_ziangrong/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_10_fendai_ziangrong/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_10_fendai_ziangrong/12.jpg</hinh></chuong>
+
+		<!-- chap 9 -->
+		<chuong ten_chuong="chap 9"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_9_watching_the_fire_burn_across_the_river/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_9_watching_the_fire_burn_across_the_river/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_9_watching_the_fire_burn_across_the_river/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_9_watching_the_fire_burn_across_the_river/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_9_watching_the_fire_burn_across_the_river/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_9_watching_the_fire_burn_across_the_river/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_9_watching_the_fire_burn_across_the_river/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_9_watching_the_fire_burn_across_the_river/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_9_watching_the_fire_burn_across_the_river/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_9_watching_the_fire_burn_across_the_river/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_9_watching_the_fire_burn_across_the_river/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_9_watching_the_fire_burn_across_the_river/12.jpg</hinh></chuong>
+
+		<!-- chap 8 -->
+		<chuong ten_chuong="chap 8"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_8_first_time_entering_the_feng_residence/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_8_first_time_entering_the_feng_residence/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_8_first_time_entering_the_feng_residence/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_8_first_time_entering_the_feng_residence/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_8_first_time_entering_the_feng_residence/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_8_first_time_entering_the_feng_residence/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_8_first_time_entering_the_feng_residence/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_8_first_time_entering_the_feng_residence/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_8_first_time_entering_the_feng_residence/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_8_first_time_entering_the_feng_residence/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_8_first_time_entering_the_feng_residence/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_8_first_time_entering_the_feng_residence/12.jpg</hinh></chuong>
+
+		<!-- chap 7 -->
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/12.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/13.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_7_meeting_again_in_the_capital/14.jpg</hinh></chuong>
 
 		<!-- chap 6 -->
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/04/78/047844a7f072203f5ff1bc6a24469dd1fc67a865_73469_557_841.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/e5/95/e59584d7bb1797e647420ac5ad21f66c97fe2dbb_70192_533_815.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/c6/87/c687366f63bca30b2f85b8d2caa947338f17406d_85581_535_819.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/0b/05/0b056d3b911974cf6729ef37b3a3ab82aec27975_85474_536_814.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/3d/97/3d9766aebe88e4bb9d3968ba14da936af3cc986f_77433_531_815.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/45/4c/454c224c1b2f23c3c5600e406db996b7d4ce6111_82904_536_812.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/1f/53/1f53dc3c41197384980faaf2b831ca7abc797d74_74492_538_820.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/a0/ff/a0ffd54300c093f723163671bc6e4c2cd0156ec2_79868_545_814.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/dd/ec/ddecccd4a7355301aebce1ff32f8418309f9a47c_88075_541_816.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/fa/86/fa86b2ed9939aaca52bb25d6ccc6cf36ddd1b19d_76332_544_821.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/0e/67/0e673382cc63dff0ad508e1107652f40fbca73b9_68815_529_819.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/22/8f/228f06fcbc5a21272e0b62febfc2905f3577c4cb_71120_545_829.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/2f/53/2f53b5e8cc7f62e52e671482ed016094ecc67f6f_320157_870_1226.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-3.anyacg.co/images/be/f0/bef0bb9b1a01083898a3ea57c22cf373337b0fee_157758_824_1080.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/3a/66/3a663545e167f8ed650c87ce4a0d9b515a5d6bc7_238384_1739_978.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/12.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/13.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/14.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_6_feng_residences_messenger/15.jpg</hinh></chuong>
 
 		<!-- chap 5 -->
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/1.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/2.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/3.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/4.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/5.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/6.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/7.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/8.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/9.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/10.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/11.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/12.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/13.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/14.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/15.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/16.jpg?1513386190</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-image.mpcdn.net/49103/1098628/17.jpg?1513386190</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/12.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/13.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/14.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/15.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/16.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_5_past_and_present/17.jpg</hinh></chuong>
 
 		<!-- chap 4 -->
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/1.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/2.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/3.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/4.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/5.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/6.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/7.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/8.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/9.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/10.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/11.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/12.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/13.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/14.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/15.jpg?1513387157</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-image.mpcdn.net/49103/1098021/16.jpg?1513387157</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/12.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/13.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/14.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/15.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_4_doraemon/16.jpg</hinh></chuong>
 
 		<!-- chap 3 -->
-		<chuong ten_chuong="chap 3"><hinh>http://file-image.mpcdn.net/49103/1084439/1.jpg?1513396928</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-image.mpcdn.net/49103/1084439/2.jpg?1513396928</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-image.mpcdn.net/49103/1084439/3.jpg?1513396928</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-image.mpcdn.net/49103/1084439/4.jpg?1513396928</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-image.mpcdn.net/49103/1084439/5.jpg?1513396928</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-image.mpcdn.net/49103/1084439/6.jpg?1513396928</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-image.mpcdn.net/49103/1084439/7.jpg?1513396928</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-image.mpcdn.net/49103/1084439/8.jpg?1513396928</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-image.mpcdn.net/49103/1084439/9.jpg?1513396928</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-image.mpcdn.net/49103/1084439/10.jpg?1513396928</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-image.mpcdn.net/49103/1084439/11.jpg?1513396928</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-image.mpcdn.net/49103/1084439/12.jpg?1513396928</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_03_personal_pharmacy/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_03_personal_pharmacy/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_03_personal_pharmacy/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_03_personal_pharmacy/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_03_personal_pharmacy/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_03_personal_pharmacy/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_03_personal_pharmacy/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_03_personal_pharmacy/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_03_personal_pharmacy/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_03_personal_pharmacy/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_03_personal_pharmacy/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_03_personal_pharmacy/12.jpg</hinh></chuong>
 
 		<!-- chap 2 -->
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/1.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/2.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/3.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/4.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/5.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/6.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/7.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/8.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/9.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/10.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/11.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/12.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/13.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/14.jpg?1513422952</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-image.mpcdn.net/49103/1071082/15.jpg?1513422952</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/12.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/13.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/14.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_2/15.jpg</hinh></chuong>
 
 		<!-- chap 1 -->
-		<chuong ten_chuong="chap 1"><hinh>http://file-image.mpcdn.net/49103/1071081/1.jpg?1513422956</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-image.mpcdn.net/49103/1071081/2.jpg?1513422956</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-image.mpcdn.net/49103/1071081/3.jpg?1513422956</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-image.mpcdn.net/49103/1071081/4.jpg?1513422956</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-image.mpcdn.net/49103/1071081/5.jpg?1513422956</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-image.mpcdn.net/49103/1071081/6.jpg?1513422956</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-image.mpcdn.net/49103/1071081/7.jpg?1513422956</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-image.mpcdn.net/49103/1071081/8.jpg?1513422956</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-image.mpcdn.net/49103/1071081/9.jpg?1513422956</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-image.mpcdn.net/49103/1071081/10.jpg?1513422956</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-image.mpcdn.net/49103/1071081/11.jpg?1513422956</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-image.mpcdn.net/49103/1071081/12.jpg?1513422956</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-image.mpcdn.net/49103/1071081/13.jpg?1513422956</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_1/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_1/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_1/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_1/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_1/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_1/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_1/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_1/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_1/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_1/10.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_1/11.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_1/12.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s3.mkklcdnv3.com/mangakakalot/s1/shen_yi_di_nu/chapter_1/13.jpg</hinh></chuong>
 
     </noi_dung>
 </truyen>
