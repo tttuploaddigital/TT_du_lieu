@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>dragon ball super</ten_truyen>
+		<ma_truyen>dragon-ball-super</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/33921/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dragon-ball-super-eng.xml</file_xml>
+		<chap_moi>chap 45</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>jagaaaaaan</ten_truyen>
+		<ma_truyen>jagaaaaaan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/47205/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jagaaaaaan-eng.xml</file_xml>
+		<chap_moi>chap 66</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>minamoto-kun monogatari</ten_truyen>
+		<ma_truyen>minamoto-kun-monogatari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/6428/10/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/minamoto-kun-monogatari-eng.xml</file_xml>
+		<chap_moi>chap 274</chap_moi>
+	<truyen>
 		<ten_truyen>eden's zero</ten_truyen>
 		<ma_truyen>eden-s-zero</ma_truyen>
         <hinh_nho>https://file-thumb.anyacg.co/W300/eb/36/eb36df4b390a69a81498ebd021956adfe1fb9514_39872_200_297.jpg</hinh_nho>
@@ -293,26 +313,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/27951/3/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mushoku-tensei-isekai-ittara-honki-dasu-eng.xml</file_xml>
 		<chap_moi>chap 50</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
-		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kumo-desu-ga-nani-ka-eng.xml</file_xml>
-		<chap_moi>chap 33.2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>it's my life</ten_truyen>
-		<ma_truyen>it-s-my-life</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/40060/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/it-s-my-life-eng.xml</file_xml>
-		<chap_moi>chap 42</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>sousei no onmyouji</ten_truyen>
-		<ma_truyen>sousei-no-onmyouji</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/24603/11/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sousei-no-onmyouji-eng.xml</file_xml>
-		<chap_moi>chap 62</chap_moi>
 	</truyen>
 </danh_sach_truyen>
