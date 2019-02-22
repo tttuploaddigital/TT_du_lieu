@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>detective conan</ten_truyen>
+		<ma_truyen>detective-conan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/17/13/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/detective-conan-eng.xml</file_xml>
+		<chap_moi>ch. 1028</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>caterpillar</ten_truyen>
+		<ma_truyen>caterpillar</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28919/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/caterpillar-eng.xml</file_xml>
+		<chap_moi>chap 44</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tomo-chan wa onnanoko!</ten_truyen>
+		<ma_truyen>tomo-chan-wa-onnanoko</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/34075/8/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomo-chan-wa-onnanoko-eng.xml</file_xml>
+		<chap_moi>ch. 874</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>dragon ball super</ten_truyen>
 		<ma_truyen>dragon-ball-super</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/33921/3/200.jpg</hinh_nho>
@@ -292,26 +313,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
 		<chap_moi>chap 112</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>to you, the immortal</ten_truyen>
-		<ma_truyen>to-you-the-immortal</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/45063/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/to-you-the-immortal-eng.xml</file_xml>
-		<chap_moi>chap 89</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 295</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mushoku tensei - isekai ittara honki dasu</ten_truyen>
-		<ma_truyen>mushoku-tensei-isekai-ittara-honki-dasu</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/27951/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mushoku-tensei-isekai-ittara-honki-dasu-eng.xml</file_xml>
-		<chap_moi>chap 50</chap_moi>
 	</truyen>
 </danh_sach_truyen>

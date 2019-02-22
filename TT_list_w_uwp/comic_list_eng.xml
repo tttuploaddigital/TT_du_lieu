@@ -2664,14 +2664,14 @@
         <gioi_thieu>The She-Devil with a Sword meets the Lord of the Jungle! Eson Duul is an evil man. The mere mention of his name makes powerful quake with fear. He has no regard for life, including that of man. But he may finally have met his match when he finds himself up against Red Sonja and Tarzan! Gail Simone (Birds of Prey, Red Sonja) and Walter Geovani (Red Sonja, Clean Room) reunite to bring us the crossover event featuring two of fiction's greatest heroes side by side at last!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-sonja-tarzan-eng.xml</file_xml>
     </truyen>
-	<truyen ten="return of wolverine" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="return of wolverine" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>return of wolverine</ten_truyen>
 		<ma_truyen>return-of-wolverine</ma_truyen>
         <tac_gia>Charles Soule, Steve McNiven</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/r/return-of-wolverine/1_medium.jpg</hinh_nho>
         <gioi_thieu>HE'S BACK, BUB.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/return-of-wolverine-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/return-of-wolverine-eng.xml</file_xml>
     </truyen>
 	<truyen ten="revenge of wonderland" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>revenge of wonderland</ten_truyen>

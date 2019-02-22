@@ -1,6 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>return of wolverine</ten_truyen>
+		<ma_truyen>return-of-wolverine</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/return-of-wolverine/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/return-of-wolverine-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>miles morales: spider-man</ten_truyen>
+		<ma_truyen>miles-morales-spider-man</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/miles-morales-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/miles-morales-spider-man-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>x-o manowar (2017)</ten_truyen>
+		<ma_truyen>x-o-manowar-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-o-manowar-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-o-manowar-2017-eng.xml</file_xml>
+		<chap_moi>issue 24</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>detective conan</ten_truyen>
+		<ma_truyen>detective-conan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/17/13/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/detective-conan-eng.xml</file_xml>
+		<chap_moi>ch. 1028</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>caterpillar</ten_truyen>
+		<ma_truyen>caterpillar</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28919/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/caterpillar-eng.xml</file_xml>
+		<chap_moi>chap 44</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tomo-chan wa onnanoko!</ten_truyen>
+		<ma_truyen>tomo-chan-wa-onnanoko</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/34075/8/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomo-chan-wa-onnanoko-eng.xml</file_xml>
+		<chap_moi>ch. 874</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>star martial god technique</ten_truyen>
+		<ma_truyen>star-martial-god-technique</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/44777/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/star-martial-god-technique-eng.xml</file_xml>
+		<chap_moi>chap 221</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>solo leveling</ten_truyen>
+		<ma_truyen>solo-leveling</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/f1/fd/f1fd1cc899c1d8d919644341b96497ec864d914d_25991_200_270.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/solo-leveling-eng.xml</file_xml>
+		<chap_moi>chap 59</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tamen de gushi</ten_truyen>
+		<ma_truyen>tamen-de-gushi</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/29522/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tamen-de-gushi-eng.xml</file_xml>
+		<chap_moi>chap 184</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>justice league (2018)</ten_truyen>
 		<ma_truyen>justice-league-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
@@ -251,68 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/38108/6/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hatsukoi-zombie-eng.xml</file_xml>
 		<chap_moi>chap 154</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>west coast avengers (2018)</ten_truyen>
-		<ma_truyen>west-coast-avengers-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/west-coast-avengers-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/west-coast-avengers-2018-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the flash (2016)</ten_truyen>
-		<ma_truyen>the-flash-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
-		<chap_moi>issue 63</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>zombie tramp (2014)</ten_truyen>
-		<ma_truyen>zombie-tramp-2014</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/z/zombie-tramp/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/zombie-tramp-2014-eng.xml</file_xml>
-		<chap_moi>issue 56</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tenkuu shinpan</ten_truyen>
-		<ma_truyen>tenkuu-shinpan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tenkuu-shinpan-eng.xml</file_xml>
-		<chap_moi>chap 248</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kiss x sis</ten_truyen>
-		<ma_truyen>kiss-x-sis</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5162/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kiss-x-sis-eng.xml</file_xml>
-		<chap_moi>chap 129</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mai ball!</ten_truyen>
-		<ma_truyen>mai-ball</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/38802/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mai-ball-eng.xml</file_xml>
-		<chap_moi>chap 106.1</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>i the female robot</ten_truyen>
-		<ma_truyen>i-the-female-robot</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/4082/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/i-the-female-robot-eng.xml</file_xml>
-		<chap_moi>chap 165</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>my love tiger</ten_truyen>
-		<ma_truyen>my-love-tiger</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/30148/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/my-love-tiger-eng.xml</file_xml>
-		<chap_moi>chap 132</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>a journey to the past</ten_truyen>
-		<ma_truyen>a-journey-to-the-past</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/42922/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/a-journey-to-the-past-eng.xml</file_xml>
-		<chap_moi>chap 113</chap_moi>
 	</truyen>
 </danh_sach_truyen>
