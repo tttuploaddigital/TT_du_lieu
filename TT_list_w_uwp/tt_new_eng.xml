@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="wolverine: infinity watch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>wolverine: infinity watch</ten_truyen>
+		<ma_truyen>wolverine-infinity-watch</ma_truyen>
+        <tac_gia>Gerry Duggan, Andy MacDonald</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wolverine-infinity-watch/1_medium.jpg</hinh_nho>
+        <gioi_thieu>REVEALED AT LAST! HOW WOLVERINE GOT THE INFINITY STONE! Wolverine has finally returned, disentwined from the evil clutches of Soteira...but hang on, didn't he have an Infinity Stone? How did THAT happen?! And wasn't he popping up all over the place for a little while? The answers you seek are finally revealed as Logan goes cosmic alongside everyone's favorite god of lies and stories, Loki Laufeyson!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wolverine-infinity-watch-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="hulkverines" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hulkverines</ten_truyen>
+		<ma_truyen>hulkverines</ma_truyen>
+        <tac_gia>Greg Pak, Ario Anindito</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hulkverines/1_medium.jpg</hinh_nho>
+        <gioi_thieu>At last! It's Weapon H versus his predecessors-Wolverine and the Hulk! Once, the Weapon X program sought to recreate the world's two greatest hunters. They ended up with Weapon H, a man of Adamantium claws and gamma-juiced blood. Now, Wolverine and the Hulk are back in action - and coming after the dangerous creation made in their name!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hulkverines-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="doctor strange (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>doctor strange (2018)</ten_truyen>
+		<ma_truyen>doctor-strange-2018</ma_truyen>
+        <tac_gia>Mark Waid, Jesus Saiz</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/doctor-strange-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>SORCERER SUPREME...OF THE GALAXY! The Eye of Agamotto is closed! Doctor Stephen Strange has lost his connection to the Earth's arcane power, and he can't wait to recover while nightmares press against the seams of our reality. Tony Stark offers a 21st-century solution: When astral travel fails, try astronautical travel. Enter Doctor Strange: Space-Explorer Supreme! New spells, allies and enemies - new and old - await Strange beyond the stars, along with corners and secrets of the Marvel Universe seen here for the first time! Space is endless, but time is short. After years of threats, Stephen's bill for magic use is coming due - who will come to collect?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doctor-strange-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="kuro no shoukanshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kuro no shoukanshi</ten_truyen>
 		<ma_truyen>kuro-no-shoukanshi</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>Years have passed after Yugi's adventures and now it's Yuki Judai's turn. Yuki Judai is a new student in the school Duel Academy, a school dedicated to teach duelist the basics and advanced techniques. Judai is determined to be world's #1 duelist, accepting challenges from his rivals (and friends). Although the manga is based on the anime, the story is really different and unrelated.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/yu-gi-oh-gx-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="man without fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>man without fear</ten_truyen>
-		<ma_truyen>man-without-fear</ma_truyen>
-        <tac_gia>Jed Mackay, Danilo Beyruth</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/man-without-fear-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Daredevil is gone, but Hell's Kitchen is still a place of heroes and villains. Foggy Nelson will learn what it means to live in a world without a Daredevil. And without a Daredevil to protect it, has hell come for his city? Who is The Man Without Fear?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/man-without-fear-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="doomsday clock" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>doomsday clock</ten_truyen>
-		<ma_truyen>doomsday-clock</ma_truyen>
-        <tac_gia>Geoff Johns, Gary Frank, Brad Anderson</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/doomsday-clock/1_medium.jpg</hinh_nho>
-        <gioi_thieu>DC Comics presents to you a 12-issue maxiseries from the critically acclaimed team of writer Geoff Johns, artist Gary Frank and colorist Brad Anderson. You are not prepared for what lies ahead within these pages, good readers.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doomsday-clock-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="killmonger" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>killmonger</ten_truyen>
-		<ma_truyen>killmonger</ma_truyen>
-        <tac_gia>Bryan Hill, Juan E. Ferreyra</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/k/killmonger-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE BRUTAL TALE OF A MAN WHO WILL STOP AT NOTHING FOR FREEDOM...One day, Erik Killmonger will rise up and attempt to steal the throne of Wakanda. The throne he believes he is owed. But long before he became 'Killmonger', there was a boy known as N'Jadaka. A boy who was stolen from his home and taught only the world's cruelties. A boy who knew the Black Panther only as a fairy tale, a whisper from strangers. This is the story of a man who is driven by revenge. This is the legend of Killmonger.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/killmonger-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

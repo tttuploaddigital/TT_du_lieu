@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="wolverine: infinity watch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>wolverine: infinity watch</ten_truyen>
+		<ma_truyen>wolverine-infinity-watch</ma_truyen>
+        <tac_gia>Gerry Duggan, Andy MacDonald</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wolverine-infinity-watch/1_medium.jpg</hinh_nho>
+        <gioi_thieu>REVEALED AT LAST! HOW WOLVERINE GOT THE INFINITY STONE! Wolverine has finally returned, disentwined from the evil clutches of Soteira...but hang on, didn't he have an Infinity Stone? How did THAT happen?! And wasn't he popping up all over the place for a little while? The answers you seek are finally revealed as Logan goes cosmic alongside everyone's favorite god of lies and stories, Loki Laufeyson!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wolverine-infinity-watch-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="hulkverines" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>hulkverines</ten_truyen>
+		<ma_truyen>hulkverines</ma_truyen>
+        <tac_gia>Greg Pak, Ario Anindito</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hulkverines/1_medium.jpg</hinh_nho>
+        <gioi_thieu>At last! It's Weapon H versus his predecessors-Wolverine and the Hulk! Once, the Weapon X program sought to recreate the world's two greatest hunters. They ended up with Weapon H, a man of Adamantium claws and gamma-juiced blood. Now, Wolverine and the Hulk are back in action - and coming after the dangerous creation made in their name!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hulkverines-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="doctor strange (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>doctor strange (2018)</ten_truyen>
+		<ma_truyen>doctor-strange-2018</ma_truyen>
+        <tac_gia>Mark Waid, Jesus Saiz</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/doctor-strange-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>SORCERER SUPREME...OF THE GALAXY! The Eye of Agamotto is closed! Doctor Stephen Strange has lost his connection to the Earth's arcane power, and he can't wait to recover while nightmares press against the seams of our reality. Tony Stark offers a 21st-century solution: When astral travel fails, try astronautical travel. Enter Doctor Strange: Space-Explorer Supreme! New spells, allies and enemies - new and old - await Strange beyond the stars, along with corners and secrets of the Marvel Universe seen here for the first time! Space is endless, but time is short. After years of threats, Stephen's bill for magic use is coming due - who will come to collect?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doctor-strange-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="avengers: no road home" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>avengers: no road home</ten_truyen>
 		<ma_truyen>avengers-no-road-home</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/m/middlewest/1_medium.jpg</hinh_nho>
         <gioi_thieu>The lands between the coasts are vast, slow to change, and full of hidden magics. Mistakes have been made, and in this NEW ONGOING SERIES, an unwitting adventurer searches for answers to quell a coming storm that knows his name. From author SKOTTIE YOUNG (I HATE FAIRYLAND, Deadpool) and artist JORGE CORONA (NO. 1 WITH A BULLET, Feathers, Big Trouble in Little China: Old Man Jack) comes the tale of Abel, a young boy who must navigate an old land in order to reconcile his family's history.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/middlewest-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="uncanny x-men (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>uncanny x-men (2018)</ten_truyen>
-		<ma_truyen>uncanny-x-men-2018</ma_truyen>
-        <tac_gia>Ed Brisson, Matthew Rosenberg, Kelly Thompson, Mahmud A. Asrar, Mark Bagley, Mirko Colak</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE CHILDREN OF THE ATOM ARE BACK! New ongoing series kicking off with a 10-part weekly epic, the flagship X-Men series that started it all is back and better than ever! Starting with a mysterious and tragic disappearance, the X-Men are drawn into what might be...their final adventure?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="electric warriors" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>electric warriors</ten_truyen>
-		<ma_truyen>electric-warriors</ma_truyen>
-        <tac_gia>Steve Orlando, Travel Foreman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/electric-warriors/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A new tale of the future DC Universe, set in a previously unexplored timeline-the Cosmic Dark Age! Years after the Great Disaster, the Earth has started to rebuild and rejoin the universal coalition. In order to prevent a galactic war, different worlds throughout the known cosmos have created a new system of competitive combat to give each participating planet their own voice in the intergalactic struggle. Each world has one diplomatic gladiator, chosen to possess the Electric Seed and fight for their homeland as the Electric Warrior!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/electric-warriors-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="daughters of the dragon (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>daughters of the dragon (2018)</ten_truyen>
-		<ma_truyen>daughters-of-the-dragon-2018</ma_truyen>
-        <tac_gia>Jed Mackay, Travel Foreman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/daughters-of-the-dragon-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A DOUBLE-SIZED Marvel Digital Original you don't want to miss! MISTY KNIGHT and COLLEEN WING have stolen the shows on Marvel's LUKE CAGE, IRON FIST and DEFENDERS on Netflix and now they have their own MDO series! This duo has been fighting crime as the Daughters of the Dragon for years but with Misty's new job with the FBI, does this mean the two are splitzies? NOT ON YOUR LIFE! A crazy adventure that Colleen initiates puts comics' two greatest ass-kickers on a collision course with a weird and scary side of the Marvel Universe that will have you on the edge of your seat.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/daughters-of-the-dragon-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
