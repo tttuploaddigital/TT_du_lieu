@@ -3,362 +3,524 @@
     <noi_dung>
 
         <!-- https://mangapark.me/manga/m5b76658daeb76 -->
-		<!-- thieu chap 25 26 -->
+		<!-- https://manganelo.com/manga/yue_shang -->
 
 		<!-- them -->
 
+		<!-- chap 40.5 -->
+		<chuong ten_chuong="chap 40.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_405/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 40.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_405/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 40.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_405/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 40.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_405/4.jpg</hinh></chuong>
+
+		<!-- chap 40 -->
+		<chuong ten_chuong="chap 40"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_40/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 40"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_40/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 40"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_40/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 40"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_40/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 40"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_40/5.jpg</hinh></chuong>
+
+		<!-- chap 39.5 -->
+		<chuong ten_chuong="chap 39.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_395/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_395/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_395/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_395/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_395/5.jpg</hinh></chuong>
+
+		<!-- chap 39 -->
+		<chuong ten_chuong="chap 39"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_39/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_39/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_39/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_39/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 39"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_39/5.jpg</hinh></chuong>
+
+		<!-- chap 38.5 -->
+		<chuong ten_chuong="chap 38.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_385/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_385/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_385/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_385/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_385/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_385/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_385/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_385/8.jpg</hinh></chuong>
+
+		<!-- chap 38 -->
+		<chuong ten_chuong="chap 38"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_38/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_38/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_38/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_38/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_38/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_38/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 38"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_38/7.jpg</hinh></chuong>
+
+		<!-- chap 37.5 -->
+		<chuong ten_chuong="chap 37.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_375/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_375/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_375/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_375/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_375/5.jpg</hinh></chuong>
+
+		<!-- chap 37 -->
+		<chuong ten_chuong="chap 37"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_37/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_37/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_37/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_37/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 37"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_37/5.jpg</hinh></chuong>
+
+		<!-- chap 36.5 -->
+		<chuong ten_chuong="chap 36.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_365/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_365/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_365/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_365/4.jpg</hinh></chuong>
+
+		<!-- chap 36 -->
+		<chuong ten_chuong="chap 36"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_36/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_36/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_36/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_36/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 36"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_36/5.jpg</hinh></chuong>
+
+		<!-- chap 35.5 -->
+		<chuong ten_chuong="chap 35.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_355/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_355/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_355/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_355/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_355/5.jpg</hinh></chuong>
+
+		<!-- chap 35 -->
+		<chuong ten_chuong="chap 35"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_35/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_35/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_35/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_35/9.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 35"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_35/10.jpg</hinh></chuong>
+
+		<!-- chap 34.5 -->
+		<chuong ten_chuong="chap 34.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_345/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_345/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_345/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_345/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_345/5.jpg</hinh></chuong>
+
+		<!-- chap 34 -->
+		<chuong ten_chuong="chap 34"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_34/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_34/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_34/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_34/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 34"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_34/5.jpg</hinh></chuong>
+
+		<!-- chap 33.5 -->
+		<chuong ten_chuong="chap 33.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_335/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_335/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_335/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_335/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_335/5.jpg</hinh></chuong>
+
+		<!-- chap 33 -->
+		<chuong ten_chuong="chap 33"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_33/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_33/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_33/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_33/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 33"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_33/5.jpg</hinh></chuong>
+
+		<!-- chap 32.5 -->
+		<chuong ten_chuong="chap 32.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_325/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_325/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_325/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_325/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_325/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_325/6.jpg</hinh></chuong>
+
+		<!-- chap 32 -->
+		<chuong ten_chuong="chap 32"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_32/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_32/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_32/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_32/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 32"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_32/5.jpg</hinh></chuong>
+
+		<!-- chap 31.5 -->
+		<chuong ten_chuong="chap 31.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_315/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 31.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_315/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 31.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_315/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 31.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_315/4.jpg</hinh></chuong>
+
+		<!-- chap 31 -->
+		<chuong ten_chuong="chap 31"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_31/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 31"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_31/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 31"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_31/3.jpg</hinh></chuong>
+
 		<!-- chap 30.5 -->
-		<chuong ten_chuong="chap 30.5"><hinh>http://file-comic-4.anyacg.co/images/ba/c1/bac11adcce8a52a3093fec5f78c556adfc23e058_204833_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30.5"><hinh>http://file-comic-4.anyacg.co/images/e9/cf/e9cf3102a8a94226ed16f101c5fe27277e77f838_227066_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30.5"><hinh>http://file-comic-4.anyacg.co/images/40/1e/401ed605e1aecf4b91853703cddea0079fa8d361_205597_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30.5"><hinh>http://file-comic-4.anyacg.co/images/da/d1/dad1ee25aed7e2fa05f1570567bc1ed919f5e6c3_211440_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_305/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_305/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_305/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_305/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_305/5.jpg</hinh></chuong>
 
 		<!-- chap 30 -->
-		<chuong ten_chuong="chap 30"><hinh>http://file-comic-4.anyacg.co/images/b3/0c/b30c1ec3591d24029091a734b43c09eb2016370b_240304_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30"><hinh>http://file-comic-4.anyacg.co/images/53/9c/539ce56a5fe77dad13a645c93df6f2e1a6676ab1_234583_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30"><hinh>http://file-comic-4.anyacg.co/images/36/55/36552871e8b13af0414e898c2eada67d456f49c1_227149_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30"><hinh>http://file-comic-4.anyacg.co/images/9f/50/9f5095da448a30f79f535af5bf7bcf06967afce1_215056_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 30"><hinh>http://file-comic-4.anyacg.co/images/01/c6/01c69b5c9f78cb4b7eb3548b23f9a27af8666653_162428_850_1201.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_30/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_30/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_30/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_30/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 30"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_30/5.jpg</hinh></chuong>
 
 		<!-- chap 29.5 -->
-		<chuong ten_chuong="chap 29.5"><hinh>http://file-comic-4.anyacg.co/images/13/f6/13f6d303fa390e74a5270b28e75c5b818dd8cead_268008_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 29.5"><hinh>http://file-comic-4.anyacg.co/images/df/cd/dfcd14d8cbac17745ef5c3e9ae3ff5243ce0dd42_219256_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 29.5"><hinh>http://file-comic-4.anyacg.co/images/bb/56/bb56a0f873b861eae7286fb490b5066753cfe692_165880_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 29.5"><hinh>http://file-comic-4.anyacg.co/images/9f/27/9f27ac3e5b91a3fb5bd7397d96fc622756b94ddc_161540_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 29.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_295/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_295/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_295/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_295/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_295/5.jpg</hinh></chuong>
 
 		<!-- chap 29 -->
-		<chuong ten_chuong="chap 29"><hinh>http://file-comic-4.anyacg.co/images/70/ec/70ec01ab24f32e646e5134d1c44e42425bc4c360_214581_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 29"><hinh>http://file-comic-4.anyacg.co/images/22/cc/22ccfff019bbcccaaf295b4864b7865b86f671fe_231625_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 29"><hinh>http://file-comic-4.anyacg.co/images/65/69/6569bb196195190f12989c88fe1734e0fcdb82e2_201678_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 29"><hinh>http://file-comic-4.anyacg.co/images/b4/fb/b4fbb733d8e6fccf42ce84d466e6cb16d8c37eda_235890_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 29"><hinh>http://file-comic-4.anyacg.co/images/ab/00/ab00256611b2fc05316f3c523ee7a71d05db1e97_217339_850_1201.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_29/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_29/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_29/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_29/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 29"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_29/5.jpg</hinh></chuong>
 
 		<!-- chap 28.5 -->
-		<chuong ten_chuong="chap 28.5"><hinh>http://file-comic-4.anyacg.co/images/97/26/9726ed1e41cd93db3258361873d162a81eda2aee_180656_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28.5"><hinh>http://file-comic-4.anyacg.co/images/7a/c4/7ac44243fe16b52f9ee7a5dee00df48eb7c1593a_208476_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28.5"><hinh>http://file-comic-4.anyacg.co/images/d7/72/d772b689b93264ccffd87ec5131e13a83b968d4d_193570_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28.5"><hinh>http://file-comic-4.anyacg.co/images/69/04/6904d9d62c53d8921f971c9cd8d29625c0ed9c21_159185_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_285/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_285/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_285/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_285/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_285/5.jpg</hinh></chuong>
 
 		<!-- chap 28 -->
-		<chuong ten_chuong="chap 28"><hinh>http://file-comic-4.anyacg.co/images/20/39/20395b10818e4d99f3e3a5e4b7d551d2949ef500_174164_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28"><hinh>http://file-comic-4.anyacg.co/images/21/26/212658c3119a34aaaa6fb4fdf45b26f103ba12d4_206667_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28"><hinh>http://file-comic-4.anyacg.co/images/57/3d/573dabe822b0b72c4303098679b8996347ede290_196995_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28"><hinh>http://file-comic-4.anyacg.co/images/ab/e0/abe0a36174b38a09565953335d2934d464e96870_224529_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 28"><hinh>http://file-comic-4.anyacg.co/images/95/e5/95e5270bf2f64bc8ca409b63d359ae19970d4198_201857_850_1201.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_28/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_28/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_28/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_28/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 28"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_28/5.jpg</hinh></chuong>
 
 		<!-- chap 27.5 -->
-		<chuong ten_chuong="chap 27.5"><hinh>http://file-comic-4.anyacg.co/images/af/cc/afcca0a6ddafcd65fc95b8f0805c935e7350af37_210317_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27.5"><hinh>http://file-comic-4.anyacg.co/images/60/15/6015b322a764b883ad9a110aaf2a025885517a81_184034_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27.5"><hinh>http://file-comic-4.anyacg.co/images/9a/9c/9a9c7837af70d1548c3810ce08136b71cb7a2332_172114_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27.5"><hinh>http://file-comic-4.anyacg.co/images/70/f4/70f4f884cf029ee58d82f0a6393d2db150c00c0a_214810_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27.5"><hinh>http://file-comic-4.anyacg.co/images/a5/e9/a5e94d4ec6044401ca9e355a195797d901a446a7_191440_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_275/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_275/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_275/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_275/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_275/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_275/6.jpg</hinh></chuong>
 
 		<!-- chap 27 -->
-		<chuong ten_chuong="chap 27"><hinh>http://file-comic-4.anyacg.co/images/4b/97/4b972443b4305d4e74d13bbba50c6b2111df0416_142186_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27"><hinh>http://file-comic-4.anyacg.co/images/71/78/71782f1af84bdc8766fa7e627309fe4695197f79_257350_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27"><hinh>http://file-comic-4.anyacg.co/images/77/8e/778e02c089bf6d4a8755435fcde87521ec179b0e_214616_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27"><hinh>http://file-comic-4.anyacg.co/images/ff/38/ff38386a0d26e5d76e6a6282f0990746e01a7bf3_242998_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 27"><hinh>http://file-comic-4.anyacg.co/images/77/e8/77e853a9071b184fced50a69c6ae9af3766216e4_198878_850_1201.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_27/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_27/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_27/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_27/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 27"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_27/5.jpg</hinh></chuong>
+
+		<!-- chap 26 -->
+		<chuong ten_chuong="chap 26"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_26/1.jpg</hinh></chuong>
+
+		<!-- chap 25.5 -->
+		<chuong ten_chuong="chap 25.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_255/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_255/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_255/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_255/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_255/5.jpg</hinh></chuong>
+
+		<!-- chap 25 -->
+		<chuong ten_chuong="chap 25"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_25/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_25/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_25/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_25/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 25"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_25/5.jpg</hinh></chuong>
 
 		<!-- chap 24.5 -->
-		<chuong ten_chuong="chap 24.5"><hinh>http://file-comic-4.anyacg.co/images/a7/c9/a7c9241a73bb1643c406d7e2524e95480a8d418a_164028_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24.5"><hinh>http://file-comic-4.anyacg.co/images/e5/36/e53669dfa2a22753a12d6739bb101c0ad5b438e9_190401_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24.5"><hinh>http://file-comic-4.anyacg.co/images/c6/5e/c65ec252fcca7bde50b4ac2e0d99ec8ab4531227_229250_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24.5"><hinh>http://file-comic-4.anyacg.co/images/d9/6d/d96dcd711494e42aa78cf65a15707f4499329162_235251_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24.5"><hinh>http://file-comic-4.anyacg.co/images/d5/2e/d52ea8e02465934d4d314a4a507af2e2b30938c1_203043_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_245/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_245/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_245/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_245/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_245/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_245/6.jpg</hinh></chuong>
 
 		<!-- chap 24 -->
-		<chuong ten_chuong="chap 24"><hinh>http://file-comic-4.anyacg.co/images/39/3f/393f7038a4c7abcc3486081ac255680be52b7e57_177611_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24"><hinh>http://file-comic-4.anyacg.co/images/c8/9c/c89cbd399076c23008c000bf8a789530052f9ae8_198780_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24"><hinh>http://file-comic-4.anyacg.co/images/cb/64/cb64f5fa3f5f0b7ced65d118ad20f74a638a3a66_202143_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24"><hinh>http://file-comic-4.anyacg.co/images/34/be/34befc7fd138ce77233aca49b45a4c30880d43bf_179829_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 24"><hinh>http://file-comic-4.anyacg.co/images/d3/6d/d36d77e09debb2498175746b303f0f5c495b5555_222410_850_1201.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_24/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_24/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_24/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_24/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 24"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_24/5.jpg</hinh></chuong>
 
 		<!-- chap 23.5 -->
-		<chuong ten_chuong="chap 23.5"><hinh>http://file-comic-4.anyacg.co/images/e6/4f/e64f0266e06f163db709b7646ebb856794a55ab4_277570_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23.5"><hinh>http://file-comic-4.anyacg.co/images/da/9d/da9d9c8c4cd60c83342699c62d535621d7d9f356_295913_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23.5"><hinh>http://file-comic-4.anyacg.co/images/36/7e/367ec6d4aad63d90e8ec5e51218dcf1b7f464140_282539_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23.5"><hinh>http://file-comic-4.anyacg.co/images/2d/a0/2da0458967edcc6c1d4b86bfb9acf0f8a61ff73f_175205_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_235/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_235/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_235/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_235/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_235/5.jpg</hinh></chuong>
 
 		<!-- chap 23 -->
-		<chuong ten_chuong="chap 23"><hinh>http://file-comic-4.anyacg.co/images/48/7d/487d6bbed6293a67c8891fbc82531b22806a2dd1_205637_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23"><hinh>http://file-comic-4.anyacg.co/images/70/af/70af9301b4eb815ba50fa37f962b6aeb67daec2d_203462_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23"><hinh>http://file-comic-4.anyacg.co/images/ad/33/ad33e4c6b82bd4b8f876b0d254f544f23579830d_203526_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23"><hinh>http://file-comic-4.anyacg.co/images/e2/f5/e2f58b1e708a7571e5211620f3df8eb57eec9490_221746_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 23"><hinh>http://file-comic-4.anyacg.co/images/bc/eb/bcebb47d60f74fda7bd80c1ac58ad121092982f8_256877_870_1230.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_23/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_23/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_23/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_23/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 23"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_23/5.jpg</hinh></chuong>
 
 		<!-- chap 22.5 -->
-		<chuong ten_chuong="chap 22.5"><hinh>http://file-comic-4.anyacg.co/images/7a/35/7a35cb523262a5790855256c3bd22d586b10f85b_225700_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 22.5"><hinh>http://file-comic-4.anyacg.co/images/e9/47/e947bc6b674c9b17c0c833d71298050154e08950_246635_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 22.5"><hinh>http://file-comic-4.anyacg.co/images/3d/05/3d05086d709e3c16df6d6f5ca3b76b0eb553aaa9_218482_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 22.5"><hinh>http://file-comic-4.anyacg.co/images/d9/77/d977c195b7712cd7d766c259fa43955d09595bbd_205249_850_1201.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_225/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_225/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_225/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_225/4.jpg</hinh></chuong>
 
 		<!-- chap 22 -->
-		<chuong ten_chuong="chap 22"><hinh>http://file-comic-4.anyacg.co/images/00/a5/00a54824b669f24be7b95d9a0482372d1233389a_224309_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 22"><hinh>http://file-comic-4.anyacg.co/images/02/67/02672776b61d43182bd407a34ea31a9e36d1b80e_197477_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 22"><hinh>http://file-comic-4.anyacg.co/images/31/3a/313a743d753ce438e2051a3883b97c5c08e034bb_242618_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 22"><hinh>http://file-comic-4.anyacg.co/images/ff/52/ff52af42f445882aca4ba354ba258a971f1be727_246746_850_1201.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_22/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_22/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_22/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 22"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_22/4.jpg</hinh></chuong>
 
 		<!-- chap 21.5 -->
-		<chuong ten_chuong="chap 21.5"><hinh>http://file-comic-4.anyacg.co/images/ba/f5/baf5acdef077737ba687f78c3a6ca74cb5fe6aa3_228025_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 21.5"><hinh>http://file-comic-4.anyacg.co/images/69/d1/69d1617c548998aa88be5524c8647af52c989a51_165185_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 21.5"><hinh>http://file-comic-4.anyacg.co/images/aa/bd/aabdc0dd812517d6b524d951924cf088f2ccbb5e_189348_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 21.5"><hinh>http://file-comic-4.anyacg.co/images/27/ed/27ed48eb6dadbc5f8958e0b6cf4f5d47e656780a_249692_850_1201.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_215/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_215/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_215/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_215/4.jpg</hinh></chuong>
 
 		<!-- chap 21 -->
-		<chuong ten_chuong="chap 21"><hinh>http://file-comic-4.anyacg.co/images/4a/40/4a40d19c82ea646083c2fbea13c73373801c4267_234251_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 21"><hinh>http://file-comic-4.anyacg.co/images/74/fc/74fccb65427e41631af694ed06ea4f1bc3d52e9e_231860_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 21"><hinh>http://file-comic-4.anyacg.co/images/c1/75/c175df8769b4d3dbd203465020d931a456fbb924_235487_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 21"><hinh>http://file-comic-4.anyacg.co/images/9c/ad/9cada7b7af18365bdfe22ceb2ef96152f205c96e_246264_870_1230.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_21/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_21/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_21/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 21"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_21/4.jpg</hinh></chuong>
 
 		<!-- chap 20.5 -->
-		<chuong ten_chuong="chap 20.5"><hinh>http://file-comic-4.anyacg.co/images/02/5b/025b30b54dd244bf9d6a8802c065c6ee30e0213b_266838_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20.5"><hinh>http://file-comic-4.anyacg.co/images/75/c4/75c425a6f49cd6243115c9cb780f7e03133af44e_193911_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20.5"><hinh>http://file-comic-4.anyacg.co/images/7a/4a/7a4ac981f8cdb5d04fffcf5d119e4d1a03168b3f_217230_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20.5"><hinh>http://file-comic-4.anyacg.co/images/07/36/07367ef1e17006d760ed381e472f9b6631cb7a5b_171120_850_1201.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_205/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_205/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_205/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_205/4.jpg</hinh></chuong>
 
 		<!-- chap 20 -->
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/64/bb/64bb3743aeea0c0b25137c6d1ec29a5ad0137360_206838_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/c8/82/c8820fce41877404741bb13ab5a6ee4cb730f446_248302_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/e9/3b/e93bb176a376aa0905108e44aa9af1686d56a9d6_195213_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 20"><hinh>http://file-comic-4.anyacg.co/images/86/69/8669a4d9e2e18c562bb16dadeb8c583c68d3eab0_225134_850_1201.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_20/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_20/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_20/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 20"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_20/4.jpg</hinh></chuong>
 
 		<!-- chap 19.5 -->
-		<chuong ten_chuong="chap 19.5"><hinh>http://file-comic-4.anyacg.co/images/67/7f/677f3f2d6ca2aac55a64cde39eb9b010a2768d82_192310_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19.5"><hinh>http://file-comic-4.anyacg.co/images/3e/e9/3ee956e0dc32b361d4db15ec5643a62e56cf7560_179481_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19.5"><hinh>http://file-comic-4.anyacg.co/images/4b/39/4b39ed4998bd7884f113e43047a438663605ceab_172654_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19.5"><hinh>http://file-comic-4.anyacg.co/images/36/9a/369abaf148c85489553da45b4ddb5eb9391fc7d2_151508_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19.5"><hinh>http://file-comic-4.anyacg.co/images/38/f8/38f87d8fe78aa61b7f1e367071c44c16d49f65de_42684_737_1193.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_195/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_195/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_195/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_195/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_195/5.jpg</hinh></chuong>
 
 		<!-- chap 19 -->
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/d4/e4/d4e41e83c6850ade882ee568bfdff2157abcf972_156627_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/47/d8/47d873bc927d747acdb5c9785d9b9e39d2f96795_176705_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/6e/e2/6ee243212649d02865dc85b6a5f6401284e53e65_213850_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/0c/25/0c2552a6083fb6df4f8926633861e09f9e191f12_211563_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 19"><hinh>http://file-comic-4.anyacg.co/images/56/08/56083f6ad9c19b173529bdc9665d8c9d61f804c9_182513_850_1201.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_19/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_19/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_19/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_19/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 19"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_19/5.jpg</hinh></chuong>
 
 		<!-- chap 18.5 -->
-		<chuong ten_chuong="chap 18.5"><hinh>http://file-comic-4.anyacg.co/images/a7/a2/a7a280b9fda4b42a2a80f250063be92b1d2d10a7_122381_722_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18.5"><hinh>http://file-comic-4.anyacg.co/images/fd/40/fd40b7bfa9f97d8073acc59c102e0ad2dd8b6336_106715_722_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18.5"><hinh>http://file-comic-4.anyacg.co/images/0d/47/0d47a2cd2b97b1ba810a27f0854fb05ab383b448_90082_722_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18.5"><hinh>http://file-comic-4.anyacg.co/images/42/a5/42a533bae67b02cc34ca603885d2008046e0d119_118618_722_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_185/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_185/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_185/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_185/4.jpg</hinh></chuong>
 
 		<!-- chap 18 -->
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/6b/c7/6bc7de815b75f77da9831f1c93d3d52d24436663_132229_722_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/df/16/df16b9516b082f44565023a2aaab9af673bc01e6_126286_722_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/57/d0/57d07dd04d6bc665ed1458608d8f26741d391d69_107627_722_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/f9/86/f986c9736460b61541c806bfd692f910bc0bb942_112765_722_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 18"><hinh>http://file-comic-4.anyacg.co/images/9d/cc/9dccdd8a9120677bd39c14480cb84f8cf0eb638b_128087_722_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_18/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_18/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_18/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_18/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 18"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_18/5.jpg</hinh></chuong>
 
 		<!-- chap 17.5 -->
-		<chuong ten_chuong="chap 17.5"><hinh>http://file-comic-4.anyacg.co/images/26/57/2657bbb9c37d2d89cdd0a81e3093679492c3ec2d_112081_716_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17.5"><hinh>http://file-comic-4.anyacg.co/images/ce/57/ce57680c8526d5931a11e2d5231fe609adfb0588_130334_716_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17.5"><hinh>http://file-comic-4.anyacg.co/images/53/19/53194855e209e0d36b159a24c0d0b4ad3666ace1_105161_716_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17.5"><hinh>http://file-comic-4.anyacg.co/images/b6/41/b641ca10fada730e272352cceb3973bd4ba1ead6_111993_716_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_175/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_175/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_175/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_175/4.jpg</hinh></chuong>
 
 		<!-- chap 17 -->
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/0c/82/0c821894206e7dbed9f6cb43a894f2fad29cb6fc_121480_716_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/cc/6f/cc6f23c5e8e305b68b72a5709b6bf1c420e8051e_125948_716_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/2d/fb/2dfb08a6a92c463a18eccaf3d755a254a31106c2_134675_716_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 17"><hinh>http://file-comic-4.anyacg.co/images/ad/c0/adc08ae4a47741e1bd119fef65d5266be47d059d_114569_716_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_17/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_17/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_17/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 17"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_17/4.jpg</hinh></chuong>
 
 		<!-- chap 16.5 -->
-		<chuong ten_chuong="chap 16.5"><hinh>http://file-comic-4.anyacg.co/images/e8/72/e872ae4f3729f7e75657946ddf40d37643332964_118377_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16.5"><hinh>http://file-comic-4.anyacg.co/images/85/24/8524ba463d5527d3b8600bfdbaa7c60eff919546_137866_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16.5"><hinh>http://file-comic-4.anyacg.co/images/94/7b/947bf6cbfae6291a901e046b7613cf04f0cb2a38_121577_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16.5"><hinh>http://file-comic-4.anyacg.co/images/cd/8f/cd8f013c28ed1dbbc3202060aa76716ed6c3074b_107299_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_165/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_165/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_165/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_165/4.jpg</hinh></chuong>
 
 		<!-- chap 16 -->
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/30/56/3056e2045ef023b185597be268870a4c7ae9391b_103418_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/27/21/2721fe02c6969f9e9a5428e3f75e742fecd1f128_110762_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/ad/d2/add2fe66c7543a335fa46c51eb276d1440c189e0_133697_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/74/14/7414f1e39c349c84944cf917b1f703c36ded6e24_139189_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 16"><hinh>http://file-comic-4.anyacg.co/images/83/2b/832b49685200acdf5dabf75292ca3b51f9144c86_129806_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_16/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_16/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_16/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_16/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 16"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_16/5.jpg</hinh></chuong>
 
 		<!-- chap 15.5 -->
-		<chuong ten_chuong="chap 15.5"><hinh>http://file-comic-4.anyacg.co/images/37/40/3740a6638c43502e650c52f4bd584125ff49fd02_108919_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15.5"><hinh>http://file-comic-4.anyacg.co/images/54/6b/546b189b48b4fe0795d0b9a535ca5881349a87cf_121181_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15.5"><hinh>http://file-comic-4.anyacg.co/images/6e/76/6e76567368bf1f77617047cebc365e5c5f6eebd1_124348_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15.5"><hinh>http://file-comic-4.anyacg.co/images/75/75/7575d7d34d6182842bdac251ee42e6219e89087c_137618_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15.5"><hinh>http://file-comic-4.anyacg.co/images/25/48/254847167aaa2c60ad1d1a6605980a6987ebcfdb_91033_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_155/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_155/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_155/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_155/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_155/5.jpg</hinh></chuong>
 
 		<!-- chap 15 -->
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/7d/af/7daf26860aaab7cf7e37d5ad464ad346d55aed6e_136166_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/98/78/9878cf69e0b5b4e4fef997820b1c0ca61b98f854_121319_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/3e/af/3eaf36a1afcfe5b11c32247d71ef1fdf698fc377_118878_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/91/a6/91a6f77d3725de5679bfb6dd82a3874aada0b426_125569_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 15"><hinh>http://file-comic-4.anyacg.co/images/37/40/3740a6638c43502e650c52f4bd584125ff49fd02_108919_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_15/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_15/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_15/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_15/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 15"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_15/5.jpg</hinh></chuong>
 
 		<!-- chap 14.5 -->
-		<chuong ten_chuong="chap 14.5"><hinh>http://file-comic-4.anyacg.co/images/d0/ed/d0ed6e883d7961dacd3b3b7f78938384d7614f95_138733_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14.5"><hinh>http://file-comic-4.anyacg.co/images/4d/34/4d34749383f45e7607b052dcd5a213604b56d832_125119_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14.5"><hinh>http://file-comic-4.anyacg.co/images/8f/8e/8f8e5498062405f9aa51877bc6487ea6156f9c2f_113218_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14.5"><hinh>http://file-comic-4.anyacg.co/images/6e/61/6e618bc699a9199ae034deffa942e260a76dcf8a_126253_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_145/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_145/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_145/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_145/4.jpg</hinh></chuong>
 
 		<!-- chap 14 -->
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/c0/ab/c0ab102480cccb76afa90178206e0114e4d81a96_111911_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/6c/ee/6ceeda6965b4759059e186c81d7c4ad14c25eda2_118556_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/9f/19/9f1977bca04456f80c41b5850bb9becbe03dae34_133479_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/1e/00/1e00cee126d3780552125be2dec54cbb025f3d76_124328_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 14"><hinh>http://file-comic-4.anyacg.co/images/4c/d0/4cd0d7492c5f91015ef383691eff7517cc56fcec_128027_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_14/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_14/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_14/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_14/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 14"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_14/5.jpg</hinh></chuong>
 
 		<!-- chap 13.5 -->
-		<chuong ten_chuong="chap 13.5"><hinh>http://file-comic-4.anyacg.co/images/f6/05/f6054ce1c680586a6085380d7ce4f619334d9bf4_117217_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13.5"><hinh>http://file-comic-4.anyacg.co/images/e2/27/e2279f98cc2a459d94d6ce75f3ecad72721e5b0c_104175_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13.5"><hinh>http://file-comic-4.anyacg.co/images/66/b5/66b58a409c9299833ac7995203256e1ac8b1bb54_117450_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13.5"><hinh>http://file-comic-4.anyacg.co/images/5a/b3/5ab3f9218a0a1bfe38f246816e4f789b81bd7e6e_116660_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_135/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_135/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_135/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_135/4.jpg</hinh></chuong>
 
 		<!-- chap 13 -->
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/4f/7d/4f7d10898aa6aa7683d0450bafde07291edf1a04_127814_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/bc/ca/bcca289228a63ede5e180bb35bdcc8c5569560ae_115986_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/33/41/334161fe3d68d0bd632d218fe8a7223488c78620_109533_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 13"><hinh>http://file-comic-4.anyacg.co/images/53/ce/53ce8a8e493d7942db3c4ad463910cd84f3705e2_110880_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_13/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_13/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_13/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 13"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_13/4.jpg</hinh></chuong>
 
 		<!-- chap 12.5 -->
-		<chuong ten_chuong="chap 12.5"><hinh>http://file-comic-4.anyacg.co/images/67/20/6720ce14db41cfa364daf8c3ab99de8a07bac9c6_116058_642_879.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12.5"><hinh>http://file-comic-4.anyacg.co/images/0b/90/0b906056477f0e4c4ba0b518ed146614b2d8a2c0_112521_641_895.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12.5"><hinh>http://file-comic-4.anyacg.co/images/c6/10/c6106316f17b66d4e0ef18fbfb0f310bd21a47a5_105720_641_895.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12.5"><hinh>http://file-comic-4.anyacg.co/images/2a/f4/2af491ec889c20d574c638e1e038e82c67940e24_106169_641_898.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_125/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_125/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_125/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_125/4.jpg</hinh></chuong>
 
 		<!-- chap 12 -->
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/ae/0f/ae0faa413a3f36596088f63312ea1c5bcbae8223_118939_638_898.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/73/98/7398785b28d83cf609d726a924f7ce964b4ca6fb_127582_641_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/d7/81/d7810f886c7e73fb373800c8c94b57eeaa0d5d90_123682_639_898.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 12"><hinh>http://file-comic-4.anyacg.co/images/23/04/23040fa9bcbb4945850254517863a6b53643382a_103636_638_899.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_12/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_12/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_12/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 12"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_12/4.jpg</hinh></chuong>
 
 		<!-- chap 11.5 -->
-		<chuong ten_chuong="chap 11.5"><hinh>http://file-comic-4.anyacg.co/images/24/99/2499b416fdd2d19beb466c01f43da3c4ea9acfc2_111247_639_892.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11.5"><hinh>http://file-comic-4.anyacg.co/images/15/59/1559f8f2e179bab81aa03f09297b1a06898cd71b_123188_637_894.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11.5"><hinh>http://file-comic-4.anyacg.co/images/15/e7/15e78e307197f3ef8335816d41090b24eb716deb_112632_637_896.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11.5"><hinh>http://file-comic-4.anyacg.co/images/0c/f8/0cf8d0327f53bad58443ade677ebeb62a8d70a10_110724_638_897.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_115/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_115/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_115/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_115/4.jpg</hinh></chuong>
 
 		<!-- chap 11 -->
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/52/bc/52bc1c1c6d8ed969f85cf3adf851acf9112983b0_98560_636_896.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/8b/25/8b25b402ed6bfff27db23adee6462d9d488c71cf_115936_636_898.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/95/02/95026ebead25cdbde0b99a0dfd858c96be783fc1_121330_637_897.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 11"><hinh>http://file-comic-4.anyacg.co/images/f4/bd/f4bde941c1af841f3e401e3a3940f48f827c33f1_87653_637_896.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_11/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_11/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_11/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 11"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_11/4.jpg</hinh></chuong>
 
 		<!-- chap 10.5 -->
-		<chuong ten_chuong="chap 10.5"><hinh>http://file-comic-4.anyacg.co/images/2d/2c/2d2ce325f56882d8c9fddd62475b6b426add1ff1_115281_715_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 10.5"><hinh>http://file-comic-4.anyacg.co/images/8e/c3/8ec3d1e8df5f9fb2584dd6e890b5fd2e09f5aac2_113551_715_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 10.5"><hinh>http://file-comic-4.anyacg.co/images/0f/c6/0fc6fa7341b3ce0b2676a8dbd76a892166e9b92d_116009_715_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 10.5"><hinh>http://file-comic-4.anyacg.co/images/12/34/1234111aee2d41ba5345b094484662d92f5e774d_104190_715_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_105/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_105/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_105/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_105/4.jpg</hinh></chuong>
 
 		<!-- chap 10 -->
-		<chuong ten_chuong="chap 10"><hinh>http://file-comic-4.anyacg.co/images/ee/00/ee0060e925db67ef804cc6bb4805557ee6319b57_97974_715_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 10"><hinh>http://file-comic-4.anyacg.co/images/c2/f0/c2f0610ede2702ab683cd45cb2877383dcad1226_128317_715_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 10"><hinh>http://file-comic-4.anyacg.co/images/d0/9b/d09b4e41df9c6b63b643c486b31bee84616b7e65_115035_715_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 10"><hinh>http://file-comic-4.anyacg.co/images/af/b4/afb4fef3eb5f34ab692015cc781e1ff5044d570a_127066_715_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_10/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_10/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_10/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 10"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_10/4.jpg</hinh></chuong>
 
 		<!-- chap 9.5 -->
-		<chuong ten_chuong="chap 9.5"><hinh>http://file-comic-4.anyacg.co/images/08/ad/08ad4b93356d86f6ca04908f3df5abb4f67293ee_123100_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 9.5"><hinh>http://file-comic-4.anyacg.co/images/53/82/5382f8f1cb2f72c36c5098dcc2ccb1cdd31d4ac3_91774_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 9.5"><hinh>http://file-comic-4.anyacg.co/images/c0/1f/c01fbd76814d4f3cfe29f102e89bc89dcdc0cf91_114741_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 9.5"><hinh>http://file-comic-4.anyacg.co/images/10/e3/10e3d2e9bfd11eef08dab00b594d04fd2755cb66_117788_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 9.5"><hinh>http://file-comic-4.anyacg.co/images/5b/bd/5bbd89601c5a66459a08ca4f095e20714c1be09d_110623_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_95/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_95/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_95/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_95/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_95/5.jpg</hinh></chuong>
 
 		<!-- chap 9 -->
-		<chuong ten_chuong="chap 9"><hinh>http://file-comic-4.anyacg.co/images/00/3b/003b7b02ed3a39637dc1ceab2514bf087f09ede6_107615_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 9"><hinh>http://file-comic-4.anyacg.co/images/05/fb/05fbdc4a13d2b4dbbc7fe0f8a2e9552e4514a9dc_126709_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 9"><hinh>http://file-comic-4.anyacg.co/images/dd/2e/dd2ef13d081e1ea24e7ad5d3c2c730ec7e551f02_107587_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 9"><hinh>http://file-comic-4.anyacg.co/images/49/90/4990cff911dcaa6afb932a26d2ef1ab63ab889e5_101844_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 9"><hinh>http://file-comic-4.anyacg.co/images/5c/fc/5cfcd41d832ff385311ca3de16697ea88fd62b62_112539_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_9/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_9/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_9/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_9/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 9"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_9/5.jpg</hinh></chuong>
 
 		<!-- chap 8.5 -->
-		<chuong ten_chuong="chap 8.5"><hinh>http://file-comic-4.anyacg.co/images/23/74/2374438219f33479770cd6096820611109d98b0e_109046_696_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 8.5"><hinh>http://file-comic-4.anyacg.co/images/bf/2e/bf2e6bd37e1a1090a6ef38fb8a053e76121e50e0_90037_696_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 8.5"><hinh>http://file-comic-4.anyacg.co/images/ec/a3/eca31f7b3c3f1acd48516711c5d747d1e893e084_105278_696_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 8.5"><hinh>http://file-comic-4.anyacg.co/images/d5/0d/d50db50c2cfd4e9985b8213a68a30dad22e29fb2_104636_696_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_85/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_85/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_85/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_85/4.jpg</hinh></chuong>
 
 		<!-- chap 8 -->
-		<chuong ten_chuong="chap 8"><hinh>http://file-comic-4.anyacg.co/images/22/8f/228fde18154cff2cd55a1db8909acadba25d6e4a_95377_696_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 8"><hinh>http://file-comic-4.anyacg.co/images/a0/ad/a0adee24f91d0421f9a3feff76a476382be018ee_107055_696_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 8"><hinh>http://file-comic-4.anyacg.co/images/85/09/8509563114d603fa1d9ca47ccc8cd86aa945cb39_108373_696_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 8"><hinh>http://file-comic-4.anyacg.co/images/7a/9f/7a9fa01d040482c973e470baed49fda32631d7fe_105467_696_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 8"><hinh>http://file-comic-4.anyacg.co/images/a1/45/a1452d7d3b4cf113418cbbb4997f9341b9ae1339_104538_696_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_8/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_8/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_8/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_8/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 8"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_8/5.jpg</hinh></chuong>
 
 		<!-- chap 7.5 -->
-		<chuong ten_chuong="chap 7.5"><hinh>http://file-comic-4.anyacg.co/images/e0/61/e061d0c43597db4d001fe16cdfdd5f0dcf9ea5f1_106282_699_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 7.5"><hinh>http://file-comic-4.anyacg.co/images/db/f9/dbf93078d5b13ae487b8b3a177fb0037ede1df29_106730_699_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 7.5"><hinh>http://file-comic-4.anyacg.co/images/ab/34/ab3436685dd5cc116d8f0c30c87f52524050ee5d_107844_699_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 7.5"><hinh>http://file-comic-4.anyacg.co/images/32/cb/32cbe48ef887f390996f4b65a7021a73053208da_96434_699_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_75/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_75/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_75/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_75/4.jpg</hinh></chuong>
 
 		<!-- chap 7 -->
-		<chuong ten_chuong="chap 7"><hinh>http://file-comic-4.anyacg.co/images/a7/86/a7868ae054475a6261e2e8728d6fb2b6c6645a6b_118095_699_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 7"><hinh>http://file-comic-4.anyacg.co/images/b6/f1/b6f16838337c1ed9e31d1e44869fcd3142a73b5a_57571_634_446.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 7"><hinh>http://file-comic-4.anyacg.co/images/27/a4/27a41dd57e24084c733ae9f375fd55baefb34f08_103603_699_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 7"><hinh>http://file-comic-4.anyacg.co/images/83/10/8310dfcf342bc0e02b93d3d72efd1f7343260afa_85774_699_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_7/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_7/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_7/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 7"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_7/4.jpg</hinh></chuong>
 
 		<!-- chap 6.5 -->
-		<chuong ten_chuong="chap 6.5"><hinh>http://file-comic-4.anyacg.co/images/e3/8c/e38c5eff478cfc14c1ccc0597a891bcd781d8497_103913_678_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6.5"><hinh>http://file-comic-4.anyacg.co/images/c0/dc/c0dc6990c200991e2da2d49c9ae4900bd0065cee_118510_678_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6.5"><hinh>http://file-comic-4.anyacg.co/images/8d/4c/8d4c2f271f9a1f45b89321f6dfc69e492cefe7e6_86472_678_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6.5"><hinh>http://file-comic-4.anyacg.co/images/ca/90/ca9016b104b5b1501e219c4495721ba97762bdbc_112476_678_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_65/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_65/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_65/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_65/4.jpg</hinh></chuong>
 
 		<!-- chap 6 -->
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/db/bc/dbbce6e632401e557502291bda0743c991612a60_109780_678_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/98/c0/98c0d6b54731e4bb507e0576af34eb54e32b9a17_121813_678_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/26/d4/26d47b7f26cf78817d2ebeb889ed23f176732090_125101_678_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/ab/d2/abd2c768fe41879d7f8ad2e3166ddd40d811f433_121134_678_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 6"><hinh>http://file-comic-4.anyacg.co/images/d3/e1/d3e1544004144d38b883218837919bb2a7ab9b2d_110637_678_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_6/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_6/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_6/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_6/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 6"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_6/5.jpg</hinh></chuong>
 
 		<!-- chap 5 -->
-		<chuong ten_chuong="chap 5"><hinh>http://file-comic-4.anyacg.co/images/32/08/320846c99c1d377369a629da23c267763bc095fe_114048_664_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-comic-4.anyacg.co/images/c5/23/c5235e22b7a77637db763e7f83e79bdda8f9d0db_114266_664_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-comic-4.anyacg.co/images/60/1a/601a07c1dd57fac27126266897003d8d760c56b8_106558_664_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-comic-4.anyacg.co/images/65/06/6506549f61d65397dc6c82b31cfdb3e4d3924aeb_121820_664_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-comic-4.anyacg.co/images/a4/5b/a45bfdaa66ad4faf171ec5e9c1492d5a3c2fc0e1_111167_664_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 5"><hinh>http://file-comic-4.anyacg.co/images/3f/c5/3fc5277e5845de734412194de6b7fb219e3852b7_119810_664_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_5/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_5/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_5/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_5/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_5/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_5/6.jpg</hinh></chuong>
 
 		<!-- chap 4 -->
-		<chuong ten_chuong="chap 4"><hinh>http://file-comic-4.anyacg.co/images/f0/10/f010dc6d87a7e8f2966840464f5e1a2846e4856e_112954_690_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-comic-4.anyacg.co/images/9b/32/9b3283d076845e6cfaa6113cdf53710ff04a5554_98949_690_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-comic-4.anyacg.co/images/b4/b7/b4b7e391184ccbf29ba32a856a3ab1ed717db1db_123829_690_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-comic-4.anyacg.co/images/26/ac/26acd0f783672693cadf8ed448b0b113ec9e534c_139648_690_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-comic-4.anyacg.co/images/38/ec/38ece36f7ad755a38011e85d83275cef71fa415a_105680_690_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-comic-4.anyacg.co/images/a7/5e/a75e1cd1660c8c88cf3047ef98127535608af2df_125627_690_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 4"><hinh>http://file-comic-4.anyacg.co/images/5f/14/5f141836f05b3435df2d27cfbc883222e2b38454_125578_690_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_4/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_4/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_4/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_4/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_4/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_4/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 4"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_4/7.jpg</hinh></chuong>
 
 		<!-- chap 3.5 -->
-		<chuong ten_chuong="chap 3.5"><hinh>http://file-comic-4.anyacg.co/images/86/e7/86e7347e9c0493677a9a73891eb386865326f8c5_109957_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 3.5"><hinh>http://file-comic-4.anyacg.co/images/09/ba/09baf309f88ae357c0c5894e810a0b1673256754_108972_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 3.5"><hinh>http://file-comic-4.anyacg.co/images/d9/81/d9811dd86c27a8019aaeefc30cd85142a61d679c_91915_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 3.5"><hinh>http://file-comic-4.anyacg.co/images/8c/31/8c31a106f304e28d5d700bc14eedecd92b606101_87363_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 3.5"><hinh>http://file-comic-4.anyacg.co/images/48/3f/483fd64b169f69737dbd9636c196b396bc0d3b7d_104232_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_35/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_35/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_35/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_35/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_35/5.jpg</hinh></chuong>
 
 		<!-- chap 3 -->
-		<chuong ten_chuong="chap 3"><hinh>http://file-comic-4.anyacg.co/images/cc/46/cc4670f6aba4f009ef80d403ca0030541d33f170_118341_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-comic-4.anyacg.co/images/84/f8/84f8987f8f166063a54121cd71e1a6656bfdc297_85464_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-comic-4.anyacg.co/images/92/75/9275d50d7c39552ce50bc559e3244f2241370b96_72842_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-comic-4.anyacg.co/images/93/74/937474b96ce9e43cd8f53b1f8381a112a1352e96_97304_700_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 3"><hinh>http://file-comic-4.anyacg.co/images/86/3c/863c3c1f1a400e7dc59665af14c5e74be7b42af3_95773_700_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_3/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_3/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_3/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_3/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 3"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_3/5.jpg</hinh></chuong>
 
 		<!-- chap 2.5 -->
-		<chuong ten_chuong="chap 2.5"><hinh>http://file-comic-4.anyacg.co/images/02/e1/02e19792565c041b575b131d97216dcd0eef7c4b_120833_691_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 2.5"><hinh>http://file-comic-4.anyacg.co/images/12/2d/122d4868a94cdb2eafcf8eaedc77816c970ddbd5_123448_691_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 2.5"><hinh>http://file-comic-4.anyacg.co/images/af/af/afaff5acfb62fbbf86db831a79c1e2c7c556e895_123067_691_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 2.5"><hinh>http://file-comic-4.anyacg.co/images/af/53/af533fd031583759ab52249e3f7651a2dd376ba6_120686_691_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_25/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_25/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_25/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2.5"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_25/9.jpg</hinh></chuong>
 
 		<!-- chap 2 -->
-		<chuong ten_chuong="chap 2"><hinh>http://file-comic-4.anyacg.co/images/5d/4e/5d4e53081268717dcbd26f9a3602670872223d64_106416_691_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-comic-4.anyacg.co/images/f6/9c/f69c1fb073ec865fa1a5f6a6305e5f674ac42aec_108552_691_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-comic-4.anyacg.co/images/94/89/9489f644563e3214f28297b1ffcf4a776bac3a0b_91050_691_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-comic-4.anyacg.co/images/bf/26/bf2613e17153bbfbe26158eba12f124595119459_116232_691_900.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 2"><hinh>http://file-comic-4.anyacg.co/images/5e/e8/5ee8b63ddb4de4301812a49889542406acc8d618_116484_691_900.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_2/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_2/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_2/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_2/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_2/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_2/6.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_2/7.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_2/8.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 2"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_2/9.jpg</hinh></chuong>
 
 		<!-- chap 1 -->
-		<chuong ten_chuong="chap 1"><hinh>http://file-comic-4.anyacg.co/images/b7/77/b777d190f1771abdff0ba61631c3cef042d87d4b_82330_420_560.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-comic-4.anyacg.co/images/b0/26/b02658205a753ef4322be3d1591eb8730b8046e6_158118_850_601.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-comic-4.anyacg.co/images/86/80/86804d832208222316f53358c0fd550649d5e0b6_228482_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-comic-4.anyacg.co/images/40/d9/40d901ba27cb13a2869850d207288e39d9a67730_226336_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-comic-4.anyacg.co/images/00/fd/00fd82660cfe16fd7387478b335f6f348074b221_243795_850_1201.jpg</hinh></chuong>
-		<chuong ten_chuong="chap 1"><hinh>http://file-comic-4.anyacg.co/images/8f/5f/8f5f4c77d292b21f13e23ac45f26e75465e2ef3f_240412_850_1201.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_1/1.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_1/2.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_1/3.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_1/4.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_1/5.jpg</hinh></chuong>
+		<chuong ten_chuong="chap 1"><hinh>https://s8.mkklcdnv8.com/mangakakalot/y2/yue_shang/chapter_1/6.jpg</hinh></chuong>
 
     </noi_dung>
 </truyen>
