@@ -6429,14 +6429,14 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>Raku Ichijou may be the heir to a yakuza group, but he's a normal high school kid who dreams of nothing more than to live a peaceful life. But when he crosses paths with a super-hot yet violent transfer student, Chitoge Kirisaki, his once normal life takes a sharp turn for the worse!</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/nisekoi-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="noblesse" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Mystery, School life, Shounen., Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+	<truyen ten="noblesse" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Mystery, School life, Shounen., Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>noblesse</ten_truyen>
 		<ma_truyen>noblesse</ma_truyen>
 		<tac_gia>Son Jae-ho, Lee Gwang-su</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
+		<tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://file-thumb.mpcdn.net/7097/5/200.jpg</hinh_nho>
 		<gioi_thieu>He awakens. For 820 years he has slumbered with no knowledge of mankind's advancements and scientific achievments. The land which he once knew has become an unfamiliar place with new technologies, attitudes, and lifestyles. Cadis Etrama Di Raizel, Rai, while seeking to familiarize himself with this era, somehow locates a loyal servant of his, Frankenstein, who is currently the principal of a South Korean high school. Rai decides that this high school would be the perfect place to help him learn about the new world. He enrolls, and suddenly becomes the friend of Shinwoo, an immature teenager who is also a master martial artist. But this new world is no safer than the old, and the dignified, bewildered, technologically illiterate Rai finds himself caught up in adventures both hilarious and dangerous.</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/noblesse-eng.xml</file_xml>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/noblesse-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="nomi joshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>nomi joshi</ten_truyen>
