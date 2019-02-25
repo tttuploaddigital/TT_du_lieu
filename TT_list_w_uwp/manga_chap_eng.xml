@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>gintama</ten_truyen>
+		<ma_truyen>gintama</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3096/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gintama-eng.xml</file_xml>
+		<chap_moi>chap 701</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dungeon seeker</ten_truyen>
+		<ma_truyen>dungeon-seeker</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41914/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-seeker-eng.xml</file_xml>
+		<chap_moi>chap 30</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kakegurui</ten_truyen>
+		<ma_truyen>kakegurui</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26758/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakegurui-eng.xml</file_xml>
+		<chap_moi>chap 62</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>detective conan</ten_truyen>
 		<ma_truyen>detective-conan</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/17/13/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/33201/4/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-no-hajimekata-eng.xml</file_xml>
 		<chap_moi>chap 23</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>origin  </ten_truyen>
-		<ma_truyen>origin</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/43656/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/origin-eng.xml</file_xml>
-		<chap_moi>chap 79</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mahou tsukai no yome</ten_truyen>
-		<ma_truyen>mahou-tsukai-no-yome</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/25056/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-tsukai-no-yome-eng.xml</file_xml>
-		<chap_moi>chap 53</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mahou shoujo site</ten_truyen>
-		<ma_truyen>mahou-shoujo-site</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
-		<chap_moi>chap 112</chap_moi>
 	</truyen>
 </danh_sach_truyen>

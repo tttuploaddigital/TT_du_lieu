@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>avengers (2018)</ten_truyen>
+		<ma_truyen>avengers-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-2018-eng.xml</file_xml>
+		<chap_moi>issue 15</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>damage (2018)</ten_truyen>
+		<ma_truyen>damage-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/damage-2018-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shuri</ten_truyen>
+		<ma_truyen>shuri</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shuri-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gintama</ten_truyen>
+		<ma_truyen>gintama</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3096/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gintama-eng.xml</file_xml>
+		<chap_moi>chap 701</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dungeon seeker</ten_truyen>
+		<ma_truyen>dungeon-seeker</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41914/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-seeker-eng.xml</file_xml>
+		<chap_moi>chap 30</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kakegurui</ten_truyen>
+		<ma_truyen>kakegurui</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26758/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakegurui-eng.xml</file_xml>
+		<chap_moi>chap 62</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>return of wolverine</ten_truyen>
 		<ma_truyen>return-of-wolverine</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/r/return-of-wolverine/1_medium.jpg</hinh_nho>
@@ -272,47 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tenkuu-shinpan-eng.xml</file_xml>
 		<chap_moi>chap 249</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>adventures of the super sons</ten_truyen>
-		<ma_truyen>adventures-of-the-super-sons</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/adventures-of-the-super-sons/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/adventures-of-the-super-sons-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tony stark: iron man</ten_truyen>
-		<ma_truyen>tony-stark-iron-man</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/tony-stark-iron-man/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/tony-stark-iron-man-eng.xml</file_xml>
-		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wasted space</ten_truyen>
-		<ma_truyen>wasted-space</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wasted-space/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wasted-space-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>darwin's game</ten_truyen>
-		<ma_truyen>darwin-s-game</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
-		<chap_moi>chap 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>horimiya</ten_truyen>
-		<ma_truyen>horimiya</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3949/13/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/horimiya-eng.xml</file_xml>
-		<chap_moi>chap 96</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hatsukoi zombie</ten_truyen>
-		<ma_truyen>hatsukoi-zombie</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/38108/6/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hatsukoi-zombie-eng.xml</file_xml>
-		<chap_moi>chap 154</chap_moi>
 	</truyen>
 </danh_sach_truyen>
