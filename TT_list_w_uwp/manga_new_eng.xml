@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="shinju no nectar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Ecchi, Fantasy, Harem, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>shinju no nectar</ten_truyen>
+		<ma_truyen>shinju-no-nectar</ma_truyen>
+		<tac_gia>Yoshino Hiroyuki, Satou Kenetsu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/b7/71/b77142b1dac4a4cbc4825c9a1e414bf88be264d4_41273_200_314.jpg</hinh_nho>
+		<gioi_thieu>Sakra, the last surviving princess of a fallen kingdom, is being hunted down for the power of Ambrosia she possesses - the ability to grant divine strength, but only to a human. With no human companion, she decides to summon one from another world in a desperate attempt to find a knight to protect her, but the man who answers her call is less than what she had hoped for. From the creators of Qwaser of Stigmata.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shinju-no-nectar-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="okusan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>okusan</ten_truyen>
+		<ma_truyen>okusan</ma_truyen>
+		<tac_gia>Ooi Masakazu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/12/17/121737e10d7c039598e9b3ef0323e53beaf18b70_31035_200_314.jpg</hinh_nho>
+		<gioi_thieu>About a housewife that has moved into a new town trying to adjust to her fairly new married life with certain quirks and encounters with neighbours along the way.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/okusan-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="saotome girl, hitakakusu" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>saotome girl, hitakakusu</ten_truyen>
+		<ma_truyen>saotome-girl-hitakakusu</ma_truyen>
+		<tac_gia>Mizuguchi Naoki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/db/25/db259350fcd577e4e96b29bd68353cd0a8b0ded1_34318_200_310.jpg</hinh_nho>
+		<gioi_thieu>High-Schooler Tsukishima Satoru gets confessed to by local female High-School boxing-talent Saotome Yae. He rejects her initially because he does not want to impede her boxing career (and prevent getting beaten up by her fans). Her female coach, Shioya hears about this and decides to install him as Saotome's trainer so that they can secretly date each other. This situation is also aided by his extensive boxing knowledge.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saotome-girl-hitakakusu-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="kuro no shoukanshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>kuro no shoukanshi</ten_truyen>
 		<ma_truyen>kuro-no-shoukanshi</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/11587/1/200.jpg</hinh_nho>
 		<gioi_thieu>In the year 200X, a Japanese fleet consisting of 3 vessels leave on a mission to South America. After encountering a storm, the ship JDS Mirai find themselves without their escorts and in 1942, traveling towards the island of Midway to face the American fleet in one of largest battles in naval history. The crew of MIrai must decide whether or not to change the course of history by involving itself in WWII.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/zipang-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="happiness" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>happiness</ten_truyen>
-		<ma_truyen>happiness</ma_truyen>
-		<tac_gia>Oshimi Shuzo</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/30345/6/200.jpg</hinh_nho>
-		<gioi_thieu>Makoto Okazaki is your run of the mill high-schooler, a perfect bullying target and a closet pervert. One night he decides to return a DVD to a friend of his and ventures out into the darkness. He notices a person on a nearby rooftop. The person lunges at him before he is able to make sense of this, and bites into his neck, drinking his blood. The attacker stops. At this point Makoto notices that the attacker is a beautiful girl. She asks him: 'Do you want to die or become like me?' He decides to live...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/happiness-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ratman" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Romance, School life, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ratman</ten_truyen>
-		<ma_truyen>ratman</ma_truyen>
-		<tac_gia>Inui Sekihiko</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/8106/2/200.jpg</hinh_nho>
-		<gioi_thieu>Meet Shooto. He's a big hero fan and wants to become a hero! The problem is that he's mocked for being too short. One day, his classmate Mizushima invites him to become a 'hero' at her home which is actually a criminal organization called Jackal. Shooto then gets tricked by Jackal's leader Crea to become their supervillian, Ratman! Now the world's smallest hero will embark on his battle against heroes and villains alike!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/ratman-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="accel world" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Romance, School life, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>accel world</ten_truyen>
-		<ma_truyen>accel-world</ma_truyen>
-		<tac_gia>Kawahara reki, Aigamo Hiroyuki</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/300/3/200.jpg</hinh_nho>
-		<gioi_thieu>No matter how much the times change, bullied kids aren't going anywhere. And fat junior high school student Haruyuki is one of them. But one day, Haruyuki encounters Kuroyukihime, the most beautiful and elegant girl at school, who gives him a mysterious program: 'Brain Burst'...and the secret of the 'Accelerated World.' He may be at the bottom of the food chain at school, but Haruyuki and his destiny begin to 'accelerate' with incredible speed in the virtual realm as he aims for the top.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/accel-world-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
