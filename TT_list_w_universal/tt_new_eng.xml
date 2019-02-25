@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="shinju no nectar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Ecchi, Fantasy, Harem, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>shinju no nectar</ten_truyen>
+		<ma_truyen>shinju-no-nectar</ma_truyen>
+		<tac_gia>Yoshino Hiroyuki, Satou Kenetsu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/b7/71/b77142b1dac4a4cbc4825c9a1e414bf88be264d4_41273_200_314.jpg</hinh_nho>
+		<gioi_thieu>Sakra, the last surviving princess of a fallen kingdom, is being hunted down for the power of Ambrosia she possesses - the ability to grant divine strength, but only to a human. With no human companion, she decides to summon one from another world in a desperate attempt to find a knight to protect her, but the man who answers her call is less than what she had hoped for. From the creators of Qwaser of Stigmata.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shinju-no-nectar-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="okusan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>okusan</ten_truyen>
+		<ma_truyen>okusan</ma_truyen>
+		<tac_gia>Ooi Masakazu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/12/17/121737e10d7c039598e9b3ef0323e53beaf18b70_31035_200_314.jpg</hinh_nho>
+		<gioi_thieu>About a housewife that has moved into a new town trying to adjust to her fairly new married life with certain quirks and encounters with neighbours along the way.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/okusan-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="saotome girl, hitakakusu" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>saotome girl, hitakakusu</ten_truyen>
+		<ma_truyen>saotome-girl-hitakakusu</ma_truyen>
+		<tac_gia>Mizuguchi Naoki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/db/25/db259350fcd577e4e96b29bd68353cd0a8b0ded1_34318_200_310.jpg</hinh_nho>
+		<gioi_thieu>High-Schooler Tsukishima Satoru gets confessed to by local female High-School boxing-talent Saotome Yae. He rejects her initially because he does not want to impede her boxing career (and prevent getting beaten up by her fans). Her female coach, Shioya hears about this and decides to install him as Saotome's trainer so that they can secretly date each other. This situation is also aided by his extensive boxing knowledge.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saotome-girl-hitakakusu-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="wolverine: infinity watch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>wolverine: infinity watch</ten_truyen>
 		<ma_truyen>wolverine-infinity-watch</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>MERCIN' FOR A LIVING! Skottie Young and Nic Klein bring you the craziest tales of the Regeneratin' Degenerate yet! It's been a while since Deadpool's had to merc to make ends meet, but things are tough all over. While Deadpool tries to get his humble mercenary-for-hire business back off the ground, a catastrophic threat so unfathomably huge, so mind-breakingly cataclysmic it defies description, is heading toward Earth, and there's only ONE PERSON WHO CAN STOP IT!!! Oh no, wait... it's not Wade, is it? Oh, It's Wade.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-2018-eng.xml</file_xml>
     </truyen>
-	<truyen ten="murabito desu ga nani ka?" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>murabito desu ga nani ka?</ten_truyen>
-		<ma_truyen>murabito-desu-ga-nani-ka</ma_truyen>
-		<tac_gia>Shiraishi Arata, Sabamu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/40/46/40465d9f542faf8fa07c1a0c0599f22cb9c7dad7_37575_200_310.jpg</hinh_nho>
-		<gioi_thieu>Our protagonist was reincarnated in a world with goblin and dragon....but his optimal job is 'villager'. Using the Tutorial mode' Cheat 'getting one chance to redo life after death' he will show you what a villager can do.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/murabito-desu-ga-nani-ka-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="rokudou no onna-tachi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>rokudou no onna-tachi</ten_truyen>
-		<ma_truyen>rokudou-no-onna-tachi</ma_truyen>
-		<tac_gia>Nakamura Yuji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/cd/2e/cd2efd94fcac78155f060ac6d27986ba8273bd7a_42590_200_314.jpg</hinh_nho>
-		<gioi_thieu>Rokudou is a loser, and everyone knows it. He gets picked on at school, gets snide looks from passersby, and can only muster up the courage to complain in secret with his equally hapless friends. Looking to turn his life around, he desperately uses an ancestral artifact passed down in his family for generations: a scroll that is capable of subduing all demons. However, in the modern age it has a different effect-it makes all bad girls fall in love with him.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/rokudou-no-onna-tachi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="yu-gi-oh! gx" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>yu-gi-oh! gx</ten_truyen>
-		<ma_truyen>yu-gi-oh-gx</ma_truyen>
-		<tac_gia>Sako Toshio</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/4e/af/4eaf78b8ec712017adb9fac2ba1d9584ba4bdf28_42600_200_315.jpg</hinh_nho>
-		<gioi_thieu>Years have passed after Yugi's adventures and now it's Yuki Judai's turn. Yuki Judai is a new student in the school Duel Academy, a school dedicated to teach duelist the basics and advanced techniques. Judai is determined to be world's #1 duelist, accepting challenges from his rivals (and friends). Although the manga is based on the anime, the story is really different and unrelated.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/yu-gi-oh-gx-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
