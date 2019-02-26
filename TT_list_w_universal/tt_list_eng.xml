@@ -9594,8 +9594,8 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
 		<gioi_thieu>Kanato is an average guy working in a small family business, while Shin is a handsome guy working for an elite company. They've been friends since childhood and seemingly at odds, until one day Shin suddenly attacks Kanato... with a kiss!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/tonari-ni-kedamono-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="tong" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Martial arts, Shounen., Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
-		<ten_truyen>tong</ten_truyen>
+	<truyen ten="tong " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Martial arts, Shounen., Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+		<ten_truyen>tong </ten_truyen>
 		<ma_truyen>tong</ma_truyen>
 		<tac_gia>Min, Baek Seung Hoon</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
