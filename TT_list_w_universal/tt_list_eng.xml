@@ -5997,14 +5997,14 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <gioi_thieu>Nothing's happened in Wilder's hometown since they filmed that cult kids' adventure movie there in the 80s...but that's ancient history. Until one day, she and her friends come upon a centuries-old pirate map drawn by someone named Black Mary...and find out there might be some REAL adventure in their tiny town after all!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/misfit-city-eng.xml</file_xml>
     </truyen>
-	<truyen ten="miss mystic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mature, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
+	<truyen ten="miss mystic" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mature, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>miss mystic</ten_truyen>
 		<ma_truyen>miss-mystic</ma_truyen>
 		<tac_gia>Yiseul, Jim Tiji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
+		<tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://file-thumb.mpcdn.net/42815/1/200.jpg</hinh_nho>
 		<gioi_thieu>The working man Tae Pyoung accidentally spilled coffee on a pretty woman on the way to work. While she was in the bathroom, he saw a secret video of her on his phone that could not be saved and was not recorded. Additionally, his life started to slowly fall apart... but... why is that woman going around doing that? Just who is she? Editor's note: the femme fatal woman with a riddle like lethal charm and his life that is falling into despair</gioi_thieu>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/miss-mystic-eng.xml</file_xml>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/miss-mystic-eng.xml</file_xml>
 	</truyen>
 	<truyen ten="mister miracle (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>mister miracle (2017)</ten_truyen>
