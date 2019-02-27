@@ -291,6 +291,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
 		<gioi_thieu>Strange things are appearing from the sky, and the world is slowly dying. In Korea, there aren't enough military men to fight these enemies off, and high-school and college students have no choice but to join the military and help the others survive - at the risk of their own lives.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/afterschool-war-activities-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="age of x-man: alpha" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>age of x-man: alpha</ten_truyen>
+		<ma_truyen>age-of-x-man-alpha</ma_truyen>
+        <tac_gia>Lonnie Nadler, Zac Thompson, Ramon Rosanas</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man/alpha_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE AGE OF X-MAN DAWNS... AND THE X-MEN CANNOT STOP IT.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-alpha-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="age of x-man: nextgen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>age of x-man: nextgen</ten_truyen>
 		<ma_truyen>age-of-x-man-nextgen</ma_truyen>
@@ -1994,6 +2003,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <hinh_nho>https://comicbookroundup.com/img/covers/c/cosmic-ghost-rider/1_medium.jpg</hinh_nho>
         <gioi_thieu>EXPLODING FROM THE PAGES OF THANOS! Frank Castle was the Punisher. A deal with the devil made him Ghost Rider. A deal with Galactus made him cosmic. A deal with Thanos made him... DEAD?!? Not to worry, he's coming back, and he's got a plan to make the universe a better place that's going to lead him into an even CRAZIER adventure than he's ever been in! Join hot new comic (and cosmic?) writer Donny Cates (THANOS, DOCTOR STRANGE) as he pushes his wildest creation past the breaking point!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cosmic-ghost-rider-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="crackdown" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>crackdown</ten_truyen>
+		<ma_truyen>crackdown</ma_truyen>
+        <tac_gia>Jonathan David Goff, Ricardo Jaime</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/crackdown-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The hyper-powered world of Crackdown (Xbox) has made its way to the comic page! In the not-so-distant future, civilized society is more plugged-in and interconnected than ever - but criminal organizations are growing more connected as well, forming unholy alliances, and plotting for an unprecedented campaign against the world. When a series of devastating blackout attacks plunge major metropolitan areas into darkness and chaos, the global population is terrified, traditional law enforcement is overwhelmed - and it's up to The Agency, an elite international crime-fighting task force, to restore peace and deliver justice, by any means necessary.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/crackdown-eng.xml</file_xml>
     </truyen>
 	<truyen ten="crayon days - daikirai na aitsu" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>crayon days - daikirai na aitsu</ten_truyen>
@@ -6557,6 +6575,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-logan-(2016)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Fifty years from now, Logan -- the man who no longer calls himself Wolverine -- will have endured many atrocities: The Marvel Universe's villains will have banded together and rid the world of its heroes. Logan's closest friend, Hawkeye, will have been murdered in cold blood right before his eyes. And driven mad by the same radiation that gave him his superhuman strength, Bruce Banner will have fathered a family of hillbilly Hulks...that eventually went on to slaughter Logan's wife and two children.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-logan-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="old man quill" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>old man quill</ten_truyen>
+		<ma_truyen>old-man-quill</ma_truyen>
+        <tac_gia>Ethan Sacks, Robert Gill</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-quill/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE FAR-FLUNG SAGA OF THE ONCE AND FUTURE STAR-LORD BEGINS! Meet Peter Quill. He used to be Star-Lord - you know, the legendary outlaw - but it's been quite some time since he's gone by that name. Taking over for his father as the Emperor of Spartax, Quill put the life of spacefaring adventure behind him for one of leadership and responsibility. Quill grew up. But things didn't go as planned. Decades have passed, and Peter is haunted by tragedy. Down and out, Quill's existence means nothing...until the former GUARDIANS OF THE GALAXY drag Peter out of his funk for one last mission! The heist of a lifetime - and Quill's harrowing quest for redemption - begins here!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-quill-eng.xml</file_xml>
     </truyen>
 	<truyen ten="oldman  " tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Fantasy, Historical, Seinen, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>oldman  </ten_truyen>

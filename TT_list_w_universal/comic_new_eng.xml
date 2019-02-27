@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="age of x-man: alpha" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>age of x-man: alpha</ten_truyen>
+		<ma_truyen>age-of-x-man-alpha</ma_truyen>
+        <tac_gia>Lonnie Nadler, Zac Thompson, Ramon Rosanas</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man/alpha_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE AGE OF X-MAN DAWNS... AND THE X-MEN CANNOT STOP IT.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-alpha-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="old man quill" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>old man quill</ten_truyen>
+		<ma_truyen>old-man-quill</ma_truyen>
+        <tac_gia>Ethan Sacks, Robert Gill</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-quill/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE FAR-FLUNG SAGA OF THE ONCE AND FUTURE STAR-LORD BEGINS! Meet Peter Quill. He used to be Star-Lord - you know, the legendary outlaw - but it's been quite some time since he's gone by that name. Taking over for his father as the Emperor of Spartax, Quill put the life of spacefaring adventure behind him for one of leadership and responsibility. Quill grew up. But things didn't go as planned. Decades have passed, and Peter is haunted by tragedy. Down and out, Quill's existence means nothing...until the former GUARDIANS OF THE GALAXY drag Peter out of his funk for one last mission! The heist of a lifetime - and Quill's harrowing quest for redemption - begins here!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-quill-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="crackdown" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>crackdown</ten_truyen>
+		<ma_truyen>crackdown</ma_truyen>
+        <tac_gia>Jonathan David Goff, Ricardo Jaime</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/crackdown-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The hyper-powered world of Crackdown (Xbox) has made its way to the comic page! In the not-so-distant future, civilized society is more plugged-in and interconnected than ever - but criminal organizations are growing more connected as well, forming unholy alliances, and plotting for an unprecedented campaign against the world. When a series of devastating blackout attacks plunge major metropolitan areas into darkness and chaos, the global population is terrified, traditional law enforcement is overwhelmed - and it's up to The Agency, an elite international crime-fighting task force, to restore peace and deliver justice, by any means necessary.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/crackdown-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="wolverine: infinity watch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>wolverine: infinity watch</ten_truyen>
 		<ma_truyen>wolverine-infinity-watch</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-gwen-ghost-spider-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>A SPIDER-GEDDON TIE IN! What? You thought we were done with Gwen Stacy after the first two landmark volumes of her series?! GET OUTTA HERE. It's a whole new spin on Gwen and her world of Earth-65, brought to you by none other than SEANAN MCGUIRE and ROSI KAMPE! We pick up with Gwen right where we left her - fighting crime through her home reality, unaware that it sits on the precipice of interdimensional calamity! Someone's gonna be late to band practice...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-gwen-ghost-spider-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="west coast avengers (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>west coast avengers (2018)</ten_truyen>
-		<ma_truyen>west-coast-avengers-2018</ma_truyen>
-        <tac_gia>Kelly Thompson, Stefano Caselli</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/west-coast-avengers-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A NEW ERA DAWNS...AVENGERS ASSEMBLE! HAWKEYE (KATE BISHOP). HAWKEYE (CLINT BARTON). A guy named FUSE. Never have they ever been called 'the big three' of...anything. And now here they are, reunited for, okay, well, it's only the second time ever. Thank god they also brought AMERICA CHAVEZ, GWENPOOL and KID OMEGA. Wait. What? That's right, it's the new West Coast Avengers, son. And you better hope they can figure out how to save the world because BIG things are headed for the West Coast.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/west-coast-avengers-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="robots versus princesses" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Children, Comedy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>robots versus princesses</ten_truyen>
-		<ma_truyen>robots-versus-princesses</ma_truyen>
-        <tac_gia>Todd Matthy, Nicolas Chapuis</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/robots-vs-princesses/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The comic event of the year has arrived! When plucky Princess Zara stumbles upon the Decimator defector Wheeler, she sets in motion events that will pit the spritely cleverness of fairy tale princesses against the raw power of giant robots! The dream match you never thought you'd see begins here. Don't miss it!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robots-versus-princesses-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="middlewest" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>middlewest</ten_truyen>
-		<ma_truyen>middlewest</ma_truyen>
-        <tac_gia>Skottie Young, Jorge Corona</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/middlewest/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The lands between the coasts are vast, slow to change, and full of hidden magics. Mistakes have been made, and in this NEW ONGOING SERIES, an unwitting adventurer searches for answers to quell a coming storm that knows his name. From author SKOTTIE YOUNG (I HATE FAIRYLAND, Deadpool) and artist JORGE CORONA (NO. 1 WITH A BULLET, Feathers, Big Trouble in Little China: Old Man Jack) comes the tale of Abel, a young boy who must navigate an old land in order to reconcile his family's history.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/middlewest-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
