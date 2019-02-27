@@ -36,6 +36,13 @@
 		<chap_moi>issue 2</chap_moi>
 	</truyen>
 	<truyen>
+		<ten_truyen>monstress</ten_truyen>
+		<ma_truyen>monstress</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/monstress/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/monstress-eng.xml</file_xml>
+		<chap_moi>issue 20</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>avengers (2018)</ten_truyen>
 		<ma_truyen>avengers-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
