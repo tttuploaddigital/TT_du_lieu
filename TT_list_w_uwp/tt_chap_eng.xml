@@ -1,6 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>guardians of the galaxy (2019)</ten_truyen>
+		<ma_truyen>guardians-of-the-galaxy-2019</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/guardians-of-the-galaxy-(2019)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/guardians-of-the-galaxy-2019-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>teen titans (2016)</ten_truyen>
+		<ma_truyen>teen-titans-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/t/teen-titans-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teen-titans-2016-eng.xml</file_xml>
+		<chap_moi>issue 27</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>venom (2018)</ten_truyen>
+		<ma_truyen>venom-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/venom-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venom-2018-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>goblin slayer </ten_truyen>
+		<ma_truyen>goblin-slayer</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41855/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-eng.xml</file_xml>
+		<chap_moi>chap 33</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 147</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hawkwood</ten_truyen>
+		<ma_truyen>hawkwood</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/41/c3/41c3b07ecdfbc8c3b966005836ed18f26d5649bc_33350_200_286.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hawkwood-eng.xml</file_xml>
+		<chap_moi>chap 29</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>naomi</ten_truyen>
+		<ma_truyen>naomi</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/naomi/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/naomi-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>black widow (2019)</ten_truyen>
+		<ma_truyen>black-widow-2019</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/black-widow-(2019)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-widow-2019-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>monstress</ten_truyen>
+		<ma_truyen>monstress</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/monstress/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/monstress-eng.xml</file_xml>
+		<chap_moi>issue 20</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>baby steps</ten_truyen>
+		<ma_truyen>baby-steps</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
+		<chap_moi>chap 337</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>akagami no shirayukihime</ten_truyen>
+		<ma_truyen>akagami-no-shirayukihime</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/464/8/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akagami-no-shirayukihime-eng.xml</file_xml>
+		<chap_moi>chap 104</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>coffee and vanilla</ten_truyen>
+		<ma_truyen>coffee-and-vanilla</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/37842/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/coffee-and-vanilla-eng.xml</file_xml>
+		<chap_moi>chap 24</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>avengers (2018)</ten_truyen>
 		<ma_truyen>avengers-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
@@ -230,89 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/35174/2/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuki-ga-michibiku-isekai-douchuu-eng.xml</file_xml>
 		<chap_moi>chap 38</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>spider-man / deadpool</ten_truyen>
-		<ma_truyen>spider-man-deadpool</ma_truyen>
-        <hinh_nho>https://images-na.ssl-images-amazon.com/images/I/61pFDQdn%2BJL._SY346_.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-man-deadpool-eng.xml</file_xml>
-		<chap_moi>issue 46</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>titans (2016) </ten_truyen>
-		<ma_truyen>titans-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/titans-2016-eng.xml</file_xml>
-		<chap_moi>issue 34</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>ms. marvel (2016)</ten_truyen>
-		<ma_truyen>ms-marvel-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/ms-marvel-(2015)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ms-marvel-2016-eng.xml</file_xml>
-		<chap_moi>issue 38</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>onepunch-man</ten_truyen>
-		<ma_truyen>onepunch-man</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onepunch-man-eng.xml</file_xml>
-		<chap_moi>chap 103</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>boku no hero academia</ten_truyen>
-		<ma_truyen>boku-no-hero-academia</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
-		<chap_moi>chap 207</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>usogui</ten_truyen>
-		<ma_truyen>usogui</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
-		<chap_moi>chap 207</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>suicide squad: black files</ten_truyen>
-		<ma_truyen>suicide-squad-black-files</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-black-files/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-black-files-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-23 (2018)</ten_truyen>
-		<ma_truyen>x-23-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>young justice (2019)</ten_truyen>
-		<ma_truyen>young-justice-2019</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/y/young-justice-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/young-justice-2019-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 932</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanatsu no taizai</ten_truyen>
-		<ma_truyen>nanatsu-no-taizai</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
-		<chap_moi>chap 300</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tenkuu shinpan</ten_truyen>
-		<ma_truyen>tenkuu-shinpan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tenkuu-shinpan-eng.xml</file_xml>
-		<chap_moi>chap 249</chap_moi>
 	</truyen>
 </danh_sach_truyen>

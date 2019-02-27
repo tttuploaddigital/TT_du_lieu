@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>guardians of the galaxy (2019)</ten_truyen>
+		<ma_truyen>guardians-of-the-galaxy-2019</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/guardians-of-the-galaxy-(2019)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/guardians-of-the-galaxy-2019-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>teen titans (2016)</ten_truyen>
+		<ma_truyen>teen-titans-2016</ma_truyen>
+		<hinh_nho>https://comicbookroundup.com/img/covers/t/teen-titans-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teen-titans-2016-eng.xml</file_xml>
+		<chap_moi>issue 27</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>venom (2018)</ten_truyen>
+		<ma_truyen>venom-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/venom-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venom-2018-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>naomi</ten_truyen>
+		<ma_truyen>naomi</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/naomi/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/naomi-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>black widow (2019)</ten_truyen>
+		<ma_truyen>black-widow-2019</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/black-widow-(2019)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-widow-2019-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>avengers (2018)</ten_truyen>
 		<ma_truyen>avengers-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
@@ -272,47 +307,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-fairy-tales-(2016)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/grimm-fairy-tales-2016-eng.xml</file_xml>
 		<chap_moi>issue 25</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars (2015)</ten_truyen>
-		<ma_truyen>star-wars-2015</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
-		<chap_moi>issue 60</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>aquaman (2016)</ten_truyen>
-		<ma_truyen>aquaman-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/aquaman-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/aquaman-2016-eng.xml</file_xml>
-		<chap_moi>issue 44</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the wild storm</ten_truyen>
-		<ma_truyen>the-wild-storm</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wild-storm/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-wild-storm-eng.xml</file_xml>
-		<chap_moi>issue 19</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>justice league dark (2018)</ten_truyen>
-		<ma_truyen>justice-league-dark-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-dark-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-dark-2018-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>electric warriors</ten_truyen>
-		<ma_truyen>electric-warriors</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/electric-warriors/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/electric-warriors-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>middlewest</ten_truyen>
-		<ma_truyen>middlewest</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/middlewest/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/middlewest-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
 	</truyen>
 </danh_sach_truyen>

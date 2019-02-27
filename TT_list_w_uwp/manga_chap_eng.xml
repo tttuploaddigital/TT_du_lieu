@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>goblin slayer </ten_truyen>
+		<ma_truyen>goblin-slayer</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41855/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-eng.xml</file_xml>
+		<chap_moi>chap 33</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 147</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hawkwood</ten_truyen>
+		<ma_truyen>hawkwood</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/41/c3/41c3b07ecdfbc8c3b966005836ed18f26d5649bc_33350_200_286.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hawkwood-eng.xml</file_xml>
+		<chap_moi>chap 29</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>baby steps</ten_truyen>
+		<ma_truyen>baby-steps</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
+		<chap_moi>chap 337</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>akagami no shirayukihime</ten_truyen>
+		<ma_truyen>akagami-no-shirayukihime</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/464/8/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akagami-no-shirayukihime-eng.xml</file_xml>
+		<chap_moi>chap 104</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>coffee and vanilla</ten_truyen>
+		<ma_truyen>coffee-and-vanilla</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/37842/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/coffee-and-vanilla-eng.xml</file_xml>
+		<chap_moi>chap 24</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>gintama</ten_truyen>
 		<ma_truyen>gintama</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/3096/2/200.jpg</hinh_nho>
@@ -272,47 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
 		<chap_moi>chap 296</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>boruto : naruto next generations</ten_truyen>
-		<ma_truyen>boruto-naruto-next-generations</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/40807/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boruto-naruto-next-generations-eng.xml</file_xml>
-		<chap_moi>chap 31</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>ragna crimson</ten_truyen>
-		<ma_truyen>ragna-crimson</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/49622/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ragna-crimson-eng.xml</file_xml>
-		<chap_moi>chap 17</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tsuyokute new saga</ten_truyen>
-		<ma_truyen>tsuyokute-new-saga</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
-		<chap_moi>chap 59</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>usogui</ten_truyen>
-		<ma_truyen>usogui</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
-		<chap_moi>chap 189</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
-		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuragi-sou-no-yuuna-san-eng.xml</file_xml>
-		<chap_moi>chap 143</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>maou no hajimekata</ten_truyen>
-		<ma_truyen>maou-no-hajimekata</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/33201/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-no-hajimekata-eng.xml</file_xml>
-		<chap_moi>chap 23</chap_moi>
 	</truyen>
 </danh_sach_truyen>
