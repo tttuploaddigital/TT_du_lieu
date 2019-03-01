@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="hajime no ippo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Martial arts, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hajime no ippo</ten_truyen>
+		<ma_truyen>hajime-no-ippo</ma_truyen>
+		<tac_gia>Morikawa Jyoji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/fa/20/fa205ccbb16cd361708fd290b2649732f3f75638_36159_200_306.jpg</hinh_nho>
+		<gioi_thieu>Throughout his childhood, Makunouchi Ippo has always been picked on by his fellow classmates. Long hours helping his mother run their family business, a fishing boat store, has left him without the time to make friends and so he remains an introverted loner, doomed to be beaten day in and day out. Although he hates being bullied, he hates himself even more for not being able to fight back against his tormentors. 'What is it like to be strong?' he asks himself as he stares at his clenched fist. 'I want to be strong.' His encounter with Takamura Mamoru, a professional boxer, leads to the discovery of a dynamite punch that opens up the doorway to a whole new world where that dream can become a reality. At the Kamogawa Gym, Ippo now trains with the aspirations of becoming a professional boxer and discovering what it means to be strong.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajime-no-ippo-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="isekai meikyuu de harem o" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>isekai meikyuu de harem o</ten_truyen>
+		<ma_truyen>isekai-meikyuu-de-harem-o</ma_truyen>
+		<tac_gia>Sogano Shachi, Hyouju Issei</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/14/c3/14c329ce3afab775841075e4bbff4586ed7c44dc_37357_200_282.jpg</hinh_nho>
+		<gioi_thieu>A man was about to commit suicide and decides to search for a way to die in the internet, but then he found an odd site that asked a lot of questions and had a point based system that allows you to create skills and abilities for a character. He took interest in it and when he finished setting his character he was asked 'You will now be transported to a world with the settings you choose, coming back is not possible, do you still accept?', Then without thinking much of it he pressed YES and found himself in another world with the skills and abilities he chose to have.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-meikyuu-de-harem-o-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="arafoo kenja no isekai seikatsu nikki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>arafoo kenja no isekai seikatsu nikki</ten_truyen>
+		<ma_truyen>arafoo-kenja-no-isekai-seikatsu-nikki</ma_truyen>
+		<tac_gia>Yasukiyo Kotobuki, Johndee</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/f4/dd/f4dd946103dce61483813bbb49f1327a14bb6e70_35437_200_286.jpg</hinh_nho>
+		<gioi_thieu>Satoshi Osako was a player of the VRRPG 'Sword and Sorcery' who defeated the Evil God and died for his troubles. When he awoke again he found himself in a strange unknown forest. Furthermore he possessed his avatar’s body and abilities. In other words, he was a cheat. Can a 40 year old DT, live peacefully in this world?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/arafoo-kenja-no-isekai-seikatsu-nikki-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="shinju no nectar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Ecchi, Fantasy, Harem, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>shinju no nectar</ten_truyen>
 		<ma_truyen>shinju-no-nectar</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/37842/3/200.jpg</hinh_nho>
 		<gioi_thieu>Would you like an older man dressed in suits? She was never this popular before university but before she knew it, Risa was way out of everyone's league. The one who saves her from this cruel fate is a handsome man who can rock his suits, Fukami-san. What will he offer Risa, who is a beginner at love...!?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/coffee-and-vanilla-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="new prince of tennis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>new prince of tennis</ten_truyen>
-		<ma_truyen>new-prince-of-tennis</ma_truyen>
-		<tac_gia>Konomi Takeshi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/6990/9/200.jpg</hinh_nho>
-		<gioi_thieu>The purported advertisement from the Jump Square issue says that everything in The Prince of Tennis up to now has been 'prologue' and that 'a new legend for [the main character] Ryoma and the others will begin.' This continues what happened in the 'Prince of Tennis', after the end of the tournament . In 'The New Prince of Tennis', Ryoma and the others (team members and teams they faced) begin a new adventure when they are the only 50 middle school students to be invited to the Japanese High School Representatives Selection Camp where only the top potentials in the Japanese tennis world train.What will happen now?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/new-prince-of-tennis-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="prince of tennis " tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, School life, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>prince of tennis </ten_truyen>
-		<ma_truyen>prince-of-tennis</ma_truyen>
-		<tac_gia>Konomi Takeshi</tac_gia>
-		<tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/7918/1/200.jpg</hinh_nho>
-		<gioi_thieu>Ryoma Echizen just joined the Seishun Academy's tennis team, which is known for being one of the most competitive teams in Japan. Its members are incredibly talented, gifted, and athletic. With rigorous and extremely intense practices, the upperclassmen of the team expect the very best from themselves and they expect even more from the new members of the team. While most of the freshmen are on pins and needles hoping they won't get cut from the team, Ryoma Echizen is confident, cool, and collected. Some might even say he's cocky, but at least he's got the skills to back up his attitude. With his virtually unreturnable 'twist serve', Ryoma is sure to make the starting team. Join Ryoma and the other first years, as they train hard, make friends, and try to find a place for themselves on the team. And meet Ryoma's cute but chronically shy classmate Sakuno Ryuzaki. She's got a big crush on Ryoma, but will he ever notice her? Ryoma Echizen is the Prince of Tennis. He may be ready for the Seishun Academy tennis team, but are they ready for him?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/prince-of-tennis-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="zipang" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Historical, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>zipang</ten_truyen>
-		<ma_truyen>zipang</ma_truyen>
-		<tac_gia>Kawaguchi Kaiji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/11587/1/200.jpg</hinh_nho>
-		<gioi_thieu>In the year 200X, a Japanese fleet consisting of 3 vessels leave on a mission to South America. After encountering a storm, the ship JDS Mirai find themselves without their escorts and in 1942, traveling towards the island of Midway to face the American fleet in one of largest battles in naval history. The crew of MIrai must decide whether or not to change the course of history by involving itself in WWII.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/zipang-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

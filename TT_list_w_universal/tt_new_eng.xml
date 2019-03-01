@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="hajime no ippo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Martial arts, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hajime no ippo</ten_truyen>
+		<ma_truyen>hajime-no-ippo</ma_truyen>
+		<tac_gia>Morikawa Jyoji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/fa/20/fa205ccbb16cd361708fd290b2649732f3f75638_36159_200_306.jpg</hinh_nho>
+		<gioi_thieu>Throughout his childhood, Makunouchi Ippo has always been picked on by his fellow classmates. Long hours helping his mother run their family business, a fishing boat store, has left him without the time to make friends and so he remains an introverted loner, doomed to be beaten day in and day out. Although he hates being bullied, he hates himself even more for not being able to fight back against his tormentors. 'What is it like to be strong?' he asks himself as he stares at his clenched fist. 'I want to be strong.' His encounter with Takamura Mamoru, a professional boxer, leads to the discovery of a dynamite punch that opens up the doorway to a whole new world where that dream can become a reality. At the Kamogawa Gym, Ippo now trains with the aspirations of becoming a professional boxer and discovering what it means to be strong.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajime-no-ippo-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="isekai meikyuu de harem o" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>isekai meikyuu de harem o</ten_truyen>
+		<ma_truyen>isekai-meikyuu-de-harem-o</ma_truyen>
+		<tac_gia>Sogano Shachi, Hyouju Issei</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/14/c3/14c329ce3afab775841075e4bbff4586ed7c44dc_37357_200_282.jpg</hinh_nho>
+		<gioi_thieu>A man was about to commit suicide and decides to search for a way to die in the internet, but then he found an odd site that asked a lot of questions and had a point based system that allows you to create skills and abilities for a character. He took interest in it and when he finished setting his character he was asked 'You will now be transported to a world with the settings you choose, coming back is not possible, do you still accept?', Then without thinking much of it he pressed YES and found himself in another world with the skills and abilities he chose to have.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-meikyuu-de-harem-o-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="arafoo kenja no isekai seikatsu nikki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>arafoo kenja no isekai seikatsu nikki</ten_truyen>
+		<ma_truyen>arafoo-kenja-no-isekai-seikatsu-nikki</ma_truyen>
+		<tac_gia>Yasukiyo Kotobuki, Johndee</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/f4/dd/f4dd946103dce61483813bbb49f1327a14bb6e70_35437_200_286.jpg</hinh_nho>
+		<gioi_thieu>Satoshi Osako was a player of the VRRPG 'Sword and Sorcery' who defeated the Evil God and died for his troubles. When he awoke again he found himself in a strange unknown forest. Furthermore he possessed his avatar’s body and abilities. In other words, he was a cheat. Can a 40 year old DT, live peacefully in this world?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/arafoo-kenja-no-isekai-seikatsu-nikki-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="age of x-man: alpha" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>age of x-man: alpha</ten_truyen>
 		<ma_truyen>age-of-x-man-alpha</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>When you gaze into the warp...you get more stories of mad Two-In-One heroes! Read about the Star Siblings of the Warped Universe - MISTER INVISIBLE and HOT ROCKS, the TERRIFIC TWO! Then, see how the covert programs of the Green Room created the gamma-powered GREEN WIDOW! And join MOON SQUIRREL AND TIPPYSAUR as they save the planet from the most dangerous threat it's ever faced!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-infinity-warps-eng.xml</file_xml>
     </truyen>
-	<truyen ten="kaifuku jutsushi no yarinaoshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Adventure, Drama, Fantasy, Harem, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kaifuku jutsushi no yarinaoshi</ten_truyen>
-		<ma_truyen>kaifuku-jutsushi-no-yarinaoshi</ma_truyen>
-		<tac_gia>Tsukiyo Rui, Haga Souken</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/e0/cb/e0cbb96e121d98ad3c2c9070b6415fe06274dc9e_47183_200_310.jpg</hinh_nho>
-		<gioi_thieu>Healing magicians cannot fight alone.' Keare, who was bound by this common knowledge, was exploited again and again by others. But one day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything. This is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaifuku-jutsushi-no-yarinaoshi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="shikkaku mon no saikyou kenja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Harem, Historical, Martial arts, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>shikkaku mon no saikyou kenja</ten_truyen>
-		<ma_truyen>shikkaku-mon-no-saikyou-kenja</ma_truyen>
-		<tac_gia>Shinkou Shotou, Liverjam (Friendly Land)</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/ed/07/ed07678f636a2a2003afbb8f45e1a8181fb59c4c_41383_200_277.jpg</hinh_nho>
-		<gioi_thieu>In a certain world, there was someone who excelled in magic combat, people called him 'Sage'. Seeking the strongest combat art, he devoted himself to research every magic and combat arts in existence. And the conclusion he arrived at was very cruel, 'My body is not fit for magic combat'. Yet he didn't give up. He sealed his own soul with a magic art, and was reborn in a far-off future. And the magic theory in the completely changed world he saw there was of unbelievably low level.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shikkaku-mon-no-saikyou-kenja-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gokushufudou: the way of the house husband" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gokushufudou: the way of the house husband</ten_truyen>
-		<ma_truyen>gokushufudou-the-way-of-the-house-husband</ma_truyen>
-		<tac_gia>Oono Kousuke</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1c/81/1c8179fca5157a2175838326afca8a93e11f6c58_41758_200_284.jpg</hinh_nho>
-		<gioi_thieu>Immortal Tatsu is an ex-yakuza who's given up violence for making an honest man of himself - but is it still possible for a devoted stay-at-home husband to get into a few scrapes?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokushufudou-the-way-of-the-house-husband-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
