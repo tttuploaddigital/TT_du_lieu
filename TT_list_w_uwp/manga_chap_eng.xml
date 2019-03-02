@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
-		<ten_truyen>batman beyond (2016)</ten_truyen>
-		<ma_truyen>batman-beyond-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-beyond-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-beyond-2016-eng.xml</file_xml>
-		<chap_moi>issue 29</chap_moi>
+		<ten_truyen>uchuu kyoudai</ten_truyen>
+		<ma_truyen>uchuu-kyoudaii</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/73/8/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/uchuu-kyoudaii-eng.xml</file_xml>
+		<chap_moi>chap 333</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>sideways</ten_truyen>
-		<ma_truyen>sideways</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sideways/2_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sideways-eng.xml</file_xml>
-		<chap_moi>issue 13</chap_moi>
+		<ten_truyen>tomodachi game</ten_truyen>
+		<ma_truyen>tomodachi-game</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28175/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomodachi-game-eng.xml</file_xml>
+		<chap_moi>chap 64</chap_moi>
 	</truyen>
 	<truyen>
-		<ten_truyen>john wick</ten_truyen>
-		<ma_truyen>john-wick</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/john-wick/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/john-wick-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
+		<ten_truyen>domestic na kanojo</ten_truyen>
+		<ma_truyen>domestic-na-kanojo</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/29089/10/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/domestic-na-kanojo-eng.xml</file_xml>
+		<chap_moi>chap 221</chap_moi>
 	</truyen>
 	<truyen>
 		<ten_truyen>sidooh</ten_truyen>
