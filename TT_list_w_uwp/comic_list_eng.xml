@@ -63,6 +63,15 @@
         <gioi_thieu>ENTER THE AGE OF X-MAN! The perfect heroes for a perfect world! The X-Men have helped make the world into a utopia where living in fear and hatred is a thing of the past. All people are united under the banner of mutantkind, and all of mutantkind idolizes the X-Men. Jean Grey! Colossus! Storm! X-23! X-Man! Nature Girl! Magneto! And of course, the amazing Nightcrawler! When danger threatens the world, the Marvelous X-Men set things right for the good of all. And no one dares say otherwise.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-nextgen-eng.xml</file_xml>
     </truyen>
+	<truyen ten="age of x-man: x-tremists" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>age of x-man: x-tremists</ten_truyen>
+		<ma_truyen>age-of-x-man-x-tremists</ma_truyen>
+        <tac_gia>Leah Williams, Georges Jeanty</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-x-tremists/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ENTER THE AGE OF X-0MAN! A perfect world doesn't just...happen. It needs to be cultivated. That's where the X-Tremists come in. Psylocke, Iceman, Northstar, Blob, Jubilee and Moneta protect people from threats they won't even know existed, including the most insidious threat of all - love.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-x-tremists-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="agent 47: birth of the hitman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Spy, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>agent 47: birth of the hitman</ten_truyen>
 		<ma_truyen>agent-47-birth-of-the-hitman</ma_truyen>
@@ -3132,6 +3141,15 @@
         <gioi_thieu>They said it would never happen! Nearly five decades and 1500 episodes in the making! The two greatest science-fiction properties of all time cross over for the first time in history, in STAR TREK: THE NEXT GENERATION/DOCTOR WHO: ASSIMILATION! When the Federation's most terrifying enemy strikes an unholy alliance with one of the Doctor's most hated antagonists, the result is devastation on a cosmic scale! Spanning the ends of space and time itself, Captain Jean-Luc Picard and the crew of the USS Enterprise find themselves joining forces with the Doctor and his companions, with the fate of the galaxy hanging in the balance!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/star-trek-the-next-generation-doctor-who-assimilation2-eng.xml</file_xml>
     </truyen>
+	<truyen ten="star trek vs. transformers" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Mecha, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>star trek vs. transformers</ten_truyen>
+		<ma_truyen>star-trek-vs-transformers</ma_truyen>
+        <tac_gia>John Barber, Mike Johnson, Philip Murphy</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-trek-vs-transformers/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Transformers '80s cartoon series meets Star Trek: The Animated Series in a no-holds-barred Saturday Morning mash-up for the ages! At the edge of Klingon space, the Starship Enterprise finds there's more to the final frontier than meets the eye, when Kirk and his crew come face to face with the strangest life forms of all: Cybertronians! This unprecedented crossover brings together two of the greatest science fiction universes of all time-in the style of their classic animated series! A five-year mission meets a four-million-year war!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/star-trek-vs-transformers-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="star wars (2015)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Mecha, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>star wars (2015)</ten_truyen>
 		<ma_truyen>star-wars-2015</ma_truyen>
@@ -3509,6 +3527,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
         <gioi_thieu>A new storm brews over Central City and disproves the old adage about lightning never, well…you know. Just as Barry begins to feel overwhelmed fighting crime, a new speedster debuts-but just where did this amazing new friend come from?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the forgotten queen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Historical, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the forgotten queen</ten_truyen>
+		<ma_truyen>the-forgotten-queen</ma_truyen>
+        <tac_gia>Tini Howard, Amilcar Pinna</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-forgotten-queen/1_medium.jpg</hinh_nho>
+        <gioi_thieu>An ancient evil returns! Long ago, the mighty generals of the Mongol Empire rode from Siberia to Carpathia and conquered all who stood in their way. Legends tell of a witch who walked with them, who could infect the hearts of any warriors in her midst with an unquenchable thirst for battle and bloodshed...a War-Monger. And now she is walking again. This winter, an ancient evil will stir as superstar-in-the-making Tini Howard (Captain America Annual #1, Assassinistas) and powerhouse artist Amilcar Pinna (Generation X) unleash hell in a brand-new saga of honor, love, and savagery that's centuries in the making!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-forgotten-queen-eng.xml</file_xml>
     </truyen>
 	<truyen ten="the hellblazer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Psychological, Superhero, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the hellblazer</ten_truyen>
