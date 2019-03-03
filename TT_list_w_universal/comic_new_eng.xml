@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="age of x-man: x-tremists" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>age of x-man: x-tremists</ten_truyen>
+		<ma_truyen>age-of-x-man-x-tremists</ma_truyen>
+        <tac_gia>Leah Williams, Georges Jeanty</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-x-tremists/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ENTER THE AGE OF X-0MAN! A perfect world doesn't just...happen. It needs to be cultivated. That's where the X-Tremists come in. Psylocke, Iceman, Northstar, Blob, Jubilee and Moneta protect people from threats they won't even know existed, including the most insidious threat of all - love.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-x-tremists-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="star trek vs. transformers" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Mecha, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>star trek vs. transformers</ten_truyen>
+		<ma_truyen>star-trek-vs-transformers</ma_truyen>
+        <tac_gia>John Barber, Mike Johnson, Philip Murphy</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-trek-vs-transformers/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Transformers '80s cartoon series meets Star Trek: The Animated Series in a no-holds-barred Saturday Morning mash-up for the ages! At the edge of Klingon space, the Starship Enterprise finds there's more to the final frontier than meets the eye, when Kirk and his crew come face to face with the strangest life forms of all: Cybertronians! This unprecedented crossover brings together two of the greatest science fiction universes of all time-in the style of their classic animated series! A five-year mission meets a four-million-year war!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/star-trek-vs-transformers-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the forgotten queen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Historical, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the forgotten queen</ten_truyen>
+		<ma_truyen>the-forgotten-queen</ma_truyen>
+        <tac_gia>Tini Howard, Amilcar Pinna</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-forgotten-queen/1_medium.jpg</hinh_nho>
+        <gioi_thieu>An ancient evil returns! Long ago, the mighty generals of the Mongol Empire rode from Siberia to Carpathia and conquered all who stood in their way. Legends tell of a witch who walked with them, who could infect the hearts of any warriors in her midst with an unquenchable thirst for battle and bloodshed...a War-Monger. And now she is walking again. This winter, an ancient evil will stir as superstar-in-the-making Tini Howard (Captain America Annual #1, Assassinistas) and powerhouse artist Amilcar Pinna (Generation X) unleash hell in a brand-new saga of honor, love, and savagery that's centuries in the making!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-forgotten-queen-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="age of x-man: alpha" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>age of x-man: alpha</ten_truyen>
 		<ma_truyen>age-of-x-man-alpha</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/v/vampirelladejah-thoris/1_medium.jpg</hinh_nho>
         <gioi_thieu>The encounter that was destined to happen! When an alien scout ship crashes on Mars, Dejah Thoris must risk reigniting war with the Green Martians and becoming dinner for the white apes. But the stakes are raised so much higher when the ship is revealed to carry Vampirella, who is on a desperate mission of survival-one that might end before it truly begins!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/vampirella-dejah-thoris-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="infinity wars: weapon hex" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars: weapon hex</ten_truyen>
-		<ma_truyen>infinity-wars-weapon-hex</ma_truyen>
-        <tac_gia>Ben Acker, Ben Blacker, Gerardo Sandoval</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-weapon-hex/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In a dark weapons program breeding subjects specifically for magic use, the 23rd attempt, now called Wanda, was finally able to connect to violent magics - making her one of the deadliest people on the planet!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-weapon-hex-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="infinity wars: arachknight" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars: arachknight</ten_truyen>
-		<ma_truyen>infinity-wars-arachknight</ma_truyen>
-        <tac_gia>Dennis Hopeless, Ale Garza</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-arachknight/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Chosen as the Avatar of the Spider-Totem, Peter Parker is the dark guardian of destiny doing the bidding of the great weaver of fate... a role that has shattered his mind into multiple personas: a tech genius, a photographer, a teacher...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-arachknight-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="spider-gwen: ghost-spider" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>spider-gwen: ghost-spider</ten_truyen>
-		<ma_truyen>spider-gwen-ghost-spider</ma_truyen>
-        <tac_gia>Seanan McGuire, Rosi Kampe</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-gwen-ghost-spider-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A SPIDER-GEDDON TIE IN! What? You thought we were done with Gwen Stacy after the first two landmark volumes of her series?! GET OUTTA HERE. It's a whole new spin on Gwen and her world of Earth-65, brought to you by none other than SEANAN MCGUIRE and ROSI KAMPE! We pick up with Gwen right where we left her - fighting crime through her home reality, unaware that it sits on the precipice of interdimensional calamity! Someone's gonna be late to band practice...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-gwen-ghost-spider-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
