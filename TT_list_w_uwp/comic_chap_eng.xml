@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>invaders (2019)</ten_truyen>
+		<ma_truyen>invaders-2019</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/invaders-(2019)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invaders-2019-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the flash (2016)</ten_truyen>
+		<ma_truyen>the-flash-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
+		<chap_moi>issue 65</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>die!die!die!</ten_truyen>
+		<ma_truyen>die-die-die</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/diediedie/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/die-die-die-eng.xml</file_xml>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>batman beyond (2016)</ten_truyen>
 		<ma_truyen>batman-beyond-2016</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-beyond-(2016)/1_medium.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/z/zombie-tramp/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/zombie-tramp-2014-eng.xml</file_xml>
 		<chap_moi>issue 56</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-force (2018)</ten_truyen>
-		<ma_truyen>x-force-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-force-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-force-2018-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the terrifics</ten_truyen>
-		<ma_truyen>the-terrifics</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-terrifics/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-terrifics-eng.xml</file_xml>
-		<chap_moi>issue 12</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>invader zim</ten_truyen>
-		<ma_truyen>invader-zim</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/invader-zim/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invader-zim-eng.xml</file_xml>
-		<chap_moi>issue 39</chap_moi>
 	</truyen>
 </danh_sach_truyen>
