@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>superior spider-man (2018)</ten_truyen>
+		<ma_truyen>superior-spider-man-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/superior-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superior-spider-man-2018-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>heroes in crisis</ten_truyen>
+		<ma_truyen>heroes-in-crisis</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/heroes-in-crisis/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/heroes-in-crisis-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mighty morphin power rangers</ten_truyen>
+		<ma_truyen>mighty-morphin-power-rangers</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mighty-morphin-power-rangers/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mighty-morphin-power-rangers-eng.xml</file_xml>
+		<chap_moi>issue 36</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>invaders (2019)</ten_truyen>
 		<ma_truyen>invaders-2019</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/i/invaders-(2019)/1_medium.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/w/wasted-space/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wasted-space-eng.xml</file_xml>
 		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>west coast avengers (2018)</ten_truyen>
-		<ma_truyen>west-coast-avengers-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/west-coast-avengers-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/west-coast-avengers-2018-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the flash (2016)</ten_truyen>
-		<ma_truyen>the-flash-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
-		<chap_moi>issue 63</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>zombie tramp (2014)</ten_truyen>
-		<ma_truyen>zombie-tramp-2014</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/z/zombie-tramp/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/zombie-tramp-2014-eng.xml</file_xml>
-		<chap_moi>issue 56</chap_moi>
 	</truyen>
 </danh_sach_truyen>

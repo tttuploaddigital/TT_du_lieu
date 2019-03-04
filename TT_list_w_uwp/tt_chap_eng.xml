@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>superior spider-man (2018)</ten_truyen>
+		<ma_truyen>superior-spider-man-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/superior-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superior-spider-man-2018-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>heroes in crisis</ten_truyen>
+		<ma_truyen>heroes-in-crisis</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/heroes-in-crisis/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/heroes-in-crisis-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mighty morphin power rangers</ten_truyen>
+		<ma_truyen>mighty-morphin-power-rangers</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mighty-morphin-power-rangers/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mighty-morphin-power-rangers-eng.xml</file_xml>
+		<chap_moi>issue 36</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>usogui</ten_truyen>
+		<ma_truyen>usogui</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
+		<chap_moi>chap 216</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>origin  </ten_truyen>
+		<ma_truyen>origin</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/43656/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/origin-eng.xml</file_xml>
+		<chap_moi>chap 84</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>act-age</ten_truyen>
+		<ma_truyen>act-age</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/49/84/4984827829b8343c7188ea2772af1c208b28258c_32570_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/act-age-eng.xml</file_xml>
+		<chap_moi>chap 55</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>invaders (2019)</ten_truyen>
 		<ma_truyen>invaders-2019</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/i/invaders-(2019)/1_medium.jpg</hinh_nho>
@@ -272,47 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/37842/3/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/coffee-and-vanilla-eng.xml</file_xml>
 		<chap_moi>chap 24</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>avengers (2018)</ten_truyen>
-		<ma_truyen>avengers-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-2018-eng.xml</file_xml>
-		<chap_moi>issue 15</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>damage (2018)</ten_truyen>
-		<ma_truyen>damage-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/damage-2018-eng.xml</file_xml>
-		<chap_moi>issue 14</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shuri</ten_truyen>
-		<ma_truyen>shuri</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shuri-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gintama</ten_truyen>
-		<ma_truyen>gintama</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3096/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gintama-eng.xml</file_xml>
-		<chap_moi>chap 701</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dungeon seeker</ten_truyen>
-		<ma_truyen>dungeon-seeker</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41914/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-seeker-eng.xml</file_xml>
-		<chap_moi>chap 30</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kakegurui</ten_truyen>
-		<ma_truyen>kakegurui</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/26758/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakegurui-eng.xml</file_xml>
-		<chap_moi>chap 62</chap_moi>
 	</truyen>
 </danh_sach_truyen>

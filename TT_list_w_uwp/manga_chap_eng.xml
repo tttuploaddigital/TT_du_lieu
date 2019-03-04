@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>usogui</ten_truyen>
+		<ma_truyen>usogui</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
+		<chap_moi>chap 216</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>origin  </ten_truyen>
+		<ma_truyen>origin</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/43656/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/origin-eng.xml</file_xml>
+		<chap_moi>chap 84</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>act-age</ten_truyen>
+		<ma_truyen>act-age</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/49/84/4984827829b8343c7188ea2772af1c208b28258c_32570_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/act-age-eng.xml</file_xml>
+		<chap_moi>chap 55</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>shokugeki no soma</ten_truyen>
 		<ma_truyen>shokugeki-no-soma</ma_truyen>
 		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/38108/6/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hatsukoi-zombie-eng.xml</file_xml>
 		<chap_moi>chap 154</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tenkuu shinpan</ten_truyen>
-		<ma_truyen>tenkuu-shinpan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tenkuu-shinpan-eng.xml</file_xml>
-		<chap_moi>chap 248</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kiss x sis</ten_truyen>
-		<ma_truyen>kiss-x-sis</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5162/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kiss-x-sis-eng.xml</file_xml>
-		<chap_moi>chap 129</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mai ball!</ten_truyen>
-		<ma_truyen>mai-ball</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/38802/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mai-ball-eng.xml</file_xml>
-		<chap_moi>chap 106.1</chap_moi>
 	</truyen>
 </danh_sach_truyen>
