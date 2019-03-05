@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="nanbaka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>nanbaka</ten_truyen>
+		<ma_truyen>nanbaka</ma_truyen>
+		<tac_gia>Futamata Shou</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/9d/cb/9dcb8369a049329c4760a164a697766f78d1f6b0_44616_200_284.jpg</hinh_nho>
+		<gioi_thieu>Welcome to Nanba, the world's largest, most impenetrable prison. Locked away in cell block 13 are four inmates - Juugo, Uno, Rock, and Nico - who provide more than enough trouble for prison guard Sugoroku Hajime to deal with. Between attempted breakouts, gambling and general misbehaviour, these four believe that just because they're in prison doesn't mean they can't have fun. But it isn't all a barrel of laughs, because our protagonist Juugo is hiding a dark past which may soon come to destroy their idyllic prison life...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanbaka-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="jigokuraku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Historical, Mature, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>jigokuraku</ten_truyen>
+		<ma_truyen>jigokuraku</ma_truyen>
+		<tac_gia>Kaku Yuuji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/d3/60/d36034d1dcd43042a216c1931d8da6085c49c9c3_43564_200_300.jpg</hinh_nho>
+		<gioi_thieu>Gabimaru the Empty, a former ninja assassin known feared as a heartless husk of a man, spends his days on death row wondering when an executioner skilled enough to so much as harm him will arrive, as he thinks nothing of seeing an end to his meaningless existence... Or so he thought. Then the lady executioner, Asaemon the Beheader, rekindles his hope with an astounding proposition. If he ever wishes to see his beloved wife again, he is, under the auspices of the shogunate, to embark on a perilous voyage to the mysterious mystic island said to house the elixir of immortality. Should he be the one among many rival death-row fiends and scoundrels to find the elixir, he’ll earn a full exoneration, and, more importantly, a chance at an ordinary married life with the light of his life--the woman who made the world seem not so ugly. What awaits them is a journey like no other!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jigokuraku-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="shiga hime" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Horror, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>shiga hime</ten_truyen>
+		<ma_truyen>shiga-hime</ma_truyen>
+		<tac_gia>Sato Hirohisa</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/08/37/0837fe549133b16d3097cc86d911ccb2033f5aa1_17921_200_284.jpg</hinh_nho>
+		<gioi_thieu>A story about a boy named Osamu Hirota who unwillingly loses his ability to live a normal life thanks to an immortal vampire woman and her former lackey Souichi. Cursed with the form of a monster and the need to hunt for blood to sustain a human form, how will Osamu cope with his new life?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shiga-hime-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="hajime no ippo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Martial arts, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>hajime no ippo</ten_truyen>
 		<ma_truyen>hajime-no-ippo</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/30413/3/200.jpg</hinh_nho>
 		<gioi_thieu>Chouko Manaka is the next heir to the prestigeous Manaka family. Now she is entering high school and she has had enough with being surrounded by bodyguards, who have prevented her from making any friends. Her father is still worried though, so he makes a deal with her. If she transfers to Mizuno-o high school, where many of the students are also studying to be shinobi, and can get one of these people to be her right-hand man before graduation, he'll consider her to be able to make decisions for herself. On the first day of school Chouko meets the son of their butler, who suddenly declares that he wants her to be his master?!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shinobi-shijuusou-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="isobe isobee monogatari - ukiyo wa tsurai yo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Historical,	Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>isobe isobee monogatari - ukiyo wa tsurai yo</ten_truyen>
-		<ma_truyen>isobe-isobee-monogatari-ukiyo-wa-tsurai-yo</ma_truyen>
-		<tac_gia>Nakama Ryou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/43295/2/200.jpg</hinh_nho>
-		<gioi_thieu>In this ukiyoe-style manga, Isobe Isobee is a lazy, slacker samurai with big dreams. He lives with his mother, who thinks highly of him. He lays around the house, sneakily looks at Edo-period pornography without his mother noticing, naps at school... but he plans to become a respectable samurai one day!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isobe-isobee-monogatari-ukiyo-wa-tsurai-yo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="chihayafuru" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Josei, Romance, School life, Slice of life, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>chihayafuru</ten_truyen>
-		<ma_truyen>chihayafuru</ma_truyen>
-		<tac_gia>Suetsugu Yuki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/1716/10/200.jpg</hinh_nho>
-		<gioi_thieu>All her life, Chihaya's dream was to see her model sister become Japan's best... That is, until a quiet, unassuming transfer student named Arata tells her otherwise. A dream, he explains to her, is something she needs to work at herself. Arata plays a competitive version of a traditional Japanese card game--known as Hyakunin Isshu--in a way Chihaya has never seen before. After taking Arata's place in a game, Chihaya discovers she has a passion for it. Now Chihaya wants to become number one in the world, the Queen of Karuta. Chihayafuru won the 2nd Manga Taisho Award. Winner of the 35th annual Kodansha Manga Award for Best Shoujo. Nominated for the 16th (2012) and 20th (2016) Tezuka Osamu Cultural Prize.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/chihayafuru-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="coffee and vanilla" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Romance, Shoujo., Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>coffee and vanilla</ten_truyen>
-		<ma_truyen>coffee-and-vanilla</ma_truyen>
-		<tac_gia>Akegami Takara</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.mpcdn.net/37842/3/200.jpg</hinh_nho>
-		<gioi_thieu>Would you like an older man dressed in suits? She was never this popular before university but before she knew it, Risa was way out of everyone's league. The one who saves her from this cruel fate is a handsome man who can rock his suits, Fukami-san. What will he offer Risa, who is a beginner at love...!?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/coffee-and-vanilla-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

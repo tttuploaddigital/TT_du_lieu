@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="nanbaka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>nanbaka</ten_truyen>
+		<ma_truyen>nanbaka</ma_truyen>
+		<tac_gia>Futamata Shou</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/9d/cb/9dcb8369a049329c4760a164a697766f78d1f6b0_44616_200_284.jpg</hinh_nho>
+		<gioi_thieu>Welcome to Nanba, the world's largest, most impenetrable prison. Locked away in cell block 13 are four inmates - Juugo, Uno, Rock, and Nico - who provide more than enough trouble for prison guard Sugoroku Hajime to deal with. Between attempted breakouts, gambling and general misbehaviour, these four believe that just because they're in prison doesn't mean they can't have fun. But it isn't all a barrel of laughs, because our protagonist Juugo is hiding a dark past which may soon come to destroy their idyllic prison life...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanbaka-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="jigokuraku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Historical, Mature, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>jigokuraku</ten_truyen>
+		<ma_truyen>jigokuraku</ma_truyen>
+		<tac_gia>Kaku Yuuji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/d3/60/d36034d1dcd43042a216c1931d8da6085c49c9c3_43564_200_300.jpg</hinh_nho>
+		<gioi_thieu>Gabimaru the Empty, a former ninja assassin known feared as a heartless husk of a man, spends his days on death row wondering when an executioner skilled enough to so much as harm him will arrive, as he thinks nothing of seeing an end to his meaningless existence... Or so he thought. Then the lady executioner, Asaemon the Beheader, rekindles his hope with an astounding proposition. If he ever wishes to see his beloved wife again, he is, under the auspices of the shogunate, to embark on a perilous voyage to the mysterious mystic island said to house the elixir of immortality. Should he be the one among many rival death-row fiends and scoundrels to find the elixir, he’ll earn a full exoneration, and, more importantly, a chance at an ordinary married life with the light of his life--the woman who made the world seem not so ugly. What awaits them is a journey like no other!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jigokuraku-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="shiga hime" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Horror, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>shiga hime</ten_truyen>
+		<ma_truyen>shiga-hime</ma_truyen>
+		<tac_gia>Sato Hirohisa</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/08/37/0837fe549133b16d3097cc86d911ccb2033f5aa1_17921_200_284.jpg</hinh_nho>
+		<gioi_thieu>A story about a boy named Osamu Hirota who unwillingly loses his ability to live a normal life thanks to an immortal vampire woman and her former lackey Souichi. Cursed with the form of a monster and the need to hunt for blood to sustain a human form, how will Osamu cope with his new life?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shiga-hime-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="age of x-man: x-tremists" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>age of x-man: x-tremists</ten_truyen>
 		<ma_truyen>age-of-x-man-x-tremists</ma_truyen>
@@ -378,31 +405,4 @@
         <gioi_thieu>Sadie Ritter is sixteen years old, nine months pregnant, and scared out of her sweet nerdy mind. Having a baby that young is tough, but with the support of her loving family behind her, everything should be okay. OH YEAH, and also her baby is the antichrist and it's going to break open the barriers between the earthly and demonic planes and unleash eternal suffering to all of humankind. Other than that, though...should be fine.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/babyteeth-eng.xml</file_xml>
     </truyen>
-	<truyen ten="maken no daydreamer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Harem, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>maken no daydreamer</ten_truyen>
-		<ma_truyen>maken-no-daydreamer</ma_truyen>
-		<tac_gia>Nishi Osyou, Muramatsu Mayu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/72/58/725847839abfa163f37e952a560565e26b297773_46032_200_284.jpg</hinh_nho>
-		<gioi_thieu>Minato is a college student who died in a plane crash and was reincarnated in a fantasy world. He was raised alone in the wilderness by his succubus mother, and now he tries to make his way as an adventurer.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maken-no-daydreamer-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="saru lock" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>saru lock</ten_truyen>
-		<ma_truyen>saru-lock</ma_truyen>
-		<tac_gia>Serizawa Naoki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/a4/f1/a4f1a7835512af7976124517a1be8ccaa42eefe9_10878_200_286.jpg</hinh_nho>
-		<gioi_thieu>Yataro Sarumaru, nicknamed Saru, is an ace in the locksmith trade and is obsessed with girls. This (almost) average teenager is given a hardly ordinary mission which marks the beginning of his adventures!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saru-lock-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="parallel paradise" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Ecchi, Fantasy, Harem, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>parallel paradise</ten_truyen>
-		<ma_truyen>parallel-paradise</ma_truyen>
-		<tac_gia>Okamoto Lynn</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/93/3c/933c14caeabc3f73cb389d236ce03f4155d55ea8_37007_200_310.jpg</hinh_nho>
-		<gioi_thieu>One day at school, Youta sees someone strange entering school. Out of nowhere this being appears next to him and makes him fall from the 3rd floor! But he stops in a strange world, where beings like dragons exist! Youta meets a young paladine, and discovers that he is the only man inhabiting that planet, and that its inhabitants are extremely 'weak' to his presence... would this be a paradise?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/parallel-paradise-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
