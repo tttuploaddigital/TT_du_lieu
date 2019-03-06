@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>evolution  </ten_truyen>
+		<ma_truyen>evolution</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/evolution-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>rose  </ten_truyen>
+		<ma_truyen>rose</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/rose/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rose-eng.xml</file_xml>
+		<chap_moi>issue 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>coda  </ten_truyen>
+		<ma_truyen>coda</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/coda/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/coda-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>justice league odyssey</ten_truyen>
 		<ma_truyen>justice-league-odyssey</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-odyssey/1_medium.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/r/red-hood-and-the-outlaws-(2016)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-hood-and-the-outlaws-2016-eng.xml</file_xml>
 		<chap_moi>issue 31</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>spider-man / deadpool</ten_truyen>
-		<ma_truyen>spider-man-deadpool</ma_truyen>
-        <hinh_nho>https://images-na.ssl-images-amazon.com/images/I/61pFDQdn%2BJL._SY346_.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-man-deadpool-eng.xml</file_xml>
-		<chap_moi>issue 46</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>titans (2016) </ten_truyen>
-		<ma_truyen>titans-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/titans-2016-eng.xml</file_xml>
-		<chap_moi>issue 34</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>ms. marvel (2016)</ten_truyen>
-		<ma_truyen>ms-marvel-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/ms-marvel-(2015)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ms-marvel-2016-eng.xml</file_xml>
-		<chap_moi>issue 38</chap_moi>
 	</truyen>
 </danh_sach_truyen>

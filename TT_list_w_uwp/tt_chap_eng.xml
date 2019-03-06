@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>evolution  </ten_truyen>
+		<ma_truyen>evolution</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/evolution-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>rose  </ten_truyen>
+		<ma_truyen>rose</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/rose/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rose-eng.xml</file_xml>
+		<chap_moi>issue 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>coda  </ten_truyen>
+		<ma_truyen>coda</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/coda/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/coda-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nanatsu no taizai</ten_truyen>
+		<ma_truyen>nanatsu-no-taizai</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
+		<chap_moi>chap 302</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hare kon.</ten_truyen>
+		<ma_truyen>hare-kon</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28080/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hare-kon-eng.xml</file_xml>
+		<chap_moi>chap 155</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>maou-jou de oyasumi</ten_truyen>
+		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
+		<chap_moi>chap 99</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>justice league odyssey</ten_truyen>
 		<ma_truyen>justice-league-odyssey</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-odyssey/1_medium.jpg</hinh_nho>
@@ -272,47 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
 		<chap_moi>chap 140</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wonder woman (2016)</ten_truyen>
-		<ma_truyen>wonder-woman-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-woman-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-woman-2016-eng.xml</file_xml>
-		<chap_moi>issue 65</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>moon girl and devil dinosaur</ten_truyen>
-		<ma_truyen>moon-girl-and-devil-dinosaur</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/moon-girl-and-devil-dinosaur/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/moon-girl-and-devil-dinosaur-eng.xml</file_xml>
-		<chap_moi>issue 40</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>martian manhunter (2018)</ten_truyen>
-		<ma_truyen>martian-manhunter-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/martian-manhunter-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/martian-manhunter-2018-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tate no yuusha no nariagari</ten_truyen>
-		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tate-no-yuusha-no-nariagari-eng.xml</file_xml>
-		<chap_moi>chap 52</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>enen no shouboutai</ten_truyen>
-		<ma_truyen>enen-no-shouboutai</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35965/6/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/enen-no-shouboutai-eng.xml</file_xml>
-		<chap_moi>chap 160</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>seitokai yakuindomo</ten_truyen>
-		<ma_truyen>seitokai-yakuindomo</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/8728/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/seitokai-yakuindomo-eng.xml</file_xml>
-		<chap_moi>chap 510</chap_moi>
 	</truyen>
 </danh_sach_truyen>
