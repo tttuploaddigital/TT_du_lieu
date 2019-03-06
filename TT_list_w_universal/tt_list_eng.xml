@@ -2175,14 +2175,14 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>Hino-kun is good-looking and a rumored delinquent. Actually, he is a kind-hearted high school student who looks after his young nephew. He can see that Mizusawa-kun is good at making sweets so for the sake of his fatherless nephew, he asks him to, 'Please marry my older sister!' But instead, he receives a reverse proposal from Mizusawa saying, 'I want to marry you.'...?!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/danshi-koukouseiteki-kazoku-keikaku-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="daredevil (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="daredevil (2016)" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>daredevil (2016)</ten_truyen>
 		<ma_truyen>daredevil-2016</ma_truyen>
         <tac_gia>Charles Soule, Ron Garney</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/d/daredevil-(2015)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Back in black and on his home turf, Daredevil begins again in New York City as a new enemy emerges. Meanwhile his alter ego, Matt Murdock, is on a new side of the law in the District Attorney's office. Fighting crime in the shadows, prosecuting bad guys in the light, it's a whole new chapter for our man without fear-including the arrival of the devil's advocate. Welcome to Hell, Blindspot.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/daredevil-2016-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/daredevil-2016-eng.xml</file_xml>
     </truyen>
 	<truyen ten="dark ark" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>dark ark</ten_truyen>
