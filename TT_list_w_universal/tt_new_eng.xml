@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="age of x-man: the marvelous x-men" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>age of x-man: the marvelous x-men</ten_truyen>
+		<ma_truyen>age-of-x-man-the-marvelous-x-men</ma_truyen>
+        <tac_gia>Lonnie Nadler, Zac Thompson, Marco Failla</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-the-marvelous-x-men/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ENTER THE AGE OF X-MAN! In an age of utopia, the Summers Institute for Higher Learning is the premiere school for the mutant community across the globe. Attendance is mandatory for all mutant children, as they learn to become the next generation of marvelous X-Men. But even in a utopian society, teenagers will always find a way to rebel... Follow Glob, Armor, Anole and Rockslide as they discover what it really means to live in an age of peace and harmony!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-the-marvelous-x-men-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the six million dollar man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the six million dollar man</ten_truyen>
+		<ma_truyen>the-six-million-dollar-man</ma_truyen>
+        <tac_gia>Christopher Hastings, David Hahn</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-six-million-dollar-man-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>CHRISTOPHER HASTINGS (The Unbelievable Gwenpool! Secret Agent Deadpool! Adventure Time! I Am Groot!) and DAVID HAHN (Batman '66! Bombshells: United!) proudly present a story from a time when there wasn't internet, but there WERE cyborgs! It's the 1970s. Things are going great. Steve Austen (used to be an astronaut, now has robo-parts and a laser eye) heads to Japan to help Secret Agent Niko Abe stop a madman with missiles. Steve figures, no sweat. But then...sweat. How's Steve going to complete his mission, when his fancy $6,000,000 body starts. DRASTICALLY) depreciating in value!?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-six-million-dollar-man-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="morning in america" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>morning in america</ten_truyen>
+		<ma_truyen>morning-in-america</ma_truyen>
+        <tac_gia>Magdalene Visaggio, Claudia Aguirre</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/morning-in-america/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A new Oni Press miniseries by powerhouse team of Magdalene Visaggio (ETERNITY GIRL) and Claudia Aguirre (KIM and KIM)! The year is 1983. A series of disappearances afflicts Tucker, Ohio following the opening of a mysterious new factory. But when the town finds itself under siege from strange monsters, it's up to intrepid girl gang of no-account teen girl delinquents to try and figure out what's happening -- and save everyone's lives before it's too late.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/morning-in-america-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="nanbaka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>nanbaka</ten_truyen>
 		<ma_truyen>nanbaka</ma_truyen>
@@ -378,31 +405,4 @@
 		<gioi_thieu>Two high school students, Lee Sang-Hyun and Bae Ji-Hyun, live their lives as normal high school students, while secretly hiding their true identities: Mages of Law. But on one eventful day, Bae Ji-Hyun reveals her true identity of being a Law Mage in an attempt to rescue Lee Sang-Hyun from a deadly attack from the Corruptors, but to her surprise, Lee Sang-Hyun has a secret to show of his own! Join Lee Sang-Hyun and Bae Ji-Hyun, as they make numerous sacrifices and attempts in order to fight and exterminate the Corruptors that are plaguing the world in which they live in.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/lawless-zone-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="black widow (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Spy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>black widow (2019)</ten_truyen>
-		<ma_truyen>black-widow-2019</ma_truyen>
-        <tac_gia>Jen Soska, Sylvia Soska, Flaviano</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/black-widow-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Natasha Romanoff was trained to kill. For years now she's tried to overcome that programming, to side with the angels...to be a hero. And where'd that get her? Killed. By one of the few true friends she allowed herself to have. Now she's back from the dead, angry as hell and finding those better angels harder and harder to hear. Jen and Sylvia Soska - the Twisted Twins of horror - join rising artist Flaviano to weave a web of vice, violence and vengeance that will net Natasha the biggest bad men she's ever faced... or put her back in the ground for good.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-widow-2019-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="barbarella / dejah thoris" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>barbarella / dejah thoris</ten_truyen>
-		<ma_truyen>barbarella-dejah-thoris</ma_truyen>
-        <tac_gia>Leah Williams, German Garcia</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarelladejah-thoris/1_medium.jpg</hinh_nho>
-        <gioi_thieu>From opposite ends of time, two heroines unite for an otherworldly adventure! Barbarella, the siren of space, meets Dejah Thoris, Princess of Barsoom, and together they must solve a murder mystery that spans time and space in order to find their way home. Leah Williams (Adventure Time Comics, X-Men: Black) teams with German Garcia (Action Comics, X-men) for a fun, deadly, mind-bending epic!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-dejah-thoris-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="babyteeth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>babyteeth</ten_truyen>
-		<ma_truyen>babyteeth</ma_truyen>
-        <tac_gia>Donny Cates, Garry Brown</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/babyteeth/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Sadie Ritter is sixteen years old, nine months pregnant, and scared out of her sweet nerdy mind. Having a baby that young is tough, but with the support of her loving family behind her, everything should be okay. OH YEAH, and also her baby is the antichrist and it's going to break open the barriers between the earthly and demonic planes and unleash eternal suffering to all of humankind. Other than that, though...should be fine.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/babyteeth-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
