@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>shingeki no kyojin</ten_truyen>
+		<ma_truyen>shingeki-no-kyojin</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shingeki-no-kyojin-eng.xml</file_xml>
+		<chap_moi>chap 115</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 592</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gal gohan</ten_truyen>
+		<ma_truyen>gal-gohan</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/46625/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gal-gohan-eng.xml</file_xml>
+		<chap_moi>chap 45</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>nanatsu no taizai</ten_truyen>
 		<ma_truyen>nanatsu-no-taizai</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/43458/2/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onideka-eng.xml</file_xml>
 		<chap_moi>chap 33</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 933</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tsuyokute new saga</ten_truyen>
-		<ma_truyen>tsuyokute-new-saga</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
-		<chap_moi>chap 60</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tsuki ga michibiku isekai douchuu</ten_truyen>
-		<ma_truyen>tsuki-ga-michibiku-isekai-douchuu</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/35174/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuki-ga-michibiku-isekai-douchuu-eng.xml</file_xml>
-		<chap_moi>chap 38</chap_moi>
 	</truyen>
 </danh_sach_truyen>

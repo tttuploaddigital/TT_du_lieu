@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>doomsday clock</ten_truyen>
+		<ma_truyen>doomsday-clock</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/doomsday-clock/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doomsday-clock-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>uncanny x-men (2018)</ten_truyen>
+		<ma_truyen>uncanny-x-men-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
+		<chap_moi>issue 13</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>paper girls</ten_truyen>
+		<ma_truyen>paper-girls</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/paper-girls/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/paper-girls-eng.xml</file_xml>
+		<chap_moi>issue 26</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shingeki no kyojin</ten_truyen>
+		<ma_truyen>shingeki-no-kyojin</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shingeki-no-kyojin-eng.xml</file_xml>
+		<chap_moi>chap 115</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 592</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gal gohan</ten_truyen>
+		<ma_truyen>gal-gohan</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/46625/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gal-gohan-eng.xml</file_xml>
+		<chap_moi>chap 45</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>evolution  </ten_truyen>
 		<ma_truyen>evolution</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
@@ -272,47 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/29089/10/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/domestic-na-kanojo-eng.xml</file_xml>
 		<chap_moi>chap 221</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the silencer</ten_truyen>
-		<ma_truyen>the-silencer</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-silencer/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-silencer-eng.xml</file_xml>
-		<chap_moi>issue 14</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the terrifics</ten_truyen>
-		<ma_truyen>the-terrifics</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-terrifics/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-terrifics-eng.xml</file_xml>
-		<chap_moi>issue 13</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>invader zim</ten_truyen>
-		<ma_truyen>invader-zim</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/invader-zim/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invader-zim-eng.xml</file_xml>
-		<chap_moi>issue 40</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>sidooh</ten_truyen>
-		<ma_truyen>sidooh</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/9200/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sidooh-eng.xml</file_xml>
-		<chap_moi>chap 187</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
-		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kumo-desu-ga-nani-ka-eng.xml</file_xml>
-		<chap_moi>chap 34.2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kaguya-sama wa kokurasetai - tensai-tachi no renai zunousen</ten_truyen>
-		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
-		<chap_moi>chap 140</chap_moi>
 	</truyen>
 </danh_sach_truyen>
