@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="age of x-man: the marvelous x-men" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>age of x-man: the marvelous x-men</ten_truyen>
+		<ma_truyen>age-of-x-man-the-marvelous-x-men</ma_truyen>
+        <tac_gia>Lonnie Nadler, Zac Thompson, Marco Failla</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-the-marvelous-x-men/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ENTER THE AGE OF X-MAN! In an age of utopia, the Summers Institute for Higher Learning is the premiere school for the mutant community across the globe. Attendance is mandatory for all mutant children, as they learn to become the next generation of marvelous X-Men. But even in a utopian society, teenagers will always find a way to rebel... Follow Glob, Armor, Anole and Rockslide as they discover what it really means to live in an age of peace and harmony!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-the-marvelous-x-men-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the six million dollar man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the six million dollar man</ten_truyen>
+		<ma_truyen>the-six-million-dollar-man</ma_truyen>
+        <tac_gia>Christopher Hastings, David Hahn</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-six-million-dollar-man-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>CHRISTOPHER HASTINGS (The Unbelievable Gwenpool! Secret Agent Deadpool! Adventure Time! I Am Groot!) and DAVID HAHN (Batman '66! Bombshells: United!) proudly present a story from a time when there wasn't internet, but there WERE cyborgs! It's the 1970s. Things are going great. Steve Austen (used to be an astronaut, now has robo-parts and a laser eye) heads to Japan to help Secret Agent Niko Abe stop a madman with missiles. Steve figures, no sweat. But then...sweat. How's Steve going to complete his mission, when his fancy $6,000,000 body starts. DRASTICALLY) depreciating in value!?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-six-million-dollar-man-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="morning in america" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>morning in america</ten_truyen>
+		<ma_truyen>morning-in-america</ma_truyen>
+        <tac_gia>Magdalene Visaggio, Claudia Aguirre</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/morning-in-america/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A new Oni Press miniseries by powerhouse team of Magdalene Visaggio (ETERNITY GIRL) and Claudia Aguirre (KIM and KIM)! The year is 1983. A series of disappearances afflicts Tucker, Ohio following the opening of a mysterious new factory. But when the town finds itself under siege from strange monsters, it's up to intrepid girl gang of no-account teen girl delinquents to try and figure out what's happening -- and save everyone's lives before it's too late.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/morning-in-america-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="age of x-man: x-tremists" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>age of x-man: x-tremists</ten_truyen>
 		<ma_truyen>age-of-x-man-x-tremists</ma_truyen>
@@ -377,32 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-soldier-supreme/1_medium.jpg</hinh_nho>
         <gioi_thieu>Classified 4-F by the military, Stephen Rogers was unable to serve his country in World War II...until a secret government program tapping into arcane sorcery transformed him into the Soldier Supreme, the magical warrior embodiment of the American spirit!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/infinity-wars-soldier-supreme-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="ironheart" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>ironheart</ten_truyen>
-		<ma_truyen>ironheart</ma_truyen>
-        <tac_gia>Eve Ewing, Kevin Libranda</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/ironheart/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE FORMER STAR OF INVINCIBLE IRON MAN HEADLINES HER OWN SOLO SERIES! When a group of world leaders is taken hostage by one of Spider-Man's old foes, Riri Williams will have to step up her game. And she'll be stunned when someone from back in Sweet Home Chicago enters her life... CHAMPIONS artist Kevin Libranda joins award-winning poet Eve Ewing, as Ironheart steps boldly out of Tony Stark's shadow to forge her own future!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ironheart-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="dead man logan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>dead man logan</ten_truyen>
-		<ma_truyen>dead-man-logan</ma_truyen>
-        <tac_gia>Ed Brisson, Mike Henderson</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dead-man-logan/1_medium.jpg</hinh_nho>
-        <gioi_thieu>DEAD MEANS DEAD. The writing's been on the wall for months now... Logan is dying. And he ain't getting any better. Sick from the Adamantium coating his skeleton, his search for a cure has led to nothing but dead ends. But for once he's actually trying to leave this world with some unfinished business... Can Logan take his last breath without slaughtering the X-Men again? Not if Mysterio has anything to say about it...Superstar creative team ED BRISSON (OLD MAN LOGAN, UNCANNY X-MEN) and MIKE HENDERSON (DEADPOOL VS. OLD MAN LOGAN), with covers by DECLAN SHALVEY (MOON KNIGHT), is putting this old dog out of his misery with a bang!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dead-man-logan-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="vampirella / dejah thoris" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>vampirella / dejah thoris</ten_truyen>
-		<ma_truyen>vampirella-dejah-thoris</ma_truyen>
-        <tac_gia>Erik Burnham, Ediano Silva</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/v/vampirelladejah-thoris/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The encounter that was destined to happen! When an alien scout ship crashes on Mars, Dejah Thoris must risk reigniting war with the Green Martians and becoming dinner for the white apes. But the stakes are raised so much higher when the ship is revealed to carry Vampirella, who is on a desperate mission of survival-one that might end before it truly begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/vampirella-dejah-thoris-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
