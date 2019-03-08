@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
+		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
+        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
+		<chap_moi>chap 20</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>captain tsubasa - rising sun</ten_truyen>
+		<ma_truyen>captain-tsubasa-rising-sun</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/1a/88/1a882cec4848ba991b6f0e070acc6e1c0488347f_30007_200_313.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/captain-tsubasa-rising-sun-eng.xml</file_xml>
+		<chap_moi>chap 89</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ayakashiko</ten_truyen>
+		<ma_truyen>ayakashiko</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/48860/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ayakashiko-eng.xml</file_xml>
+		<chap_moi>chap 47</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>shingeki no kyojin</ten_truyen>
 		<ma_truyen>shingeki-no-kyojin</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
@@ -293,26 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/6428/10/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/minamoto-kun-monogatari-eng.xml</file_xml>
 		<chap_moi>chap 274</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>eden's zero</ten_truyen>
-		<ma_truyen>eden-s-zero</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/eb/36/eb36df4b390a69a81498ebd021956adfe1fb9514_39872_200_297.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
-		<chap_moi>chap 32</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>to you, the immortal</ten_truyen>
-		<ma_truyen>to-you-the-immortal</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/45063/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/to-you-the-immortal-eng.xml</file_xml>
-		<chap_moi>chap 92</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>onideka</ten_truyen>
-		<ma_truyen>onideka</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/43458/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onideka-eng.xml</file_xml>
-		<chap_moi>chap 33</chap_moi>
 	</truyen>
 </danh_sach_truyen>

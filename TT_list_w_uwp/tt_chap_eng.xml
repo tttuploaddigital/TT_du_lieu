@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>deadpool (2018)</ten_truyen>
+		<ma_truyen>deadpool-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-2018-eng.xml</file_xml>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>green arrow (2016)</ten_truyen>
+		<ma_truyen>green-arrow-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/green-arrow-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/green-arrow-2016-eng.xml</file_xml>
+		<chap_moi>issue 50</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>killmonger</ten_truyen>
+		<ma_truyen>killmonger</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/k/killmonger-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/killmonger-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
+		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
+        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
+		<chap_moi>chap 20</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>captain tsubasa - rising sun</ten_truyen>
+		<ma_truyen>captain-tsubasa-rising-sun</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/1a/88/1a882cec4848ba991b6f0e070acc6e1c0488347f_30007_200_313.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/captain-tsubasa-rising-sun-eng.xml</file_xml>
+		<chap_moi>chap 89</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ayakashiko</ten_truyen>
+		<ma_truyen>ayakashiko</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/48860/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ayakashiko-eng.xml</file_xml>
+		<chap_moi>chap 47</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>doomsday clock</ten_truyen>
 		<ma_truyen>doomsday-clock</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/d/doomsday-clock/1_medium.jpg</hinh_nho>
@@ -272,47 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/44777/1/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/star-martial-god-technique-eng.xml</file_xml>
 		<chap_moi>chap 224</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batman beyond (2016)</ten_truyen>
-		<ma_truyen>batman-beyond-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-beyond-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-beyond-2016-eng.xml</file_xml>
-		<chap_moi>issue 29</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>sideways</ten_truyen>
-		<ma_truyen>sideways</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/sideways/2_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/sideways-eng.xml</file_xml>
-		<chap_moi>issue 13</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>john wick</ten_truyen>
-		<ma_truyen>john-wick</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/john-wick/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/john-wick-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>uchuu kyoudai</ten_truyen>
-		<ma_truyen>uchuu-kyoudaii</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/73/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/uchuu-kyoudaii-eng.xml</file_xml>
-		<chap_moi>chap 333</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tomodachi game</ten_truyen>
-		<ma_truyen>tomodachi-game</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/28175/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomodachi-game-eng.xml</file_xml>
-		<chap_moi>chap 64</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>domestic na kanojo</ten_truyen>
-		<ma_truyen>domestic-na-kanojo</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/29089/10/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/domestic-na-kanojo-eng.xml</file_xml>
-		<chap_moi>chap 221</chap_moi>
 	</truyen>
 </danh_sach_truyen>
