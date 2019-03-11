@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>avengers (2018)</ten_truyen>
+		<ma_truyen>avengers-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-2018-eng.xml</file_xml>
+		<chap_moi>issue 16</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>harley quinn (2016)</ten_truyen>
+		<ma_truyen>harley-quinn-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
+		<chap_moi>issue 59</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>deathstroke (2016)</ten_truyen>
+		<ma_truyen>deathstroke-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deathstroke-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deathstroke-2016-eng.xml</file_xml>
+		<chap_moi>issue 41</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the curse of brimstone</ten_truyen>
+		<ma_truyen>the-curse-of-brimstone</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-curse-of-brimstone/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-curse-of-brimstone-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>wasted space</ten_truyen>
+		<ma_truyen>wasted-space</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wasted-space/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wasted-space-eng.xml</file_xml>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 935</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>usogui</ten_truyen>
+		<ma_truyen>usogui</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
+		<chap_moi>chap 220</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tensei shitara slime datta ken</ten_truyen>
+		<ma_truyen>tensei-shitara-slime-datta-ken</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/33546/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tensei-shitara-slime-datta-ken-eng.xml</file_xml>
+		<chap_moi>chap 54</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>uq holder!</ten_truyen>
+		<ma_truyen>uq-holder</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/23460/17/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/uq-holder-eng.xml</file_xml>
+		<chap_moi>chap 157</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>giant killing</ten_truyen>
+		<ma_truyen>giant-killing</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
+		<chap_moi>chap 304</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the last human</ten_truyen>
+		<ma_truyen>the-last-human</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/08/e8/08e8a46cb50e65ee7ee27488ecc0cf24ac54136f_27153_200_266.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/the-last-human-eng.xml</file_xml>
+		<chap_moi>chap 122</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>solo leveling</ten_truyen>
+		<ma_truyen>solo-leveling</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/f1/fd/f1fd1cc899c1d8d919644341b96497ec864d914d_25991_200_270.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/solo-leveling-eng.xml</file_xml>
+		<chap_moi>chap 61</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tales of demons and gods</ten_truyen>
+		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tales-of-demons-and-gods-eng.xml</file_xml>
+		<chap_moi>chap 213</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the gamer</ten_truyen>
+		<ma_truyen>the-gamer</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/the-gamer-eng.xml</file_xml>
+		<chap_moi>chap 266</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tales of the unusual</ten_truyen>
+		<ma_truyen>tales-of-the-unusual</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28553/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/tales-of-the-unusual-eng.xml</file_xml>
+		<chap_moi>chap 242</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>deadpool (2018)</ten_truyen>
 		<ma_truyen>deadpool-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-(2018)/1_medium.jpg</hinh_nho>
@@ -209,110 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/36292/1/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/renai-metro-eng.xml</file_xml>
 		<chap_moi>chap 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>superior spider-man (2018)</ten_truyen>
-		<ma_truyen>superior-spider-man-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/superior-spider-man-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superior-spider-man-2018-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>heroes in crisis</ten_truyen>
-		<ma_truyen>heroes-in-crisis</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/heroes-in-crisis/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/heroes-in-crisis-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mighty morphin power rangers</ten_truyen>
-		<ma_truyen>mighty-morphin-power-rangers</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/mighty-morphin-power-rangers/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mighty-morphin-power-rangers-eng.xml</file_xml>
-		<chap_moi>issue 36</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>usogui</ten_truyen>
-		<ma_truyen>usogui</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
-		<chap_moi>chap 216</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>origin  </ten_truyen>
-		<ma_truyen>origin</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/43656/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/origin-eng.xml</file_xml>
-		<chap_moi>chap 84</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>act-age</ten_truyen>
-		<ma_truyen>act-age</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/49/84/4984827829b8343c7188ea2772af1c208b28258c_32570_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/act-age-eng.xml</file_xml>
-		<chap_moi>chap 55</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>invaders (2019)</ten_truyen>
-		<ma_truyen>invaders-2019</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/invaders-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invaders-2019-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the flash (2016)</ten_truyen>
-		<ma_truyen>the-flash-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
-		<chap_moi>issue 65</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>die!die!die!</ten_truyen>
-		<ma_truyen>die-die-die</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/diediedie/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/die-die-die-eng.xml</file_xml>
-		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 301</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>golden kamui</ten_truyen>
-		<ma_truyen>golden-kamui</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/golden-kamui-eng.xml</file_xml>
-		<chap_moi>chap 191</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>radiant</ten_truyen>
-		<ma_truyen>radiant</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/36054/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/radiant-eng.xml</file_xml>
-		<chap_moi>chap 68</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hunter age</ten_truyen>
-		<ma_truyen>hunter-age</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/0b/a4/0ba4a72a80865369353d93afb10c6dfc90595237_30222_200_282.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/hunter-age-eng.xml</file_xml>
-		<chap_moi>chap 230</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>solo leveling</ten_truyen>
-		<ma_truyen>solo-leveling</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/f1/fd/f1fd1cc899c1d8d919644341b96497ec864d914d_25991_200_270.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/solo-leveling-eng.xml</file_xml>
-		<chap_moi>chap 60</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star martial god technique</ten_truyen>
-		<ma_truyen>star-martial-god-technique</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/44777/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/star-martial-god-technique-eng.xml</file_xml>
-		<chap_moi>chap 224</chap_moi>
 	</truyen>
 </danh_sach_truyen>
