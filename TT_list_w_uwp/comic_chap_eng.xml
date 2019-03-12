@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>champions (2019)</ten_truyen>
+		<ma_truyen>champions-2019</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/champions-(2019)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/champions-2019-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>immortal hulk</ten_truyen>
+		<ma_truyen>immortal-hulk</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/immortal-hulk-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>star wars (2015)</ten_truyen>
+		<ma_truyen>star-wars-2015</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
+		<chap_moi>issue 62</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>robotech (2017)</ten_truyen>
+		<ma_truyen>robotech-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robotech/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robotech-2017-eng.xml</file_xml>
+		<chap_moi>issue 18</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gasolina</ten_truyen>
+		<ma_truyen>gasolina</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/gasolina/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gasolina-eng.xml</file_xml>
+		<chap_moi>issue 16</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>avengers (2018)</ten_truyen>
 		<ma_truyen>avengers-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/b/black-widow-(2019)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-widow-2019-eng.xml</file_xml>
 		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>monstress</ten_truyen>
-		<ma_truyen>monstress</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/monstress/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/monstress-eng.xml</file_xml>
-		<chap_moi>issue 20</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>avengers (2018)</ten_truyen>
-		<ma_truyen>avengers-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-2018-eng.xml</file_xml>
-		<chap_moi>issue 15</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>damage (2018)</ten_truyen>
-		<ma_truyen>damage-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/damage-2018-eng.xml</file_xml>
-		<chap_moi>issue 14</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shuri</ten_truyen>
-		<ma_truyen>shuri</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shuri-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>return of wolverine</ten_truyen>
-		<ma_truyen>return-of-wolverine</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/return-of-wolverine/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/return-of-wolverine-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
 	</truyen>
 </danh_sach_truyen>

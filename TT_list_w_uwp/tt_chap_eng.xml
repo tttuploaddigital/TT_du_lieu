@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>champions (2019)</ten_truyen>
+		<ma_truyen>champions-2019</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/champions-(2019)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/champions-2019-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>immortal hulk</ten_truyen>
+		<ma_truyen>immortal-hulk</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/immortal-hulk-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>star wars (2015)</ten_truyen>
+		<ma_truyen>star-wars-2015</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
+		<chap_moi>issue 62</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>robotech (2017)</ten_truyen>
+		<ma_truyen>robotech-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robotech/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robotech-2017-eng.xml</file_xml>
+		<chap_moi>issue 18</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gasolina</ten_truyen>
+		<ma_truyen>gasolina</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/gasolina/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gasolina-eng.xml</file_xml>
+		<chap_moi>issue 16</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>amatsuki</ten_truyen>
+		<ma_truyen>amatsuki</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/a7/1c/a71c3e87bb8e16f244a7bc3d9f6c76aeec1505ee_32870_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/amatsuki-eng.xml</file_xml>
+		<chap_moi>chap 124</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>memesis</ten_truyen>
+		<ma_truyen>memesis</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/52/39/5239a38ebb2f4d7002fb3960524918e03d05852f_31168_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/memesis-eng.xml</file_xml>
+		<chap_moi>chap 45</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>azumi</ten_truyen>
+		<ma_truyen>azumi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/22943/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/azumi-eng.xml</file_xml>
+		<chap_moi>chap 222</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>biorg trinity</ten_truyen>
+		<ma_truyen>biorg-trinity</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/1195/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/biorg-trinity-eng.xml</file_xml>
+		<chap_moi>chap 45</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kakao 79%</ten_truyen>
+		<ma_truyen>kakao-79</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41590/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakao-79-eng.xml</file_xml>
+		<chap_moi>chap 165</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>avengers (2018)</ten_truyen>
 		<ma_truyen>avengers-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
@@ -244,75 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
 		<chap_moi>issue 16</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batgirl (2016)</ten_truyen>
-		<ma_truyen>batgirl-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batgirl-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batgirl-2016-eng.xml</file_xml>
-		<chap_moi>issue 32</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>king golf</ten_truyen>
-		<ma_truyen>king-golf</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5066/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/king-golf-eng.xml</file_xml>
-		<chap_moi>chap 139</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>baby steps</ten_truyen>
-		<ma_truyen>baby-steps</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
-		<chap_moi>chap 342</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
-		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuragi-sou-no-yuuna-san-eng.xml</file_xml>
-		<chap_moi>chap 149</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>captain america (2018)</ten_truyen>
-		<ma_truyen>captain-america-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-america-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-america-2018-eng.xml</file_xml>
-		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shazam! (2018)</ten_truyen>
-		<ma_truyen>shazam-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shazam-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shazam-2018-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars: doctor aphra</ten_truyen>
-		<ma_truyen>star-wars-doctor-aphra</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-doctor-aphra/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-doctor-aphra-eng.xml</file_xml>
-		<chap_moi>issue 29</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>platinum end</ten_truyen>
-		<ma_truyen>platinum-end</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/36176/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/platinum-end-eng.xml</file_xml>
-		<chap_moi>chap 39</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>jagaaaaaan</ten_truyen>
-		<ma_truyen>jagaaaaaan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/47205/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jagaaaaaan-eng.xml</file_xml>
-		<chap_moi>chap 67</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>renai metro</ten_truyen>
-		<ma_truyen>renai-metro</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/36292/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/renai-metro-eng.xml</file_xml>
-		<chap_moi>chap 9</chap_moi>
 	</truyen>
 </danh_sach_truyen>

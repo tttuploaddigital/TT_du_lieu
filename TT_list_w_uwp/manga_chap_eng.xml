@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>amatsuki</ten_truyen>
+		<ma_truyen>amatsuki</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/a7/1c/a71c3e87bb8e16f244a7bc3d9f6c76aeec1505ee_32870_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/amatsuki-eng.xml</file_xml>
+		<chap_moi>chap 124</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>memesis</ten_truyen>
+		<ma_truyen>memesis</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/52/39/5239a38ebb2f4d7002fb3960524918e03d05852f_31168_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/memesis-eng.xml</file_xml>
+		<chap_moi>chap 45</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>azumi</ten_truyen>
+		<ma_truyen>azumi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/22943/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/azumi-eng.xml</file_xml>
+		<chap_moi>chap 222</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>biorg trinity</ten_truyen>
+		<ma_truyen>biorg-trinity</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/1195/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/biorg-trinity-eng.xml</file_xml>
+		<chap_moi>chap 45</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kakao 79%</ten_truyen>
+		<ma_truyen>kakao-79</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41590/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakao-79-eng.xml</file_xml>
+		<chap_moi>chap 165</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>one piece</ten_truyen>
 		<ma_truyen>one-piece</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
@@ -279,40 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/464/8/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akagami-no-shirayukihime-eng.xml</file_xml>
 		<chap_moi>chap 104</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>coffee and vanilla</ten_truyen>
-		<ma_truyen>coffee-and-vanilla</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/37842/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/coffee-and-vanilla-eng.xml</file_xml>
-		<chap_moi>chap 24</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gintama</ten_truyen>
-		<ma_truyen>gintama</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3096/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gintama-eng.xml</file_xml>
-		<chap_moi>chap 701</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dungeon seeker</ten_truyen>
-		<ma_truyen>dungeon-seeker</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41914/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-seeker-eng.xml</file_xml>
-		<chap_moi>chap 30</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kakegurui</ten_truyen>
-		<ma_truyen>kakegurui</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/26758/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakegurui-eng.xml</file_xml>
-		<chap_moi>chap 62</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>detective conan</ten_truyen>
-		<ma_truyen>detective-conan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/17/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/detective-conan-eng.xml</file_xml>
-		<chap_moi>ch. 1028</chap_moi>
 	</truyen>
 </danh_sach_truyen>
