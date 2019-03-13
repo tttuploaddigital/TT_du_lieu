@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>nanatsu no taizai</ten_truyen>
+		<ma_truyen>nanatsu-no-taizai</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
+		<chap_moi>chap 303</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>drifters</ten_truyen>
+		<ma_truyen>drifters</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/2494/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/drifters-eng.xml</file_xml>
+		<chap_moi>chap 73</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>isekai maou to shoukan shoujo dorei majutsu</ten_truyen>
+		<ma_truyen>isekai-maou-to-shoukan-shoujo-dorei-majutsu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/34933/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-maou-to-shoukan-shoujo-dorei-majutsu-eng.xml</file_xml>
+		<chap_moi>chap 41.2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>murabito desu ga nani ka?</ten_truyen>
+		<ma_truyen>murabito-desu-ga-nani-ka</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/40/46/40465d9f542faf8fa07c1a0c0599f22cb9c7dad7_37575_200_310.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/murabito-desu-ga-nani-ka-eng.xml</file_xml>
+		<chap_moi>chap 22</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>days  </ten_truyen>
+		<ma_truyen>days</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28078/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/days-eng.xml</file_xml>
+		<chap_moi>chap 169</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>amatsuki</ten_truyen>
 		<ma_truyen>amatsuki</ma_truyen>
         <hinh_nho>https://file-thumb.anyacg.co/W300/a7/1c/a71c3e87bb8e16f244a7bc3d9f6c76aeec1505ee_32870_200_314.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/8728/4/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/seitokai-yakuindomo-eng.xml</file_xml>
 		<chap_moi>chap 510</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>goblin slayer </ten_truyen>
-		<ma_truyen>goblin-slayer</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41855/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-eng.xml</file_xml>
-		<chap_moi>chap 33</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kimetsu no yaiba</ten_truyen>
-		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
-		<chap_moi>chap 147</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hawkwood</ten_truyen>
-		<ma_truyen>hawkwood</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/41/c3/41c3b07ecdfbc8c3b966005836ed18f26d5649bc_33350_200_286.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hawkwood-eng.xml</file_xml>
-		<chap_moi>chap 29</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>baby steps</ten_truyen>
-		<ma_truyen>baby-steps</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/1002/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baby-steps-eng.xml</file_xml>
-		<chap_moi>chap 337</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>akagami no shirayukihime</ten_truyen>
-		<ma_truyen>akagami-no-shirayukihime</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/464/8/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akagami-no-shirayukihime-eng.xml</file_xml>
-		<chap_moi>chap 104</chap_moi>
 	</truyen>
 </danh_sach_truyen>
