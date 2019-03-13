@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="runway de waratte" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>runway de waratte</ten_truyen>
+		<ma_truyen>runway-de-waratte</ma_truyen>
+		<tac_gia>Inoya Kotoba</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/59/c1/59c18ab37f993e5603c58e323a85d11944dd2ca3_35382_200_298.jpg</hinh_nho>
+		<gioi_thieu>Smile at the Runway starts with the story of Fujito Chiyuki, an aspiring fashion model and daughter of a fledgling Modeling Agency, Mille neige. Ever since she was little, Chiyuki's dream was to be the star model of her dad's agency and perform at Paris Fashion Week. With great looks and a gifted environment, it seemed like she was on the right track to fulfill her dream, but she soon found herself faced with a seemingly insurmountable wall when her height stopped growing at 158cm (5'2''), hopelessly too short to be a professional model. Although Chiyuki still kept on believing in herself for years despite everyone telling her it's impossible, Chiyuki's resolve starts to crumble as she enters her last year of high school. This is when she meets Tsumura Ikuto, a lame classmate with a surprising talent for designing clothes, who is also considering giving up his dream due to unfortunate circumstances. Together, they begin the journey of doing the impossible in order to realize their dreams.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/runway-de-waratte-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="angolmois - genkou kassenki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Historical, Mature, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>angolmois - genkou kassenki</ten_truyen>
+		<ma_truyen>angolmois-genkou-kassenki</ma_truyen>
+		<tac_gia>Takagi Nanahiko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/17/68/17681594befc1a7e9f510d3b0b78f23971a2aa02_23876_200_283.jpg</hinh_nho>
+		<gioi_thieu>In the 13th century, the Mongolian Empire rapidly expands across the globe. Later historians who studied the prophecies of Nostradamus would say that Mongolia was the birthplace of the 'Great King of Terror,' Angolmois. And at last, the force of the Mongolian Empire would turn their attention toward Japan... 1274: The Bun'ei Invasion. The exiled samurai Jinzaburo Kuchii is in Kamakura when he finds himself face to face with this invasion. This story is a fresh look at the great battle that rocked all of medieval Japan: the Mongol Invasion. It shows how the people of Tsushima panicked, struggled, and eventually rose up against the overwhelming forces of their enemy.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/angolmois-genkou-kassenki-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="karate shoukoushi monogatari" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>karate shoukoushi monogatari</ten_truyen>
+		<ma_truyen>karate-shoukoushi-monogatari</ma_truyen>
+		<tac_gia>Baba Yasushi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/dd/ce/ddced0f7d9cbd222e654c803cd2bdfbfa962e8e0_28018_200_283.jpg</hinh_nho>
+		<gioi_thieu>Takeru and Meo, two best friends both troubled by tragedies in their pasts, have been sweeping local junior karate tournaments as high school freshmen. But now, they set their sights on a national karate tournament. Unfortunately, the funding required to achieve their goal can only be secured if they form an official karate club at their school. Their first challenge lies in getting past the beautiful student council president Izumi Touko, who also happens to be the only daughter of the head of the biggest karate organization in the world, Koudan-kai (which is totally not Kyokushin). What plot will Touko hatch, and what price is she going to exact from them? As Takeru and Meo embark on their official karate journey which will lead them to confront their pasts, almost the entire cast of Karate Shoukoushi Kohinata Minoru makes an appearance, guiding them, and teaching them the true meaning of what it is to be a karate-ka.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/karate-shoukoushi-monogatari-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hakumei to mikochi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hakumei to mikochi</ten_truyen>
+		<ma_truyen>hakumei-to-mikochi</ma_truyen>
+		<tac_gia>Kashiki Takuto</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/61/d5/61d5415ef9861e1e7a51d73e49d278a809db3763_32569_200_280.jpg</hinh_nho>
+		<gioi_thieu>Nine centimeters (3.5 inches) tall, the tiny girls Hakumei and Mikochi live in the forest. Living in a tiny house in a tree, riding insects and birds, and making umbrellas out of leaves, these tiny girls live a tiny life. Follow their tiny but lovely lives as they live their day to day in a fantastic world of tiny people and gods.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hakumei-to-mikochi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="badboys" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>badboys</ten_truyen>
+		<ma_truyen>badboys</ma_truyen>
+		<tac_gia>Tanaka Hiroshi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/66/74/667416ce0e5f3ee8a937ed7f340f88e9bd1c2c8a_27600_200_314.jpg</hinh_nho>
+		<gioi_thieu>Tsukasa, Yoji, and Eiji are friends and members of the motorcycle gang called the Paradise Butterflies. Riding the streets of Hiroshima their goal in life is to top all other gangs in their city.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/badboys-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="the scholar's reincarnation" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Martial arts, Shounen., Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>the scholar's reincarnation</ten_truyen>
 		<ma_truyen>the-scholar-s-reincarnation</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/84/5c/845c03de249fcbd7a7bac73cd0cfac6fc76f28a2_39178_200_299.jpg</hinh_nho>
 		<gioi_thieu>Fuutarou Uesugi is a poor, antisocial ace student who one day meets the rich transfer student Itsuki Nakano. They argue but when Uesugi realizes he is to be her tutor, he tries to get on better terms. While trying to do so he meets four other girls.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/go-toubun-no-hanayome-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="act-age" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>act-age</ten_truyen>
-		<ma_truyen>act-age</ma_truyen>
-		<tac_gia>Matsuki Tatsuya, Usazaki Shiro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/49/84/4984827829b8343c7188ea2772af1c208b28258c_32570_200_314.jpg</hinh_nho>
-		<gioi_thieu>ACT-AGE centers on a certain young woman and a genius director who meet at an audition for rookie actresses.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/act-age-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="guardians of the galaxy (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>guardians of the galaxy (2019)</ten_truyen>
-		<ma_truyen>guardians-of-the-galaxy-2019</ma_truyen>
-        <tac_gia>Donny Cates, Geoff Shaw</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/guardians-of-the-galaxy-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>WHO WILL STAND? The universe is on fire. Hundreds of worlds are at war. Never has there been such hatred and division across the cosmos. And in spite of all this, Thanos of Titan is still dead...or is he? Now, more than ever, the cosmos need the Guardians of the Galaxy...but in the aftermath of the Infinity Wars, who is left to answer the call? Featuring every cosmic super hero in the known universe by the THANOS WINS creative team of Donny Cates and Geoff Shaw!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/guardians-of-the-galaxy-2019-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="naomi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>naomi</ten_truyen>
-		<ma_truyen>naomi</ma_truyen>
-        <tac_gia>Brian Michael Bendis, David F. Walker, Jamal Campbell</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/naomi/1_medium.jpg</hinh_nho>
-        <gioi_thieu>DC's biggest, newest mystery starts here! When a fight between Superman and Mongul crashes into a small Northwestern town, Naomi (last name?) begins a quest to uncover the last time a super-powered person visited her home-and how that might tie into her own origins and adoption. Follow Naomi's journey on a quest that will take her to the heart of the DC Universe and unfold a universe of ideas and stories that have never been seen before. Join writers Brian Michael Bendis, David Walker and breakout artist Jamal Campbell in Wonder Comics' massively ambitious new series and star... NAOMI.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/naomi-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="wolverine: the long night" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>wolverine: the long night</ten_truyen>
-		<ma_truyen>wolverine-the-long-night</ma_truyen>
-        <tac_gia>Benjamin Percy, Marcio Takara</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wolverine-the-long-night-adaptation/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Following a string of mysterious deaths in Burns, Alaska, Special Agents Sally Pierce and Tad Marshall arrive to investigate. They soon find there's more going on than meets the eye... Marvel's hit scripted podcast, 'Wolverine: The Dark Night,' comes to life on the page! Chilling twists and turns, brought to you by the original author of the podcast, Benjamin Percy, and the art talents of Marcio Takara!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wolverine-the-long-night-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="shin mazinger zero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Drama, Ecchi, Mature, Mecha, Romance, School life, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>shin mazinger zero</ten_truyen>
-		<ma_truyen>shin-mazinger-zero</ma_truyen>
-		<tac_gia>Nagai Go, Tabata Yoshiaki, Yugo Yuuki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/9d/6e/9d6e9ad2999788c4af5dabd79539a06fc3b2b7c1_24586_200_314.jpg</hinh_nho>
-		<gioi_thieu>In the near future, a mineral known as 'Japanium' is discovered under Mt. Fuji. This ore is discovered to produce a powerful energy source known as 'Photon Energy'. Dr. Juzo Kabuto and his associates have begun researching Photon Energy, planning to use it as a solution to the energy crisis plaguing the earth, when the nefarious Dr. Hell and his associate, Baron Ashura attack his lab. Along with this, the mysterious 'Kurogane House' also has begun to become entwined with the affairs of these two parties. During all of this, Juzo's grandchildren, Kouji and Shiro, encounter one of Baron Ashura's robots on its way to attack Dr. Kabuto's mansion, where he has begun work on his greatest invention. Dr. Kabuto, seeing the danger at hand, sends out the Pilder to Kouji, allowing him to combine with the giant robot, Mazinger Z, to fight against Dr. Hell's forces.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shin-mazinger-zero-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
