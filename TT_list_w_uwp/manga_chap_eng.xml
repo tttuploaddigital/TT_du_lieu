@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 593</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 149</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>final fantasy: lost stranger</ten_truyen>
+		<ma_truyen>final-fantasy-lost-stranger</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/50726/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/final-fantasy-lost-stranger-eng.xml</file_xml>
+		<chap_moi>chap 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>isekai nonbiri nouka</ten_truyen>
+		<ma_truyen>isekai-nonbiri-nouka</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/76/1d/761d5a2bf2928affa2a11536252d59c2f3dc162d_38842_200_283.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-nonbiri-nouka-eng.xml</file_xml>
+		<chap_moi>chap 70</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>namaikizakari</ten_truyen>
+		<ma_truyen>namaikizakari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27263/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/namaikizakari-eng.xml</file_xml>
+		<chap_moi>chap 97</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>nanatsu no taizai</ten_truyen>
 		<ma_truyen>nanatsu-no-taizai</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/9200/2/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sidooh-eng.xml</file_xml>
 		<chap_moi>chap 187</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
-		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kumo-desu-ga-nani-ka-eng.xml</file_xml>
-		<chap_moi>chap 34.2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kaguya-sama wa kokurasetai - tensai-tachi no renai zunousen</ten_truyen>
-		<ma_truyen>kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/37432/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-eng.xml</file_xml>
-		<chap_moi>chap 140</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tate no yuusha no nariagari</ten_truyen>
-		<ma_truyen>tate-no-yuusha-no-nariagari</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/27378/8/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tate-no-yuusha-no-nariagari-eng.xml</file_xml>
-		<chap_moi>chap 52</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>enen no shouboutai</ten_truyen>
-		<ma_truyen>enen-no-shouboutai</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35965/6/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/enen-no-shouboutai-eng.xml</file_xml>
-		<chap_moi>chap 160</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>seitokai yakuindomo</ten_truyen>
-		<ma_truyen>seitokai-yakuindomo</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/8728/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/seitokai-yakuindomo-eng.xml</file_xml>
-		<chap_moi>chap 510</chap_moi>
 	</truyen>
 </danh_sach_truyen>

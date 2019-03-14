@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>spider-man / deadpool</ten_truyen>
+		<ma_truyen>spider-man-deadpool</ma_truyen>
+        <hinh_nho>https://images-na.ssl-images-amazon.com/images/I/61pFDQdn%2BJL._SY346_.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-man-deadpool-eng.xml</file_xml>
+		<chap_moi>issue 47</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tony stark: iron man</ten_truyen>
+		<ma_truyen>tony-stark-iron-man</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/tony-stark-iron-man/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/tony-stark-iron-man-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the flash (2016)</ten_truyen>
+		<ma_truyen>the-flash-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
+		<chap_moi>issue 66</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>wolverine: the long night</ten_truyen>
+		<ma_truyen>wolverine-the-long-night</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wolverine-the-long-night-adaptation/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wolverine-the-long-night-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>x-23 (2018)</ten_truyen>
+		<ma_truyen>x-23-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 593</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 149</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>final fantasy: lost stranger</ten_truyen>
+		<ma_truyen>final-fantasy-lost-stranger</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/50726/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/final-fantasy-lost-stranger-eng.xml</file_xml>
+		<chap_moi>chap 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>isekai nonbiri nouka</ten_truyen>
+		<ma_truyen>isekai-nonbiri-nouka</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/76/1d/761d5a2bf2928affa2a11536252d59c2f3dc162d_38842_200_283.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-nonbiri-nouka-eng.xml</file_xml>
+		<chap_moi>chap 70</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>namaikizakari</ten_truyen>
+		<ma_truyen>namaikizakari</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27263/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/namaikizakari-eng.xml</file_xml>
+		<chap_moi>chap 97</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>justice league (2018)</ten_truyen>
 		<ma_truyen>justice-league-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
@@ -244,75 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/28553/1/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/tales-of-the-unusual-eng.xml</file_xml>
 		<chap_moi>chap 242</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>deadpool (2018)</ten_truyen>
-		<ma_truyen>deadpool-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-2018-eng.xml</file_xml>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>green arrow (2016)</ten_truyen>
-		<ma_truyen>green-arrow-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/green-arrow-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/green-arrow-2016-eng.xml</file_xml>
-		<chap_moi>issue 50</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>killmonger</ten_truyen>
-		<ma_truyen>killmonger</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/k/killmonger-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/killmonger-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
-		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
-        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
-		<chap_moi>chap 20</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>captain tsubasa - rising sun</ten_truyen>
-		<ma_truyen>captain-tsubasa-rising-sun</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1a/88/1a882cec4848ba991b6f0e070acc6e1c0488347f_30007_200_313.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/captain-tsubasa-rising-sun-eng.xml</file_xml>
-		<chap_moi>chap 89</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>ayakashiko</ten_truyen>
-		<ma_truyen>ayakashiko</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/48860/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ayakashiko-eng.xml</file_xml>
-		<chap_moi>chap 47</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>doomsday clock</ten_truyen>
-		<ma_truyen>doomsday-clock</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/doomsday-clock/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doomsday-clock-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>uncanny x-men (2018)</ten_truyen>
-		<ma_truyen>uncanny-x-men-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
-		<chap_moi>issue 13</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>paper girls</ten_truyen>
-		<ma_truyen>paper-girls</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/paper-girls/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/paper-girls-eng.xml</file_xml>
-		<chap_moi>issue 26</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shingeki no kyojin</ten_truyen>
-		<ma_truyen>shingeki-no-kyojin</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shingeki-no-kyojin-eng.xml</file_xml>
-		<chap_moi>chap 115</chap_moi>
 	</truyen>
 </danh_sach_truyen>
