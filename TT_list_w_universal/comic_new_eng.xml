@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="winter soldier (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>winter soldier (2018)</ten_truyen>
+		<ma_truyen>winter-soldier-2018</ma_truyen>
+        <tac_gia>Kyle Higgins, Rod Reis</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/winter-soldier-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Bucky Barnes believes in second chances. Having escaped death, the loss of identity, and a life of murder, the man known as the Winter Soldier has worked hard to atone for his sins. But now...he's going to go one step further. What do you do when you've found redemption? You help others do the same. From KYLE HIGGINS (Nightwing, Power Rangers, C.O.W.L.) and ROD REIS (SECRET EMPIRE, DOCTOR STRANGE: DAMNATION, C.O.W.L.) comes the next chapter in the saga of the Winter Soldier. He's becoming a 'fixer,' working to help others leave behind lives of crime. It's Bucky's way of channeling his own pain in a productive, personal way...by helping others find the redemption that he found. However, as Bucky is going to learn, not all paths are the same... and not everyone can be 'saved.'</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/winter-soldier-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="robyn hood: outlaw" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>robyn hood: outlaw</ten_truyen>
+		<ma_truyen>robyn-hood-outlaw</ma_truyen>
+        <tac_gia>Howard Mackie, Babisu Kourtis</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robyn-hood-outlaw/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Returning from her last adventure, Robyn is back in New York, and looking for some sort of normalcy. But not everyone feels she deserves any, the universe included. After a close friend is attacked, Robyn must take it upon herself to get to the bottom of this mystery as she is pitted against her greatest adversary yet, when she becomes public enemy number one, to the city she calls home. Don't miss this fast paced bare-knuckle, new series, Robyn Hood: Outlaw!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robyn-hood-outlaw-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="transformers (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>transformers (2019)</ten_truyen>
+		<ma_truyen>transformers-2019</ma_truyen>
+        <tac_gia>Brian Ruckley, Angel Hernandez, Cachet Whitman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A NEW ERA DAWNS! In the infinite universe, there exists a planet like no other: Cybertron! Home to the Transformers, and a thriving hub for inter-stellar commerce, it is a world brimming with organic and constructed diversity. Immense structures line its landscape. Mechanical giants roam across its surface. Starship-sized titans orbit its skies, keeping a constant protective watch above and below. Ancient Transformers merge into its very fabric. Small, mysterious creatures skulk in its shadows. It is a truly amazing realm, long untouched by war, and exuberantly reaching for the stars. This is the Cybertron that Optimus Prime and Megatron vie for in this bold new origin-a world of seemingly endless peace! All that changes when Bumblebee and Windblade take a newly-forged Cybertronian on his first voyage through this world of wonders-they are confronted by the hard reality of the first murder to have occurred on Cybertron in living memory!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="grimm tales of terror (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>grimm tales of terror (2018)</ten_truyen>
+		<ma_truyen>grimm-tales-of-terror-2018</ma_truyen>
+        <tac_gia>Joe Brusha, Sean Hill, Babisu Kourtis</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-tales-of-terror-vol-4/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The hit Zenescope horror series is back, and not only as a comic, but also as a soon-to-be-released motion picture. The first issue in this new volume ties into the upcoming film and continues the series tradition of delivering modern horror with truly terrifying twists.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/grimm-tales-of-terror-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the stone king" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the stone king</ten_truyen>
+		<ma_truyen>the-stone-king</ma_truyen>
+        <tac_gia>Kel McDonald, Tyler Crook</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-stone-king/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When you become an adult, you have to prove yourself, at least that's how it works for the Stoneport thieves. Ave has decided to illegally harvest healing moss from the Stone King, a mighty giant who roams the lands. Her theft goes even better than she could have dreamed. The biggest gem she's ever seen is her prize. But is that prize worth the consequences? Part of the comiXology Originals line of exclusive digital content only available on comiXology and Kindle. This title is available as part of comiXology Unlimited, Kindle Unlimited and Prime Reading.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-stone-king-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="age of x-man: the marvelous x-men" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>age of x-man: the marvelous x-men</ten_truyen>
 		<ma_truyen>age-of-x-man-the-marvelous-x-men</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/m/miles-morales-spider-man-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>Balancing his normal life, school, parents, etc...and super-heroing has never been easy, but when the Rhino and a cadre of mysterious criminals start plaguing Brooklyn, things take a dark turn. And Miles doesn't even know the half of it yet. Eisner Award-winner Saladin Ahmed (BLACK BOLT) and Young Gun Javier Garron (ANT-MAN and THE WASP) bring you the latest incarnation of the coolest character in the Marvel Universe!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/miles-morales-spider-man-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="batman: damned" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Psychological, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>batman: damned</ten_truyen>
-		<ma_truyen>batman-damned</ma_truyen>
-        <tac_gia>Brian Azzarello, Lee Bermejo</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-damned/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Joker is dead. There is no doubt about that. But whether Batman finally snapped his scrawny neck or some other sinister force in Gotham City did the deed is still a mystery.Problem is, Batman can't remember...and the more he digs into this labyrinthian case, the more his mind starts to doubt everything he's uncovering. So who better to set him straight than...John Constantine? Problem with that is as much as John loves a good mystery, he loves messing with people's heads even more. So with John's 'help,' the pair will delve into the sordid underbelly of Gotham as they race toward the mind-blowing truth of who murdered The Joker.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-damned-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="venom (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>venom (2018)</ten_truyen>
-		<ma_truyen>venom-2018</ma_truyen>
-        <tac_gia>Donny Cates, Ryan Stegman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/v/venom-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>In the wake of S.H.I.E.L.D.'s collapse, an ancient and primordial evil has been awakened beneath the streets of New York, and with it, something equally evil has awakened in that most Wicked of Webslingers - VENOM! Still a Lethal Protector of the innocents in New York, this never-before-seen threat could force Venom to relinquish everything it holds dear - including Eddie Brock! Join two of the hottest creators in comics today, Donny Cates and Ryan Stegman, for a VENOM adventure a thousand years in the making!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venom-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="infinity wars: ghost panther" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars: ghost panther</ten_truyen>
-		<ma_truyen>infinity-wars-ghost-panther</ma_truyen>
-        <tac_gia>Jed Mackay, Jefte Palo</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-ghost-panther/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Stripped of his kingdom, Prince T'Challa of Wakanda becomes a stunt performer under an assumed name... until a tragic accident and a sinister deal give him the power he needs to free his people!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-ghost-panther-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the batman who laughs" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the batman who laughs</ten_truyen>
-		<ma_truyen>the-batman-who-laughs</ma_truyen>
-        <tac_gia>Scott Snyder, Jock</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-batman-who-laughs-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Left rattled by the events of DARK NIGHTS: METAL, Bruce Wayne must come face to face with the nightmares spawned from the Dark Multiverse. But even though evil devoured evil in the collapse of Challengers Mountain, the Dark Knight still has his doubts. He discovers that the Batman Who Laughs not only survived the fight with The Joker at the end of METAL, but now he is enacting a sinister plan across the Multiverse-something both terrifying and oddly familiar. But when Bruce Wayne realizes the only way to stop this madman is to kill him, he must consider violating the very rule Batman won't break...the same rule that created this insatiable villain-the Batman Who Laughs!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-batman-who-laughs-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="infinity wars: soldier supreme" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars: soldier supreme</ten_truyen>
-		<ma_truyen>infinity-wars-soldier-supreme</ma_truyen>
-        <tac_gia>Gerry Duggan, Adam Kubert</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-soldier-supreme/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Classified 4-F by the military, Stephen Rogers was unable to serve his country in World War II...until a secret government program tapping into arcane sorcery transformed him into the Soldier Supreme, the magical warrior embodiment of the American spirit!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/infinity-wars-soldier-supreme-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

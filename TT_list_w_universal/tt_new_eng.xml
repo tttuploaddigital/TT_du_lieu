@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="winter soldier (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>winter soldier (2018)</ten_truyen>
+		<ma_truyen>winter-soldier-2018</ma_truyen>
+        <tac_gia>Kyle Higgins, Rod Reis</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/winter-soldier-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Bucky Barnes believes in second chances. Having escaped death, the loss of identity, and a life of murder, the man known as the Winter Soldier has worked hard to atone for his sins. But now...he's going to go one step further. What do you do when you've found redemption? You help others do the same. From KYLE HIGGINS (Nightwing, Power Rangers, C.O.W.L.) and ROD REIS (SECRET EMPIRE, DOCTOR STRANGE: DAMNATION, C.O.W.L.) comes the next chapter in the saga of the Winter Soldier. He's becoming a 'fixer,' working to help others leave behind lives of crime. It's Bucky's way of channeling his own pain in a productive, personal way...by helping others find the redemption that he found. However, as Bucky is going to learn, not all paths are the same... and not everyone can be 'saved.'</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/winter-soldier-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="robyn hood: outlaw" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>robyn hood: outlaw</ten_truyen>
+		<ma_truyen>robyn-hood-outlaw</ma_truyen>
+        <tac_gia>Howard Mackie, Babisu Kourtis</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/robyn-hood-outlaw/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Returning from her last adventure, Robyn is back in New York, and looking for some sort of normalcy. But not everyone feels she deserves any, the universe included. After a close friend is attacked, Robyn must take it upon herself to get to the bottom of this mystery as she is pitted against her greatest adversary yet, when she becomes public enemy number one, to the city she calls home. Don't miss this fast paced bare-knuckle, new series, Robyn Hood: Outlaw!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robyn-hood-outlaw-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="transformers (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>transformers (2019)</ten_truyen>
+		<ma_truyen>transformers-2019</ma_truyen>
+        <tac_gia>Brian Ruckley, Angel Hernandez, Cachet Whitman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A NEW ERA DAWNS! In the infinite universe, there exists a planet like no other: Cybertron! Home to the Transformers, and a thriving hub for inter-stellar commerce, it is a world brimming with organic and constructed diversity. Immense structures line its landscape. Mechanical giants roam across its surface. Starship-sized titans orbit its skies, keeping a constant protective watch above and below. Ancient Transformers merge into its very fabric. Small, mysterious creatures skulk in its shadows. It is a truly amazing realm, long untouched by war, and exuberantly reaching for the stars. This is the Cybertron that Optimus Prime and Megatron vie for in this bold new origin-a world of seemingly endless peace! All that changes when Bumblebee and Windblade take a newly-forged Cybertronian on his first voyage through this world of wonders-they are confronted by the hard reality of the first murder to have occurred on Cybertron in living memory!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="grimm tales of terror (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>grimm tales of terror (2018)</ten_truyen>
+		<ma_truyen>grimm-tales-of-terror-2018</ma_truyen>
+        <tac_gia>Joe Brusha, Sean Hill, Babisu Kourtis</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-tales-of-terror-vol-4/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The hit Zenescope horror series is back, and not only as a comic, but also as a soon-to-be-released motion picture. The first issue in this new volume ties into the upcoming film and continues the series tradition of delivering modern horror with truly terrifying twists.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/grimm-tales-of-terror-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the stone king" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the stone king</ten_truyen>
+		<ma_truyen>the-stone-king</ma_truyen>
+        <tac_gia>Kel McDonald, Tyler Crook</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-stone-king/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When you become an adult, you have to prove yourself, at least that's how it works for the Stoneport thieves. Ave has decided to illegally harvest healing moss from the Stone King, a mighty giant who roams the lands. Her theft goes even better than she could have dreamed. The biggest gem she's ever seen is her prize. But is that prize worth the consequences? Part of the comiXology Originals line of exclusive digital content only available on comiXology and Kindle. This title is available as part of comiXology Unlimited, Kindle Unlimited and Prime Reading.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-stone-king-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="runway de waratte" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>runway de waratte</ten_truyen>
 		<ma_truyen>runway-de-waratte</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/0c/bf/0cbf048ba5291455f3e61fec50a745f57ea4343b_48679_200_308.jpg</hinh_nho>
 		<gioi_thieu>Otaku Sakamichi Onoda has just entered high school and plans to join the anime club. In middle school, Onoda didn't have any friends with whom he could talk about anime, games, Akihabara and other otaku things, and he is hoping he can make such friends in the anime club, but he finds out it's been disbanded. In order to reestablish the club he tries to find 4 other people who would like to join. Since he was a little boy, Onoda has ridden his mamachari-a bulky bicycle with a step-through frame mainly used for short rides, such as for casual fun or to pick up groceries-to go to Akihabara every week to check out or buy otaku things. Fellow freshman Shunsuke Imaizumi and bicyclist, while training, notices a boy (Onoda) riding his mamachari up a steep road. Freshman and road racing cyclist, Shokichi Naruko visits Akihabara to get some Gundam plastic models for his younger brothers and meets Onoda who catches his attention because of the his cycling skill on the mamachari and later find out they go to the same school. Later on, both Naruko and Imaizumi try to convince him to join the bicycle racing club, but will he?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yowamushi-pedal-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="war is hell" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Life sucks, Military" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>war is hell</ten_truyen>
-		<ma_truyen>war-is-hell</ma_truyen>
-        <tac_gia>Howard Chaykin, Phillip K. Johnson, Howard Chaykin</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-is-hell-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ALL-NEW WAR STORY! In honor of Marvel's 80th Anniversary and history with War Comics comes a brand new edition of WAR IS HELL with two fascinating and soul-crushing tales of War. 'In the Mood' by Howard Chaykin takes you to the skies as the Luftwaffe and RAF battle over the English Channel for a battle tale of bitter irony and 'War Glammer' by Phillip Kennedy Johnson brings you back to Earth in modern day Afghanistan with a story that will chill you to the bone.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/war-is-hell-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="mysteries of love in space" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>mysteries of love in space</ten_truyen>
-		<ma_truyen>mysteries-of-love-in-space</ma_truyen>
-        <tac_gia>James Tynion IV, Tom Grummett</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/mysteries-of-love-in-space/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Sometimes love can make you feel like you're from another planet...but what if you actually were? Join Superman, The New Gods, Green Lantern, Starro, Hawkgirl and even the Teen Titans' new sensation Crush for eight tales of romance that will whisk you to the moon and back!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/mysteries-of-love-in-space-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="journey into unknown worlds" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>journey into unknown worlds</ten_truyen>
-		<ma_truyen>journey-into-unknown-worlds</ma_truyen>
-        <tac_gia>Cullen Bunn, Clay McLeod Chapman, Francesco Manna</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/journey-into-unknown-worlds/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ALL-NEW SCI-FI STORY! In celebration of Marvel's 80th anniversary and the comic books that captivated hearts and minds across generations, join us for two scintillating sci-fi stories - the first an extraterrestrial adventure by Cullen Bunn the likes of which haven't been seen in this or any other decade, and the second a tale of terror by Clay McLeod Chapman that could take place in your very own back yard! The secrets of the universe lie waiting to be discovered, True-Believers, on a JOURNEY TO UNKNOWN WORLDS!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/journey-into-unknown-worlds-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="saikyou mahoushi no inton keikaku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, School life, Shounen., Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>saikyou mahoushi no inton keikaku</ten_truyen>
-		<ma_truyen>saikyou-mahoushi-no-inton-keikaku</ma_truyen>
-		<tac_gia>Miyuki Ruria, Uonu Mayuu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/71/24/7124c272a6fc864b9a17e2fc38e80399f58d8ca9_50800_200_310.jpg</hinh_nho>
-		<gioi_thieu>In a world filled with monsters, we follow the journey of the 16 years old genius mage Alusu Reigin.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saikyou-mahoushi-no-inton-keikaku-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="go-toubun no hanayome" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>go-toubun no hanayome</ten_truyen>
-		<ma_truyen>go-toubun-no-hanayome</ma_truyen>
-		<tac_gia>Haruba negi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/84/5c/845c03de249fcbd7a7bac73cd0cfac6fc76f28a2_39178_200_299.jpg</hinh_nho>
-		<gioi_thieu>Fuutarou Uesugi is a poor, antisocial ace student who one day meets the rich transfer student Itsuki Nakano. They argue but when Uesugi realizes he is to be her tutor, he tries to get on better terms. While trying to do so he meets four other girls.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/go-toubun-no-hanayome-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
