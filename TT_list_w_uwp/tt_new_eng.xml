@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="mairimashita! iruma-kun" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>mairimashita! iruma-kun</ten_truyen>
+		<ma_truyen>mairimashita-iruma-kun</ma_truyen>
+		<tac_gia>Nishi Osamu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/38/1a/381a9747c56d9be63a80f95d32b8949f6634e293_45980_200_308.jpg</hinh_nho>
+		<gioi_thieu>Mairimashita! Iruma-kun is the story of Suzuki Iruma, who has been sold to the demon by his irresponsible parents in exchange for money. Surprisingly, next thing he knows, he is living with the demon and has been transferred into a school from Demon World. We invite you to follow Iruma-kun's extraordinary school life.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mairimashita-iruma-kun-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="gakkou gurashi!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mature, Mystery, Psychological, School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>gakkou gurashi!</ten_truyen>
+		<ma_truyen>gakkou-gurashi</ma_truyen>
+		<tac_gia>Kaihou Norimitsu, Chiba Sadoru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/d4/f5/d4f5de06e6665f6669b97678d892c721aa6270f6_35199_200_290.jpg</hinh_nho>
+		<gioi_thieu>Three high-school girls and a teacher are camping at school. The First Article of the 'School Life Club' Code reads: The School Life Club encourages a spirit of self-governing independence by camping at school, as well as socializing with various after-school clubs, which you can't enjoy from regular classes alone.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gakkou-gurashi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="jujutsu kaisen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>jujutsu kaisen</ten_truyen>
+		<ma_truyen>jujutsu-kaisen</ma_truyen>
+		<tac_gia>Akutami Gege</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/7f/6e/7f6e51e972778f69ba644755de7db91f8ce14e4d_40298_200_314.jpg</hinh_nho>
+		<gioi_thieu>Yuuji is a genius at track and field. But he has zero interest running around in circles, he's happy as a clam in the Occult Research Club. Although he's only in the club for kicks, things get serious when a real spirit shows up at school! Life's about to get really strange in Sugisawa Town #3 High School!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jujutsu-kaisen-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="isekai shokudou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>isekai shokudou</ten_truyen>
+		<ma_truyen>isekai-shokudou</ma_truyen>
+		<tac_gia>Inuzuka Junpei, Kugatsu Takaaki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/a3/58/a3581edbcd5bf274f9042a0995a0d140bdb2dcae_39841_200_310.jpg</hinh_nho>
+		<gioi_thieu>There is a certain restaurant in one corner of a shopping street near the office district. The historical restaurant, marked by a sign with a picture of a cat, is called 'Western Cuisine Nekoya.' This restaurant looks completely normal through the week, but on Saturdays, it opens in secret exclusively to some very unique guests. During these hours, doors in various areas of a parallel world open to allow customers of many different races and cultures into the restaurant. This 'Restaurant to Another World' and its food hold an exotic charm to these highly diverse customers. This is a story of the heartwarming, once-in-a-lifetime encounters between our reality and another world, between the restaurant's customers and its owner, and the food shared among them all. Note: Based on the eponymous light novel by Inuzuka Junpei.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-shokudou-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="fantasista" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>fantasista</ten_truyen>
+		<ma_truyen>fantasista</ma_truyen>
+		<tac_gia>Kusaba Michiteru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/79/24/79245ac305608038037a0f2624350d50d1f4064a_28983_200_314.jpg</hinh_nho>
+		<gioi_thieu>Teppei Sakamoto is a boy living in the countryside. He loves soccer, and all his soccer skills were taught to him by his sister. Finally, his sister wants him to join in Mizumoto High School soccer team. Teppei's turn in life has come!! How will this soccer newbie fare in the new environment?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fantasista-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="winter soldier (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>winter soldier (2018)</ten_truyen>
 		<ma_truyen>winter-soldier-2018</ma_truyen>
@@ -360,49 +405,4 @@
         <gioi_thieu>The team that brought you AVENGERS: NO SURRENDER REUNITES for an all-new weekly AVENGERS adventure! Night has fallen across the universe. Now seven Avengers - and one new addition - journey forth to bring back the light. But when the threat they face has destroyed even the gods...will anyone make it home?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-no-road-home-eng.xml</file_xml>
     </truyen>
-	<truyen ten="wonder twins" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>wonder twins</ten_truyen>
-		<ma_truyen>wonder-twins</ma_truyen>
-        <tac_gia>Mark Russell, Stephen Byrne</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-twins-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Exiled from their home planet, alien heroes Zan and Jayna must navigate life as teens on Earth at South Metropolis High School, where they're even bigger outsiders than the typical awkward young adults. Under the watchful eye of Superman, the brother and sister pull monitor duty at the Hall of Justice as interns, while also trying to overcome the pitfalls of Zan's brash confidence and Jayna's shy but streetwise persona. If you think you know the Wonder Twins, think again-this book takes the form of the unexpected.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-twins-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="age of x-man: nextgen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>age of x-man: nextgen</ten_truyen>
-		<ma_truyen>age-of-x-man-nextgen</ma_truyen>
-        <tac_gia>Ed Brisson, Marcus To</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-nextgen/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ENTER THE AGE OF X-MAN! The perfect heroes for a perfect world! The X-Men have helped make the world into a utopia where living in fear and hatred is a thing of the past. All people are united under the banner of mutantkind, and all of mutantkind idolizes the X-Men. Jean Grey! Colossus! Storm! X-23! X-Man! Nature Girl! Magneto! And of course, the amazing Nightcrawler! When danger threatens the world, the Marvelous X-Men set things right for the good of all. And no one dares say otherwise.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-nextgen-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="isekai nonbiri nouka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Harem, Romance, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>isekai nonbiri nouka</ten_truyen>
-		<ma_truyen>isekai-nonbiri-nouka</ma_truyen>
-		<tac_gia>Naitou Kinosuke, Tsurugi Yasuyuki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/76/1d/761d5a2bf2928affa2a11536252d59c2f3dc162d_38842_200_283.jpg</hinh_nho>
-		<gioi_thieu>You know the deal by now. Middle-aged office worker gets sick and dies. He meets God, who tells him that he can be reincarnated in a new world. Our main character accepts, and decides to become a farmer. Welcome to farming in an alternate world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-nonbiri-nouka-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="nekomusume shoukougun" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shoujo ai, Supernatural, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>nekomusume shoukougun</ten_truyen>
-		<ma_truyen>nekomusume-shoukougun</ma_truyen>
-		<tac_gia>Nekotarou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/0f/82/0f82e1b5191aef747f773c56f356890646246320_45357_200_284.jpg</hinh_nho>
-		<gioi_thieu>Catulus Syndrome - A strange illness which causes girls to develop catlike traits. Modern science has figured out two things about this illness: 1. They're really cute! 2. There's a high chance of making girls' hearts flutter.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nekomusume-shoukougun-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="yowamushi pedal" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>yowamushi pedal</ten_truyen>
-		<ma_truyen>yowamushi-pedal</ma_truyen>
-		<tac_gia>Watanabe Wataru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/0c/bf/0cbf048ba5291455f3e61fec50a745f57ea4343b_48679_200_308.jpg</hinh_nho>
-		<gioi_thieu>Otaku Sakamichi Onoda has just entered high school and plans to join the anime club. In middle school, Onoda didn't have any friends with whom he could talk about anime, games, Akihabara and other otaku things, and he is hoping he can make such friends in the anime club, but he finds out it's been disbanded. In order to reestablish the club he tries to find 4 other people who would like to join. Since he was a little boy, Onoda has ridden his mamachari-a bulky bicycle with a step-through frame mainly used for short rides, such as for casual fun or to pick up groceries-to go to Akihabara every week to check out or buy otaku things. Fellow freshman Shunsuke Imaizumi and bicyclist, while training, notices a boy (Onoda) riding his mamachari up a steep road. Freshman and road racing cyclist, Shokichi Naruko visits Akihabara to get some Gundam plastic models for his younger brothers and meets Onoda who catches his attention because of the his cycling skill on the mamachari and later find out they go to the same school. Later on, both Naruko and Imaizumi try to convince him to join the bicycle racing club, but will he?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yowamushi-pedal-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>

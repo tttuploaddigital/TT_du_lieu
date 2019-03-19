@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="mairimashita! iruma-kun" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>mairimashita! iruma-kun</ten_truyen>
+		<ma_truyen>mairimashita-iruma-kun</ma_truyen>
+		<tac_gia>Nishi Osamu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/38/1a/381a9747c56d9be63a80f95d32b8949f6634e293_45980_200_308.jpg</hinh_nho>
+		<gioi_thieu>Mairimashita! Iruma-kun is the story of Suzuki Iruma, who has been sold to the demon by his irresponsible parents in exchange for money. Surprisingly, next thing he knows, he is living with the demon and has been transferred into a school from Demon World. We invite you to follow Iruma-kun's extraordinary school life.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mairimashita-iruma-kun-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="gakkou gurashi!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mature, Mystery, Psychological, School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>gakkou gurashi!</ten_truyen>
+		<ma_truyen>gakkou-gurashi</ma_truyen>
+		<tac_gia>Kaihou Norimitsu, Chiba Sadoru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/d4/f5/d4f5de06e6665f6669b97678d892c721aa6270f6_35199_200_290.jpg</hinh_nho>
+		<gioi_thieu>Three high-school girls and a teacher are camping at school. The First Article of the 'School Life Club' Code reads: The School Life Club encourages a spirit of self-governing independence by camping at school, as well as socializing with various after-school clubs, which you can't enjoy from regular classes alone.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gakkou-gurashi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="jujutsu kaisen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>jujutsu kaisen</ten_truyen>
+		<ma_truyen>jujutsu-kaisen</ma_truyen>
+		<tac_gia>Akutami Gege</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/7f/6e/7f6e51e972778f69ba644755de7db91f8ce14e4d_40298_200_314.jpg</hinh_nho>
+		<gioi_thieu>Yuuji is a genius at track and field. But he has zero interest running around in circles, he's happy as a clam in the Occult Research Club. Although he's only in the club for kicks, things get serious when a real spirit shows up at school! Life's about to get really strange in Sugisawa Town #3 High School!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jujutsu-kaisen-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="isekai shokudou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>isekai shokudou</ten_truyen>
+		<ma_truyen>isekai-shokudou</ma_truyen>
+		<tac_gia>Inuzuka Junpei, Kugatsu Takaaki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/a3/58/a3581edbcd5bf274f9042a0995a0d140bdb2dcae_39841_200_310.jpg</hinh_nho>
+		<gioi_thieu>There is a certain restaurant in one corner of a shopping street near the office district. The historical restaurant, marked by a sign with a picture of a cat, is called 'Western Cuisine Nekoya.' This restaurant looks completely normal through the week, but on Saturdays, it opens in secret exclusively to some very unique guests. During these hours, doors in various areas of a parallel world open to allow customers of many different races and cultures into the restaurant. This 'Restaurant to Another World' and its food hold an exotic charm to these highly diverse customers. This is a story of the heartwarming, once-in-a-lifetime encounters between our reality and another world, between the restaurant's customers and its owner, and the food shared among them all. Note: Based on the eponymous light novel by Inuzuka Junpei.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-shokudou-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="fantasista" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>fantasista</ten_truyen>
+		<ma_truyen>fantasista</ma_truyen>
+		<tac_gia>Kusaba Michiteru</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/79/24/79245ac305608038037a0f2624350d50d1f4064a_28983_200_314.jpg</hinh_nho>
+		<gioi_thieu>Teppei Sakamoto is a boy living in the countryside. He loves soccer, and all his soccer skills were taught to him by his sister. Finally, his sister wants him to join in Mizumoto High School soccer team. Teppei's turn in life has come!! How will this soccer newbie fare in the new environment?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fantasista-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="runway de waratte" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>runway de waratte</ten_truyen>
 		<ma_truyen>runway-de-waratte</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W300/26/c7/26c7e682668b7fe2d47e0d1a7f8eaf80bc45a607_35176_200_290.jpg</hinh_nho>
 		<gioi_thieu>Nakamachi Kana is a junior high school girl. Her grandmother passed away and she was left all alone. She finds a newspaper carrier station and starts working as a live-in carrier. Her room has a hole in the wall. Other female workers living next doors come in through the hole and start a wild merrymaking.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kanamemo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="hataraku saibou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>hataraku saibou</ten_truyen>
-		<ma_truyen>hataraku-saibou</ma_truyen>
-		<tac_gia>Shimizu Akane</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1b/6d/1b6dbbac9669c2b7e491606c35eac89fc68811a4_31145_200_266.jpg</hinh_nho>
-		<gioi_thieu>Within the human body there is said to be approximately 60 million cells. White blood cells, red blood cells, platelets, macrophages, memory cells, killer T cells, natural killer cells, B cells, mast cells and many more! All these different cells work tirelessly within the body, never resting for a moment, at any time willing to resist invading foreign entities like germs and viruses to the bitter end! From Akane Shimizu, winner of Shounen Sirius' Rookie Award, comes an informative tale about anthropomorthized cells!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hataraku-saibou-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="captain tsubasa - rising sun" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>captain tsubasa - rising sun</ten_truyen>
-		<ma_truyen>captain-tsubasa-rising-sun</ma_truyen>
-		<tac_gia>Takahashi Yoichi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1a/88/1a882cec4848ba991b6f0e070acc6e1c0488347f_30007_200_313.jpg</hinh_nho>
-		<gioi_thieu>Rising Sun will revolve around Tsubasa as he aims to participate in the Olympics as a representative from Japan.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/captain-tsubasa-rising-sun-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="marry grave" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>marry grave</ten_truyen>
-		<ma_truyen>marry-grave</ma_truyen>
-		<tac_gia>Yamaji Hidenori</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1b/67/1b67039dc8e2b00e0fecd3098f26fc4aa03bd388_36819_200_313.jpg</hinh_nho>
-		<gioi_thieu>In a world where demons seek to destroy humanity, a vagabond named Riseman Sawyer travels in search of the ingredients for the spell called 'Deadman's Recipe'. This magic has the power to resurrect the dead, and thereby revive his late wife who had died using the spell herself to save Riseman.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/marry-grave-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="satanofani" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mature, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>satanofani</ten_truyen>
-		<ma_truyen>satanofani</ma_truyen>
-		<tac_gia>Yamada Yoshinobu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/c1/83/c1838585935591a8018f04b6a2e917bb4018dc1a_45352_200_310.jpg</hinh_nho>
-		<gioi_thieu>A mysterious syndrome turns schoolgirls into homicidal monsters behind numerous atrocities in Japan. However, nothing is what it seems and when Chika Amagi is arrested for the brutal murder of five people, which starts a journey into uncharted and troubled waters!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/satanofani-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="saguri-chan tankentai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Romance, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>saguri-chan tankentai</ten_truyen>
-		<ma_truyen>saguri-chan-tankentai</ma_truyen>
-		<tac_gia>Akiyama Yoco</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/c9/0f/c90f202c513a84b8b6208328ca1b3c47001ef337_39645_200_314.jpg</hinh_nho>
-		<gioi_thieu>Let's go exploring with a cute girl!! A landscape painted by the beautiful stroke of a paintbrush can be found anywhere!! An exploration manga filled with comedy that will make you say, 'Let's go there tomorrow!'</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saguri-chan-tankentai-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
