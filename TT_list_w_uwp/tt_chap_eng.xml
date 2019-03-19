@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>wonder woman (2016)</ten_truyen>
+		<ma_truyen>wonder-woman-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-woman-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-woman-2016-eng.xml</file_xml>
+		<chap_moi>issue 66</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>titans (2016) </ten_truyen>
+		<ma_truyen>titans-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/titans-2016-eng.xml</file_xml>
+		<chap_moi>issue 35</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dark ark</ten_truyen>
+		<ma_truyen>dark-ark</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dark-ark/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dark-ark-eng.xml</file_xml>
+		<chap_moi>issue 15</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>rat queens (2017)</ten_truyen>
+		<ma_truyen>rat-queens-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/rat-queens-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/rat-queens-2017-eng.xml</file_xml>
+		<chap_moi>issue 15</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>oblivion song</ten_truyen>
+		<ma_truyen>oblivion-song</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/oblivion-song/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oblivion-song-eng.xml</file_xml>
+		<chap_moi>issue 13</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the new gate</ten_truyen>
+		<ma_truyen>the-new-gate</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28819/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/the-new-gate-eng.xml</file_xml>
+		<chap_moi>chap 46</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>golden kamui</ten_truyen>
+		<ma_truyen>golden-kamui</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/golden-kamui-eng.xml</file_xml>
+		<chap_moi>chap 193</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hajime no ippo</ten_truyen>
+		<ma_truyen>hajime-no-ippo</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/fa/20/fa205ccbb16cd361708fd290b2649732f3f75638_36159_200_306.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajime-no-ippo-eng.xml</file_xml>
+		<chap_moi>ch. 1256</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nanba mg5</ten_truyen>
+		<ma_truyen>nanba-mg5</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/48/20/4820fce9937baac5b52b39379393a6ea79940233_39720_200_310.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanba-mg5-eng.xml</file_xml>
+		<chap_moi>chap 50</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>youjo senki</ten_truyen>
+		<ma_truyen>youjo-senki</ma_truyen>
+		<hinh_nho>https://i.ebayimg.com/images/g/gVQAAOSwY3BZN1Cj/s-l300.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youjo-senki-eng.xml</file_xml>
+		<chap_moi>chap 38</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>supergirl (2016)</ten_truyen>
 		<ma_truyen>supergirl-2016</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/supergirl-(2016)/1_medium.jpg</hinh_nho>
@@ -244,75 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/28078/2/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/days-eng.xml</file_xml>
 		<chap_moi>chap 169</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>champions (2019)</ten_truyen>
-		<ma_truyen>champions-2019</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/champions-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/champions-2019-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>immortal hulk</ten_truyen>
-		<ma_truyen>immortal-hulk</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/immortal-hulk-eng.xml</file_xml>
-		<chap_moi>issue 14</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars (2015)</ten_truyen>
-		<ma_truyen>star-wars-2015</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
-		<chap_moi>issue 62</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>robotech (2017)</ten_truyen>
-		<ma_truyen>robotech-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/robotech/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robotech-2017-eng.xml</file_xml>
-		<chap_moi>issue 18</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gasolina</ten_truyen>
-		<ma_truyen>gasolina</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/gasolina/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gasolina-eng.xml</file_xml>
-		<chap_moi>issue 16</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>amatsuki</ten_truyen>
-		<ma_truyen>amatsuki</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/a7/1c/a71c3e87bb8e16f244a7bc3d9f6c76aeec1505ee_32870_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/amatsuki-eng.xml</file_xml>
-		<chap_moi>chap 124</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>memesis</ten_truyen>
-		<ma_truyen>memesis</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/52/39/5239a38ebb2f4d7002fb3960524918e03d05852f_31168_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/memesis-eng.xml</file_xml>
-		<chap_moi>chap 45</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>azumi</ten_truyen>
-		<ma_truyen>azumi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/22943/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/azumi-eng.xml</file_xml>
-		<chap_moi>chap 222</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>biorg trinity</ten_truyen>
-		<ma_truyen>biorg-trinity</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/1195/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/biorg-trinity-eng.xml</file_xml>
-		<chap_moi>chap 45</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kakao 79%</ten_truyen>
-		<ma_truyen>kakao-79</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41590/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakao-79-eng.xml</file_xml>
-		<chap_moi>chap 165</chap_moi>
 	</truyen>
 </danh_sach_truyen>
