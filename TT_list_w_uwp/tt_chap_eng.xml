@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>damage (2018)</ten_truyen>
+		<ma_truyen>damage-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/damage-2018-eng.xml</file_xml>
+		<chap_moi>issue 15</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>thor (2018)</ten_truyen>
+		<ma_truyen>thor-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thor-2018-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>naomi</ten_truyen>
+		<ma_truyen>naomi</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/naomi/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/naomi-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>star wars (2015)</ten_truyen>
+		<ma_truyen>star-wars-2015</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
+		<chap_moi>issue 63</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>monstress</ten_truyen>
+		<ma_truyen>monstress</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/monstress/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/monstress-eng.xml</file_xml>
+		<chap_moi>issue 21</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>beastars</ten_truyen>
+		<ma_truyen>beastars</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
+		<chap_moi>chap 121</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>infection</ten_truyen>
+		<ma_truyen>infection</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38637/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/infection-eng.xml</file_xml>
+		<chap_moi>chap 57</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ake no tobari</ten_truyen>
+		<ma_truyen>ake-no-tobari</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/39326/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ake-no-tobari-eng.xml</file_xml>
+		<chap_moi>chap 144</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>c.m.b.</ten_truyen>
+		<ma_truyen>c-m-b</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/1559/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/c-m-b-eng.xml</file_xml>
+		<chap_moi>chap 111.2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kyochuu rettou</ten_truyen>
+		<ma_truyen>kyochuu-rettou</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/36229/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyochuu-rettou-eng.xml</file_xml>
+		<chap_moi>chap 43</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>iron ladies</ten_truyen>
+		<ma_truyen>iron-ladies</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/65/11/6511f81ba14b3dd57f902dd8b894acbb6aa93673_33406_200_266.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/iron-ladies-eng.xml</file_xml>
+		<chap_moi>chap 219</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>a returner's magic should be special</ten_truyen>
+		<ma_truyen>a-returner-s-magic-should-be-special</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/fd/69/fd69630598bd7ec524ac3a2ad1e6d86056fba6e8_30740_200_270.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/a-returner-s-magic-should-be-special-eng.xml</file_xml>
+		<chap_moi>chap 55</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>star martial god technique</ten_truyen>
+		<ma_truyen>star-martial-god-technique</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/44777/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/star-martial-god-technique-eng.xml</file_xml>
+		<chap_moi>chap 229</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the scholar's reincarnation</ten_truyen>
+		<ma_truyen>the-scholar-s-reincarnation</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/76/c5/76c58e8d3015f585142b30445fcf26e4cf4da005_30357_200_270.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/the-scholar-s-reincarnation-eng.xml</file_xml>
+		<chap_moi>chap 101</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tang yin zai yi jie</ten_truyen>
+		<ma_truyen>tang-yin-zai-yi-jie</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/4d/f6/4df6d07b4d09012d955ec757689c0dd064cf4f4d_28183_200_310.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tang-yin-zai-yi-jie-eng.xml</file_xml>
+		<chap_moi>chap 192</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>avengers: no road home</ten_truyen>
 		<ma_truyen>avengers-no-road-home</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-no-road-home/1_medium.jpg</hinh_nho>
@@ -209,110 +314,5 @@
 		<hinh_nho>https://i.ebayimg.com/images/g/gVQAAOSwY3BZN1Cj/s-l300.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youjo-senki-eng.xml</file_xml>
 		<chap_moi>chap 38</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>supergirl (2016)</ten_truyen>
-		<ma_truyen>supergirl-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/supergirl-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/supergirl-2016-eng.xml</file_xml>
-		<chap_moi>issue 28</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shuri</ten_truyen>
-		<ma_truyen>shuri</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shuri-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the punisher (2018)</ten_truyen>
-		<ma_truyen>the-punisher-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/punisher-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-punisher-2018-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>runaways (2017)</ten_truyen>
-		<ma_truyen>runaways-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/runaways-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/runaways-2017-eng.xml</file_xml>
-		<chap_moi>issue 19</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>accell</ten_truyen>
-		<ma_truyen>accell</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-accell/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/accell-eng.xml</file_xml>
-		<chap_moi>issue 19</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 936</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 303</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yakusoku no neverland</ten_truyen>
-		<ma_truyen>yakusoku-no-neverland</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/42944/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yakusoku-no-neverland-eng.xml</file_xml>
-		<chap_moi>chap 127</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>a story about treating a female knight who has never been treated as a woman as a woman</ten_truyen>
-		<ma_truyen>a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/8f/e1/8fe15f1cb81932edf231f9db984ce4e7f2d8866a_26986_200_281.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman-eng.xml</file_xml>
-		<chap_moi>chap 51</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>detective conan</ten_truyen>
-		<ma_truyen>detective-conan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/17/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/detective-conan-eng.xml</file_xml>
-		<chap_moi>ch. 1031</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the great ruler</ten_truyen>
-		<ma_truyen>the-great-ruler</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/34654/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/the-great-ruler-eng.xml</file_xml>
-		<chap_moi>chap 83</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tales of demons and gods</ten_truyen>
-		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tales-of-demons-and-gods-eng.xml</file_xml>
-		<chap_moi>chap 213.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star martial god technique</ten_truyen>
-		<ma_truyen>star-martial-god-technique</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/44777/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/star-martial-god-technique-eng.xml</file_xml>
-		<chap_moi>chap 227</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>brawling go</ten_truyen>
-		<ma_truyen>brawling-go</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/37633/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/brawling-go-eng.xml</file_xml>
-		<chap_moi>chap 150</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>witch hunter</ten_truyen>
-		<ma_truyen>witch-hunter</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/11116/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/witch-hunter-eng.xml</file_xml>
-		<chap_moi>chap 196</chap_moi>
 	</truyen>
 </danh_sach_truyen>

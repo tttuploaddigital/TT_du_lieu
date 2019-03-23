@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>beastars</ten_truyen>
+		<ma_truyen>beastars</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
+		<chap_moi>chap 121</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>infection</ten_truyen>
+		<ma_truyen>infection</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38637/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/infection-eng.xml</file_xml>
+		<chap_moi>chap 57</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ake no tobari</ten_truyen>
+		<ma_truyen>ake-no-tobari</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/39326/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ake-no-tobari-eng.xml</file_xml>
+		<chap_moi>chap 144</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>c.m.b.</ten_truyen>
+		<ma_truyen>c-m-b</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/1559/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/c-m-b-eng.xml</file_xml>
+		<chap_moi>chap 111.2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kyochuu rettou</ten_truyen>
+		<ma_truyen>kyochuu-rettou</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/36229/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyochuu-rettou-eng.xml</file_xml>
+		<chap_moi>chap 43</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>boku no hero academia</ten_truyen>
 		<ma_truyen>boku-no-hero-academia</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
 		<chap_moi>chap 304</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
-		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
-        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
-		<chap_moi>chap 20</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>captain tsubasa - rising sun</ten_truyen>
-		<ma_truyen>captain-tsubasa-rising-sun</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1a/88/1a882cec4848ba991b6f0e070acc6e1c0488347f_30007_200_313.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/captain-tsubasa-rising-sun-eng.xml</file_xml>
-		<chap_moi>chap 89</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>ayakashiko</ten_truyen>
-		<ma_truyen>ayakashiko</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/48860/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ayakashiko-eng.xml</file_xml>
-		<chap_moi>chap 47</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shingeki no kyojin</ten_truyen>
-		<ma_truyen>shingeki-no-kyojin</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/8972/11/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shingeki-no-kyojin-eng.xml</file_xml>
-		<chap_moi>chap 115</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kingdom  </ten_truyen>
-		<ma_truyen>kingdom</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
-		<chap_moi>chap 592</chap_moi>
 	</truyen>
 </danh_sach_truyen>
