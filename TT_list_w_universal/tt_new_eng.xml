@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="ultraman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mystery, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>ultraman</ten_truyen>
+		<ma_truyen>ultraman</ma_truyen>
+		<tac_gia>Shimizu Eiichi, Shimoguchi Tomohiro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/79/24/79245ac305608038037a0f2624350d50d1f4064a_28983_200_314.jpg</hinh_nho>
+		<gioi_thieu>Ages ever since the absents of the Gigantic Hero, the next generation hero who inherit the bloodlines of the legendary gigantic hero emerge. Shin Jiro, a normal high school student who's also the son of Shin Hayate(the real Ultraman) and is aware about the existence of Ultraman years ago and wanted to be a hero that save the world. He is just a normal human and had no superpowers or such. One faithful day lead him to a special high-tech suit that will turn him into a different incarnation of the legendary gigantic hero! Will he be a HERO?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ultraman-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="stravaganza - isai no hime" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Fantasy, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>stravaganza - isai no hime</ten_truyen>
+		<ma_truyen>stravaganza-isai-no-hime</ma_truyen>
+		<tac_gia>Tomi Akihito</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/88/68/8868ddfaeff49477685c51b375d17f23e9f3ede6_38596_200_284.jpg</hinh_nho>
+		<gioi_thieu>Humans live mostly behind safe walls, protected from the many non-human creatures outside. In this kingdom's walled capital city of Mitera lives an unusual young warrior woman known as Claria. The story begins as she takes a potentially deadly walk alone in the woods, encountering various dangerous creatures-- most notably a lizardman that treats her surprisingly kindly. But what no one knows about Claria is that she is secretly this kingdom's ruler, Queen Vivian!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/stravaganza-isai-no-hime-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="issak" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Historical, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>issak</ten_truyen>
+		<ma_truyen>issak</ma_truyen>
+		<tac_gia>Makari Shinji, Double-s</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/d3/52/d3529053ee0da2d40fdb68f298314982b78e4c25_33880_200_283.jpg</hinh_nho>
+		<gioi_thieu>In the 17th century, the Holy Roman Empire was ravaged by the Thirty Years' War. In the middle of this chaos appeared a japanese mercenary named Isaak. His fierce battle begins.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/issak-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="higanjima" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Horror, Mature, Psychological, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>higanjima</ten_truyen>
+		<ma_truyen>higanjima</ma_truyen>
+		<tac_gia>Matsumoto Kouji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/06/cc/06cc053af20c3a0dd0b2eb339fe1242e81d6195f_27651_200_284.jpg</hinh_nho>
+		<gioi_thieu>It's all about vampire hunting versus man hunting in the series. Akira's brother, Atsushi, was found missing for 2 years. And recently a mysterious woman appeared and told him that she can bring him to Higanjima (an island's name) where she saw Atsushi. But she also asked that he should brings a few more friends there...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/higanjima-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="waga na wa umishi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>waga na wa umishi</ten_truyen>
+		<ma_truyen>waga-na-wa-umishi</ma_truyen>
+		<tac_gia>Komori Yoichi, Takemura Yuuji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/02/fb/02fb1b35835aab64254e4a601fea87e115e426f1_32292_200_285.jpg</hinh_nho>
+		<gioi_thieu>Salvors are men responsible for towing wrecked ships and handling the cargos. They are different from rescue teams as they usually ask for money before offering help. Nanba Rintarou's father was the owner of such a company, but Rintarou really hated the way they operated and decided to join the Coast Guard However, Rintarou's father died right after Rintarou completed his training. In his will he asked Rintarou to take over his company. What's worse is he left his son a debt of 1.5 billion yen...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/waga-na-wa-umishi-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="captain marvel (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>captain marvel (2019)</ten_truyen>
 		<ma_truyen>captain-marvel-2019</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/c/crackdown-(2019)/1_medium.jpg</hinh_nho>
         <gioi_thieu>The hyper-powered world of Crackdown (Xbox) has made its way to the comic page! In the not-so-distant future, civilized society is more plugged-in and interconnected than ever - but criminal organizations are growing more connected as well, forming unholy alliances, and plotting for an unprecedented campaign against the world. When a series of devastating blackout attacks plunge major metropolitan areas into darkness and chaos, the global population is terrified, traditional law enforcement is overwhelmed - and it's up to The Agency, an elite international crime-fighting task force, to restore peace and deliver justice, by any means necessary.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/crackdown-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="shinju no nectar" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Ecchi, Fantasy, Harem, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>shinju no nectar</ten_truyen>
-		<ma_truyen>shinju-no-nectar</ma_truyen>
-		<tac_gia>Yoshino Hiroyuki, Satou Kenetsu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/b7/71/b77142b1dac4a4cbc4825c9a1e414bf88be264d4_41273_200_314.jpg</hinh_nho>
-		<gioi_thieu>Sakra, the last surviving princess of a fallen kingdom, is being hunted down for the power of Ambrosia she possesses - the ability to grant divine strength, but only to a human. With no human companion, she decides to summon one from another world in a desperate attempt to find a knight to protect her, but the man who answers her call is less than what she had hoped for. From the creators of Qwaser of Stigmata.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shinju-no-nectar-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="okusan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>okusan</ten_truyen>
-		<ma_truyen>okusan</ma_truyen>
-		<tac_gia>Ooi Masakazu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/12/17/121737e10d7c039598e9b3ef0323e53beaf18b70_31035_200_314.jpg</hinh_nho>
-		<gioi_thieu>About a housewife that has moved into a new town trying to adjust to her fairly new married life with certain quirks and encounters with neighbours along the way.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/okusan-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="saotome girl, hitakakusu" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, School life, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>saotome girl, hitakakusu</ten_truyen>
-		<ma_truyen>saotome-girl-hitakakusu</ma_truyen>
-		<tac_gia>Mizuguchi Naoki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/db/25/db259350fcd577e4e96b29bd68353cd0a8b0ded1_34318_200_310.jpg</hinh_nho>
-		<gioi_thieu>High-Schooler Tsukishima Satoru gets confessed to by local female High-School boxing-talent Saotome Yae. He rejects her initially because he does not want to impede her boxing career (and prevent getting beaten up by her fans). Her female coach, Shioya hears about this and decides to install him as Saotome's trainer so that they can secretly date each other. This situation is also aided by his extensive boxing knowledge.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saotome-girl-hitakakusu-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="wolverine: infinity watch" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>wolverine: infinity watch</ten_truyen>
-		<ma_truyen>wolverine-infinity-watch</ma_truyen>
-        <tac_gia>Gerry Duggan, Andy MacDonald</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wolverine-infinity-watch/1_medium.jpg</hinh_nho>
-        <gioi_thieu>REVEALED AT LAST! HOW WOLVERINE GOT THE INFINITY STONE! Wolverine has finally returned, disentwined from the evil clutches of Soteira...but hang on, didn't he have an Infinity Stone? How did THAT happen?! And wasn't he popping up all over the place for a little while? The answers you seek are finally revealed as Logan goes cosmic alongside everyone's favorite god of lies and stories, Loki Laufeyson!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wolverine-infinity-watch-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hulkverines" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hulkverines</ten_truyen>
-		<ma_truyen>hulkverines</ma_truyen>
-        <tac_gia>Greg Pak, Ario Anindito</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hulkverines/1_medium.jpg</hinh_nho>
-        <gioi_thieu>At last! It's Weapon H versus his predecessors-Wolverine and the Hulk! Once, the Weapon X program sought to recreate the world's two greatest hunters. They ended up with Weapon H, a man of Adamantium claws and gamma-juiced blood. Now, Wolverine and the Hulk are back in action - and coming after the dangerous creation made in their name!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hulkverines-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
