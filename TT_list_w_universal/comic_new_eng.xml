@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="age of x-man: prisoner x" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>age of x-man: prisoner x</ten_truyen>
+		<ma_truyen>age-of-x-man-prisoner-x</ma_truyen>
+        <tac_gia>Vita Ayala, German Peralta</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-prisoner-x/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ENTER THE AGE OF X-MAN! In the Age of X-Man, when you break the law, you aren't sent to just any prison. You're sent to the Danger Room...a penitentiary filled with the roughest and meanest mutants that don't fit into X-Man's utopia. They each have a reason for being there. And they're all ready to kill each other. But that's about to change, because the newest prisoner just arrived...Lucas Bishop!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-prisoner-x-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="meet the skrulls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>meet the skrulls</ten_truyen>
+		<ma_truyen>meet-the-skrulls</ma_truyen>
+        <tac_gia>Robbie Thompson, Niko Henrichon</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/meet-the-skrulls/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Warners are your typical family. Dad works at Stark. Mom works in a senator's office. Jennifer and Alice are students at Stamford High School. The only thing that makes them different is that they're shape-shifting Skrulls and have infiltrated our society to pave the way for a Skrull invasion. Robbie Thompson (SPIDER-MAN/DEADPOOL) and Niko Henrichon (DOCTOR STRANGE, Pride of Baghdad) bring the Marvel Universe down to earth with a bold new look at the Skrulls that will test even YOUR loyalty.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/meet-the-skrulls-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="starcraft: soldiers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>starcraft: soldiers</ten_truyen>
+		<ma_truyen>starcraft-soldiers</ma_truyen>
+        <tac_gia>Jody Houser, Andrew R. Robinson, Miguel Sepulveda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/starcraft-soldiers/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Jody Houser (Stranger Things, Star Wars) joins Blizzard Entertainment writer Andrew R. Robinson (Overwatch Anthology) for issue #1 of StarCraft: Soldiers, the latest addition to the StarCraft expanded universe. Newly graduated Lieutenant Shivani Singh wants to defend the Dominion on the front lines, but it will take more than good grades and confidence to survive on the edge of zerg space.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/starcraft-soldiers-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="invisible kingdom" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>invisible kingdom</ten_truyen>
+		<ma_truyen>invisible-kingdom</ma_truyen>
+        <tac_gia>G. Willow Wilson, Christian Ward</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/invisible-kingdom/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Set in a in a far-flung star system, this new epic sci-fi monthly saga tells the tale of two women-a young religious acolyte and a hard-bitten freighter pilot-who separately uncover a vast conspiracy between the leader of the system's dominant religion and the mega-corporation that controls society. On the run from reprisals on both sides, this unlikely pair of rebels risk plunging the world into anarchy if they reveal the truth. But when your beliefs betray you, what choice is there left? By Hugo Award-winning writer G. Willow Wilson (Wonder Woman, Ms. Marvel) and Eisner Award-winning artist Christian Ward (Black Bolt, ODY-C).</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invisible-kingdom-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="criminal (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>criminal (2019)</ten_truyen>
+		<ma_truyen>criminal-2019</ma_truyen>
+        <tac_gia>Ed Brubaker, Jacob Phillips, Sean Phillips</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/criminal-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE RETURN OF THE MOST ACCLAIMED CRIME COMIC OF THE 21ST CENTURY! Hot off their bestselling series KILL OR BE KILLED and their original graphic novel MY HEROES HAVE ALWAYS BEEN JUNKIES, crime comic masters ED BRUBAKER and SEAN PHILLIPS finally return to their most-demanded title -- as a new MONTHLY SERIES! A perfect introduction to CRIMINAL and its dark, exciting world, this series will also include back page art and articles to bring readers more fully into the noir experience.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/criminal-2019-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="captain marvel (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>captain marvel (2019)</ten_truyen>
 		<ma_truyen>captain-marvel-2019</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>MERCIN' FOR A LIVING! Skottie Young and Nic Klein bring you the craziest tales of the Regeneratin' Degenerate yet! It's been a while since Deadpool's had to merc to make ends meet, but things are tough all over. While Deadpool tries to get his humble mercenary-for-hire business back off the ground, a catastrophic threat so unfathomably huge, so mind-breakingly cataclysmic it defies description, is heading toward Earth, and there's only ONE PERSON WHO CAN STOP IT!!! Oh no, wait... it's not Wade, is it? Oh, It's Wade.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="man without fear" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>man without fear</ten_truyen>
-		<ma_truyen>man-without-fear</ma_truyen>
-        <tac_gia>Jed Mackay, Danilo Beyruth</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/man-without-fear-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Daredevil is gone, but Hell's Kitchen is still a place of heroes and villains. Foggy Nelson will learn what it means to live in a world without a Daredevil. And without a Daredevil to protect it, has hell come for his city? Who is The Man Without Fear?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/man-without-fear-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="doomsday clock" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>doomsday clock</ten_truyen>
-		<ma_truyen>doomsday-clock</ma_truyen>
-        <tac_gia>Geoff Johns, Gary Frank, Brad Anderson</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/doomsday-clock/1_medium.jpg</hinh_nho>
-        <gioi_thieu>DC Comics presents to you a 12-issue maxiseries from the critically acclaimed team of writer Geoff Johns, artist Gary Frank and colorist Brad Anderson. You are not prepared for what lies ahead within these pages, good readers.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doomsday-clock-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="killmonger" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>killmonger</ten_truyen>
-		<ma_truyen>killmonger</ma_truyen>
-        <tac_gia>Bryan Hill, Juan E. Ferreyra</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/k/killmonger-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE BRUTAL TALE OF A MAN WHO WILL STOP AT NOTHING FOR FREEDOM...One day, Erik Killmonger will rise up and attempt to steal the throne of Wakanda. The throne he believes he is owed. But long before he became 'Killmonger', there was a boy known as N'Jadaka. A boy who was stolen from his home and taught only the world's cruelties. A boy who knew the Black Panther only as a fairy tale, a whisper from strangers. This is the story of a man who is driven by revenge. This is the legend of Killmonger.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/killmonger-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="x-force (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>x-force (2018)</ten_truyen>
-		<ma_truyen>x-force-2018</ma_truyen>
-        <tac_gia>Ed Brisson, Dylan Burnett</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-force-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>FROM THE ASHES OF EXTERMINATION! Cable is dead...and now, the original X-Force team of Domino, Cannonball, Shatterstar, Boom Boom and Warpath. must hunt down the murderer of their former leader! The mutant militia are hot for blood... but when their target is the time-traveling younger version of their fallen mentor, is there a line they absolutely cannot cross? And what does Deathlok have to do with all of it? From Ed Brisson (EXTERMINATION, OLD MAN LOGAN) and Dylan Burnett (COSMIC GHOST RIDER), comes an all-new, high-octane mutant adventure! A reckoning will come!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-force-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="shazam! (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>shazam! (2018)</ten_truyen>
-		<ma_truyen>shazam-2018</ma_truyen>
-        <tac_gia>Geoff Johns, Dale Eaglesham, Mayo 'SEN' Naito</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shazam-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Teenager turned super-hero Billy Batson struggles to balance school and superheroics! (Guess which one is more fun?) But when Shazam unlocks a shocking secret deep within the Rock of Eternity, it challenges everything he knows about the worlds of magic and his family's future as its champions! Also, witness the bizarre team-up of Dr. Sivana and Mr. Mind as they set off to build a society all their own! Don't miss the start of an epic run in the making as 'Shazam and the Seven Realms' begins!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shazam-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

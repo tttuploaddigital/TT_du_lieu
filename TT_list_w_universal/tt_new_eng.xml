@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="age of x-man: prisoner x" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>age of x-man: prisoner x</ten_truyen>
+		<ma_truyen>age-of-x-man-prisoner-x</ma_truyen>
+        <tac_gia>Vita Ayala, German Peralta</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-prisoner-x/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ENTER THE AGE OF X-MAN! In the Age of X-Man, when you break the law, you aren't sent to just any prison. You're sent to the Danger Room...a penitentiary filled with the roughest and meanest mutants that don't fit into X-Man's utopia. They each have a reason for being there. And they're all ready to kill each other. But that's about to change, because the newest prisoner just arrived...Lucas Bishop!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-prisoner-x-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="meet the skrulls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>meet the skrulls</ten_truyen>
+		<ma_truyen>meet-the-skrulls</ma_truyen>
+        <tac_gia>Robbie Thompson, Niko Henrichon</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/meet-the-skrulls/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Warners are your typical family. Dad works at Stark. Mom works in a senator's office. Jennifer and Alice are students at Stamford High School. The only thing that makes them different is that they're shape-shifting Skrulls and have infiltrated our society to pave the way for a Skrull invasion. Robbie Thompson (SPIDER-MAN/DEADPOOL) and Niko Henrichon (DOCTOR STRANGE, Pride of Baghdad) bring the Marvel Universe down to earth with a bold new look at the Skrulls that will test even YOUR loyalty.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/meet-the-skrulls-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="starcraft: soldiers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>starcraft: soldiers</ten_truyen>
+		<ma_truyen>starcraft-soldiers</ma_truyen>
+        <tac_gia>Jody Houser, Andrew R. Robinson, Miguel Sepulveda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/starcraft-soldiers/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Jody Houser (Stranger Things, Star Wars) joins Blizzard Entertainment writer Andrew R. Robinson (Overwatch Anthology) for issue #1 of StarCraft: Soldiers, the latest addition to the StarCraft expanded universe. Newly graduated Lieutenant Shivani Singh wants to defend the Dominion on the front lines, but it will take more than good grades and confidence to survive on the edge of zerg space.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/starcraft-soldiers-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="invisible kingdom" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>invisible kingdom</ten_truyen>
+		<ma_truyen>invisible-kingdom</ma_truyen>
+        <tac_gia>G. Willow Wilson, Christian Ward</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/invisible-kingdom/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Set in a in a far-flung star system, this new epic sci-fi monthly saga tells the tale of two women-a young religious acolyte and a hard-bitten freighter pilot-who separately uncover a vast conspiracy between the leader of the system's dominant religion and the mega-corporation that controls society. On the run from reprisals on both sides, this unlikely pair of rebels risk plunging the world into anarchy if they reveal the truth. But when your beliefs betray you, what choice is there left? By Hugo Award-winning writer G. Willow Wilson (Wonder Woman, Ms. Marvel) and Eisner Award-winning artist Christian Ward (Black Bolt, ODY-C).</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invisible-kingdom-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="criminal (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>criminal (2019)</ten_truyen>
+		<ma_truyen>criminal-2019</ma_truyen>
+        <tac_gia>Ed Brubaker, Jacob Phillips, Sean Phillips</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/criminal-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE RETURN OF THE MOST ACCLAIMED CRIME COMIC OF THE 21ST CENTURY! Hot off their bestselling series KILL OR BE KILLED and their original graphic novel MY HEROES HAVE ALWAYS BEEN JUNKIES, crime comic masters ED BRUBAKER and SEAN PHILLIPS finally return to their most-demanded title -- as a new MONTHLY SERIES! A perfect introduction to CRIMINAL and its dark, exciting world, this series will also include back page art and articles to bring readers more fully into the noir experience.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/criminal-2019-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="ultraman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mystery, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>ultraman</ten_truyen>
 		<ma_truyen>ultraman</ma_truyen>
@@ -360,49 +405,4 @@
 		<gioi_thieu>Throughout his childhood, Makunouchi Ippo has always been picked on by his fellow classmates. Long hours helping his mother run their family business, a fishing boat store, has left him without the time to make friends and so he remains an introverted loner, doomed to be beaten day in and day out. Although he hates being bullied, he hates himself even more for not being able to fight back against his tormentors. 'What is it like to be strong?' he asks himself as he stares at his clenched fist. 'I want to be strong.' His encounter with Takamura Mamoru, a professional boxer, leads to the discovery of a dynamite punch that opens up the doorway to a whole new world where that dream can become a reality. At the Kamogawa Gym, Ippo now trains with the aspirations of becoming a professional boxer and discovering what it means to be strong.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajime-no-ippo-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="isekai meikyuu de harem o" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>isekai meikyuu de harem o</ten_truyen>
-		<ma_truyen>isekai-meikyuu-de-harem-o</ma_truyen>
-		<tac_gia>Sogano Shachi, Hyouju Issei</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/14/c3/14c329ce3afab775841075e4bbff4586ed7c44dc_37357_200_282.jpg</hinh_nho>
-		<gioi_thieu>A man was about to commit suicide and decides to search for a way to die in the internet, but then he found an odd site that asked a lot of questions and had a point based system that allows you to create skills and abilities for a character. He took interest in it and when he finished setting his character he was asked 'You will now be transported to a world with the settings you choose, coming back is not possible, do you still accept?', Then without thinking much of it he pressed YES and found himself in another world with the skills and abilities he chose to have.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-meikyuu-de-harem-o-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="arafoo kenja no isekai seikatsu nikki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>arafoo kenja no isekai seikatsu nikki</ten_truyen>
-		<ma_truyen>arafoo-kenja-no-isekai-seikatsu-nikki</ma_truyen>
-		<tac_gia>Yasukiyo Kotobuki, Johndee</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/f4/dd/f4dd946103dce61483813bbb49f1327a14bb6e70_35437_200_286.jpg</hinh_nho>
-		<gioi_thieu>Satoshi Osako was a player of the VRRPG 'Sword and Sorcery' who defeated the Evil God and died for his troubles. When he awoke again he found himself in a strange unknown forest. Furthermore he possessed his avatar's body and abilities. In other words, he was a cheat. Can a 40 year old DT, live peacefully in this world?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/arafoo-kenja-no-isekai-seikatsu-nikki-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="age of x-man: alpha" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>age of x-man: alpha</ten_truyen>
-		<ma_truyen>age-of-x-man-alpha</ma_truyen>
-        <tac_gia>Lonnie Nadler, Zac Thompson, Ramon Rosanas</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man/alpha_1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE AGE OF X-MAN DAWNS... AND THE X-MEN CANNOT STOP IT.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-alpha-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="old man quill" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>old man quill</ten_truyen>
-		<ma_truyen>old-man-quill</ma_truyen>
-        <tac_gia>Ethan Sacks, Robert Gill</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-quill/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE FAR-FLUNG SAGA OF THE ONCE AND FUTURE STAR-LORD BEGINS! Meet Peter Quill. He used to be Star-Lord - you know, the legendary outlaw - but it's been quite some time since he's gone by that name. Taking over for his father as the Emperor of Spartax, Quill put the life of spacefaring adventure behind him for one of leadership and responsibility. Quill grew up. But things didn't go as planned. Decades have passed, and Peter is haunted by tragedy. Down and out, Quill's existence means nothing...until the former GUARDIANS OF THE GALAXY drag Peter out of his funk for one last mission! The heist of a lifetime - and Quill's harrowing quest for redemption - begins here!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-quill-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="crackdown" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>crackdown</ten_truyen>
-		<ma_truyen>crackdown</ma_truyen>
-        <tac_gia>Jonathan David Goff, Ricardo Jaime</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/crackdown-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The hyper-powered world of Crackdown (Xbox) has made its way to the comic page! In the not-so-distant future, civilized society is more plugged-in and interconnected than ever - but criminal organizations are growing more connected as well, forming unholy alliances, and plotting for an unprecedented campaign against the world. When a series of devastating blackout attacks plunge major metropolitan areas into darkness and chaos, the global population is terrified, traditional law enforcement is overwhelmed - and it's up to The Agency, an elite international crime-fighting task force, to restore peace and deliver justice, by any means necessary.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/crackdown-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
