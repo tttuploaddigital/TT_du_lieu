@@ -318,6 +318,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <gioi_thieu>ENTER THE AGE OF X-MAN! The perfect heroes for a perfect world! The X-Men have helped make the world into a utopia where living in fear and hatred is a thing of the past. All people are united under the banner of mutantkind, and all of mutantkind idolizes the X-Men. Jean Grey! Colossus! Storm! X-23! X-Man! Nature Girl! Magneto! And of course, the amazing Nightcrawler! When danger threatens the world, the Marvelous X-Men set things right for the good of all. And no one dares say otherwise.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-nextgen-eng.xml</file_xml>
     </truyen>
+	<truyen ten="age of x-man: prisoner x" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>age of x-man: prisoner x</ten_truyen>
+		<ma_truyen>age-of-x-man-prisoner-x</ma_truyen>
+        <tac_gia>Vita Ayala, German Peralta</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-prisoner-x/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ENTER THE AGE OF X-MAN! In the Age of X-Man, when you break the law, you aren't sent to just any prison. You're sent to the Danger Room...a penitentiary filled with the roughest and meanest mutants that don't fit into X-Man's utopia. They each have a reason for being there. And they're all ready to kill each other. But that's about to change, because the newest prisoner just arrived...Lucas Bishop!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-prisoner-x-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="age of x-man: the amazing nightcrawler" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>age of x-man: the amazing nightcrawler</ten_truyen>
 		<ma_truyen>age-of-x-man-the-amazing-nightcrawler</ma_truyen>
