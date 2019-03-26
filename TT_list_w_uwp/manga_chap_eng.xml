@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>onepunch-man</ten_truyen>
+		<ma_truyen>onepunch-man</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onepunch-man-eng.xml</file_xml>
+		<chap_moi>chap 105</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>goblin slayer </ten_truyen>
+		<ma_truyen>goblin-slayer</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41855/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-eng.xml</file_xml>
+		<chap_moi>chap 34</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nanatsu no taizai</ten_truyen>
+		<ma_truyen>nanatsu-no-taizai</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
+		<chap_moi>chap 305</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yuusha ga shinda!</ten_truyen>
+		<ma_truyen>yuusha-ga-shinda</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/29997/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuusha-ga-shinda-eng.xml</file_xml>
+		<chap_moi>chap 151</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>usogui</ten_truyen>
+		<ma_truyen>usogui</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
+		<chap_moi>chap 227</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>beastars</ten_truyen>
 		<ma_truyen>beastars</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
@@ -279,40 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/41590/1/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakao-79-eng.xml</file_xml>
 		<chap_moi>chap 165</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 935</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>usogui</ten_truyen>
-		<ma_truyen>usogui</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
-		<chap_moi>chap 220</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tensei shitara slime datta ken</ten_truyen>
-		<ma_truyen>tensei-shitara-slime-datta-ken</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/33546/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tensei-shitara-slime-datta-ken-eng.xml</file_xml>
-		<chap_moi>chap 54</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>uq holder!</ten_truyen>
-		<ma_truyen>uq-holder</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/23460/17/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/uq-holder-eng.xml</file_xml>
-		<chap_moi>chap 157</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>giant killing</ten_truyen>
-		<ma_truyen>giant-killing</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
-		<chap_moi>chap 304</chap_moi>
 	</truyen>
 </danh_sach_truyen>
