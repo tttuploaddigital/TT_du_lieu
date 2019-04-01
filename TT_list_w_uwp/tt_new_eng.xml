@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="soul catcher(s)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>soul catcher(s)</ten_truyen>
+		<ma_truyen>soul-catcher-s</ma_truyen>
+		<tac_gia>Shinkai Hideo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/8b/8f/8b8f6400a7b12b015a6f56262ae9d88d4038632f_35901_200_308.jpg</hinh_nho>
+		<gioi_thieu>Kamine Shuuta is a person who can see a person’s heart (literally) whether its angry, wounded, broken, guarded, troubled etc... and because of this he's at his wits end, because he can't do anything about it. Tokisaka Hibiki is a saxophonist in the music club. Shuuta first listens to his saxophone on the terrace and wanted to ask something but Shuuta tells him to come to his performance later in the ongoing school festival. After seeing Hibiki's performance he see the notes of music as hands which can heal the wounded, tend the broken, break the shielded hearts in other words 'seize the soul' of a person. After the performance Shuuta asks Hibiki 'isn't there a person to whom your sound doesn't reach' when asked how he knew it Shuuta says although his sounds can seize hearts of others and move them but his own heart is guarded and is unmoved and troubled. Hibiki then takes Shuuta to his childhood friend Moko (Takizawa Momoko) who loved singing but became mute due to some reason. Shuuta sees her as a Sea of depression and despair Thus begins their journey to heal the heart with music.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/soul-catcher-s-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kimi wa 008" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kimi wa 008</ten_truyen>
+		<ma_truyen>kimi-wa-008</ma_truyen>
+		<tac_gia>Matsuena Syun</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/e5/f9/e5f9d305799c2924fb5ef3e990f4a992c0438c3d_42692_200_314.jpg</hinh_nho>
+		<gioi_thieu>Akashi Eito has failed miserably on all high school admission exams but somehow, he receives a letter of acceptance from a school he does not remember applying to. He nevertheless happily enrolls, expecting to live the ideal school life, but his aspiration are quickly destroyed as he discovers that this mysterious school is a training institute for secret agents! Immediately, Eito wants to return home, until the director of the school makes a shocking revelation: Eito's deceased father was also a secret agent! He subsequently wants to know more about the past and memories of his father, so he decides to remain at this school. However, as a student of this institution, Eito will have to face a deadly exam specifically made to test the skills of all new students... Follow this story of action and espionage, in which our hero, who lacks physical strength, compensates for it with great bravery, and captivates everyone around him with the power of his courage and friendship!!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimi-wa-008-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="raw hero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Comedy, Ecchi, Mature, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>raw hero</ten_truyen>
+		<ma_truyen>raw-hero</ma_truyen>
+		<tac_gia>Hiramoto Akira</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/49/fb/49fb22b619949c811ecc38d92c72cb90a8cc81a0_48270_200_285.jpg</hinh_nho>
+		<gioi_thieu>The unemployed Chiaki is the eldest of three brothers. With no parents, he starts job hunting to support his two younger brothers. Chiaki witnesses a young woman being asexually assaulted and tries to help without knowing that this behavior would change his destiny.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/raw-hero-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="gokutei higuma" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>gokutei higuma</ten_truyen>
+		<ma_truyen>gokutei-higuma</ma_truyen>
+		<tac_gia>Hokami Natsuki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/df/07/df07a1abc84e910d6c9c0599cb1d99613c70adf1_37203_200_266.jpg</hinh_nho>
+		<gioi_thieu>Watch out malevolent fugitive souls, Higuma will send you straight back from where you came!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokutei-higuma-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hiraheishi wa kako o yumemiru" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Romance, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hiraheishi wa kako o yumemiru</ten_truyen>
+		<ma_truyen>hiraheishi-wa-kako-o-yumemiru</ma_truyen>
+		<tac_gia>Okano Yuu, Suzuki Izo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/80/e4/80e474346ce8f3816d7bacc0584bd69bec8c3ee4_41627_200_284.jpg</hinh_nho>
+		<gioi_thieu>It details the life of a mid-rank soldier who died at the very end of the war against the Demon Race. Fortunately for him, he wakes up to find that he's a baby again, in the embrace of his real mother, years in the past. Determined to avoid the chain of tragedies that took his beloved ones away from him, he takes advantage of the advancements in swordsmanship and magic that developed during the war (as we all know, wars are when many scientific breakthroughs tend to happen), and tries his best to prepare for the demon invasion as well as strengthen himself with maximum efficiency.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hiraheishi-wa-kako-o-yumemiru-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="age of x-man: prisoner x" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>age of x-man: prisoner x</ten_truyen>
 		<ma_truyen>age-of-x-man-prisoner-x</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/d3/60/d36034d1dcd43042a216c1931d8da6085c49c9c3_43564_200_300.jpg</hinh_nho>
 		<gioi_thieu>Gabimaru the Empty, a former ninja assassin known feared as a heartless husk of a man, spends his days on death row wondering when an executioner skilled enough to so much as harm him will arrive, as he thinks nothing of seeing an end to his meaningless existence... Or so he thought. Then the lady executioner, Asaemon the Beheader, rekindles his hope with an astounding proposition. If he ever wishes to see his beloved wife again, he is, under the auspices of the shogunate, to embark on a perilous voyage to the mysterious mystic island said to house the elixir of immortality. Should he be the one among many rival death-row fiends and scoundrels to find the elixir, he'll earn a full exoneration, and, more importantly, a chance at an ordinary married life with the light of his life--the woman who made the world seem not so ugly. What awaits them is a journey like no other!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jigokuraku-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="shiga hime" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Horror, Psychological, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>shiga hime</ten_truyen>
-		<ma_truyen>shiga-hime</ma_truyen>
-		<tac_gia>Sato Hirohisa</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/08/37/0837fe549133b16d3097cc86d911ccb2033f5aa1_17921_200_284.jpg</hinh_nho>
-		<gioi_thieu>A story about a boy named Osamu Hirota who unwillingly loses his ability to live a normal life thanks to an immortal vampire woman and her former lackey Souichi. Cursed with the form of a monster and the need to hunt for blood to sustain a human form, how will Osamu cope with his new life?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shiga-hime-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="age of x-man: x-tremists" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>age of x-man: x-tremists</ten_truyen>
-		<ma_truyen>age-of-x-man-x-tremists</ma_truyen>
-        <tac_gia>Leah Williams, Georges Jeanty</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-x-tremists/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ENTER THE AGE OF X-0MAN! A perfect world doesn't just...happen. It needs to be cultivated. That's where the X-Tremists come in. Psylocke, Iceman, Northstar, Blob, Jubilee and Moneta protect people from threats they won't even know existed, including the most insidious threat of all - love.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-x-tremists-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="star trek vs. transformers" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Mecha, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>star trek vs. transformers</ten_truyen>
-		<ma_truyen>star-trek-vs-transformers</ma_truyen>
-        <tac_gia>John Barber, Mike Johnson, Philip Murphy</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-trek-vs-transformers/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Transformers '80s cartoon series meets Star Trek: The Animated Series in a no-holds-barred Saturday Morning mash-up for the ages! At the edge of Klingon space, the Starship Enterprise finds there's more to the final frontier than meets the eye, when Kirk and his crew come face to face with the strangest life forms of all: Cybertronians! This unprecedented crossover brings together two of the greatest science fiction universes of all time-in the style of their classic animated series! A five-year mission meets a four-million-year war!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/star-trek-vs-transformers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the forgotten queen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Historical, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the forgotten queen</ten_truyen>
-		<ma_truyen>the-forgotten-queen</ma_truyen>
-        <tac_gia>Tini Howard, Amilcar Pinna</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-forgotten-queen/1_medium.jpg</hinh_nho>
-        <gioi_thieu>An ancient evil returns! Long ago, the mighty generals of the Mongol Empire rode from Siberia to Carpathia and conquered all who stood in their way. Legends tell of a witch who walked with them, who could infect the hearts of any warriors in her midst with an unquenchable thirst for battle and bloodshed...a War-Monger. And now she is walking again. This winter, an ancient evil will stir as superstar-in-the-making Tini Howard (Captain America Annual #1, Assassinistas) and powerhouse artist Amilcar Pinna (Generation X) unleash hell in a brand-new saga of honor, love, and savagery that's centuries in the making!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-forgotten-queen-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hajime no ippo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Martial arts, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>hajime no ippo</ten_truyen>
-		<ma_truyen>hajime-no-ippo</ma_truyen>
-		<tac_gia>Morikawa Jyoji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/fa/20/fa205ccbb16cd361708fd290b2649732f3f75638_36159_200_306.jpg</hinh_nho>
-		<gioi_thieu>Throughout his childhood, Makunouchi Ippo has always been picked on by his fellow classmates. Long hours helping his mother run their family business, a fishing boat store, has left him without the time to make friends and so he remains an introverted loner, doomed to be beaten day in and day out. Although he hates being bullied, he hates himself even more for not being able to fight back against his tormentors. 'What is it like to be strong?' he asks himself as he stares at his clenched fist. 'I want to be strong.' His encounter with Takamura Mamoru, a professional boxer, leads to the discovery of a dynamite punch that opens up the doorway to a whole new world where that dream can become a reality. At the Kamogawa Gym, Ippo now trains with the aspirations of becoming a professional boxer and discovering what it means to be strong.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajime-no-ippo-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
