@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>mr. and mrs. x</ten_truyen>
+		<ma_truyen>mr-and-mrs-x</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mr-and-mrs-x/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mr-and-mrs-x-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the terrifics</ten_truyen>
+		<ma_truyen>the-terrifics</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-terrifics/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-terrifics-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>moon girl and devil dinosaur</ten_truyen>
+		<ma_truyen>moon-girl-and-devil-dinosaur</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/moon-girl-and-devil-dinosaur/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/moon-girl-and-devil-dinosaur-eng.xml</file_xml>
+		<chap_moi>issue 41</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the silencer</ten_truyen>
+		<ma_truyen>the-silencer</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-silencer/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-silencer-eng.xml</file_xml>
+		<chap_moi>issue 15</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>skyward (2018)</ten_truyen>
+		<ma_truyen>skyward-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/skyward-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/skyward-2018-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 938</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yakusoku no neverland</ten_truyen>
+		<ma_truyen>yakusoku-no-neverland</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/42944/5/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yakusoku-no-neverland-eng.xml</file_xml>
+		<chap_moi>chap 129</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tsuyokute new saga</ten_truyen>
+		<ma_truyen>tsuyokute-new-saga</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
+		<chap_moi>chap 61</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kenja no mago</ten_truyen>
+		<ma_truyen>kenja-no-mago</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41420/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kenja-no-mago-eng.xml</file_xml>
+		<chap_moi>chap 31</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>domestic na kanojo</ten_truyen>
+		<ma_truyen>domestic-na-kanojo</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/29089/10/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/domestic-na-kanojo-eng.xml</file_xml>
+		<chap_moi>chap 224</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>avengers (2018)</ten_truyen>
 		<ma_truyen>avengers-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
@@ -244,75 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/9232/12/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/skip-beat-eng.xml</file_xml>
 		<chap_moi>chap 268</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>west coast avengers (2018)</ten_truyen>
-		<ma_truyen>west-coast-avengers-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/west-coast-avengers-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/west-coast-avengers-2018-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>aquaman (2016)</ten_truyen>
-		<ma_truyen>aquaman-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/aquaman-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/aquaman-2016-eng.xml</file_xml>
-		<chap_moi>issue 46</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>venom (2018)</ten_truyen>
-		<ma_truyen>venom-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/v/venom-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/venom-2018-eng.xml</file_xml>
-		<chap_moi>issue 12</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>electric warriors</ten_truyen>
-		<ma_truyen>electric-warriors</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/electric-warriors/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/electric-warriors-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the wild storm</ten_truyen>
-		<ma_truyen>the-wild-storm</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wild-storm/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-wild-storm-eng.xml</file_xml>
-		<chap_moi>issue 21</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 927</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>to you, the immortal</ten_truyen>
-		<ma_truyen>to-you-the-immortal</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/45063/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/to-you-the-immortal-eng.xml</file_xml>
-		<chap_moi>chap 95</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tenkuu shinpan</ten_truyen>
-		<ma_truyen>tenkuu-shinpan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27704/9/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tenkuu-shinpan-eng.xml</file_xml>
-		<chap_moi>chap 256</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>darwin's game</ten_truyen>
-		<ma_truyen>darwin-s-game</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
-		<chap_moi>chap 66</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>world's end harem</ten_truyen>
-		<ma_truyen>world-s-end-harem</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
-		<chap_moi>chap 59</chap_moi>
 	</truyen>
 </danh_sach_truyen>

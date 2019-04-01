@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 938</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yakusoku no neverland</ten_truyen>
+		<ma_truyen>yakusoku-no-neverland</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/42944/5/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yakusoku-no-neverland-eng.xml</file_xml>
+		<chap_moi>chap 129</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tsuyokute new saga</ten_truyen>
+		<ma_truyen>tsuyokute-new-saga</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
+		<chap_moi>chap 61</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kenja no mago</ten_truyen>
+		<ma_truyen>kenja-no-mago</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41420/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kenja-no-mago-eng.xml</file_xml>
+		<chap_moi>chap 31</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>domestic na kanojo</ten_truyen>
+		<ma_truyen>domestic-na-kanojo</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/29089/10/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/domestic-na-kanojo-eng.xml</file_xml>
+		<chap_moi>chap 224</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>onepunch-man</ten_truyen>
 		<ma_truyen>onepunch-man</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
@@ -279,40 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/28078/2/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/days-eng.xml</file_xml>
 		<chap_moi>chap 169</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>amatsuki</ten_truyen>
-		<ma_truyen>amatsuki</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/a7/1c/a71c3e87bb8e16f244a7bc3d9f6c76aeec1505ee_32870_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/amatsuki-eng.xml</file_xml>
-		<chap_moi>chap 124</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>memesis</ten_truyen>
-		<ma_truyen>memesis</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/52/39/5239a38ebb2f4d7002fb3960524918e03d05852f_31168_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/memesis-eng.xml</file_xml>
-		<chap_moi>chap 45</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>azumi</ten_truyen>
-		<ma_truyen>azumi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/22943/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/azumi-eng.xml</file_xml>
-		<chap_moi>chap 222</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>biorg trinity</ten_truyen>
-		<ma_truyen>biorg-trinity</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/1195/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/biorg-trinity-eng.xml</file_xml>
-		<chap_moi>chap 45</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kakao 79%</ten_truyen>
-		<ma_truyen>kakao-79</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41590/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakao-79-eng.xml</file_xml>
-		<chap_moi>chap 165</chap_moi>
 	</truyen>
 </danh_sach_truyen>
