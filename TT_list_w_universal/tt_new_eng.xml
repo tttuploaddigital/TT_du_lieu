@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="star wars: vader - dark visions" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>star wars: vader - dark visions</ten_truyen>
+		<ma_truyen>star-wars-vader-dark-visions</ma_truyen>
+        <tac_gia>Dennis 'Hopeless' Hallum, Paolo Villanelli</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-vader---dark-visions-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>WHO IS DARTH VADER? He has been many things: a SITH warrior, a commander, a destroyer. DARTH VADER is to many throughout the GALACTIC EMPIRE a symbol of fear and mysterious, otherworldly power. But there are some who have seen the DARK LORD in a different light. There are some corners of the galaxy so dark and desperate that even Vader can be a knight in shining armor. The first issue of a new STAR WARS limited series, writer Dennis Hopeless (CLOAK AND DAGGER, JEAN GREY) sheds new light on the many sides of the galaxy's greatest villain.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-vader-dark-visions-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="age of x-man: apocalypse and the x-tracts" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>age of x-man: apocalypse and the x-tracts</ten_truyen>
+		<ma_truyen>age-of-x-man-apocalypse-and-the-x-tracts</ma_truyen>
+        <tac_gia>Tim Seeley, Salvador Espin</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-apocalypse--the-x-tracts/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ENTER THE AGE OF X-MAN! X-Man has created a utopia for mutants... a utopia where no one knows love. Thankfully, a hero rises up to lead the rebellion against this way of life and teach the ways of family and romance, and he goes by the name... EN SABAH NUR?! Join Apocalypse and his rebel X-Tracts as they strive to teach the world to love again!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-apocalypse-and-the-x-tracts-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dial h for hero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dial h for hero</ten_truyen>
+		<ma_truyen>dial-h-for-hero</ma_truyen>
+        <tac_gia>Sam Humphries, Joe Quinones</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dial-h-for-hero-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Miguel, a teen daredevil, becomes the newest wielder of the Hero Dial-a rotary phone-like device that grants the user superpowers for one hour when they dial H-E-R-O. Will he rise as a new hero in the DC Universe or crumble under the weight of responsibility the dial thrusts upon him?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dial-h-for-hero-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="daredevil (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>daredevil (2019)</ten_truyen>
+		<ma_truyen>daredevil-2019</ma_truyen>
+        <tac_gia>Chip Zdarsky, Marco Checchetto</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/daredevil-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>KNOW FEAR. Featuring action-packed extras including a Cover Gallery, Script, Inked And Color Pages and Character Designs!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/daredevil-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="friendo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>friendo</ten_truyen>
+		<ma_truyen>friendo</ma_truyen>
+        <tac_gia>Alex Paknadel, Martin Simmonds</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/friendo/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Leo wasn't allowed toys as a kid, but now that he's all grown up he's going to take yours. He used to play by the rules, but then governments and corporations set fire to the rules and still expected him to behave. He probably would have if it hadn't been for his new friend Jerry. See, Jerry isn't human; he's a personalized marketing VR... and he's malfunctioning.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/friendo-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="soul catcher(s)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>soul catcher(s)</ten_truyen>
 		<ma_truyen>soul-catcher-s</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/6c/16/6c16ab8329091b965f3305696f1bb18ccc408436_7876_200_258.jpg</hinh_nho>
 		<gioi_thieu>'Oh Ju-Yoon' is your typical, everyday part-timer. He dies to a coincidental accident, but because of his kindness, he is given another chance to live in a new and different world. However, his future is neither as a hero, nor mage... but a creature at the bottom of the food chain, 'Brick Worm', meeting an atrocious crisis?! Surreal events! An unexpected level up fantasy!</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/the-dungeon-master-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="age of x-man: the marvelous x-men" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>age of x-man: the marvelous x-men</ten_truyen>
-		<ma_truyen>age-of-x-man-the-marvelous-x-men</ma_truyen>
-        <tac_gia>Lonnie Nadler, Zac Thompson, Marco Failla</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-the-marvelous-x-men/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ENTER THE AGE OF X-MAN! In an age of utopia, the Summers Institute for Higher Learning is the premiere school for the mutant community across the globe. Attendance is mandatory for all mutant children, as they learn to become the next generation of marvelous X-Men. But even in a utopian society, teenagers will always find a way to rebel... Follow Glob, Armor, Anole and Rockslide as they discover what it really means to live in an age of peace and harmony!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-the-marvelous-x-men-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the six million dollar man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the six million dollar man</ten_truyen>
-		<ma_truyen>the-six-million-dollar-man</ma_truyen>
-        <tac_gia>Christopher Hastings, David Hahn</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-six-million-dollar-man-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>CHRISTOPHER HASTINGS (The Unbelievable Gwenpool! Secret Agent Deadpool! Adventure Time! I Am Groot!) and DAVID HAHN (Batman '66! Bombshells: United!) proudly present a story from a time when there wasn't internet, but there WERE cyborgs! It's the 1970s. Things are going great. Steve Austen (used to be an astronaut, now has robo-parts and a laser eye) heads to Japan to help Secret Agent Niko Abe stop a madman with missiles. Steve figures, no sweat. But then...sweat. How's Steve going to complete his mission, when his fancy $6,000,000 body starts. DRASTICALLY) depreciating in value!?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-six-million-dollar-man-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="morning in america" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>morning in america</ten_truyen>
-		<ma_truyen>morning-in-america</ma_truyen>
-        <tac_gia>Magdalene Visaggio, Claudia Aguirre</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/morning-in-america/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A new Oni Press miniseries by powerhouse team of Magdalene Visaggio (ETERNITY GIRL) and Claudia Aguirre (KIM and KIM)! The year is 1983. A series of disappearances afflicts Tucker, Ohio following the opening of a mysterious new factory. But when the town finds itself under siege from strange monsters, it's up to intrepid girl gang of no-account teen girl delinquents to try and figure out what's happening -- and save everyone's lives before it's too late.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/morning-in-america-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="nanbaka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>nanbaka</ten_truyen>
-		<ma_truyen>nanbaka</ma_truyen>
-		<tac_gia>Futamata Shou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/9d/cb/9dcb8369a049329c4760a164a697766f78d1f6b0_44616_200_284.jpg</hinh_nho>
-		<gioi_thieu>Welcome to Nanba, the world's largest, most impenetrable prison. Locked away in cell block 13 are four inmates - Juugo, Uno, Rock, and Nico - who provide more than enough trouble for prison guard Sugoroku Hajime to deal with. Between attempted breakouts, gambling and general misbehaviour, these four believe that just because they're in prison doesn't mean they can't have fun. But it isn't all a barrel of laughs, because our protagonist Juugo is hiding a dark past which may soon come to destroy their idyllic prison life...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanbaka-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="jigokuraku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Historical, Mature, Romance, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>jigokuraku</ten_truyen>
-		<ma_truyen>jigokuraku</ma_truyen>
-		<tac_gia>Kaku Yuuji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/d3/60/d36034d1dcd43042a216c1931d8da6085c49c9c3_43564_200_300.jpg</hinh_nho>
-		<gioi_thieu>Gabimaru the Empty, a former ninja assassin known feared as a heartless husk of a man, spends his days on death row wondering when an executioner skilled enough to so much as harm him will arrive, as he thinks nothing of seeing an end to his meaningless existence... Or so he thought. Then the lady executioner, Asaemon the Beheader, rekindles his hope with an astounding proposition. If he ever wishes to see his beloved wife again, he is, under the auspices of the shogunate, to embark on a perilous voyage to the mysterious mystic island said to house the elixir of immortality. Should he be the one among many rival death-row fiends and scoundrels to find the elixir, he'll earn a full exoneration, and, more importantly, a chance at an ordinary married life with the light of his life--the woman who made the world seem not so ugly. What awaits them is a journey like no other!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jigokuraku-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="star wars: vader - dark visions" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>star wars: vader - dark visions</ten_truyen>
+		<ma_truyen>star-wars-vader-dark-visions</ma_truyen>
+        <tac_gia>Dennis 'Hopeless' Hallum, Paolo Villanelli</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-vader---dark-visions-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>WHO IS DARTH VADER? He has been many things: a SITH warrior, a commander, a destroyer. DARTH VADER is to many throughout the GALACTIC EMPIRE a symbol of fear and mysterious, otherworldly power. But there are some who have seen the DARK LORD in a different light. There are some corners of the galaxy so dark and desperate that even Vader can be a knight in shining armor. The first issue of a new STAR WARS limited series, writer Dennis Hopeless (CLOAK AND DAGGER, JEAN GREY) sheds new light on the many sides of the galaxy's greatest villain.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-vader-dark-visions-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="age of x-man: apocalypse and the x-tracts" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>age of x-man: apocalypse and the x-tracts</ten_truyen>
+		<ma_truyen>age-of-x-man-apocalypse-and-the-x-tracts</ma_truyen>
+        <tac_gia>Tim Seeley, Salvador Espin</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-apocalypse--the-x-tracts/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ENTER THE AGE OF X-MAN! X-Man has created a utopia for mutants... a utopia where no one knows love. Thankfully, a hero rises up to lead the rebellion against this way of life and teach the ways of family and romance, and he goes by the name... EN SABAH NUR?! Join Apocalypse and his rebel X-Tracts as they strive to teach the world to love again!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-apocalypse-and-the-x-tracts-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dial h for hero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dial h for hero</ten_truyen>
+		<ma_truyen>dial-h-for-hero</ma_truyen>
+        <tac_gia>Sam Humphries, Joe Quinones</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dial-h-for-hero-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Miguel, a teen daredevil, becomes the newest wielder of the Hero Dial-a rotary phone-like device that grants the user superpowers for one hour when they dial H-E-R-O. Will he rise as a new hero in the DC Universe or crumble under the weight of responsibility the dial thrusts upon him?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dial-h-for-hero-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="daredevil (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>daredevil (2019)</ten_truyen>
+		<ma_truyen>daredevil-2019</ma_truyen>
+        <tac_gia>Chip Zdarsky, Marco Checchetto</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/daredevil-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>KNOW FEAR. Featuring action-packed extras including a Cover Gallery, Script, Inked And Color Pages and Character Designs!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/daredevil-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="friendo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>friendo</ten_truyen>
+		<ma_truyen>friendo</ma_truyen>
+        <tac_gia>Alex Paknadel, Martin Simmonds</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/friendo/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Leo wasn't allowed toys as a kid, but now that he's all grown up he's going to take yours. He used to play by the rules, but then governments and corporations set fire to the rules and still expected him to behave. He probably would have if it hadn't been for his new friend Jerry. See, Jerry isn't human; he's a personalized marketing VR... and he's malfunctioning.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/friendo-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="age of x-man: prisoner x" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>age of x-man: prisoner x</ten_truyen>
 		<ma_truyen>age-of-x-man-prisoner-x</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/i/invaders-(2019)/1_medium.jpg</hinh_nho>
         <gioi_thieu>THE GREATEST GENERATION OF MARVEL HEROES IS BACK - TO STOP ONE OF THEIR OWN! In commemoration of Marvel's 80th anniversary and springing from events in the pages of AVENGERS and THE BEST DEFENSE, the Marvel Universe's first super-team is back! CAPTAIN AMERICA. THE HUMAN TORCH. THE WINTER SOLDIER. NAMOR. They fought in WORLD WAR II together as THE INVADERS. But now NAMOR is the enemy, a global threat more powerful than ever. His deadly plans are as deep and far-reaching as the ocean and REVELATIONS about his past could THREATEN the MARVEL UNIVERSE! It's up to his old teammates to stop him, but what chance do they have against the man who knows their every move? 'War Ghost' begins here!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invaders-2019-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="young justice (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>young justice (2019)</ten_truyen>
-		<ma_truyen>young-justice-2019</ma_truyen>
-        <tac_gia>Brian Michael Bendis, Patrick Gleason</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/y/young-justice-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Superboy! Wonder Girl! Robin! Impulse! Amethyst! They're all united in YOUNG JUSTICE #1, the debut issue of a brand-new series that also introduces new heroes Teen Lantern and Jinny Hex! When the nightmare dimension known as Gemworld invades Metropolis, these teen heroes reunite to deal with the situation-but they're shocked to discover the battle may be the key to the return of Conner Kent, a.k.a. Superboy! This mix of fan favorites and new legacy heroes will be the center point for some of the biggest goings-on at DC! As if that weren't enough, Bendis reunites with all-star artist Patrick Gleason (SUPERMAN, ACTION COMICS, GREEN LANTERN CORPS) to bring the new heroes of DC's Wonder Comics to life!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/young-justice-2019-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="infinity wars: infinity warps" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>infinity wars: infinity warps</ten_truyen>
-		<ma_truyen>infinity-wars-infinity-warps</ma_truyen>
-        <tac_gia>Ryan North, Mariko Tamaki, Jim Zub, Natacha Bustos, Francisco Herrera, Ozgur Yildirim</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/infinity-wars-infinity-warps/1_medium.jpg</hinh_nho>
-        <gioi_thieu>When you gaze into the warp...you get more stories of mad Two-In-One heroes! Read about the Star Siblings of the Warped Universe - MISTER INVISIBLE and HOT ROCKS, the TERRIFIC TWO! Then, see how the covert programs of the Green Room created the gamma-powered GREEN WIDOW! And join MOON SQUIRREL AND TIPPYSAUR as they save the planet from the most dangerous threat it's ever faced!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/infinity-wars-infinity-warps-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="champions (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>champions (2019)</ten_truyen>
-		<ma_truyen>champions-2019</ma_truyen>
-        <tac_gia>Jim Zubkavich, Steven Cummings</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/champions-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE WORLD STILL NEEDS HEROES - AND THERE ARE HEROES ALL OVER THE WORLD! The Champions have gone global! The team has seen explosive growth under Ms. Marvel's leadership, with super-powered members ready to answer the call in a dozen different countries. They're saving people and improving lives across the planet while they inspire the next generation... but something sinister lurks beneath the surface of their expanded mission. It's a dark secret that could destroy the team and everything they stand for! Jim Zub (AVENGERS: NO SURRENDER, UNCANNY AVENGERS) and Steven Cummings (Wayward, Legends of the Dark Knight) ignite a new era of CHAMPIONS, filled to the brim with action, adventure and drama in the Mighty Marvel Manner!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/champions-2019-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="martian manhunter (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>martian manhunter (2018)</ten_truyen>
-		<ma_truyen>martian-manhunter-2018</ma_truyen>
-        <tac_gia>Steve Orlando, Riley Rossmo</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/martian-manhunter-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The acclaimed team of writer Steve Orlando and artist Riley Rossmo (BATMAN / THE SHADOW, BATMAN: NIGHT OF THE MONSTER MEN) reteam for a reinvention of the Manhunter from Mars in this twisted, unexpected series. Back on Mars, J'onn was about as corrupt as a law officer can be, and when a reckoning comes for his entire society, he'll get a second chance he doesn't want or deserve! One shocking murder, and an unexpected fragment of the Mars he lost, will change his life-and the course of the Earth-forever!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/martian-manhunter-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="deadpool (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>deadpool (2018)</ten_truyen>
-		<ma_truyen>deadpool-2018</ma_truyen>
-        <tac_gia>Skottie Young, Scott Hepburn, Nic Klein</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>MERCIN' FOR A LIVING! Skottie Young and Nic Klein bring you the craziest tales of the Regeneratin' Degenerate yet! It's been a while since Deadpool's had to merc to make ends meet, but things are tough all over. While Deadpool tries to get his humble mercenary-for-hire business back off the ground, a catastrophic threat so unfathomably huge, so mind-breakingly cataclysmic it defies description, is heading toward Earth, and there's only ONE PERSON WHO CAN STOP IT!!! Oh no, wait... it's not Wade, is it? Oh, It's Wade.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-2018-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

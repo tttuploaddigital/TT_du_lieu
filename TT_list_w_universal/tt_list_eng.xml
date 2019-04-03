@@ -309,6 +309,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <gioi_thieu>THE AGE OF X-MAN DAWNS... AND THE X-MEN CANNOT STOP IT.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-alpha-eng.xml</file_xml>
     </truyen>
+	<truyen ten="age of x-man: apocalypse and the x-tracts" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>age of x-man: apocalypse and the x-tracts</ten_truyen>
+		<ma_truyen>age-of-x-man-apocalypse-and-the-x-tracts</ma_truyen>
+        <tac_gia>Tim Seeley, Salvador Espin</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-apocalypse--the-x-tracts/1_medium.jpg</hinh_nho>
+        <gioi_thieu>ENTER THE AGE OF X-MAN! X-Man has created a utopia for mutants... a utopia where no one knows love. Thankfully, a hero rises up to lead the rebellion against this way of life and teach the ways of family and romance, and he goes by the name... EN SABAH NUR?! Join Apocalypse and his rebel X-Tracts as they strive to teach the world to love again!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-apocalypse-and-the-x-tracts-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="age of x-man: nextgen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>age of x-man: nextgen</ten_truyen>
 		<ma_truyen>age-of-x-man-nextgen</ma_truyen>
@@ -2265,6 +2274,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>Back in black and on his home turf, Daredevil begins again in New York City as a new enemy emerges. Meanwhile his alter ego, Matt Murdock, is on a new side of the law in the District Attorney's office. Fighting crime in the shadows, prosecuting bad guys in the light, it's a whole new chapter for our man without fear-including the arrival of the devil's advocate. Welcome to Hell, Blindspot.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/daredevil-2016-eng.xml</file_xml>
     </truyen>
+	<truyen ten="daredevil (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>daredevil (2019)</ten_truyen>
+		<ma_truyen>daredevil-2019</ma_truyen>
+        <tac_gia>Chip Zdarsky, Marco Checchetto</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/daredevil-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>KNOW FEAR. Featuring action-packed extras including a Cover Gallery, Script, Inked And Color Pages and Character Designs!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/daredevil-2019-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="dark ark" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>dark ark</ten_truyen>
 		<ma_truyen>dark-ark</ma_truyen>
@@ -2664,6 +2682,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>After many years of living alone in a deep forest, the devil has gotten lonely. He decides to buy himself a human bride to cure his loneliness as well as help him shed his devil identity. But when his new, beautiful young bride dies suddenly after only a few blissful days, the devil decides this time to build himself a bride. First on his list of items to acquire for the construction of his perfect mate: eyes...</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Completed/devil-s-bride-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="dial h for hero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dial h for hero</ten_truyen>
+		<ma_truyen>dial-h-for-hero</ma_truyen>
+        <tac_gia>Sam Humphries, Joe Quinones</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dial-h-for-hero-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Miguel, a teen daredevil, becomes the newest wielder of the Hero Dial-a rotary phone-like device that grants the user superpowers for one hour when they dial H-E-R-O. Will he rise as a new hero in the DC Universe or crumble under the weight of responsibility the dial thrusts upon him?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dial-h-for-hero-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="dice: the cube that changes everything" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Fantasy, Psychological, Romance, School life, Shounen., Slice of life, Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>dice: the cube that changes everything</ten_truyen>
 		<ma_truyen>dice-the-cube-that-changes-everything</ma_truyen>
@@ -3294,6 +3321,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
 		<gioi_thieu>Beings from a different dimension have started a war with mankind. To counter this threat, an academy called 'Genetics' that trains female warriors called 'Pandora,' who can wield special weaponry and armor, was formed. Kazuya Aoi decided to enroll in this school because of a promise with his sister, an outstanding alumnus who died in battle. There he meets second year Bridgette L. Satellizer, nicknamed 'The Untouchable Queen' due to her solitary demeanor but also top of her class whose battle simulation streak is undefeated, until he came... and slowly changed her.</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/freezing-eng.xml</file_xml>
 	</truyen>
+	<truyen ten="friendo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>friendo</ten_truyen>
+		<ma_truyen>friendo</ma_truyen>
+        <tac_gia>Alex Paknadel, Martin Simmonds</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/friendo/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Leo wasn't allowed toys as a kid, but now that he's all grown up he's going to take yours. He used to play by the rules, but then governments and corporations set fire to the rules and still expected him to behave. He probably would have if it hadn't been for his new friend Jerry. See, Jerry isn't human; he's a personalized marketing VR... and he's malfunctioning.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/friendo-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="frostbite" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Disaster, Drama, Life sucks, Post-apocalyptic, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>frostbite</ten_truyen>
 		<ma_truyen>frostbite</ma_truyen>
@@ -8738,6 +8774,15 @@ This manga upload for Nguyễn Ngọc Tuyên from Vietnam via request manga on w
         <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-thrawn/1_medium.jpg</hinh_nho>
         <gioi_thieu>One of the most cunning and ruthless minds in all of the Star Wars, Grand Admiral Thrawn is back with his own six-issue miniseries! Written by Jody Houser (ROGUE ONE ADAPTATION) and drawn by Luke Ross (STAR WARS: DARTH MAUL, STAR WARS: THE FORCE AWAKENS ADAPTATION), follow the comic adaptation of Timothy Zahn's New York Times best-selling novel about Thrawn's rise in the Imperial ranks, on his way to becoming one of the most feared military tacticians in the galaxy far, far away.!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/star-wars-thrawn-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="star wars: vader - dark visions" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>star wars: vader - dark visions</ten_truyen>
+		<ma_truyen>star-wars-vader-dark-visions</ma_truyen>
+        <tac_gia>Dennis 'Hopeless' Hallum, Paolo Villanelli</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-vader---dark-visions-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>WHO IS DARTH VADER? He has been many things: a SITH warrior, a commander, a destroyer. DARTH VADER is to many throughout the GALACTIC EMPIRE a symbol of fear and mysterious, otherworldly power. But there are some who have seen the DARK LORD in a different light. There are some corners of the galaxy so dark and desperate that even Vader can be a knight in shining armor. The first issue of a new STAR WARS limited series, writer Dennis Hopeless (CLOAK AND DAGGER, JEAN GREY) sheds new light on the many sides of the galaxy's greatest villain.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-vader-dark-visions-eng.xml</file_xml>
     </truyen>
 	<truyen ten="starcraft: scavengers" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>starcraft: scavengers</ten_truyen>
