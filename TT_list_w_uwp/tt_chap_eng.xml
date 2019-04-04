@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>suicide squad: black files</ten_truyen>
+		<ma_truyen>suicide-squad-black-files</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-black-files/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-black-files-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>spider-gwen: ghost-spider</ten_truyen>
+		<ma_truyen>spider-gwen-ghost-spider</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-gwen-ghost-spider-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-gwen-ghost-spider-eng.xml</file_xml>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the walking dead  </ten_truyen>
+		<ma_truyen>the-walking-dead</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-walking-dead/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-walking-dead-eng.xml</file_xml>
+		<chap_moi>issue 190</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>van helsing: sword of heaven</ten_truyen>
+		<ma_truyen>van-helsing-sword-of-heaven</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/van-helsing-sword-of-heaven/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/van-helsing-sword-of-heaven-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>fathom (2018)</ten_truyen>
+		<ma_truyen>fathom-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fathom-2018-eng.xml</file_xml>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
+		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
+        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
+		<chap_moi>chap 22</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>world trigger</ten_truyen>
+		<ma_truyen>world-trigger</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/11153/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-trigger-eng.xml</file_xml>
+		<chap_moi>chap 178</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ao no exorcist</ten_truyen>
+		<ma_truyen>ao-no-exorcist</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/772/12/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ao-no-exorcist-eng.xml</file_xml>
+		<chap_moi>chap 110</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gate - jietai kare no chi nite, kaku tatakeri</ten_truyen>
+		<ma_truyen>gate-jietai-kare-no-chi-nite-kaku-tatakeri</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/2999/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gate-jietai-kare-no-chi-nite-kaku-tatakeri-eng.xml</file_xml>
+		<chap_moi>chap 83</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>seitokai yakuindomo</ten_truyen>
+		<ma_truyen>seitokai-yakuindomo</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/8728/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/seitokai-yakuindomo-eng.xml</file_xml>
+		<chap_moi>chap 515</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the last human</ten_truyen>
+		<ma_truyen>the-last-human</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/08/e8/08e8a46cb50e65ee7ee27488ecc0cf24ac54136f_27153_200_266.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/the-last-human-eng.xml</file_xml>
+		<chap_moi>chap 129</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>solo leveling</ten_truyen>
+		<ma_truyen>solo-leveling</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/f1/fd/f1fd1cc899c1d8d919644341b96497ec864d914d_25991_200_270.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/solo-leveling-eng.xml</file_xml>
+		<chap_moi>chap 65</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>spirit sword sovereign</ten_truyen>
+		<ma_truyen>spirit-sword-sovereign</ma_truyen>
+		<hinh_nho>https://file-thumb.anyacg.co/W300/a2/58/a258a272f70adfa48449527de473672890ef1a40_41489_200_266.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/spirit-sword-sovereign-eng.xml</file_xml>
+		<chap_moi>chap 146</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>skeleton soldier</ten_truyen>
+		<ma_truyen>skeleton-soldier</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/ed/67/ed67e8c0750a538864c409c8223536b2eb02a27e_25421_200_300.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/skeleton-soldier-eng.xml</file_xml>
+		<chap_moi>chap 58</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>19 days</ten_truyen>
+		<ma_truyen>19-days</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28998/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/19-days-eng.xml</file_xml>
+		<chap_moi>ch. 281</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>x-force (2018)</ten_truyen>
 		<ma_truyen>x-force-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-force-(2018)/1_medium.jpg</hinh_nho>
@@ -209,110 +314,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
 		<chap_moi>chap 227</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>damage (2018)</ten_truyen>
-		<ma_truyen>damage-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/damage-2018-eng.xml</file_xml>
-		<chap_moi>issue 15</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>thor (2018)</ten_truyen>
-		<ma_truyen>thor-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thor-2018-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>naomi</ten_truyen>
-		<ma_truyen>naomi</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/naomi/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/naomi-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars (2015)</ten_truyen>
-		<ma_truyen>star-wars-2015</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
-		<chap_moi>issue 63</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>monstress</ten_truyen>
-		<ma_truyen>monstress</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/monstress/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/monstress-eng.xml</file_xml>
-		<chap_moi>issue 21</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>beastars</ten_truyen>
-		<ma_truyen>beastars</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
-		<chap_moi>chap 121</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>infection</ten_truyen>
-		<ma_truyen>infection</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/38637/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/infection-eng.xml</file_xml>
-		<chap_moi>chap 57</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>ake no tobari</ten_truyen>
-		<ma_truyen>ake-no-tobari</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/39326/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ake-no-tobari-eng.xml</file_xml>
-		<chap_moi>chap 144</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>c.m.b.</ten_truyen>
-		<ma_truyen>c-m-b</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/1559/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/c-m-b-eng.xml</file_xml>
-		<chap_moi>chap 111.2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kyochuu rettou</ten_truyen>
-		<ma_truyen>kyochuu-rettou</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/36229/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyochuu-rettou-eng.xml</file_xml>
-		<chap_moi>chap 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>iron ladies</ten_truyen>
-		<ma_truyen>iron-ladies</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/65/11/6511f81ba14b3dd57f902dd8b894acbb6aa93673_33406_200_266.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/iron-ladies-eng.xml</file_xml>
-		<chap_moi>chap 219</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>a returner's magic should be special</ten_truyen>
-		<ma_truyen>a-returner-s-magic-should-be-special</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/fd/69/fd69630598bd7ec524ac3a2ad1e6d86056fba6e8_30740_200_270.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/a-returner-s-magic-should-be-special-eng.xml</file_xml>
-		<chap_moi>chap 55</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star martial god technique</ten_truyen>
-		<ma_truyen>star-martial-god-technique</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/44777/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/star-martial-god-technique-eng.xml</file_xml>
-		<chap_moi>chap 229</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the scholar's reincarnation</ten_truyen>
-		<ma_truyen>the-scholar-s-reincarnation</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/76/c5/76c58e8d3015f585142b30445fcf26e4cf4da005_30357_200_270.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/the-scholar-s-reincarnation-eng.xml</file_xml>
-		<chap_moi>chap 101</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tang yin zai yi jie</ten_truyen>
-		<ma_truyen>tang-yin-zai-yi-jie</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/4d/f6/4df6d07b4d09012d955ec757689c0dd064cf4f4d_28183_200_310.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tang-yin-zai-yi-jie-eng.xml</file_xml>
-		<chap_moi>chap 192</chap_moi>
 	</truyen>
 </danh_sach_truyen>
