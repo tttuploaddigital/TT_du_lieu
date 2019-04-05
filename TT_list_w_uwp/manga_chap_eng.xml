@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>karate shoukoushi monogatari</ten_truyen>
+		<ma_truyen>karate-shoukoushi-monogatari</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/dd/ce/ddced0f7d9cbd222e654c803cd2bdfbfa962e8e0_28018_200_283.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/karate-shoukoushi-monogatari-eng.xml</file_xml>
+		<chap_moi>chap 41</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>caterpillar</ten_truyen>
+		<ma_truyen>caterpillar</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28919/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/caterpillar-eng.xml</file_xml>
+		<chap_moi>chap 47</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gokushufudou: the way of the house husband</ten_truyen>
+		<ma_truyen>gokushufudou-the-way-of-the-house-husband</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/1c/81/1c8179fca5157a2175838326afca8a93e11f6c58_41758_200_284.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokushufudou-the-way-of-the-house-husband-eng.xml</file_xml>
+		<chap_moi>chap 23</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>maou-jou de oyasumi</ten_truyen>
+		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
+		<chap_moi>chap 103</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>a story about treating a female knight who has never been treated as a woman as a woman</ten_truyen>
+		<ma_truyen>a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/8f/e1/8fe15f1cb81932edf231f9db984ce4e7f2d8866a_26986_200_281.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman-eng.xml</file_xml>
+		<chap_moi>chap 54</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
 		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
         <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
@@ -279,40 +314,5 @@
 		<hinh_nho>https://i.ebayimg.com/images/g/gVQAAOSwY3BZN1Cj/s-l300.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youjo-senki-eng.xml</file_xml>
 		<chap_moi>chap 38</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 936</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 303</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yakusoku no neverland</ten_truyen>
-		<ma_truyen>yakusoku-no-neverland</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/42944/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yakusoku-no-neverland-eng.xml</file_xml>
-		<chap_moi>chap 127</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>a story about treating a female knight who has never been treated as a woman as a woman</ten_truyen>
-		<ma_truyen>a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/8f/e1/8fe15f1cb81932edf231f9db984ce4e7f2d8866a_26986_200_281.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman-eng.xml</file_xml>
-		<chap_moi>chap 51</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>detective conan</ten_truyen>
-		<ma_truyen>detective-conan</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/17/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/detective-conan-eng.xml</file_xml>
-		<chap_moi>ch. 1031</chap_moi>
 	</truyen>
 </danh_sach_truyen>

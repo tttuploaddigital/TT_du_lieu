@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>adventures of the super sons</ten_truyen>
+		<ma_truyen>adventures-of-the-super-sons</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/adventures-of-the-super-sons/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/adventures-of-the-super-sons-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>uncanny x-men (2018)</ten_truyen>
+		<ma_truyen>uncanny-x-men-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
+		<chap_moi>issue 15</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>deathstroke (2016)</ten_truyen>
+		<ma_truyen>deathstroke-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deathstroke-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deathstroke-2016-eng.xml</file_xml>
+		<chap_moi>issue 42</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the six million dollar man</ten_truyen>
+		<ma_truyen>the-six-million-dollar-man</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-six-million-dollar-man-(2019)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-six-million-dollar-man-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>paper girls</ten_truyen>
+		<ma_truyen>paper-girls</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/paper-girls/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/paper-girls-eng.xml</file_xml>
+		<chap_moi>issue 27</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>suicide squad: black files</ten_truyen>
 		<ma_truyen>suicide-squad-black-files</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-black-files/1_medium.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/o/oblivion-song/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oblivion-song-eng.xml</file_xml>
 		<chap_moi>issue 13</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>supergirl (2016)</ten_truyen>
-		<ma_truyen>supergirl-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/supergirl-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/supergirl-2016-eng.xml</file_xml>
-		<chap_moi>issue 28</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shuri</ten_truyen>
-		<ma_truyen>shuri</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/shuri-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the punisher (2018)</ten_truyen>
-		<ma_truyen>the-punisher-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/punisher-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-punisher-2018-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>runaways (2017)</ten_truyen>
-		<ma_truyen>runaways-2017</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/runaways-(2017)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/runaways-2017-eng.xml</file_xml>
-		<chap_moi>issue 19</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>accell</ten_truyen>
-		<ma_truyen>accell</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-accell/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/accell-eng.xml</file_xml>
-		<chap_moi>issue 19</chap_moi>
 	</truyen>
 </danh_sach_truyen>

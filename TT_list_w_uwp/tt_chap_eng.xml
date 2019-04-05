@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>adventures of the super sons</ten_truyen>
+		<ma_truyen>adventures-of-the-super-sons</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/adventures-of-the-super-sons/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/adventures-of-the-super-sons-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>uncanny x-men (2018)</ten_truyen>
+		<ma_truyen>uncanny-x-men-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
+		<chap_moi>issue 15</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>deathstroke (2016)</ten_truyen>
+		<ma_truyen>deathstroke-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/deathstroke-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deathstroke-2016-eng.xml</file_xml>
+		<chap_moi>issue 42</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the six million dollar man</ten_truyen>
+		<ma_truyen>the-six-million-dollar-man</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-six-million-dollar-man-(2019)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-six-million-dollar-man-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>paper girls</ten_truyen>
+		<ma_truyen>paper-girls</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/paper-girls/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/paper-girls-eng.xml</file_xml>
+		<chap_moi>issue 27</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>karate shoukoushi monogatari</ten_truyen>
+		<ma_truyen>karate-shoukoushi-monogatari</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/dd/ce/ddced0f7d9cbd222e654c803cd2bdfbfa962e8e0_28018_200_283.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/karate-shoukoushi-monogatari-eng.xml</file_xml>
+		<chap_moi>chap 41</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>caterpillar</ten_truyen>
+		<ma_truyen>caterpillar</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/28919/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/caterpillar-eng.xml</file_xml>
+		<chap_moi>chap 47</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gokushufudou: the way of the house husband</ten_truyen>
+		<ma_truyen>gokushufudou-the-way-of-the-house-husband</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/1c/81/1c8179fca5157a2175838326afca8a93e11f6c58_41758_200_284.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokushufudou-the-way-of-the-house-husband-eng.xml</file_xml>
+		<chap_moi>chap 23</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>maou-jou de oyasumi</ten_truyen>
+		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
+		<chap_moi>chap 103</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>a story about treating a female knight who has never been treated as a woman as a woman</ten_truyen>
+		<ma_truyen>a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/8f/e1/8fe15f1cb81932edf231f9db984ce4e7f2d8866a_26986_200_281.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman-eng.xml</file_xml>
+		<chap_moi>chap 54</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>suicide squad: black files</ten_truyen>
 		<ma_truyen>suicide-squad-black-files</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-black-files/1_medium.jpg</hinh_nho>
@@ -244,75 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/29089/10/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/domestic-na-kanojo-eng.xml</file_xml>
 		<chap_moi>chap 224</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>avengers (2018)</ten_truyen>
-		<ma_truyen>avengers-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-2018-eng.xml</file_xml>
-		<chap_moi>issue 17</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wolverine: infinity watch</ten_truyen>
-		<ma_truyen>wolverine-infinity-watch</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wolverine-infinity-watch/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wolverine-infinity-watch-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>miles morales: spider-man</ten_truyen>
-		<ma_truyen>miles-morales-spider-man</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/miles-morales-spider-man-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/miles-morales-spider-man-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nightwing (2016)</ten_truyen>
-		<ma_truyen>nightwing-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/nightwing-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nightwing-2016-eng.xml</file_xml>
-		<chap_moi>issue 58</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>middlewest</ten_truyen>
-		<ma_truyen>middlewest</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/middlewest/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/middlewest-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>onepunch-man</ten_truyen>
-		<ma_truyen>onepunch-man</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onepunch-man-eng.xml</file_xml>
-		<chap_moi>chap 105</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>goblin slayer </ten_truyen>
-		<ma_truyen>goblin-slayer</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41855/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-eng.xml</file_xml>
-		<chap_moi>chap 34</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanatsu no taizai</ten_truyen>
-		<ma_truyen>nanatsu-no-taizai</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
-		<chap_moi>chap 305</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yuusha ga shinda!</ten_truyen>
-		<ma_truyen>yuusha-ga-shinda</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/29997/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuusha-ga-shinda-eng.xml</file_xml>
-		<chap_moi>chap 151</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>usogui</ten_truyen>
-		<ma_truyen>usogui</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
-		<chap_moi>chap 227</chap_moi>
 	</truyen>
 </danh_sach_truyen>
