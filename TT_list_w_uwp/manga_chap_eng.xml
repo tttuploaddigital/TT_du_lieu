@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>fate/extra ccc - foxtail</ten_truyen>
+		<ma_truyen>fate-extra-ccc-foxtail</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41861/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fate-extra-ccc-foxtail-eng.xml</file_xml>
+		<chap_moi>chap 50</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>nanbaka</ten_truyen>
+		<ma_truyen>nanbaka</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/9d/cb/9dcb8369a049329c4760a164a697766f78d1f6b0_44616_200_284.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanbaka-eng.xml</file_xml>
+		<chap_moi>chap 145</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hawkwood</ten_truyen>
+		<ma_truyen>hawkwood</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/41/c3/41c3b07ecdfbc8c3b966005836ed18f26d5649bc_33350_200_286.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hawkwood-eng.xml</file_xml>
+		<chap_moi>chap 31</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>badboys</ten_truyen>
+		<ma_truyen>badboys</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/66/74/667416ce0e5f3ee8a937ed7f340f88e9bd1c2c8a_27600_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/badboys-eng.xml</file_xml>
+		<chap_moi>chap 89</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mai ball!</ten_truyen>
+		<ma_truyen>mai-ball</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38802/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mai-ball-eng.xml</file_xml>
+		<chap_moi>chap 107</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>karate shoukoushi monogatari</ten_truyen>
 		<ma_truyen>karate-shoukoushi-monogatari</ma_truyen>
         <hinh_nho>https://file-thumb.anyacg.co/W600/dd/ce/ddced0f7d9cbd222e654c803cd2bdfbfa962e8e0_28018_200_283.jpg</hinh_nho>
@@ -279,40 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
 		<chap_moi>chap 59</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the new gate</ten_truyen>
-		<ma_truyen>the-new-gate</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28819/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/the-new-gate-eng.xml</file_xml>
-		<chap_moi>chap 46</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>golden kamui</ten_truyen>
-		<ma_truyen>golden-kamui</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/36347/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/golden-kamui-eng.xml</file_xml>
-		<chap_moi>chap 193</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hajime no ippo</ten_truyen>
-		<ma_truyen>hajime-no-ippo</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/fa/20/fa205ccbb16cd361708fd290b2649732f3f75638_36159_200_306.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajime-no-ippo-eng.xml</file_xml>
-		<chap_moi>ch. 1256</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanba mg5</ten_truyen>
-		<ma_truyen>nanba-mg5</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/48/20/4820fce9937baac5b52b39379393a6ea79940233_39720_200_310.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanba-mg5-eng.xml</file_xml>
-		<chap_moi>chap 50</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>youjo senki</ten_truyen>
-		<ma_truyen>youjo-senki</ma_truyen>
-		<hinh_nho>https://i.ebayimg.com/images/g/gVQAAOSwY3BZN1Cj/s-l300.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/youjo-senki-eng.xml</file_xml>
-		<chap_moi>chap 38</chap_moi>
 	</truyen>
 </danh_sach_truyen>
