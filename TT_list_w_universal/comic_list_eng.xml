@@ -522,14 +522,14 @@
         <gioi_thieu>Welcome to the World of Betrothed! Kieron and Tamara are both seniors at the same high school. They've never paid much attention to each other, even though they are the only kids at school who are orphans. On the eve of their eighteenth birthdays, they discover a lifelong secret: in a dimension far away, they are each the leader of an army that is at war with one another... and what's more, when they turn eighteen, they're to be Betrothed or Fight to the Death!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/betrothed-eng.xml</file_xml>
     </truyen>
-	<truyen ten="bettie page" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Pulp" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="bettie page" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Pulp" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>bettie page</ten_truyen>
 		<ma_truyen>bettie-page</ma_truyen>
         <tac_gia>David Avallone, Colton Worley</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/b/bettie-page/1_medium.jpg</hinh_nho>
         <gioi_thieu>She's more modest than Ms. Blaise, but peels more than Ms. Emma. She out-vamps Vampirella, but she's sweeter than Honey West. She put the mod in model, and the bangs in bang-bang. Now the world can know the truth:  her classified adventures back in 1951 Hollywood have been declassified. Dynamite, David Avallone and Colton Worley are proud to present The Secret Diary of Bettie Page, in handy comic book form.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bettie-page-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/bettie-page-eng.xml</file_xml>
     </truyen>
 	<truyen ten="birthright" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, Graphic novels, Mythology, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>birthright</ten_truyen>
