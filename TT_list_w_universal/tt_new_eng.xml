@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="acma:game" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mystery, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>acma:game</ten_truyen>
+		<ma_truyen>acma-game</ma_truyen>
+		<tac_gia>Mebu, Megumi Kouji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/fb/c2/fbc288a5f72fc0b11a3f7446f5e5d29a3376aa03_23849_200_297.jpg</hinh_nho>
+		<gioi_thieu>Oda Teruasa is a high school student gifted with intelligence, good looks and wealth: the 'perfect scion' of the Oda Group, a powerful conglomerate whose name is known all over Japan. But then he gets caught up in a nightmarish game of winner-take-all against the son of the Belmont mafia family.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/acma-game-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="mahou shoujo tokushuusen asuka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Horror, Mature, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>mahou shoujo tokushuusen asuka</ten_truyen>
+		<ma_truyen>mahou-shoujo-tokushuusen-asuka</ma_truyen>
+		<tac_gia>Fukami Makoto, Tokiya Seigo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/4d/26/4d26251abaf2a94c37dccfdf65b6198846bc4080_30449_200_314.jpg</hinh_nho>
+		<gioi_thieu>Due to the invasion of Disas, enigmatic creatures of soil from the land of the dead, mankind, who was on the verge of crisis, was saved by the efforts of magical girls who had obtained a mysterious magical power. Three years later, new incidents suddenly occur, tearing apart the normalcy of the girls who had each returned to their normal lives. The saviors of humanity, those magical girls called 'the Legendary 5 (The Magical Five)' now live each day fighting for their lives, even as they are trifled with by fate...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-tokushuusen-asuka-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tokyo dragon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mystery, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>tokyo dragon</ten_truyen>
+		<ma_truyen>tokyo-dragon</ma_truyen>
+		<tac_gia>Asahi Tsukishita</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/df/9a/df9a64a6b797cf57dab6f55b257e5cc15604a410_35372_200_282.jpg</hinh_nho>
+		<gioi_thieu>It was just a normal day for Kokoro and his friends, until they received a grim shock: their world had been invaded by dragons! These vicious dragons consumed every human they saw, and destroyed everything in their paths. Japan's military turned out to be useless against these creatures. Just as all hope was lost, a mysterious classified military division appeared, with knowledge of these dragons' secrets. What is this unknown division? How do they have information on these never-before-seen dragons? Where did these dragons come from? What is their purpose? Who is their leader? Can Kokoro and his friends unravel these mysteries before it's too late?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tokyo-dragon-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tondemo skill de isekai hourou meshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>tondemo skill de isekai hourou meshi</ten_truyen>
+		<ma_truyen>tondemo-skill-de-isekai-hourou-meshi</ma_truyen>
+		<tac_gia>Eguchi Ren, Akagishi K, Masa</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/f2/f3/f2f311900030075e79d34d78699522fdd9ba9184_37795_200_284.jpg</hinh_nho>
+		<gioi_thieu>Akashi Eito has failed miserably on all high school admission exams but somehow, he receives a letter of acceptance from a school he does not remember applying to. He nevertheless happily enrolls, expecting to live the ideal school life, but his aspiration are quickly destroyed as he discovers that this mysterious school is a training institute for secret agents! Immediately, Eito wants to return home, until the director of the school makes a shocking revelation: Eito's deceased father was also a secret agent! He subsequently wants to know more about the past and memories of his father, so he decides to remain at this school. However, as a student of this institution, Eito will have to face a deadly exam specifically made to test the skills of all new students... Follow this story of action and espionage, in which our hero, who lacks physical strength, compensates for it with great bravery, and captivates everyone around him with the power of his courage and friendship!!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tondemo-skill-de-isekai-hourou-meshi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="noah of the blood sea" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mystery, Psychological, Seinen, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>noah of the blood sea</ten_truyen>
+		<ma_truyen>noah-of-the-blood-sea</ma_truyen>
+		<tac_gia>Satomi Yu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/18/42/1842e8af94fe83bfaf8422a22a45ab843d68372a_22164_200_290.jpg</hinh_nho>
+		<gioi_thieu>When a family of three book passage on a luxury liner they soon realize that the glamours cruise ship is nothing but a facade as a series of mysterious killings spread throughtout the ship. With the sea proving no escape, how will they survive?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/noah-of-the-blood-sea-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="douluo dalu ii - jueshui tangmen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manhua">
 		<ten_truyen>douluo dalu ii - jueshui tangmen</ten_truyen>
 		<ma_truyen>douluo-dalu-ii-jueshui-tangmen</ma_truyen>
@@ -360,49 +405,4 @@
         <gioi_thieu>When you become an adult, you have to prove yourself, at least that's how it works for the Stoneport thieves. Ave has decided to illegally harvest healing moss from the Stone King, a mighty giant who roams the lands. Her theft goes even better than she could have dreamed. The biggest gem she's ever seen is her prize. But is that prize worth the consequences? Part of the comiXology Originals line of exclusive digital content only available on comiXology and Kindle. This title is available as part of comiXology Unlimited, Kindle Unlimited and Prime Reading.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-stone-king-eng.xml</file_xml>
     </truyen>
-	<truyen ten="runway de waratte" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>runway de waratte</ten_truyen>
-		<ma_truyen>runway-de-waratte</ma_truyen>
-		<tac_gia>Inoya Kotoba</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/59/c1/59c18ab37f993e5603c58e323a85d11944dd2ca3_35382_200_298.jpg</hinh_nho>
-		<gioi_thieu>Smile at the Runway starts with the story of Fujito Chiyuki, an aspiring fashion model and daughter of a fledgling Modeling Agency, Mille neige. Ever since she was little, Chiyuki's dream was to be the star model of her dad's agency and perform at Paris Fashion Week. With great looks and a gifted environment, it seemed like she was on the right track to fulfill her dream, but she soon found herself faced with a seemingly insurmountable wall when her height stopped growing at 158cm (5'2''), hopelessly too short to be a professional model. Although Chiyuki still kept on believing in herself for years despite everyone telling her it's impossible, Chiyuki's resolve starts to crumble as she enters her last year of high school. This is when she meets Tsumura Ikuto, a lame classmate with a surprising talent for designing clothes, who is also considering giving up his dream due to unfortunate circumstances. Together, they begin the journey of doing the impossible in order to realize their dreams.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/runway-de-waratte-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="angolmois - genkou kassenki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Historical, Mature, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>angolmois - genkou kassenki</ten_truyen>
-		<ma_truyen>angolmois-genkou-kassenki</ma_truyen>
-		<tac_gia>Takagi Nanahiko</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/17/68/17681594befc1a7e9f510d3b0b78f23971a2aa02_23876_200_283.jpg</hinh_nho>
-		<gioi_thieu>In the 13th century, the Mongolian Empire rapidly expands across the globe. Later historians who studied the prophecies of Nostradamus would say that Mongolia was the birthplace of the 'Great King of Terror,' Angolmois. And at last, the force of the Mongolian Empire would turn their attention toward Japan... 1274: The Bun'ei Invasion. The exiled samurai Jinzaburo Kuchii is in Kamakura when he finds himself face to face with this invasion. This story is a fresh look at the great battle that rocked all of medieval Japan: the Mongol Invasion. It shows how the people of Tsushima panicked, struggled, and eventually rose up against the overwhelming forces of their enemy.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/angolmois-genkou-kassenki-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="karate shoukoushi monogatari" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>karate shoukoushi monogatari</ten_truyen>
-		<ma_truyen>karate-shoukoushi-monogatari</ma_truyen>
-		<tac_gia>Baba Yasushi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/dd/ce/ddced0f7d9cbd222e654c803cd2bdfbfa962e8e0_28018_200_283.jpg</hinh_nho>
-		<gioi_thieu>Takeru and Meo, two best friends both troubled by tragedies in their pasts, have been sweeping local junior karate tournaments as high school freshmen. But now, they set their sights on a national karate tournament. Unfortunately, the funding required to achieve their goal can only be secured if they form an official karate club at their school. Their first challenge lies in getting past the beautiful student council president Izumi Touko, who also happens to be the only daughter of the head of the biggest karate organization in the world, Koudan-kai (which is totally not Kyokushin). What plot will Touko hatch, and what price is she going to exact from them? As Takeru and Meo embark on their official karate journey which will lead them to confront their pasts, almost the entire cast of Karate Shoukoushi Kohinata Minoru makes an appearance, guiding them, and teaching them the true meaning of what it is to be a karate-ka.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/karate-shoukoushi-monogatari-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="hakumei to mikochi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>hakumei to mikochi</ten_truyen>
-		<ma_truyen>hakumei-to-mikochi</ma_truyen>
-		<tac_gia>Kashiki Takuto</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/61/d5/61d5415ef9861e1e7a51d73e49d278a809db3763_32569_200_280.jpg</hinh_nho>
-		<gioi_thieu>Nine centimeters (3.5 inches) tall, the tiny girls Hakumei and Mikochi live in the forest. Living in a tiny house in a tree, riding insects and birds, and making umbrellas out of leaves, these tiny girls live a tiny life. Follow their tiny but lovely lives as they live their day to day in a fantastic world of tiny people and gods.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hakumei-to-mikochi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="badboys" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>badboys</ten_truyen>
-		<ma_truyen>badboys</ma_truyen>
-		<tac_gia>Tanaka Hiroshi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/66/74/667416ce0e5f3ee8a937ed7f340f88e9bd1c2c8a_27600_200_314.jpg</hinh_nho>
-		<gioi_thieu>Tsukasa, Yoji, and Eiji are friends and members of the motorcycle gang called the Paradise Butterflies. Riding the streets of Hiroshima their goal in life is to top all other gangs in their city.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/badboys-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
