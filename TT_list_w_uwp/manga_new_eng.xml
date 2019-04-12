@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="acma:game" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mystery, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>acma:game</ten_truyen>
+		<ma_truyen>acma-game</ma_truyen>
+		<tac_gia>Mebu, Megumi Kouji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/fb/c2/fbc288a5f72fc0b11a3f7446f5e5d29a3376aa03_23849_200_297.jpg</hinh_nho>
+		<gioi_thieu>Oda Teruasa is a high school student gifted with intelligence, good looks and wealth: the 'perfect scion' of the Oda Group, a powerful conglomerate whose name is known all over Japan. But then he gets caught up in a nightmarish game of winner-take-all against the son of the Belmont mafia family.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/acma-game-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="mahou shoujo tokushuusen asuka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Horror, Mature, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>mahou shoujo tokushuusen asuka</ten_truyen>
+		<ma_truyen>mahou-shoujo-tokushuusen-asuka</ma_truyen>
+		<tac_gia>Fukami Makoto, Tokiya Seigo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/4d/26/4d26251abaf2a94c37dccfdf65b6198846bc4080_30449_200_314.jpg</hinh_nho>
+		<gioi_thieu>Due to the invasion of Disas, enigmatic creatures of soil from the land of the dead, mankind, who was on the verge of crisis, was saved by the efforts of magical girls who had obtained a mysterious magical power. Three years later, new incidents suddenly occur, tearing apart the normalcy of the girls who had each returned to their normal lives. The saviors of humanity, those magical girls called 'the Legendary 5 (The Magical Five)' now live each day fighting for their lives, even as they are trifled with by fate...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-tokushuusen-asuka-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tokyo dragon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mystery, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>tokyo dragon</ten_truyen>
+		<ma_truyen>tokyo-dragon</ma_truyen>
+		<tac_gia>Asahi Tsukishita</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/df/9a/df9a64a6b797cf57dab6f55b257e5cc15604a410_35372_200_282.jpg</hinh_nho>
+		<gioi_thieu>It was just a normal day for Kokoro and his friends, until they received a grim shock: their world had been invaded by dragons! These vicious dragons consumed every human they saw, and destroyed everything in their paths. Japan's military turned out to be useless against these creatures. Just as all hope was lost, a mysterious classified military division appeared, with knowledge of these dragons' secrets. What is this unknown division? How do they have information on these never-before-seen dragons? Where did these dragons come from? What is their purpose? Who is their leader? Can Kokoro and his friends unravel these mysteries before it's too late?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tokyo-dragon-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tondemo skill de isekai hourou meshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>tondemo skill de isekai hourou meshi</ten_truyen>
+		<ma_truyen>tondemo-skill-de-isekai-hourou-meshi</ma_truyen>
+		<tac_gia>Eguchi Ren, Akagishi K, Masa</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/f2/f3/f2f311900030075e79d34d78699522fdd9ba9184_37795_200_284.jpg</hinh_nho>
+		<gioi_thieu>Akashi Eito has failed miserably on all high school admission exams but somehow, he receives a letter of acceptance from a school he does not remember applying to. He nevertheless happily enrolls, expecting to live the ideal school life, but his aspiration are quickly destroyed as he discovers that this mysterious school is a training institute for secret agents! Immediately, Eito wants to return home, until the director of the school makes a shocking revelation: Eito's deceased father was also a secret agent! He subsequently wants to know more about the past and memories of his father, so he decides to remain at this school. However, as a student of this institution, Eito will have to face a deadly exam specifically made to test the skills of all new students... Follow this story of action and espionage, in which our hero, who lacks physical strength, compensates for it with great bravery, and captivates everyone around him with the power of his courage and friendship!!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tondemo-skill-de-isekai-hourou-meshi-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="noah of the blood sea" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mystery, Psychological, Seinen, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>noah of the blood sea</ten_truyen>
+		<ma_truyen>noah-of-the-blood-sea</ma_truyen>
+		<tac_gia>Satomi Yu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/18/42/1842e8af94fe83bfaf8422a22a45ab843d68372a_22164_200_290.jpg</hinh_nho>
+		<gioi_thieu>When a family of three book passage on a luxury liner they soon realize that the glamours cruise ship is nothing but a facade as a series of mysterious killings spread throughtout the ship. With the sea proving no escape, how will they survive?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/noah-of-the-blood-sea-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="soul catcher(s)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>soul catcher(s)</ten_truyen>
 		<ma_truyen>soul-catcher-s</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/52/39/5239a38ebb2f4d7002fb3960524918e03d05852f_31168_200_314.jpg</hinh_nho>
 		<gioi_thieu>In a fantasy world where monsters roam the land, the heroes party of Leon, Kijira and Ash traveled and slayed monsters together. But when Leon broke up with his partners so he could hang out with cute girls, Kijira and Ash starts carving their own legacy and it's one built on the back of jealousy as they look to overcome Leon in both monster slaying and women wooing.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/memesis-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="bougyaku no kokekko" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>bougyaku no kokekko</ten_truyen>
-		<ma_truyen>bougyaku-no-kokekko</ma_truyen>
-		<tac_gia>Suzaki Yousuke</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/bd/d4/bdd47155735b4eaa3a58d698d77a8d4453772d2c_44968_200_299.jpg</hinh_nho>
-		<gioi_thieu>Meet Yuu Enji, a boy abandoned by his father, and the oldest kid in his foster home who's fed up with adults like his selfish orphanage principal. His dream is to buy the orphanage, so that everyone there can live happily together. With that goal in mind, he decided to get a job, and went to his high school graduation. But from that day forward, the world suddenly changed! Adults have now started to morph into giant chickens and attack children! Can Yuu protect the children and his dream during this crisis!?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bougyaku-no-kokekko-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="maken no daydreamer" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Harem, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>maken no daydreamer</ten_truyen>
-		<ma_truyen>maken-no-daydreamer</ma_truyen>
-		<tac_gia>Nishi Osyou, Muramatsu Mayu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/72/58/725847839abfa163f37e952a560565e26b297773_46032_200_284.jpg</hinh_nho>
-		<gioi_thieu>Minato is a college student who died in a plane crash and was reincarnated in a fantasy world. He was raised alone in the wilderness by his succubus mother, and now he tries to make his way as an adventurer.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maken-no-daydreamer-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="saru lock" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>saru lock</ten_truyen>
-		<ma_truyen>saru-lock</ma_truyen>
-		<tac_gia>Serizawa Naoki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/a4/f1/a4f1a7835512af7976124517a1be8ccaa42eefe9_10878_200_286.jpg</hinh_nho>
-		<gioi_thieu>Yataro Sarumaru, nicknamed Saru, is an ace in the locksmith trade and is obsessed with girls. This (almost) average teenager is given a hardly ordinary mission which marks the beginning of his adventures!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saru-lock-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="parallel paradise" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Ecchi, Fantasy, Harem, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>parallel paradise</ten_truyen>
-		<ma_truyen>parallel-paradise</ma_truyen>
-		<tac_gia>Okamoto Lynn</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/93/3c/933c14caeabc3f73cb389d236ce03f4155d55ea8_37007_200_310.jpg</hinh_nho>
-		<gioi_thieu>One day at school, Youta sees someone strange entering school. Out of nowhere this being appears next to him and makes him fall from the 3rd floor! But he stops in a strange world, where beings like dragons exist! Youta meets a young paladine, and discovers that he is the only man inhabiting that planet, and that its inhabitants are extremely 'weak' to his presence... would this be a paradise?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/parallel-paradise-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kaifuku jutsushi no yarinaoshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Adventure, Drama, Fantasy, Harem, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kaifuku jutsushi no yarinaoshi</ten_truyen>
-		<ma_truyen>kaifuku-jutsushi-no-yarinaoshi</ma_truyen>
-		<tac_gia>Tsukiyo Rui, Haga Souken</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/e0/cb/e0cbb96e121d98ad3c2c9070b6415fe06274dc9e_47183_200_310.jpg</hinh_nho>
-		<gioi_thieu>Healing magicians cannot fight alone.' Keare, who was bound by this common knowledge, was exploited again and again by others. But one day, he noticed what lay beyond healing magic, and was convinced that a healing magician was the strongest class. However, by the time he realized that potential, he was deprived of everything. Thus, he used healing magic on the world itself to go back four years, deciding to redo everything. This is a heroic tale of one healing magician who became the strongest by using knowledge from his past life and healing magic.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaifuku-jutsushi-no-yarinaoshi-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
