@@ -315,39 +315,4 @@
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyochuu-rettou-eng.xml</file_xml>
 		<chap_moi>chap 43</chap_moi>
 	</truyen>
-	<truyen>
-		<ten_truyen>boku no hero academia</ten_truyen>
-		<ma_truyen>boku-no-hero-academia</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/28253/16/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-hero-academia-eng.xml</file_xml>
-		<chap_moi>chap 221</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dr. stone</ten_truyen>
-		<ma_truyen>dr-stone</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47716/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr-stone-eng.xml</file_xml>
-		<chap_moi>chap 99</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 304</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>haikyuu!!</ten_truyen>
-		<ma_truyen>haikyuu</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/21593/26/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/haikyuu-eng.xml</file_xml>
-		<chap_moi>chap 343</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>skip beat!</ten_truyen>
-		<ma_truyen>skip-beat</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/9232/12/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/skip-beat-eng.xml</file_xml>
-		<chap_moi>chap 268</chap_moi>
-	</truyen>
 </danh_sach_truyen>
