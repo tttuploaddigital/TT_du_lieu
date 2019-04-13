@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>onepunch-man</ten_truyen>
+		<ma_truyen>onepunch-man</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onepunch-man-eng.xml</file_xml>
+		<chap_moi>chap 106</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 153</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dungeon meshi</ten_truyen>
+		<ma_truyen>dungeon-meshi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-meshi-eng.xml</file_xml>
+		<chap_moi>chap 52</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mad chimera world</ten_truyen>
+		<ma_truyen>mad-chimera-world</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/45/64/45645dc02dbebef393fbb91eaea9f98557fb5bd6_45672_200_310.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mad-chimera-world-eng.xml</file_xml>
+		<chap_moi>chap 13</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kaifuku jutsushi no yarinaoshi</ten_truyen>
+		<ma_truyen>kaifuku-jutsushi-no-yarinaoshi</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/e0/cb/e0cbb96e121d98ad3c2c9070b6415fe06274dc9e_47183_200_310.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaifuku-jutsushi-no-yarinaoshi-eng.xml</file_xml>
+		<chap_moi>chap 16.1</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>one piece</ten_truyen>
 		<ma_truyen>one-piece</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
 		<chap_moi>chap 227</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>beastars</ten_truyen>
-		<ma_truyen>beastars</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
-		<chap_moi>chap 121</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>infection</ten_truyen>
-		<ma_truyen>infection</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/38637/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/infection-eng.xml</file_xml>
-		<chap_moi>chap 57</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>ake no tobari</ten_truyen>
-		<ma_truyen>ake-no-tobari</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/39326/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ake-no-tobari-eng.xml</file_xml>
-		<chap_moi>chap 144</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>c.m.b.</ten_truyen>
-		<ma_truyen>c-m-b</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/1559/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/c-m-b-eng.xml</file_xml>
-		<chap_moi>chap 111.2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kyochuu rettou</ten_truyen>
-		<ma_truyen>kyochuu-rettou</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/36229/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kyochuu-rettou-eng.xml</file_xml>
-		<chap_moi>chap 43</chap_moi>
 	</truyen>
 </danh_sach_truyen>
