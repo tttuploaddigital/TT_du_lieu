@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>asgardians of the galaxy</ten_truyen>
+		<ma_truyen>asgardians-of-the-galaxy</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/asgardians-of-the-galaxy/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/asgardians-of-the-galaxy-eng.xml</file_xml>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>catwoman (2018)</ten_truyen>
+		<ma_truyen>catwoman-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/catwoman-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/catwoman-2018-eng.xml</file_xml>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
+		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
+		<chap_moi>issue 19</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hawkman (2018)</ten_truyen>
+		<ma_truyen>hawkman-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>winter soldier (2018)</ten_truyen>
+		<ma_truyen>winter-soldier-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/winter-soldier-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/winter-soldier-2018-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>titans (2016) </ten_truyen>
 		<ma_truyen>titans-2016</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/m/middlewest/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/middlewest-eng.xml</file_xml>
 		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>damage (2018)</ten_truyen>
-		<ma_truyen>damage-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/damage-2018-eng.xml</file_xml>
-		<chap_moi>issue 15</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>thor (2018)</ten_truyen>
-		<ma_truyen>thor-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thor-2018-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>naomi</ten_truyen>
-		<ma_truyen>naomi</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/naomi/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/naomi-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars (2015)</ten_truyen>
-		<ma_truyen>star-wars-2015</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
-		<chap_moi>issue 63</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>monstress</ten_truyen>
-		<ma_truyen>monstress</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/monstress/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/monstress-eng.xml</file_xml>
-		<chap_moi>issue 21</chap_moi>
 	</truyen>
 </danh_sach_truyen>

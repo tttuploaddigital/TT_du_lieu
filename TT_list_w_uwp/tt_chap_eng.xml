@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>asgardians of the galaxy</ten_truyen>
+		<ma_truyen>asgardians-of-the-galaxy</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/asgardians-of-the-galaxy/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/asgardians-of-the-galaxy-eng.xml</file_xml>
+		<chap_moi>issue 8</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>catwoman (2018)</ten_truyen>
+		<ma_truyen>catwoman-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/catwoman-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/catwoman-2018-eng.xml</file_xml>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
+		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
+		<chap_moi>issue 19</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hawkman (2018)</ten_truyen>
+		<ma_truyen>hawkman-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
+		<chap_moi>issue 11</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>winter soldier (2018)</ten_truyen>
+		<ma_truyen>winter-soldier-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/winter-soldier-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/winter-soldier-2018-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>issak</ten_truyen>
+		<ma_truyen>issak</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/d3/52/d3529053ee0da2d40fdb68f298314982b78e4c25_33880_200_283.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/issak-eng.xml</file_xml>
+		<chap_moi>chap 10</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>darwin's game</ten_truyen>
+		<ma_truyen>darwin-s-game</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
+		<chap_moi>chap 69</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>higanjima</ten_truyen>
+		<ma_truyen>higanjima</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/06/cc/06cc053af20c3a0dd0b2eb339fe1242e81d6195f_27651_200_284.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/higanjima-eng.xml</file_xml>
+		<chap_moi>chap 136</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>henjyo - hen na jyoshi kousei amaguri senko</ten_truyen>
+		<ma_truyen>henjyo-hen-na-jyoshi-kousei-amaguri-senko</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/32972/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/henjyo-hen-na-jyoshi-kousei-amaguri-senko-eng.xml</file_xml>
+		<chap_moi>chap 37</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tomodachi o tsukurou</ten_truyen>
+		<ma_truyen>tomodachi-o-tsukurou</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/42149/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomodachi-o-tsukurou-eng.xml</file_xml>
+		<chap_moi>chap 152</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>titans (2016) </ten_truyen>
 		<ma_truyen>titans-2016</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
@@ -244,75 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/38802/1/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mai-ball-eng.xml</file_xml>
 		<chap_moi>chap 107</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>adventures of the super sons</ten_truyen>
-		<ma_truyen>adventures-of-the-super-sons</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/adventures-of-the-super-sons/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/adventures-of-the-super-sons-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>uncanny x-men (2018)</ten_truyen>
-		<ma_truyen>uncanny-x-men-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/u/uncanny-x-men-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/uncanny-x-men-2018-eng.xml</file_xml>
-		<chap_moi>issue 15</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>deathstroke (2016)</ten_truyen>
-		<ma_truyen>deathstroke-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deathstroke-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deathstroke-2016-eng.xml</file_xml>
-		<chap_moi>issue 42</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the six million dollar man</ten_truyen>
-		<ma_truyen>the-six-million-dollar-man</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-six-million-dollar-man-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-six-million-dollar-man-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>paper girls</ten_truyen>
-		<ma_truyen>paper-girls</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/paper-girls/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/paper-girls-eng.xml</file_xml>
-		<chap_moi>issue 27</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>karate shoukoushi monogatari</ten_truyen>
-		<ma_truyen>karate-shoukoushi-monogatari</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/dd/ce/ddced0f7d9cbd222e654c803cd2bdfbfa962e8e0_28018_200_283.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/karate-shoukoushi-monogatari-eng.xml</file_xml>
-		<chap_moi>chap 41</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>caterpillar</ten_truyen>
-		<ma_truyen>caterpillar</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/28919/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/caterpillar-eng.xml</file_xml>
-		<chap_moi>chap 47</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gokushufudou: the way of the house husband</ten_truyen>
-		<ma_truyen>gokushufudou-the-way-of-the-house-husband</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1c/81/1c8179fca5157a2175838326afca8a93e11f6c58_41758_200_284.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokushufudou-the-way-of-the-house-husband-eng.xml</file_xml>
-		<chap_moi>chap 23</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>maou-jou de oyasumi</ten_truyen>
-		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
-		<chap_moi>chap 103</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>a story about treating a female knight who has never been treated as a woman as a woman</ten_truyen>
-		<ma_truyen>a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/8f/e1/8fe15f1cb81932edf231f9db984ce4e7f2d8866a_26986_200_281.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman-eng.xml</file_xml>
-		<chap_moi>chap 54</chap_moi>
 	</truyen>
 </danh_sach_truyen>
