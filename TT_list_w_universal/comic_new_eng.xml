@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="symbiote spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>symbiote spider-man</ten_truyen>
+		<ma_truyen>symbiote-spider-man</ma_truyen>
+        <tac_gia>Iban Coello, Greg Land</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/symbiote-spider-man/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Everyone knows that Spider-Man's infamous black suit would someday become the wicked web-slinger called Venom - but what happened BEFORE Peter Parker discovered the black suit's sinister secret? Find out in this dynamic tale from comics legends PETER DAVID and GREG LAND! Set during the original 'Black Suit Saga,' this is an all-new tale that pits the wall-crawling wonder against that most mystifying of menaces...MYSTERIO!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/symbiote-spider-man-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="doctor who: the thirteenth doctor" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv , Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>doctor who: the thirteenth doctor</ten_truyen>
+		<ma_truyen>doctor-who-the-thirteenth-doctor</ma_truyen>
+        <tac_gia>Richard Dinnick, Claudia Ianniciello, Mariano Laclaustra, Pasquale Qualano, Giorgia Sposito</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/doctor-who-the-thirteenth-doctor/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The ultimate celebration of Doctor Who - a perfect introduction for new fans and a brilliant tribute for long-time Whovians! When you die, your life flashes before your eyes - and the Doctor's had a lot of lives! The Thirteenth Doctor relives unseen adventures from all her past selves!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doctor-who-the-thirteenth-doctor-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="ronin island" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Historical, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>ronin island</ten_truyen>
+		<ma_truyen>ronin-island</ma_truyen>
+        <tac_gia>Greg Pak, Giannis Milonogiannis</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/ronin-island/1_medium.jpg</hinh_nho>
+        <gioi_thieu>After a mysterious attack wipes out the major cities of 19th century Japan, Korea, and China, survivors from all three lands find refuge on a hidden island and build a new society. Hana, the orphaned daughter of Korean peasants, and Kenichi, son of a great samurai leader, have little in common except for a mutual disdain for the other. But these young warriors will have to work together when an army invades the island with shocking news: there is a new Shogun and the Island is expected to pay fealty in exchange for protection from a new enemy...a mutated horde that threatens to wipe out all humanity. Award-winning writer Greg Pak (Firefly, Mech Cadet Yu) and artist Giannis Milonogiannis (Prophet) present a story that examines how we move forward when our past divides, set against the backdrop of a post-disaster 19th century Japan.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ronin-island-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the empty man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the empty man (2018)</ten_truyen>
+		<ma_truyen>the-empty-man-2018</ma_truyen>
+        <tac_gia>Cullen Bunn, Jesus Hervas</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-empty-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Horror sensation Cullen Bunn (Harrow County, Bone Parish) returns to the world of Empty Man with artist Jesus Hervas (Lucas Stand, Clive Barker's Hellraiser) in this new ongoing series. The nation is in the grip of a terrible pandemic. The so-called Empty Man disease causes insanity and violence. Government quarantines are mandatory. One of the afflicted is Melissa Kerry, and the next step should be to quarantine her-but those who enter quarantine are never seen again. Melissa's family won't let that happen. All they have to do is care for her, keep her worsening condition a secret—and they'll do anything, trust anyone, to keep her safe.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-empty-man-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="house of whispers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>house of whispers</ten_truyen>
+		<ma_truyen>house-of-whispers</ma_truyen>
+        <tac_gia>Nalo Hopkinson, Dominike 'Domo' Stanton</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/house-of-whispers-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Welcome to the House of Dahomey, the houseboat of Erzulie Freda, where the souls of Voodoo followers go when they sleep to beseech the flirtatious and tragic goddess to grant them their hearts' desires and counsel them on their futures and fortunes. When you arrive, you'll find a party is in full swing, filled with all kinds of fabulous and fierce folk, while fish fry and music blasts. From her bayou, Erzulie scries upon the mortal realm and sees four human girls open a mysterious and magical journal filled with whispers and rumors that, if they spread, could cause a pandemic unlike any the Earth has seen, with the power to release Sopona, the loa lord of infectious disease and cousin to Erzulie, who is currently banned from the human plane. But even the fearsome Erzulie cannot be of assistance when her dream river turns tumultuous, tossing her house from her realm and into another...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/house-of-whispers-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="star wars: vader - dark visions" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>star wars: vader - dark visions</ten_truyen>
 		<ma_truyen>star-wars-vader-dark-visions</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/n/naomi/1_medium.jpg</hinh_nho>
         <gioi_thieu>DC's biggest, newest mystery starts here! When a fight between Superman and Mongul crashes into a small Northwestern town, Naomi (last name?) begins a quest to uncover the last time a super-powered person visited her home-and how that might tie into her own origins and adoption. Follow Naomi's journey on a quest that will take her to the heart of the DC Universe and unfold a universe of ideas and stories that have never been seen before. Join writers Brian Michael Bendis, David Walker and breakout artist Jamal Campbell in Wonder Comics' massively ambitious new series and star... NAOMI.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/naomi-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="wolverine: the long night" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>wolverine: the long night</ten_truyen>
-		<ma_truyen>wolverine-the-long-night</ma_truyen>
-        <tac_gia>Benjamin Percy, Marcio Takara</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wolverine-the-long-night-adaptation/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Following a string of mysterious deaths in Burns, Alaska, Special Agents Sally Pierce and Tad Marshall arrive to investigate. They soon find there's more going on than meets the eye... Marvel's hit scripted podcast, 'Wolverine: The Dark Night,' comes to life on the page! Chilling twists and turns, brought to you by the original author of the podcast, Benjamin Percy, and the art talents of Marcio Takara!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wolverine-the-long-night-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="black widow (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Spy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>black widow (2019)</ten_truyen>
-		<ma_truyen>black-widow-2019</ma_truyen>
-        <tac_gia>Jen Soska, Sylvia Soska, Flaviano</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/black-widow-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Natasha Romanoff was trained to kill. For years now she's tried to overcome that programming, to side with the angels...to be a hero. And where'd that get her? Killed. By one of the few true friends she allowed herself to have. Now she's back from the dead, angry as hell and finding those better angels harder and harder to hear. Jen and Sylvia Soska - the Twisted Twins of horror - join rising artist Flaviano to weave a web of vice, violence and vengeance that will net Natasha the biggest bad men she's ever faced... or put her back in the ground for good.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-widow-2019-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="barbarella / dejah thoris" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Leading ladies, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>barbarella / dejah thoris</ten_truyen>
-		<ma_truyen>barbarella-dejah-thoris</ma_truyen>
-        <tac_gia>Leah Williams, German Garcia</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarelladejah-thoris/1_medium.jpg</hinh_nho>
-        <gioi_thieu>From opposite ends of time, two heroines unite for an otherworldly adventure! Barbarella, the siren of space, meets Dejah Thoris, Princess of Barsoom, and together they must solve a murder mystery that spans time and space in order to find their way home. Leah Williams (Adventure Time Comics, X-Men: Black) teams with German Garcia (Action Comics, X-men) for a fun, deadly, mind-bending epic!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-dejah-thoris-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="babyteeth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>babyteeth</ten_truyen>
-		<ma_truyen>babyteeth</ma_truyen>
-        <tac_gia>Donny Cates, Garry Brown</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/babyteeth/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Sadie Ritter is sixteen years old, nine months pregnant, and scared out of her sweet nerdy mind. Having a baby that young is tough, but with the support of her loving family behind her, everything should be okay. OH YEAH, and also her baby is the antichrist and it's going to break open the barriers between the earthly and demonic planes and unleash eternal suffering to all of humankind. Other than that, though...should be fine.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/babyteeth-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="invaders (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>invaders (2019)</ten_truyen>
-		<ma_truyen>invaders-2019</ma_truyen>
-        <tac_gia>Chip Zdarsky, Butch Guice, Carlos Magno</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/invaders-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE GREATEST GENERATION OF MARVEL HEROES IS BACK - TO STOP ONE OF THEIR OWN! In commemoration of Marvel's 80th anniversary and springing from events in the pages of AVENGERS and THE BEST DEFENSE, the Marvel Universe's first super-team is back! CAPTAIN AMERICA. THE HUMAN TORCH. THE WINTER SOLDIER. NAMOR. They fought in WORLD WAR II together as THE INVADERS. But now NAMOR is the enemy, a global threat more powerful than ever. His deadly plans are as deep and far-reaching as the ocean and REVELATIONS about his past could THREATEN the MARVEL UNIVERSE! It's up to his old teammates to stop him, but what chance do they have against the man who knows their every move? 'War Ghost' begins here!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invaders-2019-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="symbiote spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>symbiote spider-man</ten_truyen>
+		<ma_truyen>symbiote-spider-man</ma_truyen>
+        <tac_gia>Iban Coello, Greg Land</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/symbiote-spider-man/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Everyone knows that Spider-Man's infamous black suit would someday become the wicked web-slinger called Venom - but what happened BEFORE Peter Parker discovered the black suit's sinister secret? Find out in this dynamic tale from comics legends PETER DAVID and GREG LAND! Set during the original 'Black Suit Saga,' this is an all-new tale that pits the wall-crawling wonder against that most mystifying of menaces...MYSTERIO!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/symbiote-spider-man-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="doctor who: the thirteenth doctor" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv , Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>doctor who: the thirteenth doctor</ten_truyen>
+		<ma_truyen>doctor-who-the-thirteenth-doctor</ma_truyen>
+        <tac_gia>Richard Dinnick, Claudia Ianniciello, Mariano Laclaustra, Pasquale Qualano, Giorgia Sposito</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/doctor-who-the-thirteenth-doctor/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The ultimate celebration of Doctor Who - a perfect introduction for new fans and a brilliant tribute for long-time Whovians! When you die, your life flashes before your eyes - and the Doctor's had a lot of lives! The Thirteenth Doctor relives unseen adventures from all her past selves!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doctor-who-the-thirteenth-doctor-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="ronin island" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Historical, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>ronin island</ten_truyen>
+		<ma_truyen>ronin-island</ma_truyen>
+        <tac_gia>Greg Pak, Giannis Milonogiannis</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/ronin-island/1_medium.jpg</hinh_nho>
+        <gioi_thieu>After a mysterious attack wipes out the major cities of 19th century Japan, Korea, and China, survivors from all three lands find refuge on a hidden island and build a new society. Hana, the orphaned daughter of Korean peasants, and Kenichi, son of a great samurai leader, have little in common except for a mutual disdain for the other. But these young warriors will have to work together when an army invades the island with shocking news: there is a new Shogun and the Island is expected to pay fealty in exchange for protection from a new enemy...a mutated horde that threatens to wipe out all humanity. Award-winning writer Greg Pak (Firefly, Mech Cadet Yu) and artist Giannis Milonogiannis (Prophet) present a story that examines how we move forward when our past divides, set against the backdrop of a post-disaster 19th century Japan.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ronin-island-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the empty man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the empty man (2018)</ten_truyen>
+		<ma_truyen>the-empty-man-2018</ma_truyen>
+        <tac_gia>Cullen Bunn, Jesus Hervas</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-empty-man-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Horror sensation Cullen Bunn (Harrow County, Bone Parish) returns to the world of Empty Man with artist Jesus Hervas (Lucas Stand, Clive Barker's Hellraiser) in this new ongoing series. The nation is in the grip of a terrible pandemic. The so-called Empty Man disease causes insanity and violence. Government quarantines are mandatory. One of the afflicted is Melissa Kerry, and the next step should be to quarantine her-but those who enter quarantine are never seen again. Melissa's family won't let that happen. All they have to do is care for her, keep her worsening condition a secret—and they'll do anything, trust anyone, to keep her safe.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-empty-man-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="house of whispers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>house of whispers</ten_truyen>
+		<ma_truyen>house-of-whispers</ma_truyen>
+        <tac_gia>Nalo Hopkinson, Dominike 'Domo' Stanton</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/house-of-whispers-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Welcome to the House of Dahomey, the houseboat of Erzulie Freda, where the souls of Voodoo followers go when they sleep to beseech the flirtatious and tragic goddess to grant them their hearts' desires and counsel them on their futures and fortunes. When you arrive, you'll find a party is in full swing, filled with all kinds of fabulous and fierce folk, while fish fry and music blasts. From her bayou, Erzulie scries upon the mortal realm and sees four human girls open a mysterious and magical journal filled with whispers and rumors that, if they spread, could cause a pandemic unlike any the Earth has seen, with the power to release Sopona, the loa lord of infectious disease and cousin to Erzulie, who is currently banned from the human plane. But even the fearsome Erzulie cannot be of assistance when her dream river turns tumultuous, tossing her house from her realm and into another...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/house-of-whispers-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="acma:game" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mystery, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>acma:game</ten_truyen>
 		<ma_truyen>acma-game</ma_truyen>
@@ -360,49 +405,4 @@
 		<gioi_thieu>Teppei Sakamoto is a boy living in the countryside. He loves soccer, and all his soccer skills were taught to him by his sister. Finally, his sister wants him to join in Mizumoto High School soccer team. Teppei's turn in life has come!! How will this soccer newbie fare in the new environment?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fantasista-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="winter soldier (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>winter soldier (2018)</ten_truyen>
-		<ma_truyen>winter-soldier-2018</ma_truyen>
-        <tac_gia>Kyle Higgins, Rod Reis</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/winter-soldier-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Bucky Barnes believes in second chances. Having escaped death, the loss of identity, and a life of murder, the man known as the Winter Soldier has worked hard to atone for his sins. But now...he's going to go one step further. What do you do when you've found redemption? You help others do the same. From KYLE HIGGINS (Nightwing, Power Rangers, C.O.W.L.) and ROD REIS (SECRET EMPIRE, DOCTOR STRANGE: DAMNATION, C.O.W.L.) comes the next chapter in the saga of the Winter Soldier. He's becoming a 'fixer,' working to help others leave behind lives of crime. It's Bucky's way of channeling his own pain in a productive, personal way...by helping others find the redemption that he found. However, as Bucky is going to learn, not all paths are the same... and not everyone can be 'saved.'</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/winter-soldier-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="robyn hood: outlaw" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>robyn hood: outlaw</ten_truyen>
-		<ma_truyen>robyn-hood-outlaw</ma_truyen>
-        <tac_gia>Howard Mackie, Babisu Kourtis</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/robyn-hood-outlaw/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Returning from her last adventure, Robyn is back in New York, and looking for some sort of normalcy. But not everyone feels she deserves any, the universe included. After a close friend is attacked, Robyn must take it upon herself to get to the bottom of this mystery as she is pitted against her greatest adversary yet, when she becomes public enemy number one, to the city she calls home. Don't miss this fast paced bare-knuckle, new series, Robyn Hood: Outlaw!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robyn-hood-outlaw-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="transformers (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>transformers (2019)</ten_truyen>
-		<ma_truyen>transformers-2019</ma_truyen>
-        <tac_gia>Brian Ruckley, Angel Hernandez, Cachet Whitman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A NEW ERA DAWNS! In the infinite universe, there exists a planet like no other: Cybertron! Home to the Transformers, and a thriving hub for inter-stellar commerce, it is a world brimming with organic and constructed diversity. Immense structures line its landscape. Mechanical giants roam across its surface. Starship-sized titans orbit its skies, keeping a constant protective watch above and below. Ancient Transformers merge into its very fabric. Small, mysterious creatures skulk in its shadows. It is a truly amazing realm, long untouched by war, and exuberantly reaching for the stars. This is the Cybertron that Optimus Prime and Megatron vie for in this bold new origin-a world of seemingly endless peace! All that changes when Bumblebee and Windblade take a newly-forged Cybertronian on his first voyage through this world of wonders-they are confronted by the hard reality of the first murder to have occurred on Cybertron in living memory!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-2019-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="grimm tales of terror (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>grimm tales of terror (2018)</ten_truyen>
-		<ma_truyen>grimm-tales-of-terror-2018</ma_truyen>
-        <tac_gia>Joe Brusha, Sean Hill, Babisu Kourtis</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-tales-of-terror-vol-4/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The hit Zenescope horror series is back, and not only as a comic, but also as a soon-to-be-released motion picture. The first issue in this new volume ties into the upcoming film and continues the series tradition of delivering modern horror with truly terrifying twists.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/grimm-tales-of-terror-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the stone king" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the stone king</ten_truyen>
-		<ma_truyen>the-stone-king</ma_truyen>
-        <tac_gia>Kel McDonald, Tyler Crook</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-stone-king/1_medium.jpg</hinh_nho>
-        <gioi_thieu>When you become an adult, you have to prove yourself, at least that's how it works for the Stoneport thieves. Ave has decided to illegally harvest healing moss from the Stone King, a mighty giant who roams the lands. Her theft goes even better than she could have dreamed. The biggest gem she's ever seen is her prize. But is that prize worth the consequences? Part of the comiXology Originals line of exclusive digital content only available on comiXology and Kindle. This title is available as part of comiXology Unlimited, Kindle Unlimited and Prime Reading.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-stone-king-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
