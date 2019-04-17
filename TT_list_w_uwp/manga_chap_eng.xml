@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>eden's zero</ten_truyen>
+		<ma_truyen>eden-s-zero</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/eb/36/eb36df4b390a69a81498ebd021956adfe1fb9514_39872_200_297.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
+		<chap_moi>chap 40</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hatsukoi zombie</ten_truyen>
+		<ma_truyen>hatsukoi-zombie</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/38108/6/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hatsukoi-zombie-eng.xml</file_xml>
+		<chap_moi>chap 167</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
+		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuragi-sou-no-yuuna-san-eng.xml</file_xml>
+		<chap_moi>chap 155</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>saotome girl, hitakakusu</ten_truyen>
+		<ma_truyen>saotome-girl-hitakakusu</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/db/25/db259350fcd577e4e96b29bd68353cd0a8b0ded1_34318_200_310.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saotome-girl-hitakakusu-eng.xml</file_xml>
+		<chap_moi>chap 106</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hajime no ippo</ten_truyen>
+		<ma_truyen>hajime-no-ippo</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/fa/20/fa205ccbb16cd361708fd290b2649732f3f75638_36159_200_306.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajime-no-ippo-eng.xml</file_xml>
+		<chap_moi>ch. 1259</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>issak</ten_truyen>
 		<ma_truyen>issak</ma_truyen>
         <hinh_nho>https://file-thumb.anyacg.co/W600/d3/52/d3529053ee0da2d40fdb68f298314982b78e4c25_33880_200_283.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/fa/20/fa205ccbb16cd361708fd290b2649732f3f75638_36159_200_306.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajime-no-ippo-eng.xml</file_xml>
 		<chap_moi>ch. 1258</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 938</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yakusoku no neverland</ten_truyen>
-		<ma_truyen>yakusoku-no-neverland</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/42944/5/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yakusoku-no-neverland-eng.xml</file_xml>
-		<chap_moi>chap 129</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tsuyokute new saga</ten_truyen>
-		<ma_truyen>tsuyokute-new-saga</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/26907/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsuyokute-new-saga-eng.xml</file_xml>
-		<chap_moi>chap 61</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kenja no mago</ten_truyen>
-		<ma_truyen>kenja-no-mago</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41420/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kenja-no-mago-eng.xml</file_xml>
-		<chap_moi>chap 31</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>domestic na kanojo</ten_truyen>
-		<ma_truyen>domestic-na-kanojo</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/29089/10/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/domestic-na-kanojo-eng.xml</file_xml>
-		<chap_moi>chap 224</chap_moi>
 	</truyen>
 </danh_sach_truyen>

@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>x-force (2018)</ten_truyen>
+		<ma_truyen>x-force-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-force-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-force-2018-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>age of x-man: apocalypse and the x-tracts</ten_truyen>
+		<ma_truyen>age-of-x-man-apocalypse-and-the-x-tracts</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-apocalypse--the-x-tracts/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-apocalypse-and-the-x-tracts-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the batman who laughs</ten_truyen>
+		<ma_truyen>the-batman-who-laughs</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-batman-who-laughs-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-batman-who-laughs-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>avengers: no road home</ten_truyen>
+		<ma_truyen>avengers-no-road-home</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-no-road-home/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-no-road-home-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>age of x-man: the marvelous x-men</ten_truyen>
+		<ma_truyen>age-of-x-man-the-marvelous-x-men</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-the-marvelous-x-men/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-the-marvelous-x-men-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>asgardians of the galaxy</ten_truyen>
 		<ma_truyen>asgardians-of-the-galaxy</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/a/asgardians-of-the-galaxy/1_medium.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/s/skyward-(2018)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/skyward-2018-eng.xml</file_xml>
 		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>avengers (2018)</ten_truyen>
-		<ma_truyen>avengers-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-2018-eng.xml</file_xml>
-		<chap_moi>issue 17</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wolverine: infinity watch</ten_truyen>
-		<ma_truyen>wolverine-infinity-watch</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wolverine-infinity-watch/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wolverine-infinity-watch-eng.xml</file_xml>
-		<chap_moi>issue 2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>miles morales: spider-man</ten_truyen>
-		<ma_truyen>miles-morales-spider-man</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/miles-morales-spider-man-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/miles-morales-spider-man-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nightwing (2016)</ten_truyen>
-		<ma_truyen>nightwing-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/nightwing-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/nightwing-2016-eng.xml</file_xml>
-		<chap_moi>issue 58</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>middlewest</ten_truyen>
-		<ma_truyen>middlewest</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/middlewest/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/middlewest-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
 	</truyen>
 </danh_sach_truyen>

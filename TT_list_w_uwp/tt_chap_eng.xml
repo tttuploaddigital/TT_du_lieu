@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>x-force (2018)</ten_truyen>
+		<ma_truyen>x-force-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-force-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-force-2018-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>age of x-man: apocalypse and the x-tracts</ten_truyen>
+		<ma_truyen>age-of-x-man-apocalypse-and-the-x-tracts</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-apocalypse--the-x-tracts/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-apocalypse-and-the-x-tracts-eng.xml</file_xml>
+		<chap_moi>issue 2</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the batman who laughs</ten_truyen>
+		<ma_truyen>the-batman-who-laughs</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-batman-who-laughs-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-batman-who-laughs-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>avengers: no road home</ten_truyen>
+		<ma_truyen>avengers-no-road-home</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-no-road-home/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-no-road-home-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>age of x-man: the marvelous x-men</ten_truyen>
+		<ma_truyen>age-of-x-man-the-marvelous-x-men</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-the-marvelous-x-men/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-the-marvelous-x-men-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>eden's zero</ten_truyen>
+		<ma_truyen>eden-s-zero</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/eb/36/eb36df4b390a69a81498ebd021956adfe1fb9514_39872_200_297.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
+		<chap_moi>chap 40</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hatsukoi zombie</ten_truyen>
+		<ma_truyen>hatsukoi-zombie</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/38108/6/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hatsukoi-zombie-eng.xml</file_xml>
+		<chap_moi>chap 167</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>yuragi-sou no yuuna-san</ten_truyen>
+		<ma_truyen>yuragi-sou-no-yuuna-san</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40606/10/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuragi-sou-no-yuuna-san-eng.xml</file_xml>
+		<chap_moi>chap 155</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>saotome girl, hitakakusu</ten_truyen>
+		<ma_truyen>saotome-girl-hitakakusu</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/db/25/db259350fcd577e4e96b29bd68353cd0a8b0ded1_34318_200_310.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saotome-girl-hitakakusu-eng.xml</file_xml>
+		<chap_moi>chap 106</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hajime no ippo</ten_truyen>
+		<ma_truyen>hajime-no-ippo</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/fa/20/fa205ccbb16cd361708fd290b2649732f3f75638_36159_200_306.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajime-no-ippo-eng.xml</file_xml>
+		<chap_moi>ch. 1259</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>asgardians of the galaxy</ten_truyen>
 		<ma_truyen>asgardians-of-the-galaxy</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/a/asgardians-of-the-galaxy/1_medium.jpg</hinh_nho>
@@ -244,75 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kumo-desu-ga-nani-ka-eng.xml</file_xml>
 		<chap_moi>chap 35.2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars (2015)</ten_truyen>
-		<ma_truyen>star-wars-2015</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
-		<chap_moi>issue 64</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>young justice (2019)</ten_truyen>
-		<ma_truyen>young-justice-2019</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/y/young-justice-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/young-justice-2019-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>captain america (2018)</ten_truyen>
-		<ma_truyen>captain-america-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-america-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-america-2018-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>harley quinn (2016)</ten_truyen>
-		<ma_truyen>harley-quinn-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
-		<chap_moi>issue 60</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>deadpool (2018)</ten_truyen>
-		<ma_truyen>deadpool-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-2018-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>fate/extra ccc - foxtail</ten_truyen>
-		<ma_truyen>fate-extra-ccc-foxtail</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41861/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fate-extra-ccc-foxtail-eng.xml</file_xml>
-		<chap_moi>chap 50</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanbaka</ten_truyen>
-		<ma_truyen>nanbaka</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/9d/cb/9dcb8369a049329c4760a164a697766f78d1f6b0_44616_200_284.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanbaka-eng.xml</file_xml>
-		<chap_moi>chap 145</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hawkwood</ten_truyen>
-		<ma_truyen>hawkwood</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/41/c3/41c3b07ecdfbc8c3b966005836ed18f26d5649bc_33350_200_286.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hawkwood-eng.xml</file_xml>
-		<chap_moi>chap 31</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>badboys</ten_truyen>
-		<ma_truyen>badboys</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/66/74/667416ce0e5f3ee8a937ed7f340f88e9bd1c2c8a_27600_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/badboys-eng.xml</file_xml>
-		<chap_moi>chap 89</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mai ball!</ten_truyen>
-		<ma_truyen>mai-ball</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/38802/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mai-ball-eng.xml</file_xml>
-		<chap_moi>chap 107</chap_moi>
 	</truyen>
 </danh_sach_truyen>
