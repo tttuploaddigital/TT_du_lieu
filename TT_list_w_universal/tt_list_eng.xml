@@ -3006,14 +3006,14 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>The series that sets up the epic VENOM EVENT of 2017 STARTS HERE! Each issue introduces another major Venomized character that will feed into VENOMVERSE itself! THIS ISSUE, the young mutant clone designated X-23 collides with a cryogenic tube containing a strange alien symbiote during her frenzied escape from The Facility, . Bonding with the alien enhances her already considerable abilities, and aids in her escape, but it begins to alter her mind! On the run from the very people that made her, can X-23 hold it together or is she doomed to give in to Venom!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/edge-of-venomverse-eng.xml</file_xml>
     </truyen>
-	<truyen ten="electric warriors" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="electric warriors" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>electric warriors</ten_truyen>
 		<ma_truyen>electric-warriors</ma_truyen>
         <tac_gia>Steve Orlando, Travel Foreman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/e/electric-warriors/1_medium.jpg</hinh_nho>
         <gioi_thieu>A new tale of the future DC Universe, set in a previously unexplored timeline-the Cosmic Dark Age! Years after the Great Disaster, the Earth has started to rebuild and rejoin the universal coalition. In order to prevent a galactic war, different worlds throughout the known cosmos have created a new system of competitive combat to give each participating planet their own voice in the intergalactic struggle. Each world has one diplomatic gladiator, chosen to possess the Electric Seed and fight for their homeland as the Electric Warrior!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/electric-warriors-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/electric-warriors-eng.xml</file_xml>
     </truyen>
 	<truyen ten="enen no shouboutai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>enen no shouboutai</ten_truyen>
