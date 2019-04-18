@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
+		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
+        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
+		<chap_moi>chap 23</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>isekai tensei soudouki</ten_truyen>
+		<ma_truyen>isekai-tensei-soudouki</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/32865/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-tensei-soudouki-eng.xml</file_xml>
+		<chap_moi>chap 43</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hajimete no gal</ten_truyen>
+		<ma_truyen>hajimete-no-gal</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41576/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajimete-no-gal-eng.xml</file_xml>
+		<chap_moi>chap 71</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>koi inu.</ten_truyen>
+		<ma_truyen>koi-inu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/33554/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-inu-eng.xml</file_xml>
+		<chap_moi>chap 172</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kakao 79%</ten_truyen>
+		<ma_truyen>kakao-79</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41590/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakao-79-eng.xml</file_xml>
+		<chap_moi>chap 166</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>eden's zero</ten_truyen>
 		<ma_truyen>eden-s-zero</ma_truyen>
         <hinh_nho>https://file-thumb.anyacg.co/W300/eb/36/eb36df4b390a69a81498ebd021956adfe1fb9514_39872_200_297.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/8728/4/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/seitokai-yakuindomo-eng.xml</file_xml>
 		<chap_moi>chap 515</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kingdom  </ten_truyen>
-		<ma_truyen>kingdom</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
-		<chap_moi>chap 595</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>nanatsu no taizai</ten_truyen>
-		<ma_truyen>nanatsu-no-taizai</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47/25/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nanatsu-no-taizai-eng.xml</file_xml>
-		<chap_moi>chap 306</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>toaru ossan no vrmmo katsudouki</ten_truyen>
-		<ma_truyen>toaru-ossan-no-vrmmo-katsudouki</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/27069/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/toaru-ossan-no-vrmmo-katsudouki-eng.xml</file_xml>
-		<chap_moi>chap 52.2</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mushoku tensei - isekai ittara honki dasu</ten_truyen>
-		<ma_truyen>mushoku-tensei-isekai-ittara-honki-dasu</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/27951/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mushoku-tensei-isekai-ittara-honki-dasu-eng.xml</file_xml>
-		<chap_moi>chap 51.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hajime no ippo</ten_truyen>
-		<ma_truyen>hajime-no-ippo</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/fa/20/fa205ccbb16cd361708fd290b2649732f3f75638_36159_200_306.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajime-no-ippo-eng.xml</file_xml>
-		<chap_moi>ch. 1258</chap_moi>
 	</truyen>
 </danh_sach_truyen>

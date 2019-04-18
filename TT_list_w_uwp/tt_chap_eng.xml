@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>wolverine: infinity watch</ten_truyen>
+		<ma_truyen>wolverine-infinity-watch</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wolverine-infinity-watch/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wolverine-infinity-watch-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>aquaman (2016)</ten_truyen>
+		<ma_truyen>aquaman-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/a/aquaman-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/aquaman-2016-eng.xml</file_xml>
+		<chap_moi>issue 47</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>miles morales: spider-man</ten_truyen>
+		<ma_truyen>miles-morales-spider-man</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/miles-morales-spider-man-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/miles-morales-spider-man-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>electric warriors</ten_truyen>
+		<ma_truyen>electric-warriors</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/electric-warriors/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/electric-warriors-eng.xml</file_xml>
+		<chap_moi>issue 6</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>x-o manowar (2017)</ten_truyen>
+		<ma_truyen>x-o-manowar-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-o-manowar-(2017)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-o-manowar-2017-eng.xml</file_xml>
+		<chap_moi>issue 26</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
+		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
+        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
+		<chap_moi>chap 23</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>isekai tensei soudouki</ten_truyen>
+		<ma_truyen>isekai-tensei-soudouki</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/32865/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-tensei-soudouki-eng.xml</file_xml>
+		<chap_moi>chap 43</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hajimete no gal</ten_truyen>
+		<ma_truyen>hajimete-no-gal</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41576/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajimete-no-gal-eng.xml</file_xml>
+		<chap_moi>chap 71</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>koi inu.</ten_truyen>
+		<ma_truyen>koi-inu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/33554/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-inu-eng.xml</file_xml>
+		<chap_moi>chap 172</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kakao 79%</ten_truyen>
+		<ma_truyen>kakao-79</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/41590/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakao-79-eng.xml</file_xml>
+		<chap_moi>chap 166</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>x-force (2018)</ten_truyen>
 		<ma_truyen>x-force-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/x/x-force-(2018)/1_medium.jpg</hinh_nho>
@@ -244,75 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/30485/2/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/autophagy-regulation-eng.xml</file_xml>
 		<chap_moi>chap 226</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>supergirl (2016)</ten_truyen>
-		<ma_truyen>supergirl-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/supergirl-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/supergirl-2016-eng.xml</file_xml>
-		<chap_moi>issue 29</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>spider-man / deadpool</ten_truyen>
-		<ma_truyen>spider-man-deadpool</ma_truyen>
-        <hinh_nho>https://images-na.ssl-images-amazon.com/images/I/61pFDQdn%2BJL._SY346_.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-man-deadpool-eng.xml</file_xml>
-		<chap_moi>issue 49</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wonder twins</ten_truyen>
-		<ma_truyen>wonder-twins</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-twins-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-twins-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dead man logan</ten_truyen>
-		<ma_truyen>dead-man-logan</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dead-man-logan/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dead-man-logan-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>invaders (2019)</ten_truyen>
-		<ma_truyen>invaders-2019</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/invaders-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invaders-2019-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 939</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>black clover</ten_truyen>
-		<ma_truyen>black-clover</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
-		<chap_moi>chap 201</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>beastars</ten_truyen>
-		<ma_truyen>beastars</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
-		<chap_moi>chap 124</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>usogui</ten_truyen>
-		<ma_truyen>usogui</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
-		<chap_moi>chap 237</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
-		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kumo-desu-ga-nani-ka-eng.xml</file_xml>
-		<chap_moi>chap 35.2</chap_moi>
 	</truyen>
 </danh_sach_truyen>
