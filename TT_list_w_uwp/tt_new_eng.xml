@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="bobobo-bo-bo-bobo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>bobobo-bo-bo-bobo</ten_truyen>
+		<ma_truyen>bobobo-bo-bo-bobo</ma_truyen>
+		<tac_gia>Sawai Yoshio</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/45/a2/45a22336d63d375db8794e45b2d8e4796a2d2994_28459_200_312.jpg</hinh_nho>
+		<gioi_thieu>In the year 300X, a cruel dictator has mandated the hunting of all hair in the Maruhage Empire. But a single man rises to the occasion and takes a stand against this violation of human hair rights. Bo-bobo, master of Fist of the Nose Hair, uses the prehensile hairs of his schnoz to most lethal ends. Follow the nonsensical adventures of Bo-bobo and his sentient sidekick snacks as they lead their hilarious rebellion against the Empire.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bobobo-bo-bo-bobo-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="bakemonogatari" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Horror, Mystery, Psychological, Romance, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>bakemonogatari</ten_truyen>
+		<ma_truyen>bakemonogatari</ma_truyen>
+		<tac_gia>Nishio Ishin, Oh! Great</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/c7/2d/c72ddae9a94b8a08772a291430e2c031fcb38bd3_32092_200_284.jpg</hinh_nho>
+		<gioi_thieu>Bakemonogatari centers on Koyomi Araragi, a third year high school student who is almost human again after briefly becoming a vampire. One day, a classmate named Hitagi Senjougahara, who infamously never talks to anyone, falls down the stairs into Koyomi's arms. He discovers that Hitagi weighs next to nothing, in defiance of physics. After being threatened by her, Koyomi offers his help, and introduces her to Meme Oshino, a strange middle-aged man living in an abandoned building, who cured him of being a vampire....</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bakemonogatari-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="magical change" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Gender bender, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>magical change</ten_truyen>
+		<ma_truyen>magical-change</ma_truyen>
+		<tac_gia>Homerun Ken</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/a7/e2/a7e2366be66e4bf1ea3e7f51240ce5fa72490312_28323_200_285.jpg</hinh_nho>
+		<gioi_thieu>A high-school boy named Manaka Hiromi is given the magical power of the Red Garnet Princess to defeat the Devil King who is trying to escape Hell (or something like that). Unfortunately for him he's also given the sort of body that comes with the job description.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/magical-change-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="ikenie touhyou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Mystery, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>ikenie touhyou</ten_truyen>
+		<ma_truyen>ikenie-touhyou</ma_truyen>
+		<tac_gia>Kasai Ryuuya, Edogawa Edogawa</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/0e/ef/0eef2363cb6e56d9cf0532a797f45fc88c4f5dde_42242_200_310.jpg</hinh_nho>
+		<gioi_thieu>Life at the Yanagizawa private high school is boring for all attending students who prefer to stare at their smartphones for most of the day, just playing games and chatting to each other. Everyone's dormant lifestyle though seems to awaken when they are asked to vote for a classmate who will be asked to clear a task or otherwise become the 'sacrifice' and suffer a 'social death'! What does this mean though? Who will be the first one to be voted and what is a 'social death'? The students will find out very soon that some games are far from innocent...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ikenie-touhyou-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tongari boushi no atelier" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Drama, Fantasy, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>tongari boushi no atelier</ten_truyen>
+		<ma_truyen>tongari-boushi-no-atelier</ma_truyen>
+		<tac_gia>Shirahama Kamome</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/55/c2/55c2d9d3412d898cf8db17bc13ed4f968c725e17_48358_200_310.jpg</hinh_nho>
+		<gioi_thieu>A girl in a small village. Coco always wanted to be a wizard. But those who can not use magic since birth can not become wizards, so she had given up her dream of becoming a wizard. However, one day, a magician visited the village. This is the story of despair and hope that visited the girl.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tongari-boushi-no-atelier-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="symbiote spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>symbiote spider-man</ten_truyen>
 		<ma_truyen>symbiote-spider-man</ma_truyen>
@@ -360,49 +405,4 @@
         <gioi_thieu>Gretel's story has been more nightmare than fairy tale ever since the tragic events of her childhood involving her brother and a maniacal witch. These events have left her cursed with a life that will span centuries. Picking up directly after her heart-wrenching debut in Grimm Universe Presents. After consuming the heart of a psychic witch, Gretel has been gifted the power of premonition. But when she has a psychic vision foretelling the end of the world, Gretel must open old wounds if she wants to try and prevent it from coming true. Introducing a new corner of the Grimm Universe, this will be one series you won't want to miss!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gretel-eng.xml</file_xml>
     </truyen>
-	<truyen ten="mairimashita! iruma-kun" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>mairimashita! iruma-kun</ten_truyen>
-		<ma_truyen>mairimashita-iruma-kun</ma_truyen>
-		<tac_gia>Nishi Osamu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/38/1a/381a9747c56d9be63a80f95d32b8949f6634e293_45980_200_308.jpg</hinh_nho>
-		<gioi_thieu>Mairimashita! Iruma-kun is the story of Suzuki Iruma, who has been sold to the demon by his irresponsible parents in exchange for money. Surprisingly, next thing he knows, he is living with the demon and has been transferred into a school from Demon World. We invite you to follow Iruma-kun's extraordinary school life.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mairimashita-iruma-kun-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gakkou gurashi!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mature, Mystery, Psychological, School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gakkou gurashi!</ten_truyen>
-		<ma_truyen>gakkou-gurashi</ma_truyen>
-		<tac_gia>Kaihou Norimitsu, Chiba Sadoru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/d4/f5/d4f5de06e6665f6669b97678d892c721aa6270f6_35199_200_290.jpg</hinh_nho>
-		<gioi_thieu>Three high-school girls and a teacher are camping at school. The First Article of the 'School Life Club' Code reads: The School Life Club encourages a spirit of self-governing independence by camping at school, as well as socializing with various after-school clubs, which you can't enjoy from regular classes alone.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gakkou-gurashi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="jujutsu kaisen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>jujutsu kaisen</ten_truyen>
-		<ma_truyen>jujutsu-kaisen</ma_truyen>
-		<tac_gia>Akutami Gege</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/7f/6e/7f6e51e972778f69ba644755de7db91f8ce14e4d_40298_200_314.jpg</hinh_nho>
-		<gioi_thieu>Yuuji is a genius at track and field. But he has zero interest running around in circles, he's happy as a clam in the Occult Research Club. Although he's only in the club for kicks, things get serious when a real spirit shows up at school! Life's about to get really strange in Sugisawa Town #3 High School!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jujutsu-kaisen-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="isekai shokudou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>isekai shokudou</ten_truyen>
-		<ma_truyen>isekai-shokudou</ma_truyen>
-		<tac_gia>Inuzuka Junpei, Kugatsu Takaaki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/a3/58/a3581edbcd5bf274f9042a0995a0d140bdb2dcae_39841_200_310.jpg</hinh_nho>
-		<gioi_thieu>There is a certain restaurant in one corner of a shopping street near the office district. The historical restaurant, marked by a sign with a picture of a cat, is called 'Western Cuisine Nekoya.' This restaurant looks completely normal through the week, but on Saturdays, it opens in secret exclusively to some very unique guests. During these hours, doors in various areas of a parallel world open to allow customers of many different races and cultures into the restaurant. This 'Restaurant to Another World' and its food hold an exotic charm to these highly diverse customers. This is a story of the heartwarming, once-in-a-lifetime encounters between our reality and another world, between the restaurant's customers and its owner, and the food shared among them all. Note: Based on the eponymous light novel by Inuzuka Junpei.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-shokudou-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="fantasista" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>fantasista</ten_truyen>
-		<ma_truyen>fantasista</ma_truyen>
-		<tac_gia>Kusaba Michiteru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/79/24/79245ac305608038037a0f2624350d50d1f4064a_28983_200_314.jpg</hinh_nho>
-		<gioi_thieu>Teppei Sakamoto is a boy living in the countryside. He loves soccer, and all his soccer skills were taught to him by his sister. Finally, his sister wants him to join in Mizumoto High School soccer team. Teppei's turn in life has come!! How will this soccer newbie fare in the new environment?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fantasista-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
