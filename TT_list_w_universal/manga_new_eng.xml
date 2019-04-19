@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="bobobo-bo-bo-bobo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>bobobo-bo-bo-bobo</ten_truyen>
+		<ma_truyen>bobobo-bo-bo-bobo</ma_truyen>
+		<tac_gia>Sawai Yoshio</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/45/a2/45a22336d63d375db8794e45b2d8e4796a2d2994_28459_200_312.jpg</hinh_nho>
+		<gioi_thieu>In the year 300X, a cruel dictator has mandated the hunting of all hair in the Maruhage Empire. But a single man rises to the occasion and takes a stand against this violation of human hair rights. Bo-bobo, master of Fist of the Nose Hair, uses the prehensile hairs of his schnoz to most lethal ends. Follow the nonsensical adventures of Bo-bobo and his sentient sidekick snacks as they lead their hilarious rebellion against the Empire.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bobobo-bo-bo-bobo-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="bakemonogatari" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Horror, Mystery, Psychological, Romance, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>bakemonogatari</ten_truyen>
+		<ma_truyen>bakemonogatari</ma_truyen>
+		<tac_gia>Nishio Ishin, Oh! Great</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/c7/2d/c72ddae9a94b8a08772a291430e2c031fcb38bd3_32092_200_284.jpg</hinh_nho>
+		<gioi_thieu>Bakemonogatari centers on Koyomi Araragi, a third year high school student who is almost human again after briefly becoming a vampire. One day, a classmate named Hitagi Senjougahara, who infamously never talks to anyone, falls down the stairs into Koyomi's arms. He discovers that Hitagi weighs next to nothing, in defiance of physics. After being threatened by her, Koyomi offers his help, and introduces her to Meme Oshino, a strange middle-aged man living in an abandoned building, who cured him of being a vampire....</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bakemonogatari-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="magical change" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Gender bender, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>magical change</ten_truyen>
+		<ma_truyen>magical-change</ma_truyen>
+		<tac_gia>Homerun Ken</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/a7/e2/a7e2366be66e4bf1ea3e7f51240ce5fa72490312_28323_200_285.jpg</hinh_nho>
+		<gioi_thieu>A high-school boy named Manaka Hiromi is given the magical power of the Red Garnet Princess to defeat the Devil King who is trying to escape Hell (or something like that). Unfortunately for him he's also given the sort of body that comes with the job description.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/magical-change-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="ikenie touhyou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Mystery, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>ikenie touhyou</ten_truyen>
+		<ma_truyen>ikenie-touhyou</ma_truyen>
+		<tac_gia>Kasai Ryuuya, Edogawa Edogawa</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/0e/ef/0eef2363cb6e56d9cf0532a797f45fc88c4f5dde_42242_200_310.jpg</hinh_nho>
+		<gioi_thieu>Life at the Yanagizawa private high school is boring for all attending students who prefer to stare at their smartphones for most of the day, just playing games and chatting to each other. Everyone's dormant lifestyle though seems to awaken when they are asked to vote for a classmate who will be asked to clear a task or otherwise become the 'sacrifice' and suffer a 'social death'! What does this mean though? Who will be the first one to be voted and what is a 'social death'? The students will find out very soon that some games are far from innocent...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ikenie-touhyou-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tongari boushi no atelier" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Drama, Fantasy, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>tongari boushi no atelier</ten_truyen>
+		<ma_truyen>tongari-boushi-no-atelier</ma_truyen>
+		<tac_gia>Shirahama Kamome</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/55/c2/55c2d9d3412d898cf8db17bc13ed4f968c725e17_48358_200_310.jpg</hinh_nho>
+		<gioi_thieu>A girl in a small village. Coco always wanted to be a wizard. But those who can not use magic since birth can not become wizards, so she had given up her dream of becoming a wizard. However, one day, a magician visited the village. This is the story of despair and hope that visited the girl.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tongari-boushi-no-atelier-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="acma:game" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mystery, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>acma:game</ten_truyen>
 		<ma_truyen>acma-game</ma_truyen>
@@ -314,95 +359,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/08/44/08447688a71db088ef880ffec8605f8ecc6c5cc1_37498_200_300.jpg</hinh_nho>
 		<gioi_thieu>Losing his memories, the curtains of the story of alternate world transfer of the MC rises. After the transfer his name changes to Kelvin. While steadily levelling, he adds new subordinates by mastering his skill. And by the time he noticed it, he had obtained overwhelming power. Where will our MC be heading off to?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kuro-no-shoukanshi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="why are you here sensei!?" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>why are you here sensei!?</ten_truyen>
-		<ma_truyen>why-are-you-here-sensei</ma_truyen>
-		<tac_gia>Soborou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/fd/e5/fde5853c5250230eaa2de85a4d8d7e4b3d2a8d2e_35169_200_284.jpg</hinh_nho>
-		<gioi_thieu>17-year-old Ichirou Satou is an average guy who always happens to find himself in a perverted situation with his teacher, Kana Kojima. Follow this erotic love comedy about their mishaps and how Ichirou and Kana choose to handle them. The four Golden Times one-shot prequels are included formally as Chapters 1-4 of Nande koko ni sensei ga!? in the Volume 01 Tankobon. The series continuation begins at Chapter 5. Later chapters and volumes follow new student-teacher couples at the same school Ichirou and Kana attend.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/why-are-you-here-sensei-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mf ghost" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>mf ghost</ten_truyen>
-		<ma_truyen>mf-ghost</ma_truyen>
-		<tac_gia>Shigeno Shuichi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/56/43/5643e141052093ef09e965496bac4fe667524d88_32720_200_303.jpg</hinh_nho>
-		<gioi_thieu>MF Ghost takes place in the 2020s, when self-driving cars are ubiquitous in Japan. Centered around Kanata Livington, a Japanese driver who goes back to Japan after graduating at the top of his class at a racing school in England. MF Ghost also focuses on the MFG, a racing circuit on public roads that has garnered attention worldwide.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mf-ghost-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="isekai nonbiri nouka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Harem, Romance, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>isekai nonbiri nouka</ten_truyen>
-		<ma_truyen>isekai-nonbiri-nouka</ma_truyen>
-		<tac_gia>Naitou Kinosuke, Tsurugi Yasuyuki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/76/1d/761d5a2bf2928affa2a11536252d59c2f3dc162d_38842_200_283.jpg</hinh_nho>
-		<gioi_thieu>You know the deal by now. Middle-aged office worker gets sick and dies. He meets God, who tells him that he can be reincarnated in a new world. Our main character accepts, and decides to become a farmer. Welcome to farming in an alternate world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-nonbiri-nouka-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="nekomusume shoukougun" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shoujo ai, Supernatural, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>nekomusume shoukougun</ten_truyen>
-		<ma_truyen>nekomusume-shoukougun</ma_truyen>
-		<tac_gia>Nekotarou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/0f/82/0f82e1b5191aef747f773c56f356890646246320_45357_200_284.jpg</hinh_nho>
-		<gioi_thieu>Catulus Syndrome - A strange illness which causes girls to develop catlike traits. Modern science has figured out two things about this illness: 1. They're really cute! 2. There's a high chance of making girls' hearts flutter.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nekomusume-shoukougun-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="yowamushi pedal" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>yowamushi pedal</ten_truyen>
-		<ma_truyen>yowamushi-pedal</ma_truyen>
-		<tac_gia>Watanabe Wataru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/0c/bf/0cbf048ba5291455f3e61fec50a745f57ea4343b_48679_200_308.jpg</hinh_nho>
-		<gioi_thieu>Otaku Sakamichi Onoda has just entered high school and plans to join the anime club. In middle school, Onoda didn't have any friends with whom he could talk about anime, games, Akihabara and other otaku things, and he is hoping he can make such friends in the anime club, but he finds out it's been disbanded. In order to reestablish the club he tries to find 4 other people who would like to join. Since he was a little boy, Onoda has ridden his mamachari-a bulky bicycle with a step-through frame mainly used for short rides, such as for casual fun or to pick up groceries-to go to Akihabara every week to check out or buy otaku things. Fellow freshman Shunsuke Imaizumi and bicyclist, while training, notices a boy (Onoda) riding his mamachari up a steep road. Freshman and road racing cyclist, Shokichi Naruko visits Akihabara to get some Gundam plastic models for his younger brothers and meets Onoda who catches his attention because of the his cycling skill on the mamachari and later find out they go to the same school. Later on, both Naruko and Imaizumi try to convince him to join the bicycle racing club, but will he?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yowamushi-pedal-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="saikyou mahoushi no inton keikaku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Fantasy, School life, Shounen., Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>saikyou mahoushi no inton keikaku</ten_truyen>
-		<ma_truyen>saikyou-mahoushi-no-inton-keikaku</ma_truyen>
-		<tac_gia>Miyuki Ruria, Uonu Mayuu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/71/24/7124c272a6fc864b9a17e2fc38e80399f58d8ca9_50800_200_310.jpg</hinh_nho>
-		<gioi_thieu>In a world filled with monsters, we follow the journey of the 16 years old genius mage Alusu Reigin.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saikyou-mahoushi-no-inton-keikaku-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="go-toubun no hanayome" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Harem, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>go-toubun no hanayome</ten_truyen>
-		<ma_truyen>go-toubun-no-hanayome</ma_truyen>
-		<tac_gia>Haruba negi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/84/5c/845c03de249fcbd7a7bac73cd0cfac6fc76f28a2_39178_200_299.jpg</hinh_nho>
-		<gioi_thieu>Fuutarou Uesugi is a poor, antisocial ace student who one day meets the rich transfer student Itsuki Nakano. They argue but when Uesugi realizes he is to be her tutor, he tries to get on better terms. While trying to do so he meets four other girls.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/go-toubun-no-hanayome-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="act-age" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>act-age</ten_truyen>
-		<ma_truyen>act-age</ma_truyen>
-		<tac_gia>Matsuki Tatsuya, Usazaki Shiro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/49/84/4984827829b8343c7188ea2772af1c208b28258c_32570_200_314.jpg</hinh_nho>
-		<gioi_thieu>ACT-AGE centers on a certain young woman and a genius director who meet at an audition for rookie actresses.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/act-age-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="shin mazinger zero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Comedy, Drama, Ecchi, Mature, Mecha, Romance, School life, Sci-fi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>shin mazinger zero</ten_truyen>
-		<ma_truyen>shin-mazinger-zero</ma_truyen>
-		<tac_gia>Nagai Go, Tabata Yoshiaki, Yugo Yuuki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/9d/6e/9d6e9ad2999788c4af5dabd79539a06fc3b2b7c1_24586_200_314.jpg</hinh_nho>
-		<gioi_thieu>In the near future, a mineral known as 'Japanium' is discovered under Mt. Fuji. This ore is discovered to produce a powerful energy source known as 'Photon Energy'. Dr. Juzo Kabuto and his associates have begun researching Photon Energy, planning to use it as a solution to the energy crisis plaguing the earth, when the nefarious Dr. Hell and his associate, Baron Ashura attack his lab. Along with this, the mysterious 'Kurogane House' also has begun to become entwined with the affairs of these two parties. During all of this, Juzo's grandchildren, Kouji and Shiro, encounter one of Baron Ashura's robots on its way to attack Dr. Kabuto's mansion, where he has begun work on his greatest invention. Dr. Kabuto, seeing the danger at hand, sends out the Pilder to Kouji, allowing him to combine with the giant robot, Mazinger Z, to fight against Dr. Hell's forces.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shin-mazinger-zero-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="memesis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Drama, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>memesis</ten_truyen>
-		<ma_truyen>memesis</ma_truyen>
-		<tac_gia>Yagyuu Takuya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/52/39/5239a38ebb2f4d7002fb3960524918e03d05852f_31168_200_314.jpg</hinh_nho>
-		<gioi_thieu>In a fantasy world where monsters roam the land, the heroes party of Leon, Kijira and Ash traveled and slayed monsters together. But when Leon broke up with his partners so he could hang out with cute girls, Kijira and Ash starts carving their own legacy and it's one built on the back of jealousy as they look to overcome Leon in both monster slaying and women wooing.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/memesis-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
