@@ -2691,6 +2691,15 @@
         <gioi_thieu>REVOLUTION is over-but the danger to Earth is just beginning. As OPTIMUS PRIME pulls Earth into the larger universe, he's painted a target on Earth… and a new alien incursion begins when a corkscrew shaped craft drills into our world!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/optimus-prime-eng.xml</file_xml>
     </truyen>
+	<truyen ten="oz: heart of magic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>oz: heart of magic</ten_truyen>
+		<ma_truyen>oz-heart-of-magic</ma_truyen>
+        <tac_gia>Terry Kavanagh, Marcelo Mueller</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/oz-heart-of-magic/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Last we saw Dorothy she was trapped in a body that isn't hers by the evil Wizard of Oz, cut off from most of her loyal followers and exiled from the Emerald City. Now on the run through increasingly forbidding lands, with the very heart of the realm itself on the line, will she be able to protect herself and more importantly the people who rely on her?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oz-heart-of-magic-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="paper girls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>paper girls</ten_truyen>
 		<ma_truyen>paper-girls</ma_truyen>
@@ -4319,6 +4328,42 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/w/war-is-hell-(2019)/1_medium.jpg</hinh_nho>
         <gioi_thieu>ALL-NEW WAR STORY! In honor of Marvel's 80th Anniversary and history with War Comics comes a brand new edition of WAR IS HELL with two fascinating and soul-crushing tales of War. 'In the Mood' by Howard Chaykin takes you to the skies as the Luftwaffe and RAF battle over the English Channel for a battle tale of bitter irony and 'War Glammer' by Phillip Kennedy Johnson brings you back to Earth in modern day Afghanistan with a story that will chill you to the bone.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/war-is-hell-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms </ten_truyen>
+		<ma_truyen>war-of-the-realms</ma_truyen>
+        <tac_gia>Jason Aaron, Russell Dauterman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Featuring action-packed extras including a Cover Gallery, Script, Inked And Color Pages and Character Designs! THE WORLD AT WAR! Asgard. Alfheim. Heven. Jotunheim. Muspelheim. Niffleheim. Nidavellir. Svartalfheim. Vanaheim. All of the Ten Realms have fallen to Malekith and his army except one: Midgard. Home to Thor's beloved humans. Home to heroes and gods alike. Now, at last, it burns. And Thor won't even be there to see it. All hell breaks loose in New York City as Malekith and his allies begin their invasion - and the greatest heroes of the Marvel Universe watch as the Earth falls!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms: journey into mystery" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms: journey into mystery</ten_truyen>
+		<ma_truyen>war-of-the-realms-journey-into-mystery</ma_truyen>
+        <tac_gia>Clint McElroy, Griffin McElroy, Justin McElroy, Travis McElroy, Andre Lima Araujo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-journey-into-mystery/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The creators of the blockbuster podcast The Adventure Zone bring their talents to Marvel for a wild romp through THE WAR OF THE REALMS! Earth is at war, besieged by an army of Frost Giants, Trolls and Fire Goblins - and the mighty Thor is nowhere to be found! But could it be that the key to turning the tide is...Thor's baby sister? Journey into Mystery with Spider-Man (Miles Morales), Hawkeye (Kate Bishop), Wonder Man, and Balder the Brave as they go on an epic quest to save Earth’s only hope! (And, yes, deal with diaper duty.)</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-journey-into-mystery-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms: the punisher" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms: the punisher</ten_truyen>
+		<ma_truyen>war-of-the-realms-the-punisher</ma_truyen>
+        <tac_gia>Gerry Duggan, Marcelo Ferreira</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-the-punisher/1_medium.jpg</hinh_nho>
+        <gioi_thieu>PUNISHER: AVENGER OF MIDGARD! The War of The Realms has brought monsters to the streets of New York City, but New York has a monster all its own...Frank Castle, A.K.A. THE PUNISHER! And he'll be damned to Hel if he's going to let a bunch of Ten Realms tin-pot tyrants terrorize his town. But given he's one man against an army of monsters, Hel might soon have him! The War of Realms is about to meet Marvel's One Man Army. Expect Punishment!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-the-punisher-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms: war scrolls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms: war scrolls</ten_truyen>
+		<ma_truyen>war-of-the-realms-war-scrolls</ma_truyen>
+        <tac_gia>Jason Aaron, Josh Trujillo, Ram V, Chip Zdarsky, CAFU, Ricardo Lopez Ortiz, Joe Quinones, Andrea Sorrentino</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-war-scrolls/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE MUST-READ COMPANION TO WAR OF THE REALMS! Gifted the sight of the Bifrost, Daredevil watches all Midgard burn under Malekith's invasion. How will the Guardian of Hell's Kitchen...guard an entire Earth turned to Hell? Find out in a story by Jason Aaron and Andrea Sorrentino! All this and more (including a new Howard the Duck story by Chip Zdarsky and Joe Quinones!), straight from the battlefield of WAR OF THE REALMS!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-war-scrolls-eng.xml</file_xml>
     </truyen>
 	<truyen ten="warframe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crossover, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>warframe</ten_truyen>

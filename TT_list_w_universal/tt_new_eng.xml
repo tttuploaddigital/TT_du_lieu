@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="war of the realms " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms </ten_truyen>
+		<ma_truyen>war-of-the-realms</ma_truyen>
+        <tac_gia>Jason Aaron, Russell Dauterman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Featuring action-packed extras including a Cover Gallery, Script, Inked And Color Pages and Character Designs! THE WORLD AT WAR! Asgard. Alfheim. Heven. Jotunheim. Muspelheim. Niffleheim. Nidavellir. Svartalfheim. Vanaheim. All of the Ten Realms have fallen to Malekith and his army except one: Midgard. Home to Thor's beloved humans. Home to heroes and gods alike. Now, at last, it burns. And Thor won't even be there to see it. All hell breaks loose in New York City as Malekith and his allies begin their invasion - and the greatest heroes of the Marvel Universe watch as the Earth falls!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms: journey into mystery" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms: journey into mystery</ten_truyen>
+		<ma_truyen>war-of-the-realms-journey-into-mystery</ma_truyen>
+        <tac_gia>Clint McElroy, Griffin McElroy, Justin McElroy, Travis McElroy, Andre Lima Araujo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-journey-into-mystery/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The creators of the blockbuster podcast The Adventure Zone bring their talents to Marvel for a wild romp through THE WAR OF THE REALMS! Earth is at war, besieged by an army of Frost Giants, Trolls and Fire Goblins - and the mighty Thor is nowhere to be found! But could it be that the key to turning the tide is...Thor's baby sister? Journey into Mystery with Spider-Man (Miles Morales), Hawkeye (Kate Bishop), Wonder Man, and Balder the Brave as they go on an epic quest to save Earth’s only hope! (And, yes, deal with diaper duty.)</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-journey-into-mystery-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms: war scrolls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms: war scrolls</ten_truyen>
+		<ma_truyen>war-of-the-realms-war-scrolls</ma_truyen>
+        <tac_gia>Jason Aaron, Josh Trujillo, Ram V, Chip Zdarsky, CAFU, Ricardo Lopez Ortiz, Joe Quinones, Andrea Sorrentino</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-war-scrolls/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE MUST-READ COMPANION TO WAR OF THE REALMS! Gifted the sight of the Bifrost, Daredevil watches all Midgard burn under Malekith's invasion. How will the Guardian of Hell's Kitchen...guard an entire Earth turned to Hell? Find out in a story by Jason Aaron and Andrea Sorrentino! All this and more (including a new Howard the Duck story by Chip Zdarsky and Joe Quinones!), straight from the battlefield of WAR OF THE REALMS!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-war-scrolls-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms: the punisher" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms: the punisher</ten_truyen>
+		<ma_truyen>war-of-the-realms-the-punisher</ma_truyen>
+        <tac_gia>Gerry Duggan, Marcelo Ferreira</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-the-punisher/1_medium.jpg</hinh_nho>
+        <gioi_thieu>PUNISHER: AVENGER OF MIDGARD! The War of The Realms has brought monsters to the streets of New York City, but New York has a monster all its own...Frank Castle, A.K.A. THE PUNISHER! And he'll be damned to Hel if he's going to let a bunch of Ten Realms tin-pot tyrants terrorize his town. But given he's one man against an army of monsters, Hel might soon have him! The War of Realms is about to meet Marvel's One Man Army. Expect Punishment!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-the-punisher-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="oz: heart of magic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>oz: heart of magic</ten_truyen>
+		<ma_truyen>oz-heart-of-magic</ma_truyen>
+        <tac_gia>Terry Kavanagh, Marcelo Mueller</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/oz-heart-of-magic/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Last we saw Dorothy she was trapped in a body that isn't hers by the evil Wizard of Oz, cut off from most of her loyal followers and exiled from the Emerald City. Now on the run through increasingly forbidding lands, with the very heart of the realm itself on the line, will she be able to protect herself and more importantly the people who rely on her?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oz-heart-of-magic-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="bobobo-bo-bo-bobo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>bobobo-bo-bo-bobo</ten_truyen>
 		<ma_truyen>bobobo-bo-bo-bobo</ma_truyen>
@@ -360,49 +405,4 @@
 		<gioi_thieu>Salvors are men responsible for towing wrecked ships and handling the cargos. They are different from rescue teams as they usually ask for money before offering help. Nanba Rintarou's father was the owner of such a company, but Rintarou really hated the way they operated and decided to join the Coast Guard However, Rintarou's father died right after Rintarou completed his training. In his will he asked Rintarou to take over his company. What's worse is he left his son a debt of 1.5 billion yen...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/waga-na-wa-umishi-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="captain marvel (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>captain marvel (2019)</ten_truyen>
-		<ma_truyen>captain-marvel-2019</ma_truyen>
-        <tac_gia>Kelly Thompson, Carmen Carnero</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-marvel-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ALL THE STARS ALIGN AS KELLY THOMPSON AND CARMEN CARNERO TAKE ON MARVEL'S PREMIER FEMALE SUPER HERO! As Captain Marvel, Carol Danvers has spent months in space protecting Earth from alien threats big and small, but now it's time for Earth's mightiest hero to come home. New York City has never looked so good. But every re-entry comes with the unexpected, and Carol is about to hit a whole lot of unexpected. It's a fresh start and an oversized, star-studded welcome home for a hero who's been punching the glass ceiling since the 1970s - and just in time for the first female-led film from Marvel Studios! The next 50 years of Captain Marvel starts here!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-marvel-2019-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="age of x-man: the amazing nightcrawler" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>age of x-man: the amazing nightcrawler</ten_truyen>
-		<ma_truyen>age-of-x-man-the-amazing-nightcrawler</ma_truyen>
-        <tac_gia>Seanan McGuire, Juan Frigeri</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-the-amazing-nightcrawler/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ENTER THE AGE OF X-MAN! From the Munich circus to Hollywood Boulevard, Nightcrawler is starring in his own solo series! Kurt Wagner is the biggest celebrity slash super hero since Dwayne Johnson! Juggling Kurt's responsibilities as one of the X-Men and a slate of summer blockbusters would be tough without the best support staff in the business: Stunt coordinator Magma! Personal trainer Kylun! And of course, his leading lady Meggan! But there's something rotten in Tinseltown...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-the-amazing-nightcrawler-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="savage sword of conan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>savage sword of conan</ten_truyen>
-		<ma_truyen>savage-sword-of-conan</ma_truyen>
-        <tac_gia>Gerry Duggan, Ron Garney</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/savage-sword-of-conan-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE ANCIENT CULT OF KOGA THUN. A MYSTICAL TREASURE. AND THE ONLY MAN WHO CAN SAVE THE HYBORIAN AGE! Adrift at sea. No food. No weapons. Death surely awaits him. But the lionhearted CONAN is not so easily subdued, by Crom! When Conan finds himself captured, he unleashes his might on an unsuspecting pirate crew...one whose dark secrets will plunge Conan on the trail of an ancient treasure that may prove to be his undoing! An all-new age of SAVAGE SWORD OF CONAN begins with a five-part tale of swords and sorcery by Gerry Duggan (DEADPOOL, INFINITY WARS) and illustrated by legendary artist Ron Garney (DAREDEVIL, THOR: GOD OF THUNDER) with covers by the incomparable Alex Ross! Welcome to the deadly Hyborian Age-hope you survive the experience!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/savage-sword-of-conan-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="artifact one" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>artifact one</ten_truyen>
-		<ma_truyen>artifact-one</ma_truyen>
-        <tac_gia>Vince Hernandez, J.T. Krul, Romina Moranelli</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/artifact-one/0_medium.jpg</hinh_nho>
-        <gioi_thieu>Introducing Remi, a young and energetic explorer and relic hunter, whose boundless curiosity leads to a startling discovery beyond anything she could have imagined! Along with her alchemist father, Remi works in secret, away from the prying eyes of the ruling clerics who lord over the realms of her world with their ancient decrees and strict devotion. Remi has her own sense of dedication - Her heart to adventure and her mind to the truth. But, what happens when that truth could change the fate of her entire planet, and destroy the very fabric of her civilization? An all-new Aspen Comics action-adventure epic debuts from the mind of creators Vince Hernandez (Michael Turner's Fathom: Kiani, Charismagic) and J.T. Krul (Michael Turner's Soulfire, Jirni) with breathtaking illustrations from newcomer Romina Moranelli!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/artifact-one-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="gretel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>gretel</ten_truyen>
-		<ma_truyen>gretel</ma_truyen>
-        <tac_gia>Ben Meares, Allan Otero</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/gretel/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Gretel's story has been more nightmare than fairy tale ever since the tragic events of her childhood involving her brother and a maniacal witch. These events have left her cursed with a life that will span centuries. Picking up directly after her heart-wrenching debut in Grimm Universe Presents. After consuming the heart of a psychic witch, Gretel has been gifted the power of premonition. But when she has a psychic vision foretelling the end of the world, Gretel must open old wounds if she wants to try and prevent it from coming true. Introducing a new corner of the Grimm Universe, this will be one series you won't want to miss!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gretel-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

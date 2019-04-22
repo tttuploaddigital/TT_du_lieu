@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="war of the realms " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms </ten_truyen>
+		<ma_truyen>war-of-the-realms</ma_truyen>
+        <tac_gia>Jason Aaron, Russell Dauterman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Featuring action-packed extras including a Cover Gallery, Script, Inked And Color Pages and Character Designs! THE WORLD AT WAR! Asgard. Alfheim. Heven. Jotunheim. Muspelheim. Niffleheim. Nidavellir. Svartalfheim. Vanaheim. All of the Ten Realms have fallen to Malekith and his army except one: Midgard. Home to Thor's beloved humans. Home to heroes and gods alike. Now, at last, it burns. And Thor won't even be there to see it. All hell breaks loose in New York City as Malekith and his allies begin their invasion - and the greatest heroes of the Marvel Universe watch as the Earth falls!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms: journey into mystery" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms: journey into mystery</ten_truyen>
+		<ma_truyen>war-of-the-realms-journey-into-mystery</ma_truyen>
+        <tac_gia>Clint McElroy, Griffin McElroy, Justin McElroy, Travis McElroy, Andre Lima Araujo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-journey-into-mystery/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The creators of the blockbuster podcast The Adventure Zone bring their talents to Marvel for a wild romp through THE WAR OF THE REALMS! Earth is at war, besieged by an army of Frost Giants, Trolls and Fire Goblins - and the mighty Thor is nowhere to be found! But could it be that the key to turning the tide is...Thor's baby sister? Journey into Mystery with Spider-Man (Miles Morales), Hawkeye (Kate Bishop), Wonder Man, and Balder the Brave as they go on an epic quest to save Earth’s only hope! (And, yes, deal with diaper duty.)</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-journey-into-mystery-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms: war scrolls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms: war scrolls</ten_truyen>
+		<ma_truyen>war-of-the-realms-war-scrolls</ma_truyen>
+        <tac_gia>Jason Aaron, Josh Trujillo, Ram V, Chip Zdarsky, CAFU, Ricardo Lopez Ortiz, Joe Quinones, Andrea Sorrentino</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-war-scrolls/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE MUST-READ COMPANION TO WAR OF THE REALMS! Gifted the sight of the Bifrost, Daredevil watches all Midgard burn under Malekith's invasion. How will the Guardian of Hell's Kitchen...guard an entire Earth turned to Hell? Find out in a story by Jason Aaron and Andrea Sorrentino! All this and more (including a new Howard the Duck story by Chip Zdarsky and Joe Quinones!), straight from the battlefield of WAR OF THE REALMS!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-war-scrolls-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms: the punisher" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms: the punisher</ten_truyen>
+		<ma_truyen>war-of-the-realms-the-punisher</ma_truyen>
+        <tac_gia>Gerry Duggan, Marcelo Ferreira</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-the-punisher/1_medium.jpg</hinh_nho>
+        <gioi_thieu>PUNISHER: AVENGER OF MIDGARD! The War of The Realms has brought monsters to the streets of New York City, but New York has a monster all its own...Frank Castle, A.K.A. THE PUNISHER! And he'll be damned to Hel if he's going to let a bunch of Ten Realms tin-pot tyrants terrorize his town. But given he's one man against an army of monsters, Hel might soon have him! The War of Realms is about to meet Marvel's One Man Army. Expect Punishment!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-the-punisher-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="oz: heart of magic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>oz: heart of magic</ten_truyen>
+		<ma_truyen>oz-heart-of-magic</ma_truyen>
+        <tac_gia>Terry Kavanagh, Marcelo Mueller</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/oz-heart-of-magic/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Last we saw Dorothy she was trapped in a body that isn't hers by the evil Wizard of Oz, cut off from most of her loyal followers and exiled from the Emerald City. Now on the run through increasingly forbidding lands, with the very heart of the realm itself on the line, will she be able to protect herself and more importantly the people who rely on her?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oz-heart-of-magic-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="symbiote spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>symbiote spider-man</ten_truyen>
 		<ma_truyen>symbiote-spider-man</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-nextgen/1_medium.jpg</hinh_nho>
         <gioi_thieu>ENTER THE AGE OF X-MAN! The perfect heroes for a perfect world! The X-Men have helped make the world into a utopia where living in fear and hatred is a thing of the past. All people are united under the banner of mutantkind, and all of mutantkind idolizes the X-Men. Jean Grey! Colossus! Storm! X-23! X-Man! Nature Girl! Magneto! And of course, the amazing Nightcrawler! When danger threatens the world, the Marvelous X-Men set things right for the good of all. And no one dares say otherwise.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-nextgen-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="war is hell" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Life sucks, Military" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>war is hell</ten_truyen>
-		<ma_truyen>war-is-hell</ma_truyen>
-        <tac_gia>Howard Chaykin, Phillip K. Johnson, Howard Chaykin</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-is-hell-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ALL-NEW WAR STORY! In honor of Marvel's 80th Anniversary and history with War Comics comes a brand new edition of WAR IS HELL with two fascinating and soul-crushing tales of War. 'In the Mood' by Howard Chaykin takes you to the skies as the Luftwaffe and RAF battle over the English Channel for a battle tale of bitter irony and 'War Glammer' by Phillip Kennedy Johnson brings you back to Earth in modern day Afghanistan with a story that will chill you to the bone.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/war-is-hell-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="mysteries of love in space" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>mysteries of love in space</ten_truyen>
-		<ma_truyen>mysteries-of-love-in-space</ma_truyen>
-        <tac_gia>James Tynion IV, Tom Grummett</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/mysteries-of-love-in-space/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Sometimes love can make you feel like you're from another planet...but what if you actually were? Join Superman, The New Gods, Green Lantern, Starro, Hawkgirl and even the Teen Titans' new sensation Crush for eight tales of romance that will whisk you to the moon and back!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/mysteries-of-love-in-space-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="journey into unknown worlds" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>journey into unknown worlds</ten_truyen>
-		<ma_truyen>journey-into-unknown-worlds</ma_truyen>
-        <tac_gia>Cullen Bunn, Clay McLeod Chapman, Francesco Manna</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/journey-into-unknown-worlds/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ALL-NEW SCI-FI STORY! In celebration of Marvel's 80th anniversary and the comic books that captivated hearts and minds across generations, join us for two scintillating sci-fi stories - the first an extraterrestrial adventure by Cullen Bunn the likes of which haven't been seen in this or any other decade, and the second a tale of terror by Clay McLeod Chapman that could take place in your very own back yard! The secrets of the universe lie waiting to be discovered, True-Believers, on a JOURNEY TO UNKNOWN WORLDS!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/journey-into-unknown-worlds-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="guardians of the galaxy (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>guardians of the galaxy (2019)</ten_truyen>
-		<ma_truyen>guardians-of-the-galaxy-2019</ma_truyen>
-        <tac_gia>Donny Cates, Geoff Shaw</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/guardians-of-the-galaxy-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>WHO WILL STAND? The universe is on fire. Hundreds of worlds are at war. Never has there been such hatred and division across the cosmos. And in spite of all this, Thanos of Titan is still dead...or is he? Now, more than ever, the cosmos need the Guardians of the Galaxy...but in the aftermath of the Infinity Wars, who is left to answer the call? Featuring every cosmic super hero in the known universe by the THANOS WINS creative team of Donny Cates and Geoff Shaw!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/guardians-of-the-galaxy-2019-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="naomi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>naomi</ten_truyen>
-		<ma_truyen>naomi</ma_truyen>
-        <tac_gia>Brian Michael Bendis, David F. Walker, Jamal Campbell</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/naomi/1_medium.jpg</hinh_nho>
-        <gioi_thieu>DC's biggest, newest mystery starts here! When a fight between Superman and Mongul crashes into a small Northwestern town, Naomi (last name?) begins a quest to uncover the last time a super-powered person visited her home-and how that might tie into her own origins and adoption. Follow Naomi's journey on a quest that will take her to the heart of the DC Universe and unfold a universe of ideas and stories that have never been seen before. Join writers Brian Michael Bendis, David Walker and breakout artist Jamal Campbell in Wonder Comics' massively ambitious new series and star... NAOMI.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/naomi-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
