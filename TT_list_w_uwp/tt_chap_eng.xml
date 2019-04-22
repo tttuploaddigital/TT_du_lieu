@@ -1,6 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>star wars adventures (2017)</ten_truyen>
+		<ma_truyen>star-wars-adventures-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-adventures/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-adventures-2017-eng.xml</file_xml>
+		<chap_moi>issue 20</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>teen titans (2016)</ten_truyen>
+		<ma_truyen>teen-titans-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/teen-titans-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teen-titans-2016-eng.xml</file_xml>
+		<chap_moi>issue 29</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tony stark: iron man</ten_truyen>
+		<ma_truyen>tony-stark-iron-man</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/tony-stark-iron-man/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/tony-stark-iron-man-eng.xml</file_xml>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>thor (2018)</ten_truyen>
+		<ma_truyen>thor-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thor-2018-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shuri</ten_truyen>
+		<ma_truyen>shuri</ma_truyen>
+        <tac_gia>Nnedi Okorafor, Leonardo Romero</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shuri-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 597</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
+		<chap_moi>chap 308</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hinomaru-zumou</ten_truyen>
+		<ma_truyen>hinomaru-zumou</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28267/9/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hinomaru-zumou-eng.xml</file_xml>
+		<chap_moi>chap 238</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>stravaganza - isai no hime</ten_truyen>
+		<ma_truyen>stravaganza-isai-no-hime</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/88/68/8868ddfaeff49477685c51b375d17f23e9f3ede6_38596_200_284.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/stravaganza-isai-no-hime-eng.xml</file_xml>
+		<chap_moi>chap 29.5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>iris zero</ten_truyen>
+		<ma_truyen>iris-zero</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/4282/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/iris-zero-eng.xml</file_xml>
+		<chap_moi>chap 43</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>quan zhi gao shou</ten_truyen>
+		<ma_truyen>quan-zhi-gao-shou</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/42912/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/quan-zhi-gao-shou-eng.xml</file_xml>
+		<chap_moi>chap 63.3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>lookism</ten_truyen>
+		<ma_truyen>lookism</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/29813/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/lookism-eng.xml</file_xml>
+		<chap_moi>chap 227</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shen yi di nu</ten_truyen>
+		<ma_truyen>shen-yi-di-nu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/49103/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/shen-yi-di-nu-eng.xml</file_xml>
+		<chap_moi>chap 170</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>a returner's magic should be special</ten_truyen>
+		<ma_truyen>a-returner-s-magic-should-be-special</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/fd/69/fd69630598bd7ec524ac3a2ad1e6d86056fba6e8_30740_200_270.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/a-returner-s-magic-should-be-special-eng.xml</file_xml>
+		<chap_moi>chap 60</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>aphorism</ten_truyen>
+		<ma_truyen>aphorism</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/795/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/aphorism-eng.xml</file_xml>
+		<chap_moi>chap 132</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>wolverine: infinity watch</ten_truyen>
 		<ma_truyen>wolverine-infinity-watch</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/w/wolverine-infinity-watch/1_medium.jpg</hinh_nho>
@@ -209,110 +316,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/42149/1/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomodachi-o-tsukurou-eng.xml</file_xml>
 		<chap_moi>chap 152</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>titans (2016) </ten_truyen>
-		<ma_truyen>titans-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/titans-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/titans-2016-eng.xml</file_xml>
-		<chap_moi>issue 36</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>captain marvel (2019)</ten_truyen>
-		<ma_truyen>captain-marvel-2019</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-marvel-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-marvel-2019-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>red hood and the outlaws (2016)</ten_truyen>
-		<ma_truyen>red-hood-and-the-outlaws-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/red-hood-and-the-outlaws-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/red-hood-and-the-outlaws-2016-eng.xml</file_xml>
-		<chap_moi>issue 33</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-23 (2018)</ten_truyen>
-		<ma_truyen>x-23-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-23-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-23-2018-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the flash (2016)</ten_truyen>
-		<ma_truyen>the-flash-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
-		<chap_moi>issue 68</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>onepunch-man</ten_truyen>
-		<ma_truyen>onepunch-man</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onepunch-man-eng.xml</file_xml>
-		<chap_moi>chap 106</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kimetsu no yaiba</ten_truyen>
-		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
-		<chap_moi>chap 153</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-meshi-eng.xml</file_xml>
-		<chap_moi>chap 52</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mad chimera world</ten_truyen>
-		<ma_truyen>mad-chimera-world</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/45/64/45645dc02dbebef393fbb91eaea9f98557fb5bd6_45672_200_310.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mad-chimera-world-eng.xml</file_xml>
-		<chap_moi>chap 13</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kaifuku jutsushi no yarinaoshi</ten_truyen>
-		<ma_truyen>kaifuku-jutsushi-no-yarinaoshi</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/e0/cb/e0cbb96e121d98ad3c2c9070b6415fe06274dc9e_47183_200_310.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaifuku-jutsushi-no-yarinaoshi-eng.xml</file_xml>
-		<chap_moi>chap 16.1</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>iron ladies</ten_truyen>
-		<ma_truyen>iron-ladies</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/65/11/6511f81ba14b3dd57f902dd8b894acbb6aa93673_33406_200_266.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/iron-ladies-eng.xml</file_xml>
-		<chap_moi>chap 236</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>solo leveling</ten_truyen>
-		<ma_truyen>solo-leveling</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/f1/fd/f1fd1cc899c1d8d919644341b96497ec864d914d_25991_200_270.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/solo-leveling-eng.xml</file_xml>
-		<chap_moi>chap 66</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tales of demons and gods</ten_truyen>
-		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tales-of-demons-and-gods-eng.xml</file_xml>
-		<chap_moi>chap 217.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hardcore leveling warrior</ten_truyen>
-		<ma_truyen>hardcore-leveling-warrior</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/38858/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/hardcore-leveling-warrior-eng.xml</file_xml>
-		<chap_moi>chap 152</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>autophagy regulation</ten_truyen>
-		<ma_truyen>autophagy-regulation</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/30485/2/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/autophagy-regulation-eng.xml</file_xml>
-		<chap_moi>chap 226</chap_moi>
 	</truyen>
 </danh_sach_truyen>

@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 597</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shokugeki no soma</ten_truyen>
+		<ma_truyen>shokugeki-no-soma</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
+		<chap_moi>chap 308</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hinomaru-zumou</ten_truyen>
+		<ma_truyen>hinomaru-zumou</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/28267/9/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hinomaru-zumou-eng.xml</file_xml>
+		<chap_moi>chap 238</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>stravaganza - isai no hime</ten_truyen>
+		<ma_truyen>stravaganza-isai-no-hime</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/88/68/8868ddfaeff49477685c51b375d17f23e9f3ede6_38596_200_284.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/stravaganza-isai-no-hime-eng.xml</file_xml>
+		<chap_moi>chap 29.5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>iris zero</ten_truyen>
+		<ma_truyen>iris-zero</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/4282/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/iris-zero-eng.xml</file_xml>
+		<chap_moi>chap 43</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
 		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
         <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W300/8f/e1/8fe15f1cb81932edf231f9db984ce4e7f2d8866a_26986_200_281.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman-eng.xml</file_xml>
 		<chap_moi>chap 54</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
-		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
-        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
-		<chap_moi>chap 22</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>world trigger</ten_truyen>
-		<ma_truyen>world-trigger</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/11153/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-trigger-eng.xml</file_xml>
-		<chap_moi>chap 178</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>ao no exorcist</ten_truyen>
-		<ma_truyen>ao-no-exorcist</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/772/12/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ao-no-exorcist-eng.xml</file_xml>
-		<chap_moi>chap 110</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gate - jietai kare no chi nite, kaku tatakeri</ten_truyen>
-		<ma_truyen>gate-jietai-kare-no-chi-nite-kaku-tatakeri</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2999/7/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gate-jietai-kare-no-chi-nite-kaku-tatakeri-eng.xml</file_xml>
-		<chap_moi>chap 83</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>seitokai yakuindomo</ten_truyen>
-		<ma_truyen>seitokai-yakuindomo</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/8728/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/seitokai-yakuindomo-eng.xml</file_xml>
-		<chap_moi>chap 515</chap_moi>
 	</truyen>
 </danh_sach_truyen>

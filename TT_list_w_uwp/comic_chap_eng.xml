@@ -1,6 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>star wars adventures (2017)</ten_truyen>
+		<ma_truyen>star-wars-adventures-2017</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-adventures/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-adventures-2017-eng.xml</file_xml>
+		<chap_moi>issue 20</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>teen titans (2016)</ten_truyen>
+		<ma_truyen>teen-titans-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/teen-titans-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teen-titans-2016-eng.xml</file_xml>
+		<chap_moi>issue 29</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tony stark: iron man</ten_truyen>
+		<ma_truyen>tony-stark-iron-man</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/tony-stark-iron-man/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/tony-stark-iron-man-eng.xml</file_xml>
+		<chap_moi>issue 10</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>thor (2018)</ten_truyen>
+		<ma_truyen>thor-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thor-2018-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shuri</ten_truyen>
+		<ma_truyen>shuri</ma_truyen>
+        <tac_gia>Nnedi Okorafor, Leonardo Romero</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/shuri-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/shuri-eng.xml</file_xml>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>wolverine: infinity watch</ten_truyen>
 		<ma_truyen>wolverine-infinity-watch</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/w/wolverine-infinity-watch/1_medium.jpg</hinh_nho>
@@ -279,40 +316,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fathom-2018-eng.xml</file_xml>
 		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>x-force (2018)</ten_truyen>
-		<ma_truyen>x-force-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-force-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-force-2018-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>wonder woman (2016)</ten_truyen>
-		<ma_truyen>wonder-woman-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-woman-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-woman-2016-eng.xml</file_xml>
-		<chap_moi>issue 67</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>doctor strange (2018)</ten_truyen>
-		<ma_truyen>doctor-strange-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/doctor-strange-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doctor-strange-2018-eng.xml</file_xml>
-		<chap_moi>issue 12</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>grimm fairy tales (2016)</ten_truyen>
-		<ma_truyen>grimm-fairy-tales-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-fairy-tales-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/grimm-fairy-tales-2016-eng.xml</file_xml>
-		<chap_moi>issue 26</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>isola</ten_truyen>
-		<ma_truyen>isola</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/isola/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/isola-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
 	</truyen>
 </danh_sach_truyen>
