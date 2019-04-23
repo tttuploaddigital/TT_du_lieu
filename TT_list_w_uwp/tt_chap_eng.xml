@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>damage (2018)</ten_truyen>
+		<ma_truyen>damage-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/damage-2018-eng.xml</file_xml>
+		<chap_moi>issue 16</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>old man quill</ten_truyen>
+		<ma_truyen>old-man-quill</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-quill/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-quill-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>naomi</ten_truyen>
+		<ma_truyen>naomi</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/naomi/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/naomi-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kick-ass (2018)</ten_truyen>
+		<ma_truyen>kick-ass-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/k/kick-ass-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kick-ass-2018-eng.xml</file_xml>
+		<chap_moi>issue 13</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>evolution  </ten_truyen>
+		<ma_truyen>evolution</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/evolution-eng.xml</file_xml>
+		<chap_moi>issue 16</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 940</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>captain tsubasa - rising sun</ten_truyen>
+		<ma_truyen>captain-tsubasa-rising-sun</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/1a/88/1a882cec4848ba991b6f0e070acc6e1c0488347f_30007_200_313.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/captain-tsubasa-rising-sun-eng.xml</file_xml>
+		<chap_moi>chap 92</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>act-age</ten_truyen>
+		<ma_truyen>act-age</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/49/84/4984827829b8343c7188ea2772af1c208b28258c_32570_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/act-age-eng.xml</file_xml>
+		<chap_moi>chap 62</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gokutei higuma</ten_truyen>
+		<ma_truyen>gokutei-higuma</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/df/07/df07a1abc84e910d6c9c0599cb1d99613c70adf1_37203_200_266.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokutei-higuma-eng.xml</file_xml>
+		<chap_moi>chap 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mahou shoujo site</ten_truyen>
+		<ma_truyen>mahou-shoujo-site</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
+		<chap_moi>chap 125</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>star wars adventures (2017)</ten_truyen>
 		<ma_truyen>star-wars-adventures-2017</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-adventures/1_medium.jpg</hinh_nho>
@@ -248,75 +318,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/fa/20/fa205ccbb16cd361708fd290b2649732f3f75638_36159_200_306.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajime-no-ippo-eng.xml</file_xml>
 		<chap_moi>ch. 1259</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>asgardians of the galaxy</ten_truyen>
-		<ma_truyen>asgardians-of-the-galaxy</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/asgardians-of-the-galaxy/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/asgardians-of-the-galaxy-eng.xml</file_xml>
-		<chap_moi>issue 8</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>catwoman (2018)</ten_truyen>
-		<ma_truyen>catwoman-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/catwoman-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/catwoman-2018-eng.xml</file_xml>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the amazing spider-man (2018)</ten_truyen>
-		<ma_truyen>the-amazing-spider-man-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/amazing-spider-man-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-amazing-spider-man-2018-eng.xml</file_xml>
-		<chap_moi>issue 19</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hawkman (2018)</ten_truyen>
-		<ma_truyen>hawkman-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hawkman-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hawkman-2018-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>winter soldier (2018)</ten_truyen>
-		<ma_truyen>winter-soldier-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/winter-soldier-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/winter-soldier-2018-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>issak</ten_truyen>
-		<ma_truyen>issak</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/d3/52/d3529053ee0da2d40fdb68f298314982b78e4c25_33880_200_283.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/issak-eng.xml</file_xml>
-		<chap_moi>chap 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>darwin's game</ten_truyen>
-		<ma_truyen>darwin-s-game</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
-		<chap_moi>chap 69</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>higanjima</ten_truyen>
-		<ma_truyen>higanjima</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/06/cc/06cc053af20c3a0dd0b2eb339fe1242e81d6195f_27651_200_284.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/higanjima-eng.xml</file_xml>
-		<chap_moi>chap 136</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>henjyo - hen na jyoshi kousei amaguri senko</ten_truyen>
-		<ma_truyen>henjyo-hen-na-jyoshi-kousei-amaguri-senko</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/32972/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/henjyo-hen-na-jyoshi-kousei-amaguri-senko-eng.xml</file_xml>
-		<chap_moi>chap 37</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tomodachi o tsukurou</ten_truyen>
-		<ma_truyen>tomodachi-o-tsukurou</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/42149/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomodachi-o-tsukurou-eng.xml</file_xml>
-		<chap_moi>chap 152</chap_moi>
 	</truyen>
 </danh_sach_truyen>

@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>damage (2018)</ten_truyen>
+		<ma_truyen>damage-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/damage-2018-eng.xml</file_xml>
+		<chap_moi>issue 16</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>old man quill</ten_truyen>
+		<ma_truyen>old-man-quill</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-quill/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-quill-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>naomi</ten_truyen>
+		<ma_truyen>naomi</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/n/naomi/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/naomi-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kick-ass (2018)</ten_truyen>
+		<ma_truyen>kick-ass-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/k/kick-ass-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kick-ass-2018-eng.xml</file_xml>
+		<chap_moi>issue 13</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>evolution  </ten_truyen>
+		<ma_truyen>evolution</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/evolution-eng.xml</file_xml>
+		<chap_moi>issue 16</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>star wars adventures (2017)</ten_truyen>
 		<ma_truyen>star-wars-adventures-2017</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-adventures/1_medium.jpg</hinh_nho>
@@ -281,40 +316,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/p/paper-girls/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/paper-girls-eng.xml</file_xml>
 		<chap_moi>issue 27</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>suicide squad: black files</ten_truyen>
-		<ma_truyen>suicide-squad-black-files</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/suicide-squad-black-files/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/suicide-squad-black-files-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>spider-gwen: ghost-spider</ten_truyen>
-		<ma_truyen>spider-gwen-ghost-spider</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/spider-gwen-ghost-spider-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-gwen-ghost-spider-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the walking dead  </ten_truyen>
-		<ma_truyen>the-walking-dead</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-walking-dead/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-walking-dead-eng.xml</file_xml>
-		<chap_moi>issue 190</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>van helsing: sword of heaven</ten_truyen>
-		<ma_truyen>van-helsing-sword-of-heaven</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/v/van-helsing-sword-of-heaven/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/van-helsing-sword-of-heaven-eng.xml</file_xml>
-		<chap_moi>issue 6</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>fathom (2018)</ten_truyen>
-		<ma_truyen>fathom-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fathom-2018-eng.xml</file_xml>
-		<chap_moi>issue 8</chap_moi>
 	</truyen>
 </danh_sach_truyen>

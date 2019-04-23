@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 940</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>captain tsubasa - rising sun</ten_truyen>
+		<ma_truyen>captain-tsubasa-rising-sun</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/1a/88/1a882cec4848ba991b6f0e070acc6e1c0488347f_30007_200_313.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/captain-tsubasa-rising-sun-eng.xml</file_xml>
+		<chap_moi>chap 92</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>act-age</ten_truyen>
+		<ma_truyen>act-age</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/49/84/4984827829b8343c7188ea2772af1c208b28258c_32570_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/act-age-eng.xml</file_xml>
+		<chap_moi>chap 62</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gokutei higuma</ten_truyen>
+		<ma_truyen>gokutei-higuma</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/df/07/df07a1abc84e910d6c9c0599cb1d99613c70adf1_37203_200_266.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokutei-higuma-eng.xml</file_xml>
+		<chap_moi>chap 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mahou shoujo site</ten_truyen>
+		<ma_truyen>mahou-shoujo-site</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
+		<chap_moi>chap 125</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>kingdom  </ten_truyen>
 		<ma_truyen>kingdom</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/38802/1/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Completed/mai-ball-eng.xml</file_xml>
 		<chap_moi>chap 107</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>karate shoukoushi monogatari</ten_truyen>
-		<ma_truyen>karate-shoukoushi-monogatari</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/dd/ce/ddced0f7d9cbd222e654c803cd2bdfbfa962e8e0_28018_200_283.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/karate-shoukoushi-monogatari-eng.xml</file_xml>
-		<chap_moi>chap 41</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>caterpillar</ten_truyen>
-		<ma_truyen>caterpillar</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/28919/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/caterpillar-eng.xml</file_xml>
-		<chap_moi>chap 47</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gokushufudou: the way of the house husband</ten_truyen>
-		<ma_truyen>gokushufudou-the-way-of-the-house-husband</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1c/81/1c8179fca5157a2175838326afca8a93e11f6c58_41758_200_284.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokushufudou-the-way-of-the-house-husband-eng.xml</file_xml>
-		<chap_moi>chap 23</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>maou-jou de oyasumi</ten_truyen>
-		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
-		<chap_moi>chap 103</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>a story about treating a female knight who has never been treated as a woman as a woman</ten_truyen>
-		<ma_truyen>a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/8f/e1/8fe15f1cb81932edf231f9db984ce4e7f2d8866a_26986_200_281.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman-eng.xml</file_xml>
-		<chap_moi>chap 54</chap_moi>
 	</truyen>
 </danh_sach_truyen>
