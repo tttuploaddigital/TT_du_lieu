@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="grancrest senki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Ecchi, Fantasy, Historical, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>grancrest senki</ten_truyen>
+		<ma_truyen>grancrest-senki</ma_truyen>
+		<tac_gia>Mizuno Ryou, Miyuu, Yotsuba Makoto</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/88/63/8863788d28ddb6818dfed687221a311b0c872db9_31698_200_283.jpg</hinh_nho>
+		<gioi_thieu>On a continent ruled by chaos, the Lords have the power of a holy seal that can calm the chaos and protect the people. However, before anyone realizes it, the rulers cast aside their creed of purifying the chaos, and instead start to fight each other for each others' holy seals to gain dominion over one another. Shiruuka, an isolated mage who scorns the Lords for abandoning their creed, and a wandering knight named Theo, who is on a journey to train to one day liberate his hometown, make an everlasting oath to work together to reform this continent dominated by wars and chaos.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/grancrest-senki-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="shuumatsu no walkure" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Fantasy, Historical, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>shuumatsu no walkure</ten_truyen>
+		<ma_truyen>shuumatsu-no-walkure</ma_truyen>
+		<tac_gia>Fukui Takumi, Umemura Shinya, Aji Chika</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/23/92/2392f5fb490b932302d80f327b88bd354b3032a5_35750_200_284.jpg</hinh_nho>
+		<gioi_thieu>The story begins when the gods call a convention to decide the whether to let humanity live or die, and settle on destroying humanity. But a lone valkyrie puts forward a suggestion to let the gods and humanity fight one last battle, as a last hope for humanity's continued survival. 13 gods will fight against 13 human champions in one-on-one battles to decide whether humanity lives or dies.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shuumatsu-no-walkure-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="mighty heart" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>mighty heart</ten_truyen>
+		<ma_truyen>mighty-heart</ma_truyen>
+		<tac_gia>Matsuri Seishirou</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/e7/01/e701dafde50af3af2d2baa2f86bee5012c3d7276_42614_200_309.jpg</hinh_nho>
+		<gioi_thieu>An evil organization, whose members are dressed in strange robotic looking suits, is planning to conquer the Earth. They call each other using the title of 'Mysterious person' (but the reading is given as the gairaigo for 'Phantom' ) . One of their members, Tenkawa Toichi, lives disguised as an ordinary boy in a normal high school. One day makes her appearance Maishima Kokoro, an attractive but fierce new transfer student, who is not interested in romantic relationships or sexual experiences. Her secret identity is that of last bastion of mankind against the evil army: when a danger appears, she transform herself in Mighty Heart, the Angel of Judgment! ...which is so weak to be beaten the hell out of her every time. But her real power lyes in what happen every time she experiences a state of extreme shyness: at the peak of her embarrassment she release the 'mighty beam', a terrific weapon that can reach (but only when she also cries!) a devastating power equivalent to 1 ton of TNT. This happens often when she is sexually teased, and used as final weapon in almost every battle.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mighty-heart-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="isekai wo seigyo mahou de kirihirake!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>isekai wo seigyo mahou de kirihirake!</ten_truyen>
+		<ma_truyen>isekai-wo-seigyo-mahou-de-kirihirake</ma_truyen>
+		<tac_gia>Satake Akinori, Fujisawa Naoyuki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/de/0f/de0ff6b7608c75acd54ecd4f4a7413e584d91920_42555_200_284.jpg</hinh_nho>
+		<gioi_thieu>Evan Douglas despite being born in nobility, he was bullied by everyone in his family due to his low mana capacity and even more due to his black hair and eyes that does not run in the family. The only person who is kind to him is his maid Serafina from the wolf beastman race that is of similar age and he is later exiled from the family and Serafina follows him. But either by luck or fate, after suffering a hit in the head, Evan started having dreams of a place with extremely high-technology beyond anything he could imagine, on it he saw dolls being controlled by some strange magic and glowing windows with moving pictures. This dreams leads him to develop a new magic he calls control magic, that does not belong to any of the known elements. Now Evan with his new abilities goes adventuring with his maid Serafina.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-wo-seigyo-mahou-de-kirihirake-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hibiki - shousetsuka ni naru houhou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hibiki - shousetsuka ni naru houhou</ten_truyen>
+		<ma_truyen>hibiki-shousetsuka-ni-naru-houhou</ma_truyen>
+		<tac_gia>Yanagimoto Mitsuharu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/aa/a4/aaa403be9d2fe540671bc1c36e34cce791e65e0d_21855_200_281.jpg</hinh_nho>
+		<gioi_thieu>The literature industry is suffering from the publishing recession. While the literary magazine 'Mokuren' was grieving over the present state of affairs, a composition intended for their Newcomer's Award was sent to their editing department. However, it completely ignored the application rules. It should have been torn to shreds, but the work caught the eye of a sole editor. As a result, the world began to change.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hibiki-shousetsuka-ni-naru-houhou-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="war of the realms " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>war of the realms </ten_truyen>
 		<ma_truyen>war-of-the-realms</ma_truyen>
@@ -360,49 +405,4 @@
         <gioi_thieu>THE RETURN OF THE MOST ACCLAIMED CRIME COMIC OF THE 21ST CENTURY! Hot off their bestselling series KILL OR BE KILLED and their original graphic novel MY HEROES HAVE ALWAYS BEEN JUNKIES, crime comic masters ED BRUBAKER and SEAN PHILLIPS finally return to their most-demanded title -- as a new MONTHLY SERIES! A perfect introduction to CRIMINAL and its dark, exciting world, this series will also include back page art and articles to bring readers more fully into the noir experience.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/criminal-2019-eng.xml</file_xml>
     </truyen>
-	<truyen ten="ultraman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mystery, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ultraman</ten_truyen>
-		<ma_truyen>ultraman</ma_truyen>
-		<tac_gia>Shimizu Eiichi, Shimoguchi Tomohiro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/d2/12/d212c1ab717359db1f433bc1abc27e8c8d21c8d7_26079_200_284.jpg</hinh_nho>
-		<gioi_thieu>Ages ever since the absents of the Gigantic Hero, the next generation hero who inherit the bloodlines of the legendary gigantic hero emerge. Shin Jiro, a normal high school student who's also the son of Shin Hayate(the real Ultraman) and is aware about the existence of Ultraman years ago and wanted to be a hero that save the world. He is just a normal human and had no superpowers or such. One faithful day lead him to a special high-tech suit that will turn him into a different incarnation of the legendary gigantic hero! Will he be a HERO?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ultraman-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="stravaganza - isai no hime" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Fantasy, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>stravaganza - isai no hime</ten_truyen>
-		<ma_truyen>stravaganza-isai-no-hime</ma_truyen>
-		<tac_gia>Tomi Akihito</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/88/68/8868ddfaeff49477685c51b375d17f23e9f3ede6_38596_200_284.jpg</hinh_nho>
-		<gioi_thieu>Humans live mostly behind safe walls, protected from the many non-human creatures outside. In this kingdom's walled capital city of Mitera lives an unusual young warrior woman known as Claria. The story begins as she takes a potentially deadly walk alone in the woods, encountering various dangerous creatures-- most notably a lizardman that treats her surprisingly kindly. But what no one knows about Claria is that she is secretly this kingdom's ruler, Queen Vivian!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/stravaganza-isai-no-hime-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="issak" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Historical, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>issak</ten_truyen>
-		<ma_truyen>issak</ma_truyen>
-		<tac_gia>Makari Shinji, Double-s</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/d3/52/d3529053ee0da2d40fdb68f298314982b78e4c25_33880_200_283.jpg</hinh_nho>
-		<gioi_thieu>In the 17th century, the Holy Roman Empire was ravaged by the Thirty Years' War. In the middle of this chaos appeared a japanese mercenary named Isaak. His fierce battle begins.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/issak-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="higanjima" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Horror, Mature, Psychological, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>higanjima</ten_truyen>
-		<ma_truyen>higanjima</ma_truyen>
-		<tac_gia>Matsumoto Kouji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/06/cc/06cc053af20c3a0dd0b2eb339fe1242e81d6195f_27651_200_284.jpg</hinh_nho>
-		<gioi_thieu>It's all about vampire hunting versus man hunting in the series. Akira's brother, Atsushi, was found missing for 2 years. And recently a mysterious woman appeared and told him that she can bring him to Higanjima (an island's name) where she saw Atsushi. But she also asked that he should brings a few more friends there...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/higanjima-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="waga na wa umishi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>waga na wa umishi</ten_truyen>
-		<ma_truyen>waga-na-wa-umishi</ma_truyen>
-		<tac_gia>Komori Yoichi, Takemura Yuuji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/02/fb/02fb1b35835aab64254e4a601fea87e115e426f1_32292_200_285.jpg</hinh_nho>
-		<gioi_thieu>Salvors are men responsible for towing wrecked ships and handling the cargos. They are different from rescue teams as they usually ask for money before offering help. Nanba Rintarou's father was the owner of such a company, but Rintarou really hated the way they operated and decided to join the Coast Guard However, Rintarou's father died right after Rintarou completed his training. In his will he asked Rintarou to take over his company. What's worse is he left his son a debt of 1.5 billion yen...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/waga-na-wa-umishi-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
