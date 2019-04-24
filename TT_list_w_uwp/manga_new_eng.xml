@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="grancrest senki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Ecchi, Fantasy, Historical, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>grancrest senki</ten_truyen>
+		<ma_truyen>grancrest-senki</ma_truyen>
+		<tac_gia>Mizuno Ryou, Miyuu, Yotsuba Makoto</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/88/63/8863788d28ddb6818dfed687221a311b0c872db9_31698_200_283.jpg</hinh_nho>
+		<gioi_thieu>On a continent ruled by chaos, the Lords have the power of a holy seal that can calm the chaos and protect the people. However, before anyone realizes it, the rulers cast aside their creed of purifying the chaos, and instead start to fight each other for each others' holy seals to gain dominion over one another. Shiruuka, an isolated mage who scorns the Lords for abandoning their creed, and a wandering knight named Theo, who is on a journey to train to one day liberate his hometown, make an everlasting oath to work together to reform this continent dominated by wars and chaos.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/grancrest-senki-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="shuumatsu no walkure" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Fantasy, Historical, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>shuumatsu no walkure</ten_truyen>
+		<ma_truyen>shuumatsu-no-walkure</ma_truyen>
+		<tac_gia>Fukui Takumi, Umemura Shinya, Aji Chika</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/23/92/2392f5fb490b932302d80f327b88bd354b3032a5_35750_200_284.jpg</hinh_nho>
+		<gioi_thieu>The story begins when the gods call a convention to decide the whether to let humanity live or die, and settle on destroying humanity. But a lone valkyrie puts forward a suggestion to let the gods and humanity fight one last battle, as a last hope for humanity's continued survival. 13 gods will fight against 13 human champions in one-on-one battles to decide whether humanity lives or dies.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shuumatsu-no-walkure-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="mighty heart" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>mighty heart</ten_truyen>
+		<ma_truyen>mighty-heart</ma_truyen>
+		<tac_gia>Matsuri Seishirou</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/e7/01/e701dafde50af3af2d2baa2f86bee5012c3d7276_42614_200_309.jpg</hinh_nho>
+		<gioi_thieu>An evil organization, whose members are dressed in strange robotic looking suits, is planning to conquer the Earth. They call each other using the title of 'Mysterious person' (but the reading is given as the gairaigo for 'Phantom' ) . One of their members, Tenkawa Toichi, lives disguised as an ordinary boy in a normal high school. One day makes her appearance Maishima Kokoro, an attractive but fierce new transfer student, who is not interested in romantic relationships or sexual experiences. Her secret identity is that of last bastion of mankind against the evil army: when a danger appears, she transform herself in Mighty Heart, the Angel of Judgment! ...which is so weak to be beaten the hell out of her every time. But her real power lyes in what happen every time she experiences a state of extreme shyness: at the peak of her embarrassment she release the 'mighty beam', a terrific weapon that can reach (but only when she also cries!) a devastating power equivalent to 1 ton of TNT. This happens often when she is sexually teased, and used as final weapon in almost every battle.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mighty-heart-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="isekai wo seigyo mahou de kirihirake!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>isekai wo seigyo mahou de kirihirake!</ten_truyen>
+		<ma_truyen>isekai-wo-seigyo-mahou-de-kirihirake</ma_truyen>
+		<tac_gia>Satake Akinori, Fujisawa Naoyuki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/de/0f/de0ff6b7608c75acd54ecd4f4a7413e584d91920_42555_200_284.jpg</hinh_nho>
+		<gioi_thieu>Evan Douglas despite being born in nobility, he was bullied by everyone in his family due to his low mana capacity and even more due to his black hair and eyes that does not run in the family. The only person who is kind to him is his maid Serafina from the wolf beastman race that is of similar age and he is later exiled from the family and Serafina follows him. But either by luck or fate, after suffering a hit in the head, Evan started having dreams of a place with extremely high-technology beyond anything he could imagine, on it he saw dolls being controlled by some strange magic and glowing windows with moving pictures. This dreams leads him to develop a new magic he calls control magic, that does not belong to any of the known elements. Now Evan with his new abilities goes adventuring with his maid Serafina.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-wo-seigyo-mahou-de-kirihirake-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hibiki - shousetsuka ni naru houhou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hibiki - shousetsuka ni naru houhou</ten_truyen>
+		<ma_truyen>hibiki-shousetsuka-ni-naru-houhou</ma_truyen>
+		<tac_gia>Yanagimoto Mitsuharu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/aa/a4/aaa403be9d2fe540671bc1c36e34cce791e65e0d_21855_200_281.jpg</hinh_nho>
+		<gioi_thieu>The literature industry is suffering from the publishing recession. While the literary magazine 'Mokuren' was grieving over the present state of affairs, a composition intended for their Newcomer's Award was sent to their editing department. However, it completely ignored the application rules. It should have been torn to shreds, but the work caught the eye of a sole editor. As a result, the world began to change.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hibiki-shousetsuka-ni-naru-houhou-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="bobobo-bo-bo-bobo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>bobobo-bo-bo-bobo</ten_truyen>
 		<ma_truyen>bobobo-bo-bo-bobo</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/08/44/08447688a71db088ef880ffec8605f8ecc6c5cc1_37498_200_300.jpg</hinh_nho>
 		<gioi_thieu>Losing his memories, the curtains of the story of alternate world transfer of the MC rises. After the transfer his name changes to Kelvin. While steadily levelling, he adds new subordinates by mastering his skill. And by the time he noticed it, he had obtained overwhelming power. Where will our MC be heading off to?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kuro-no-shoukanshi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="why are you here sensei!?" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>why are you here sensei!?</ten_truyen>
-		<ma_truyen>why-are-you-here-sensei</ma_truyen>
-		<tac_gia>Soborou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/fd/e5/fde5853c5250230eaa2de85a4d8d7e4b3d2a8d2e_35169_200_284.jpg</hinh_nho>
-		<gioi_thieu>17-year-old Ichirou Satou is an average guy who always happens to find himself in a perverted situation with his teacher, Kana Kojima. Follow this erotic love comedy about their mishaps and how Ichirou and Kana choose to handle them. The four Golden Times one-shot prequels are included formally as Chapters 1-4 of Nande koko ni sensei ga!? in the Volume 01 Tankobon. The series continuation begins at Chapter 5. Later chapters and volumes follow new student-teacher couples at the same school Ichirou and Kana attend.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/why-are-you-here-sensei-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mf ghost" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Seinen, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>mf ghost</ten_truyen>
-		<ma_truyen>mf-ghost</ma_truyen>
-		<tac_gia>Shigeno Shuichi</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/56/43/5643e141052093ef09e965496bac4fe667524d88_32720_200_303.jpg</hinh_nho>
-		<gioi_thieu>MF Ghost takes place in the 2020s, when self-driving cars are ubiquitous in Japan. Centered around Kanata Livington, a Japanese driver who goes back to Japan after graduating at the top of his class at a racing school in England. MF Ghost also focuses on the MFG, a racing circuit on public roads that has garnered attention worldwide.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mf-ghost-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="isekai nonbiri nouka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Harem, Romance, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>isekai nonbiri nouka</ten_truyen>
-		<ma_truyen>isekai-nonbiri-nouka</ma_truyen>
-		<tac_gia>Naitou Kinosuke, Tsurugi Yasuyuki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/76/1d/761d5a2bf2928affa2a11536252d59c2f3dc162d_38842_200_283.jpg</hinh_nho>
-		<gioi_thieu>You know the deal by now. Middle-aged office worker gets sick and dies. He meets God, who tells him that he can be reincarnated in a new world. Our main character accepts, and decides to become a farmer. Welcome to farming in an alternate world.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-nonbiri-nouka-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="nekomusume shoukougun" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shoujo ai, Supernatural, Yuri" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>nekomusume shoukougun</ten_truyen>
-		<ma_truyen>nekomusume-shoukougun</ma_truyen>
-		<tac_gia>Nekotarou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/0f/82/0f82e1b5191aef747f773c56f356890646246320_45357_200_284.jpg</hinh_nho>
-		<gioi_thieu>Catulus Syndrome - A strange illness which causes girls to develop catlike traits. Modern science has figured out two things about this illness: 1. They're really cute! 2. There's a high chance of making girls' hearts flutter.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/nekomusume-shoukougun-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="yowamushi pedal" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>yowamushi pedal</ten_truyen>
-		<ma_truyen>yowamushi-pedal</ma_truyen>
-		<tac_gia>Watanabe Wataru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/0c/bf/0cbf048ba5291455f3e61fec50a745f57ea4343b_48679_200_308.jpg</hinh_nho>
-		<gioi_thieu>Otaku Sakamichi Onoda has just entered high school and plans to join the anime club. In middle school, Onoda didn't have any friends with whom he could talk about anime, games, Akihabara and other otaku things, and he is hoping he can make such friends in the anime club, but he finds out it's been disbanded. In order to reestablish the club he tries to find 4 other people who would like to join. Since he was a little boy, Onoda has ridden his mamachari-a bulky bicycle with a step-through frame mainly used for short rides, such as for casual fun or to pick up groceries-to go to Akihabara every week to check out or buy otaku things. Fellow freshman Shunsuke Imaizumi and bicyclist, while training, notices a boy (Onoda) riding his mamachari up a steep road. Freshman and road racing cyclist, Shokichi Naruko visits Akihabara to get some Gundam plastic models for his younger brothers and meets Onoda who catches his attention because of the his cycling skill on the mamachari and later find out they go to the same school. Later on, both Naruko and Imaizumi try to convince him to join the bicycle racing club, but will he?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yowamushi-pedal-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
