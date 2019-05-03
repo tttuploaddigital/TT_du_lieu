@@ -2121,14 +2121,23 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>Welcome to Copperhead, a grimy mining town on the edge of a backwater planet. Single mom Clara Bronson is the new sheriff, and on her first day she'll have to contend with a resentful deputy, a shady mining tycoon, and a family of alien hillbillies. And did we mention the massacre?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/copperhead-eng.xml</file_xml>
     </truyen>
-	<truyen ten="cosmic ghost rider" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>cosmic ghost rider</ten_truyen>
+	<truyen ten="cosmic ghost rider  " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>cosmic ghost rider  </ten_truyen>
 		<ma_truyen>cosmic-ghost-rider</ma_truyen>
         <tac_gia>Donny Cates, Dylan Burnett</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/c/cosmic-ghost-rider/1_medium.jpg</hinh_nho>
         <gioi_thieu>EXPLODING FROM THE PAGES OF THANOS! Frank Castle was the Punisher. A deal with the devil made him Ghost Rider. A deal with Galactus made him cosmic. A deal with Thanos made him... DEAD?!? Not to worry, he's coming back, and he's got a plan to make the universe a better place that's going to lead him into an even CRAZIER adventure than he's ever been in! Join hot new comic (and cosmic?) writer Donny Cates (THANOS, DOCTOR STRANGE) as he pushes his wildest creation past the breaking point!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cosmic-ghost-rider-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="cosmic ghost rider destroys marvel history" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>cosmic ghost rider destroys marvel history</ten_truyen>
+		<ma_truyen>cosmic-ghost-rider-destroys-marvel-history</ma_truyen>
+        <tac_gia>Nick Giovannetti, Paul Scheer, Gerardo Sandoval</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/cosmic-ghost-rider-destroys-marvel-history/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Cosmic Ghost Rider is stuck in the past, so he might as well have some fun with the origins of the Marvel Universe, right?! After going back in time and trying to kill Thanos as a baby, Frank Castle has sworn off trying to alter history. But when he arrives in Earth's past at the birth of the Fantastic Four, how can he resist jumping in on the fun?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cosmic-ghost-rider-destroys-marvel-history-eng.xml</file_xml>
     </truyen>
 	<truyen ten="crackdown" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>crackdown</ten_truyen>
@@ -2390,6 +2399,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <hinh_nho>https://comicbookroundup.com/img/covers/d/dc-nation-(2018)/0_medium.jpg</hinh_nho>
         <gioi_thieu>DC Nation features three brand-new stories from a lineup of superstar talent that will appear only in this comic book and will not be reprinted in another comic book before each series' collected editions.-and each tale serves as a prelude to some of the biggest DC events of 2018!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dc-nation-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="dceased" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dceased</ten_truyen>
+		<ma_truyen>dceased</ma_truyen>
+        <tac_gia>Tom Taylor, Trevor Hairsine, James Harren</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dceased/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A mysterious techno-virus has been released on Earth, infecting 600 million people and turning them instantly into violent, monstrous engines of destruction. The heroes of the DCU are caught completely unprepared for a pandemic of this magnitude and struggle to save their loved ones first...but what happens to the World's Greatest Heroes if the world ends?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dceased-eng.xml</file_xml>
     </truyen>
 	<truyen ten="dead drop" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>dead drop</ten_truyen>
@@ -3239,6 +3257,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <hinh_nho>https://comicbookroundup.com/img/covers/f/fathom-(2018)/1_medium.jpg</hinh_nho>
         <gioi_thieu>This all-new adventure for Aspen's preeminent hero sees her attempt to navigate an ever-changing world where The Blue are not only present above the surface-but exploited in new and dangerous ways. When a rival nation to The States decides to take control of the global landscape by tapping into the power of The Blue, Aspen Matthews discovers that a new adversary has risen to challenge the notion that she is the most powerful person on the planet-and humanity may suffer the consequences!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fathom-2018-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="female furies" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>female furies</ten_truyen>
+		<ma_truyen>female-furies</ma_truyen>
+        <tac_gia>Cecil Castellucci, Adriana Melo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/female-furies/1_medium.jpg</hinh_nho>
+        <gioi_thieu>All their lives the Female Furies have been raised to be the meanest, most cunning and most ruthless fighting force on all of Apokolips. So why are Granny Goodness' girls left behind every time the men go to war? With the might of New Genesis hanging over the planet, and the Forever People making mincemeat out of Darkseid's army, Granny thinks it's about time that changed. And so, Big Barda, Aurelie, Mad Harriet, Lashina, Bernadeth and Stompa set out to beat the boys at their own game. Little do they know the game is rigged-and one accidental murder could spell disaster for them all!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/female-furies-eng.xml</file_xml>
     </truyen>
 	<truyen ten="fence" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>fence</ten_truyen>
@@ -6266,6 +6293,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-knights-20th/1_medium.jpg</hinh_nho>
         <gioi_thieu>In celebration of the legendary imprint founded by Marvel's CCO Joe Quesada, a new crop of talent stands poised to tell a groundbreaking story across the Marvel Universe! In the cemetery, the blind man does not know who he is, or why he has come to this particular grave at this moment. He doesn't know the burly police officer with the wild story who has approached him. Or the strangely intense man who sits in the rear seat of the patrol car, his eyes flashing green. But all of that is about to change.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-knights-20th-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="marvel team-up (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>marvel team-up (2019)</ten_truyen>
+		<ma_truyen>marvel-team-up-2019</ma_truyen>
+        <tac_gia>Jason Aaron, Russell Dauterman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-team-up-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE CLASSIC MARVEL TEAM-UP RETURNS! After a science demonstration at Empire State University goes awry, Ms. Marvel and Spider-Man find themselves tangled up in the same chaotic adventure. Is it destiny? Or disaster?! Eve L. Ewing (IRONHEART) and Joey Vazquez (SPIDER-GEDDON) team up for the first thrilling arc of a mind-bending and magnificent new series!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-team-up-2019-eng.xml</file_xml>
     </truyen>
 	<truyen ten="marvel two-in-one (2017)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>marvel two-in-one (2017)</ten_truyen>
@@ -9629,6 +9665,15 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <hinh_nho>https://file-thumb.mpcdn.net/23595/3/200.jpg</hinh_nho>
         <gioi_thieu>Han Jee-Han, a normal high school student, suddenly develops a special power where his entire world is shifted into a game-like setting. He can see the power levels of people, look at the stats of a seemingly normal item, get abilities, and even level up! Follow Han Jee-Han as he discovers how to use this power, and maybe even where it came from.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/the-gamer-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the girl in the bay" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Mature, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the girl in the bay</ten_truyen>
+		<ma_truyen>the-girl-in-the-bay</ma_truyen>
+        <tac_gia>J.M. DeMatteis, Corin Howell</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-girl-in-the-bay/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In 1969, seventeen-year-old Kathy Sartori was brutally attacked, her body hurled into Brooklyn's Sheepshead Bay. Miraculously, she survives and fights her way back to the surface, only to discover that fifty years have passed and an eerie doppelganger has lived out an entire life in her place. Kathy soon confronts not just this strange double, but the madman who 'murdered' her five decades earlier. Will he, and the dark entity that lives inside him, hold the key to Kathy's missing years? Or will Kathy become a ghost of herself, forced to live out what remains of her life on the edge of the world that she desperately wants to be a part of?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-girl-in-the-bay-eng.xml</file_xml>
     </truyen>
 	<truyen ten="the god of high school" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Martial arts, Shounen., Supernatural, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>the god of high school</ten_truyen>

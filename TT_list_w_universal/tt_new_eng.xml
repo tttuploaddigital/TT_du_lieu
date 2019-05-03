@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="dceased" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dceased</ten_truyen>
+		<ma_truyen>dceased</ma_truyen>
+        <tac_gia>Tom Taylor, Trevor Hairsine, James Harren</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dceased/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A mysterious techno-virus has been released on Earth, infecting 600 million people and turning them instantly into violent, monstrous engines of destruction. The heroes of the DCU are caught completely unprepared for a pandemic of this magnitude and struggle to save their loved ones first...but what happens to the World's Greatest Heroes if the world ends?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dceased-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="marvel team-up (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>marvel team-up (2019)</ten_truyen>
+		<ma_truyen>marvel-team-up-2019</ma_truyen>
+        <tac_gia>Jason Aaron, Russell Dauterman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-team-up-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE CLASSIC MARVEL TEAM-UP RETURNS! After a science demonstration at Empire State University goes awry, Ms. Marvel and Spider-Man find themselves tangled up in the same chaotic adventure. Is it destiny? Or disaster?! Eve L. Ewing (IRONHEART) and Joey Vazquez (SPIDER-GEDDON) team up for the first thrilling arc of a mind-bending and magnificent new series!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-team-up-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="female furies" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>female furies</ten_truyen>
+		<ma_truyen>female-furies</ma_truyen>
+        <tac_gia>Cecil Castellucci, Adriana Melo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/female-furies/1_medium.jpg</hinh_nho>
+        <gioi_thieu>All their lives the Female Furies have been raised to be the meanest, most cunning and most ruthless fighting force on all of Apokolips. So why are Granny Goodness' girls left behind every time the men go to war? With the might of New Genesis hanging over the planet, and the Forever People making mincemeat out of Darkseid's army, Granny thinks it's about time that changed. And so, Big Barda, Aurelie, Mad Harriet, Lashina, Bernadeth and Stompa set out to beat the boys at their own game. Little do they know the game is rigged-and one accidental murder could spell disaster for them all!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/female-furies-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="cosmic ghost rider destroys marvel history" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>cosmic ghost rider destroys marvel history</ten_truyen>
+		<ma_truyen>cosmic-ghost-rider-destroys-marvel-history</ma_truyen>
+        <tac_gia>Nick Giovannetti, Paul Scheer, Gerardo Sandoval</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/cosmic-ghost-rider-destroys-marvel-history/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Cosmic Ghost Rider is stuck in the past, so he might as well have some fun with the origins of the Marvel Universe, right?! After going back in time and trying to kill Thanos as a baby, Frank Castle has sworn off trying to alter history. But when he arrives in Earth's past at the birth of the Fantastic Four, how can he resist jumping in on the fun?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cosmic-ghost-rider-destroys-marvel-history-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the girl in the bay" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Mature, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the girl in the bay</ten_truyen>
+		<ma_truyen>the-girl-in-the-bay</ma_truyen>
+        <tac_gia>J.M. DeMatteis, Corin Howell</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-girl-in-the-bay/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In 1969, seventeen-year-old Kathy Sartori was brutally attacked, her body hurled into Brooklyn's Sheepshead Bay. Miraculously, she survives and fights her way back to the surface, only to discover that fifty years have passed and an eerie doppelganger has lived out an entire life in her place. Kathy soon confronts not just this strange double, but the madman who 'murdered' her five decades earlier. Will he, and the dark entity that lives inside him, hold the key to Kathy's missing years? Or will Kathy become a ghost of herself, forced to live out what remains of her life on the edge of the world that she desperately wants to be a part of?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-girl-in-the-bay-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="grancrest senki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Ecchi, Fantasy, Historical, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>grancrest senki</ten_truyen>
 		<ma_truyen>grancrest-senki</ma_truyen>
@@ -360,49 +405,4 @@
 		<gioi_thieu>It details the life of a mid-rank soldier who died at the very end of the war against the Demon Race. Fortunately for him, he wakes up to find that he's a baby again, in the embrace of his real mother, years in the past. Determined to avoid the chain of tragedies that took his beloved ones away from him, he takes advantage of the advancements in swordsmanship and magic that developed during the war (as we all know, wars are when many scientific breakthroughs tend to happen), and tries his best to prepare for the demon invasion as well as strengthen himself with maximum efficiency.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hiraheishi-wa-kako-o-yumemiru-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="age of x-man: prisoner x" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>age of x-man: prisoner x</ten_truyen>
-		<ma_truyen>age-of-x-man-prisoner-x</ma_truyen>
-        <tac_gia>Vita Ayala, German Peralta</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-prisoner-x/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ENTER THE AGE OF X-MAN! In the Age of X-Man, when you break the law, you aren't sent to just any prison. You're sent to the Danger Room...a penitentiary filled with the roughest and meanest mutants that don't fit into X-Man's utopia. They each have a reason for being there. And they're all ready to kill each other. But that's about to change, because the newest prisoner just arrived...Lucas Bishop!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-prisoner-x-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="meet the skrulls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>meet the skrulls</ten_truyen>
-		<ma_truyen>meet-the-skrulls</ma_truyen>
-        <tac_gia>Robbie Thompson, Niko Henrichon</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/meet-the-skrulls/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Warners are your typical family. Dad works at Stark. Mom works in a senator's office. Jennifer and Alice are students at Stamford High School. The only thing that makes them different is that they're shape-shifting Skrulls and have infiltrated our society to pave the way for a Skrull invasion. Robbie Thompson (SPIDER-MAN/DEADPOOL) and Niko Henrichon (DOCTOR STRANGE, Pride of Baghdad) bring the Marvel Universe down to earth with a bold new look at the Skrulls that will test even YOUR loyalty.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/meet-the-skrulls-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="starcraft: soldiers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>starcraft: soldiers</ten_truyen>
-		<ma_truyen>starcraft-soldiers</ma_truyen>
-        <tac_gia>Jody Houser, Andrew R. Robinson, Miguel Sepulveda</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/starcraft-soldiers/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Jody Houser (Stranger Things, Star Wars) joins Blizzard Entertainment writer Andrew R. Robinson (Overwatch Anthology) for issue #1 of StarCraft: Soldiers, the latest addition to the StarCraft expanded universe. Newly graduated Lieutenant Shivani Singh wants to defend the Dominion on the front lines, but it will take more than good grades and confidence to survive on the edge of zerg space.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/starcraft-soldiers-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="invisible kingdom" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>invisible kingdom</ten_truyen>
-		<ma_truyen>invisible-kingdom</ma_truyen>
-        <tac_gia>G. Willow Wilson, Christian Ward</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/invisible-kingdom/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Set in a in a far-flung star system, this new epic sci-fi monthly saga tells the tale of two women-a young religious acolyte and a hard-bitten freighter pilot-who separately uncover a vast conspiracy between the leader of the system's dominant religion and the mega-corporation that controls society. On the run from reprisals on both sides, this unlikely pair of rebels risk plunging the world into anarchy if they reveal the truth. But when your beliefs betray you, what choice is there left? By Hugo Award-winning writer G. Willow Wilson (Wonder Woman, Ms. Marvel) and Eisner Award-winning artist Christian Ward (Black Bolt, ODY-C).</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invisible-kingdom-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="criminal (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Crime, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>criminal (2019)</ten_truyen>
-		<ma_truyen>criminal-2019</ma_truyen>
-        <tac_gia>Ed Brubaker, Jacob Phillips, Sean Phillips</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/criminal-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE RETURN OF THE MOST ACCLAIMED CRIME COMIC OF THE 21ST CENTURY! Hot off their bestselling series KILL OR BE KILLED and their original graphic novel MY HEROES HAVE ALWAYS BEEN JUNKIES, crime comic masters ED BRUBAKER and SEAN PHILLIPS finally return to their most-demanded title -- as a new MONTHLY SERIES! A perfect introduction to CRIMINAL and its dark, exciting world, this series will also include back page art and articles to bring readers more fully into the noir experience.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/criminal-2019-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
