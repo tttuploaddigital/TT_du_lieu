@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>young justice (2019)</ten_truyen>
+		<ma_truyen>young-justice-2019</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/y/young-justice-(2019)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/young-justice-2019-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>harley quinn (2016)</ten_truyen>
+		<ma_truyen>harley-quinn-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
+		<chap_moi>issue 61</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>teenage mutant ninja turtles: urban legends</ten_truyen>
+		<ma_truyen>teenage-mutant-ninja-turtles-urban-legends</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-urban-legends/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teenage-mutant-ninja-turtles-urban-legends-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>barbarella / dejah thoris</ten_truyen>
+		<ma_truyen>barbarella-dejah-thoris</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarelladejah-thoris/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-dejah-thoris-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>paper girls</ten_truyen>
+		<ma_truyen>paper-girls</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/p/paper-girls/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/paper-girls-eng.xml</file_xml>
+		<chap_moi>issue 28</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>champions (2019)</ten_truyen>
 		<ma_truyen>champions-2019</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/c/champions-(2019)/1_medium.jpg</hinh_nho>
@@ -281,40 +316,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/i/invaders-(2019)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invaders-2019-eng.xml</file_xml>
 		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars (2015)</ten_truyen>
-		<ma_truyen>star-wars-2015</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
-		<chap_moi>issue 64</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>young justice (2019)</ten_truyen>
-		<ma_truyen>young-justice-2019</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/y/young-justice-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/young-justice-2019-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>captain america (2018)</ten_truyen>
-		<ma_truyen>captain-america-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-america-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-america-2018-eng.xml</file_xml>
-		<chap_moi>issue 9</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>harley quinn (2016)</ten_truyen>
-		<ma_truyen>harley-quinn-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
-		<chap_moi>issue 60</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>deadpool (2018)</ten_truyen>
-		<ma_truyen>deadpool-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-2018-eng.xml</file_xml>
-		<chap_moi>issue 11</chap_moi>
 	</truyen>
 </danh_sach_truyen>

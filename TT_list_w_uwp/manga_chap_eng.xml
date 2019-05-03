@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>onepunch-man</ten_truyen>
+		<ma_truyen>onepunch-man</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onepunch-man-eng.xml</file_xml>
+		<chap_moi>chap 107</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 156</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>baki dou</ten_truyen>
+		<ma_truyen>baki-dou</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/26738/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baki-dou-eng.xml</file_xml>
+		<chap_moi>chap 167</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>murenase! shiiton gakuen</ten_truyen>
+		<ma_truyen>murenase-shiiton-gakuen</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41813/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/murenase-shiiton-gakuen-eng.xml</file_xml>
+		<chap_moi>chap 70.5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>reincarnation no kaben</ten_truyen>
+		<ma_truyen>reincarnation-no-kaben</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/27742/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/reincarnation-no-kaben-eng.xml</file_xml>
+		<chap_moi>chap 40</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>yuusha ga shinda!</ten_truyen>
 		<ma_truyen>yuusha-ga-shinda</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/29997/3/200.jpg</hinh_nho>
@@ -244,41 +279,6 @@
         <hinh_nho>https://file-thumb.anyacg.co/W300/e0/cb/e0cbb96e121d98ad3c2c9070b6415fe06274dc9e_47183_200_310.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaifuku-jutsushi-no-yarinaoshi-eng.xml</file_xml>
 		<chap_moi>chap 16.1</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 939</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>black clover</ten_truyen>
-		<ma_truyen>black-clover</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
-		<chap_moi>chap 201</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>beastars</ten_truyen>
-		<ma_truyen>beastars</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/47885/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/beastars-eng.xml</file_xml>
-		<chap_moi>chap 124</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>usogui</ten_truyen>
-		<ma_truyen>usogui</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
-		<chap_moi>chap 237</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
-		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kumo-desu-ga-nani-ka-eng.xml</file_xml>
-		<chap_moi>chap 35.2</chap_moi>
 	</truyen>
 	<truyen>
 		<ten_truyen>one piece</ten_truyen>
