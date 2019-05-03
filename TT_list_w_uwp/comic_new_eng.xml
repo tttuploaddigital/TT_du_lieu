@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="dceased" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>dceased</ten_truyen>
+		<ma_truyen>dceased</ma_truyen>
+        <tac_gia>Tom Taylor, Trevor Hairsine, James Harren</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dceased/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A mysterious techno-virus has been released on Earth, infecting 600 million people and turning them instantly into violent, monstrous engines of destruction. The heroes of the DCU are caught completely unprepared for a pandemic of this magnitude and struggle to save their loved ones first...but what happens to the World's Greatest Heroes if the world ends?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dceased-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="marvel team-up (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>marvel team-up (2019)</ten_truyen>
+		<ma_truyen>marvel-team-up-2019</ma_truyen>
+        <tac_gia>Jason Aaron, Russell Dauterman</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/marvel-team-up-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE CLASSIC MARVEL TEAM-UP RETURNS! After a science demonstration at Empire State University goes awry, Ms. Marvel and Spider-Man find themselves tangled up in the same chaotic adventure. Is it destiny? Or disaster?! Eve L. Ewing (IRONHEART) and Joey Vazquez (SPIDER-GEDDON) team up for the first thrilling arc of a mind-bending and magnificent new series!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-team-up-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="female furies" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>female furies</ten_truyen>
+		<ma_truyen>female-furies</ma_truyen>
+        <tac_gia>Cecil Castellucci, Adriana Melo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/female-furies/1_medium.jpg</hinh_nho>
+        <gioi_thieu>All their lives the Female Furies have been raised to be the meanest, most cunning and most ruthless fighting force on all of Apokolips. So why are Granny Goodness' girls left behind every time the men go to war? With the might of New Genesis hanging over the planet, and the Forever People making mincemeat out of Darkseid's army, Granny thinks it's about time that changed. And so, Big Barda, Aurelie, Mad Harriet, Lashina, Bernadeth and Stompa set out to beat the boys at their own game. Little do they know the game is rigged-and one accidental murder could spell disaster for them all!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/female-furies-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="cosmic ghost rider destroys marvel history" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>cosmic ghost rider destroys marvel history</ten_truyen>
+		<ma_truyen>cosmic-ghost-rider-destroys-marvel-history</ma_truyen>
+        <tac_gia>Nick Giovannetti, Paul Scheer, Gerardo Sandoval</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/cosmic-ghost-rider-destroys-marvel-history/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Cosmic Ghost Rider is stuck in the past, so he might as well have some fun with the origins of the Marvel Universe, right?! After going back in time and trying to kill Thanos as a baby, Frank Castle has sworn off trying to alter history. But when he arrives in Earth's past at the birth of the Fantastic Four, how can he resist jumping in on the fun?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/cosmic-ghost-rider-destroys-marvel-history-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the girl in the bay" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Mature, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the girl in the bay</ten_truyen>
+		<ma_truyen>the-girl-in-the-bay</ma_truyen>
+        <tac_gia>J.M. DeMatteis, Corin Howell</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-girl-in-the-bay/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In 1969, seventeen-year-old Kathy Sartori was brutally attacked, her body hurled into Brooklyn's Sheepshead Bay. Miraculously, she survives and fights her way back to the surface, only to discover that fifty years have passed and an eerie doppelganger has lived out an entire life in her place. Kathy soon confronts not just this strange double, but the madman who 'murdered' her five decades earlier. Will he, and the dark entity that lives inside him, hold the key to Kathy's missing years? Or will Kathy become a ghost of herself, forced to live out what remains of her life on the edge of the world that she desperately wants to be a part of?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-girl-in-the-bay-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="war of the realms " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>war of the realms </ten_truyen>
 		<ma_truyen>war-of-the-realms</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/w/wolverine-infinity-watch/1_medium.jpg</hinh_nho>
         <gioi_thieu>REVEALED AT LAST! HOW WOLVERINE GOT THE INFINITY STONE! Wolverine has finally returned, disentwined from the evil clutches of Soteira...but hang on, didn't he have an Infinity Stone? How did THAT happen?! And wasn't he popping up all over the place for a little while? The answers you seek are finally revealed as Logan goes cosmic alongside everyone's favorite god of lies and stories, Loki Laufeyson!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wolverine-infinity-watch-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="hulkverines" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>hulkverines</ten_truyen>
-		<ma_truyen>hulkverines</ma_truyen>
-        <tac_gia>Greg Pak, Ario Anindito</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/hulkverines/1_medium.jpg</hinh_nho>
-        <gioi_thieu>At last! It's Weapon H versus his predecessors-Wolverine and the Hulk! Once, the Weapon X program sought to recreate the world's two greatest hunters. They ended up with Weapon H, a man of Adamantium claws and gamma-juiced blood. Now, Wolverine and the Hulk are back in action - and coming after the dangerous creation made in their name!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/hulkverines-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="doctor strange (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>doctor strange (2018)</ten_truyen>
-		<ma_truyen>doctor-strange-2018</ma_truyen>
-        <tac_gia>Mark Waid, Jesus Saiz</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/doctor-strange-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>SORCERER SUPREME...OF THE GALAXY! The Eye of Agamotto is closed! Doctor Stephen Strange has lost his connection to the Earth's arcane power, and he can't wait to recover while nightmares press against the seams of our reality. Tony Stark offers a 21st-century solution: When astral travel fails, try astronautical travel. Enter Doctor Strange: Space-Explorer Supreme! New spells, allies and enemies - new and old - await Strange beyond the stars, along with corners and secrets of the Marvel Universe seen here for the first time! Space is endless, but time is short. After years of threats, Stephen's bill for magic use is coming due - who will come to collect?!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doctor-strange-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="avengers: no road home" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>avengers: no road home</ten_truyen>
-		<ma_truyen>avengers-no-road-home</ma_truyen>
-        <tac_gia>Al Ewing, Mark Waid, Jim Zub, Paco Medina</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/avengers-no-road-home/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The team that brought you AVENGERS: NO SURRENDER REUNITES for an all-new weekly AVENGERS adventure! Night has fallen across the universe. Now seven Avengers - and one new addition - journey forth to bring back the light. But when the threat they face has destroyed even the gods...will anyone make it home?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/avengers-no-road-home-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="wonder twins" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>wonder twins</ten_truyen>
-		<ma_truyen>wonder-twins</ma_truyen>
-        <tac_gia>Mark Russell, Stephen Byrne</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-twins-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Exiled from their home planet, alien heroes Zan and Jayna must navigate life as teens on Earth at South Metropolis High School, where they're even bigger outsiders than the typical awkward young adults. Under the watchful eye of Superman, the brother and sister pull monitor duty at the Hall of Justice as interns, while also trying to overcome the pitfalls of Zan's brash confidence and Jayna's shy but streetwise persona. If you think you know the Wonder Twins, think again-this book takes the form of the unexpected.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-twins-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="age of x-man: nextgen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>age of x-man: nextgen</ten_truyen>
-		<ma_truyen>age-of-x-man-nextgen</ma_truyen>
-        <tac_gia>Ed Brisson, Marcus To</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-nextgen/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ENTER THE AGE OF X-MAN! The perfect heroes for a perfect world! The X-Men have helped make the world into a utopia where living in fear and hatred is a thing of the past. All people are united under the banner of mutantkind, and all of mutantkind idolizes the X-Men. Jean Grey! Colossus! Storm! X-23! X-Man! Nature Girl! Magneto! And of course, the amazing Nightcrawler! When danger threatens the world, the Marvelous X-Men set things right for the good of all. And no one dares say otherwise.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-nextgen-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
