@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="/blush-dc." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Drama, Ecchi, Mature, Romance, Seinen, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>/blush-dc.</ten_truyen>
+		<ma_truyen>blush-dc</ma_truyen>
+		<tac_gia>Miyazaki Maya</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/71/56/71561fd317cd0f50a26bebde88c45a49cd3762ed_37567_200_285.jpg</hinh_nho>
+		<gioi_thieu>Akiyoshi Wataru is your average student. He attends cram school, hangs out with his friends and does what boys his age do: Go after girls. One day a particular girl, Iwashita Ayane, catches his attention in cram school, because of her red fingernail. Later in town he sees a familiar girl and follows her. But the girl enters an image club. A brothel that specializes on cosplay. What's more, one of the girls working there goes by the name of 'Ayane'. What does that mean? And what will Wataru do?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/blush-dc-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="strike or gutter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Seinen, Slice of life, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>strike or gutter</ten_truyen>
+		<ma_truyen>strike-or-gutter</ma_truyen>
+		<tac_gia>Ando Yuu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/61/da/61da80bc5dad9b8e464a6938eb1e41db60710d48_23863_200_282.jpg</hinh_nho>
+		<gioi_thieu>Touka is an ordinary high school girl who loves bowling. Her father runs a bowling alley, she has a crush on her former coach, and she is a pro at the game. The only issue is that if anybody watches her bowl, she becomes extremely conscientious of her body and plays poorly. To ensure this doesn't happen, Touka's best friend tries to help her overcome her shyness while bowling.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/strike-or-gutter-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="rakujitsu no pathos" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>rakujitsu no pathos</ten_truyen>
+		<ma_truyen>rakujitsu-no-pathos</ma_truyen>
+		<tac_gia>Tsuyatsuya</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/46/e5/46e586b939761143b39275a978367387b4c8eeff_21418_200_314.jpg</hinh_nho>
+		<gioi_thieu>What happens when next door to Fujiwara, an upcoming mangaka, moves Yuuki, who was his teacher back at high-school and first crush? Yuuki, a married woman now is starting a new life in the city but her husband is always away on business so she finds comfort in the company of her former student but what she doesn't realise is that Fujiwara can listen to everything happening in her apartment through the building's thin walls...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/rakujitsu-no-pathos-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="neko no otera no chion-san" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>neko no otera no chion-san</ten_truyen>
+		<ma_truyen>neko-no-otera-no-chion-san</ma_truyen>
+		<tac_gia>Ojiro Makoto</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/b8/72/b872f48ec14f085d07a19aa08ef9672897844cef_41273_200_282.jpg</hinh_nho>
+		<gioi_thieu>Looking for peace, Gen decided to attend high school somewhere far from his home, in another prefecture, where his distant relatives run the local temple, which will become Gen's new home and the start of his new life shared with his older female cousin, Chion.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/neko-no-otera-no-chion-san-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="somali to mori no kami-sama" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Drama, Fantasy, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>somali to mori no kami-sama</ten_truyen>
+		<ma_truyen>somali-to-mori-no-kami-sama</ma_truyen>
+		<tac_gia>Gureishi Yako</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/d9/5c/d95c7b59e5c9f52341c1a70018b68db6c331be81_40960_200_284.jpg</hinh_nho>
+		<gioi_thieu>The world is ruled by spirits, goblins and all manner of strange creatures. Human beings are persecuted, to the very point of extinction. One day, a golem and a lone human girl meet. This is a record of the pair; one a member of a ruined race, the other a watchman of the forest. It tells of their travels together, and of the bond between father and daughter.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/somali-to-mori-no-kami-sama-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="dceased" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>dceased</ten_truyen>
 		<ma_truyen>dceased</ma_truyen>
@@ -360,49 +405,4 @@
         <gioi_thieu>Leo wasn't allowed toys as a kid, but now that he's all grown up he's going to take yours. He used to play by the rules, but then governments and corporations set fire to the rules and still expected him to behave. He probably would have if it hadn't been for his new friend Jerry. See, Jerry isn't human; he's a personalized marketing VR... and he's malfunctioning.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/friendo-eng.xml</file_xml>
     </truyen>
-	<truyen ten="soul catcher(s)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>soul catcher(s)</ten_truyen>
-		<ma_truyen>soul-catcher-s</ma_truyen>
-		<tac_gia>Shinkai Hideo</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/8b/8f/8b8f6400a7b12b015a6f56262ae9d88d4038632f_35901_200_308.jpg</hinh_nho>
-		<gioi_thieu>Kamine Shuuta is a person who can see a person's heart (literally) whether its angry, wounded, broken, guarded, troubled etc... and because of this he's at his wits end, because he can't do anything about it. Tokisaka Hibiki is a saxophonist in the music club. Shuuta first listens to his saxophone on the terrace and wanted to ask something but Shuuta tells him to come to his performance later in the ongoing school festival. After seeing Hibiki's performance he see the notes of music as hands which can heal the wounded, tend the broken, break the shielded hearts in other words 'seize the soul' of a person. After the performance Shuuta asks Hibiki 'isn't there a person to whom your sound doesn't reach' when asked how he knew it Shuuta says although his sounds can seize hearts of others and move them but his own heart is guarded and is unmoved and troubled. Hibiki then takes Shuuta to his childhood friend Moko (Takizawa Momoko) who loved singing but became mute due to some reason. Shuuta sees her as a Sea of depression and despair Thus begins their journey to heal the heart with music.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/soul-catcher-s-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="kimi wa 008" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>kimi wa 008</ten_truyen>
-		<ma_truyen>kimi-wa-008</ma_truyen>
-		<tac_gia>Matsuena Syun</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/e5/f9/e5f9d305799c2924fb5ef3e990f4a992c0438c3d_42692_200_314.jpg</hinh_nho>
-		<gioi_thieu>Akashi Eito has failed miserably on all high school admission exams but somehow, he receives a letter of acceptance from a school he does not remember applying to. He nevertheless happily enrolls, expecting to live the ideal school life, but his aspiration are quickly destroyed as he discovers that this mysterious school is a training institute for secret agents! Immediately, Eito wants to return home, until the director of the school makes a shocking revelation: Eito's deceased father was also a secret agent! He subsequently wants to know more about the past and memories of his father, so he decides to remain at this school. However, as a student of this institution, Eito will have to face a deadly exam specifically made to test the skills of all new students... Follow this story of action and espionage, in which our hero, who lacks physical strength, compensates for it with great bravery, and captivates everyone around him with the power of his courage and friendship!!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimi-wa-008-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="raw hero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Comedy, Ecchi, Mature, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>raw hero</ten_truyen>
-		<ma_truyen>raw-hero</ma_truyen>
-		<tac_gia>Hiramoto Akira</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/49/fb/49fb22b619949c811ecc38d92c72cb90a8cc81a0_48270_200_285.jpg</hinh_nho>
-		<gioi_thieu>The unemployed Chiaki is the eldest of three brothers. With no parents, he starts job hunting to support his two younger brothers. Chiaki witnesses a young woman being asexually assaulted and tries to help without knowing that this behavior would change his destiny.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/raw-hero-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gokutei higuma" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gokutei higuma</ten_truyen>
-		<ma_truyen>gokutei-higuma</ma_truyen>
-		<tac_gia>Hokami Natsuki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/df/07/df07a1abc84e910d6c9c0599cb1d99613c70adf1_37203_200_266.jpg</hinh_nho>
-		<gioi_thieu>Watch out malevolent fugitive souls, Higuma will send you straight back from where you came!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokutei-higuma-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="hiraheishi wa kako o yumemiru" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Fantasy, Romance, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>hiraheishi wa kako o yumemiru</ten_truyen>
-		<ma_truyen>hiraheishi-wa-kako-o-yumemiru</ma_truyen>
-		<tac_gia>Okano Yuu, Suzuki Izo</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/80/e4/80e474346ce8f3816d7bacc0584bd69bec8c3ee4_41627_200_284.jpg</hinh_nho>
-		<gioi_thieu>It details the life of a mid-rank soldier who died at the very end of the war against the Demon Race. Fortunately for him, he wakes up to find that he's a baby again, in the embrace of his real mother, years in the past. Determined to avoid the chain of tragedies that took his beloved ones away from him, he takes advantage of the advancements in swordsmanship and magic that developed during the war (as we all know, wars are when many scientific breakthroughs tend to happen), and tries his best to prepare for the demon invasion as well as strengthen himself with maximum efficiency.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hiraheishi-wa-kako-o-yumemiru-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
