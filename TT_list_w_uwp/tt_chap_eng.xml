@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>captain marvel (2019)</ten_truyen>
+		<ma_truyen>captain-marvel-2019</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-marvel-(2019)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-marvel-2019-eng.xml</file_xml>
+		<chap_moi>issue 5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>wonder woman (2016)</ten_truyen>
+		<ma_truyen>wonder-woman-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-woman-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-woman-2016-eng.xml</file_xml>
+		<chap_moi>issue 70</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>star wars: doctor aphra</ten_truyen>
+		<ma_truyen>star-wars-doctor-aphra</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-doctor-aphra/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-doctor-aphra-eng.xml</file_xml>
+		<chap_moi>issue 32</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>wasted space</ten_truyen>
+		<ma_truyen>wasted-space</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wasted-space/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wasted-space-eng.xml</file_xml>
+		<chap_moi>issue 9</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>accell</ten_truyen>
+		<ma_truyen>accell</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-accell/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/accell-eng.xml</file_xml>
+		<chap_moi>issue 20</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 942</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>black clover</ten_truyen>
+		<ma_truyen>black-clover</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
+		<chap_moi>chap 204</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dr. stone</ten_truyen>
+		<ma_truyen>dr-stone</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47716/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr-stone-eng.xml</file_xml>
+		<chap_moi>chap 104</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
+		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kumo-desu-ga-nani-ka-eng.xml</file_xml>
+		<chap_moi>chap 36.1</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>grand blue</ten_truyen>
+		<ma_truyen>grand-blue</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/42623/7/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/grand-blue-eng.xml</file_xml>
+		<chap_moi>chap 52.5</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>star wars (2015)</ten_truyen>
 		<ma_truyen>star-wars-2015</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
@@ -244,75 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
 		<chap_moi>chap 62</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>damage (2018)</ten_truyen>
-		<ma_truyen>damage-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/damage/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/damage-2018-eng.xml</file_xml>
-		<chap_moi>issue 16</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>old man quill</ten_truyen>
-		<ma_truyen>old-man-quill</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/old-man-quill/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/old-man-quill-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>naomi</ten_truyen>
-		<ma_truyen>naomi</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/naomi/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/naomi-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kick-ass (2018)</ten_truyen>
-		<ma_truyen>kick-ass-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/k/kick-ass-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/kick-ass-2018-eng.xml</file_xml>
-		<chap_moi>issue 13</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>evolution  </ten_truyen>
-		<ma_truyen>evolution</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/e/evolution/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/evolution-eng.xml</file_xml>
-		<chap_moi>issue 16</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 940</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>captain tsubasa - rising sun</ten_truyen>
-		<ma_truyen>captain-tsubasa-rising-sun</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1a/88/1a882cec4848ba991b6f0e070acc6e1c0488347f_30007_200_313.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/captain-tsubasa-rising-sun-eng.xml</file_xml>
-		<chap_moi>chap 92</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>act-age</ten_truyen>
-		<ma_truyen>act-age</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/49/84/4984827829b8343c7188ea2772af1c208b28258c_32570_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/act-age-eng.xml</file_xml>
-		<chap_moi>chap 62</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gokutei higuma</ten_truyen>
-		<ma_truyen>gokutei-higuma</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/df/07/df07a1abc84e910d6c9c0599cb1d99613c70adf1_37203_200_266.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokutei-higuma-eng.xml</file_xml>
-		<chap_moi>chap 17</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mahou shoujo site</ten_truyen>
-		<ma_truyen>mahou-shoujo-site</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
-		<chap_moi>chap 125</chap_moi>
 	</truyen>
 </danh_sach_truyen>

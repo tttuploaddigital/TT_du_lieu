@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 942</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>black clover</ten_truyen>
+		<ma_truyen>black-clover</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
+		<chap_moi>chap 204</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dr. stone</ten_truyen>
+		<ma_truyen>dr-stone</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47716/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr-stone-eng.xml</file_xml>
+		<chap_moi>chap 104</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kumo desu ga, nani ka?</ten_truyen>
+		<ma_truyen>kumo-desu-ga-nani-ka</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/38765/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kumo-desu-ga-nani-ka-eng.xml</file_xml>
+		<chap_moi>chap 36.1</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>grand blue</ten_truyen>
+		<ma_truyen>grand-blue</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/42623/7/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/grand-blue-eng.xml</file_xml>
+		<chap_moi>chap 52.5</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>kingdom  </ten_truyen>
 		<ma_truyen>kingdom</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/42149/1/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomodachi-o-tsukurou-eng.xml</file_xml>
 		<chap_moi>chap 152</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>onepunch-man</ten_truyen>
-		<ma_truyen>onepunch-man</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onepunch-man-eng.xml</file_xml>
-		<chap_moi>chap 106</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kimetsu no yaiba</ten_truyen>
-		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
-		<chap_moi>chap 153</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dungeon meshi</ten_truyen>
-		<ma_truyen>dungeon-meshi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/30953/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-meshi-eng.xml</file_xml>
-		<chap_moi>chap 52</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mad chimera world</ten_truyen>
-		<ma_truyen>mad-chimera-world</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/45/64/45645dc02dbebef393fbb91eaea9f98557fb5bd6_45672_200_310.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mad-chimera-world-eng.xml</file_xml>
-		<chap_moi>chap 13</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kaifuku jutsushi no yarinaoshi</ten_truyen>
-		<ma_truyen>kaifuku-jutsushi-no-yarinaoshi</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/e0/cb/e0cbb96e121d98ad3c2c9070b6415fe06274dc9e_47183_200_310.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kaifuku-jutsushi-no-yarinaoshi-eng.xml</file_xml>
-		<chap_moi>chap 16.1</chap_moi>
 	</truyen>
 </danh_sach_truyen>
