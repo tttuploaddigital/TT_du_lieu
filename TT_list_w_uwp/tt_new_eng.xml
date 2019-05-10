@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="batman and the outsiders (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman and the outsiders (2019)</ten_truyen>
+		<ma_truyen>batman-and-the-outsiders-2019</ma_truyen>
+        <tac_gia>Bryan Edward Hill, Dexter Soy</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-and-the-outsiders-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When the quest for justice drives Batman into some morally ambiguous areas, he calls in the most moral man he knows: Jefferson Pierce, a.k.a. Black Lightning, and his team of operatives known as the Outsiders! Several years ago Batman personally put the Barrera family into hiding after they suffered through terrible experiments at the hands of an organization called the Ark. Now all but one of them has turned up dead...and Batman needs to locate Sofia Barrera before the wrong people get their hands on her-and her surprising power! But it wouldn't be Batman without a hidden agenda, would it? And when Black Lightning, Katana, the Signal and Orphan find out what Batman is really up to, their every loyalty will be called into question!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-and-the-outsiders-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms: new agents of atlas" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms: new agents of atlas</ten_truyen>
+		<ma_truyen>war-of-the-realms-new-agents-of-atlas</ma_truyen>
+        <tac_gia>Greg Pak, Gang Hyuk Lim</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-new-agents-of-atlas/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A WAR OF THE REALMS TIE-IN! As Sindr, Immortal Queen of Muspelheim, and her legions of Fire Demons march on Asia, it's time for a new band of heroes to unite to protect the Pacific Rim. Having brought together a ragtag team of heroes to defend the Earth from an alien invasion in the past, can Amadeus Cho reassemble his 'protectors' -- Shang-Chi, Silk and Jimmy Woo to save the world from incineration? And where is Kamala Khan? And just who are Crescent, Io and Luna Snow??? Featuring Marvel's newest heroes from China, AERO and SWORD MASTER, and a mysterious new Filipino heroine named WAVE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-new-agents-of-atlas-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="friendly neighborhood spider-man (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>friendly neighborhood spider-man (2019)</ten_truyen>
+		<ma_truyen>friendly-neighborhood-spider-man-2019</ma_truyen>
+        <tac_gia>Tom Taylor, Juann Cabal, Marcelo Ferreira</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/friendly-neighborhood-spider-man-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Spider-Man is the worst neighbor EVER! There are always crazy villains and property damage and drama and...and he CATCHES the villains. And he tries to fix the damage and he helps carry your groceries and actually that property damage keeps the rents down. You know what? Spider-Man is the best neighbor ever and this book will give you a closer look at Spider-Man's (and Peter Parker's) neighborhood than any book ever. Also, it wouldn't be a Spider-Man adventure without a threat that could destroy not only Spider-Man, but all his neighbors.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/friendly-neighborhood-spider-man-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="league of legends: lux" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>league of legends: lux</ten_truyen>
+		<ma_truyen>league-of-legends-lux</ma_truyen>
+        <tac_gia>John O'Bryan, Haining And Gadson Of Tan Comics, Billy Tan</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/l/league-of-legends-lux/1_medium.jpg</hinh_nho>
+        <gioi_thieu>FIRST IN A NEW SERIES THAT EXPLORES AND EXPANDS UPON THE FAN FAVORITE LEAGUE OF LEGENDS LORE! Demacia is a peaceful utopia where order reigns. Maintaining that order at any cost are the Mageseekers, who hunt down anyone utilizing forbidden magic. Hailing from a respected noble family, LUXANNA 'LUX' CROWNGUARD is destined for a life of privilege-but is hiding a terrible secret. As her own magical light powers emerge, Lux must decide whether she stands with brother GAREN and the ruling class of Demacia...or the downtrodden Mages at the fringes of society. Written by Riot Games' John O'Bryan, and illustrated by Billy Tan, Haining, and Gadson of Tan Comics, LUX #1 is all-new adventure exploring another facet Riot Games' LEAGUE OF LEGENDS lore in the Mighty Marvel Manner!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/league-of-legends-lux-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="taarna" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>taarna</ten_truyen>
+		<ma_truyen>taarna</ma_truyen>
+        <tac_gia>Alex De Campi, Esau Escorza, Isaac Escorza, Carlos Cabrera, Alex Ross</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/taarna/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Heavy Metal's iconic warrior debuts in her pulse-pounding new series! A city besieged by demons seeks salvation when a hero from forgotten legends mysteriously arrives...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/taarna-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="/blush-dc." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Drama, Ecchi, Mature, Romance, Seinen, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>/blush-dc.</ten_truyen>
 		<ma_truyen>blush-dc</ma_truyen>
@@ -360,49 +405,4 @@
 		<gioi_thieu>Listen up folks! I'm living my life with the demon queen!</gioi_thieu>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/my-wife-is-a-demon-queen-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="star wars: vader - dark visions" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Sci-fi, Space opera" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>star wars: vader - dark visions</ten_truyen>
-		<ma_truyen>star-wars-vader-dark-visions</ma_truyen>
-        <tac_gia>Dennis 'Hopeless' Hallum, Paolo Villanelli</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-vader---dark-visions-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>WHO IS DARTH VADER? He has been many things: a SITH warrior, a commander, a destroyer. DARTH VADER is to many throughout the GALACTIC EMPIRE a symbol of fear and mysterious, otherworldly power. But there are some who have seen the DARK LORD in a different light. There are some corners of the galaxy so dark and desperate that even Vader can be a knight in shining armor. The first issue of a new STAR WARS limited series, writer Dennis Hopeless (CLOAK AND DAGGER, JEAN GREY) sheds new light on the many sides of the galaxy's greatest villain.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-vader-dark-visions-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="age of x-man: apocalypse and the x-tracts" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>age of x-man: apocalypse and the x-tracts</ten_truyen>
-		<ma_truyen>age-of-x-man-apocalypse-and-the-x-tracts</ma_truyen>
-        <tac_gia>Tim Seeley, Salvador Espin</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-apocalypse--the-x-tracts/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ENTER THE AGE OF X-MAN! X-Man has created a utopia for mutants... a utopia where no one knows love. Thankfully, a hero rises up to lead the rebellion against this way of life and teach the ways of family and romance, and he goes by the name... EN SABAH NUR?! Join Apocalypse and his rebel X-Tracts as they strive to teach the world to love again!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-apocalypse-and-the-x-tracts-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="dial h for hero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>dial h for hero</ten_truyen>
-		<ma_truyen>dial-h-for-hero</ma_truyen>
-        <tac_gia>Sam Humphries, Joe Quinones</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dial-h-for-hero-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Miguel, a teen daredevil, becomes the newest wielder of the Hero Dial-a rotary phone-like device that grants the user superpowers for one hour when they dial H-E-R-O. Will he rise as a new hero in the DC Universe or crumble under the weight of responsibility the dial thrusts upon him?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dial-h-for-hero-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="daredevil (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>daredevil (2019)</ten_truyen>
-		<ma_truyen>daredevil-2019</ma_truyen>
-        <tac_gia>Chip Zdarsky, Marco Checchetto</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/daredevil-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>KNOW FEAR. Featuring action-packed extras including a Cover Gallery, Script, Inked And Color Pages and Character Designs!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/daredevil-2019-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="friendo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>friendo</ten_truyen>
-		<ma_truyen>friendo</ma_truyen>
-        <tac_gia>Alex Paknadel, Martin Simmonds</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/f/friendo/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Leo wasn't allowed toys as a kid, but now that he's all grown up he's going to take yours. He used to play by the rules, but then governments and corporations set fire to the rules and still expected him to behave. He probably would have if it hadn't been for his new friend Jerry. See, Jerry isn't human; he's a personalized marketing VR... and he's malfunctioning.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/friendo-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

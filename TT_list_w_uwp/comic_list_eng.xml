@@ -387,15 +387,6 @@
         <gioi_thieu>No one has ever stopped the Caped Crusader. Not The Joker. Not Two-Face. Not even the entire Justice League. But how does Batman confront a new hero who wants to save the city from the Dark Knight?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-2016-eng.xml</file_xml>
     </truyen>
-	<truyen ten="batman and the signal" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>batman and the signal</ten_truyen>
-		<ma_truyen>batman-and-the-signal</ma_truyen>
-        <tac_gia>Tony Patrick, Scott Snyder, Cully Hamner, Laura Martin</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-and-the-signal/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Batman may own the night, but with new villains emerging during the day he needs an ally to defend the city when he can't. Only one teen is up to the challenge, Duke Thomas. After months of training, he's ready to step out of the shadow of the bat to become his own kind of hero. Meet Gotham City's newest protector: The Signal! Spinning out of adventures in ALL-STAR BATMAN and WE ARE ROBIN, comics superstar Scott Snyder and newcomer Tony Patrick take our young hero to new heights in this exciting miniseries with artwork by Cully Hamner.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/batman-and-the-signal-eng.xml</file_xml>
-    </truyen>
 	<truyen ten="batman and harley quinn" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batman and harley quinn</ten_truyen>
 		<ma_truyen>batman-and-harley-quinn</ma_truyen>
@@ -404,6 +395,24 @@
         <hinh_nho>https://images-na.ssl-images-amazon.com/images/I/51c89pABvwL._SY346_.jpg</hinh_nho>
         <gioi_thieu>Batman's been back in Gotham for almost a week, and that means someone is about to get 'Busted'!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/batman-and-harley-quinn-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="batman and the outsiders (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman and the outsiders (2019)</ten_truyen>
+		<ma_truyen>batman-and-the-outsiders-2019</ma_truyen>
+        <tac_gia>Bryan Edward Hill, Dexter Soy</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-and-the-outsiders-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>When the quest for justice drives Batman into some morally ambiguous areas, he calls in the most moral man he knows: Jefferson Pierce, a.k.a. Black Lightning, and his team of operatives known as the Outsiders! Several years ago Batman personally put the Barrera family into hiding after they suffered through terrible experiments at the hands of an organization called the Ark. Now all but one of them has turned up dead...and Batman needs to locate Sofia Barrera before the wrong people get their hands on her-and her surprising power! But it wouldn't be Batman without a hidden agenda, would it? And when Black Lightning, Katana, the Signal and Orphan find out what Batman is really up to, their every loyalty will be called into question!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-and-the-outsiders-2019-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="batman and the signal" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman and the signal</ten_truyen>
+		<ma_truyen>batman-and-the-signal</ma_truyen>
+        <tac_gia>Tony Patrick, Scott Snyder, Cully Hamner, Laura Martin</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-and-the-signal/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Batman may own the night, but with new villains emerging during the day he needs an ally to defend the city when he can't. Only one teen is up to the challenge, Duke Thomas. After months of training, he's ready to step out of the shadow of the bat to become his own kind of hero. Meet Gotham City's newest protector: The Signal! Spinning out of adventures in ALL-STAR BATMAN and WE ARE ROBIN, comics superstar Scott Snyder and newcomer Tony Patrick take our young hero to new heights in this exciting miniseries with artwork by Cully Hamner.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/batman-and-the-signal-eng.xml</file_xml>
     </truyen>
 	<truyen ten="batman beyond (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Crime, Fantasy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batman beyond (2016)</ten_truyen>
@@ -1458,6 +1467,15 @@
         <gioi_thieu>Line up for this all-new maxiseries set on Earth X, where the Nazis won World War II! Twenty years after invading and occupying America, Germany wiped out all metahuman resistance, including the original Freedom Fighters. Fast-forward to the present day, and a new team of Freedom Fighters emerges to challenge the Nazi occupation once again. But if they're to have any chance of victory, they're going to need Uncle Sam-who disappeared after his original team was killed. The 12-part epic 'Death of a Nation' storyline kicks off here!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/freedom-fighters-2018-eng.xml</file_xml>
     </truyen>
+	<truyen ten="friendly neighborhood spider-man (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>friendly neighborhood spider-man (2019)</ten_truyen>
+		<ma_truyen>friendly-neighborhood-spider-man-2019</ma_truyen>
+        <tac_gia>Tom Taylor, Juann Cabal, Marcelo Ferreira</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/friendly-neighborhood-spider-man-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Spider-Man is the worst neighbor EVER! There are always crazy villains and property damage and drama and...and he CATCHES the villains. And he tries to fix the damage and he helps carry your groceries and actually that property damage keeps the rents down. You know what? Spider-Man is the best neighbor ever and this book will give you a closer look at Spider-Man's (and Peter Parker's) neighborhood than any book ever. Also, it wouldn't be a Spider-Man adventure without a threat that could destroy not only Spider-Man, but all his neighbors.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/friendly-neighborhood-spider-man-2019-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="friendo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>friendo</ten_truyen>
 		<ma_truyen>friendo</ma_truyen>
@@ -2294,6 +2312,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/k/kong-of-skull-island/1_medium.jpg</hinh_nho>
         <gioi_thieu>King Kong is back! The giant ape who first appeared on the silver screen in 1933 (and survived inferior remakes in 1976 and 2005) will star in a six issue Boom Studios miniseries by writer James Asmus and artist Carlos Magno. Kong of Skull Island is a prequel to Merian C. Cooper's original novel and is grounded in Joe DeVito's prose story, Skull Island. It tells a new story about two giant apes clashing, even as two different civilizations must learn to live together on Skull Island, long before Carl Denham and Ann Darrow arrive.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/kong-of-skull-island-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="league of legends: lux" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Video games" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>league of legends: lux</ten_truyen>
+		<ma_truyen>league-of-legends-lux</ma_truyen>
+        <tac_gia>John O'Bryan, Haining And Gadson Of Tan Comics, Billy Tan</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/l/league-of-legends-lux/1_medium.jpg</hinh_nho>
+        <gioi_thieu>FIRST IN A NEW SERIES THAT EXPLORES AND EXPANDS UPON THE FAN FAVORITE LEAGUE OF LEGENDS LORE! Demacia is a peaceful utopia where order reigns. Maintaining that order at any cost are the Mageseekers, who hunt down anyone utilizing forbidden magic. Hailing from a respected noble family, LUXANNA 'LUX' CROWNGUARD is destined for a life of privilege-but is hiding a terrible secret. As her own magical light powers emerge, Lux must decide whether she stands with brother GAREN and the ruling class of Demacia...or the downtrodden Mages at the fringes of society. Written by Riot Games' John O'Bryan, and illustrated by Billy Tan, Haining, and Gadson of Tan Comics, LUX #1 is all-new adventure exploring another facet Riot Games' LEAGUE OF LEGENDS lore in the Mighty Marvel Manner!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/league-of-legends-lux-eng.xml</file_xml>
     </truyen>
 	<truyen ten="legenderry red sonja" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Steampunk, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>legenderry red sonja</ten_truyen>
@@ -3600,6 +3627,15 @@
         <gioi_thieu>Everyone knows that Spider-Man's infamous black suit would someday become the wicked web-slinger called Venom - but what happened BEFORE Peter Parker discovered the black suit's sinister secret? Find out in this dynamic tale from comics legends PETER DAVID and GREG LAND! Set during the original 'Black Suit Saga,' this is an all-new tale that pits the wall-crawling wonder against that most mystifying of menaces...MYSTERIO!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/symbiote-spider-man-eng.xml</file_xml>
     </truyen>
+	<truyen ten="taarna" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy, Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>taarna</ten_truyen>
+		<ma_truyen>taarna</ma_truyen>
+        <tac_gia>Alex De Campi, Esau Escorza, Isaac Escorza, Carlos Cabrera, Alex Ross</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/taarna/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Heavy Metal's iconic warrior debuts in her pulse-pounding new series! A city besieged by demons seeks salvation when a hero from forgotten legends mysteriously arrives...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/taarna-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="teen titans (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>teen titans (2016)</ten_truyen>
 		<ma_truyen>teen-titans-2016</ma_truyen>
@@ -4391,6 +4427,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-journey-into-mystery/1_medium.jpg</hinh_nho>
         <gioi_thieu>The creators of the blockbuster podcast The Adventure Zone bring their talents to Marvel for a wild romp through THE WAR OF THE REALMS! Earth is at war, besieged by an army of Frost Giants, Trolls and Fire Goblins - and the mighty Thor is nowhere to be found! But could it be that the key to turning the tide is...Thor's baby sister? Journey into Mystery with Spider-Man (Miles Morales), Hawkeye (Kate Bishop), Wonder Man, and Balder the Brave as they go on an epic quest to save Earth's only hope! (And, yes, deal with diaper duty.)</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-journey-into-mystery-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms: new agents of atlas" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms: new agents of atlas</ten_truyen>
+		<ma_truyen>war-of-the-realms-new-agents-of-atlas</ma_truyen>
+        <tac_gia>Greg Pak, Gang Hyuk Lim</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-new-agents-of-atlas/1_medium.jpg</hinh_nho>
+        <gioi_thieu>A WAR OF THE REALMS TIE-IN! As Sindr, Immortal Queen of Muspelheim, and her legions of Fire Demons march on Asia, it's time for a new band of heroes to unite to protect the Pacific Rim. Having brought together a ragtag team of heroes to defend the Earth from an alien invasion in the past, can Amadeus Cho reassemble his 'protectors' -- Shang-Chi, Silk and Jimmy Woo to save the world from incineration? And where is Kamala Khan? And just who are Crescent, Io and Luna Snow??? Featuring Marvel's newest heroes from China, AERO and SWORD MASTER, and a mysterious new Filipino heroine named WAVE!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-new-agents-of-atlas-eng.xml</file_xml>
     </truyen>
 	<truyen ten="war of the realms: the punisher" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>war of the realms: the punisher</ten_truyen>
