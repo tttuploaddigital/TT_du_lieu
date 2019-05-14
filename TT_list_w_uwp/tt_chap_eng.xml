@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>x-force (2018)</ten_truyen>
+		<ma_truyen>x-force-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/x/x-force-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/x-force-2018-eng.xml</file_xml>
+		<chap_moi>issue 7</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>wonder woman (2016)</ten_truyen>
+		<ma_truyen>wonder-woman-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/wonder-woman-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/wonder-woman-2016-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>spider-man / deadpool</ten_truyen>
+		<ma_truyen>spider-man-deadpool</ma_truyen>
+        <hinh_nho>https://images-na.ssl-images-amazon.com/images/I/61pFDQdn%2BJL._SY346_.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/spider-man-deadpool-eng.xml</file_xml>
+		<chap_moi>issue 50</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>supergirl (2016)</ten_truyen>
+		<ma_truyen>supergirl-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/supergirl-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/supergirl-2016-eng.xml</file_xml>
+		<chap_moi>issue 30</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ronin island</ten_truyen>
+		<ma_truyen>ronin-island</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/r/ronin-island/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ronin-island-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gintama</ten_truyen>
+		<ma_truyen>gintama</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3096/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gintama-eng.xml</file_xml>
+		<chap_moi>chap 702</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gate - jietai kare no chi nite, kaku tatakeri</ten_truyen>
+		<ma_truyen>gate-jietai-kare-no-chi-nite-kaku-tatakeri</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/2999/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gate-jietai-kare-no-chi-nite-kaku-tatakeri-eng.xml</file_xml>
+		<chap_moi>chap 84</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>jujutsu kaisen</ten_truyen>
+		<ma_truyen>jujutsu-kaisen</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/7f/6e/7f6e51e972778f69ba644755de7db91f8ce14e4d_40298_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jujutsu-kaisen-eng.xml</file_xml>
+		<chap_moi>chap 58</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>akagami no shirayukihime</ten_truyen>
+		<ma_truyen>akagami-no-shirayukihime</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/464/8/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akagami-no-shirayukihime-eng.xml</file_xml>
+		<chap_moi>chap 107</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>zipang</ten_truyen>
+		<ma_truyen>zipang</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/11587/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/zipang-eng.xml</file_xml>
+		<chap_moi>chap 122</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>captain marvel (2019)</ten_truyen>
 		<ma_truyen>captain-marvel-2019</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-marvel-(2019)/1_medium.jpg</hinh_nho>
@@ -244,75 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/27742/2/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/reincarnation-no-kaben-eng.xml</file_xml>
 		<chap_moi>chap 40</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>champions (2019)</ten_truyen>
-		<ma_truyen>champions-2019</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/champions-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/champions-2019-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>adventures of the super sons</ten_truyen>
-		<ma_truyen>adventures-of-the-super-sons</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/adventures-of-the-super-sons/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/adventures-of-the-super-sons-eng.xml</file_xml>
-		<chap_moi>issue 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>batman (2016)</ten_truyen>
-		<ma_truyen>batman-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-2016-eng.xml</file_xml>
-		<chap_moi>issue 70</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dead man logan</ten_truyen>
-		<ma_truyen>dead-man-logan</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dead-man-logan/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dead-man-logan-eng.xml</file_xml>
-		<chap_moi>issue 7</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the walking dead  </ten_truyen>
-		<ma_truyen>the-walking-dead</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-walking-dead/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-walking-dead-eng.xml</file_xml>
-		<chap_moi>issue 191</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yuusha ga shinda!</ten_truyen>
-		<ma_truyen>yuusha-ga-shinda</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/29997/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuusha-ga-shinda-eng.xml</file_xml>
-		<chap_moi>chap 156</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>lv999 no murabito</ten_truyen>
-		<ma_truyen>lv999-no-murabito</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/49930/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/lv999-no-murabito-eng.xml</file_xml>
-		<chap_moi>chap 17.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>giant killing</ten_truyen>
-		<ma_truyen>giant-killing</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
-		<chap_moi>chap 311</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>noragami</ten_truyen>
-		<ma_truyen>noragami</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7118/11/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/noragami-eng.xml</file_xml>
-		<chap_moi>chap 82</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>world's end harem</ten_truyen>
-		<ma_truyen>world-s-end-harem</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
-		<chap_moi>chap 62</chap_moi>
 	</truyen>
 </danh_sach_truyen>

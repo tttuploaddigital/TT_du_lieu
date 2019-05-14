@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>gintama</ten_truyen>
+		<ma_truyen>gintama</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3096/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gintama-eng.xml</file_xml>
+		<chap_moi>chap 702</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>gate - jietai kare no chi nite, kaku tatakeri</ten_truyen>
+		<ma_truyen>gate-jietai-kare-no-chi-nite-kaku-tatakeri</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/2999/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gate-jietai-kare-no-chi-nite-kaku-tatakeri-eng.xml</file_xml>
+		<chap_moi>chap 84</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>jujutsu kaisen</ten_truyen>
+		<ma_truyen>jujutsu-kaisen</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/7f/6e/7f6e51e972778f69ba644755de7db91f8ce14e4d_40298_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jujutsu-kaisen-eng.xml</file_xml>
+		<chap_moi>chap 58</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>akagami no shirayukihime</ten_truyen>
+		<ma_truyen>akagami-no-shirayukihime</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/464/8/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akagami-no-shirayukihime-eng.xml</file_xml>
+		<chap_moi>chap 107</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>zipang</ten_truyen>
+		<ma_truyen>zipang</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/11587/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/zipang-eng.xml</file_xml>
+		<chap_moi>chap 122</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>one piece</ten_truyen>
 		<ma_truyen>one-piece</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/fa/20/fa205ccbb16cd361708fd290b2649732f3f75638_36159_200_306.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajime-no-ippo-eng.xml</file_xml>
 		<chap_moi>ch. 1259</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>issak</ten_truyen>
-		<ma_truyen>issak</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/d3/52/d3529053ee0da2d40fdb68f298314982b78e4c25_33880_200_283.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/issak-eng.xml</file_xml>
-		<chap_moi>chap 10</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>darwin's game</ten_truyen>
-		<ma_truyen>darwin-s-game</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2140/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/darwin-s-game-eng.xml</file_xml>
-		<chap_moi>chap 69</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>higanjima</ten_truyen>
-		<ma_truyen>higanjima</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/06/cc/06cc053af20c3a0dd0b2eb339fe1242e81d6195f_27651_200_284.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/higanjima-eng.xml</file_xml>
-		<chap_moi>chap 136</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>henjyo - hen na jyoshi kousei amaguri senko</ten_truyen>
-		<ma_truyen>henjyo-hen-na-jyoshi-kousei-amaguri-senko</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/32972/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/henjyo-hen-na-jyoshi-kousei-amaguri-senko-eng.xml</file_xml>
-		<chap_moi>chap 37</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tomodachi o tsukurou</ten_truyen>
-		<ma_truyen>tomodachi-o-tsukurou</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/42149/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tomodachi-o-tsukurou-eng.xml</file_xml>
-		<chap_moi>chap 152</chap_moi>
 	</truyen>
 </danh_sach_truyen>
