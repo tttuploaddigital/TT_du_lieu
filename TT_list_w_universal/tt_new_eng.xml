@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="chainsaw man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Horror, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>chainsaw man</ten_truyen>
+		<ma_truyen>chainsaw-man</ma_truyen>
+		<tac_gia>Fujimoto Tatsuki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/d7/a9/d7a98357887dff48b427338de0c3ad01145055e9_48780_200_316.jpg</hinh_nho>
+		<gioi_thieu>What happens when next door to Fujiwara, an upcoming mangaka, moves Yuuki, who was his teacher back at high-school and first crush? Yuuki, a married woman now is starting a new life in the city but her husband is always away on business so she finds comfort in the company of her former student but what she doesn't realise is that Fujiwara can listen to everything happening in her apartment through the building's thin walls...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/chainsaw-man-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="deatte 5 byou de battle" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>deatte 5 byou de battle</ten_truyen>
+		<ma_truyen>deatte-5-byou-de-battle</ma_truyen>
+		<tac_gia>Harawata Saizou, Miyako Kashiwa</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/83/6a/836a88b7bcf956ec3bd9cc10c81c1cb7565c733a_29440_200_283.jpg</hinh_nho>
+		<gioi_thieu>It was just a usual morning. Akira Shiroyanagi, a high schooler who loves games and Konpeito (Japanese sweets), has suddenly been dragged into a battlefield by a mysterious girl who calls herself Mion. The participants are told that they are 'erased from the family register, involved in an experiment, and gained certain powers.' Akira is determined to win the game with his newfound powers and destroy the organization. Armed with a power no one expects and his 'brain' skills, the new period of intelligence battle of begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/deatte-5-byou-de-battle-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="the reincarnation magician of the inferior eyes" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>the reincarnation magician of the inferior eyes</ten_truyen>
+		<ma_truyen>the-reincarnation-magician-of-the-inferior-eyes</ma_truyen>
+		<tac_gia>Citrus Yusura, Touge Hiro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/d4/6d/d46d21df95c3441b1e0fcb30151fd18c7c0a1db2_41420_200_286.jpg</hinh_nho>
+		<gioi_thieu>Abel was a genius magician who held immense power in a world where the color of your eyes indicates how powerful you are. However, the strength that came with his amber eyes was so great, even his comrades looked at him with fear and contempt. He therefore decided to transfer his soul far into the future, hoping to find a paradise that accepts him. He would soon find out that people's attitude regarding his eye color did change, but not quite the way he had imagined...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/the-reincarnation-magician-of-the-inferior-eyes-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="himenospia" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adult, Horror, Mature, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>himenospia</ten_truyen>
+		<ma_truyen>himenospia</ma_truyen>
+		<tac_gia>Murata Shinya, Yanai Nobuhiko</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/58/10/5810d7871d5c49d2612d7927e066c57d9959b5dd_33498_200_284.jpg</hinh_nho>
+		<gioi_thieu>Abused like a slave by everyone at school, and battered by the single mother she lives with at home... That was the girl's, Endou Himeno's, everyday life. However one day, a 'wasp' that stung the girl, changed her fate. Her fate, and that of humanity... Piercing the 'species' known as humanity, a thrilling insect suspense story begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/himenospia-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="karakuri circus" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Mature, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>karakuri circus</ten_truyen>
+		<ma_truyen>karakuri-circus</ma_truyen>
+		<tac_gia>Fujita Kazuhiro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/23/61/236158f39ec43a069f212d87701200b206d73c70_23054_200_316.jpg</hinh_nho>
+		<gioi_thieu>The protagonist, Masaru, has just inherited a big fortune after the death of his father. However, people are trying to get their hands on it by any means necessary, even if it means killing him. Narumi helped Masaru from being kidnapped after fighting some weird guys. He found out that they're not humans but wooden puppets with amazing strength. After a hard fight, Narumi was forced to admit that he's no opponent for them; and just when he started to think that Masaru would be captured, Shirogane, Masaru's watcher arrives from France with a weapon, the puppet Arlequin. Here, begins the story of Karakuri Circus.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/karakuri-circus-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="chronicles of heavenly demon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Martial arts, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>chronicles of heavenly demon</ten_truyen>
 		<ma_truyen>chronicles-of-heavenly-demon</ma_truyen>
@@ -360,49 +405,4 @@
         <gioi_thieu>Welcome to the House of Dahomey, the houseboat of Erzulie Freda, where the souls of Voodoo followers go when they sleep to beseech the flirtatious and tragic goddess to grant them their hearts' desires and counsel them on their futures and fortunes. When you arrive, you'll find a party is in full swing, filled with all kinds of fabulous and fierce folk, while fish fry and music blasts. From her bayou, Erzulie scries upon the mortal realm and sees four human girls open a mysterious and magical journal filled with whispers and rumors that, if they spread, could cause a pandemic unlike any the Earth has seen, with the power to release Sopona, the loa lord of infectious disease and cousin to Erzulie, who is currently banned from the human plane. But even the fearsome Erzulie cannot be of assistance when her dream river turns tumultuous, tossing her house from her realm and into another...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/house-of-whispers-eng.xml</file_xml>
     </truyen>
-	<truyen ten="acma:game" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Mystery, Psychological, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>acma:game</ten_truyen>
-		<ma_truyen>acma-game</ma_truyen>
-		<tac_gia>Mebu, Megumi Kouji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/fb/c2/fbc288a5f72fc0b11a3f7446f5e5d29a3376aa03_23849_200_297.jpg</hinh_nho>
-		<gioi_thieu>Oda Teruasa is a high school student gifted with intelligence, good looks and wealth: the 'perfect scion' of the Oda Group, a powerful conglomerate whose name is known all over Japan. But then he gets caught up in a nightmarish game of winner-take-all against the son of the Belmont mafia family.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/acma-game-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mahou shoujo tokushuusen asuka" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Horror, Mature, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>mahou shoujo tokushuusen asuka</ten_truyen>
-		<ma_truyen>mahou-shoujo-tokushuusen-asuka</ma_truyen>
-		<tac_gia>Fukami Makoto, Tokiya Seigo</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/4d/26/4d26251abaf2a94c37dccfdf65b6198846bc4080_30449_200_314.jpg</hinh_nho>
-		<gioi_thieu>Due to the invasion of Disas, enigmatic creatures of soil from the land of the dead, mankind, who was on the verge of crisis, was saved by the efforts of magical girls who had obtained a mysterious magical power. Three years later, new incidents suddenly occur, tearing apart the normalcy of the girls who had each returned to their normal lives. The saviors of humanity, those magical girls called 'the Legendary 5 (The Magical Five)' now live each day fighting for their lives, even as they are trifled with by fate...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-tokushuusen-asuka-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="tokyo dragon" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mystery, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>tokyo dragon</ten_truyen>
-		<ma_truyen>tokyo-dragon</ma_truyen>
-		<tac_gia>Asahi Tsukishita</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/df/9a/df9a64a6b797cf57dab6f55b257e5cc15604a410_35372_200_282.jpg</hinh_nho>
-		<gioi_thieu>It was just a normal day for Kokoro and his friends, until they received a grim shock: their world had been invaded by dragons! These vicious dragons consumed every human they saw, and destroyed everything in their paths. Japan's military turned out to be useless against these creatures. Just as all hope was lost, a mysterious classified military division appeared, with knowledge of these dragons' secrets. What is this unknown division? How do they have information on these never-before-seen dragons? Where did these dragons come from? What is their purpose? Who is their leader? Can Kokoro and his friends unravel these mysteries before it's too late?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tokyo-dragon-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="tondemo skill de isekai hourou meshi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>tondemo skill de isekai hourou meshi</ten_truyen>
-		<ma_truyen>tondemo-skill-de-isekai-hourou-meshi</ma_truyen>
-		<tac_gia>Eguchi Ren, Akagishi K, Masa</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/f2/f3/f2f311900030075e79d34d78699522fdd9ba9184_37795_200_284.jpg</hinh_nho>
-		<gioi_thieu>Akashi Eito has failed miserably on all high school admission exams but somehow, he receives a letter of acceptance from a school he does not remember applying to. He nevertheless happily enrolls, expecting to live the ideal school life, but his aspiration are quickly destroyed as he discovers that this mysterious school is a training institute for secret agents! Immediately, Eito wants to return home, until the director of the school makes a shocking revelation: Eito's deceased father was also a secret agent! He subsequently wants to know more about the past and memories of his father, so he decides to remain at this school. However, as a student of this institution, Eito will have to face a deadly exam specifically made to test the skills of all new students... Follow this story of action and espionage, in which our hero, who lacks physical strength, compensates for it with great bravery, and captivates everyone around him with the power of his courage and friendship!!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tondemo-skill-de-isekai-hourou-meshi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="noah of the blood sea" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mystery, Psychological, Seinen, Supernatural, Tragedy" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>noah of the blood sea</ten_truyen>
-		<ma_truyen>noah-of-the-blood-sea</ma_truyen>
-		<tac_gia>Satomi Yu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/18/42/1842e8af94fe83bfaf8422a22a45ab843d68372a_22164_200_290.jpg</hinh_nho>
-		<gioi_thieu>When a family of three book passage on a luxury liner they soon realize that the glamours cruise ship is nothing but a facade as a series of mysterious killings spread throughtout the ship. With the sea proving no escape, how will they survive?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/noah-of-the-blood-sea-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
