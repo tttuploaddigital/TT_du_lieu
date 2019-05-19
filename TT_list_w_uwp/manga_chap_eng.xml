@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>dungeon seeker</ten_truyen>
+		<ma_truyen>dungeon-seeker</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41914/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-seeker-eng.xml</file_xml>
+		<chap_moi>chap 33</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>bobobo-bo-bo-bobo</ten_truyen>
+		<ma_truyen>bobobo-bo-bo-bobo</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/45/a2/45a22336d63d375db8794e45b2d8e4796a2d2994_28459_200_312.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bobobo-bo-bo-bobo-eng.xml</file_xml>
+		<chap_moi>chap 178</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>giant killing</ten_truyen>
+		<ma_truyen>giant-killing</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
+		<chap_moi>chap 314</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>btooom!</ten_truyen>
+		<ma_truyen>btooom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/12/9/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/btooom-eng.xml</file_xml>
+		<chap_moi>chap 98</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>koi inu.</ten_truyen>
+		<ma_truyen>koi-inu</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/33554/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-inu-eng.xml</file_xml>
+		<chap_moi>chap 177</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>kingdom  </ten_truyen>
 		<ma_truyen>kingdom</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/4282/4/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/iris-zero-eng.xml</file_xml>
 		<chap_moi>chap 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
-		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
-        <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fairy-tail-100-years-quest-eng.xml</file_xml>
-		<chap_moi>chap 23</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>isekai tensei soudouki</ten_truyen>
-		<ma_truyen>isekai-tensei-soudouki</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/32865/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-tensei-soudouki-eng.xml</file_xml>
-		<chap_moi>chap 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hajimete no gal</ten_truyen>
-		<ma_truyen>hajimete-no-gal</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41576/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajimete-no-gal-eng.xml</file_xml>
-		<chap_moi>chap 71</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>koi inu.</ten_truyen>
-		<ma_truyen>koi-inu</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/33554/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-inu-eng.xml</file_xml>
-		<chap_moi>chap 172</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kakao 79%</ten_truyen>
-		<ma_truyen>kakao-79</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41590/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kakao-79-eng.xml</file_xml>
-		<chap_moi>chap 166</chap_moi>
 	</truyen>
 </danh_sach_truyen>
