@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="war of the realms strikeforce: the war avengers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms strikeforce: the war avengers</ten_truyen>
+		<ma_truyen>war-of-the-realms-strikeforce-the-war-avengers</ma_truyen>
+        <tac_gia>Dennis 'Hopeless' Hallum, Ario Anindito, Kim Jacinto</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-strikeforce/the-war-avengers_1_medium.jpg</hinh_nho>
+        <gioi_thieu>CAPTAIN MARVEL AND HER WAR AVENGERS HOLD THE FRONTLINE! While two other Strikeforce teams head out to other realms, Captain Marvel leads the fight to reclaim the Earth! But even with a crew of heavy hitters (Weapon H, Captain Britain, Venom, Deadpool) and two of the best spies on the planet (the Winter Soldier and the Black Widow), Carol's fighting a losing game. Malekith's allies are without number - and the battlefield bigger than any Carol's commanded before. Time to lay it all out on the line - and fight for a miracle.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-strikeforce-the-war-avengers-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms strikeforce: the land of giants" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms strikeforce: the land of giants</ten_truyen>
+		<ma_truyen>war-of-the-realms-strikeforce-the-land-of-giants</ma_truyen>
+        <tac_gia>Tom Taylor, Jorge Molina</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-strikeforce/the-land-of-giants_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE GOD OF THUNDER IS TRAPPED IN THE LAND OF ICE AND SNOW...And it's up to Captain America to rescue him before all is lost! Taking up Thor's ax, Jarnbjorn, Cap and his team-Spider-Man, Wolverine, Luke Cage and Iron Fist-invade the Frost Giant realm in search of their fellow Avenger. But this rescue mission will cost far more than they expect.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-strikeforce-the-land-of-giants-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms strikeforce: the dark elf realm" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms strikeforce: the dark elf realm</ten_truyen>
+		<ma_truyen>war-of-the-realms-strikeforce-the-dark-elf-realm</ma_truyen>
+        <tac_gia>Bryan Hill, Leinil Francis Yu</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-strikeforce/the-dark-elf-realm_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE PUNISHER LEADS THE CHARGE TO SHUT DOWN THE BLACK BIFROST! Deep in the swamps of Svartalfheim stands the Black Bifrost, Malekith's corrupted Rainbow Bridge and the only reliable means of travel between the realms with the true Bifrost in pieces. If the gods are going to stop Malekith's invasion, the Black Bridge must fall. With her son missing and husband injured, Lady Freyja must take up the challenge herself. But she won't go alone. Hulk (Jen Walters), the Punisher, Blade and Ghost Rider follow the All-Mother of Asgard straight into Malekith's home territory!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-strikeforce-the-dark-elf-realm-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="high level" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>high level</ten_truyen>
+		<ma_truyen>high-level</ma_truyen>
+        <tac_gia>Rob Sheridan, Tom Fowler</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/high-level/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Hundreds of years after the world ended and human society was rebuilt from scratch, a self-interested smuggler is forced to traverse a new continent of danger and mystery to deliver a child messiah to High Level, a mythical city at the top of the world from which no one has ever returned. Don’t miss the start of a new series from writer Rob Sheridan, co-creator of Nine Inch Nails’ groundbreaking Year Zero alternate-reality game!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/high-level-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="books of magic (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>books of magic (2018)</ten_truyen>
+		<ma_truyen>books-of-magic-2018</ma_truyen>
+        <tac_gia>Kat Howard, Barnaby Bagenda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/books-of-magic-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Timothy Hunter may be destined to become the most powerful magician in the universe, but he's still a London teenager and having magical abilities complicates things more than it helps. It's not like he can use magic to pass his exams, stop being bullied, or convince his cute friend to date him. And while Tim's trying to live his life, there are cultists who want to kill him, believing his power will eventually corrupt him, and turn him into a merciless mage. Oh, and those are the good guys.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/books-of-magic-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="batman and the outsiders (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batman and the outsiders (2019)</ten_truyen>
 		<ma_truyen>batman-and-the-outsiders-2019</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-stone-king/1_medium.jpg</hinh_nho>
         <gioi_thieu>When you become an adult, you have to prove yourself, at least that's how it works for the Stoneport thieves. Ave has decided to illegally harvest healing moss from the Stone King, a mighty giant who roams the lands. Her theft goes even better than she could have dreamed. The biggest gem she's ever seen is her prize. But is that prize worth the consequences? Part of the comiXology Originals line of exclusive digital content only available on comiXology and Kindle. This title is available as part of comiXology Unlimited, Kindle Unlimited and Prime Reading.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-stone-king-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="age of x-man: the marvelous x-men" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>age of x-man: the marvelous x-men</ten_truyen>
-		<ma_truyen>age-of-x-man-the-marvelous-x-men</ma_truyen>
-        <tac_gia>Lonnie Nadler, Zac Thompson, Marco Failla</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-the-marvelous-x-men/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ENTER THE AGE OF X-MAN! In an age of utopia, the Summers Institute for Higher Learning is the premiere school for the mutant community across the globe. Attendance is mandatory for all mutant children, as they learn to become the next generation of marvelous X-Men. But even in a utopian society, teenagers will always find a way to rebel... Follow Glob, Armor, Anole and Rockslide as they discover what it really means to live in an age of peace and harmony!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-the-marvelous-x-men-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the six million dollar man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the six million dollar man</ten_truyen>
-		<ma_truyen>the-six-million-dollar-man</ma_truyen>
-        <tac_gia>Christopher Hastings, David Hahn</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-six-million-dollar-man-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>CHRISTOPHER HASTINGS (The Unbelievable Gwenpool! Secret Agent Deadpool! Adventure Time! I Am Groot!) and DAVID HAHN (Batman '66! Bombshells: United!) proudly present a story from a time when there wasn't internet, but there WERE cyborgs! It's the 1970s. Things are going great. Steve Austen (used to be an astronaut, now has robo-parts and a laser eye) heads to Japan to help Secret Agent Niko Abe stop a madman with missiles. Steve figures, no sweat. But then...sweat. How's Steve going to complete his mission, when his fancy $6,000,000 body starts. DRASTICALLY) depreciating in value!?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-six-million-dollar-man-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="morning in america" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Horror, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>morning in america</ten_truyen>
-		<ma_truyen>morning-in-america</ma_truyen>
-        <tac_gia>Magdalene Visaggio, Claudia Aguirre</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/morning-in-america/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A new Oni Press miniseries by powerhouse team of Magdalene Visaggio (ETERNITY GIRL) and Claudia Aguirre (KIM and KIM)! The year is 1983. A series of disappearances afflicts Tucker, Ohio following the opening of a mysterious new factory. But when the town finds itself under siege from strange monsters, it's up to intrepid girl gang of no-account teen girl delinquents to try and figure out what's happening -- and save everyone's lives before it's too late.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/morning-in-america-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="age of x-man: x-tremists" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>age of x-man: x-tremists</ten_truyen>
-		<ma_truyen>age-of-x-man-x-tremists</ma_truyen>
-        <tac_gia>Leah Williams, Georges Jeanty</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-x-tremists/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ENTER THE AGE OF X-0MAN! A perfect world doesn't just...happen. It needs to be cultivated. That's where the X-Tremists come in. Psylocke, Iceman, Northstar, Blob, Jubilee and Moneta protect people from threats they won't even know existed, including the most insidious threat of all - love.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-x-tremists-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="star trek vs. transformers" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Movies-tv, Mecha, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>star trek vs. transformers</ten_truyen>
-		<ma_truyen>star-trek-vs-transformers</ma_truyen>
-        <tac_gia>John Barber, Mike Johnson, Philip Murphy</tac_gia>
-        <tinh_trang>Completed</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-trek-vs-transformers/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The Transformers '80s cartoon series meets Star Trek: The Animated Series in a no-holds-barred Saturday Morning mash-up for the ages! At the edge of Klingon space, the Starship Enterprise finds there's more to the final frontier than meets the eye, when Kirk and his crew come face to face with the strangest life forms of all: Cybertronians! This unprecedented crossover brings together two of the greatest science fiction universes of all time-in the style of their classic animated series! A five-year mission meets a four-million-year war!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/star-trek-vs-transformers-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
