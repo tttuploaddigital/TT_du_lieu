@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="war of the realms strikeforce: the war avengers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms strikeforce: the war avengers</ten_truyen>
+		<ma_truyen>war-of-the-realms-strikeforce-the-war-avengers</ma_truyen>
+        <tac_gia>Dennis 'Hopeless' Hallum, Ario Anindito, Kim Jacinto</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-strikeforce/the-war-avengers_1_medium.jpg</hinh_nho>
+        <gioi_thieu>CAPTAIN MARVEL AND HER WAR AVENGERS HOLD THE FRONTLINE! While two other Strikeforce teams head out to other realms, Captain Marvel leads the fight to reclaim the Earth! But even with a crew of heavy hitters (Weapon H, Captain Britain, Venom, Deadpool) and two of the best spies on the planet (the Winter Soldier and the Black Widow), Carol's fighting a losing game. Malekith's allies are without number - and the battlefield bigger than any Carol's commanded before. Time to lay it all out on the line - and fight for a miracle.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-strikeforce-the-war-avengers-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms strikeforce: the land of giants" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms strikeforce: the land of giants</ten_truyen>
+		<ma_truyen>war-of-the-realms-strikeforce-the-land-of-giants</ma_truyen>
+        <tac_gia>Tom Taylor, Jorge Molina</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-strikeforce/the-land-of-giants_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE GOD OF THUNDER IS TRAPPED IN THE LAND OF ICE AND SNOW...And it's up to Captain America to rescue him before all is lost! Taking up Thor's ax, Jarnbjorn, Cap and his team-Spider-Man, Wolverine, Luke Cage and Iron Fist-invade the Frost Giant realm in search of their fellow Avenger. But this rescue mission will cost far more than they expect.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-strikeforce-the-land-of-giants-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms strikeforce: the dark elf realm" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms strikeforce: the dark elf realm</ten_truyen>
+		<ma_truyen>war-of-the-realms-strikeforce-the-dark-elf-realm</ma_truyen>
+        <tac_gia>Bryan Hill, Leinil Francis Yu</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-strikeforce/the-dark-elf-realm_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE PUNISHER LEADS THE CHARGE TO SHUT DOWN THE BLACK BIFROST! Deep in the swamps of Svartalfheim stands the Black Bifrost, Malekith's corrupted Rainbow Bridge and the only reliable means of travel between the realms with the true Bifrost in pieces. If the gods are going to stop Malekith's invasion, the Black Bridge must fall. With her son missing and husband injured, Lady Freyja must take up the challenge herself. But she won't go alone. Hulk (Jen Walters), the Punisher, Blade and Ghost Rider follow the All-Mother of Asgard straight into Malekith's home territory!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-strikeforce-the-dark-elf-realm-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="high level" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>high level</ten_truyen>
+		<ma_truyen>high-level</ma_truyen>
+        <tac_gia>Rob Sheridan, Tom Fowler</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/high-level/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Hundreds of years after the world ended and human society was rebuilt from scratch, a self-interested smuggler is forced to traverse a new continent of danger and mystery to deliver a child messiah to High Level, a mythical city at the top of the world from which no one has ever returned. Don’t miss the start of a new series from writer Rob Sheridan, co-creator of Nine Inch Nails’ groundbreaking Year Zero alternate-reality game!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/high-level-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="books of magic (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>books of magic (2018)</ten_truyen>
+		<ma_truyen>books-of-magic-2018</ma_truyen>
+        <tac_gia>Kat Howard, Barnaby Bagenda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/books-of-magic-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Timothy Hunter may be destined to become the most powerful magician in the universe, but he's still a London teenager and having magical abilities complicates things more than it helps. It's not like he can use magic to pass his exams, stop being bullied, or convince his cute friend to date him. And while Tim's trying to live his life, there are cultists who want to kill him, believing his power will eventually corrupt him, and turn him into a merciless mage. Oh, and those are the good guys.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/books-of-magic-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="chainsaw man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Horror, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>chainsaw man</ten_truyen>
 		<ma_truyen>chainsaw-man</ma_truyen>
@@ -360,49 +405,4 @@
 		<gioi_thieu>A girl in a small village. Coco always wanted to be a wizard. But those who can not use magic since birth can not become wizards, so she had given up her dream of becoming a wizard. However, one day, a magician visited the village. This is the story of despair and hope that visited the girl.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tongari-boushi-no-atelier-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="symbiote spider-man" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>symbiote spider-man</ten_truyen>
-		<ma_truyen>symbiote-spider-man</ma_truyen>
-        <tac_gia>Iban Coello, Greg Land</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/symbiote-spider-man/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Everyone knows that Spider-Man's infamous black suit would someday become the wicked web-slinger called Venom - but what happened BEFORE Peter Parker discovered the black suit's sinister secret? Find out in this dynamic tale from comics legends PETER DAVID and GREG LAND! Set during the original 'Black Suit Saga,' this is an all-new tale that pits the wall-crawling wonder against that most mystifying of menaces...MYSTERIO!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/symbiote-spider-man-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="doctor who: the thirteenth doctor" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Movies-tv , Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>doctor who: the thirteenth doctor</ten_truyen>
-		<ma_truyen>doctor-who-the-thirteenth-doctor</ma_truyen>
-        <tac_gia>Richard Dinnick, Claudia Ianniciello, Mariano Laclaustra, Pasquale Qualano, Giorgia Sposito</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/doctor-who-the-thirteenth-doctor/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The ultimate celebration of Doctor Who - a perfect introduction for new fans and a brilliant tribute for long-time Whovians! When you die, your life flashes before your eyes - and the Doctor's had a lot of lives! The Thirteenth Doctor relives unseen adventures from all her past selves!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/doctor-who-the-thirteenth-doctor-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="ronin island" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Historical, Horror" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>ronin island</ten_truyen>
-		<ma_truyen>ronin-island</ma_truyen>
-        <tac_gia>Greg Pak, Giannis Milonogiannis</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/ronin-island/1_medium.jpg</hinh_nho>
-        <gioi_thieu>After a mysterious attack wipes out the major cities of 19th century Japan, Korea, and China, survivors from all three lands find refuge on a hidden island and build a new society. Hana, the orphaned daughter of Korean peasants, and Kenichi, son of a great samurai leader, have little in common except for a mutual disdain for the other. But these young warriors will have to work together when an army invades the island with shocking news: there is a new Shogun and the Island is expected to pay fealty in exchange for protection from a new enemy...a mutated horde that threatens to wipe out all humanity. Award-winning writer Greg Pak (Firefly, Mech Cadet Yu) and artist Giannis Milonogiannis (Prophet) present a story that examines how we move forward when our past divides, set against the backdrop of a post-disaster 19th century Japan.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/ronin-island-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the empty man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the empty man (2018)</ten_truyen>
-		<ma_truyen>the-empty-man-2018</ma_truyen>
-        <tac_gia>Cullen Bunn, Jesus Hervas</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-empty-man-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Horror sensation Cullen Bunn (Harrow County, Bone Parish) returns to the world of Empty Man with artist Jesus Hervas (Lucas Stand, Clive Barker's Hellraiser) in this new ongoing series. The nation is in the grip of a terrible pandemic. The so-called Empty Man disease causes insanity and violence. Government quarantines are mandatory. One of the afflicted is Melissa Kerry, and the next step should be to quarantine her-but those who enter quarantine are never seen again. Melissa's family won't let that happen. All they have to do is care for her, keep her worsening condition a secret-and they'll do anything, trust anyone, to keep her safe.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-empty-man-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="house of whispers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>house of whispers</ten_truyen>
-		<ma_truyen>house-of-whispers</ma_truyen>
-        <tac_gia>Nalo Hopkinson, Dominike 'Domo' Stanton</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/house-of-whispers-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Welcome to the House of Dahomey, the houseboat of Erzulie Freda, where the souls of Voodoo followers go when they sleep to beseech the flirtatious and tragic goddess to grant them their hearts' desires and counsel them on their futures and fortunes. When you arrive, you'll find a party is in full swing, filled with all kinds of fabulous and fierce folk, while fish fry and music blasts. From her bayou, Erzulie scries upon the mortal realm and sees four human girls open a mysterious and magical journal filled with whispers and rumors that, if they spread, could cause a pandemic unlike any the Earth has seen, with the power to release Sopona, the loa lord of infectious disease and cousin to Erzulie, who is currently banned from the human plane. But even the fearsome Erzulie cannot be of assistance when her dream river turns tumultuous, tossing her house from her realm and into another...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/house-of-whispers-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>

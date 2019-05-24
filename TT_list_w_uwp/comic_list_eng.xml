@@ -657,6 +657,15 @@
         <gioi_thieu>The Bombshells are back! It's now 1943, and because of Executive Order 9066, Wonder Woman is called to Arizona to help two young girls named Cassie Sandsmark and Donna Troy!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/bombshells-united-eng.xml</file_xml>
     </truyen>
+	<truyen ten="books of magic (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>books of magic (2018)</ten_truyen>
+		<ma_truyen>books-of-magic-2018</ma_truyen>
+        <tac_gia>Kat Howard, Barnaby Bagenda</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/books-of-magic-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Timothy Hunter may be destined to become the most powerful magician in the universe, but he's still a London teenager and having magical abilities complicates things more than it helps. It's not like he can use magic to pass his exams, stop being bullied, or convince his cute friend to date him. And while Tim's trying to live his life, there are cultists who want to kill him, believing his power will eventually corrupt him, and turn him into a merciless mage. Oh, and those are the good guys.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/books-of-magic-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="broken trinity" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Mature, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>broken trinity</ten_truyen>
 		<ma_truyen>broken-trinity</ma_truyen>
@@ -1736,6 +1745,15 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/h/heroes-in-crisis/1_medium.jpg</hinh_nho>
         <gioi_thieu>There's a new kind of crisis threatening the heroes of the DC Universe, ripped from real-world headlines by C.I.A.-operative-turned-comics-writer Tom King: How does a superhero handle PTSD? Welcome to Sanctuary, an ultra-secret hospital for superheroes who've been traumatized by crime-fighting and cosmic combat. But something goes inexplicably wrong when many patients wind up dead, with two well-known operators as the prime suspects: Harley Quinn and Booster Gold! It's up to the DC Trinity of Superman, Wonder Woman and Batman to investigate but can they get the job done in the face of overwhelming opposition?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/heroes-in-crisis-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="high level" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>high level</ten_truyen>
+		<ma_truyen>high-level</ma_truyen>
+        <tac_gia>Rob Sheridan, Tom Fowler</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/h/high-level/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Hundreds of years after the world ended and human society was rebuilt from scratch, a self-interested smuggler is forced to traverse a new continent of danger and mystery to deliver a child messiah to High Level, a mythical city at the top of the world from which no one has ever returned. Don’t miss the start of a new series from writer Rob Sheridan, co-creator of Nine Inch Nails’ groundbreaking Year Zero alternate-reality game!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/high-level-eng.xml</file_xml>
     </truyen>
 	<truyen ten="hillbilly" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Mythology, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>hillbilly</ten_truyen>
@@ -4418,6 +4436,33 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms/1_medium.jpg</hinh_nho>
         <gioi_thieu>Featuring action-packed extras including a Cover Gallery, Script, Inked And Color Pages and Character Designs! THE WORLD AT WAR! Asgard. Alfheim. Heven. Jotunheim. Muspelheim. Niffleheim. Nidavellir. Svartalfheim. Vanaheim. All of the Ten Realms have fallen to Malekith and his army except one: Midgard. Home to Thor's beloved humans. Home to heroes and gods alike. Now, at last, it burns. And Thor won't even be there to see it. All hell breaks loose in New York City as Malekith and his allies begin their invasion - and the greatest heroes of the Marvel Universe watch as the Earth falls!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms strikeforce: the dark elf realm" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms strikeforce: the dark elf realm</ten_truyen>
+		<ma_truyen>war-of-the-realms-strikeforce-the-dark-elf-realm</ma_truyen>
+        <tac_gia>Bryan Hill, Leinil Francis Yu</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-strikeforce/the-dark-elf-realm_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE PUNISHER LEADS THE CHARGE TO SHUT DOWN THE BLACK BIFROST! Deep in the swamps of Svartalfheim stands the Black Bifrost, Malekith's corrupted Rainbow Bridge and the only reliable means of travel between the realms with the true Bifrost in pieces. If the gods are going to stop Malekith's invasion, the Black Bridge must fall. With her son missing and husband injured, Lady Freyja must take up the challenge herself. But she won't go alone. Hulk (Jen Walters), the Punisher, Blade and Ghost Rider follow the All-Mother of Asgard straight into Malekith's home territory!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-strikeforce-the-dark-elf-realm-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms strikeforce: the land of giants" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms strikeforce: the land of giants</ten_truyen>
+		<ma_truyen>war-of-the-realms-strikeforce-the-land-of-giants</ma_truyen>
+        <tac_gia>Tom Taylor, Jorge Molina</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-strikeforce/the-land-of-giants_1_medium.jpg</hinh_nho>
+        <gioi_thieu>THE GOD OF THUNDER IS TRAPPED IN THE LAND OF ICE AND SNOW...And it's up to Captain America to rescue him before all is lost! Taking up Thor's ax, Jarnbjorn, Cap and his team-Spider-Man, Wolverine, Luke Cage and Iron Fist-invade the Frost Giant realm in search of their fellow Avenger. But this rescue mission will cost far more than they expect.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-strikeforce-the-land-of-giants-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms strikeforce: the war avengers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms strikeforce: the war avengers</ten_truyen>
+		<ma_truyen>war-of-the-realms-strikeforce-the-war-avengers</ma_truyen>
+        <tac_gia>Dennis 'Hopeless' Hallum, Ario Anindito, Kim Jacinto</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-strikeforce/the-war-avengers_1_medium.jpg</hinh_nho>
+        <gioi_thieu>CAPTAIN MARVEL AND HER WAR AVENGERS HOLD THE FRONTLINE! While two other Strikeforce teams head out to other realms, Captain Marvel leads the fight to reclaim the Earth! But even with a crew of heavy hitters (Weapon H, Captain Britain, Venom, Deadpool) and two of the best spies on the planet (the Winter Soldier and the Black Widow), Carol's fighting a losing game. Malekith's allies are without number - and the battlefield bigger than any Carol's commanded before. Time to lay it all out on the line - and fight for a miracle.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-strikeforce-the-war-avengers-eng.xml</file_xml>
     </truyen>
 	<truyen ten="war of the realms: journey into mystery" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>war of the realms: journey into mystery</ten_truyen>
