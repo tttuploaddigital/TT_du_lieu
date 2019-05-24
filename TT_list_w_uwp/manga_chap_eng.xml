@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 943</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>black clover</ten_truyen>
+		<ma_truyen>black-clover</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
+		<chap_moi>chap 206</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>shin mazinger zero</ten_truyen>
+		<ma_truyen>shin-mazinger-zero</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/9d/6e/9d6e9ad2999788c4af5dabd79539a06fc3b2b7c1_24586_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shin-mazinger-zero-eng.xml</file_xml>
+		<chap_moi>chap 34</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>maou-jou de oyasumi</ten_truyen>
+		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
+		<chap_moi>chap 110</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kuro no shoukanshi</ten_truyen>
+		<ma_truyen>kuro-no-shoukanshi</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/08/44/08447688a71db088ef880ffec8605f8ecc6c5cc1_37498_200_300.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kuro-no-shoukanshi-eng.xml</file_xml>
+		<chap_moi>chap 27</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>dungeon seeker</ten_truyen>
 		<ma_truyen>dungeon-seeker</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/41914/2/200.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
 		<chap_moi>chap 125</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kingdom  </ten_truyen>
-		<ma_truyen>kingdom</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
-		<chap_moi>chap 597</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shokugeki no soma</ten_truyen>
-		<ma_truyen>shokugeki-no-soma</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/63/29/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shokugeki-no-soma-eng.xml</file_xml>
-		<chap_moi>chap 308</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>hinomaru-zumou</ten_truyen>
-		<ma_truyen>hinomaru-zumou</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/28267/9/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hinomaru-zumou-eng.xml</file_xml>
-		<chap_moi>chap 238</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>stravaganza - isai no hime</ten_truyen>
-		<ma_truyen>stravaganza-isai-no-hime</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/88/68/8868ddfaeff49477685c51b375d17f23e9f3ede6_38596_200_284.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/stravaganza-isai-no-hime-eng.xml</file_xml>
-		<chap_moi>chap 29.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>iris zero</ten_truyen>
-		<ma_truyen>iris-zero</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/4282/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/iris-zero-eng.xml</file_xml>
-		<chap_moi>chap 43</chap_moi>
 	</truyen>
 </danh_sach_truyen>
