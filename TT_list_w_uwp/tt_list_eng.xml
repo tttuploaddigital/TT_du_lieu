@@ -9864,14 +9864,14 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <gioi_thieu>A new storm brews over Central City and disproves the old adage about lightning never, well…you know. Just as Barry begins to feel overwhelmed fighting crime, a new speedster debuts-but just where did this amazing new friend come from?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
     </truyen>
-	<truyen ten="the forgotten queen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Historical, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="the forgotten queen" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Historical, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>the forgotten queen</ten_truyen>
 		<ma_truyen>the-forgotten-queen</ma_truyen>
         <tac_gia>Tini Howard, Amilcar Pinna</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-forgotten-queen/1_medium.jpg</hinh_nho>
         <gioi_thieu>An ancient evil returns! Long ago, the mighty generals of the Mongol Empire rode from Siberia to Carpathia and conquered all who stood in their way. Legends tell of a witch who walked with them, who could infect the hearts of any warriors in her midst with an unquenchable thirst for battle and bloodshed...a War-Monger. And now she is walking again. This winter, an ancient evil will stir as superstar-in-the-making Tini Howard (Captain America Annual #1, Assassinistas) and powerhouse artist Amilcar Pinna (Generation X) unleash hell in a brand-new saga of honor, love, and savagery that's centuries in the making!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-forgotten-queen-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-forgotten-queen-eng.xml</file_xml>
     </truyen>
 	<truyen ten="the friendly winter" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Psychological, Seinen, Slice of life, Webtoons" nhan_kieu_truyen="Type" kieu_truyen="Manhwa">
 		<ten_truyen>the friendly winter</ten_truyen>
