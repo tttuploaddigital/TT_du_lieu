@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="boku no heya ga dungeon no kyuukeijo ni natteshimatta ken" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>boku no heya ga dungeon no kyuukeijo ni natteshimatta ken</ten_truyen>
+		<ma_truyen>boku-no-heya-ga-dungeon-no-kyuukeijo-ni-natteshimatta-ken</ma_truyen>
+		<tac_gia>Tougoku Fudou, Takoyaki Yoshi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/25/03/25036cb20797eabb4403beda562f07ee37bef01b_36574_200_284.jpg</hinh_nho>
+		<gioi_thieu>A college student buys a new apartment dirt cheap and the reason was that once the front door is opened from the inside it connect to a dungeon in another world instead so he goes to an adventure in the dungeon and meet new companions which treat him as the Great Sage.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/boku-no-heya-ga-dungeon-no-kyuukeijo-ni-natteshimatta-ken-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hyottoshite gyaru wa orera ni yasashii no dewa? anthology comic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Romance, School life, Shounen., Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hyottoshite gyaru wa orera ni yasashii no dewa? anthology comic</ten_truyen>
+		<ma_truyen>hyottoshite-gyaru-wa-orera-ni-yasashii-no-dewa-anthology-comic</ma_truyen>
+		<tac_gia>Gum, Nishizono Fumiko, Oono Imo, Rishin, Shinonome Shino, Sugawara Kenji, Ugatsu Matsuki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/34/07/3407fac835d70c6f2cb0f1da02cbc3a197eb5298_37274_200_284.jpg</hinh_nho>
+		<gioi_thieu>Published by Rex Comics with the cover illustrated by Hisasi (vol.1), this manga anthology is a collection of 7 stories over 140 pages (each drawn by a different artist) about attractive gyarus who for some reason treats our good for nothing protagonists kindly compared to others.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hyottoshite-gyaru-wa-orera-ni-yasashii-no-dewa-anthology-comic-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="tensei shitara ken deshita" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>tensei shitara ken deshita</ten_truyen>
+		<ma_truyen>tensei-shitara-ken-deshita</ma_truyen>
+		<tac_gia>Rurro, Yuu Tanaka</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/8a/28/8a28c5f067d017cd0179084a08dcdd6877cb7eef_41677_200_283.jpg</hinh_nho>
+		<gioi_thieu>When he realized it, the protagonist was in another world and had become a sword that was stabbed on an altar in a great plain, crowded with devil beast. The world he was in had a game like system; HP, MP, Strength, Vitality, Agility, Intelligence, Dexterity, Titles and Equipment. Following his instinct as a living sword, he traveled to find the one who could be his wielder, until he met with a cat girl that was about to be attacked by a bear type devil beast.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tensei-shitara-ken-deshita-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kanojo, okarishimasu" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Ecchi, Romance, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kanojo, okarishimasu</ten_truyen>
+		<ma_truyen>kanojo-okarishimasu</ma_truyen>
+		<tac_gia>Miyajima Reiji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/07/3c/073cad07f459a69f3818929f4f50af1fe7066ed5_21000_200_301.jpg</hinh_nho>
+		<gioi_thieu>Kinoshita Kazuya dumped for another guy, he hires Mizuhara Chizuru from an app called Diamond to be his girlfriend to make himself feel better.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kanojo-okarishimasu-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="magi craft meister" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Harem, Romance, Sci-fi, Shounen., Slice of life, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>magi craft meister</ten_truyen>
+		<ma_truyen>magi-craft-meister</ma_truyen>
+		<tac_gia>Aki Gitsune</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/f5/1a/f51aba3f7042dc84e88a8d378322dae5d33dbc5c_36226_200_284.jpg</hinh_nho>
+		<gioi_thieu>There is only one Magi Craft Meister in the world. After the death of the last Meister over one thousand years ago, Jin Nidou was transported to another world in order to succeed her will. After obtaining the knowledge of the Magi Craft Meister, Jin attempts to use a warp gate but it malfunctions, transporting him to an unknown place. Along with that, an automata he recently restored also uses the warp gate in order to search for her 'father'. Thus, the crafting journey of the new Magi Craft Meister begins!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/magi-craft-meister-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="war of the realms strikeforce: the war avengers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>war of the realms strikeforce: the war avengers</ten_truyen>
 		<ma_truyen>war-of-the-realms-strikeforce-the-war-avengers</ma_truyen>
@@ -360,49 +405,4 @@
         <gioi_thieu>Last we saw Dorothy she was trapped in a body that isn't hers by the evil Wizard of Oz, cut off from most of her loyal followers and exiled from the Emerald City. Now on the run through increasingly forbidding lands, with the very heart of the realm itself on the line, will she be able to protect herself and more importantly the people who rely on her?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oz-heart-of-magic-eng.xml</file_xml>
     </truyen>
-	<truyen ten="bobobo-bo-bo-bobo" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Martial arts, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>bobobo-bo-bo-bobo</ten_truyen>
-		<ma_truyen>bobobo-bo-bo-bobo</ma_truyen>
-		<tac_gia>Sawai Yoshio</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/45/a2/45a22336d63d375db8794e45b2d8e4796a2d2994_28459_200_312.jpg</hinh_nho>
-		<gioi_thieu>In the year 300X, a cruel dictator has mandated the hunting of all hair in the Maruhage Empire. But a single man rises to the occasion and takes a stand against this violation of human hair rights. Bo-bobo, master of Fist of the Nose Hair, uses the prehensile hairs of his schnoz to most lethal ends. Follow the nonsensical adventures of Bo-bobo and his sentient sidekick snacks as they lead their hilarious rebellion against the Empire.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bobobo-bo-bo-bobo-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="bakemonogatari" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Horror, Mystery, Psychological, Romance, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>bakemonogatari</ten_truyen>
-		<ma_truyen>bakemonogatari</ma_truyen>
-		<tac_gia>Nishio Ishin, Oh! Great</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/c7/2d/c72ddae9a94b8a08772a291430e2c031fcb38bd3_32092_200_284.jpg</hinh_nho>
-		<gioi_thieu>Bakemonogatari centers on Koyomi Araragi, a third year high school student who is almost human again after briefly becoming a vampire. One day, a classmate named Hitagi Senjougahara, who infamously never talks to anyone, falls down the stairs into Koyomi's arms. He discovers that Hitagi weighs next to nothing, in defiance of physics. After being threatened by her, Koyomi offers his help, and introduces her to Meme Oshino, a strange middle-aged man living in an abandoned building, who cured him of being a vampire....</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bakemonogatari-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="magical change" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Gender bender, Romance, Shoujo." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>magical change</ten_truyen>
-		<ma_truyen>magical-change</ma_truyen>
-		<tac_gia>Homerun Ken</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/a7/e2/a7e2366be66e4bf1ea3e7f51240ce5fa72490312_28323_200_285.jpg</hinh_nho>
-		<gioi_thieu>A high-school boy named Manaka Hiromi is given the magical power of the Red Garnet Princess to defeat the Devil King who is trying to escape Hell (or something like that). Unfortunately for him he's also given the sort of body that comes with the job description.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/magical-change-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ikenie touhyou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Mystery, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ikenie touhyou</ten_truyen>
-		<ma_truyen>ikenie-touhyou</ma_truyen>
-		<tac_gia>Kasai Ryuuya, Edogawa Edogawa</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/0e/ef/0eef2363cb6e56d9cf0532a797f45fc88c4f5dde_42242_200_310.jpg</hinh_nho>
-		<gioi_thieu>Life at the Yanagizawa private high school is boring for all attending students who prefer to stare at their smartphones for most of the day, just playing games and chatting to each other. Everyone's dormant lifestyle though seems to awaken when they are asked to vote for a classmate who will be asked to clear a task or otherwise become the 'sacrifice' and suffer a 'social death'! What does this mean though? Who will be the first one to be voted and what is a 'social death'? The students will find out very soon that some games are far from innocent...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ikenie-touhyou-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="tongari boushi no atelier" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Drama, Fantasy, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>tongari boushi no atelier</ten_truyen>
-		<ma_truyen>tongari-boushi-no-atelier</ma_truyen>
-		<tac_gia>Shirahama Kamome</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/55/c2/55c2d9d3412d898cf8db17bc13ed4f968c725e17_48358_200_310.jpg</hinh_nho>
-		<gioi_thieu>A girl in a small village. Coco always wanted to be a wizard. But those who can not use magic since birth can not become wizards, so she had given up her dream of becoming a wizard. However, one day, a magician visited the village. This is the story of despair and hope that visited the girl.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tongari-boushi-no-atelier-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
