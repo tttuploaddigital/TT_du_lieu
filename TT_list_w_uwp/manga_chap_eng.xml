@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>murabito desu ga nani ka?</ten_truyen>
+		<ma_truyen>murabito-desu-ga-nani-ka</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/40/46/40465d9f542faf8fa07c1a0c0599f22cb9c7dad7_37575_200_310.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/murabito-desu-ga-nani-ka-eng.xml</file_xml>
+		<chap_moi>chap 25</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>higanjima</ten_truyen>
+		<ma_truyen>higanjima</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/06/cc/06cc053af20c3a0dd0b2eb339fe1242e81d6195f_27651_200_284.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/higanjima-eng.xml</file_xml>
+		<chap_moi>chap 186</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>hajime no ippo</ten_truyen>
+		<ma_truyen>hajime-no-ippo</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/fa/20/fa205ccbb16cd361708fd290b2649732f3f75638_36159_200_306.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hajime-no-ippo-eng.xml</file_xml>
+		<chap_moi>ch. 1264</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>rainbow</ten_truyen>
+		<ma_truyen>rainbow</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/8064/3/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/rainbow-eng.xml</file_xml>
+		<chap_moi>chap 163</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tsugumomo</ten_truyen>
+		<ma_truyen>tsugumomo</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/10524/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsugumomo-eng.xml</file_xml>
+		<chap_moi>chap 120.1</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>one piece</ten_truyen>
 		<ma_truyen>one-piece</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
@@ -279,40 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
 		<chap_moi>chap 62</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 940</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>captain tsubasa - rising sun</ten_truyen>
-		<ma_truyen>captain-tsubasa-rising-sun</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/1a/88/1a882cec4848ba991b6f0e070acc6e1c0488347f_30007_200_313.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/captain-tsubasa-rising-sun-eng.xml</file_xml>
-		<chap_moi>chap 92</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>act-age</ten_truyen>
-		<ma_truyen>act-age</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/49/84/4984827829b8343c7188ea2772af1c208b28258c_32570_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/act-age-eng.xml</file_xml>
-		<chap_moi>chap 62</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gokutei higuma</ten_truyen>
-		<ma_truyen>gokutei-higuma</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/df/07/df07a1abc84e910d6c9c0599cb1d99613c70adf1_37203_200_266.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gokutei-higuma-eng.xml</file_xml>
-		<chap_moi>chap 17</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>mahou shoujo site</ten_truyen>
-		<ma_truyen>mahou-shoujo-site</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/23296/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mahou-shoujo-site-eng.xml</file_xml>
-		<chap_moi>chap 125</chap_moi>
 	</truyen>
 </danh_sach_truyen>
