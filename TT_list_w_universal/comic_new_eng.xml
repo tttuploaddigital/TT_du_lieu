@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="batman: last knight on earth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mystery, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman: last knight on earth</ten_truyen>
+		<ma_truyen>batman-last-knight-on-earth</ma_truyen>
+        <tac_gia>Scott Snyder, Greg Capullo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-last-knight-on-earth/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Bruce Wayne wakes up in Arkham Asylum. Young. Sane. And... he was never Batman. So begins this sprawling tale of the Dark Knight as he embarks on a quest through a devastated DC landscape featuring a massive cast of familiar faces from the DC Universe. As he tries to piece together the mystery of his past, he must unravel the cause of this terrible future and track down the unspeakable force that destroyed the world as he knew it... From the powerhouse creative team of writer Scott Snyder and artist Greg Capullo, the team that reinvented Batman from the emotional depths of 'Court of Owls' to the bombastic power of DARK NIGHTS: METAL, DC Black Label is proud to present the bimonthly, three-issue miniseries BATMAN: LAST KNIGHT ON EARTH. This could be the last Batman story ever told...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-last-knight-on-earth-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="black cat" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>black cat</ten_truyen>
+		<ma_truyen>black-cat</ma_truyen>
+        <tac_gia>Jed Mackay, Mike Dowling, Travel Foreman, Nao Fuji</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/black-cat-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Black Cat is back and starring in her first ever ongoing series! Felicia Hardy has a taste for the finer things in life and a certain set of skills that can get her into any mansion, vault or museum to...procure said finer things. But due to her actions in AMAZING SPIDER-MAN, Felicia's not only on the run from the police but also by the New York Theives Guild and their boss ODESSA DRAKE! High-octane heists, climactic chases and twist after twist that will keep you on the edge of your seat like a cat on a perch. IN THIS ISSUE: Find out a secret from Cat's past in a bonus story that sets a foundation for the future! All this and an all-new MARVEL MEOW short story by Nao Fuji!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-cat-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="fallen world" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Post-apocalyptic, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>fallen world</ten_truyen>
+		<ma_truyen>fallen-world</ma_truyen>
+        <tac_gia>Dan Abnett, Adam Pollina</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/fallen-world/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In the year 4002, a cyborg samurai named Rai struggles to find his morality, while the nanite-filled supersoldier Bloodshot is on a mission to save the citizens of Earth. Will they work together for the greater good? All signs point to no. Oh, and did we mention there are also dinosaurs on the loose and powerful animal-human hybrid mutants? Good luck with that, Rai.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fallen-world-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="volition" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>volition</ten_truyen>
+		<ma_truyen>volition</ma_truyen>
+        <tac_gia>Ryan Parrott, Omar Francia</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/volition/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In a not-too-distant future, artificial intelligence has spawned a race of robots that serve all of humanity. Robots are considered second class citizens, but a few in the A.I. community are fighting back in a constant struggle for equal rights. When a debilitating virus called 'Rust' threatens all artificial life, salvation lies in the most unlikely of robotic heroes-not a warrior or a solider, but in an obsolete construction worker and a dedicated caregiver. Together, HALE-19 and AMBER-7T embark on a perilous journey in search of a cure that could potentially change the balance of power on Earth forever.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/volition-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the dreaming (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the dreaming (2018)</ten_truyen>
+		<ma_truyen>the-dreaming-2018</ma_truyen>
+        <tac_gia>Brian Wood, Mack Chater</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-dreaming-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>There is a place where stories are born. Today its walls lie slashed and bleeding. Dream has abandoned his realm, and until he is found, its residents must protect its broken borders alone. But the most senior storysmiths are tormented by invasive secrets, the warden Lucien is doubting his own mind—and beyond the gates something horrific waits with tooth and talon. Only Dora, the monstress, finds opportunity in madness, stealing dreams for the highest bidder. But she has no idea how deep the danger lies. Meanwhile, in Dream’s gallery, something new is growing...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-dreaming-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="war of the realms strikeforce: the war avengers" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>war of the realms strikeforce: the war avengers</ten_truyen>
 		<ma_truyen>war-of-the-realms-strikeforce-the-war-avengers</ma_truyen>
@@ -33,7 +78,7 @@
         <tac_gia>Rob Sheridan, Tom Fowler</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/h/high-level/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Hundreds of years after the world ended and human society was rebuilt from scratch, a self-interested smuggler is forced to traverse a new continent of danger and mystery to deliver a child messiah to High Level, a mythical city at the top of the world from which no one has ever returned. Don’t miss the start of a new series from writer Rob Sheridan, co-creator of Nine Inch Nails’ groundbreaking Year Zero alternate-reality game!</gioi_thieu>
+        <gioi_thieu>Hundreds of years after the world ended and human society was rebuilt from scratch, a self-interested smuggler is forced to traverse a new continent of danger and mystery to deliver a child messiah to High Level, a mythical city at the top of the world from which no one has ever returned. Don't miss the start of a new series from writer Rob Sheridan, co-creator of Nine Inch Nails' groundbreaking Year Zero alternate-reality game!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/high-level-eng.xml</file_xml>
     </truyen>
 	<truyen ten="books of magic (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
@@ -359,50 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/g/gretel/1_medium.jpg</hinh_nho>
         <gioi_thieu>Gretel's story has been more nightmare than fairy tale ever since the tragic events of her childhood involving her brother and a maniacal witch. These events have left her cursed with a life that will span centuries. Picking up directly after her heart-wrenching debut in Grimm Universe Presents. After consuming the heart of a psychic witch, Gretel has been gifted the power of premonition. But when she has a psychic vision foretelling the end of the world, Gretel must open old wounds if she wants to try and prevent it from coming true. Introducing a new corner of the Grimm Universe, this will be one series you won't want to miss!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gretel-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="winter soldier (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>winter soldier (2018)</ten_truyen>
-		<ma_truyen>winter-soldier-2018</ma_truyen>
-        <tac_gia>Kyle Higgins, Rod Reis</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/winter-soldier-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Bucky Barnes believes in second chances. Having escaped death, the loss of identity, and a life of murder, the man known as the Winter Soldier has worked hard to atone for his sins. But now...he's going to go one step further. What do you do when you've found redemption? You help others do the same. From KYLE HIGGINS (Nightwing, Power Rangers, C.O.W.L.) and ROD REIS (SECRET EMPIRE, DOCTOR STRANGE: DAMNATION, C.O.W.L.) comes the next chapter in the saga of the Winter Soldier. He's becoming a 'fixer,' working to help others leave behind lives of crime. It's Bucky's way of channeling his own pain in a productive, personal way...by helping others find the redemption that he found. However, as Bucky is going to learn, not all paths are the same... and not everyone can be 'saved.'</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/winter-soldier-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="robyn hood: outlaw" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>robyn hood: outlaw</ten_truyen>
-		<ma_truyen>robyn-hood-outlaw</ma_truyen>
-        <tac_gia>Howard Mackie, Babisu Kourtis</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/r/robyn-hood-outlaw/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Returning from her last adventure, Robyn is back in New York, and looking for some sort of normalcy. But not everyone feels she deserves any, the universe included. After a close friend is attacked, Robyn must take it upon herself to get to the bottom of this mystery as she is pitted against her greatest adversary yet, when she becomes public enemy number one, to the city she calls home. Don't miss this fast paced bare-knuckle, new series, Robyn Hood: Outlaw!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/robyn-hood-outlaw-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="transformers (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Mecha, Movies-tv, Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>transformers (2019)</ten_truyen>
-		<ma_truyen>transformers-2019</ma_truyen>
-        <tac_gia>Brian Ruckley, Angel Hernandez, Cachet Whitman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/transformers-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>A NEW ERA DAWNS! In the infinite universe, there exists a planet like no other: Cybertron! Home to the Transformers, and a thriving hub for inter-stellar commerce, it is a world brimming with organic and constructed diversity. Immense structures line its landscape. Mechanical giants roam across its surface. Starship-sized titans orbit its skies, keeping a constant protective watch above and below. Ancient Transformers merge into its very fabric. Small, mysterious creatures skulk in its shadows. It is a truly amazing realm, long untouched by war, and exuberantly reaching for the stars. This is the Cybertron that Optimus Prime and Megatron vie for in this bold new origin-a world of seemingly endless peace! All that changes when Bumblebee and Windblade take a newly-forged Cybertronian on his first voyage through this world of wonders-they are confronted by the hard reality of the first murder to have occurred on Cybertron in living memory!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/transformers-2019-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="grimm tales of terror (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Suspense" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>grimm tales of terror (2018)</ten_truyen>
-		<ma_truyen>grimm-tales-of-terror-2018</ma_truyen>
-        <tac_gia>Joe Brusha, Sean Hill, Babisu Kourtis</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/grimm-tales-of-terror-vol-4/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The hit Zenescope horror series is back, and not only as a comic, but also as a soon-to-be-released motion picture. The first issue in this new volume ties into the upcoming film and continues the series tradition of delivering modern horror with truly terrifying twists.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/grimm-tales-of-terror-2018-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="the stone king" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>the stone king</ten_truyen>
-		<ma_truyen>the-stone-king</ma_truyen>
-        <tac_gia>Kel McDonald, Tyler Crook</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-stone-king/1_medium.jpg</hinh_nho>
-        <gioi_thieu>When you become an adult, you have to prove yourself, at least that's how it works for the Stoneport thieves. Ave has decided to illegally harvest healing moss from the Stone King, a mighty giant who roams the lands. Her theft goes even better than she could have dreamed. The biggest gem she's ever seen is her prize. But is that prize worth the consequences? Part of the comiXology Originals line of exclusive digital content only available on comiXology and Kindle. This title is available as part of comiXology Unlimited, Kindle Unlimited and Prime Reading.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-stone-king-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>

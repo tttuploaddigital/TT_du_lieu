@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="batman: last knight on earth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mystery, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman: last knight on earth</ten_truyen>
+		<ma_truyen>batman-last-knight-on-earth</ma_truyen>
+        <tac_gia>Scott Snyder, Greg Capullo</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-last-knight-on-earth/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Bruce Wayne wakes up in Arkham Asylum. Young. Sane. And... he was never Batman. So begins this sprawling tale of the Dark Knight as he embarks on a quest through a devastated DC landscape featuring a massive cast of familiar faces from the DC Universe. As he tries to piece together the mystery of his past, he must unravel the cause of this terrible future and track down the unspeakable force that destroyed the world as he knew it... From the powerhouse creative team of writer Scott Snyder and artist Greg Capullo, the team that reinvented Batman from the emotional depths of 'Court of Owls' to the bombastic power of DARK NIGHTS: METAL, DC Black Label is proud to present the bimonthly, three-issue miniseries BATMAN: LAST KNIGHT ON EARTH. This could be the last Batman story ever told...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-last-knight-on-earth-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="black cat" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>black cat</ten_truyen>
+		<ma_truyen>black-cat</ma_truyen>
+        <tac_gia>Jed Mackay, Mike Dowling, Travel Foreman, Nao Fuji</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/black-cat-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The Black Cat is back and starring in her first ever ongoing series! Felicia Hardy has a taste for the finer things in life and a certain set of skills that can get her into any mansion, vault or museum to...procure said finer things. But due to her actions in AMAZING SPIDER-MAN, Felicia's not only on the run from the police but also by the New York Theives Guild and their boss ODESSA DRAKE! High-octane heists, climactic chases and twist after twist that will keep you on the edge of your seat like a cat on a perch. IN THIS ISSUE: Find out a secret from Cat's past in a bonus story that sets a foundation for the future! All this and an all-new MARVEL MEOW short story by Nao Fuji!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/black-cat-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="fallen world" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Post-apocalyptic, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>fallen world</ten_truyen>
+		<ma_truyen>fallen-world</ma_truyen>
+        <tac_gia>Dan Abnett, Adam Pollina</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/fallen-world/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In the year 4002, a cyborg samurai named Rai struggles to find his morality, while the nanite-filled supersoldier Bloodshot is on a mission to save the citizens of Earth. Will they work together for the greater good? All signs point to no. Oh, and did we mention there are also dinosaurs on the loose and powerful animal-human hybrid mutants? Good luck with that, Rai.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/fallen-world-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="volition" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Sci-fi" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>volition</ten_truyen>
+		<ma_truyen>volition</ma_truyen>
+        <tac_gia>Ryan Parrott, Omar Francia</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/v/volition/1_medium.jpg</hinh_nho>
+        <gioi_thieu>In a not-too-distant future, artificial intelligence has spawned a race of robots that serve all of humanity. Robots are considered second class citizens, but a few in the A.I. community are fighting back in a constant struggle for equal rights. When a debilitating virus called 'Rust' threatens all artificial life, salvation lies in the most unlikely of robotic heroes-not a warrior or a solider, but in an obsolete construction worker and a dedicated caregiver. Together, HALE-19 and AMBER-7T embark on a perilous journey in search of a cure that could potentially change the balance of power on Earth forever.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/volition-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="the dreaming (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>the dreaming (2018)</ten_truyen>
+		<ma_truyen>the-dreaming-2018</ma_truyen>
+        <tac_gia>Brian Wood, Mack Chater</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-dreaming-(2018)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>There is a place where stories are born. Today its walls lie slashed and bleeding. Dream has abandoned his realm, and until he is found, its residents must protect its broken borders alone. But the most senior storysmiths are tormented by invasive secrets, the warden Lucien is doubting his own mind—and beyond the gates something horrific waits with tooth and talon. Only Dora, the monstress, finds opportunity in madness, stealing dreams for the highest bidder. But she has no idea how deep the danger lies. Meanwhile, in Dream’s gallery, something new is growing...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-dreaming-2018-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="boku no heya ga dungeon no kyuukeijo ni natteshimatta ken" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>boku no heya ga dungeon no kyuukeijo ni natteshimatta ken</ten_truyen>
 		<ma_truyen>boku-no-heya-ga-dungeon-no-kyuukeijo-ni-natteshimatta-ken</ma_truyen>
@@ -360,49 +405,4 @@
 		<gioi_thieu>The literature industry is suffering from the publishing recession. While the literary magazine 'Mokuren' was grieving over the present state of affairs, a composition intended for their Newcomer's Award was sent to their editing department. However, it completely ignored the application rules. It should have been torn to shreds, but the work caught the eye of a sole editor. As a result, the world began to change.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hibiki-shousetsuka-ni-naru-houhou-eng.xml</file_xml>
 	</truyen>
-	<truyen ten="war of the realms " tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>war of the realms </ten_truyen>
-		<ma_truyen>war-of-the-realms</ma_truyen>
-        <tac_gia>Jason Aaron, Russell Dauterman</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Featuring action-packed extras including a Cover Gallery, Script, Inked And Color Pages and Character Designs! THE WORLD AT WAR! Asgard. Alfheim. Heven. Jotunheim. Muspelheim. Niffleheim. Nidavellir. Svartalfheim. Vanaheim. All of the Ten Realms have fallen to Malekith and his army except one: Midgard. Home to Thor's beloved humans. Home to heroes and gods alike. Now, at last, it burns. And Thor won't even be there to see it. All hell breaks loose in New York City as Malekith and his allies begin their invasion - and the greatest heroes of the Marvel Universe watch as the Earth falls!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="war of the realms: journey into mystery" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>war of the realms: journey into mystery</ten_truyen>
-		<ma_truyen>war-of-the-realms-journey-into-mystery</ma_truyen>
-        <tac_gia>Clint McElroy, Griffin McElroy, Justin McElroy, Travis McElroy, Andre Lima Araujo</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-journey-into-mystery/1_medium.jpg</hinh_nho>
-        <gioi_thieu>The creators of the blockbuster podcast The Adventure Zone bring their talents to Marvel for a wild romp through THE WAR OF THE REALMS! Earth is at war, besieged by an army of Frost Giants, Trolls and Fire Goblins - and the mighty Thor is nowhere to be found! But could it be that the key to turning the tide is...Thor's baby sister? Journey into Mystery with Spider-Man (Miles Morales), Hawkeye (Kate Bishop), Wonder Man, and Balder the Brave as they go on an epic quest to save Earth's only hope! (And, yes, deal with diaper duty.)</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-journey-into-mystery-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="war of the realms: war scrolls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>war of the realms: war scrolls</ten_truyen>
-		<ma_truyen>war-of-the-realms-war-scrolls</ma_truyen>
-        <tac_gia>Jason Aaron, Josh Trujillo, Ram V, Chip Zdarsky, CAFU, Ricardo Lopez Ortiz, Joe Quinones, Andrea Sorrentino</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-war-scrolls/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE MUST-READ COMPANION TO WAR OF THE REALMS! Gifted the sight of the Bifrost, Daredevil watches all Midgard burn under Malekith's invasion. How will the Guardian of Hell's Kitchen...guard an entire Earth turned to Hell? Find out in a story by Jason Aaron and Andrea Sorrentino! All this and more (including a new Howard the Duck story by Chip Zdarsky and Joe Quinones!), straight from the battlefield of WAR OF THE REALMS!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-war-scrolls-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="war of the realms: the punisher" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>war of the realms: the punisher</ten_truyen>
-		<ma_truyen>war-of-the-realms-the-punisher</ma_truyen>
-        <tac_gia>Gerry Duggan, Marcelo Ferreira</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-the-punisher/1_medium.jpg</hinh_nho>
-        <gioi_thieu>PUNISHER: AVENGER OF MIDGARD! The War of The Realms has brought monsters to the streets of New York City, but New York has a monster all its own...Frank Castle, A.K.A. THE PUNISHER! And he'll be damned to Hel if he's going to let a bunch of Ten Realms tin-pot tyrants terrorize his town. But given he's one man against an army of monsters, Hel might soon have him! The War of Realms is about to meet Marvel's One Man Army. Expect Punishment!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-the-punisher-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="oz: heart of magic" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>oz: heart of magic</ten_truyen>
-		<ma_truyen>oz-heart-of-magic</ma_truyen>
-        <tac_gia>Terry Kavanagh, Marcelo Mueller</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/oz-heart-of-magic/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Last we saw Dorothy she was trapped in a body that isn't hers by the evil Wizard of Oz, cut off from most of her loyal followers and exiled from the Emerald City. Now on the run through increasingly forbidding lands, with the very heart of the realm itself on the line, will she be able to protect herself and more importantly the people who rely on her?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oz-heart-of-magic-eng.xml</file_xml>
-    </truyen>
 </danh_sach_truyen>
