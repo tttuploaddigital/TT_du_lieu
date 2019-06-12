@@ -2502,14 +2502,14 @@
         <gioi_thieu>Criminal mastermind Malady has recruited a team of down on their luck physicians to provide medical aid for the world's worst bad guys. Led by the brilliant Ethan Sharp, the blackmailed doctors struggle to uphold their own ethical codes (or lack thereof) in violent and confusing battlefields. And when one doctor goes rogue, the rest learn a terrifying lesson from Malady.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/medisin-eng.xml</file_xml>
     </truyen>
-	<truyen ten="meet the skrulls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="meet the skrulls" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>meet the skrulls</ten_truyen>
 		<ma_truyen>meet-the-skrulls</ma_truyen>
         <tac_gia>Robbie Thompson, Niko Henrichon</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/m/meet-the-skrulls/1_medium.jpg</hinh_nho>
         <gioi_thieu>The Warners are your typical family. Dad works at Stark. Mom works in a senator's office. Jennifer and Alice are students at Stamford High School. The only thing that makes them different is that they're shape-shifting Skrulls and have infiltrated our society to pave the way for a Skrull invasion. Robbie Thompson (SPIDER-MAN/DEADPOOL) and Niko Henrichon (DOCTOR STRANGE, Pride of Baghdad) bring the Marvel Universe down to earth with a bold new look at the Skrulls that will test even YOUR loyalty.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/meet-the-skrulls-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/meet-the-skrulls-eng.xml</file_xml>
     </truyen>
 	<truyen ten="mera: queen of atlantis" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>mera: queen of atlantis</ten_truyen>
@@ -3849,7 +3849,7 @@
         <tac_gia>Brian Wood, Mack Chater</tac_gia>
         <tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-dreaming-(2018)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>There is a place where stories are born. Today its walls lie slashed and bleeding. Dream has abandoned his realm, and until he is found, its residents must protect its broken borders alone. But the most senior storysmiths are tormented by invasive secrets, the warden Lucien is doubting his own mind—and beyond the gates something horrific waits with tooth and talon. Only Dora, the monstress, finds opportunity in madness, stealing dreams for the highest bidder. But she has no idea how deep the danger lies. Meanwhile, in Dream’s gallery, something new is growing...</gioi_thieu>
+        <gioi_thieu>There is a place where stories are born. Today its walls lie slashed and bleeding. Dream has abandoned his realm, and until he is found, its residents must protect its broken borders alone. But the most senior storysmiths are tormented by invasive secrets, the warden Lucien is doubting his own mind-and beyond the gates something horrific waits with tooth and talon. Only Dora, the monstress, finds opportunity in madness, stealing dreams for the highest bidder. But she has no idea how deep the danger lies. Meanwhile, in Dream's gallery, something new is growing...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-dreaming-2018-eng.xml</file_xml>
     </truyen>
 	<truyen ten="the empty man (2018)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Horror, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
