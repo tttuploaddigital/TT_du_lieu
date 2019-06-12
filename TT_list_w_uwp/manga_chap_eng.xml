@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>eden's zero</ten_truyen>
+		<ma_truyen>eden-s-zero</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/eb/36/eb36df4b390a69a81498ebd021956adfe1fb9514_39872_200_297.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/eden-s-zero-eng.xml</file_xml>
+		<chap_moi>chap 48</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>usogui</ten_truyen>
+		<ma_truyen>usogui</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
+		<chap_moi>chap 77</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>parallel paradise</ten_truyen>
+		<ma_truyen>parallel-paradise</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/93/3c/933c14caeabc3f73cb389d236ce03f4155d55ea8_37007_200_310.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/parallel-paradise-eng.xml</file_xml>
+		<chap_moi>chap 271</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>saiki kusuo no sainan</ten_truyen>
+		<ma_truyen>saiki-kusuo-no-sainan</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/8456/7/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saiki-kusuo-no-sainan-eng.xml</file_xml>
+		<chap_moi>chap 80</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>murabito desu ga nani ka?</ten_truyen>
 		<ma_truyen>murabito-desu-ga-nani-ka</ma_truyen>
         <hinh_nho>https://file-thumb.anyacg.co/W300/40/46/40465d9f542faf8fa07c1a0c0599f22cb9c7dad7_37575_200_310.jpg</hinh_nho>
@@ -279,40 +307,5 @@
         <hinh_nho>https://file-thumb.mpcdn.net/27742/2/200.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/reincarnation-no-kaben-eng.xml</file_xml>
 		<chap_moi>chap 40</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>yuusha ga shinda!</ten_truyen>
-		<ma_truyen>yuusha-ga-shinda</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/29997/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/yuusha-ga-shinda-eng.xml</file_xml>
-		<chap_moi>chap 156</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>lv999 no murabito</ten_truyen>
-		<ma_truyen>lv999-no-murabito</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/49930/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/lv999-no-murabito-eng.xml</file_xml>
-		<chap_moi>chap 17.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>giant killing</ten_truyen>
-		<ma_truyen>giant-killing</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
-		<chap_moi>chap 311</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>noragami</ten_truyen>
-		<ma_truyen>noragami</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7118/11/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/noragami-eng.xml</file_xml>
-		<chap_moi>chap 82</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>world's end harem</ten_truyen>
-		<ma_truyen>world-s-end-harem</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/41115/3/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-s-end-harem-eng.xml</file_xml>
-		<chap_moi>chap 62</chap_moi>
 	</truyen>
 </danh_sach_truyen>
