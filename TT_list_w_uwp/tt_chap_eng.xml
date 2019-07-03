@@ -1,6 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>justice league (2018)</ten_truyen>
+		<ma_truyen>justice-league-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-2018-eng.xml</file_xml>
+		<chap_moi>issue 27</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>war of the realms: new agents of atlas</ten_truyen>
+		<ma_truyen>war-of-the-realms-new-agents-of-atlas</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-new-agents-of-atlas/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-new-agents-of-atlas-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the terrifics</ten_truyen>
+		<ma_truyen>the-terrifics</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-terrifics/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-terrifics-eng.xml</file_xml>
+		<chap_moi>issue 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mr. and mrs. x</ten_truyen>
+		<ma_truyen>mr-and-mrs-x</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mr-and-mrs-x/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mr-and-mrs-x-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the beauty</ten_truyen>
+		<ma_truyen>the-beauty</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-beauty/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-beauty-eng.xml</file_xml>
+		<chap_moi>issue 27</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>onepunch-man</ten_truyen>
+		<ma_truyen>onepunch-man</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onepunch-man-eng.xml</file_xml>
+		<chap_moi>chap 112</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>goblin slayer </ten_truyen>
+		<ma_truyen>goblin-slayer</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41855/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-eng.xml</file_xml>
+		<chap_moi>chap 37</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 164</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>it's my life</ten_truyen>
+		<ma_truyen>it-s-my-life</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40060/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/it-s-my-life-eng.xml</file_xml>
+		<chap_moi>chap 45.5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kuroshitsuji</ten_truyen>
+		<ma_truyen>kuroshitsuji</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/5536/10/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kuroshitsuji-eng.xml</file_xml>
+		<chap_moi>chap 153</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>solo leveling</ten_truyen>
+		<ma_truyen>solo-leveling</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/f1/fd/f1fd1cc899c1d8d919644341b96497ec864d914d_25991_200_270.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/solo-leveling-eng.xml</file_xml>
+		<chap_moi>chap 77</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>tales of demons and gods</ten_truyen>
+		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tales-of-demons-and-gods-eng.xml</file_xml>
+		<chap_moi>chap 229.5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>a returner's magic should be special</ten_truyen>
+		<ma_truyen>a-returner-s-magic-should-be-special</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/fd/69/fd69630598bd7ec524ac3a2ad1e6d86056fba6e8_30740_200_270.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/a-returner-s-magic-should-be-special-eng.xml</file_xml>
+		<chap_moi>chap 69</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>my wife is a demon queen</ten_truyen>
+		<ma_truyen>my-wife-is-a-demon-queen</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/37/4b/374beb43c84a40c65aadd8bab94d9178a55c03e5_26355_200_266.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/my-wife-is-a-demon-queen-eng.xml</file_xml>
+		<chap_moi>chap 107</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>ghost wife</ten_truyen>
+		<ma_truyen>ghost-wife</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41903/1/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/ghost-wife-eng.xml</file_xml>
+		<chap_moi>chap 74</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>dceased</ten_truyen>
 		<ma_truyen>dceased</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/d/dceased/1_medium.jpg</hinh_nho>
@@ -209,110 +314,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/08/44/08447688a71db088ef880ffec8605f8ecc6c5cc1_37498_200_300.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kuro-no-shoukanshi-eng.xml</file_xml>
 		<chap_moi>chap 27</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>justice league (2018)</ten_truyen>
-		<ma_truyen>justice-league-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-2018-eng.xml</file_xml>
-		<chap_moi>issue 24</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>age of x-man: the marvelous x-men</ten_truyen>
-		<ma_truyen>age-of-x-man-the-marvelous-x-men</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-the-marvelous-x-men/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-the-marvelous-x-men-eng.xml</file_xml>
-		<chap_moi>issue 4</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>naomi</ten_truyen>
-		<ma_truyen>naomi</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/n/naomi/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/naomi-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>daredevil (2019)</ten_truyen>
-		<ma_truyen>daredevil-2019</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/daredevil-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/daredevil-2019-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>oblivion song</ten_truyen>
-		<ma_truyen>oblivion-song</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/o/oblivion-song/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/oblivion-song-eng.xml</file_xml>
-		<chap_moi>issue 15</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dungeon seeker</ten_truyen>
-		<ma_truyen>dungeon-seeker</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41914/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dungeon-seeker-eng.xml</file_xml>
-		<chap_moi>chap 33</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>bobobo-bo-bo-bobo</ten_truyen>
-		<ma_truyen>bobobo-bo-bo-bobo</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/45/a2/45a22336d63d375db8794e45b2d8e4796a2d2994_28459_200_312.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/bobobo-bo-bo-bobo-eng.xml</file_xml>
-		<chap_moi>chap 178</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>giant killing</ten_truyen>
-		<ma_truyen>giant-killing</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3073/4/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/giant-killing-eng.xml</file_xml>
-		<chap_moi>chap 314</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>btooom!</ten_truyen>
-		<ma_truyen>btooom</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/12/9/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/btooom-eng.xml</file_xml>
-		<chap_moi>chap 98</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>koi inu.</ten_truyen>
-		<ma_truyen>koi-inu</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/33554/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/koi-inu-eng.xml</file_xml>
-		<chap_moi>chap 177</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>iron ladies</ten_truyen>
-		<ma_truyen>iron-ladies</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/65/11/6511f81ba14b3dd57f902dd8b894acbb6aa93673_33406_200_266.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/iron-ladies-eng.xml</file_xml>
-		<chap_moi>chap 262</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>solo leveling</ten_truyen>
-		<ma_truyen>solo-leveling</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/f1/fd/f1fd1cc899c1d8d919644341b96497ec864d914d_25991_200_270.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/solo-leveling-eng.xml</file_xml>
-		<chap_moi>chap 71</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>tales of demons and gods</ten_truyen>
-		<ma_truyen>tales-of-demons-and-gods</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/35053/1/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/tales-of-demons-and-gods-eng.xml</file_xml>
-		<chap_moi>chap 223</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>red storm</ten_truyen>
-		<ma_truyen>red-storm</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/21499/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhwa_Ongoing/red-storm-eng.xml</file_xml>
-		<chap_moi>chap 326</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>martial peak</ten_truyen>
-		<ma_truyen>martial-peak</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/1a/10/1a106398e62eccbd7488fea24c869dc74feb088f_34335_200_266.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manhua_Ongoing/martial-peak-eng.xml</file_xml>
-		<chap_moi>chap 65</chap_moi>
 	</truyen>
 </danh_sach_truyen>

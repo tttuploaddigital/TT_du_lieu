@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>onepunch-man</ten_truyen>
+		<ma_truyen>onepunch-man</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onepunch-man-eng.xml</file_xml>
+		<chap_moi>chap 112</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>goblin slayer </ten_truyen>
+		<ma_truyen>goblin-slayer</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/41855/1/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/goblin-slayer-eng.xml</file_xml>
+		<chap_moi>chap 37</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kimetsu no yaiba</ten_truyen>
+		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
+		<chap_moi>chap 164</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>it's my life</ten_truyen>
+		<ma_truyen>it-s-my-life</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/40060/3/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/it-s-my-life-eng.xml</file_xml>
+		<chap_moi>chap 45.5</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kuroshitsuji</ten_truyen>
+		<ma_truyen>kuroshitsuji</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/5536/10/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kuroshitsuji-eng.xml</file_xml>
+		<chap_moi>chap 153</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>eden's zero</ten_truyen>
 		<ma_truyen>eden-s-zero</ma_truyen>
         <hinh_nho>https://file-thumb.anyacg.co/W300/eb/36/eb36df4b390a69a81498ebd021956adfe1fb9514_39872_200_297.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/66/74/667416ce0e5f3ee8a937ed7f340f88e9bd1c2c8a_27600_200_314.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/badboys-eng.xml</file_xml>
 		<chap_moi>chap 100</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>onepunch-man</ten_truyen>
-		<ma_truyen>onepunch-man</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/onepunch-man-eng.xml</file_xml>
-		<chap_moi>chap 107</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kimetsu no yaiba</ten_truyen>
-		<ma_truyen>kimetsu-no-yaiba</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/39679/7/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kimetsu-no-yaiba-eng.xml</file_xml>
-		<chap_moi>chap 156</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>baki dou</ten_truyen>
-		<ma_truyen>baki-dou</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/26738/4/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/baki-dou-eng.xml</file_xml>
-		<chap_moi>chap 167</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>murenase! shiiton gakuen</ten_truyen>
-		<ma_truyen>murenase-shiiton-gakuen</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41813/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/murenase-shiiton-gakuen-eng.xml</file_xml>
-		<chap_moi>chap 70.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>reincarnation no kaben</ten_truyen>
-		<ma_truyen>reincarnation-no-kaben</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/27742/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/reincarnation-no-kaben-eng.xml</file_xml>
-		<chap_moi>chap 40</chap_moi>
 	</truyen>
 </danh_sach_truyen>

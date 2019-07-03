@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>justice league (2018)</ten_truyen>
+		<ma_truyen>justice-league-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/justice-league-2018-eng.xml</file_xml>
+		<chap_moi>issue 27</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>war of the realms: new agents of atlas</ten_truyen>
+		<ma_truyen>war-of-the-realms-new-agents-of-atlas</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-new-agents-of-atlas/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-new-agents-of-atlas-eng.xml</file_xml>
+		<chap_moi>issue 4</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the terrifics</ten_truyen>
+		<ma_truyen>the-terrifics</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-terrifics/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-terrifics-eng.xml</file_xml>
+		<chap_moi>issue 17</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>mr. and mrs. x</ten_truyen>
+		<ma_truyen>mr-and-mrs-x</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/m/mr-and-mrs-x/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/mr-and-mrs-x-eng.xml</file_xml>
+		<chap_moi>issue 12</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the beauty</ten_truyen>
+		<ma_truyen>the-beauty</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-beauty/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-beauty-eng.xml</file_xml>
+		<chap_moi>issue 27</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>dceased</ten_truyen>
 		<ma_truyen>dceased</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/d/dceased/1_medium.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/t/the-six-million-dollar-man-(2019)/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-six-million-dollar-man-eng.xml</file_xml>
 		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>young justice (2019)</ten_truyen>
-		<ma_truyen>young-justice-2019</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/y/young-justice-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/young-justice-2019-eng.xml</file_xml>
-		<chap_moi>issue 5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>harley quinn (2016)</ten_truyen>
-		<ma_truyen>harley-quinn-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/h/harley-quinn-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/harley-quinn-2016-eng.xml</file_xml>
-		<chap_moi>issue 61</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>teenage mutant ninja turtles: urban legends</ten_truyen>
-		<ma_truyen>teenage-mutant-ninja-turtles-urban-legends</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/teenage-mutant-ninja-turtles-urban-legends/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/teenage-mutant-ninja-turtles-urban-legends-eng.xml</file_xml>
-		<chap_moi>issue 12</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>barbarella / dejah thoris</ten_truyen>
-		<ma_truyen>barbarella-dejah-thoris</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/b/barbarelladejah-thoris/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/barbarella-dejah-thoris-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>paper girls</ten_truyen>
-		<ma_truyen>paper-girls</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/p/paper-girls/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/paper-girls-eng.xml</file_xml>
-		<chap_moi>issue 28</chap_moi>
 	</truyen>
 </danh_sach_truyen>
