@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="tensei ouji wa daraketai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>tensei ouji wa daraketai</ten_truyen>
+		<ma_truyen>tensei-ouji-wa-daraketai</ma_truyen>
+		<tac_gia>Asahina Nagomu, Horishiro Shishamo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/60/13/6013c4f0c31d9d5d661aa723b7ebd119033dad04_22128_200_284.jpg</hinh_nho>
+		<gioi_thieu>Haruto is an ordinary Japanese student who is tired of constant work and study. After getting trucked, he is reincarnated as Phil Graceheart, the youngest child in a royal family. When Phil is three years old, he gets a head injury that causes him to remember his former life. Armed with the knowledge of his past self, he is now on a mission to live a completely relaxing and carefree life.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tensei-ouji-wa-daraketai-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="aoki hagane no arpeggio" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>aoki hagane no arpeggio</ten_truyen>
+		<ma_truyen>aoki-hagane-no-arpeggio</ma_truyen>
+		<tac_gia>Ark Performance</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/87/6d/876db0a8e9a6b37d65648af8d47ebabffd9a2795_33807_200_281.jpg</hinh_nho>
+		<gioi_thieu>Suddenly, a fleet of ships with mysterious superweapons called the 'Fleet of Fog' appeared all around the world. Humanity didn't have the technology to fight such a fleet, so they were driven out of the sea... Seventeen years after the battle, for some reason, Gunzou Chihaya and his crewmates aboard the I-401 and the personification (Mental Model) of the I-401, Iona, started fighting the Fleet of Fog...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/aoki-hagane-no-arpeggio-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hakuba no oujisama" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hakuba no oujisama</ten_truyen>
+		<ma_truyen>hakuba-no-oujisama</ma_truyen>
+		<tac_gia>Saku Yukizo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/1f/e9/1fe9cee92e791da4b62ce5278dfffc4331be6a6f_31813_200_283.jpg</hinh_nho>
+		<gioi_thieu>Ozu Kotarou (25) recently changed his career from a white collar worker to a high school teacher. His new workplace is at Odawara High School, a girls only school. He starts off his first day by leaving a significant impression on the entire school by announcing that he has no interest in younger girls, especially under age girls. Kotarou is assigned to assist Hara Takako, a fellow teacher, until he gets experience teaching. Hara is a beautiful 32 year old woman but is insecure about being single and is worried about her future. How will the relationship between these two people develop as they start working closely together?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hakuba-no-oujisama-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="aiura" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>aiura</ten_truyen>
+		<ma_truyen>aiura</ma_truyen>
+		<tac_gia>Chama uji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/56/66/5666d90e2199d7705688510a8dc032d08b21cb67_17317_200_284.jpg</hinh_nho>
+		<gioi_thieu>The story centers around Amaya, Iwasawa, and Uehara - three 'annoying, spirited high school girls with zero motivation' - and their classmates. Their daily life is 'what happens when there is nothing happening.'</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/aiura-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="munakata kyouju ikouroku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Drama, Historical, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>munakata kyouju ikouroku</ten_truyen>
+		<ma_truyen>munakata-kyouju-ikouroku</ma_truyen>
+		<tac_gia>Hoshino Yukinobu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/cd/c6/cdc6f9a810ebf33631cc7882e99d1a3050c40d2d_28191_200_314.jpg</hinh_nho>
+		<gioi_thieu>From all around the world come many legends and beliefs; professor Munakata, an authority on the study of folklore, reveals the invisible historical facts hidden behind the myths. This story is brightly depicted, the main character using keen reasoning and a deep insight to solve one mystery after another.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/munakata-kyouju-ikouroku-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="batman: last knight on earth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mystery, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batman: last knight on earth</ten_truyen>
 		<ma_truyen>batman-last-knight-on-earth</ma_truyen>
@@ -360,49 +405,4 @@
         <gioi_thieu>In 1969, seventeen-year-old Kathy Sartori was brutally attacked, her body hurled into Brooklyn's Sheepshead Bay. Miraculously, she survives and fights her way back to the surface, only to discover that fifty years have passed and an eerie doppelganger has lived out an entire life in her place. Kathy soon confronts not just this strange double, but the madman who 'murdered' her five decades earlier. Will he, and the dark entity that lives inside him, hold the key to Kathy's missing years? Or will Kathy become a ghost of herself, forced to live out what remains of her life on the edge of the world that she desperately wants to be a part of?</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/the-girl-in-the-bay-eng.xml</file_xml>
     </truyen>
-	<truyen ten="grancrest senki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Ecchi, Fantasy, Historical, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>grancrest senki</ten_truyen>
-		<ma_truyen>grancrest-senki</ma_truyen>
-		<tac_gia>Mizuno Ryou, Miyuu, Yotsuba Makoto</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/88/63/8863788d28ddb6818dfed687221a311b0c872db9_31698_200_283.jpg</hinh_nho>
-		<gioi_thieu>On a continent ruled by chaos, the Lords have the power of a holy seal that can calm the chaos and protect the people. However, before anyone realizes it, the rulers cast aside their creed of purifying the chaos, and instead start to fight each other for each others' holy seals to gain dominion over one another. Shiruuka, an isolated mage who scorns the Lords for abandoning their creed, and a wandering knight named Theo, who is on a journey to train to one day liberate his hometown, make an everlasting oath to work together to reform this continent dominated by wars and chaos.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/grancrest-senki-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="shuumatsu no walkure" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Fantasy, Historical, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>shuumatsu no walkure</ten_truyen>
-		<ma_truyen>shuumatsu-no-walkure</ma_truyen>
-		<tac_gia>Fukui Takumi, Umemura Shinya, Aji Chika</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/23/92/2392f5fb490b932302d80f327b88bd354b3032a5_35750_200_284.jpg</hinh_nho>
-		<gioi_thieu>The story begins when the gods call a convention to decide the whether to let humanity live or die, and settle on destroying humanity. But a lone valkyrie puts forward a suggestion to let the gods and humanity fight one last battle, as a last hope for humanity's continued survival. 13 gods will fight against 13 human champions in one-on-one battles to decide whether humanity lives or dies.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shuumatsu-no-walkure-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mighty heart" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>mighty heart</ten_truyen>
-		<ma_truyen>mighty-heart</ma_truyen>
-		<tac_gia>Matsuri Seishirou</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/e7/01/e701dafde50af3af2d2baa2f86bee5012c3d7276_42614_200_309.jpg</hinh_nho>
-		<gioi_thieu>An evil organization, whose members are dressed in strange robotic looking suits, is planning to conquer the Earth. They call each other using the title of 'Mysterious person' (but the reading is given as the gairaigo for 'Phantom' ) . One of their members, Tenkawa Toichi, lives disguised as an ordinary boy in a normal high school. One day makes her appearance Maishima Kokoro, an attractive but fierce new transfer student, who is not interested in romantic relationships or sexual experiences. Her secret identity is that of last bastion of mankind against the evil army: when a danger appears, she transform herself in Mighty Heart, the Angel of Judgment! ...which is so weak to be beaten the hell out of her every time. But her real power lyes in what happen every time she experiences a state of extreme shyness: at the peak of her embarrassment she release the 'mighty beam', a terrific weapon that can reach (but only when she also cries!) a devastating power equivalent to 1 ton of TNT. This happens often when she is sexually teased, and used as final weapon in almost every battle.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mighty-heart-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="isekai wo seigyo mahou de kirihirake!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>isekai wo seigyo mahou de kirihirake!</ten_truyen>
-		<ma_truyen>isekai-wo-seigyo-mahou-de-kirihirake</ma_truyen>
-		<tac_gia>Satake Akinori, Fujisawa Naoyuki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/de/0f/de0ff6b7608c75acd54ecd4f4a7413e584d91920_42555_200_284.jpg</hinh_nho>
-		<gioi_thieu>Evan Douglas despite being born in nobility, he was bullied by everyone in his family due to his low mana capacity and even more due to his black hair and eyes that does not run in the family. The only person who is kind to him is his maid Serafina from the wolf beastman race that is of similar age and he is later exiled from the family and Serafina follows him. But either by luck or fate, after suffering a hit in the head, Evan started having dreams of a place with extremely high-technology beyond anything he could imagine, on it he saw dolls being controlled by some strange magic and glowing windows with moving pictures. This dreams leads him to develop a new magic he calls control magic, that does not belong to any of the known elements. Now Evan with his new abilities goes adventuring with his maid Serafina.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-wo-seigyo-mahou-de-kirihirake-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="hibiki - shousetsuka ni naru houhou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>hibiki - shousetsuka ni naru houhou</ten_truyen>
-		<ma_truyen>hibiki-shousetsuka-ni-naru-houhou</ma_truyen>
-		<tac_gia>Yanagimoto Mitsuharu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/aa/a4/aaa403be9d2fe540671bc1c36e34cce791e65e0d_21855_200_281.jpg</hinh_nho>
-		<gioi_thieu>The literature industry is suffering from the publishing recession. While the literary magazine 'Mokuren' was grieving over the present state of affairs, a composition intended for their Newcomer's Award was sent to their editing department. However, it completely ignored the application rules. It should have been torn to shreds, but the work caught the eye of a sole editor. As a result, the world began to change.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hibiki-shousetsuka-ni-naru-houhou-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>

@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="tensei ouji wa daraketai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>tensei ouji wa daraketai</ten_truyen>
+		<ma_truyen>tensei-ouji-wa-daraketai</ma_truyen>
+		<tac_gia>Asahina Nagomu, Horishiro Shishamo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/60/13/6013c4f0c31d9d5d661aa723b7ebd119033dad04_22128_200_284.jpg</hinh_nho>
+		<gioi_thieu>Haruto is an ordinary Japanese student who is tired of constant work and study. After getting trucked, he is reincarnated as Phil Graceheart, the youngest child in a royal family. When Phil is three years old, he gets a head injury that causes him to remember his former life. Armed with the knowledge of his past self, he is now on a mission to live a completely relaxing and carefree life.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tensei-ouji-wa-daraketai-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="aoki hagane no arpeggio" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>aoki hagane no arpeggio</ten_truyen>
+		<ma_truyen>aoki-hagane-no-arpeggio</ma_truyen>
+		<tac_gia>Ark Performance</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/87/6d/876db0a8e9a6b37d65648af8d47ebabffd9a2795_33807_200_281.jpg</hinh_nho>
+		<gioi_thieu>Suddenly, a fleet of ships with mysterious superweapons called the 'Fleet of Fog' appeared all around the world. Humanity didn't have the technology to fight such a fleet, so they were driven out of the sea... Seventeen years after the battle, for some reason, Gunzou Chihaya and his crewmates aboard the I-401 and the personification (Mental Model) of the I-401, Iona, started fighting the Fleet of Fog...</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/aoki-hagane-no-arpeggio-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hakuba no oujisama" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, School life, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hakuba no oujisama</ten_truyen>
+		<ma_truyen>hakuba-no-oujisama</ma_truyen>
+		<tac_gia>Saku Yukizo</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/1f/e9/1fe9cee92e791da4b62ce5278dfffc4331be6a6f_31813_200_283.jpg</hinh_nho>
+		<gioi_thieu>Ozu Kotarou (25) recently changed his career from a white collar worker to a high school teacher. His new workplace is at Odawara High School, a girls only school. He starts off his first day by leaving a significant impression on the entire school by announcing that he has no interest in younger girls, especially under age girls. Kotarou is assigned to assist Hara Takako, a fellow teacher, until he gets experience teaching. Hara is a beautiful 32 year old woman but is insecure about being single and is worried about her future. How will the relationship between these two people develop as they start working closely together?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hakuba-no-oujisama-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="aiura" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>aiura</ten_truyen>
+		<ma_truyen>aiura</ma_truyen>
+		<tac_gia>Chama uji</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/56/66/5666d90e2199d7705688510a8dc032d08b21cb67_17317_200_284.jpg</hinh_nho>
+		<gioi_thieu>The story centers around Amaya, Iwasawa, and Uehara - three 'annoying, spirited high school girls with zero motivation' - and their classmates. Their daily life is 'what happens when there is nothing happening.'</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/aiura-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="munakata kyouju ikouroku" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Drama, Historical, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>munakata kyouju ikouroku</ten_truyen>
+		<ma_truyen>munakata-kyouju-ikouroku</ma_truyen>
+		<tac_gia>Hoshino Yukinobu</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/cd/c6/cdc6f9a810ebf33631cc7882e99d1a3050c40d2d_28191_200_314.jpg</hinh_nho>
+		<gioi_thieu>From all around the world come many legends and beliefs; professor Munakata, an authority on the study of folklore, reveals the invisible historical facts hidden behind the myths. This story is brightly depicted, the main character using keen reasoning and a deep insight to solve one mystery after another.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/munakata-kyouju-ikouroku-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="boku no heya ga dungeon no kyuukeijo ni natteshimatta ken" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Comedy, Ecchi, Fantasy, Harem, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>boku no heya ga dungeon no kyuukeijo ni natteshimatta ken</ten_truyen>
 		<ma_truyen>boku-no-heya-ga-dungeon-no-kyuukeijo-ni-natteshimatta-ken</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/02/fb/02fb1b35835aab64254e4a601fea87e115e426f1_32292_200_285.jpg</hinh_nho>
 		<gioi_thieu>Salvors are men responsible for towing wrecked ships and handling the cargos. They are different from rescue teams as they usually ask for money before offering help. Nanba Rintarou's father was the owner of such a company, but Rintarou really hated the way they operated and decided to join the Coast Guard However, Rintarou's father died right after Rintarou completed his training. In his will he asked Rintarou to take over his company. What's worse is he left his son a debt of 1.5 billion yen...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/waga-na-wa-umishi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="mairimashita! iruma-kun" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>mairimashita! iruma-kun</ten_truyen>
-		<ma_truyen>mairimashita-iruma-kun</ma_truyen>
-		<tac_gia>Nishi Osamu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/38/1a/381a9747c56d9be63a80f95d32b8949f6634e293_45980_200_308.jpg</hinh_nho>
-		<gioi_thieu>Mairimashita! Iruma-kun is the story of Suzuki Iruma, who has been sold to the demon by his irresponsible parents in exchange for money. Surprisingly, next thing he knows, he is living with the demon and has been transferred into a school from Demon World. We invite you to follow Iruma-kun's extraordinary school life.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/mairimashita-iruma-kun-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="gakkou gurashi!" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Horror, Mature, Mystery, Psychological, School life, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>gakkou gurashi!</ten_truyen>
-		<ma_truyen>gakkou-gurashi</ma_truyen>
-		<tac_gia>Kaihou Norimitsu, Chiba Sadoru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/d4/f5/d4f5de06e6665f6669b97678d892c721aa6270f6_35199_200_290.jpg</hinh_nho>
-		<gioi_thieu>Three high-school girls and a teacher are camping at school. The First Article of the 'School Life Club' Code reads: The School Life Club encourages a spirit of self-governing independence by camping at school, as well as socializing with various after-school clubs, which you can't enjoy from regular classes alone.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gakkou-gurashi-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="jujutsu kaisen" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Fantasy, School life, Shounen., Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>jujutsu kaisen</ten_truyen>
-		<ma_truyen>jujutsu-kaisen</ma_truyen>
-		<tac_gia>Akutami Gege</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/7f/6e/7f6e51e972778f69ba644755de7db91f8ce14e4d_40298_200_314.jpg</hinh_nho>
-		<gioi_thieu>Yuuji is a genius at track and field. But he has zero interest running around in circles, he's happy as a clam in the Occult Research Club. Although he's only in the club for kicks, things get serious when a real spirit shows up at school! Life's about to get really strange in Sugisawa Town #3 High School!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jujutsu-kaisen-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="isekai shokudou" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Comedy, Fantasy, Mystery, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>isekai shokudou</ten_truyen>
-		<ma_truyen>isekai-shokudou</ma_truyen>
-		<tac_gia>Inuzuka Junpei, Kugatsu Takaaki</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/a3/58/a3581edbcd5bf274f9042a0995a0d140bdb2dcae_39841_200_310.jpg</hinh_nho>
-		<gioi_thieu>There is a certain restaurant in one corner of a shopping street near the office district. The historical restaurant, marked by a sign with a picture of a cat, is called 'Western Cuisine Nekoya.' This restaurant looks completely normal through the week, but on Saturdays, it opens in secret exclusively to some very unique guests. During these hours, doors in various areas of a parallel world open to allow customers of many different races and cultures into the restaurant. This 'Restaurant to Another World' and its food hold an exotic charm to these highly diverse customers. This is a story of the heartwarming, once-in-a-lifetime encounters between our reality and another world, between the restaurant's customers and its owner, and the food shared among them all. Note: Based on the eponymous light novel by Inuzuka Junpei.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/isekai-shokudou-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="fantasista" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>fantasista</ten_truyen>
-		<ma_truyen>fantasista</ma_truyen>
-		<tac_gia>Kusaba Michiteru</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/79/24/79245ac305608038037a0f2624350d50d1f4064a_28983_200_314.jpg</hinh_nho>
-		<gioi_thieu>Teppei Sakamoto is a boy living in the countryside. He loves soccer, and all his soccer skills were taught to him by his sister. Finally, his sister wants him to join in Mizumoto High School soccer team. Teppei's turn in life has come!! How will this soccer newbie fare in the new environment?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/fantasista-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>
