@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>dceased</ten_truyen>
+		<ma_truyen>dceased</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dceased/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dceased-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>immortal hulk</ten_truyen>
+		<ma_truyen>immortal-hulk</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/immortal-hulk-eng.xml</file_xml>
+		<chap_moi>issue 20</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the flash (2016)</ten_truyen>
+		<ma_truyen>the-flash-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
+		<chap_moi>issue 73</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>thor (2018)</ten_truyen>
+		<ma_truyen>thor-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thor-2018-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the silencer</ten_truyen>
+		<ma_truyen>the-silencer</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-silencer/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-silencer-eng.xml</file_xml>
+		<chap_moi>issue 18</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>justice league (2018)</ten_truyen>
 		<ma_truyen>justice-league-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/c/catalyst-prime-accell/1_medium.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/accell-eng.xml</file_xml>
 		<chap_moi>issue 20</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>star wars (2015)</ten_truyen>
-		<ma_truyen>star-wars-2015</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/star-wars-(2014)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/star-wars-2015-eng.xml</file_xml>
-		<chap_moi>issue 65</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>age of x-man: prisoner x</ten_truyen>
-		<ma_truyen>age-of-x-man-prisoner-x</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-prisoner-x/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-prisoner-x-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>deathstroke (2016)</ten_truyen>
-		<ma_truyen>deathstroke-2016</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deathstroke-(2016)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deathstroke-2016-eng.xml</file_xml>
-		<chap_moi>issue 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>deadpool (2018)</ten_truyen>
-		<ma_truyen>deadpool-2018</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/deadpool-(2018)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/deadpool-2018-eng.xml</file_xml>
-		<chap_moi>issue 12</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the six million dollar man</ten_truyen>
-		<ma_truyen>the-six-million-dollar-man</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-six-million-dollar-man-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-six-million-dollar-man-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
 	</truyen>
 </danh_sach_truyen>

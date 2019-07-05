@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 606</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>world trigger</ten_truyen>
+		<ma_truyen>world-trigger</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/11153/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-trigger-eng.xml</file_xml>
+		<chap_moi>chap 181</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>higanjima</ten_truyen>
+		<ma_truyen>higanjima</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/06/cc/06cc053af20c3a0dd0b2eb339fe1242e81d6195f_27651_200_284.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/higanjima-eng.xml</file_xml>
+		<chap_moi>chap 214</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>saotome girl, hitakakusu</ten_truyen>
+		<ma_truyen>saotome-girl-hitakakusu</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/db/25/db259350fcd577e4e96b29bd68353cd0a8b0ded1_34318_200_310.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saotome-girl-hitakakusu-eng.xml</file_xml>
+		<chap_moi>chap 114</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>a story about treating a female knight who has never been treated as a woman as a woman</ten_truyen>
+		<ma_truyen>a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/8f/e1/8fe15f1cb81932edf231f9db984ce4e7f2d8866a_26986_200_281.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman-eng.xml</file_xml>
+		<chap_moi>chap 66</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>onepunch-man</ten_truyen>
 		<ma_truyen>onepunch-man</ma_truyen>
         <hinh_nho>https://file-thumb.mpcdn.net/50/11/200.jpg</hinh_nho>
@@ -279,40 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/42623/7/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/grand-blue-eng.xml</file_xml>
 		<chap_moi>chap 52.5</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kingdom  </ten_truyen>
-		<ma_truyen>kingdom</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
-		<chap_moi>chap 599</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>drifters</ten_truyen>
-		<ma_truyen>drifters</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2494/3/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/drifters-eng.xml</file_xml>
-		<chap_moi>chap 76</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>sidooh</ten_truyen>
-		<ma_truyen>sidooh</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/9200/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/sidooh-eng.xml</file_xml>
-		<chap_moi>chap 190</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>usogui</ten_truyen>
-		<ma_truyen>usogui</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W300/16/8d/168d29770ff76f51a70c7c9f5a4de8b27f138226_29177_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/usogui-eng.xml</file_xml>
-		<chap_moi>chap 251</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>badboys</ten_truyen>
-		<ma_truyen>badboys</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/66/74/667416ce0e5f3ee8a937ed7f340f88e9bd1c2c8a_27600_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/badboys-eng.xml</file_xml>
-		<chap_moi>chap 100</chap_moi>
 	</truyen>
 </danh_sach_truyen>

@@ -1,6 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>dceased</ten_truyen>
+		<ma_truyen>dceased</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/d/dceased/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dceased-eng.xml</file_xml>
+		<chap_moi>issue 3</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>immortal hulk</ten_truyen>
+		<ma_truyen>immortal-hulk</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/immortal-hulk/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/immortal-hulk-eng.xml</file_xml>
+		<chap_moi>issue 20</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the flash (2016)</ten_truyen>
+		<ma_truyen>the-flash-2016</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/f/flash-(2016)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-flash-2016-eng.xml</file_xml>
+		<chap_moi>issue 73</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>thor (2018)</ten_truyen>
+		<ma_truyen>thor-2018</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/thor-(2018)/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/thor-2018-eng.xml</file_xml>
+		<chap_moi>issue 14</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>the silencer</ten_truyen>
+		<ma_truyen>the-silencer</ma_truyen>
+        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-silencer/1_medium.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-silencer-eng.xml</file_xml>
+		<chap_moi>issue 18</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>kingdom  </ten_truyen>
+		<ma_truyen>kingdom</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/5073/18/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kingdom-eng.xml</file_xml>
+		<chap_moi>chap 606</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>world trigger</ten_truyen>
+		<ma_truyen>world-trigger</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/11153/4/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/world-trigger-eng.xml</file_xml>
+		<chap_moi>chap 181</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>higanjima</ten_truyen>
+		<ma_truyen>higanjima</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/06/cc/06cc053af20c3a0dd0b2eb339fe1242e81d6195f_27651_200_284.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/higanjima-eng.xml</file_xml>
+		<chap_moi>chap 214</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>saotome girl, hitakakusu</ten_truyen>
+		<ma_truyen>saotome-girl-hitakakusu</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/db/25/db259350fcd577e4e96b29bd68353cd0a8b0ded1_34318_200_310.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/saotome-girl-hitakakusu-eng.xml</file_xml>
+		<chap_moi>chap 114</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>a story about treating a female knight who has never been treated as a woman as a woman</ten_truyen>
+		<ma_truyen>a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman</ma_truyen>
+        <hinh_nho>https://file-thumb.anyacg.co/W300/8f/e1/8fe15f1cb81932edf231f9db984ce4e7f2d8866a_26986_200_281.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/a-story-about-treating-a-female-knight-who-has-never-been-treated-as-a-woman-as-a-woman-eng.xml</file_xml>
+		<chap_moi>chap 66</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>justice league (2018)</ten_truyen>
 		<ma_truyen>justice-league-2018</ma_truyen>
         <hinh_nho>https://comicbookroundup.com/img/covers/j/justice-league-(2018)/1_medium.jpg</hinh_nho>
@@ -244,75 +314,5 @@
 		<hinh_nho>https://file-thumb.mpcdn.net/10524/2/200.jpg</hinh_nho>
 		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/tsugumomo-eng.xml</file_xml>
 		<chap_moi>chap 120.1</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>dial h for hero</ten_truyen>
-		<ma_truyen>dial-h-for-hero</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/d/dial-h-for-hero-(2019)/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/dial-h-for-hero-eng.xml</file_xml>
-		<chap_moi>issue 3</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the terrifics</ten_truyen>
-		<ma_truyen>the-terrifics</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-terrifics/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-terrifics-eng.xml</file_xml>
-		<chap_moi>issue 16</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>the silencer</ten_truyen>
-		<ma_truyen>the-silencer</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/t/the-silencer/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/the-silencer-eng.xml</file_xml>
-		<chap_moi>issue 17</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>monstress</ten_truyen>
-		<ma_truyen>monstress</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/m/monstress/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/monstress-eng.xml</file_xml>
-		<chap_moi>issue 22</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>invader zim</ten_truyen>
-		<ma_truyen>invader-zim</ma_truyen>
-        <hinh_nho>https://comicbookroundup.com/img/covers/i/invader-zim/1_medium.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invader-zim-eng.xml</file_xml>
-		<chap_moi>issue 43</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>one piece</ten_truyen>
-		<ma_truyen>one-piece</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
-		<chap_moi>chap 943</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>black clover</ten_truyen>
-		<ma_truyen>black-clover</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/31051/13/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/black-clover-eng.xml</file_xml>
-		<chap_moi>chap 206</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>shin mazinger zero</ten_truyen>
-		<ma_truyen>shin-mazinger-zero</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/9d/6e/9d6e9ad2999788c4af5dabd79539a06fc3b2b7c1_24586_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/shin-mazinger-zero-eng.xml</file_xml>
-		<chap_moi>chap 34</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>maou-jou de oyasumi</ten_truyen>
-		<ma_truyen>maou-jou-de-oyasumi</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/41990/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/maou-jou-de-oyasumi-eng.xml</file_xml>
-		<chap_moi>chap 110</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>kuro no shoukanshi</ten_truyen>
-		<ma_truyen>kuro-no-shoukanshi</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/08/44/08447688a71db088ef880ffec8605f8ecc6c5cc1_37498_200_300.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kuro-no-shoukanshi-eng.xml</file_xml>
-		<chap_moi>chap 27</chap_moi>
 	</truyen>
 </danh_sach_truyen>
