@@ -1245,6 +1245,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <gioi_thieu>Based on the acclaimed videogame series from Telltale Games, this new digital-first comic tells the story of events between the first and second seasons. Someone is killing people associated with Arkham Asylum during the time Thomas Wayne was forcibly committing people there. Suspicion falls on the families suing Bruce Wayne to pay for the harm caused by his father. Batman has other ideas, but his investigation leads to him becoming the target of a deadly assassin.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-sins-of-the-father-eng.xml</file_xml>
     </truyen>
+	<truyen ten="batman: universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman: universe</ten_truyen>
+		<ma_truyen>batman-universe</ma_truyen>
+        <tac_gia>Brian Michael Bendis, Nick Derington</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-universe/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Following the theft of a priceless Faberge egg, the Riddler leads the Dark Knight on a wild hunt after its true owner: Jinny Hex, descendant of Jonah Hex! Guest-starring Deathstroke, Green Arrow and dozens of Riddler look-alikes in stories by Brian Michael Bendis with art by Nick Derington, originally published in BATMAN GIANT #3 and #4!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-universe-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="batman: white knight" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batman: white knight</ten_truyen>
 		<ma_truyen>batman-white-knight</ma_truyen>
@@ -3195,6 +3204,15 @@ This manga upload for Thu Pham via request manga by send email to tttdigital.con
         <gioi_thieu>Caroline Sharp has been a lot of things, including both a superhero and a super-spy. But now, with those days behind her and her powers proving unreliable, Caroline finds herself stuck in a life weighed down by her depression and an inability to change. You see, Caroline is going to live forever, and there is no escape to be had. The very act of living reminds her that, to the rest of existence, she is an anomaly. All of that could change, however, when her old foe, Madame Atom, comes to her with an intriguing offer. Madame Atom can give Caroline the power to end her life; she just has to destroy the rest of the world.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/eternity-girl-eng.xml</file_xml>
     </truyen>
+	<truyen ten="event leviathan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>event leviathan</ten_truyen>
+		<ma_truyen>event-leviathan</ma_truyen>
+        <tac_gia>Brian Michael Bendis, Alex Maleev</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/event-leviathan/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The groundbreaking and always-inventive team of writer Brian Michael Bendis and artist Alex Maleev (Jinxworld's SCARLET, Marvel's Daredevil) reunite on a mystery thriller that stretches across the DC Universe and touches every character from Batman to Superman to the Question to Talia al Ghul.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/event-leviathan-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="everafter" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Fantasy, Drama, Mature, Political" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>everafter</ten_truyen>
 		<ma_truyen>everafter</ma_truyen>
@@ -5105,6 +5123,15 @@ This manga upload for Rocío Yael from Argentina via request manga on Windows st
         <hinh_nho>https://comicbookroundup.com/img/covers/i/invisible-kingdom/1_medium.jpg</hinh_nho>
         <gioi_thieu>Set in a in a far-flung star system, this new epic sci-fi monthly saga tells the tale of two women-a young religious acolyte and a hard-bitten freighter pilot-who separately uncover a vast conspiracy between the leader of the system's dominant religion and the mega-corporation that controls society. On the run from reprisals on both sides, this unlikely pair of rebels risk plunging the world into anarchy if they reveal the truth. But when your beliefs betray you, what choice is there left? By Hugo Award-winning writer G. Willow Wilson (Wonder Woman, Ms. Marvel) and Eisner Award-winning artist Christian Ward (Black Bolt, ODY-C).</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invisible-kingdom-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="invisible woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>invisible woman</ten_truyen>
+		<ma_truyen>invisible-woman</ma_truyen>
+        <tac_gia>Mark Waid, Mattia de Iulis</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/invisible-woman-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Fresh from the pages of FANTASTIC FOUR, for the first time Susan Storm-Richards stars in her own limited series - and the secrets about her past revealed therein will shake readers' perceptions of the Invisible Woman forevermore! Years ago, she undertook an espionage mission for S.H.I.E.L.D. - and now it's up to her to save her former partner from death at the hands of international terrorists!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invisible-woman-eng.xml</file_xml>
     </truyen>
     <truyen ten="iris zero" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Drama, Mystery, Psychological, Romance, School life, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>iris zero</ten_truyen>
@@ -9444,6 +9471,15 @@ This manga upload for Maryam Ria via request manga by send email to tttdigital.c
         <gioi_thieu>In this tale of Cold War paranoia, the spaceship carrying the infant Superman lands in the 1950s Soviet Union, where he grows up to become a symbol of Soviet power.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/superman-red-son-eng.xml</file_xml>
     </truyen>
+	<truyen ten="superman: up in the sky" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>superman: up in the sky</ten_truyen>
+		<ma_truyen>superman-up-in-the-sky</ma_truyen>
+        <tac_gia>Tom King, Andy Kubert</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/superman-up-in-the-sky/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Available to comics shops for the first time! Following a home invasion that ends in murder, Superman is put on the trail of a Metropolis mystery by Batman-but can even the Man of Steel discover the truth behind these tragic deaths, or their ties to the far-off world of Rann?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superman-up-in-the-sky-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="superwoman (2016)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy, Sci-fi, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>superwoman (2016)</ten_truyen>
 		<ma_truyen>superwoman-2016</ma_truyen>
@@ -11339,6 +11375,15 @@ This manga upload for Grace from United Kingdom via request manga on Windows sto
         <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-the-punisher/1_medium.jpg</hinh_nho>
         <gioi_thieu>PUNISHER: AVENGER OF MIDGARD! The War of The Realms has brought monsters to the streets of New York City, but New York has a monster all its own...Frank Castle, A.K.A. THE PUNISHER! And he'll be damned to Hel if he's going to let a bunch of Ten Realms tin-pot tyrants terrorize his town. But given he's one man against an army of monsters, Hel might soon have him! The War of Realms is about to meet Marvel's One Man Army. Expect Punishment!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/war-of-the-realms-the-punisher-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms: uncanny x-men" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms: uncanny x-men</ten_truyen>
+		<ma_truyen>war-of-the-realms-uncanny-x-men</ma_truyen>
+        <tac_gia>Matthew Rosenberg, Pere Perez</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-uncanny-x-men/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The War of the Realms has come to Midgard...and Westchester! Malekith's forces are invading Earth, and the heroes of Earth are joining with the heroes of Asgard to fight them back! Who better to lead the X-Men into that war than their very own Valkyrie, Dani Moonstar?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/war-of-the-realms-uncanny-x-men-eng.xml</file_xml>
     </truyen>
 	<truyen ten="war of the realms: war scrolls" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>war of the realms: war scrolls</ten_truyen>
