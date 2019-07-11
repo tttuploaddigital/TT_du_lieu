@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="event leviathan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>event leviathan</ten_truyen>
+		<ma_truyen>event-leviathan</ma_truyen>
+        <tac_gia>Brian Michael Bendis, Alex Maleev</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/e/event-leviathan/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The groundbreaking and always-inventive team of writer Brian Michael Bendis and artist Alex Maleev (Jinxworld's SCARLET, Marvel's Daredevil) reunite on a mystery thriller that stretches across the DC Universe and touches every character from Batman to Superman to the Question to Talia al Ghul.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/event-leviathan-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="war of the realms: uncanny x-men" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>war of the realms: uncanny x-men</ten_truyen>
+		<ma_truyen>war-of-the-realms-uncanny-x-men</ma_truyen>
+        <tac_gia>Matthew Rosenberg, Pere Perez</tac_gia>
+        <tinh_trang>Completed</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/w/war-of-the-realms-uncanny-x-men/1_medium.jpg</hinh_nho>
+        <gioi_thieu>The War of the Realms has come to Midgard...and Westchester! Malekith's forces are invading Earth, and the heroes of Earth are joining with the heroes of Asgard to fight them back! Who better to lead the X-Men into that war than their very own Valkyrie, Dani Moonstar?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/war-of-the-realms-uncanny-x-men-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="batman: universe" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>batman: universe</ten_truyen>
+		<ma_truyen>batman-universe</ma_truyen>
+        <tac_gia>Brian Michael Bendis, Nick Derington</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/b/batman-universe/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Following the theft of a priceless Faberge egg, the Riddler leads the Dark Knight on a wild hunt after its true owner: Jinny Hex, descendant of Jonah Hex! Guest-starring Deathstroke, Green Arrow and dozens of Riddler look-alikes in stories by Brian Michael Bendis with art by Nick Derington, originally published in BATMAN GIANT #3 and #4!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/batman-universe-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="invisible woman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>invisible woman</ten_truyen>
+		<ma_truyen>invisible-woman</ma_truyen>
+        <tac_gia>Mark Waid, Mattia de Iulis</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/i/invisible-woman-(2019)/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Fresh from the pages of FANTASTIC FOUR, for the first time Susan Storm-Richards stars in her own limited series - and the secrets about her past revealed therein will shake readers' perceptions of the Invisible Woman forevermore! Years ago, she undertook an espionage mission for S.H.I.E.L.D. - and now it's up to her to save her former partner from death at the hands of international terrorists!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/invisible-woman-eng.xml</file_xml>
+    </truyen>
+	<truyen ten="superman: up in the sky" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+		<ten_truyen>superman: up in the sky</ten_truyen>
+		<ma_truyen>superman-up-in-the-sky</ma_truyen>
+        <tac_gia>Tom King, Andy Kubert</tac_gia>
+        <tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://comicbookroundup.com/img/covers/s/superman-up-in-the-sky/1_medium.jpg</hinh_nho>
+        <gioi_thieu>Available to comics shops for the first time! Following a home invasion that ends in murder, Superman is put on the trail of a Metropolis mystery by Batman-but can even the Man of Steel discover the truth behind these tragic deaths, or their ties to the far-off world of Rann?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/superman-up-in-the-sky-eng.xml</file_xml>
+    </truyen>
 	<truyen ten="batman: last knight on earth" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mystery, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>batman: last knight on earth</ten_truyen>
 		<ma_truyen>batman-last-knight-on-earth</ma_truyen>
@@ -359,50 +404,5 @@
         <hinh_nho>https://comicbookroundup.com/img/covers/c/criminal-(2019)/1_medium.jpg</hinh_nho>
         <gioi_thieu>THE RETURN OF THE MOST ACCLAIMED CRIME COMIC OF THE 21ST CENTURY! Hot off their bestselling series KILL OR BE KILLED and their original graphic novel MY HEROES HAVE ALWAYS BEEN JUNKIES, crime comic masters ED BRUBAKER and SEAN PHILLIPS finally return to their most-demanded title -- as a new MONTHLY SERIES! A perfect introduction to CRIMINAL and its dark, exciting world, this series will also include back page art and articles to bring readers more fully into the noir experience.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/criminal-2019-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="captain marvel (2019)" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Leading ladies, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>captain marvel (2019)</ten_truyen>
-		<ma_truyen>captain-marvel-2019</ma_truyen>
-        <tac_gia>Kelly Thompson, Carmen Carnero</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/c/captain-marvel-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ALL THE STARS ALIGN AS KELLY THOMPSON AND CARMEN CARNERO TAKE ON MARVEL'S PREMIER FEMALE SUPER HERO! As Captain Marvel, Carol Danvers has spent months in space protecting Earth from alien threats big and small, but now it's time for Earth's mightiest hero to come home. New York City has never looked so good. But every re-entry comes with the unexpected, and Carol is about to hit a whole lot of unexpected. It's a fresh start and an oversized, star-studded welcome home for a hero who's been punching the glass ceiling since the 1970s - and just in time for the first female-led film from Marvel Studios! The next 50 years of Captain Marvel starts here!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/captain-marvel-2019-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="age of x-man: the amazing nightcrawler" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>age of x-man: the amazing nightcrawler</ten_truyen>
-		<ma_truyen>age-of-x-man-the-amazing-nightcrawler</ma_truyen>
-        <tac_gia>Seanan McGuire, Juan Frigeri</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/age-of-x-man-the-amazing-nightcrawler/1_medium.jpg</hinh_nho>
-        <gioi_thieu>ENTER THE AGE OF X-MAN! From the Munich circus to Hollywood Boulevard, Nightcrawler is starring in his own solo series! Kurt Wagner is the biggest celebrity slash super hero since Dwayne Johnson! Juggling Kurt's responsibilities as one of the X-Men and a slate of summer blockbusters would be tough without the best support staff in the business: Stunt coordinator Magma! Personal trainer Kylun! And of course, his leading lady Meggan! But there's something rotten in Tinseltown...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/age-of-x-man-the-amazing-nightcrawler-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="savage sword of conan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>savage sword of conan</ten_truyen>
-		<ma_truyen>savage-sword-of-conan</ma_truyen>
-        <tac_gia>Gerry Duggan, Ron Garney</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/s/savage-sword-of-conan-(2019)/1_medium.jpg</hinh_nho>
-        <gioi_thieu>THE ANCIENT CULT OF KOGA THUN. A MYSTICAL TREASURE. AND THE ONLY MAN WHO CAN SAVE THE HYBORIAN AGE! Adrift at sea. No food. No weapons. Death surely awaits him. But the lionhearted CONAN is not so easily subdued, by Crom! When Conan finds himself captured, he unleashes his might on an unsuspecting pirate crew...one whose dark secrets will plunge Conan on the trail of an ancient treasure that may prove to be his undoing! An all-new age of SAVAGE SWORD OF CONAN begins with a five-part tale of swords and sorcery by Gerry Duggan (DEADPOOL, INFINITY WARS) and illustrated by legendary artist Ron Garney (DAREDEVIL, THOR: GOD OF THUNDER) with covers by the incomparable Alex Ross! Welcome to the deadly Hyborian Age-hope you survive the experience!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/savage-sword-of-conan-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="artifact one" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Fantasy" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>artifact one</ten_truyen>
-		<ma_truyen>artifact-one</ma_truyen>
-        <tac_gia>Vince Hernandez, J.T. Krul, Romina Moranelli</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/a/artifact-one/0_medium.jpg</hinh_nho>
-        <gioi_thieu>Introducing Remi, a young and energetic explorer and relic hunter, whose boundless curiosity leads to a startling discovery beyond anything she could have imagined! Along with her alchemist father, Remi works in secret, away from the prying eyes of the ruling clerics who lord over the realms of her world with their ancient decrees and strict devotion. Remi has her own sense of dedication - Her heart to adventure and her mind to the truth. But, what happens when that truth could change the fate of her entire planet, and destroy the very fabric of her civilization? An all-new Aspen Comics action-adventure epic debuts from the mind of creators Vince Hernandez (Michael Turner's Fathom: Kiani, Charismagic) and J.T. Krul (Michael Turner's Soulfire, Jirni) with breathtaking illustrations from newcomer Romina Moranelli!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/artifact-one-eng.xml</file_xml>
-    </truyen>
-	<truyen ten="gretel" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Mystery" nhan_kieu_truyen="Type" kieu_truyen="Comic">
-		<ten_truyen>gretel</ten_truyen>
-		<ma_truyen>gretel</ma_truyen>
-        <tac_gia>Ben Meares, Allan Otero</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://comicbookroundup.com/img/covers/g/gretel/1_medium.jpg</hinh_nho>
-        <gioi_thieu>Gretel's story has been more nightmare than fairy tale ever since the tragic events of her childhood involving her brother and a maniacal witch. These events have left her cursed with a life that will span centuries. Picking up directly after her heart-wrenching debut in Grimm Universe Presents. After consuming the heart of a psychic witch, Gretel has been gifted the power of premonition. But when she has a psychic vision foretelling the end of the world, Gretel must open old wounds if she wants to try and prevent it from coming true. Introducing a new corner of the Grimm Universe, this will be one series you won't want to miss!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/gretel-eng.xml</file_xml>
     </truyen>
 </danh_sach_truyen>
