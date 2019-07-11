@@ -198,14 +198,14 @@
         <gioi_thieu>THE CLASSIC MARVEL TEAM-UP RETURNS! After a science demonstration at Empire State University goes awry, Ms. Marvel and Spider-Man find themselves tangled up in the same chaotic adventure. Is it destiny? Or disaster?! Eve L. Ewing (IRONHEART) and Joey Vazquez (SPIDER-GEDDON) team up for the first thrilling arc of a mind-bending and magnificent new series!</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/marvel-team-up-2019-eng.xml</file_xml>
     </truyen>
-	<truyen ten="female furies" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
+	<truyen ten="female furies" tinh_trang_truyen="het" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>female furies</ten_truyen>
 		<ma_truyen>female-furies</ma_truyen>
         <tac_gia>Cecil Castellucci, Adriana Melo</tac_gia>
-        <tinh_trang>Ongoing</tinh_trang>
+        <tinh_trang>Completed</tinh_trang>
         <hinh_nho>https://comicbookroundup.com/img/covers/f/female-furies/1_medium.jpg</hinh_nho>
         <gioi_thieu>All their lives the Female Furies have been raised to be the meanest, most cunning and most ruthless fighting force on all of Apokolips. So why are Granny Goodness' girls left behind every time the men go to war? With the might of New Genesis hanging over the planet, and the Forever People making mincemeat out of Darkseid's army, Granny thinks it's about time that changed. And so, Big Barda, Aurelie, Mad Harriet, Lashina, Bernadeth and Stompa set out to beat the boys at their own game. Little do they know the game is rigged-and one accidental murder could spell disaster for them all!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/female-furies-eng.xml</file_xml>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Completed/female-furies-eng.xml</file_xml>
     </truyen>
 	<truyen ten="cosmic ghost rider destroys marvel history" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>cosmic ghost rider destroys marvel history</ten_truyen>
