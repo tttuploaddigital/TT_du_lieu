@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
 	<truyen>
+		<ten_truyen>one piece</ten_truyen>
+		<ma_truyen>one-piece</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/7299/17/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/one-piece-eng.xml</file_xml>
+		<chap_moi>chap 949</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>dr. stone</ten_truyen>
+		<ma_truyen>dr-stone</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/47716/2/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/dr-stone-eng.xml</file_xml>
+		<chap_moi>chap 114</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>enen no shouboutai</ten_truyen>
+		<ma_truyen>enen-no-shouboutai</ma_truyen>
+		<hinh_nho>https://file-thumb.mpcdn.net/35965/6/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/enen-no-shouboutai-eng.xml</file_xml>
+		<chap_moi>chap 180</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>d.gray-man</ten_truyen>
+		<ma_truyen>d-gray-man</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/2055/2/200.jpg</hinh_nho>
+		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/d-gray-man-eng.xml</file_xml>
+		<chap_moi>chap 233</chap_moi>
+	</truyen>
+	<truyen>
+		<ten_truyen>to you, the immortal</ten_truyen>
+		<ma_truyen>to-you-the-immortal</ma_truyen>
+        <hinh_nho>https://file-thumb.mpcdn.net/45063/5/200.jpg</hinh_nho>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/to-you-the-immortal-eng.xml</file_xml>
+		<chap_moi>chap 105.3</chap_moi>
+	</truyen>
+	<truyen>
 		<ten_truyen>fairy tail: 100 years quest</ten_truyen>
 		<ma_truyen>fairy-tail-100-years-quest</ma_truyen>
         <hinh_nho>https://i.imgur.com/eWNRa77.jpg</hinh_nho>
@@ -279,40 +314,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/02/fb/02fb1b35835aab64254e4a601fea87e115e426f1_32292_200_285.jpg</hinh_nho>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/waga-na-wa-umishi-eng.xml</file_xml>
 		<chap_moi>chap 136</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gintama</ten_truyen>
-		<ma_truyen>gintama</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/3096/2/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gintama-eng.xml</file_xml>
-		<chap_moi>chap 702</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>gate - jietai kare no chi nite, kaku tatakeri</ten_truyen>
-		<ma_truyen>gate-jietai-kare-no-chi-nite-kaku-tatakeri</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/2999/7/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/gate-jietai-kare-no-chi-nite-kaku-tatakeri-eng.xml</file_xml>
-		<chap_moi>chap 84</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>jujutsu kaisen</ten_truyen>
-		<ma_truyen>jujutsu-kaisen</ma_truyen>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/7f/6e/7f6e51e972778f69ba644755de7db91f8ce14e4d_40298_200_314.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/jujutsu-kaisen-eng.xml</file_xml>
-		<chap_moi>chap 58</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>akagami no shirayukihime</ten_truyen>
-		<ma_truyen>akagami-no-shirayukihime</ma_truyen>
-		<hinh_nho>https://file-thumb.mpcdn.net/464/8/200.jpg</hinh_nho>
-		<file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/akagami-no-shirayukihime-eng.xml</file_xml>
-		<chap_moi>chap 107</chap_moi>
-	</truyen>
-	<truyen>
-		<ten_truyen>zipang</ten_truyen>
-		<ma_truyen>zipang</ma_truyen>
-        <hinh_nho>https://file-thumb.mpcdn.net/11587/1/200.jpg</hinh_nho>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/zipang-eng.xml</file_xml>
-		<chap_moi>chap 122</chap_moi>
 	</truyen>
 </danh_sach_truyen>
