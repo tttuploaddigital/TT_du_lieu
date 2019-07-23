@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="ichigeki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Historical, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>ichigeki</ten_truyen>
+		<ma_truyen>ichigeki</ma_truyen>
+		<tac_gia>Nagai Yoshio, Matsumoto Jiro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/a4/88/a4889b224220b30ff2f54cc70b323fd67cbaa28f_21931_200_314.jpg</hinh_nho>
+		<gioi_thieu>A martial arts historical series about a peasant turned samurai and caught in the turmoil of the final year of the Edo Period (1868).</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ichigeki-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hyouketsu kyoukai no eden" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hyouketsu kyoukai no eden</ten_truyen>
+		<ma_truyen>hyouketsu-kyoukai-no-eden</ma_truyen>
+		<tac_gia>Sazane Kei, Kimura Yuuki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/87/30/87304c069cb8843149b5f824d28d501af33b75af_34071_200_314.jpg</hinh_nho>
+		<gioi_thieu>The floating continent Orbie Clar, a land where only The Priestess's prayer can protect them from the corrupted land below, is the only place where humans are able to survive. Yumi, a barrier priestess, was waiting for a boy who would protect her; her childhood friend, Sheltis. He was expelled from the continent as a heretic, but not before promising Yumi that he'd definitely return to her side. Since then he has climbed from the corrupted garden Eden back to Orbie Clar, but will he live up to his promise and devote himself to protecting Yumi?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hyouketsu-kyoukai-no-eden-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="code: leviathan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Fantasy, Shounen ai" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>code: leviathan</ten_truyen>
+		<ma_truyen>code-leviathan</ma_truyen>
+		<tac_gia>Inariya Fusanosuke</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/5d/54/5d54ac59bd72e06cad33892297afc7388d3862da_26633_200_314.jpg</hinh_nho>
+		<gioi_thieu>A parallel world fantasy of the kin of dragons- the curtain opens!! What exists at the ends of the earth- one day, a child of the water dragons meets...?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/code-leviathan-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kill la kill" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, School life, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kill la kill</ten_truyen>
+		<ma_truyen>kill-la-kill</ma_truyen>
+		<tac_gia>Nakashima Kazuki, Trigger, Akizuki Ryou</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/9a/ea/9aea0e2ba80479edbab630e5f6abef373705bb1c_34899_200_282.jpg</hinh_nho>
+		<gioi_thieu>Ryuuko Matoi is a girl who travels with a single red scissor blade, searching for the wielder of the other blade who killed her father. She arrives at Honouji Academy, a high school that lives in fear. It is ruled over by the fearsome student council, led by the student council president, Satsuki Kiryuuin, who use powerful uniforms to crush anyone in their path. After suffering a crushing defeat at the hands of Satsuki, Ryuuko comes accross a possessed school uniform named Senketsu, who puts himself on Ryuuko, granting her special abilities. Teaming up with Senketsu, Ryuuko stands up against Satsuki and the student council to liberate Honnouji Academy from their iron grip and find out the truth behind her father's murder.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kill-la-kill-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="34-sai mushoku-san" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>34-sai mushoku-san</ten_truyen>
+		<ma_truyen>34-sai-mushoku-san</ma_truyen>
+		<tac_gia>Ikeda Takashi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/b0/d4/b0d43b660671ef619b11ccada4ecf1810ca35b1d_16222_200_284.jpg</hinh_nho>
+		<gioi_thieu>They say that the prime of one's career happens in their mid-thirties. During that time, women plan many things and tell themselves, 'I won't let this year go by without doing anything!' And then, a 34 year-old's life begins. Hearing a new vacuum cleaner hum in the night shifts her moods as the Galactic Railroad runs in her mind... Shall we take a look at an unemployed's slow, laid-back daily life?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/34-sai-mushoku-san-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="tensei ouji wa daraketai" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Fantasy, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>tensei ouji wa daraketai</ten_truyen>
 		<ma_truyen>tensei-ouji-wa-daraketai</ma_truyen>
@@ -30,7 +75,7 @@
 	<truyen ten="aiura" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>aiura</ten_truyen>
 		<ma_truyen>aiura</ma_truyen>
-		<tac_gia>Chama uji</tac_gia>
+		<tac_gia>Chama Uji</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://file-thumb.anyacg.co/W600/56/66/5666d90e2199d7705688510a8dc032d08b21cb67_17317_200_284.jpg</hinh_nho>
 		<gioi_thieu>The story centers around Amaya, Iwasawa, and Uehara - three 'annoying, spirited high school girls with zero motivation' - and their classmates. Their daily life is 'what happens when there is nothing happening.'</gioi_thieu>
@@ -359,50 +404,5 @@
         <hinh_nho>https://file-thumb.anyacg.co/W600/80/e4/80e474346ce8f3816d7bacc0584bd69bec8c3ee4_41627_200_284.jpg</hinh_nho>
 		<gioi_thieu>It details the life of a mid-rank soldier who died at the very end of the war against the Demon Race. Fortunately for him, he wakes up to find that he's a baby again, in the embrace of his real mother, years in the past. Determined to avoid the chain of tragedies that took his beloved ones away from him, he takes advantage of the advancements in swordsmanship and magic that developed during the war (as we all know, wars are when many scientific breakthroughs tend to happen), and tries his best to prepare for the demon invasion as well as strengthen himself with maximum efficiency.</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hiraheishi-wa-kako-o-yumemiru-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="ultraman" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Mystery, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>ultraman</ten_truyen>
-		<ma_truyen>ultraman</ma_truyen>
-		<tac_gia>Shimizu Eiichi, Shimoguchi Tomohiro</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/d2/12/d212c1ab717359db1f433bc1abc27e8c8d21c8d7_26079_200_284.jpg</hinh_nho>
-		<gioi_thieu>Ages ever since the absents of the Gigantic Hero, the next generation hero who inherit the bloodlines of the legendary gigantic hero emerge. Shin Jiro, a normal high school student who's also the son of Shin Hayate(the real Ultraman) and is aware about the existence of Ultraman years ago and wanted to be a hero that save the world. He is just a normal human and had no superpowers or such. One faithful day lead him to a special high-tech suit that will turn him into a different incarnation of the legendary gigantic hero! Will he be a HERO?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ultraman-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="stravaganza - isai no hime" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Ecchi, Fantasy, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>stravaganza - isai no hime</ten_truyen>
-		<ma_truyen>stravaganza-isai-no-hime</ma_truyen>
-		<tac_gia>Tomi Akihito</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/88/68/8868ddfaeff49477685c51b375d17f23e9f3ede6_38596_200_284.jpg</hinh_nho>
-		<gioi_thieu>Humans live mostly behind safe walls, protected from the many non-human creatures outside. In this kingdom's walled capital city of Mitera lives an unusual young warrior woman known as Claria. The story begins as she takes a potentially deadly walk alone in the woods, encountering various dangerous creatures-- most notably a lizardman that treats her surprisingly kindly. But what no one knows about Claria is that she is secretly this kingdom's ruler, Queen Vivian!</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/stravaganza-isai-no-hime-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="issak" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Drama, Historical, Mature, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>issak</ten_truyen>
-		<ma_truyen>issak</ma_truyen>
-		<tac_gia>Makari Shinji, Double-s</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/d3/52/d3529053ee0da2d40fdb68f298314982b78e4c25_33880_200_283.jpg</hinh_nho>
-		<gioi_thieu>In the 17th century, the Holy Roman Empire was ravaged by the Thirty Years' War. In the middle of this chaos appeared a japanese mercenary named Isaak. His fierce battle begins.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/issak-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="higanjima" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Horror, Mature, Psychological, Seinen, Supernatural" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>higanjima</ten_truyen>
-		<ma_truyen>higanjima</ma_truyen>
-		<tac_gia>Matsumoto Kouji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/06/cc/06cc053af20c3a0dd0b2eb339fe1242e81d6195f_27651_200_284.jpg</hinh_nho>
-		<gioi_thieu>It's all about vampire hunting versus man hunting in the series. Akira's brother, Atsushi, was found missing for 2 years. And recently a mysterious woman appeared and told him that she can bring him to Higanjima (an island's name) where she saw Atsushi. But she also asked that he should brings a few more friends there...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/higanjima-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="waga na wa umishi" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Shounen., Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>waga na wa umishi</ten_truyen>
-		<ma_truyen>waga-na-wa-umishi</ma_truyen>
-		<tac_gia>Komori Yoichi, Takemura Yuuji</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/02/fb/02fb1b35835aab64254e4a601fea87e115e426f1_32292_200_285.jpg</hinh_nho>
-		<gioi_thieu>Salvors are men responsible for towing wrecked ships and handling the cargos. They are different from rescue teams as they usually ask for money before offering help. Nanba Rintarou's father was the owner of such a company, but Rintarou really hated the way they operated and decided to join the Coast Guard However, Rintarou's father died right after Rintarou completed his training. In his will he asked Rintarou to take over his company. What's worse is he left his son a debt of 1.5 billion yen...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/waga-na-wa-umishi-eng.xml</file_xml>
 	</truyen>
 </danh_sach_truyen>

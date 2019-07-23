@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <danh_sach_truyen>
+	<truyen ten="ichigeki" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Historical, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>ichigeki</ten_truyen>
+		<ma_truyen>ichigeki</ma_truyen>
+		<tac_gia>Nagai Yoshio, Matsumoto Jiro</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/a4/88/a4889b224220b30ff2f54cc70b323fd67cbaa28f_21931_200_314.jpg</hinh_nho>
+		<gioi_thieu>A martial arts historical series about a peasant turned samurai and caught in the turmoil of the final year of the Edo Period (1868).</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/ichigeki-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="hyouketsu kyoukai no eden" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Fantasy, Romance, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>hyouketsu kyoukai no eden</ten_truyen>
+		<ma_truyen>hyouketsu-kyoukai-no-eden</ma_truyen>
+		<tac_gia>Sazane Kei, Kimura Yuuki</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/87/30/87304c069cb8843149b5f824d28d501af33b75af_34071_200_314.jpg</hinh_nho>
+		<gioi_thieu>The floating continent Orbie Clar, a land where only The Priestess's prayer can protect them from the corrupted land below, is the only place where humans are able to survive. Yumi, a barrier priestess, was waiting for a boy who would protect her; her childhood friend, Sheltis. He was expelled from the continent as a heretic, but not before promising Yumi that he'd definitely return to her side. Since then he has climbed from the corrupted garden Eden back to Orbie Clar, but will he live up to his promise and devote himself to protecting Yumi?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/hyouketsu-kyoukai-no-eden-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="code: leviathan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Drama, Fantasy, Shounen ai" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>code: leviathan</ten_truyen>
+		<ma_truyen>code-leviathan</ma_truyen>
+		<tac_gia>Inariya Fusanosuke</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/5d/54/5d54ac59bd72e06cad33892297afc7388d3862da_26633_200_314.jpg</hinh_nho>
+		<gioi_thieu>A parallel world fantasy of the kin of dragons- the curtain opens!! What exists at the ends of the earth- one day, a child of the water dragons meets...?!</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/code-leviathan-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="kill la kill" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Comedy, Drama, Ecchi, School life, Sci-fi, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>kill la kill</ten_truyen>
+		<ma_truyen>kill-la-kill</ma_truyen>
+		<tac_gia>Nakashima Kazuki, Trigger, Akizuki Ryou</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/9a/ea/9aea0e2ba80479edbab630e5f6abef373705bb1c_34899_200_282.jpg</hinh_nho>
+		<gioi_thieu>Ryuuko Matoi is a girl who travels with a single red scissor blade, searching for the wielder of the other blade who killed her father. She arrives at Honouji Academy, a high school that lives in fear. It is ruled over by the fearsome student council, led by the student council president, Satsuki Kiryuuin, who use powerful uniforms to crush anyone in their path. After suffering a crushing defeat at the hands of Satsuki, Ryuuko comes accross a possessed school uniform named Senketsu, who puts himself on Ryuuko, granting her special abilities. Teaming up with Senketsu, Ryuuko stands up against Satsuki and the student council to liberate Honnouji Academy from their iron grip and find out the truth behind her father's murder.</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/kill-la-kill-eng.xml</file_xml>
+	</truyen>
+	<truyen ten="34-sai mushoku-san" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
+		<ten_truyen>34-sai mushoku-san</ten_truyen>
+		<ma_truyen>34-sai-mushoku-san</ma_truyen>
+		<tac_gia>Ikeda Takashi</tac_gia>
+		<tinh_trang>Ongoing</tinh_trang>
+        <hinh_nho>https://file-thumb.anyacg.co/W600/b0/d4/b0d43b660671ef619b11ccada4ecf1810ca35b1d_16222_200_284.jpg</hinh_nho>
+		<gioi_thieu>They say that the prime of one's career happens in their mid-thirties. During that time, women plan many things and tell themselves, 'I won't let this year go by without doing anything!' And then, a 34 year-old's life begins. Hearing a new vacuum cleaner hum in the night shifts her moods as the Galactic Railroad runs in her mind... Shall we take a look at an unemployed's slow, laid-back daily life?</gioi_thieu>
+        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/34-sai-mushoku-san-eng.xml</file_xml>
+	</truyen>
 	<truyen ten="event leviathan" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Action, Adventure, Superhero" nhan_kieu_truyen="Type" kieu_truyen="Comic">
 		<ten_truyen>event leviathan</ten_truyen>
 		<ma_truyen>event-leviathan</ma_truyen>
@@ -75,7 +120,7 @@
 	<truyen ten="aiura" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, School life, Shounen." nhan_kieu_truyen="Type" kieu_truyen="Manga">
 		<ten_truyen>aiura</ten_truyen>
 		<ma_truyen>aiura</ma_truyen>
-		<tac_gia>Chama uji</tac_gia>
+		<tac_gia>Chama Uji</tac_gia>
 		<tinh_trang>Ongoing</tinh_trang>
         <hinh_nho>https://file-thumb.anyacg.co/W600/56/66/5666d90e2199d7705688510a8dc032d08b21cb67_17317_200_284.jpg</hinh_nho>
 		<gioi_thieu>The story centers around Amaya, Iwasawa, and Uehara - three 'annoying, spirited high school girls with zero motivation' - and their classmates. Their daily life is 'what happens when there is nothing happening.'</gioi_thieu>
@@ -360,49 +405,4 @@
         <gioi_thieu>Heavy Metal's iconic warrior debuts in her pulse-pounding new series! A city besieged by demons seeks salvation when a hero from forgotten legends mysteriously arrives...</gioi_thieu>
         <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Comic_Ongoing/taarna-eng.xml</file_xml>
     </truyen>
-	<truyen ten="/blush-dc." tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adult, Drama, Ecchi, Mature, Romance, Seinen, Smut" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>/blush-dc.</ten_truyen>
-		<ma_truyen>blush-dc</ma_truyen>
-		<tac_gia>Miyazaki Maya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/71/56/71561fd317cd0f50a26bebde88c45a49cd3762ed_37567_200_285.jpg</hinh_nho>
-		<gioi_thieu>Akiyoshi Wataru is your average student. He attends cram school, hangs out with his friends and does what boys his age do: Go after girls. One day a particular girl, Iwashita Ayane, catches his attention in cram school, because of her red fingernail. Later in town he sees a familiar girl and follows her. But the girl enters an image club. A brothel that specializes on cosplay. What's more, one of the girls working there goes by the name of 'Ayane'. What does that mean? And what will Wataru do?</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/blush-dc-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="strike or gutter" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Ecchi, Seinen, Slice of life, Sports" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>strike or gutter</ten_truyen>
-		<ma_truyen>strike-or-gutter</ma_truyen>
-		<tac_gia>Ando Yuu</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/61/da/61da80bc5dad9b8e464a6938eb1e41db60710d48_23863_200_282.jpg</hinh_nho>
-		<gioi_thieu>Touka is an ordinary high school girl who loves bowling. Her father runs a bowling alley, she has a crush on her former coach, and she is a pro at the game. The only issue is that if anybody watches her bowl, she becomes extremely conscientious of her body and plays poorly. To ensure this doesn't happen, Touka's best friend tries to help her overcome her shyness while bowling.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/strike-or-gutter-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="rakujitsu no pathos" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Drama, Mature, Romance, Seinen" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>rakujitsu no pathos</ten_truyen>
-		<ma_truyen>rakujitsu-no-pathos</ma_truyen>
-		<tac_gia>Tsuyatsuya</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/46/e5/46e586b939761143b39275a978367387b4c8eeff_21418_200_314.jpg</hinh_nho>
-		<gioi_thieu>What happens when next door to Fujiwara, an upcoming mangaka, moves Yuuki, who was his teacher back at high-school and first crush? Yuuki, a married woman now is starting a new life in the city but her husband is always away on business so she finds comfort in the company of her former student but what she doesn't realise is that Fujiwara can listen to everything happening in her apartment through the building's thin walls...</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/rakujitsu-no-pathos-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="neko no otera no chion-san" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Comedy, Romance, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>neko no otera no chion-san</ten_truyen>
-		<ma_truyen>neko-no-otera-no-chion-san</ma_truyen>
-		<tac_gia>Ojiro Makoto</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/b8/72/b872f48ec14f085d07a19aa08ef9672897844cef_41273_200_282.jpg</hinh_nho>
-		<gioi_thieu>Looking for peace, Gen decided to attend high school somewhere far from his home, in another prefecture, where his distant relatives run the local temple, which will become Gen's new home and the start of his new life shared with his older female cousin, Chion.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/neko-no-otera-no-chion-san-eng.xml</file_xml>
-	</truyen>
-	<truyen ten="somali to mori no kami-sama" tinh_trang_truyen="con" nhan_the_loai="Genre(s)" nhan_tinh_trang="Status" nhan_tac_gia="Author(s)" nhan_gioi_thieu="Summary" the_loai="Adventure, Drama, Fantasy, Seinen, Slice of life" nhan_kieu_truyen="Type" kieu_truyen="Manga">
-		<ten_truyen>somali to mori no kami-sama</ten_truyen>
-		<ma_truyen>somali-to-mori-no-kami-sama</ma_truyen>
-		<tac_gia>Gureishi Yako</tac_gia>
-		<tinh_trang>Ongoing</tinh_trang>
-        <hinh_nho>https://file-thumb.anyacg.co/W600/d9/5c/d95c7b59e5c9f52341c1a70018b68db6c331be81_40960_200_284.jpg</hinh_nho>
-		<gioi_thieu>The world is ruled by spirits, goblins and all manner of strange creatures. Human beings are persecuted, to the very point of extinction. One day, a golem and a lone human girl meet. This is a record of the pair; one a member of a ruined race, the other a watchman of the forest. It tells of their travels together, and of the bond between father and daughter.</gioi_thieu>
-        <file_xml>https://raw.githubusercontent.com/tttuploaddigital/TT_du_lieu/master/Manga_Ongoing/somali-to-mori-no-kami-sama-eng.xml</file_xml>
-	</truyen>
 </danh_sach_truyen>
